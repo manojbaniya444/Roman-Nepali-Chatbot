@@ -1,0 +1,1501 @@
+id,question,answer,intent
+1,order kasari garne?,kunei product lai add to cart garera checkout maa jane ani payment option select garera order garne.,order
+2,product order process kasto cha?,"product page maa gayera 'Add to Cart' button maa click garera checkout maa jane, address ra payment details fill garepachi order complete hunchha.",order
+3,online order kasari thapne?,account maa login garera chahine product select garepachi add to cart maa click garera checkout garne.,order
+4,product kasari kinne?,"product select garera add to cart maa rakhne, ani checkout maa gayera payment garne.",order
+5,kasari order garna milcha?,"tapai le product select garera cart maa add garnuhos, ani checkout maa gayera address ra payment details bharera order garna saknuhuncha.",order
+6,online shopping kasari garne?,"online shopping garna, pahila product select garera add to cart garne, ani checkout maa gayera payment complete garera order confirm garne.",order
+7,checkout kasari garne?,"checkout garna, add to cart gareko product checkout page maa gayera address ra payment details bharera proceed garne.",order
+8,add to cart garepachi kei garne?,"add to cart garepachi, checkout page maa gayera address ra payment details bharera order complete garne.",order
+9,cart maa rakhne bhandaa pachi ke garne?,"cart maa rakhne bhandaa pachi, checkout button maa click garera address ra payment details bharera order garne.",order
+10,order kasari thapne?,"pahila product select garera add to cart maa rakhne, ani checkout maa gayera order thapne.",order
+11,website bata kasari order garne?,"website bata order garna, pahila product select garera add to cart garne ani checkout maa gayera order complete garne.",order
+12,order confirm kasari huncha?,order confirm garna checkout page maa gayera address ra payment details bharera place order button maa click garne.,order
+13,product checkout kasari garne?,"product checkout garna, add to cart garepachi checkout page maa gayera address ra payment details bharera checkout garne.",order
+14,order process kasari cha?,"order process ma pahila product select garera add to cart garne, ani checkout maa gayera address ra payment details bharera order complete garne.",order
+15,order complete kasari garne?,order complete garna checkout page maa gayera address ra payment details bharera place order button maa click garne.,order
+16,online order kasari thapchhu?,"online order thapna, product select garera add to cart maa click garne, ani checkout maa gayera order thapne.",order
+17,product order kasari garne?,"product order garna, product detail page maa gayera add to cart maa click garne ani checkout maa gayera order garne.",order
+18,checkout process kasari huncha?,checkout process ma add to cart gareko product checkout page maa gayera address ra payment details bharera proceed to checkout button maa click garne.,order
+19,online shopping kasari thapne?,"online shopping thapna, pahila product select garera add to cart maa click garne, ani checkout maa gayera payment complete garera order confirm garne.",order
+20,add to cart garepachi checkout kasari garne?,"add to cart garepachi, checkout page maa gayera address ra payment details bharera checkout garne.",order
+21,product select garepachi kasari order garne?,"product select garepachi, add to cart garera checkout page maa gayera address ra payment details bharera order garne.",order
+22,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+23,online shopping kasari suru garne?,"online shopping suru garna, product browse garera add to cart maa rakhne, ani checkout maa gayera payment garera order complete garne.",order
+24,order confirmation ko process kasto cha?,order confirmation ko process maa checkout page maa address ra payment details bharera place order button maa click garne parcha.,order
+25,order place kasari garne?,"order place garna, pahila product add to cart garera checkout maa gayera payment complete garera order place garne.",order
+26,product order process kasari huncha?,"product order process maa, product add to cart garera checkout maa gayera address ra payment details bharera order complete huncha.",order
+27,online shopping ko process kasari huncha?,"online shopping ko process maa product select garera add to cart garne, checkout maa gayera address ra payment details bharera order confirm garne.",order
+28,order page kasari janey?,"order page janey, add to cart garepachi checkout option maa click garera jane.",order
+29,product order kasari thapchhu?,"product order thapna, product detail page maa gayera add to cart garera checkout maa gayera payment details bharera order complete garne.",order
+30,add to cart garepachi ke garne?,"add to cart garepachi, checkout page maa gayera address ra payment details bharera order complete garne.",order
+31,checkout page kasari janey?,"checkout page janey, cart maa rakhiyeko product checkout option maa click garera jane.",order
+32,order garna ko lagi ki garne?,"order garna ko lagi, product lai add to cart garera checkout page maa gayera address ra payment details bharera order garne.",order
+33,checkout kasari complete garne?,"checkout complete garna, checkout page maa address ra payment details bharera proceed button maa click garne.",order
+34,product order garna kasari suru garne?,"product order garna suru garna, product select garera add to cart maa click garne ani checkout maa gayera payment garne.",order
+35,order confirm huncha ki hunna?,"order confirm huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+36,product order kasari thapchha?,"product order thapna, product detail page maa gayera add to cart maa click garne ani checkout maa gayera order complete garne.",order
+37,order ko lagi checkout kasari garne?,"order ko lagi checkout garna, checkout page maa gayera address ra payment details bharera proceed button maa click garne.",order
+38,order ko process kasari huncha?,"order ko process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete huncha.",order
+39,online order confirm kasari garne?,"online order confirm garna, checkout page maa gayera address ra payment details bharera place order button maa click garne.",order
+40,product checkout ko process kasari cha?,"product checkout ko process maa, product add to cart garepachi checkout page maa gayera address ra payment details bharera checkout garne.",order
+41,online order process kasari cha?,"online order process maa, product select garera add to cart garne, checkout maa gayera address ra payment details bharera order complete garne.",order
+42,checkout garna ko lagi ki garne?,"checkout garna ko lagi, cart maa product rakhera checkout page maa gayera address ra payment details bharera proceed garne.",order
+43,online order confirm kasari hunchha?,online order confirm hunchha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+44,online shopping kasari garne?,"online shopping garna, pahila product select garera add to cart maa rakhne, ani checkout maa gayera payment garera order complete garne.",order
+45,product order process kasari huncha?,"product order process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete garne.",order
+46,order confirm kasari garne?,"order confirm garna, checkout page maa address ra payment details bharera place order button maa click garne.",order
+47,online shopping ko lagi ki garne?,"online shopping ko lagi, pahila product select garera add to cart maa rakhne ani checkout maa gayera order garne.",order
+48,order kasari place garne?,"order place garna, product add to cart garepachi checkout page maa gayera address ra payment details bharera place order button maa click garne.",order
+49,online order ko process kasari cha?,"online order ko process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete garne.",order
+50,order place kasari garne?,"order place garna, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order confirm garne.",order
+51,online shopping kasari start garne?,"online shopping start garna, product browse garera add to cart maa rakhne ani checkout maa gayera payment garera order complete garne.",order
+52,order confirm kasari huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+53,product order kasari garne?,"product order garna, product detail page maa gayera add to cart maa click garera checkout page maa gayera payment garne.",order
+54,online shopping ko process kasari cha?,"online shopping ko process maa product select garera add to cart garne, checkout maa gayera address ra payment details bharera order confirm garne.",order
+55,order garna ko lagi checkout kasari garne?,"order garna ko lagi checkout garna, cart maa rakhiyeko product checkout page maa gayera address ra payment details bharera proceed garne.",order
+56,checkout page kasari janey?,"checkout page janey, add to cart gareko product checkout option maa click garera jane.",order
+57,order kasari confirm garne?,"order confirm garna, checkout page maa address ra payment details bharera place order button maa click garne.",order
+58,online order process kasari huncha?,"online order process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete garne.",order
+59,order complete kasari garne?,"order complete garna, checkout page maa address ra payment details bharera proceed button maa click garne.",order
+60,online shopping kasari start garne?,"online shopping start garna, product browse garera add to cart maa rakhne ani checkout maa gayera payment garera order complete garne.",order
+61,product order process kasari huncha?,"product order process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete garne.",order
+62,online order confirm kasari garne?,"online order confirm garna, checkout page maa gayera address ra payment details bharera place order button maa click garne.",order
+63,order kasari place garne?,"order place garna, product add to cart garepachi checkout page maa gayera address ra payment details bharera place order button maa click garne.",order
+64,online shopping ko lagi ki garne?,"online shopping ko lagi, pahila product select garera add to cart maa rakhne ani checkout maa gayera order garne.",order
+65,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+66,product order kasari thapchhu?,"product order thapna, product detail page maa gayera add to cart maa click garera checkout maa gayera payment details bharera order complete garne.",order
+67,order page kasari janey?,"order page janey, add to cart garepachi checkout option maa click garera jane.",order
+68,online order confirm kasari huncha?,online order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+69,order garna ko lagi ki garne?,"order garna ko lagi, product lai add to cart garera checkout page maa gayera address ra payment details bharera order garne.",order
+70,product order kasari garne?,"product order garna, product detail page maa gayera add to cart maa click garera checkout page maa gayera payment garne.",order
+71,order process kasari cha?,"order process maa pahila product select garera add to cart garne, ani checkout maa gayera address ra payment details bharera order complete garne.",order
+72,checkout page kasari janey?,"checkout page janey, cart maa rakhiyeko product checkout option maa click garera jane.",order
+73,online order process kasari huncha?,"online order process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete garne.",order
+74,order confirm kasari garne?,"order confirm garna, checkout page maa address ra payment details bharera place order button maa click garne.",order
+75,online shopping ko process kasari huncha?,"online shopping ko process maa product select garera add to cart garne, checkout maa gayera address ra payment details bharera order confirm garne.",order
+76,product order process kasari huncha?,"product order process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete garne.",order
+77,checkout kasari complete garne?,"checkout complete garna, checkout page maa address ra payment details bharera proceed button maa click garne.",order
+78,order complete kasari garne?,order complete garna checkout page maa address ra payment details bharera place order button maa click garne.,order
+79,online order ko process kasari cha?,"online order ko process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete garne.",order
+80,order garna ko lagi checkout kasari garne?,"order garna ko lagi checkout garna, cart maa rakhiyeko product checkout page maa gayera address ra payment details bharera proceed garne.",order
+81,online shopping kasari garne?,"online shopping garna, pahila product select garera add to cart maa rakhne, ani checkout maa gayera payment garera order complete garne.",order
+82,product order kasari thapchha?,"product order thapna, product detail page maa gayera add to cart maa click garne ani checkout maa gayera order complete garne.",order
+83,order kasari place garne?,"order place garna, product add to cart garepachi checkout page maa gayera address ra payment details bharera place order button maa click garne.",order
+84,online order confirm kasari garne?,"online order confirm garna, checkout page maa gayera address ra payment details bharera place order button maa click garne.",order
+85,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+86,product checkout ko process kasari cha?,"product checkout ko process maa, product add to cart garepachi checkout page maa gayera address ra payment details bharera checkout garne.",order
+87,order page kasari janey?,"order page janey, add to cart garepachi checkout option maa click garera jane.",order
+88,product order kasari garne?,"product order garna, product detail page maa gayera add to cart maa click garera checkout page maa gayera payment garne.",order
+89,order ko lagi checkout kasari garne?,"order ko lagi checkout garna, checkout page maa gayera address ra payment details bharera proceed to checkout button maa click garne.",order
+90,product order process kasari huncha?,"product order process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete garne.",order
+91,order confirm huncha ki hunna?,"order confirm huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+92,online shopping ko lagi ki garne?,"online shopping ko lagi, pahila product select garera add to cart maa rakhne ani checkout maa gayera order garne.",order
+93,online order process kasari huncha?,"online order process maa, product select garera add to cart garne ani checkout maa gayera address ra payment details bharera order complete garne.",order
+94,order kasari confirm garne?,"order confirm garna, checkout page maa address ra payment details bharera place order button maa click garne.",order
+95,checkout kasari complete garne?,"checkout complete garna, checkout page maa address ra payment details bharera proceed button maa click garne.",order
+96,order complete kasari garne?,"order complete garna, checkout page maa address ra payment details bharera place order button maa click garne.",order
+97,order kasari place garne?,"order place garna, product add to cart garepachi checkout page maa gayera address ra payment details bharera place order button maa click garne.",order
+98,online shopping kasari start garne?,"online shopping start garna, product browse garera add to cart maa rakhne ani checkout maa gayera payment garera order complete garne.",order
+99,order confirm kasari huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+100,product order kasari thapchhu?,"product order thapna, product detail page maa gayera add to cart maa click garera checkout maa gayera payment details bharera order complete garne.",order
+101,product order garne tarika bataunu hos na?,"product order garne tarika, pahila product lai add to cart garne ani checkout maa gayera address ra payment details bharera order garne.",order
+102,order confirmation email kasari aauxa?,"order confirmation email, checkout maa order place garepachi register gareko email maa aauxa.",order
+103,order kasari cancel garne?,"order cancel garna, order history maa gayera cancel order button maa click garne.",order
+104,order confirmation text kasari aauxa?,"order confirmation text, checkout maa order place garepachi register gareko mobile number maa aauxa.",order
+105,order kasari track garne?,"order track garna, order history maa gayera track order button maa click garne.",order
+106,order garna kunei specific time cha?,"order garna specific time chaina, 24/7 online order garna saknuhunchha.",order
+107,order kasari update garne?,"order update garna, order history maa gayera edit order button maa click garne.",order
+108,order kasari view garne?,"order view garna, order history maa gayera view order details button maa click garne.",order
+109,order kasari repeat garne?,"order repeat garna, order history maa gayera repeat order button maa click garne.",order
+110,kunei offer cha order garna?,"offer cha ki chaina herna ko lagi, website ko offer section check garnu hos.",order
+111,order garna payment options k k cha?,"payment options maa credit card, debit card, net banking, ra cash on delivery cha.",order
+112,order kasari modify garne?,"order modify garna, order history maa gayera modify order button maa click garne.",order
+113,product lai wishlist maa kasari add garne?,"product lai wishlist maa add garna, product detail page maa gayera add to wishlist button maa click garne.",order
+114,order kasari confirm garne?,"order confirm garna, checkout page maa address ra payment details bharera place order button maa click garne.",order
+115,order garna coupon kasari apply garne?,"order garna coupon apply garna, checkout page maa coupon code section maa coupon code type garera apply button maa click garne.",order
+116,order kasari verify garne?,"order verify garna, checkout page maa address ra payment details verify garera place order button maa click garne.",order
+117,order kasari process huncha?,"order process huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+118,order ko confirmation email kasari aauxa?,"order ko confirmation email, checkout maa order place garepachi register gareko email maa aauxa.",order
+119,order kasari cancel garna sakinchha?,"order cancel garna sakinchha, order history maa gayera cancel order button maa click garera.",order
+120,order status kasari check garne?,"order status check garna, order history maa gayera order status button maa click garne.",order
+121,order confirm hunchha ki hunna?,order confirm hunchha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+122,order kasari suru garne?,"order suru garna, pahila product select garera add to cart garne ani checkout maa gayera payment garera order complete garne.",order
+123,order kasari manage garne?,"order manage garna, order history maa gayera order details edit garne, cancel garne ya track garne.",order
+124,order update huncha ki hunna?,"order update huncha, order history maa gayera modify order button maa click garepachi.",order
+125,order process kasari start garne?,"order process start garna, product select garera add to cart maa rakhne ani checkout maa gayera payment garera order complete garne.",order
+126,product kasari order garne?,"product order garna, product detail page maa gayera add to cart maa click garera checkout page maa gayera payment garne.",order
+127,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+128,product order kasari thapne?,"product order thapna, product detail page maa gayera add to cart maa click garera checkout maa gayera payment details bharera order complete garne.",order
+129,order page kasari pauxa?,"order page janey, add to cart garepachi checkout option maa click garera jane.",order
+130,order garna ko lagi ki garne?,"order garna ko lagi, product lai add to cart garera checkout page maa gayera address ra payment details bharera order garne.",order
+131,checkout kasari complete garne?,"checkout complete garna, checkout page maa address ra payment details bharera proceed button maa click garne.",order
+132,order suru kasari garne?,"order suru garna, product select garera add to cart maa click garne ani checkout maa gayera payment garne.",order
+133,order confirm hunchha ki?,"order confirm hunchha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+134,product order kasari thapchha?,"product order thapna, product detail page maa gayera add to cart maa click garne ani checkout maa gayera order complete garne.",order
+135,order ko lagi checkout kasari garne?,"order ko lagi checkout garna, checkout page maa gayera address ra payment details bharera proceed button maa click garne.",order
+136,order kasari huncha?,"order huncha, product add to cart garera checkout maa gayera address ra payment details bharera order complete garepachi.",order
+137,online order confirm kasari hunchha?,online order confirm hunchha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+138,order kasari process garne?,"order process garna, product add to cart garera checkout maa gayera address ra payment details bharera order complete garne.",order
+139,online order kasari confirm garne?,"online order confirm garna, checkout page maa gayera address ra payment details bharera place order button maa click garne.",order
+140,order process huncha ki?,"order process huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+141,order kasari confirm garna sakinchha?,"order confirm garna sakinchha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+142,order garna ko lagi checkout kasari garne?,"order garna ko lagi checkout garna, cart maa rakhiyeko product checkout page maa gayera address ra payment details bharera proceed garne.",order
+143,product order kasari garne?,"product order garna, product detail page maa gayera add to cart maa click garera checkout page maa gayera payment garne.",order
+144,order ko lagi payment kasari garne?,"order ko lagi payment garna, checkout page maa gayera address ra payment details bharera proceed button maa click garne.",order
+145,order process kasari cha?,"order process maa pahila product select garera add to cart garne, ani checkout maa gayera address ra payment details bharera order complete garne.",order
+146,checkout kasari janey?,"checkout page janey, cart maa rakhiyeko product checkout option maa click garera jane.",order
+147,order kasari garne?,"order garna, product add to cart garera checkout maa gayera address ra payment details bharera order complete garne.",order
+148,order confirm huncha ki hunna?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+149,order kasari repeat garne?,"order repeat garna, order history maa gayera repeat order button maa click garne.",order
+150,order kasari cancel garne?,"order cancel garna, order history maa gayera cancel order button maa click garne.",order
+151,order kasari view garne?,"order view garna, order history maa gayera view order details button maa click garne.",order
+152,order kasari update garne?,"order update garna, order history maa gayera edit order button maa click garne.",order
+153,order kasari track garne?,"order track garna, order history maa gayera track order button maa click garne.",order
+154,order confirmation email kasari aauxa?,"order confirmation email, checkout maa order place garepachi register gareko email maa aauxa.",order
+155,order confirmation text kasari aauxa?,"order confirmation text, checkout maa order place garepachi register gareko mobile number maa aauxa.",order
+156,order garna payment options k k cha?,"payment options maa credit card, debit card, net banking, ra cash on delivery cha.",order
+157,order ko lagi coupon kasari apply garne?,"order ko lagi coupon apply garna, checkout page maa coupon code section maa coupon code type garera apply button maa click garne.",order
+158,order kasari verify garne?,"order verify garna, checkout page maa address ra payment details verify garera place order button maa click garne.",order
+159,order confirm kasari huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+160,order garna specific time cha?,"order garna specific time chaina, 24/7 online order garna saknuhunchha.",order
+161,order kasari update huncha?,"order update huncha, order history maa gayera modify order button maa click garepachi.",order
+162,order kasari manage garne?,"order manage garna, order history maa gayera order details edit garne, cancel garne ya track garne.",order
+163,product kasari order garne?,"product order garna, product detail page maa gayera add to cart maa click garera checkout page maa gayera payment garne.",order
+164,order ko lagi checkout kasari garne?,"order ko lagi checkout garna, checkout page maa gayera address ra payment details bharera proceed button maa click garne.",order
+165,order confirm huncha ki?,"order confirm huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+166,order confirm garna kasari huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+167,order kasari process huncha?,"order process huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+168,order garna specific time cha?,"order garna specific time chaina, 24/7 online order garna saknuhunchha.",order
+169,order kasari update garne?,"order update garna, order history maa gayera edit order button maa click garne.",order
+170,order confirm hunchha ki?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+171,product order kasari thapchha?,"product order thapna, product detail page maa gayera add to cart maa click garne ani checkout maa gayera order complete garne.",order
+172,order page kasari pauxa?,"order page janey, add to cart garepachi checkout option maa click garera jane.",order
+173,order ko lagi checkout kasari garne?,"order ko lagi checkout garna, cart maa rakhiyeko product checkout page maa gayera address ra payment details bharera proceed garne.",order
+174,order garna ko lagi ki garne?,"order garna ko lagi, product lai add to cart garera checkout page maa gayera address ra payment details bharera order garne.",order
+175,order confirm kasari huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+176,order kasari process garne?,"order process garna, product add to cart garera checkout maa gayera address ra payment details bharera order complete garne.",order
+177,order confirm huncha ki hunna?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+178,order ko confirmation email kasari aauxa?,"order ko confirmation email, checkout maa order place garepachi register gareko email maa aauxa.",order
+179,order ko lagi coupon kasari apply garne?,"order ko lagi coupon apply garna, checkout page maa coupon code section maa coupon code type garera apply button maa click garne.",order
+180,order kasari verify garne?,"order verify garna, checkout page maa address ra payment details verify garera place order button maa click garne.",order
+181,order confirm hunchha ki hunna?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+182,order kasari manage garne?,"order manage garna, order history maa gayera order details edit garne, cancel garne ya track garne.",order
+183,order confirm huncha ki?,"order confirm huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+184,order kasari process huncha?,"order process huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+185,order garna specific time cha?,"order garna specific time chaina, 24/7 online order garna saknuhunchha.",order
+186,order kasari update huncha?,"order update huncha, order history maa gayera modify order button maa click garepachi.",order
+187,order kasari cancel garne?,"order cancel garna, order history maa gayera cancel order button maa click garne.",order
+188,order confirm kasari huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+189,order kasari repeat garne?,"order repeat garna, order history maa gayera repeat order button maa click garne.",order
+190,order kasari view garne?,"order view garna, order history maa gayera view order details button maa click garne.",order
+191,order confirmation email kasari aauxa?,"order confirmation email, checkout maa order place garepachi register gareko email maa aauxa.",order
+192,order confirmation text kasari aauxa?,"order confirmation text, checkout maa order place garepachi register gareko mobile number maa aauxa.",order
+193,order garna payment options k k cha?,"payment options maa credit card, debit card, net banking, ra cash on delivery cha.",order
+194,order ko lagi coupon kasari apply garne?,"order ko lagi coupon apply garna, checkout page maa coupon code section maa coupon code type garera apply button maa click garne.",order
+195,order kasari verify garne?,"order verify garna, checkout page maa address ra payment details verify garera place order button maa click garne.",order
+196,order kasari manage garne?,"order manage garna, order history maa gayera order details edit garne, cancel garne ya track garne.",order
+197,order confirm huncha ki?,"order confirm huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+198,order kasari process garne?,"order process garna, product add to cart garera checkout maa gayera address ra payment details bharera order complete garne.",order
+199,order confirm huncha ki hunna?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+200,order kasari track garne?,"order track garna, order history maa gayera track order button maa click garne.",order
+201,order ko lagi kasari proceed garne?,"order ko lagi proceed garna, product lai add to cart garera checkout page maa gayera payment garne.",order
+202,order ko confirmation kasari aauxa?,"order ko confirmation email ya text ma aauxa, checkout page maa order place garepachi.",order
+203,order garna lai k k details chahincha?,"order garna lai address, contact number, ra payment details chahincha.",order
+204,product order kasari confirm garne?,product order confirm garna checkout page maa address ra payment details bharera place order button maa click garne.,order
+205,order ko lagi payment options kasari choose garne?,order ko lagi payment options choose garna checkout page maa available payment methods bata select garne.,order
+206,product order kasari suru garne?,"product order suru garna, product page maa gayera add to cart garne ani checkout maa gayera payment garera order complete garne.",order
+207,order garna coupon code kasari use garne?,order garna coupon code use garna checkout page maa coupon code section maa code type garera apply button maa click garne.,order
+208,order kasari paxi confirm garne?,"order paxi confirm garna, order history maa gayera confirm order button maa click garne.",order
+209,order ko lagi address kasari add garne?,"order ko lagi address add garna, checkout page maa new address option maa click garera details bharne.",order
+210,order garna kasto internet connection chahincha?,order garna reliable ra fast internet connection chahincha.,order
+211,order confirmation kasari dekhcha?,order confirmation checkout garepachi email ya text message maa aauxa.,order
+212,order garna lai kya cheej chahincha?,"order garna lai address, contact number, ra payment method chahincha.",order
+213,product order kasari process garne?,"product order process garna, product select garera add to cart maa click garne, ani checkout page maa gayera payment garne.",order
+214,order kasari sure hunchha?,order sure hunchha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+215,order garna k k information chahincha?,"order garna address, contact number, ra payment information chahincha.",order
+216,product order kasari thik cha bhanera confirm garne?,product order thik cha bhanera confirm garna checkout page maa details verify garera place order button maa click garne.,order
+217,order ko confirmation kasari paune?,order ko confirmation checkout page maa order place garepachi email ra text message maa aauxa.,order
+218,order kasari place garne?,order place garna checkout page maa address ra payment details bharera place order button maa click garne.,order
+219,order garna contact number chahincha ki?,"ho, order garna contact number chahincha.",order
+220,order ko confirmation paune tarika k ho?,order ko confirmation email ra text message maa pauna sakinchha checkout garepachi.,order
+221,order garna lai k k details bharna parchha?,"order garna lai address, contact number, ra payment details bharna parchha.",order
+222,order kasari confirm garna sakinchha?,order confirm garna checkout page maa address ra payment details bharera place order button maa click garne.,order
+223,order confirmation email maa k k hunchha?,"order confirmation email maa order number, order details, delivery address, ra estimated delivery date hunchha.",order
+224,order garna address kasari add garne?,"order garna address add garna, checkout page maa new address option maa click garera details bharne.",order
+225,order kasari verify garna sakinchha?,order verify garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+226,order garna internet connection kasari hunu parchha?,order garna reliable ra fast internet connection hunu parchha.,order
+227,product order kasari hunchha?,"product order hunchha product select garera add to cart garne, ani checkout page maa gayera payment garera order complete garne.",order
+228,order ko confirmation kasari aauxa?,order ko confirmation email ra text message maa aauxa checkout garepachi.,order
+229,order garna ki garnu parchha?,order garna product add to cart garera checkout maa gayera address ra payment details bharera place order button maa click garnu parchha.,order
+230,order kasari suru hunchha?,order suru hunchha product select garera add to cart garera checkout maa gayera payment garera order complete garepachi.,order
+231,order ko confirmation kasari huncha?,order ko confirmation email ra text message maa huncha checkout garepachi.,order
+232,order kasari process garne?,order process garna product add to cart garera checkout page maa gayera address ra payment details bharera place order button maa click garne.,order
+233,order garna lai k k chahincha?,"order garna lai address, contact number, ra payment details chahincha.",order
+234,product order kasari confirm garne?,product order confirm garna checkout page maa address ra payment details bharera place order button maa click garne.,order
+235,order garna lai contact number chahincha ki?,"ho, order garna lai contact number chahincha.",order
+236,order kasari confirm hunchha?,order confirm hunchha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+237,order garna ke garnu parchha?,order garna product lai add to cart garera checkout page maa gayera address ra payment details bharera place order button maa click garnu parchha.,order
+238,order ko confirmation email maa k k hunchha?,"order ko confirmation email maa order number, order details, delivery address, ra estimated delivery date hunchha.",order
+239,order garna kasari proceed garne?,"order garna proceed garna, product lai add to cart garera checkout page maa gayera payment garne.",order
+240,order ko confirmation kasari aauxa?,order ko confirmation email ya text message maa aauxa checkout page maa order place garepachi.,order
+241,order garna k k details chahincha?,"order garna address, contact number, ra payment details chahincha.",order
+242,product order kasari thik cha bhanera confirm garne?,product order thik cha bhanera confirm garna checkout page maa details verify garera place order button maa click garne.,order
+243,order ko lagi address kasari add garne?,"order ko lagi address add garna, checkout page maa new address option maa click garera details bharne.",order
+244,order garna k k information chahincha?,"order garna address, contact number, ra payment information chahincha.",order
+245,order kasari sure hunchha?,order sure hunchha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+246,product order kasari process garne?,"product order process garna, product select garera add to cart maa click garne, ani checkout page maa gayera payment garne.",order
+247,order garna lai kya cheej chahincha?,"order garna lai address, contact number, ra payment method chahincha.",order
+248,order garna contact number chahincha ki?,"ho, order garna contact number chahincha.",order
+249,order kasari confirm garna sakinchha?,order confirm garna checkout page maa address ra payment details bharera place order button maa click garne.,order
+250,order kasari verify garna sakinchha?,order verify garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+251,order garna ki garnu parchha?,order garna product add to cart garera checkout maa gayera address ra payment details bharera place order button maa click garnu parchha.,order
+252,order ko lagi payment options kasari choose garne?,order ko lagi payment options choose garna checkout page maa available payment methods bata select garne.,order
+253,order kasari place garne?,order place garna checkout page maa address ra payment details bharera place order button maa click garne.,order
+254,product order kasari suru garne?,"product order suru garna, product page maa gayera add to cart garne ani checkout maa gayera payment garera order complete garne.",order
+255,order kasari suru hunchha?,order suru hunchha product select garera add to cart garera checkout maa gayera payment garera order complete garepachi.,order
+256,order garna kasto internet connection chahincha?,order garna reliable ra fast internet connection chahincha.,order
+257,order garna k k details bharna parchha?,"order garna lai address, contact number, ra payment details bharna parchha.",order
+258,order ko confirmation paune tarika k ho?,order ko confirmation email ra text message maa pauna sakinchha checkout garepachi.,order
+259,order ko confirmation kasari huncha?,order ko confirmation email ra text message maa huncha checkout garepachi.,order
+260,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+261,order garna ki garnu parchha?,order garna product lai add to cart garera checkout page maa gayera address ra payment details bharera place order button maa click garnu parchha.,order
+262,order garna kasari proceed garne?,"order garna proceed garna, product lai add to cart garera checkout page maa gayera payment garne.",order
+263,order kasari process garne?,order process garna product add to cart garera checkout page maa gayera address ra payment details bharera place order button maa click garne.,order
+264,order garna lai k k chahincha?,"order garna lai address, contact number, ra payment details chahincha.",order
+265,order kasari confirm garna sakinchha?,order confirm garna checkout page maa address ra payment details bharera place order button maa click garne.,order
+266,order ko confirmation kasari aauxa?,order ko confirmation email ya text message maa aauxa checkout page maa order place garepachi.,order
+267,order garna kasari suru garne?,order suru garna product select garera add to cart garne ani checkout page maa gayera address ra payment details bharera place order button maa click garne.,order
+268,order ko lagi address kasari add garne?,"order ko lagi address add garna, checkout page maa new address option maa click garera details bharne.",order
+269,order garna kasari confirm garne?,order confirm garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+270,order kasari verify garna sakinchha?,order verify garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+271,order ko lagi payment options kasari choose garne?,order ko lagi payment options choose garna checkout page maa available payment methods bata select garne.,order
+272,order garna contact number chahincha ki?,"ho, order garna contact number chahincha.",order
+273,product order kasari suru garne?,"product order suru garna, product page maa gayera add to cart garne ani checkout maa gayera payment garera order complete garne.",order
+274,order kasari suru hunchha?,order suru hunchha product select garera add to cart garera checkout maa gayera payment garera order complete garepachi.,order
+275,order ko lagi checkout kasari garne?,"order ko lagi checkout garna, checkout page maa gayera address ra payment details bharera proceed button maa click garne.",order
+276,order kasari confirm hunchha?,order confirm hunchha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+277,order garna kasto internet connection chahincha?,order garna reliable ra fast internet connection chahincha.,order
+278,order garna k k details bharna parchha?,"order garna lai address, contact number, ra payment details bharna parchha.",order
+279,order ko confirmation kasari garne hola?,Order ko confirmation garna ko laagi checkout page ma gayera garne ho.,order
+280,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+281,order kasari verify garne?,"order verify garna, checkout page maa address ra payment details verify garera place order button maa click garne.",order
+282,order kasari manage garne?,"order manage garna, order history maa gayera order details edit garne, cancel garne ya track garne.",order
+283,order ko lagi checkout page kasari use garne?,checkout page maa address ra payment details bharera proceed button maa click garera order complete garna sakinchha.,order
+284,order kasari process hunchha?,"order process hunchha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+285,order confirm huncha ki?,"order confirm huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+286,order kasari update huncha?,"order update huncha, order history maa gayera modify order button maa click garepachi.",order
+287,order kasari cancel garne?,"order cancel garna, order history maa gayera cancel order button maa click garne.",order
+288,order confirm kasari huncha?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+289,order kasari repeat garne?,"order repeat garna, order history maa gayera repeat order button maa click garne.",order
+290,order kasari view garne?,"order view garna, order history maa gayera view order details button maa click garne.",order
+291,order confirmation email kasari aauxa?,"order confirmation email, checkout maa order place garepachi register gareko email maa aauxa.",order
+292,order confirmation text kasari aauxa?,"order confirmation text, checkout maa order place garepachi register gareko mobile number maa aauxa.",order
+293,order garna payment options k k cha?,"payment options maa credit card, debit card, net banking, ra cash on delivery cha.",order
+294,order ko lagi coupon kasari apply garne?,"order ko lagi coupon apply garna, checkout page maa coupon code section maa coupon code type garera apply button maa click garne.",order
+295,order kasari verify garne?,"order verify garna, checkout page maa address ra payment details verify garera place order button maa click garne.",order
+296,order kasari manage garne?,"order manage garna, order history maa gayera order details edit garne, cancel garne ya track garne.",order
+297,order confirm huncha ki?,"order confirm huncha, checkout page maa address ra payment details bharera place order button maa click garepachi.",order
+298,order kasari process garne?,"order process garna, product add to cart garera checkout maa gayera address ra payment details bharera order complete garne.",order
+299,order confirm huncha ki hunna?,order confirm huncha checkout page maa address ra payment details bharera place order button maa click garepachi.,order
+300,order kasari track garne?,"order track garna, order history maa gayera track order button maa click garne.",order
+301,order kasari garne?,order garna product add to cart maa rakhne ani checkout page maa gayera payment garne.,order
+302,order ko confirmation kasari aauxa?,order ko confirmation checkout garepachi email ya SMS maa aauxa.,order
+303,order garna address kasari bharnu parchha?,order garna checkout page maa gayera address bharnu parchha.,order
+304,order ko lagi payment option kasari choose garne?,order ko lagi payment option choose garna checkout page maa available options bata select garne.,order
+305,order kasari complete garne?,order complete garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+306,product order kasari suru garne?,product order suru garna product page maa gayera add to cart garne ani checkout maa gayera payment garne.,order
+307,order kasari verify garne?,order verify garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+308,order kasari confirm garne?,order confirm garna checkout page maa address ra payment details bharera place order button maa click garne.,order
+309,order garna contact number chahincha ki?,"ho, order garna contact number chahincha.",order
+310,order kasari place garne?,order place garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+311,order ko lagi k k details chahincha?,"order ko lagi address, contact number, ra payment details chahincha.",order
+312,order ko lagi address kasari add garne?,order ko lagi address add garna checkout page maa new address option maa click garera details bharne.,order
+313,order garna address kasari add garne?,order garna address add garna checkout page maa new address option maa click garera details bharne.,order
+314,order ko confirmation kasari huncha?,order ko confirmation checkout garepachi email ya SMS maa aauxa.,order
+315,order garna coupon code kasari use garne?,order garna coupon code use garna checkout page maa coupon code section maa code type garera apply button maa click garne.,order
+316,order kasari sure hunchha?,order sure hunchha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+317,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+318,order garna internet connection kasto hunu parchha?,order garna reliable ra fast internet connection hunu parchha.,order
+319,order kasari manage garne?,order manage garna order history maa gayera order details edit garne ya cancel garne.,order
+320,order garna kasari proceed garne?,order garna product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharepachi proceed garne.,order
+321,order garna address ra payment details kasari add garne?,order garna checkout page maa address ra payment details bharne.,order
+322,order confirm kasari garne?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+323,order ko confirmation email kasari aauxa?,order ko confirmation email checkout garepachi register gareko email maa aauxa.,order
+324,order ko confirmation text kasari aauxa?,order ko confirmation text checkout garepachi register gareko mobile number maa aauxa.,order
+325,order ko lagi kasto internet connection chahincha?,order ko lagi reliable ra fast internet connection chahincha.,order
+326,order ko lagi coupon kasari apply garne?,order ko lagi coupon apply garna checkout page maa coupon code section maa code type garera apply button maa click garne.,order
+327,order kasari process hunchha?,order process hunchha product add to cart garera checkout page maa address ra payment details bharepachi.,order
+328,order kasari repeat garne?,order repeat garna order history maa gayera repeat order button maa click garne.,order
+329,order ko lagi k k details chahincha?,"order ko lagi address, contact number, ra payment details chahincha.",order
+330,order ko lagi checkout kasari garne?,"order ko lagi checkout garna, checkout page maa gayera address ra payment details bharepachi proceed button maa click garne.",order
+331,order ko lagi k k information chahincha?,"order ko lagi address, contact number, ra payment information chahincha.",order
+332,order kasari update huncha?,order update huncha order history maa gayera modify order button maa click garepachi.,order
+333,order ko lagi address kasari add garne?,order ko lagi address add garna checkout page maa new address option maa click garera details bharne.,order
+334,order kasari cancel garne?,order cancel garna order history maa gayera cancel order button maa click garne.,order
+335,order kasari garna sakinchha?,order garna sakinchha product add to cart garera checkout page maa gayera address ra payment details bharepachi.,order
+336,order ko lagi checkout page kasari use garne?,checkout page maa address ra payment details bharepachi proceed button maa click garera order complete garna sakinchha.,order
+337,order kasari thik cha bhanera confirm garne?,order thik cha bhanera confirm garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+338,order garna lai k garnu parchha?,order garna lai product add to cart garera checkout page maa address ra payment details bharera place order button maa click garnu parchha.,order
+339,order kasari track garne?,order track garna order history maa gayera track order button maa click garne.,order
+340,order garna ke details bharnu parchha?,order garna checkout page maa address ra payment details bharnu parchha.,order
+341,order garna process kasari huncha?,order garna process huncha product add to cart garera checkout page maa gayera address ra payment details bharepachi.,order
+342,order garna lai ke garnu parchha?,order garna lai product add to cart garera checkout page maa address ra payment details bharepachi place order button maa click garnu parchha.,order
+343,order confirm kasari hunchha?,order confirm hunchha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+344,order kasari manage garne?,order manage garna order history maa gayera order details edit garne ya cancel garne.,order
+345,order ko lagi payment options kasari choose garne?,order ko lagi payment options choose garna checkout page maa available options bata select garne.,order
+346,order ko confirmation kasari aauxa?,order ko confirmation checkout garepachi email ya SMS maa aauxa.,order
+347,order garna contact number chahincha ki?,"ho, order garna contact number chahincha.",order
+348,order garna k k details chahincha?,"order garna address, contact number, ra payment details chahincha.",order
+349,order ko lagi coupon code kasari use garne?,order ko lagi coupon code use garna checkout page maa coupon code section maa code type garera apply button maa click garne.,order
+350,order ko confirmation email kasari aauxa?,order ko confirmation email checkout garepachi register gareko email maa aauxa.,order
+351,order ko lagi address kasari add garne?,order ko lagi address add garna checkout page maa new address option maa click garera details bharne.,order
+352,order kasari verify garne?,order verify garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+353,order garna lai k k chahincha?,"order garna lai address, contact number, ra payment details chahincha.",order
+354,order confirm huncha ki?,order confirm huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+355,order ko confirmation text kasari aauxa?,order ko confirmation text checkout garepachi register gareko mobile number maa aauxa.,order
+356,order kasari repeat garne?,order repeat garna order history maa gayera repeat order button maa click garne.,order
+357,order kasari process garne?,order process garna product add to cart garera checkout maa gayera address ra payment details bharepachi.,order
+358,order garna reliable internet connection chahincha ki?,"ho, order garna reliable internet connection chahincha.",order
+359,order kasari confirm garne?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+360,order kasari update garne?,order update garna order history maa gayera modify order button maa click garne.,order
+361,order ko lagi payment method kasari choose garne?,order ko lagi payment method choose garna checkout page maa available options bata select garne.,order
+362,order garna k k chahincha?,"order garna address, contact number, ra payment details chahincha.",order
+363,order kasari cancel garne?,order cancel garna order history maa gayera cancel order button maa click garne.,order
+364,order ko lagi address kasari bharne?,order ko lagi address bharna checkout page maa gayera new address option maa click garera details bharne.,order
+365,order ko confirmation kasari huncha?,order ko confirmation checkout garepachi email ya SMS maa huncha.,order
+366,order kasari garna sakinchha?,order garna sakinchha product add to cart garera checkout page maa address ra payment details bharera.,order
+367,order garna lai k garnu parchha?,order garna lai product add to cart garera checkout page maa address ra payment details bharepachi place order button maa click garnu parchha.,order
+368,order garna k k chahincha?,"order garna address, contact number, ra payment details chahincha.",order
+369,order ko confirmation email kasari aauxa?,order ko confirmation email checkout garepachi register gareko email maa aauxa.,order
+370,order garna payment method kasari choose garne?,order garna payment method choose garna checkout page maa available options bata select garne.,order
+371,order ko lagi k k information chahincha?,"order ko lagi address, contact number, ra payment information chahincha.",order
+372,order kasari sure hunchha?,order sure hunchha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+373,order ko confirmation text kasari aauxa?,order ko confirmation text checkout garepachi register gareko mobile number maa aauxa.,order
+374,order kasari proceed garne?,order proceed garna product add to cart garera checkout page maa address ra payment details bharepachi.,order
+375,order garna kasari proceed garne?,order garna proceed garna product add to cart maa rakhne ani checkout page maa address ra payment details bharepachi.,order
+376,order kasari process garne?,order process garna product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharepachi.,order
+377,order confirm kasari hunchha?,order confirm hunchha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+378,order garna ki garnu parchha?,order garna product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharepachi place order button maa click garnu parchha.,order
+379,order ko lagi payment options kasari choose garne?,order ko lagi payment options choose garna checkout page maa available options bata select garne.,order
+380,order kasari confirm garne?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+381,order ko lagi payment method kasari choose garne?,order ko lagi payment method choose garna checkout page maa available options bata select garne.,order
+382,order garna kasari thik cha bhanera confirm garne?,order thik cha bhanera confirm garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+383,order kasari verify garne?,order verify garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+384,order garna kasari thik cha bhanera confirm garne?,order thik cha bhanera confirm garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+385,order ko confirmation kasari huncha?,order ko confirmation checkout garepachi email ya SMS maa huncha.,order
+386,order kasari garna sakinchha?,order garna sakinchha product add to cart garera checkout page maa address ra payment details bharera.,order
+387,order garna lai k k chahincha?,"order garna lai address, contact number, ra payment details chahincha.",order
+388,order ko lagi address kasari bharne?,order ko lagi address bharna checkout page maa gayera new address option maa click garera details bharne.,order
+389,order kasari sure hunchha?,order sure hunchha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+390,order ko confirmation email kasari aauxa?,order ko confirmation email checkout garepachi register gareko email maa aauxa.,order
+391,order ko confirmation text kasari aauxa?,order ko confirmation text checkout garepachi register gareko mobile number maa aauxa.,order
+392,order ko lagi checkout page kasari use garne?,checkout page maa address ra payment details bharepachi proceed button maa click garera order complete garna sakinchha.,order
+393,order kasari confirm garne?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+394,order garna ki garnu parchha?,order garna product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharepachi place order button maa click garnu parchha.,order
+395,order garna contact number chahincha ki?,"ho, order garna contact number chahincha.",order
+396,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+397,order kasari repeat garne?,order repeat garna order history maa gayera repeat order button maa click garne.,order
+398,order garna lai k garnu parchha?,order garna lai product add to cart garera checkout page maa address ra payment details bharepachi place order button maa click garnu parchha.,order
+399,order ko confirmation kasari huncha?,order ko confirmation checkout garepachi email ya SMS maa huncha.,order
+400,order ko lagi kasto internet connection chahincha?,order ko lagi reliable ra fast internet connection chahincha.,order
+401,order kasari garne ho?,order garna product add to cart maa rakhne ani checkout page maa gayera payment garne.,order
+402,product order garne process kasari cha?,product order garne process suru garna product page maa gayera add to cart garne ani checkout maa gayera payment garne.,order
+403,order kasari sure huncha?,order sure huncha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+404,order confirmation kasari milcha?,order confirmation checkout garepachi email ya SMS maa milcha.,order
+405,order kasari thik huncha?,order thik huncha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+406,order garna process ke ho?,order garna process ho product add to cart maa rakhne ani checkout page maa gayera payment garne.,order
+407,order kasari start garne?,order start garna product page maa gayera add to cart garne ani checkout maa gayera payment garne.,order
+408,order kasari place garne ho?,order place garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+409,order garne process kasari suru garne?,order garne process suru garna product page maa gayera add to cart garne ani checkout maa gayera payment garne.,order
+410,order ko lagi address kasari enter garne?,order ko lagi address enter garna checkout page maa gayera address details bharne.,order
+411,order ko lagi payment method kasari select garne?,order ko lagi payment method select garna checkout page maa available options bata choose garne.,order
+412,order garne tarika ke ho?,order garne tarika ho product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharera order place garne.,order
+413,order kasari process garne ho?,order process garna product add to cart maa rakhne ani checkout page maa gayera payment details bharera order complete garne.,order
+414,order kasari milcha?,order milcha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+415,order garne step haru ke ke hun?,"order garne step haru ho product add to cart garne, checkout page maa address ra payment details bharne, ani place order button maa click garne.",order
+416,order kasari complete garne ho?,order complete garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+417,order garne lagi ke garnu parchha?,order garne lagi product add to cart maa rakhne ani checkout page maa address ra payment details bharepachi place order button maa click garnu parchha.,order
+418,order confirm kasari garne ho?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+419,order kasari thik cha bhanera sure garne?,order thik cha bhanera sure garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+420,order process kasari huncha?,order process huncha product add to cart garera checkout page maa address ra payment details bharepachi.,order
+421,order garne lagi address kasari bharne?,order garne lagi address bharna checkout page maa gayera address details bharne.,order
+422,order kasari complete garne ho?,order complete garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+423,order ko lagi payment option kasari choose garne?,order ko lagi payment option choose garna checkout page maa available options bata select garne.,order
+424,order kasari garne?,order garna product add to cart maa rakhne ani checkout page maa address ra payment details bharera order place garne.,order
+425,order confirm kasari garne?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+426,order kasari thik huncha?,order thik huncha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+427,order ko lagi ke details chahincha?,"order ko lagi address, contact number, ra payment details chahincha.",order
+428,order garna kasari suru garne?,order suru garna product page maa gayera add to cart garne ani checkout maa gayera payment garne.,order
+429,order kasari verify garne?,order verify garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+430,order garna process ke ho?,order garna process ho product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharera place order button maa click garne.,order
+431,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+432,order ko lagi address kasari add garne?,order ko lagi address add garna checkout page maa new address option maa click garera details bharne.,order
+433,order garna internet connection kasto hunu parchha?,order garna reliable ra fast internet connection hunu parchha.,order
+434,order ko lagi payment option kasari select garne?,order ko lagi payment option select garna checkout page maa available options bata choose garne.,order
+435,order kasari complete huncha?,order complete huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+436,order kasari manage garne?,order manage garna order history maa gayera order details edit garne ya cancel garne.,order
+437,order ko lagi k garnu parchha?,order ko lagi product add to cart garera checkout page maa address ra payment details bharera place order button maa click garnu parchha.,order
+438,order kasari process garne?,order process garna product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharepachi.,order
+439,order garne process ke ho?,order garne process ho product add to cart garera checkout page maa address ra payment details bharera place order button maa click garne.,order
+440,order confirm huncha ki?,order confirm huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+441,order kasari thik cha bhanera confirm garne?,order thik cha bhanera confirm garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+442,order ko confirmation kasari milcha?,order ko confirmation checkout garepachi email ya SMS maa milcha.,order
+443,order garne lagi ke garnu parchha?,order garne lagi product add to cart maa rakhne ani checkout page maa address ra payment details bharera place order button maa click garnu parchha.,order
+444,order kasari thik cha bhanera sure garne?,order thik cha bhanera sure garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+445,order kasari verify garne?,order verify garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+446,order kasari proceed garne?,order proceed garna product add to cart garera checkout page maa address ra payment details bharepachi.,order
+447,order kasari confirm garne ho?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+448,order ko lagi ke details chahincha?,"order ko lagi address, contact number, ra payment details chahincha.",order
+449,order kasari suru garne?,order suru garna product page maa gayera add to cart garne ani checkout maa gayera payment garne.,order
+450,order ko lagi payment method kasari choose garne?,order ko lagi payment method choose garna checkout page maa available options bata select garne.,order
+451,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+452,order ko confirmation kasari huncha?,order ko confirmation checkout garepachi email ya SMS maa huncha.,order
+453,order kasari garne?,order garna product add to cart maa rakhne ani checkout page maa address ra payment details bharera order place garne.,order
+454,order kasari proceed garne ho?,order proceed garna product add to cart maa rakhne ani checkout page maa address ra payment details bharera place order button maa click garne.,order
+455,order ko lagi address kasari bharne?,order ko lagi address bharna checkout page maa gayera address details bharne.,order
+456,order kasari sure huncha?,order sure huncha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+457,order confirm kasari garne?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+458,order garna process ke ho?,order garna process ho product add to cart garera checkout page maa address ra payment details bharera place order button maa click garne.,order
+459,order ko lagi address kasari add garne?,order ko lagi address add garna checkout page maa new address option maa click garera details bharne.,order
+460,order kasari suru garne?,order suru garna product page maa gayera add to cart garne ani checkout maa gayera payment garne.,order
+461,order garne lagi ke garnu parchha?,order garne lagi product add to cart maa rakhne ani checkout page maa address ra payment details bharera place order button maa click garnu parchha.,order
+462,order ko lagi address kasari bharne?,order ko lagi address bharna checkout page maa gayera address details bharne.,order
+463,order kasari thik cha bhanera confirm garne?,order thik cha bhanera confirm garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+464,order garne process kasari cha?,order garne process ho product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharera place order button maa click garne.,order
+465,order kasari complete garne ho?,order complete garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+466,order ko lagi ke details chahincha?,"order ko lagi address, contact number, ra payment details chahincha.",order
+467,order kasari confirm garne ho?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+468,order garne lagi ke garnu parchha?,order garne lagi product add to cart maa rakhne ani checkout page maa address ra payment details bharepachi place order button maa click garnu parchha.,order
+469,order kasari verify garne?,order verify garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+470,order garne process ke ho?,order garne process ho product add to cart garera checkout page maa address ra payment details bharera place order button maa click garne.,order
+471,order ko confirmation kasari huncha?,order ko confirmation checkout garepachi email ya SMS maa huncha.,order
+472,order kasari complete garne?,order complete garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+473,order ko lagi ke garnu parchha?,order ko lagi product add to cart garera checkout page maa address ra payment details bharera place order button maa click garnu parchha.,order
+474,order kasari confirm garne?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+475,order ko lagi address kasari bharne?,order ko lagi address bharna checkout page maa gayera address details bharne.,order
+476,order kasari sure huncha?,order sure huncha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+477,order confirm kasari garne?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+478,order garne lagi ke garnu parchha?,order garne lagi product add to cart maa rakhne ani checkout page maa address ra payment details bharera place order button maa click garnu parchha.,order
+479,order ko lagi ke details chahincha?,"order ko lagi address, contact number, ra payment details chahincha.",order
+480,order garne process kasari cha?,order garne process ho product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharera place order button maa click garne.,order
+481,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+482,order ko lagi address kasari bharne?,order ko lagi address bharna checkout page maa gayera address details bharne.,order
+483,order kasari sure huncha?,order sure huncha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+484,order kasari complete garne ho?,order complete garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+485,order ko lagi payment method kasari choose garne?,order ko lagi payment method choose garna checkout page maa available options bata select garne.,order
+486,order kasari confirm garne ho?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+487,order kasari thik cha bhanera sure garne?,order thik cha bhanera sure garna checkout page maa address ra payment details verify garera place order button maa click garne.,order
+488,order ko confirmation kasari huncha?,order ko confirmation checkout garepachi email ya SMS maa huncha.,order
+489,order kasari garne?,order garna product add to cart maa rakhne ani checkout page maa address ra payment details bharera order place garne.,order
+490,order ko lagi ke details chahincha?,"order ko lagi address, contact number, ra payment details chahincha.",order
+491,order garne lagi ke garnu parchha?,order garne lagi product add to cart maa rakhne ani checkout page maa address ra payment details bharera place order button maa click garnu parchha.,order
+492,order ko lagi address kasari bharne?,order ko lagi address bharna checkout page maa gayera address details bharne.,order
+493,order kasari sure huncha?,order sure huncha checkout page maa address ra payment details verify garera place order button maa click garepachi.,order
+494,order kasari confirm garne ho?,order confirm garna checkout page maa address ra payment details bharepachi place order button maa click garne.,order
+495,order garne process kasari cha?,order garne process ho product add to cart maa rakhne ani checkout page maa gayera address ra payment details bharera place order button maa click garne.,order
+496,order ko lagi address kasari add garne?,order ko lagi address add garna checkout page maa new address option maa click garera details bharne.,order
+497,order kasari confirm huncha?,order confirm huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+498,order ko lagi payment method kasari choose garne?,order ko lagi payment method choose garna checkout page maa available options bata select garne.,order
+499,order kasari complete huncha?,order complete huncha checkout page maa address ra payment details bharepachi place order button maa click garepachi.,order
+500,order garne process ke ho?,order garne process ho product add to cart garera checkout page maa address ra payment details bharera place order button maa click garne.,order
+1,Namaste,Namaste! Ma tapai lai kasari madat garna sakchu?,greetings
+2,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+3,K cha?,"Thikai chha, tapai lai kasari madat garna sakchu?",greetings
+4,Kasto chha?,"Ma thikai chhu, tapai lai ke chahincha?",greetings
+5,Hi,Hi! Tapai lai ma ke madat garna sakchu?,greetings
+6,Good morning,Good morning! Tapai ko lagi ma ke garna sakchu?,greetings
+7,Good afternoon,Good afternoon! Ma tapai lai kasari madat garna sakchu?,greetings
+8,Good evening,Good evening! Tapai ko lagi ma ke garna sakchu?,greetings
+9,Sanchai?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+10,K chha?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+11,Ma tapai lai kasari madat garna sakchu?,Namaste! Tapai ko lagi ma ke garna sakchu?,greetings
+12,Ke chha k k?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+13,Tapai lai ke cha?,"Sab thikai chha, tapai ko lagi ma ke garna sakchu?",greetings
+14,Tapai lai kasari madat garna sakchu?,Tapai lai k chahincha?,greetings
+15,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+16,"Ma sanchai chhu, tapai?","Ma pani sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+17,Sab thikai chha?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+18,Tapai lai ke chahincha?,Tapai ko lagi ma ke garna sakchu?,greetings
+19,Hello ma sanchai chhu,"Hello! Ma pani sanchai chhu, tapai lai ke chahincha?",greetings
+20,"Hi, kasari chha?","Ma sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+21,Namaskar,Namaskar! Ma tapai lai kasari madat garna sakchu?,greetings
+22,"Hello, kasari chha?","Thikai chha, tapai lai kasari madat garna sakchu?",greetings
+23,Kasto din bhayo?,"Din ramro bhayo, tapai lai kasari madat garna sakchu?",greetings
+24,Tapai ko din kasto bhayo?,"Mero din ramro bhayo, tapai lai ke chahincha?",greetings
+25,Good day,Good day! Tapai ko lagi ma ke garna sakchu?,greetings
+26,"Namaste, kasto chha?","Namaste! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+27,"Hello, tapai lai kasari madat garna sakchu?",Hello! Tapai ko lagi ma ke garna sakchu?,greetings
+28,Sanchai hunu hunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+29,K cha? Sabai thikai?,"Thikai chha, tapai lai kasari madat garna sakchu?",greetings
+30,"Hello, ma sanchai chhu","Hello! Ma pani sanchai chhu, tapai lai ke chahincha?",greetings
+31,Tapai kasto chha?,"Ma sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+32,Namaste! Ma sanchai chhu,"Namaste! Ma pani sanchai chhu, tapai lai ke chahincha?",greetings
+33,"Good morning, kasari chha?","Good morning! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+34,"Good afternoon, kasari chha?","Good afternoon! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+35,"Good evening, kasari chha?","Good evening! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+36,"Hi, ma thikai chhu","Hi! Ma pani thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+37,"Namaste, tapai lai kasto chha?","Namaste! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+38,Tapai sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+39,Tapai kasto chha aaj?,"Ma thikai chhu, tapai lai ke chahincha?",greetings
+40,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+41,"Hello, kasari hunuhunchha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+42,"Namaste, k cha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+43,"Hi, kasto chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+44,"Good morning, k cha?","Good morning! Sab thikai chha, tapai lai ke chahincha?",greetings
+45,"Good afternoon, k cha?","Good afternoon! Sab thikai chha, tapai lai ke chahincha?",greetings
+46,"Good evening, k cha?","Good evening! Sab thikai chha, tapai lai ke chahincha?",greetings
+47,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+48,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+49,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+50,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+51,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+52,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+53,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+54,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+55,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+56,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+57,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+58,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+59,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+60,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+61,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+62,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+63,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+64,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+65,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+66,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+67,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+68,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+69,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+70,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+71,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+72,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+73,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+74,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+75,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+76,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+77,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+78,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+79,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+80,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+81,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+82,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+83,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+84,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+85,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+86,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+87,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+88,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+89,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+90,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+91,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+92,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+93,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+94,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+95,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+96,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+97,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+98,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+99,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+100,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+101,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+102,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+103,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+104,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+105,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+106,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+107,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+108,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+109,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+110,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+111,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+112,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+113,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+114,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+115,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+116,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+117,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+118,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+119,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+120,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+121,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+122,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+123,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+124,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+125,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+126,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+127,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+128,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+129,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+130,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+131,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+132,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+133,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+134,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+135,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+136,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+137,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+138,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+139,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+140,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+141,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+142,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+143,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+144,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+145,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+146,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+147,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+148,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+149,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+150,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+151,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+152,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+153,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+154,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+155,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+156,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+157,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+158,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+159,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+160,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+161,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+162,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+163,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+164,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+165,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+166,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+167,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+168,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+169,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+170,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+171,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+172,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+173,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+174,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+175,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+176,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+177,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+178,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+179,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+180,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+181,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+182,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+183,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+184,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+185,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+186,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+187,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+188,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+189,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+190,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+191,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+192,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+193,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+194,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+195,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+196,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+197,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+198,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+199,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+200,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+201,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+202,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+203,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+204,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+205,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+206,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+207,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+208,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+209,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+210,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+211,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+212,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+213,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+214,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+215,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+216,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+217,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+218,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+219,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+220,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+221,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+222,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+223,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+224,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+225,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+226,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+227,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+228,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+229,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+230,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+231,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+232,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+233,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+234,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+235,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+236,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+237,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+238,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+239,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+240,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+241,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+242,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+243,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+244,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+245,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+246,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+247,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+248,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+249,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+250,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+251,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+252,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+253,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+254,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+255,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+256,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+257,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+258,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+259,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+260,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+261,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+262,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+263,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+264,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+265,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+266,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+267,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+268,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+269,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+270,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+271,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+272,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+273,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+274,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+275,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+276,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+277,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+278,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+279,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+280,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+281,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+282,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+283,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+284,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+285,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+286,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+287,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+288,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+289,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+290,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+291,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+292,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+293,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+294,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+295,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+296,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+297,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+298,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+299,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+300,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+301,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+302,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+303,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+304,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+305,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+306,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+307,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+308,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+309,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+310,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+311,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+312,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+313,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+314,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+315,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+316,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+317,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+318,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+319,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+320,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+321,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+322,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+323,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+324,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+325,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+326,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+327,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+328,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+329,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+330,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+331,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+332,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+333,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+334,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+335,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+336,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+337,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+338,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+339,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+340,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+341,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+342,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+343,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+344,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+345,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+346,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+347,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+348,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+349,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+350,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+351,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+352,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+353,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+354,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+355,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+356,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+357,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+358,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+359,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+360,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+361,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+362,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+363,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+364,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+365,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+366,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+367,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+368,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+369,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+370,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+371,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+372,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+373,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+374,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+375,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+376,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+377,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+378,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+379,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+380,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+381,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+382,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+383,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+384,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+385,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+386,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+387,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+388,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+389,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+390,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+391,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+392,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+393,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+394,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+395,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+396,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+397,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+398,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+399,"Hello, sab thikai chha?","Hello! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+400,Sanchai hunuhunchha?,"Sanchai chhu, tapai lai kasari madat garna sakchu?",greetings
+401,K cha tapai?,"Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+402,Kasto din bhayo?,"Din ramro bhayo, tapai lai ke chahincha?",greetings
+403,Tapai ko din kasto chha?,"Din ramro chha, tapai lai kasari madat garna sakchu?",greetings
+404,"Good day, kasari chha?","Good day! Ma sanchai chhu, tapai lai ke chahincha?",greetings
+405,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+406,"Hello, tapai kasto chha?","Hello! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+407,"Hi, kasari chha?","Hi! Ma thikai chhu, tapai lai kasari madat garna sakchu?",greetings
+408,"Good morning, tapai lai kasto chha?","Good morning! Ma thikai chhu, tapai lai ke chahincha?",greetings
+409,"Good afternoon, tapai lai kasto chha?","Good afternoon! Ma thikai chhu, tapai lai ke chahincha?",greetings
+410,"Good evening, tapai lai kasto chha?","Good evening! Ma thikai chhu, tapai lai ke chahincha?",greetings
+411,"Hi, sab thikai chha?","Hi! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+412,"Namaste, sab thikai chha?","Namaste! Sab thikai chha, tapai lai kasari madat garna sakchu?",greetings
+413,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+414,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+415,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+416,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+417,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+418,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+419,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+420,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+421,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+422,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
+423,Hi,Hi! Ma tapai lai kasari sahayog garna sakchu?,greetings
+424,Hi,Hi! Ke chahincha? Ma madat garna tayar chhu.,greetings
+425,Hi,Hi! Ma kasari sahayog garna sakchu?,greetings
+426,Hi,Hi! Ma ke garna sakchu tapai ko lagi?,greetings
+427,Hi,Hi! Tapai ko lagi ma k garna sakchu?,greetings
+428,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+429,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+430,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+431,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+432,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+433,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+434,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+435,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+436,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
+437,Hi,Hi! Ma tapai lai kasari sahayog garna sakchu?,greetings
+438,Hi,Hi! Ke chahincha? Ma madat garna tayar chhu.,greetings
+439,Hi,Hi! Ma kasari sahayog garna sakchu?,greetings
+440,Hi,Hi! Ma ke garna sakchu tapai ko lagi?,greetings
+441,Hi,Hi! Tapai ko lagi ma k garna sakchu?,greetings
+442,Namaste,Namaste! Ma tapai ko madat kasari garna sakchu?,greetings
+443,Namaste,Namaste! Ma tapai ko lagi ke garna sakchu?,greetings
+444,Namaste,Namaste! Ma tapai lai kasari sahayog garna sakchu?,greetings
+445,Namaste,Namaste! Ke chahincha? Ma madat garna tayar chhu.,greetings
+446,Namaste,Namaste! Ma kasari sahayog garna sakchu?,greetings
+447,Namaste,Namaste! Ma ke garna sakchu tapai ko lagi?,greetings
+448,Namaste,Namaste! Tapai ko lagi ma k garna sakchu?,greetings
+449,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+450,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+451,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+452,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+453,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+454,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+455,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+456,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+457,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
+458,Hi,Hi! Ma tapai lai kasari sahayog garna sakchu?,greetings
+459,Hi,Hi! Ke chahincha? Ma madat garna tayar chhu.,greetings
+460,Hi,Hi! Ma kasari sahayog garna sakchu?,greetings
+461,Hi,Hi! Ma ke garna sakchu tapai ko lagi?,greetings
+462,Hi,Hi! Tapai ko lagi ma k garna sakchu?,greetings
+463,Namaste,Namaste! Ma tapai ko madat kasari garna sakchu?,greetings
+464,Namaste,Namaste! Ma tapai ko lagi ke garna sakchu?,greetings
+465,Namaste,Namaste! Ma tapai lai kasari sahayog garna sakchu?,greetings
+466,Namaste,Namaste! Ke chahincha? Ma madat garna tayar chhu.,greetings
+467,Namaste,Namaste! Ma kasari sahayog garna sakchu?,greetings
+468,Namaste,Namaste! Ma ke garna sakchu tapai ko lagi?,greetings
+469,Namaste,Namaste! Tapai ko lagi ma k garna sakchu?,greetings
+470,Hello,Hello! Ma tapai ko madat kasari garna sakchu hola.,greetings
+471,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+472,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+473,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+474,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+475,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+476,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+477,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+478,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+479,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
+480,Hi,Hi! Ma tapai lai kasari sahayog garna sakchu?,greetings
+481,Hi,Hi! Ke chahincha? Ma madat garna tayar chhu.,greetings
+482,Hi,Hi! Ma kasari sahayog garna sakchu?,greetings
+483,Hi,Hi! Ma ke garna sakchu tapai ko lagi?,greetings
+484,Hi,Hi! Tapai ko lagi ma k garna sakchu?,greetings
+485,Namaste,Namaste! Ma tapai ko madat kasari garna sakchu?,greetings
+486,Namaste,Namaste! Ma tapai ko lagi ke garna sakchu?,greetings
+487,Namaste,Namaste! Ma tapai lai kasari sahayog garna sakchu?,greetings
+488,Namaste,Namaste! Ke chahincha? Ma madat garna tayar chhu.,greetings
+489,Namaste,Namaste! Ma kasari sahayog garna sakchu?,greetings
+490,Namaste,Namaste! Ma ke garna sakchu tapai ko lagi?,greetings
+491,Namaste,Namaste! Tapai ko lagi ma k garna sakchu?,greetings
+492,Hello,Hello! Ma tapai ko madat kasari garna sakchu?,greetings
+493,Hello,Hello! Ma tapai ko lagi ke garna sakchu?,greetings
+494,Hello,Hello! Ma tapai lai kasari sahayog garna sakchu?,greetings
+495,Hello,Hello! Ke chahincha? Ma madat garna tayar chhu.,greetings
+496,Hello,Hello! Ma kasari sahayog garna sakchu?,greetings
+497,Hello,Hello! Ma ke garna sakchu tapai ko lagi?,greetings
+498,Hello,Hello! Tapai ko lagi ma k garna sakchu?,greetings
+499,Hi,Hi! Ma tapai ko madat kasari garna sakchu?,greetings
+500,Hi,Hi! Ma tapai ko lagi ke garna sakchu?,greetings
+1,Yo saman stock ma chha ki chhaina?,"Ho, yo saman stock ma chha.",inquiry
+2,Kripaya yo product stock ma chha ki chhaina bhanera janakari dinus na?,"Ho, yo product stock ma chha.",inquiry
+3,Maile herna chahanchu ki yo item available chha ki chhaina?,"Yes, yo item available chha.",inquiry
+4,Yo item abailable chha?,"Ho, yo item abailable chha.",inquiry
+5,Stock ma yo item cha ki chhaina?,"Ho, stock ma cha.",inquiry
+6,Kripaya yo item stock ma chha ki nai bhannus?,"Ho, yo item stock ma chha.",inquiry
+7,Mero order ko lagi yo product available chha ki chhaina?,"Ho, yo product available chha.",inquiry
+8,Tapai ko store ma yo saman chha?,"Ho, hami sanga yo saman chha.",inquiry
+9,Yo product pauna sakchhu ma?,"Ho, tapai yo product pauna saknuhuncha.",inquiry
+10,Yo saman ko availability ke chha?,Yo saman available chha.,inquiry
+11,Tapai ko store ma yo saman stock ma chha ki chhaina?,"Ho, tapai ko store ma yo saman stock ma chha.",inquiry
+12,Yo item ajhai available chha?,"Ho, yo item ajhai available chha.",inquiry
+13,Stock update garnu bhayo ki yo item ajhai chha?,"Ho, stock update gareko chha ra yo item ajhai chha.",inquiry
+14,Maile yo saman order garnu parne chha ki stock ma chhaina?,"Ho, tapai yo saman order garna saknuhuncha, stock ma chha.",inquiry
+15,Yo product ko availability check garna saknu hunchha?,"Ho, yo product available chha.",inquiry
+16,Kripaya yo item stock ma chha ki chhaina bhannus?,"Ho, yo item stock ma chha.",inquiry
+17,Yo saman online order garnu sakchhu ki stock ma chhaina?,"Ho, tapai yo saman online order garna saknuhuncha, stock ma chha.",inquiry
+18,Yo product ajhai stock ma chha ki nai?,"Ho, yo product ajhai stock ma chha.",inquiry
+19,Yo item kaha available chha?,Yo item hami ko store ma available chha.,inquiry
+20,Yo saman stock ko barema janakari dinus na.,Yo saman stock ma chha.,inquiry
+21,Ke tapai sanga yo item stock ma chha?,"Ho, hami sanga yo item stock ma chha.",inquiry
+22,Yo product available nai chha ki chhaina?,"Ho, yo product available nai chha.",inquiry
+23,Kripaya malai yo item ko availability barema bhanidinuhos.,Yo item available chha.,inquiry
+24,Yo saman stock ma chha bhane matra order garnu chahanchu.,"Ho, yo saman stock ma chha.",inquiry
+25,Tapai ko store ma yo product cha ki chhaina?,"Ho, hamro store ma yo product cha.",inquiry
+26,Yo item ajhai available cha?,"Ho, yo item ajhai available cha.",inquiry
+27,Yo product ko stock update cha?,"Ho, yo product ko stock update cha.",inquiry
+28,Kripaya yo saman ko stock barema bhanidinuhos.,"Ho, yo saman stock ma chha.",inquiry
+29,Yo item ko stock update garnu bhayo?,"Ho, yo item ko stock update gareko chha.",inquiry
+30,Tapai ko store ma yo saman pauxu ki?,"Ho, tapai ko store ma yo saman paunu huncha.",inquiry
+31,Kripaya yo product stock ma chha bhane bhanidinuhos.,"Ho, yo product stock ma chha.",inquiry
+32,Maile yo saman order garna sakchu ki?,"Ho, tapai yo saman order garna saknuhuncha.",inquiry
+33,Yo item stock ma nai chha?,"Ho, yo item stock ma nai chha.",inquiry
+34,Yo product ko stock kasto chha?,Yo product stock ma chha.,inquiry
+35,Yo saman available cha ki?,"Ho, yo saman available cha.",inquiry
+36,Yo product stock ma nai chha ki chhaina?,"Ho, yo product stock ma nai chha.",inquiry
+37,Maile yo item order garna sakchu ki chhaina?,"Ho, tapai yo item order garna saknuhuncha.",inquiry
+38,Kripaya yo item ko stock barema janakari dinus na.,Yo item stock ma chha.,inquiry
+39,Yo product ajhai pani available chha ki?,"Ho, yo product ajhai pani available chha.",inquiry
+40,Yo item ko availability barema bhanidinuhos.,Yo item available chha.,inquiry
+41,Yo product stock ma ajhai pani chha?,"Ho, yo product stock ma ajhai pani chha.",inquiry
+42,Kripaya malai yo saman ko stock barema janakari dinuhos.,Yo saman stock ma chha.,inquiry
+43,Yo item available nai chha?,"Ho, yo item available nai chha.",inquiry
+44,Kripaya yo product ko availability barema bhanidinuhos.,Yo product available chha.,inquiry
+45,Yo saman ko stock check garna saknu huncha?,"Ho, yo saman ko stock check garna sakchhu.",inquiry
+46,Tapai ko store ma yo item chha?,"Ho, hamro store ma yo item chha.",inquiry
+47,Yo product ko stock ajhai available chha ki?,"Ho, yo product ko stock ajhai available chha.",inquiry
+48,Yo saman online order garnu sakchhu ki chhaina?,"Ho, tapai yo saman online order garna saknuhuncha.",inquiry
+49,Yo item ko stock kasto chha bhannus na?,Yo item ko stock available chha.,inquiry
+50,Yo product available chha ki nai?,"Ho, yo product available chha.",inquiry
+51,Yo saman ko availability barema bhanidinuhos na.,Yo saman available chha.,inquiry
+52,Maile yo item order garna milchha ki?,"Ho, tapai yo item order garna milchha.",inquiry
+53,Yo product stock ma ajhai pani chha ki chhaina?,"Ho, yo product stock ma ajhai pani chha.",inquiry
+54,Kripaya malai yo saman ko availability barema bhanidinuhos.,Yo saman available chha.,inquiry
+55,Yo item stock ma ajhai chha ki nai?,"Ho, yo item stock ma ajhai chha.",inquiry
+56,Yo product online available chha ki chhaina?,"Ho, yo product online available chha.",inquiry
+57,Yo saman store ma chha ki chhaina?,"Ho, yo saman store ma chha.",inquiry
+58,Yo item available chha bhane order garna chahanchu.,"Ho, yo item available chha.",inquiry
+59,Yo product ko availability check garna sakchhu?,"Ho, tapai yo product ko availability check garna saknuhuncha.",inquiry
+60,Tapai ko store ma yo saman stock ma chha?,"Ho, hami ko store ma yo saman stock ma chha.",inquiry
+61,Yo product ajhai available chha ki?,"Ho, yo product ajhai available chha.",inquiry
+62,Yo saman ko stock barema janakari dinuhos na.,Yo saman stock ma chha.,inquiry
+63,Yo item ajhai stock ma chha ki?,"Ho, yo item ajhai stock ma chha.",inquiry
+64,Yo product stock ma available chha ki chhaina?,"Ho, yo product stock ma available chha.",inquiry
+65,Yo saman ko stock ajhai available chha ki?,"Ho, yo saman ko stock ajhai available chha.",inquiry
+66,Yo item ko availability ajhai chha ki chhaina?,"Ho, yo item ko availability ajhai chha.",inquiry
+67,Yo product stock ma ajhai chha?,"Ho, yo product stock ma ajhai chha.",inquiry
+68,Yo saman stock ma chha bhane matra order garna chahanchu.,"Ho, yo saman stock ma chha.",inquiry
+69,Yo item ko stock barema update dinuhos na.,Yo item stock ma chha.,inquiry
+70,Kripaya yo product ko stock update cha ki chhaina?,"Ho, yo product ko stock update cha.",inquiry
+71,Kripaya malai yo product stock ma chha ki chhaina bhanera thap janakari dinus na?,"Ho, yo product stock ma chha. Tapai order garna saknuhuncha.",inquiry
+72,Yo saman ko availability ke chha? Maile order garnai parne bhayo.,Yo saman stock ma chha. Tapai aram le order garnu saknuhuncha.,inquiry
+73,Yo item stock ma chha ki? Maile ajhai nai order garnu parcha.,"Ho, yo item stock ma chha. Tapai ajhai nai order garnu saknuhuncha.",inquiry
+74,Kripaya janakari dinus ki yo saman hami ko store ma ajhai stock ma chha ki chhaina?,"Ho, yo saman hamro store ma ajhai stock ma chha.",inquiry
+75,Yo product stock ma nai chha bhane matra order garnu chahanchu.,"Ho, yo product stock ma nai chha. Tapai order garna saknuhuncha.",inquiry
+76,Kripaya yo item ko availability check garera bhanidinuhos na?,Yo item stock ma chha. Tapai aram le kinmel garna saknuhuncha.,inquiry
+77,"Yo product stock ma ajhai chha bhane janakari dinuhos, please.","Ho, yo product stock ma ajhai chha. Tapai le yo order garna saknuhuncha.",inquiry
+78,Yo saman hami ko store ma ajhai pani available chha ki nai?,"Ho, yo saman hamro store ma ajhai pani available chha.",inquiry
+79,Maile yo item stock ma chha bhane order garna sakchhu?,"Ho, yo item stock ma chha. Tapai le ajhai nai order garna saknuhuncha.",inquiry
+80,Kripaya malai janakari dinus ki yo product ko availability ke chha?,Yo product ajhai available chha. Tapai le ajhai order garna saknuhuncha.,inquiry
+81,Yo item stock ma ajhai pani chha ki?,"Ho, yo item stock ma ajhai pani chha. Tapai order garna saknuhuncha.",inquiry
+82,Yo saman ko stock update garnu bhayo bhane janakari dinuhos.,"Ho, yo saman ko stock update gareko chha ra ajhai pani available chha.",inquiry
+83,Yo product ko availability barema thap janakari dinus na.,Yo product ajhai stock ma chha. Tapai le aram le kinmel garna saknuhuncha.,inquiry
+84,Maile yo saman order garna milchha ki nai? Yo stock ma chha bhane.,"Ho, yo saman stock ma chha. Tapai le order garna milchha.",inquiry
+85,Kripaya yo item ko stock update cha ki chhaina bhanera bhanidinuhos.,"Ho, yo item ko stock update cha ra ajhai available chha.",inquiry
+86,Yo product stock ma chha bhane matra maile order garna chahanchu.,"Ho, yo product stock ma chha. Tapai aram le order garna saknuhuncha.",inquiry
+87,Yo saman ko stock ma chha ki nai? Maile order garna parcha.,"Ho, yo saman stock ma chha. Tapai le ajhai nai order garna saknuhuncha.",inquiry
+88,Yo item ajhai pani available chha ki chhaina?,"Ho, yo item ajhai pani available chha.",inquiry
+89,Kripaya yo product ko stock barema janakari dinuhos na.,Yo product stock ma chha. Tapai le order garna saknuhuncha.,inquiry
+90,Yo saman ko availability check garna saknu hunchha ki?,"Ho, yo saman available chha. Tapai le order garna saknuhuncha.",inquiry
+91,"Yo product stock ma nai chha bhane bhanidinuhos, please.","Ho, yo product stock ma nai chha.",inquiry
+92,Kripaya malai janakari dinus ki yo item ajhai available chha ki chhaina?,"Ho, yo item ajhai available chha.",inquiry
+93,Yo saman ko stock update bhayo ki chhaina? Maile order garna parcha.,"Ho, yo saman ko stock update bhayo ra ajhai stock ma chha.",inquiry
+94,"Yo product ko availability barema bhanidinuhos na, please.",Yo product ajhai pani available chha.,inquiry
+95,Yo item stock ma chha bhane maile order garnu chahanchu.,"Ho, yo item stock ma chha. Tapai order garna saknuhuncha.",inquiry
+96,Kripaya yo product stock ma chha ki chhaina bhanera janakari dinuhos.,"Ho, yo product stock ma chha.",inquiry
+97,Yo saman stock ma ajhai chha bhane matra maile kinmel garnu chahanchu.,"Ho, yo saman stock ma ajhai chha.",inquiry
+98,Yo item ajhai stock ma chha ki nai bhanera malai janakari dinuhos.,"Ho, yo item ajhai stock ma chha.",inquiry
+99,Yo product ko stock ajhai available chha ki nai?,"Ho, yo product ko stock ajhai available chha.",inquiry
+100,Kripaya malai janakari dinus ki yo saman hami ko store ma stock ma chha ki chhaina?,"Ho, yo saman hamro store ma stock ma chha.",inquiry
+101,Yo item stock ma chha bhane matra maile order garnu chahanchu.,"Ho, yo item stock ma chha. Tapai order garna saknuhuncha.",inquiry
+102,Yo product ko availability check garna sakchhu bhane janakari dinuhos.,"Ho, tapai yo product ko availability check garna saknuhuncha. Yo available chha.",inquiry
+103,Yo saman ko stock ajhai update chha ki?,"Ho, yo saman ko stock ajhai update chha.",inquiry
+104,Kripaya malai yo product ko availability barema thap janakari dinuhos.,Yo product ajhai available chha. Tapai le order garna saknuhuncha.,inquiry
+105,Yo item ko stock ma chha ki nai bhanera malai janakari dinuhos.,"Ho, yo item stock ma chha.",inquiry
+106,"Yo saman ko availability ajhai chha bhane bhanidinuhos, please.","Ho, yo saman ajhai available chha.",inquiry
+107,Yo product stock ma ajhai chha ki chhaina?,"Ho, yo product stock ma ajhai chha.",inquiry
+108,Kripaya yo item ko stock update gareko chha ki chhaina bhanera janakari dinuhos.,"Ho, yo item ko stock update gareko chha ra ajhai available chha.",inquiry
+109,Yo saman stock ma chha ki chhaina bhanera confirm garidinuhos na.,"Ho, yo saman stock ma chha.",inquiry
+110,Yo product ko availability ajhai pani chha ki?,"Ho, yo product ko availability ajhai pani chha.",inquiry
+111,Yo item stock ma nai chha bhane order garna milchha?,"Ho, yo item stock ma nai chha. Tapai order garna milchha.",inquiry
+112,Kripaya malai yo product stock ma chha ki chhaina bhanera janakari dinuhos.,"Ho, yo product stock ma chha.",inquiry
+113,Yo saman stock ma ajhai pani available chha ki chhaina?,"Ho, yo saman stock ma ajhai pani available chha.",inquiry
+114,Yo item stock ma chha bhane matra maile order garnu chahanchu.,"Ho, yo item stock ma chha. Tapai order garna saknuhuncha.",inquiry
+115,Yo product ajhai pani available chha bhane bhanidinuhos.,"Ho, yo product ajhai pani available chha.",inquiry
+116,Kripaya yo saman ko availability check garna saknu huncha ki?,"Ho, yo saman ko availability check garna sakchhu. Ajhai stock ma chha.",inquiry
+117,"Yo item stock ma chha ki chhaina bhanera janakari dinus na, please.","Ho, yo item stock ma chha.",inquiry
+118,Yo product ko availability check garna sakchhu bhane bhanidinuhos.,"Ho, tapai yo product ko availability check garna saknuhuncha. Ajhai stock ma chha.",inquiry
+119,Yo saman stock ma ajhai chha ki chhaina?,"Ho, yo saman stock ma ajhai chha.",inquiry
+120,Yo item ko stock ajhai update chha ki chhaina?,"Ho, yo item ko stock ajhai update chha.",inquiry
+121,Kripaya yo product stock ma chha bhane bhanidinuhos.,"Ho, yo product stock ma chha.",inquiry
+122,Yo saman ko availability ajhai chha ki chhaina bhanera janakari dinuhos.,"Ho, yo saman ajhai available chha.",inquiry
+123,"Yo item stock ma chha ki chhaina bhanera janakari dinuhos, please.","Ho, yo item stock ma chha.",inquiry
+124,Yo product ko stock ajhai available chha ki nai?,"Ho, yo product ko stock ajhai available chha.",inquiry
+125,Kripaya malai yo saman ko stock barema thap janakari dinuhos.,Yo saman stock ma chha. Tapai le order garna saknuhuncha.,inquiry
+126,Yo item ko stock ajhai update chha bhane bhanidinuhos.,"Ho, yo item ko stock ajhai update chha.",inquiry
+127,Yo product stock ma chha ki chhaina bhanera janakari dinuhos.,"Ho, yo product stock ma chha.",inquiry
+128,"Yo saman stock ma ajhai pani chha bhane bhanidinuhos, please.","Ho, yo saman stock ma ajhai pani chha.",inquiry
+129,Yo item ko availability check garna sakchhu ki chhaina?,"Ho, tapai yo item ko availability check garna saknuhuncha. Yo available chha.",inquiry
+130,Kripaya malai yo product stock ma chha ki chhaina bhanera janakari dinuhos na.,"Ho, yo product stock ma chha.",inquiry
+131,Yo saman ko availability ajhai chha ki nai bhanera confirm garidinuhos.,"Ho, yo saman ajhai available chha.",inquiry
+132,Yo item stock ma ajhai chha ki chhaina bhanera malai janakari dinuhos.,"Ho, yo item stock ma ajhai chha.",inquiry
+133,"Yo product ko stock update cha bhane bhanidinuhos, please.","Ho, yo product ko stock update cha.",inquiry
+134,Kripaya yo saman stock ma chha ki chhaina bhanera confirm garidinuhos.,"Ho, yo saman stock ma chha.",inquiry
+135,Yo item ko availability barema thap janakari dinuhos na.,Yo item ajhai available chha.,inquiry
+136,Yo product stock ma chha ki nai bhanera janakari dinuhos na.,"Ho, yo product stock ma chha.",inquiry
+137,"Yo saman ko stock update cha ki chhaina bhane bhanidinuhos, please.","Ho, yo saman ko stock update cha.",inquiry
+138,Yo item stock ma chha bhane maile order garnu chahanchu.,"Ho, yo item stock ma chha. Tapai order garna saknuhuncha.",inquiry
+139,Kripaya malai yo product ko availability barema bhanidinuhos na.,Yo product ajhai available chha.,inquiry
+140,Yo saman stock ma ajhai pani chha ki chhaina bhanera janakari dinuhos.,"Ho, yo saman stock ma ajhai pani chha.",inquiry
+141,Yo item ko stock ajhai update cha ki nai?,"Ho, yo item ko stock ajhai update cha.",inquiry
+142,Yo product stock ma ajhai chha bhane janakari dinuhos.,"Ho, yo product stock ma ajhai chha.",inquiry
+143,"Yo saman ko availability ajhai chha bhane bhanidinuhos na, please.","Ho, yo saman ajhai available chha.",inquiry
+144,Yo item stock ma chha bhane matra maile order garna chahanchu.,"Ho, yo item stock ma chha. Tapai order garna saknuhuncha.",inquiry
+145,Yo product ajhai pani available chha ki chhaina bhanera janakari dinuhos.,"Ho, yo product ajhai pani available chha.",inquiry
+146,Kripaya yo saman ko availability check garna saknuhuncha ki nai?,"Ho, yo saman ko availability check garna sakchhu. Ajhai stock ma chha.",inquiry
+147,Yo item stock ma chha ki nai bhanera malai janakari dinuhos na.,"Ho, yo item stock ma chha.",inquiry
+148,Yo product ko availability check garna milchha bhane bhanidinuhos.,"Ho, tapai yo product ko availability check garna saknuhuncha. Ajhai stock ma chha.",inquiry
+149,"Yo saman stock ma ajhai chha bhane janakari dinuhos, please.","Ho, yo saman stock ma ajhai chha.",inquiry
+150,Yo item ko stock ajhai update chha ki nai?,"Ho, yo item ko stock ajhai update chha.",inquiry
+151,Kripaya yo product stock ma chha bhane bhanidinuhos.,"Ho, yo product stock ma chha.",inquiry
+152,Yo saman ko availability ajhai chha ki chhaina bhanera janakari dinuhos.,"Ho, yo saman ajhai available chha.",inquiry
+153,"Yo item stock ma chha ki chhaina bhanera janakari dinuhos, please.","Ho, yo item stock ma chha.",inquiry
+154,Yo product ko stock ajhai available chha ki nai?,"Ho, yo product ko stock ajhai available chha.",inquiry
+155,Kripaya malai yo saman ko stock barema thap janakari dinuhos.,Yo saman stock ma chha. Tapai le order garna saknuhuncha.,inquiry
+156,Yo item ko stock ajhai update chha bhane bhanidinuhos.,"Ho, yo item ko stock ajhai update chha.",inquiry
+157,Yo product stock ma chha ki chhaina bhanera janakari dinuhos.,"Ho, yo product stock ma chha.",inquiry
+158,"Yo saman stock ma ajhai pani chha bhane bhanidinuhos, please.","Ho, yo saman stock ma ajhai pani chha.",inquiry
+159,Yo item ko availability check garna sakchhu ki chhaina?,"Ho, tapai yo item ko availability check garna saknuhuncha. Yo available chha.",inquiry
+160,Kripaya malai yo product stock ma chha ki chhaina bhanera janakari dinuhos na.,"Ho, yo product stock ma chha.",inquiry
+161,Yo saman ko availability ajhai chha ki nai bhanera confirm garidinuhos.,"Ho, yo saman ajhai available chha.",inquiry
+162,Yo item stock ma ajhai chha ki chhaina bhanera malai janakari dinuhos.,"Ho, yo item stock ma ajhai chha.",inquiry
+163,"Yo product ko stock update cha bhane bhanidinuhos, please.","Ho, yo product ko stock update cha.",inquiry
+164,Kripaya yo saman stock ma chha ki chhaina bhanera confirm garidinuhos.,"Ho, yo saman stock ma chha.",inquiry
+165,Yo item ko availability barema thap janakari dinuhos na.,Yo item ajhai available chha.,inquiry
+166,Yo product stock ma chha ki nai bhanera janakari dinuhos na.,"Ho, yo product stock ma chha.",inquiry
+167,"Yo saman ko stock update cha ki chhaina bhane bhanidinuhos, please.","Ho, yo saman ko stock update cha.",inquiry
+168,Yo item stock ma chha bhane maile order garnu chahanchu.,"Ho, yo item stock ma chha. Tapai order garna saknuhuncha.",inquiry
+169,Kripaya malai yo product ko availability barema bhanidinuhos na.,Yo product ajhai available chha.,inquiry
+170,Yo saman stock ma ajhai pani chha ki chhaina bhanera janakari dinuhos.,"Ho, yo saman stock ma ajhai pani chha.",inquiry
+171,"Dherai bhayena, yo saman ajhai stock ma chha ki chhaina?","Ho, yo saman ajhai stock ma chha. Tapai le order garna saknuhuncha.",inquiry
+172,"Yo product stock ma chhaina bhane dherai dukha lagcha, ke yo stock ma chha?","Ho, yo product stock ma chha. Tapai le aaram le order garna saknuhuncha.",inquiry
+173,Yo item ko stock barema malai janakari dinus na. Order garnai parcha.,Yo item stock ma chha. Tapai le order garna saknuhuncha.,inquiry
+174,"Sakdo chhito malai yo saman stock ma chha ki chhaina bhanidinuhos, please.","Ho, yo saman stock ma chha.",inquiry
+175,Asha chha ki yo product ajhai stock ma chha? Order garnu chahanchu.,"Ho, yo product ajhai stock ma chha. Tapai le order garna saknuhuncha.",inquiry
+176,Yo saman stock ma chha bhane matra maile order garna chahanchu. Kripaya bhanidinuhos.,"Ho, yo saman stock ma chha. Tapai le order garna saknuhuncha.",inquiry
+177,Yo product stock ma nai chha bhane malai khusi lagcha. Ke yo stock ma chha?,"Ho, yo product stock ma chha. Tapai le order garna saknuhuncha.",inquiry
+178,Dherai utsukta chha. Yo item ajhai stock ma chha ki chhaina?,"Ho, yo item ajhai stock ma chha.",inquiry
+179,Yo saman ko availability barema malai janakari dinus na. Ajhai stock ma chha ki?,"Ho, yo saman ajhai stock ma chha.",inquiry
+180,"Yo product stock ma chha bhane, kripaya malai bhanidinuhos na.","Ho, yo product stock ma chha.",inquiry
+181,Yo item ko stock update barema malai janakari dinus. Kati excited chhu.,Yo item ko stock update chha ra ajhai available chha.,inquiry
+182,"Yo saman stock ma ajhai pani chha bhane, kripaya malai thaha dinuhos.","Ho, yo saman stock ma ajhai pani chha.",inquiry
+183,Yo product ko availability check garna milchha? Malai kina parcha.,"Ho, tapai yo product ko availability check garna saknuhuncha. Yo available chha.",inquiry
+184,Yo item stock ma ajhai chha ki? Kripaya malai confirm garidinuhos.,"Ho, yo item stock ma ajhai chha.",inquiry
+185,Yo saman stock ma chha bhane matra maile order garnu chahanchu. Dherai important chha.,"Ho, yo saman stock ma chha. Tapai le order garna saknuhuncha.",inquiry
+186,Yo product ko stock ajhai available chha ki nai? Dherai utsukta lagyo.,"Ho, yo product ko stock ajhai available chha.",inquiry
+187,"Yo item ko stock ma ajhai chha bhane, kripaya malai janakari dinuhos.","Ho, yo item stock ma ajhai chha.",inquiry
+188,Yo saman ajhai stock ma chha ki chhaina? Please bhanidinuhos.,"Ho, yo saman ajhai stock ma chha.",inquiry
+189,Yo product stock ma ajhai pani available chha ki nai?,"Ho, yo product stock ma ajhai pani available chha.",inquiry
+190,Yo item ko stock update barema malai thap janakari dinuhos. Ajhai available chha ki?,Yo item ko stock update chha ra ajhai available chha.,inquiry
+191,Yo saman stock ma chha bhane matra maile order garnu sakchhu. Kripaya confirm garidinuhos.,"Ho, yo saman stock ma chha. Tapai le order garna saknuhuncha.",inquiry
+192,"Yo product ko availability check garna sakchhu bhane, kripaya malai bhanidinuhos.","Ho, tapai yo product ko availability check garna saknuhuncha. Ajhai stock ma chha.",inquiry
+193,Yo item stock ma ajhai pani chha ki chhaina bhanera confirm garidinuhos.,"Ho, yo item stock ma ajhai pani chha.",inquiry
+194,Yo saman ko stock update chha bhane malai khusi lagcha. Ajhai available chha ki?,"Ho, yo saman ko stock update chha ra ajhai available chha.",inquiry
+195,"Yo product stock ma chha bhane, kripaya malai janakari dinuhos na.","Ho, yo product stock ma chha.",inquiry
+196,Yo item ko availability barema thap janakari dinuhos. Ajhai stock ma chha ki?,"Ho, yo item ajhai stock ma chha.",inquiry
+197,Yo saman stock ma ajhai pani available chha ki? Malai kina chahinchha.,"Ho, yo saman stock ma ajhai pani available chha.",inquiry
+198,Yo product stock ma nai chha bhane order garna milchha?,"Ho, yo product stock ma nai chha. Tapai order garna milchha.",inquiry
+199,Kripaya yo item ko stock update barema malai janakari dinuhos. Kati utsuk chhu.,Yo item ko stock update chha ra ajhai available chha.,inquiry
+200,Yo saman ko stock ma ajhai chha ki chhaina? Please bhanidinuhos.,"Ho, yo saman stock ma ajhai chha.",inquiry
+201,"Yo product ajhai pani available chha bhane, kripaya malai bhanidinuhos.","Ho, yo product ajhai pani available chha.",inquiry
+202,Yo item ko stock update cha bhane bhanidinuhos. Dherai excited chhu.,"Ho, yo item ko stock update cha ra ajhai available chha.",inquiry
+203,Yo saman ajhai stock ma chha ki chhaina bhanera malai janakari dinuhos.,"Ho, yo saman ajhai stock ma chha.",inquiry
+204,Yo product stock ma ajhai available chha ki nai? Please bhanidinuhos.,"Ho, yo product stock ma ajhai available chha.",inquiry
+205,Yo item ko stock ajhai update chha bhane malai bhanidinuhos.,"Ho, yo product aba chitai aaucha hai.",inquiry
+206,"Yo item ko stock ajhai update chha bhane, kripaya malai thap janakari dinuhos.","Ho, yo item ko stock update chha ra tapai order garna saknuhuncha.",inquiry
+207,"Yo product stock ma chha bhane, kripaya malai janakari dinuhos na. Kati utsuk chhu.","Ho, yo product stock ma chha. Tapai le order garna saknuhuncha.",inquiry
+208,Yo item ko stock ajhai pani chha ki chhaina? Thap janakari dinus.,"Ho, yo item ko stock ajhai pani chha.",inquiry
+209,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,"Ho, yo saman ko stock update chha ra tapai order garna saknuhuncha.",inquiry
+210,Yo product stock ma ajhai chha ki nai? Kripaya bhanidinuhos.,"Ho, yo product stock ma ajhai chha.",inquiry
+211,"Yo saman stock ma chha bhane, kripaya malai bhanidinuhos. Kati utsuk chhu.","Ho, yo saman stock ma chha. Tapai le order garna saknuhuncha.",inquiry
+212,Yo item ko availability barema malai janakari dinuhos. Ajhai stock ma chha ki?,"Ho, yo item ajhai stock ma chha.",inquiry
+213,"Yo product ajhai pani available chha bhane, kripaya malai thap janakari dinuhos.","Ho, yo product ajhai pani available chha.",inquiry
+214,"Yo saman ko stock update cha bhane, kripaya malai bhanidinuhos. Dherai excited chhu.","Ho, yo saman ko stock update cha ra tapai order garna saknuhuncha.",inquiry
+215,Yo item stock ma ajhai chha ki chhaina? Kripaya thap janakari dinus.,"Ho, yo item stock ma ajhai chha.",inquiry
+216,Yo product ko stock ajhai available chha ki nai? Kripaya bhanidinuhos.,"Ho, yo product ko stock ajhai available chha.",inquiry
+217,Yo saman stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,"Ho, yo saman stock ma ajhai pani available chha.",inquiry
+218,"Yo item ko stock update cha bhane, kripaya malai bhanidinuhos. Dherai utsuk chhu.","Ho, yo item ko stock update cha ra tapai order garna saknuhuncha.",inquiry
+219,Yo product stock ma chha ki nai? Kripaya bhanidinuhos.,"Ho, yo product stock ma chha.",inquiry
+220,Yo saman ko availability ajhai chha ki nai? Kripaya malai thap janakari dinuhos.,"Ho, yo saman ajhai available chha.",inquiry
+221,Yo item stock ma ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,"Ho, yo item stock ma ajhai pani chha.",inquiry
+222,"Yo product ko stock update chha bhane, kripaya malai bhanidinuhos. Dherai excited chhu.","Ho, yo product ko stock update chha ra tapai order garna saknuhuncha.",inquiry
+223,Yo saman stock ma ajhai chha ki chhaina? Kripaya thap janakari dinuhos.,"Ho, yo saman stock ma ajhai chha.",inquiry
+224,Yo item ko availability ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,"Ho, yo item ko availability ajhai pani chha.",inquiry
+225,Yo product stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,"Ho, yo product stock ma ajhai pani available chha.",inquiry
+226,"Yo item ko stock ajhai update chha bhane, kripaya malai thap janakari dinuhos.",Aavashyak chha! Yo item ko stock ajhai update chha ra tapai order garna saknuhuncha.,inquiry
+227,"Yo product stock ma chha bhane, kripaya malai janakari dinuhos na. Kati utsuk chhu.",Sakchha! Yo product stock ma chha. Tapai le order garna saknuhuncha.,inquiry
+228,Yo item ko stock ajhai pani chha ki chhaina? Thap janakari dinus.,Dherai sahuliyat chha! Yo item ko stock ajhai pani chha.,inquiry
+229,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,Sadhain hunchha! Yo saman ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+230,Yo product stock ma ajhai chha ki nai? Kripaya bhanidinuhos.,Nihswarth chha! Yo product stock ma chha.,inquiry
+231,Yo saman ko availability ajhai chha ki nai? Kripaya malai thap janakari dinuhos.,Santosh chha! Yo saman ajhai available chha.,inquiry
+232,Yo item stock ma ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Hajir chhu! Yo item stock ma ajhai pani chha.,inquiry
+233,"Yo product ko stock update chha bhane, kripaya malai bhanidinuhos. Dherai excited chhu.",Abasya! Yo product ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+234,Yo saman stock ma ajhai chha ki chhaina? Kripaya thap janakari dinuhos.,Khusi chhu! Yo saman stock ma ajhai chha.,inquiry
+235,Yo item ko availability ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Sadhain chha! Yo item ko availability ajhai pani chha.,inquiry
+236,Yo product stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,Yatharth chha! Yo product stock ma ajhai pani available chha.,inquiry
+237,Yo item stock ma ajhai chha ki nai? Kripaya thap janakari dinus.,Aavashyak chha! Yo item stock ma ajhai chha.,inquiry
+238,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,Santusht chhu! Yo saman ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+239,Yo product stock ma ajhai chha ki nai? Kripaya bhanidinuhos.,Sakchha! Yo product stock ma chha.,inquiry
+240,Yo saman ko availability ajhai chha ki nai? Kripaya malai thap janakari dinuhos.,Hajir chhu! Yo saman ajhai available chha.,inquiry
+241,Yo item stock ma ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Nihswarth chha! Yo item stock ma ajhai pani chha.,inquiry
+242,"Kripaya bhanidinuhos, yo item ko stock ajhai pani chha ki chhaina?",Sadhain! Yo item ko stock ajhai pani chha.,inquiry
+243,Yo saman ko stock ma ajhai chha ki nai? Kripaya thap janakari dinuhos.,Aavashyak chha! Yo saman stock ma ajhai chha.,inquiry
+244,Yo product stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,Yatharth chha! Yo product stock ma ajhai pani available chha.,inquiry
+245,"Kripaya bhanidinuhos, yo item stock ma ajhai chha ki nai?",Sakchha! Yo item stock ma chha.,inquiry
+246,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,Santusht chhu! Yo saman ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+247,Yo product stock ma ajhai chha ki nai? Kripaya bhanidinuhos.,Nihswarth chha! Yo product stock ma chha.,inquiry
+248,Yo saman ko availability ajhai chha ki nai? Kripaya malai thap janakari dinuhos.,Hajir chhu! Yo saman ajhai available chha.,inquiry
+249,Yo item stock ma ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Aavashyak chha! Yo item stock ma ajhai pani chha.,inquiry
+250,Yo product ko stock update chha ki chhaina? Kripaya malai bhanidinuhos.,Sakchha! Yo product ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+251,"Kripaya bhanidinuhos, yo saman stock ma ajhai chha ki nai?",Hajir chhu! Yo saman stock ma ajhai chha.,inquiry
+252,Yo item ko availability ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Nihswarth chha! Yo item ko availability ajhai pani chha.,inquiry
+253,Yo product stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,Abasya! Yo product stock ma ajhai pani available chha.,inquiry
+254,"Kripaya bhanidinuhos, yo item stock ajhai chha ki nai?",Santusht chhu! Yo item stock ma ajhai chha.,inquiry
+255,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,Sadhain! Yo saman ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+256,Yo product stock ma ajhai chha ki nai? Kripaya bhanidinuhos.,Sakchha! Yo product stock ma chha.,inquiry
+257,Yo saman ko availability ajhai chha ki nai? Kripaya malai thap janakari dinuhos.,Hajir chhu! Yo saman ajhai available chha.,inquiry
+258,Yo item stock ma ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Aavashyak chha! Yo item stock ma ajhai pani chha.,inquiry
+259,Yo product ko stock update chha ki chhaina? Kripaya malai bhanidinuhos.,Nihswarth chha! Yo product ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+260,"Kripaya bhanidinuhos, yo saman stock ma ajhai chha ki nai?",Santusht chhu! Yo saman stock ma ajhai chha.,inquiry
+261,Yo item ko availability ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Abasya! Yo item ko availability ajhai pani chha.,inquiry
+262,Yo product stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,Yatharth chha! Yo product stock ma ajhai pani available chha.,inquiry
+263,"Kripaya bhanidinuhos, yo item stock ajhai chha ki nai?",Sakchha! Yo item stock ma chha.,inquiry
+264,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,Santusht chhu! Yo saman ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+265,Yo product stock ma ajhai chha ki nai? Kripaya bhanidinuhos.,Nihswarth chha! Yo product stock ma chha.,inquiry
+266,Yo saman ko availability ajhai chha ki nai? Kripaya malai thap janakari dinuhos.,Hajir chhu! Yo saman ajhai available chha.,inquiry
+267,Yo item stock ma ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Aavashyak chha! Yo item stock ma ajhai pani chha.,inquiry
+268,Yo product ko stock update chha ki chhaina? Kripaya malai bhanidinuhos.,Nihswarth chha! Yo product ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+269,"Kripaya bhanidinuhos, yo saman stock ma ajhai chha ki nai?",Santusht chhu! Yo saman stock ma ajhai chha.,inquiry
+270,Yo item ko availability ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Abasya! Yo item ko availability ajhai pani chha.,inquiry
+271,Yo product stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,Yatharth chha! Yo product stock ma ajhai pani available chha.,inquiry
+272,"Kripaya bhanidinuhos, yo item stock ajhai chha ki nai?",Sakchha! Yo item stock ma chha.,inquiry
+273,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,Santusht chhu! Yo saman ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+274,Yo product stock ma ajhai chha ki nai? Kripaya bhanidinuhos.,Nihswarth chha! Yo product stock ma chha.,inquiry
+275,Yo saman ko availability ajhai chha ki nai? Kripaya malai thap janakari dinuhos.,Hajir chhu! Yo saman ajhai available chha.,inquiry
+276,Yo item stock ma ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Aavashyak chha! Yo item stock ma ajhai pani chha.,inquiry
+277,Yo product ko stock update chha ki chhaina? Kripaya malai bhanidinuhos.,Nihswarth chha! Yo product ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+278,"Kripaya bhanidinuhos, yo saman stock ma ajhai chha ki nai?",Santusht chhu! Yo saman stock ma ajhai chha.,inquiry
+279,Yo item ko availability ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Abasya! Yo item ko availability ajhai pani chha.,inquiry
+280,Yo product stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,Yatharth chha! Yo product stock ma ajhai pani available chha.,inquiry
+281,"Kripaya bhanidinuhos, yo item stock ajhai chha ki nai?",Sakchha! Yo item stock ma chha.,inquiry
+282,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,Santusht chhu! Yo saman ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+283,Yo product stock ma ajhai chha ki nai? Kripaya bhanidinuhos.,Nihswarth chha! Yo product stock ma chha.,inquiry
+284,Yo saman ko availability ajhai chha ki nai? Kripaya malai thap janakari dinuhos.,Hajir chhu! Yo saman ajhai available chha.,inquiry
+285,Yo item stock ma ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Aavashyak chha! Yo item stock ma ajhai pani chha.,inquiry
+286,Yo product ko stock update chha ki chhaina? Kripaya malai bhanidinuhos.,Nihswarth chha! Yo product ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+287,"Kripaya bhanidinuhos, yo saman stock ma ajhai chha ki nai?",Santusht chhu! Yo saman stock ma ajhai chha.,inquiry
+288,Yo item ko availability ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Abasya! Yo item ko availability ajhai pani chha.,inquiry
+289,Yo product stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,Yatharth chha! Yo product stock ma ajhai pani available chha.,inquiry
+290,"Kripaya bhanidinuhos, yo item stock ajhai chha ki nai?",Sakchha! Yo item stock ma chha.,inquiry
+291,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,Santusht chhu! Yo saman ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+292,Yo product stock ma ajhai chha ki nai? Kripaya bhanidinuhos.,Nihswarth chha! Yo product stock ma chha.,inquiry
+293,Yo saman ko availability ajhai chha ki nai? Kripaya malai thap janakari dinuhos.,Hajir chhu! Yo saman ajhai available chha.,inquiry
+294,Yo item stock ma ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Aavashyak chha! Yo item stock ma ajhai pani chha.,inquiry
+295,Yo product ko stock update chha ki chhaina? Kripaya malai bhanidinuhos.,Nihswarth chha! Yo product ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+296,"Kripaya bhanidinuhos, yo saman stock ma ajhai chha ki nai?",Santusht chhu! Yo saman stock ma ajhai chha.,inquiry
+297,Yo item ko availability ajhai pani chha ki chhaina? Kripaya thap janakari dinus.,Abasya! Yo item ko availability ajhai pani chha.,inquiry
+298,Yo product stock ma ajhai pani available chha ki chhaina? Kripaya malai thap janakari dinuhos.,Yatharth chha! Yo product stock ma ajhai pani available chha.,inquiry
+299,"Kripaya bhanidinuhos, yo item stock ajhai chha ki nai?",Sakchha! Yo item stock ma chha.,inquiry
+300,Yo saman ko stock update chha ki chhaina? Kripaya malai thaha dinuhos.,Santusht chhu! Yo saman ko stock update chha ra tapai order garna saknuhuncha.,inquiry
+301,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+302,Yo saman ko stock ma ajhai chha ki chhaina? Kripaya malai thaha dinuhos.,Yo saman stock ma chha.,inquiry
+303,Yo product ajhai stock ma chha ki chhaina? Kripaya malai bhanidinuhos.,Yo product ajhai stock ma chha.,inquiry
+304,"Kripaya janakari dinuhos, yo item stock ma ajhai chha ki chhaina?",Yo item stock ma ajhai chha.,inquiry
+305,Yo saman ko availability ajhai chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+306,"Kripaya bhanidinuhos, yo product ko stock update chha ki chhaina?",Yo product ko stock update chha.,inquiry
+307,Yo item ko stock ajhai pani chha ki chhaina?,Yo item ko stock ajhai pani chha.,inquiry
+308,Yo saman stock ma ajhai pani chha ki chhaina?,Yo saman stock ma ajhai pani chha.,inquiry
+309,Yo product ajhai pani available chha ki chhaina?,Yo product ajhai pani available chha.,inquiry
+310,"Kripaya malai bhanidinuhos, yo item ajhai stock ma chha ki chhaina?",Yo item ajhai stock ma chha.,inquiry
+311,Yo saman ajhai pani stock ma chha ki chhaina?,Yo saman ajhai pani stock ma chha.,inquiry
+312,Yo product ajhai pani stock ma available chha ki chhaina?,Yo product ajhai pani stock ma available chha.,inquiry
+313,Yo item ko stock update chha ki chhaina?,Yo item ko stock update chha.,inquiry
+314,Yo saman ajhai stock ma chha ki chhaina?,Yo saman ajhai stock ma chha.,inquiry
+315,"Kripaya malai bhanidinuhos, yo product stock ma ajhai pani chha ki chhaina?",Yo product stock ma ajhai pani chha.,inquiry
+316,Yo item ajhai pani available chha ki chhaina?,Yo item ajhai pani available chha.,inquiry
+317,"Kripaya janakari dinuhos, yo saman ajhai stock ma chha ki chhaina?",Yo saman ajhai stock ma chha.,inquiry
+318,Yo product ko availability ajhai pani chha ki chhaina?,Yo product ajhai pani available chha.,inquiry
+319,Yo item stock ma ajhai pani chha ki chhaina?,Yo item stock ma ajhai pani chha.,inquiry
+320,Yo saman ko stock ajhai pani available chha ki chhaina?,Yo saman ajhai pani available chha.,inquiry
+321,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+322,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+323,"Kripaya malai janakari dinuhos, yo saman ko stock ajhai chha ki chhaina?",Yo saman ko stock ajhai chha.,inquiry
+324,Yo product stock ma ajhai chha ki chhaina?,Yo product stock ma ajhai chha.,inquiry
+325,Yo item ko availability ajhai chha ki chhaina?,Yo item ajhai available chha.,inquiry
+326,"Kripaya malai thaha dinuhos, yo saman ajhai stock ma chha ki chhaina?",Yo saman ajhai stock ma chha.,inquiry
+327,Yo product ko stock ajhai chha ki chhaina?,Yo product ko stock ajhai chha.,inquiry
+328,Yo item ajhai pani stock ma chha ki chhaina?,Yo item ajhai pani stock ma chha.,inquiry
+329,Yo saman ajhai stock ma chha ki chhaina?,Yo saman ajhai stock ma chha.,inquiry
+330,"Kripaya malai janakari dinuhos, yo product ajhai available chha ki chhaina?",Yo product ajhai available chha.,inquiry
+331,Yo item ko stock ajhai chha ki chhaina?,Yo item ko stock ajhai chha.,inquiry
+332,Yo saman ajhai available chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+333,"Kripaya janakari dinuhos, yo product ajhai pani stock ma chha ki chhaina?",Yo product ajhai pani stock ma chha.,inquiry
+334,Yo item ajhai pani stock ma available chha ki chhaina?,Yo item ajhai pani stock ma available chha.,inquiry
+335,Yo saman ko stock ajhai chha ki chhaina?,Yo saman ko stock ajhai chha.,inquiry
+336,Yo product ajhai available chha ki chhaina?,Yo product ajhai available chha.,inquiry
+337,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+338,Yo saman ko stock ajhai pani chha ki chhaina?,Yo saman ko stock ajhai pani chha.,inquiry
+339,Yo product ajhai pani stock ma chha ki chhaina?,Yo product ajhai pani stock ma chha.,inquiry
+340,Yo item ko stock ajhai pani chha ki chhaina?,Yo item ko stock ajhai pani chha.,inquiry
+341,Yo saman ko stock ajhai chha ki chhaina?,Yo saman ko stock ajhai chha.,inquiry
+342,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+343,Yo item ajhai pani available chha ki chhaina?,Yo item ajhai pani available chha.,inquiry
+344,Yo saman ko stock ajhai pani chha ki chhaina?,Yo saman ko stock ajhai pani chha.,inquiry
+345,Yo product ko availability ajhai chha ki chhaina?,Yo product ko availability ajhai chha.,inquiry
+346,"Kripaya malai janakari dinuhos, yo item stock ma ajhai chha ki chhaina?",Yo item stock ma ajhai chha.,inquiry
+347,Yo saman ko stock ajhai pani available chha ki chhaina?,Yo saman ko stock ajhai pani available chha.,inquiry
+348,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+349,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+350,"Kripaya janakari dinuhos, yo saman ajhai available chha ki chhaina?",Yo saman ajhai available chha.,inquiry
+351,Yo product ko stock ajhai chha ki chhaina?,Yo product ko stock ajhai chha.,inquiry
+352,Yo item ajhai pani stock ma available chha ki chhaina?,Yo item ajhai pani stock ma available chha.,inquiry
+353,Yo saman ko availability ajhai chha ki chhaina?,Yo saman ko availability ajhai chha.,inquiry
+354,Yo product ajhai stock ma available chha ki chhaina?,Yo product ajhai stock ma available chha.,inquiry
+355,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+356,Yo saman ko stock ajhai pani available chha ki chhaina?,Yo saman ko stock ajhai pani available chha.,inquiry
+357,Yo product ko availability ajhai pani chha ki chhaina?,Yo product ko availability ajhai pani chha.,inquiry
+358,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+359,Yo saman ko stock ajhai pani chha ki chhaina?,Yo saman ko stock ajhai pani chha.,inquiry
+360,Yo product ajhai available chha ki chhaina?,Yo product ajhai available chha.,inquiry
+361,Yo item ko availability ajhai chha ki chhaina?,Yo item ajhai available chha.,inquiry
+362,Yo saman ko stock ajhai pani available chha ki chhaina?,Yo saman ko stock ajhai pani available chha.,inquiry
+363,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+364,Yo item ajhai pani stock ma chha ki chhaina?,Yo item ajhai pani stock ma chha.,inquiry
+365,Yo saman ajhai stock ma chha ki chhaina?,Yo saman ajhai stock ma chha.,inquiry
+366,Yo product ko availability ajhai pani chha ki chhaina?,Yo product ko availability ajhai pani chha.,inquiry
+367,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+368,Yo saman ko stock ajhai chha ki chhaina?,Yo saman ko stock ajhai chha.,inquiry
+369,Yo product ajhai stock ma available chha ki chhaina?,Yo product ajhai stock ma available chha.,inquiry
+370,Yo item ko stock ajhai pani chha ki chhaina?,Yo item ko stock ajhai pani chha.,inquiry
+371,Yo saman ajhai pani stock ma chha ki chhaina?,Yo saman ajhai pani stock ma chha.,inquiry
+372,Yo product ko availability ajhai chha ki chhaina?,Yo product ajhai available chha.,inquiry
+373,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+374,Yo saman ko stock ajhai pani available chha ki chhaina?,Yo saman ko stock ajhai pani available chha.,inquiry
+375,Yo product ko availability ajhai pani chha ki chhaina?,Yo product ko availability ajhai pani chha.,inquiry
+376,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+377,Yo saman ajhai pani stock ma available chha ki chhaina?,Yo saman ajhai pani stock ma available chha.,inquiry
+378,Yo product ko availability ajhai chha ki chhaina?,Yo product ajhai available chha.,inquiry
+379,Yo item ko stock ajhai chha ki chhaina?,Yo item ko stock ajhai chha.,inquiry
+380,Yo saman ko availability ajhai chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+381,Yo product ajhai pani stock ma chha ki chhaina?,Yo product ajhai pani stock ma chha.,inquiry
+382,Yo item ko stock ajhai pani available chha ki chhaina?,Yo item ko stock ajhai pani available chha.,inquiry
+383,Yo saman ajhai stock ma chha ki chhaina?,Yo saman ajhai stock ma chha.,inquiry
+384,Yo product ko availability ajhai pani chha ki chhaina?,Yo product ko availability ajhai pani chha.,inquiry
+385,Yo item ajhai pani stock ma chha ki chhaina?,Yo item ajhai pani stock ma chha.,inquiry
+386,Yo saman ko availability ajhai chha ki chhaina?,Yo saman ko availability ajhai chha.,inquiry
+387,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+388,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+389,Yo saman ko availability ajhai pani chha ki chhaina?,Yo saman ko availability ajhai pani chha.,inquiry
+390,Yo product ko stock ajhai pani chha ki chhaina?,Yo product ko stock ajhai pani chha.,inquiry
+391,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+392,Yo saman ajhai available chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+393,Yo product ko availability ajhai pani chha ki chhaina?,Yo product ko availability ajhai pani chha.,inquiry
+394,Yo item ajhai pani stock ma chha ki chhaina?,Yo item ajhai pani stock ma chha.,inquiry
+395,Yo saman ko stock ajhai chha ki chhaina?,Yo saman ko stock ajhai chha.,inquiry
+396,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+397,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+398,Yo saman ko stock ajhai pani available chha ki chhaina?,Yo saman ko stock ajhai pani available chha.,inquiry
+399,Yo product ko availability ajhai pani chha ki chhaina?,Yo product ko availability ajhai pani chha.,inquiry
+400,Yo item ajhai stock ma chha ki chhaina?,Yo item ajhai stock ma chha.,inquiry
+401,"Kripaya bhanidinuhos, yo saman stock ma chha ki chhaina?",Yo saman stock ma chha.,inquiry
+402,"Malai yo item ko stock barema thaha dinuhos, chha ki chhaina?",Yo item ajhai stock ma chha.,inquiry
+403,"Kripaya janakari dinuhos, yo product ajhai available chha ki chhaina?",Yo product ajhai available chha.,inquiry
+404,Yo saman ajhai pani stock ma chha ki chhaina?,Yo saman ajhai pani stock ma chha.,inquiry
+405,Kripaya yo item ko stock bare janakari dinuhos.,Yo item ajhai stock ma chha.,inquiry
+406,Yo product ajhai pani available chha ki chhaina?,Yo product ajhai pani available chha.,inquiry
+407,Yo saman stock ma chha ki chhaina?,Yo saman stock ma chha.,inquiry
+408,"Kripaya malai bhanidinuhos, yo item ajhai stock ma chha ki chhaina?",Yo item ajhai stock ma chha.,inquiry
+409,Yo product ko stock ajhai chha ki chhaina?,Yo product ko stock ajhai chha.,inquiry
+410,Yo saman ajhai pani stock ma chha ki chhaina?,Yo saman ajhai pani stock ma chha.,inquiry
+411,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+412,Kripaya yo saman ko stock bare janakari dinuhos.,Yo saman ajhai stock ma chha.,inquiry
+413,Yo product ajhai pani stock ma available chha ki chhaina?,Yo product ajhai pani stock ma available chha.,inquiry
+414,Yo item ajhai pani stock ma chha ki chhaina?,Yo item ajhai pani stock ma chha.,inquiry
+415,"Kripaya janakari dinuhos, yo saman ajhai stock ma chha ki chhaina?",Yo saman ajhai stock ma chha.,inquiry
+416,Yo product ko stock ajhai chha ki chhaina?,Yo product ko stock ajhai chha.,inquiry
+417,Yo item ajhai pani available chha ki chhaina?,Yo item ajhai pani available chha.,inquiry
+418,Kripaya yo saman ko stock update bhanidinuhos.,Yo saman ajhai stock ma chha.,inquiry
+419,Yo product ajhai pani stock ma available chha ki chhaina?,Yo product ajhai pani stock ma available chha.,inquiry
+420,Yo item ko availability ajhai chha ki chhaina?,Yo item ajhai available chha.,inquiry
+421,"Kripaya malai bhanidinuhos, yo saman ajhai stock ma chha ki chhaina?",Yo saman ajhai stock ma chha.,inquiry
+422,Yo product ko stock ajhai pani chha ki chhaina?,Yo product ko stock ajhai pani chha.,inquiry
+423,Yo item ajhai pani available chha ki chhaina?,Yo item ajhai pani available chha.,inquiry
+424,Yo saman ko stock ajhai chha ki chhaina?,Yo saman ko stock ajhai chha.,inquiry
+425,Yo product ajhai pani stock ma chha ki chhaina?,Yo product ajhai pani stock ma chha.,inquiry
+426,Yo item ajhai pani stock ma chha ki chhaina?,Yo item ajhai pani stock ma chha.,inquiry
+427,"Kripaya malai janakari dinuhos, yo saman ajhai available chha ki chhaina?",Yo saman ajhai available chha.,inquiry
+428,Yo product ko stock ajhai chha ki chhaina?,Yo product ko stock ajhai chha.,inquiry
+429,Yo item ko availability ajhai chha ki chhaina?,Yo item ajhai available chha.,inquiry
+430,Kripaya yo saman ko stock update bhanidinuhos.,Yo saman ajhai stock ma chha.,inquiry
+431,Yo product ajhai pani stock ma available chha ki chhaina?,Yo product ajhai pani stock ma available chha.,inquiry
+432,Yo item ko stock ajhai chha ki chhaina?,Yo item ko stock ajhai chha.,inquiry
+433,Yo saman ajhai available chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+434,Yo product ajhai pani stock ma chha ki chhaina?,Yo product ajhai pani stock ma chha.,inquiry
+435,"Kripaya janakari dinuhos, yo item ajhai stock ma chha ki chhaina?",Yo item ajhai stock ma chha.,inquiry
+436,Yo saman ajhai pani stock ma available chha ki chhaina?,Yo saman ajhai pani stock ma available chha.,inquiry
+437,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+438,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+439,"Kripaya malai bhanidinuhos, yo saman ajhai stock ma chha ki chhaina?",Yo saman ajhai stock ma chha.,inquiry
+440,Yo product ko stock ajhai chha ki chhaina?,Yo product ko stock ajhai chha.,inquiry
+441,Yo item ajhai pani stock ma chha ki chhaina?,Yo item ajhai pani stock ma chha.,inquiry
+442,Kripaya yo saman ko stock bare janakari dinuhos.,Yo saman ajhai stock ma chha.,inquiry
+443,Yo product ajhai pani available chha ki chhaina?,Yo product ajhai pani available chha.,inquiry
+444,Yo item ko stock ajhai chha ki chhaina?,Yo item ko stock ajhai chha.,inquiry
+445,Yo saman ajhai available chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+446,Yo product ajhai pani stock ma chha ki chhaina?,Yo product ajhai pani stock ma chha.,inquiry
+447,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+448,Kripaya yo saman ko stock update bhanidinuhos.,Yo saman ajhai stock ma chha.,inquiry
+449,Yo product ajhai pani stock ma available chha ki chhaina?,Yo product ajhai pani stock ma available chha.,inquiry
+450,Yo item ko stock ajhai chha ki chhaina?,Yo item ko stock ajhai chha.,inquiry
+451,Yo saman ajhai available chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+452,Yo product ajhai pani stock ma chha ki chhaina?,Yo product ajhai pani stock ma chha.,inquiry
+453,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+454,Yo saman ko availability ajhai chha ki chhaina?,Yo saman ko availability ajhai chha.,inquiry
+455,Yo product ajhai stock ma available chha ki chhaina?,Yo product ajhai stock ma available chha.,inquiry
+456,Yo item ko stock ajhai pani chha ki chhaina?,Yo item ko stock ajhai pani chha.,inquiry
+457,Kripaya yo saman ko stock update bhanidinuhos.,Yo saman ajhai stock ma chha.,inquiry
+458,Yo product ko availability ajhai pani chha ki chhaina?,Yo product ko availability ajhai pani chha.,inquiry
+459,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+460,Yo saman ko stock ajhai chha ki chhaina?,Yo saman ko stock ajhai chha.,inquiry
+461,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+462,Yo item ajhai pani available chha ki chhaina?,Yo item ajhai pani available chha.,inquiry
+463,Kripaya yo saman ko stock bare janakari dinuhos.,Yo saman ajhai stock ma chha.,inquiry
+464,Yo product ajhai pani available chha ki chhaina?,Yo product ajhai pani available chha.,inquiry
+465,Yo item ko stock ajhai chha ki chhaina?,Yo item ko stock ajhai chha.,inquiry
+466,Yo saman ajhai available chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+467,Yo product ajhai pani stock ma chha ki chhaina?,Yo product ajhai pani stock ma chha.,inquiry
+468,Yo item ko availability ajhai chha ki chhaina?,Yo item ajhai available chha.,inquiry
+469,"Kripaya malai bhanidinuhos, yo saman ajhai stock ma chha ki chhaina?",Yo saman ajhai stock ma chha.,inquiry
+470,Yo product ko stock ajhai chha ki chhaina?,Yo product ko stock ajhai chha.,inquiry
+471,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+472,Yo saman ko stock ajhai chha ki chhaina?,Yo saman ko stock ajhai chha.,inquiry
+473,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+474,Yo item ajhai pani stock ma chha ki chhaina?,Yo item ajhai pani stock ma chha.,inquiry
+475,"Kripaya malai bhanidinuhos, yo saman ajhai available chha ki chhaina?",Yo saman ajhai available chha.,inquiry
+476,Yo product ko stock ajhai pani chha ki chhaina?,Yo product ko stock ajhai pani chha.,inquiry
+477,Yo item ajhai pani stock ma chha ki chhaina?,Yo item ajhai pani stock ma chha.,inquiry
+478,Yo saman ko stock ajhai available chha ki chhaina?,Yo saman ko stock ajhai available chha.,inquiry
+479,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+480,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+481,Kripaya yo saman ko stock bare janakari dinuhos.,Yo saman ajhai stock ma chha.,inquiry
+482,Yo product ajhai available chha ki chhaina?,Yo product ajhai available chha.,inquiry
+483,Yo item ko stock ajhai chha ki chhaina?,Yo item ko stock ajhai chha.,inquiry
+484,Yo saman ajhai available chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+485,Yo product ajhai pani stock ma chha ki chhaina?,Yo product ajhai pani stock ma chha.,inquiry
+486,Yo item ko availability ajhai chha ki chhaina?,Yo item ajhai available chha.,inquiry
+487,"Kripaya malai bhanidinuhos, yo saman ajhai stock ma chha ki chhaina?",Yo saman ajhai stock ma chha.,inquiry
+488,Yo product ko stock ajhai pani chha ki chhaina?,Yo product ko stock ajhai pani chha.,inquiry
+489,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+490,Yo saman ko stock ajhai chha ki chhaina?,Yo saman ko stock ajhai chha.,inquiry
+491,Yo product ajhai stock ma chha ki chhaina?,Yo product ajhai stock ma chha.,inquiry
+492,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+493,Kripaya yo saman ko stock bare janakari dinuhos.,Yo saman ajhai stock ma chha.,inquiry
+494,Yo product ajhai pani available chha ki chhaina?,Yo product ajhai pani available chha.,inquiry
+495,Yo item ko stock ajhai chha ki chhaina?,Yo item ko stock ajhai chha.,inquiry
+496,Yo saman ajhai available chha ki chhaina?,Yo saman ajhai available chha.,inquiry
+497,Yo product ajhai pani stock ma chha ki chhaina?,Yo product ajhai pani stock ma chha.,inquiry
+498,Yo item ajhai available chha ki chhaina?,Yo item ajhai available chha.,inquiry
+499,Kripaya yo saman ko stock bare janakari dinuhos.,Yo saman ajhai stock ma chha.,inquiry
+500,Yo product ajhai available chha ki chhaina?,Yo product ajhai available chha.,inquiry
