@@ -3,54 +3,7 @@ from typing import List, Dict
 import tkinter as tk
 from tkinter import ttk
 import re
-
-class DataLabeler:
-    def __init__(self):
-        # Define entity types with color coding for visualization
-        self.entity_types = {
-            'BRAND': '#FFB6C1',      # Light pink
-            'PRODUCT': '#98FB98',     # Pale green
-            'SIZE': '#87CEFA',        # Light blue
-            'COLOR': '#DDA0DD',       # Plum
-            'PRICE': '#F0E68C',       # Khaki
-            'CATEGORY': '#E6E6FA',    # Lavender
-            'MATERIAL': '#FFDAB9',    # Peach
-            'QUANTITY': '#20B2AA',    # Light sea green
-            'TECH_SPEC': '#FFA07A'    # Light salmon
-        }
-        
-        self.labeled_data = []
-    
-    def label_sentence(self, sentence: str) -> Dict:
-        """
-        Label a sentence using BIO (Beginning, Inside, Outside) scheme
-        Returns labeled tokens with their positions
-        """
-        tokens = sentence.split()
-        labels = ['O'] * len(tokens)  # Initialize all as Outside
-        token_spans = []
-        
-        current_pos = 0
-        for token in tokens:
-            token_spans.append((current_pos, current_pos + len(token)))
-            current_pos += len(token) + 1  # +1 for space
-            
-        return {
-            'text': sentence,
-            'tokens': tokens,
-            'spans': token_spans,
-            'labels': labels
-        }
-    
-    def save_labeled_data(self, filename: str):
-        """Save labeled data to JSON file"""
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(self.labeled_data, f, indent=2)
-    
-    def load_labeled_data(self, filename: str):
-        """Load labeled data from JSON file"""
-        with open(filename, 'r', encoding='utf-8') as f:
-            self.labeled_data = json.load(f)
+from labeler import DataLabeler
 
 class LabelingGUI:
     def __init__(self, labeler: DataLabeler):
@@ -58,16 +11,19 @@ class LabelingGUI:
         self.current_sentence_idx = 0
         
         # Sample sentences for labeling
-        self.sentences = [
-            "I want to buy Nike Air Max in size 9 for $120",
-            "Show me red Samsung Galaxy S21 phones",
-            "Looking for XL cotton t-shirts in navy blue",
-            "Need a 15-inch laptop with 16GB RAM"
-        ]
-        
+        self.sentences = list()
+        self.is_file_loaded = False
         self.root = tk.Tk()
         self.root.title("Ecommerce Data Labeler")
+        if not self.is_file_loaded:
+            self.load_file()
+            
         self.setup_gui()
+        
+    def load_file(self, filename: str = "./data/sentences.txt"):
+        with open(filename, "r") as f:
+            self.sentences = f.read().splitlines()
+            self.is_file_loaded = True
     
     def setup_gui(self):
         # Main frame
@@ -167,7 +123,7 @@ class LabelingGUI:
     def save_labels(self):
         """Save all labeled data"""
         self.save_current_labels()
-        self.labeler.save_labeled_data('labeled_data.json')
+        self.labeler.save_labeled_data('./data/labeled_data.json')
         print("Labels saved successfully!")
     
     def run(self):
