@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        .chat-container {
+            border: 1px solid #ddd;
+            border-radius: 12px;
+            padding: 20px;
+            min-height: 500px;
+            display: flex;
+            flex-direction: column;
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .messages {
+            flex-grow: 1;
+            margin-bottom: 20px;
+            overflow-y: auto;
+            max-height: 500px;
+            padding-right: 10px;
+        }
+
+        .message {
+            margin: 10px 0;
+            padding: 12px 16px;
+            border-radius: 12px;
+            max-width: 80%;
+            line-height: 1.4;
+        }
+
+        .bot-message {
+            background-color: #f0f7ff;
+            margin-right: 20%;
+            color: #2c3e50;
+        }
+
+        .user-message {
+            background-color: #1a73e8;
+            color: white;
+            margin-left: 20%;
+            text-align: right;
+        }
+
+        .input-container {
+            display: flex;
+            gap: 10px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+        }
+
+        .options-container {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+
+        .option-button {
+            padding: 10px 20px;
+            background-color: #f0f7ff;
+            color: #1a73e8;
+            border: 1px solid #1a73e8;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            flex: 1;
+            min-width: 150px;
+            font-size: 14px;
+        }
+
+        .option-button:hover {
+            background-color: #1a73e8;
+            color: white;
+        }
+
+        input {
+            flex-grow: 1;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 24px;
+            font-size: 14px;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: #1a73e8;
+        }
+
+        button {
+            padding: 12px 24px;
+            background-color: #1a73e8;
+            color: white;
+            border: none;
+            border-radius: 24px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover:not(:disabled) {
+            background-color: #1557b0;
+        }
+
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+
+        .product-card {
+            background-color: #fff;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 10px 0;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+
+        .typing-indicator {
+            padding: 12px 16px;
+            background-color: #f0f7ff;
+            border-radius: 12px;
+            margin: 10px 0;
+            width: fit-content;
+            display: none;
+        }
+
+        .typing-indicator span {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background-color: #1a73e8;
+            border-radius: 50%;
+            margin-right: 5px;
+            animation: typing 1s infinite;
+        }
+
+        @keyframes typing {
+
+            0%,
+            100% {
+                transform: translateY(0);
+            }
+
+            50% {
+                transform: translateY(-5px);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="chat-container">
+        <div class="messages" id="messages">
+            <div class="message bot-message">Namaste! Ma tapailai kasari sahayog garna sakchu?</div>
+        </div>
+        <div class="typing-indicator" id="typingIndicator">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="options-container" id="optionsContainer" style="display: none;">
+            <button class="option-button" id="orderStatusBtn">Check Order Status</button>
+            <button class="option-button" id="productInquiryBtn">Product Inquiry</button>
+            <button class="option-button" id="orderProductBtn">Order Product</button>
+        </div>
+        <div class="input-container">
+            <input type="text" id="userInput" placeholder="Type your message here..." disabled>
+            <button id="sendButton" disabled>Send</button>
+        </div>
+    </div>
+
+    <script>
+        const statusDb = [
+            { orderId: "ORD123", status: "processing" },
+            { orderId: "ORD234", status: "delivered" },
+            { orderId: "ORD986", status: "shipping" },
+            { orderId: "ORD232", status: "processing" },
+            { orderId: "ORD121", status: "shipping" }
+        ];
+
+        const productsDb = [
+            { id: 1, name: "laptop", details: "Dell Laptop, 8GB RAM, 256GB SSD", price: 85000 },
+            { id: 2, name: "mobile", details: "Samsung Galaxy A52, 128GB Storage", price: 35000 },
+            { id: 3, name: "headphone", details: "Sony Wireless Headphones", price: 8000 },
+            { id: 4, name: "watch", details: "Smart Watch with Heart Rate Monitor", price: 12000 }
+        ];
+
+        const statusResponseUtterances = {
+            processing: [
+                "Tapaiko order {orderId} processing hudei xa kripaya parkhanu hos.",
+                "Hajurko order {orderId} processing hudei xa.",
+                "{orderId} ko order processing stage ma cha."
+            ],
+            shipping: [
+                "Tapaiko order number {orderId} shipping hudei xa kehi din ma delivery hune cha.",
+                "Hajurko order {orderId} shipping hudei cha."
+            ],
+            delivered: [
+                "Order: {orderId} deliver vai sakyo.",
+                "Tapaiko saman {orderId} delivered vali sakeko cha."
+            ]
+        };
+
+        const messagesContainer = document.getElementById('messages');
+        const userInput = document.getElementById('userInput');
+        const sendButton = document.getElementById('sendButton');
+        const optionsContainer = document.getElementById('optionsContainer');
+        const typingIndicator = document.getElementById('typingIndicator');
+
+        let currentMode = null;
+        let currentStep = null;
+        let selectedProduct = null;
+        let orderDetails = {
+            product: null,
+            quantity: null,
+            address: null,
+            paymentMethod: null
+        };
+
+        // Simulated typing delay
+        function showTypingIndicator() {
+            typingIndicator.style.display = 'block';
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+
+        function hideTypingIndicator() {
+            typingIndicator.style.display = 'none';
+        }
+
+        async function addBotMessage(message) {
+            showTypingIndicator();
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            hideTypingIndicator();
+            addMessage(message);
+        }
+
+        function addMessage(message, isUser = false) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
+            messageDiv.textContent = message;
+            messagesContainer.appendChild(messageDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+
+        async function startNewChat() {
+            optionsContainer.style.display = 'flex';
+            await addBotMessage("Tapai lai kun seva chahincha?");
+        }
+
+        function getRandomResponse(responses) {
+            return responses[Math.floor(Math.random() * responses.length)];
+        }
+
+        function extractOrderId(text) {
+            const match = text.match(/ORD\d+/);
+            return match ? match[0] : null;
+        }
+
+        function formatPrice(price) {
+            return `Rs. ${price.toLocaleString()}`;
+        }
+
+        async function handleOrderProduct(productName) {
+            const product = productsDb.find(p =>
+                p.name.toLowerCase() === productName.toLowerCase()
+            );
+
+            if (product) {
+                selectedProduct = product;
+                currentMode = 'ordering';
+                currentStep = 'quantity';
+                await addBotMessage(`Tapai ${product.name} kati wata kinna chahanu huncha?`);
+            } else {
+                await addBotMessage("Maaf garnuhos, yo product ahile available chaina.");
+                resetChat();
+            }
+        }
+
+        async function handleOrderFlow(userInput) {
+            switch (currentStep) {
+                case 'quantity':
+                    const quantity = parseInt(userInput);
+                    if (quantity > 0) {
+                        orderDetails.quantity = quantity;
+                        orderDetails.product = selectedProduct;
+                        currentStep = 'address';
+                        await addBotMessage("Kripaya afno delivery address lekhnus.");
+                    } else {
+                        await addBotMessage("Kripaya valid quantity lekhnus.");
+                    }
+                    break;
+
+                case 'address':
+                    orderDetails.address = userInput;
+                    currentStep = 'payment';
+                    await addBotMessage("Tapai kun payment method use garna chahanu huncha?\n1. Cash on Delivery\n2. Online Payment\n3. Bank Transfer");
+                    break;
+
+                case 'payment':
+                    orderDetails.paymentMethod = userInput;
+                    const totalAmount = orderDetails.product.price * orderDetails.quantity;
+
+                    await addBotMessage(
+                        `Order Summary:\n` +
+                        `Product: ${orderDetails.product.name}\n` +
+                        `Quantity: ${orderDetails.quantity}\n` +
+                        `Total Amount: ${formatPrice(totalAmount)}\n` +
+                        `Delivery Address: ${orderDetails.address}\n` +
+                        `Payment Method: ${orderDetails.paymentMethod}\n\n` +
+                        `Tapai ko order successfully place vayo! Hamro team chaddai contact garcha.`
+                    );
+
+                    resetChat();
+                    await startNewChat();
+                    break;
+            }
+        }
+
+        async function handleUserInput() {
+            const userText = userInput.value.trim();
+            if (!userText) return;
+
+            addMessage(userText, true);
+            userInput.value = '';
+
+            if (currentMode === 'orderStatus') {
+                const orderId = extractOrderId(userText);
+                if (orderId) {
+                    const order = statusDb.find(order => order.orderId === orderId);
+                    if (order) {
+                        await addBotMessage(getRandomResponse(statusResponseUtterances[order.status])
+                            .replace('{orderId}', orderId));
+                    } else {
+                        await addBotMessage("Hajurko orderid database ma xaina kripaya naya order garnu hos.");
+                    }
+                    resetChat();
+                    await startNewChat();
+                } else {
+                    await addBotMessage("Maaf garnuhos, valid order ID vetiena. Kripaya ORD le suru hune order ID dinuhos.");
+                }
+            } else if (currentMode === 'productInquiry') {
+                const products = productsDb.filter(p =>
+                    p.name.toLowerCase().includes(userText.toLowerCase())
+                );
+
+                if (products.length > 0) {
+                    await addBotMessage(`${products.length} wata product(s) vetiyo:`);
+                    for (const product of products) {
+                        await addBotMessage(
+                            `Name: ${product.name}\n` +
+                            `Details: ${product.details}\n` +
+                            `Price: ${formatPrice(product.price)}`
+                        );
+                    }
+                    await addBotMessage("Ke tapai kunai product order garna chahanu huncha?");
+                    currentMode = 'productOrder';
+                } else {
+                    await addBotMessage("Maaf garnuhos, testo product hamro database ma vetiena.");
+                    resetChat();
+                    await startNewChat();
+                }
+            } else if (currentMode === 'productOrder') {
+                await handleOrderProduct(userText);
+            } else if (currentMode === 'ordering') {
+                await handleOrderFlow(userText);
+            }
+        }
+
+        function resetChat() {
+            currentMode = null;
+            currentStep = null;
+            selectedProduct = null;
+            orderDetails = {
+                product: null,
+                quantity: null,
+                address: null,
+                paymentMethod: null
+            };
+            userInput.disabled = true;
+            sendButton.disabled = true;
+            optionsContainer.style.display = 'none';
+        }
+
+        document.getElementById('orderStatusBtn').addEventListener('click', async () => {
+            optionsContainer.style.display = 'none';
+            currentMode = 'orderStatus';
+            userInput.disabled = false;
+            sendButton.disabled = false;
+            userInput.focus();
+            await addBotMessage("Kripaya afno order ID lekhnus (Example: mero order id ORD123 ho)");
+        });
+
+        document.getElementById('productInquiryBtn').addEventListener('click', async () => {
+            optionsContainer.style.display = 'none';
+            currentMode = 'productInquiry';
+            userInput.disabled = false;
+            sendButton.disabled = false;
+            userInput.focus();
+            await addBotMessage("Tapai kun product ko barema jana chahanu huncha?");
+        });
+
+        document.getElementById('orderProductBtn').addEventListener('click', async () => {
+            optionsContainer.style.display = 'none';
+            currentMode = 'productInquiry';
+            userInput.disabled = false;
+            sendButton.disabled = false;
+            userInput.focus();
+            await addBotMessage("Kun product order garna chahanu huncha?");
+        });
+
+        sendButton.addEventListener('click', handleUserInput);
+        userInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                handleUserInput();
+            }
+        });
+
+        // Start the first chat
+        setTimeout(startNewChat, 1000);
+    </script>
+</body>
+
+</html>
