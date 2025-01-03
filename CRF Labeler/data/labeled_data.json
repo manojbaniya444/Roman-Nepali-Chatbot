@@ -21,50 +21,5 @@
         "text": "$120"
       }
     ]
-  },
-  {
-    "text": "Show me red Samsung Galaxy S21 phones",
-    "entities": [
-      {
-        "start": 12,
-        "end": 19,
-        "label": "Brand",
-        "text": "Samsung"
-      },
-      {
-        "start": 20,
-        "end": 30,
-        "label": "Product",
-        "text": "Galaxy S21"
-      },
-      {
-        "start": 30,
-        "end": 37,
-        "label": "Category",
-        "text": " phones"
-      }
-    ]
-  },
-  {
-    "text": "Looking for XL cotton t-shirts in navy blue",
-    "entities": [
-      {
-        "start": 22,
-        "end": 30,
-        "label": "Product",
-        "text": "t-shirts"
-      }
-    ]
-  },
-  {
-    "text": "Need a 15-inch laptop with 16GB RAM",
-    "entities": [
-      {
-        "start": 15,
-        "end": 21,
-        "label": "Category",
-        "text": "laptop"
-      }
-    ]
   }
 ]
