@@ -2,7 +2,7 @@ import json
 import re
 from typing import Dict
 
-default_entities = ["Product", "Brand", "Category", "Order_Number", "Price", "Location"]
+default_entities = ["Product", "Brand", "Category", "Order_Number", "Location", "Quantity"]
 
 class DataLabeler:
     def __init__(self, entity_types=default_entities):
