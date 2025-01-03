@@ -1,202 +1,202 @@
 ,text,intent
-0, malai 5 ota Redmi ko mobile order garna man cha,order_product
-1, malai 1 ta Redmi ko mobile order garna man cha,order_product
-2, Apple ko Iphone 5 ota order garna man cha,order_product
-3, ma 2 ta Casio ko calculator order garxu,order_product
-4, mero order 1 ota Xiaomi ko Redmi mobile ho,order_product
-5, malai 9 ota Apple ko Iphone mobile Kathmandu ma delivery,order_product
-6," 1 ota Sony ko TV, delivery location Dharan",order_product
-7," 2 ota mobile, delivery location Sunsari",order_product
-8, 1 ota calculator delivery location Dharan,order_product
-9, 3 ta Sony ko TV delivery location Kathmandu,order_product
-10, Sony ko TV 9 ota Kathmandu ma delivery,order_product
-11, Samsung Galaxy s21 3 ota Dharan ma delivery garidinu,order_product
-12, ma Xiaomi ko Redmi mobile 1 ta Kathmandu ma order garxu,order_product
-13, Sunsari ma Macbook ko laptop delivery garidinu,order_product
-14, mero order Sunsai ma Macbook 2 ota delivery garidinu,order_product
-15, mero order ho Macbook ko laptop 2 ota delivery location Dharan,order_product
-16, maile garne order 2 ta Redmi ko mobile Dharan location,order_product
-17, Dharan ma 2 ta Sony ko TV delivery gardinu,order_product
-18, ma 2 ta TV order garna chahanxu,order_product
-19, malai mobile order garnu thiyo Redmi Note 9 pro cha,order_product
-20, Redmi ko mobile 9 ota Kathmandu ma delivery,order_product
-21, Casio calculator 9 items Kathmandu delivery location,order_product
-22, malai product order garna man cha,order_product
-23, ma product order garna chahanxu,order_product
-24, malai Redmi mobile kinna man cha,order_product
-25, ma mobile order garna chahanxu,order_product
-26, malai laptop order garna man lagyo,order_product
-27, ma Redmi ko mobile order garna man lagyo,order_product
-28, mero order Casio ra Redmi ko mobile ho,order_product
-29, ma product order garna chahanxu,order_product
-30, ma saman order garna chahanxu,order_product
-31, malai product order garna man lagyo,order_product
-32, ma product order garna chahanxu,order_product
-33, malai Apple ko Iphone order garxu,order_product
-34, ma product order garna chahanxu,order_product
-35, ma order garne,order_product
-36, malai order garna man lagyo,order_product
-37, malai product order garnu cha,order_product
-38, ma saman kinne,order_product
-39, malai product order garna man lagyo,order_product
-40, ma product order garna chahanchu,order_product
-41, malai product order garnu cha,order_product
-42, ma order garna chahanxu,order_product
-43, order kasari garne,order_product
-44, ma kasari order garnu,order_product
-45, malai product kinna man lagyo,order_product
-46, ma order garne saman,order_product
-47, order garna chahanchu,order_product
-48, malai saman order garna man lagyo,order_product
-49, malai order garna help garnuhos,order_product
-50, mero order ko status baare bujhnu thiyo,order_status_inquiry
-51, maile gareko order ko jankari dinu,order_status_inquiry
-52, malai mero order ko status bujhnu cha,order_status_inquiry
-53, order status ke ho,order_status_inquiry
-54, malai mero order ko jankari dinu,order_status_inquiry
-55, order track garnu paryo,order_status_inquiry
-56, mero saman kaha aai pugyo jankari dinu,order_status_inquiry
-57, mero order ko jankari dinu,order_status_inquiry
-58, mero order ko barema janna chahanxu,order_status_inquiry
-59, mero order kaile samma aaucha,order_status_inquiry
-60, ma mero saman order kaile pauchu,order_status_inquiry
-61, mero order kaha aai pugyo,order_status_inquiry
-62, maile gareko saman order kaha aai pugyo,order_status_inquiry
-63, malai mero saman ko baarema janna man cha,order_status_inquiry
-64, mero order status ko barema jankari pauna man lagyo,order_status_inquiry
-65, mero order ko barema jankari dinu,order_status_inquiry
-66, mero order track garidinu,order_status_inquiry
-67, ma mero order track garna chahanxu,order_status_inquiry
-68, mero order status ke ho,order_status_inquiry
-69, mero order ko barema jankari dinu,order_status_inquiry
-70, mero order kaha cha,order_status_inquiry
-71, order ko status track garna chahanchu,order_status_inquiry
-72, order ko jankari lina man lagyo,order_status_inquiry
-73, mero order ko status ke ho,order_status_inquiry
-74, order tracking garne,order_status_inquiry
-75, order track garna man lagyo,order_status_inquiry
-76, mero order tracking garidinu,order_status_inquiry
-77, mero order kaha cha track garidinu,order_status_inquiry
-78, maile gareko order ko status vanidinu,order_status_inquiry
-79, mero order kaile samma aaucha,order_status_inquiry
-80, order kaile samma aaucha,order_status_inquiry
-81, order ko status ke ho kaile samma aaucha,order_status_inquiry
-82, mero order kaile pauchu,order_status_inquiry
-83, ma mero order kaile samma pauchu,order_status_inquiry
-84, malai mero order ko barema bujhnu man lagyo,order_status_inquiry
-85, malai mero order track garna man cha,order_status_inquiry
-86, mero order ko jankari dinu,order_status_inquiry
-87, malai order status janna man cha,order_status_inquiry
-88, mero order kaha samma aayo,order_status_inquiry
-89, order ko status herna man lagyo,order_status_inquiry
-90, mero order ko status ke ho,order_status_inquiry
-91, order ko status janna man cha,order_status_inquiry
-92, malai mero order ko barema vanidinu,order_status_inquiry
-93, mero order track garne kaha aako cha,order_status_inquiry
-94, malai mero order ko barema vanidinu,order_status_inquiry
-95, mero order kaile samma pauchu,order_status_inquiry
-96, mero order ko jankari ke ho,order_status_inquiry
-97, malai saman ko barema janna man lagyo,order_status_inquiry
-98, mero order kaha cha bujhna man lagyo,order_status_inquiry
-99, mero order ko jankari dinu status,order_status_inquiry
-100, kasto payment accept garnu huncha,payment_method
-101, paisa ke baata tirne,payment_method
-102, payment ke baata dine,payment_method
-103, paisa ke baata tirna milcha,payment_method
-104, payment method ke cha,payment_method
-105, kun kun payment accept garnu huncha,payment_method
-106, ke baata pay garna milcha,payment_method
-107, payement method ke baata garne,payment_method
-108, kasari pay garne,payment_method
-109, kasari payment garne,payment_method
-110, kasari pay garna milcha,payment_method
-111, kasari payment garna milcha,payment_method
-112, payment garne method ke ke cha,payment_method
-113, kasari pay garne ho,payment_method
-114, pay garna kun kun method accept garnu huncha,payment_method
-115, paisa tirna kun kun tarika cha,payment_method
-116, pay garna kun kun method cha,payment_method
-117, paisa tirna kun method available cha,payment_method
-118, kun payment method available cha,payment_method
-119, payment kun tarika baata garne,payment_method
-120, pay garne kun tarika cha,payment_method
-121, pay kasari garne ho,payment_method
-122, payment garna kun tarika baata garne,payment_method
-123, ma kun payment baata paisa tirna sakchu,payment_method
-124, kasari payment garna sakincha,payment_method
-125, paisa ke baata tirna sakincha,payment_method
-126, pay kasari garne,payment_method
-127, payment garna kun kun method use garna sakincha,payment_method
-128, paisa tirna kun tarika use garne ho,payment_method
-129, paiasa ke baata tirne ho,payment_method
-130, paisa tirne method ke ke cha,payment_method
-131, paisa ke baata tirne,payment_method
-132, ma ke baata paisa tirna sakchu,payment_method
-133, ma ke baata payment garna sakchu,payment_method
-134, pay garne method kun cha,payment_method
-135, kasari pay garne,payment_method
-136, pay garne kun tarika cha,payment_method
-137, kasari pay garne,payment_method
-138, pay garna ke use garna sakchu,payment_method
-139, ma ke ke tarika baata paisa tirna sakchu,payment_method
-140, ma ke ke tarika baata paisa pay garna sakchu,payment_method
-141, ma kun tarika baata paisa tirna sakchu,payment_method
-142, paisa tirne method ke ke ho,payment_method
-143, paisa kun kun method baata tirne,payment_method
-144, payment garne tirka ke ke cha,payment_method
-145, pay garne method haru ke ke cha,payment_method
-146, pay garne method ke ke ho,payment_method
-147, payment garna kun tarika baata garne,payment_method
-148, malai payment garna kun method cha,payment_method
-149, payment garna paisa tirna kun tarika ho,payment_method
-150, store ma kun product available cha,product_inquiry
-151, pasal ma kun kun product rakhnu vako cha,product_inquiry
-152, kun kun product store ma cha,product_inquiry
-153, kasto kasto saman store ma available cha,product_inquiry
-154, store ma kun saman cha,product_inquiry
-155, pasal ma kun saman paincha,product_inquiry
-156, store ma kun saman bechna rakhnu vako cha,product_inquiry
-157, store ma kun kun saman cha,product_inquiry
-158, kun kun saman available cha store ma,product_inquiry
-159, kun kun product rakhnu vako cha store ma,product_inquiry
-160, pasal ma kun kun product rakhnu vako cha,product_inquiry
-161, kun kun product available cha store ma,product_inquiry
-162, kun product available cha store ma,product_inquiry
-163, kun saman bechnu huncha store ma,product_inquiry
-164, kun kun saman store ma available cha,product_inquiry
-165, kun product sell garnu huncha bujhna man cha,product_inquiry
-166, store ma kun kun saman available cha,product_inquiry
-167, kasto product bechnu huncha,product_inquiry
-168, kun kun product available cha,product_inquiry
-169, store ma kasto saman available cha,product_inquiry
-170, kun product haru available cha store ma,product_inquiry
-171, malai Samsung Galaxy ko mobile dekhaunu,product_inquiry
-172, tapai ko store ma Redmi Note 9 ko mobile cha,product_inquiry
-173, malai Redmi Note 9 ko mobile chaiyeko cha,product_inquiry
-174, ke tapaiko pasal ma Iphone 11 ko mobile cha,product_inquiry
-175, Samsung Galaxy ra Iphone 11 ko mobile herna aako,product_inquiry
-176, Oppo ko mobile cha ki xaina,product_inquiry
-177, malai mobile ko barema jankari pauna manlagyo,product_inquiry
-178, ke tapai laptop bechnu hunxa,product_inquiry
-179, tapai calculator rakhnu hunxa,product_inquiry
-180, malai laptop ra watch kinna man cha,product_inquiry
-181, laptop ko price kati ho,product_inquiry
-182, malai Macbook Pro chaiyeko cha,product_inquiry
-183, Macbook Pro ko price kati ho,product_inquiry
-184, Macbook laptop rakhnu vako cha,product_inquiry
-185, malai Vivo ko mobile chaiyeko cha,product_inquiry
-186, calculator rakhnu vako cha ki xaina,product_inquiry
-187, Sony ko TV available cha,product_inquiry
-188, TV haru kun kun brand ma available cha,product_inquiry
-189, Redmi ko price kati ho,product_inquiry
-190, mobile haru kun kun xan,product_inquiry
-191, Casio ko calculator lai kati parxa,product_inquiry
-192, calculator Casio brand ma available cha ki xaina,product_inquiry
-193, calculator kun kun brand ko cha,product_inquiry
-194, Casio ko calculator cha ki xaina,product_inquiry
-195, malai Redmi mobile kinnu cha,product_inquiry
-196, Samsung ko mobile kun kun cha,product_inquiry
-197, Oppo ra Samsung ko mobile dekhaunu,product_inquiry
-198, Xiaomi ko Redmi mobile cha ki xaina,product_inquiry
-199, Xiaomi ra Samsung ko mobile lina aako,product_inquiry
-200, Oppo ra Xiaomi ko mobile lina aako,product_inquiry
+0,malai 5 ota Redmi ko mobile order garna man cha,order_product
+1,malai 1 ta Redmi ko mobile order garna man cha,order_product
+2,Apple ko Iphone 5 ota order garna man cha,order_product
+3,ma 2 ta Casio ko calculator order garxu,order_product
+4,mero order 1 ota Xiaomi ko Redmi mobile ho,order_product
+5,malai 9 ota Apple ko Iphone mobile Kathmandu ma delivery,order_product
+6,"1 ota Sony ko TV, delivery location Dharan",order_product
+7,"2 ota mobile, delivery location Sunsari",order_product
+8,1 ota calculator delivery location Dharan,order_product
+9,3 ta Sony ko TV delivery location Kathmandu,order_product
+10,Sony ko TV 9 ota Kathmandu ma delivery,order_product
+11,Samsung Galaxy s21 3 ota Dharan ma delivery garidinu,order_product
+12,ma Xiaomi ko Redmi mobile 1 ta Kathmandu ma order garxu,order_product
+13,Sunsari ma Macbook ko laptop delivery garidinu,order_product
+14,mero order Sunsai ma Macbook 2 ota delivery garidinu,order_product
+15,mero order ho Macbook ko laptop 2 ota delivery location Dharan,order_product
+16,maile garne order 2 ta Redmi ko mobile Dharan location,order_product
+17,Dharan ma 2 ta Sony ko TV delivery gardinu,order_product
+18,ma 2 ta TV order garna chahanxu,order_product
+19,malai mobile order garnu thiyo Redmi Note 9 pro cha,order_product
+20,Redmi ko mobile 9 ota Kathmandu ma delivery,order_product
+21,Casio calculator 9 items Kathmandu delivery location,order_product
+22,malai product order garna man cha,order_product
+23,ma product order garna chahanxu,order_product
+24,malai Redmi mobile kinna man cha,order_product
+25,ma mobile order garna chahanxu,order_product
+26,malai laptop order garna man lagyo,order_product
+27,ma Redmi ko mobile order garna man lagyo,order_product
+28,mero order Casio ra Redmi ko mobile ho,order_product
+29,ma product order garna chahanxu,order_product
+30,ma saman order garna chahanxu,order_product
+31,malai product order garna man lagyo,order_product
+32,ma product order garna chahanxu,order_product
+33,malai Apple ko Iphone order garxu,order_product
+34,ma product order garna chahanxu,order_product
+35,ma order garne,order_product
+36,malai order garna man lagyo,order_product
+37,malai product order garnu cha,order_product
+38,ma saman kinne,order_product
+39,malai product order garna man lagyo,order_product
+40,ma product order garna chahanchu,order_product
+41,malai product order garnu cha,order_product
+42,ma order garna chahanxu,order_product
+43,order kasari garne,order_product
+44,ma kasari order garnu,order_product
+45,malai product kinna man lagyo,order_product
+46,ma order garne saman,order_product
+47,order garna chahanchu,order_product
+48,malai saman order garna man lagyo,order_product
+49,malai order garna help garnuhos,order_product
+50,mero order ko status baare bujhnu thiyo,order_status_inquiry
+51,maile gareko order ko jankari dinu,order_status_inquiry
+52,malai mero order ko status bujhnu cha,order_status_inquiry
+53,order status ke ho,order_status_inquiry
+54,malai mero order ko jankari dinu,order_status_inquiry
+55,order track garnu paryo,order_status_inquiry
+56,mero saman kaha aai pugyo jankari dinu,order_status_inquiry
+57,mero order ko jankari dinu,order_status_inquiry
+58,mero order ko barema janna chahanxu,order_status_inquiry
+59,mero order kaile samma aaucha,order_status_inquiry
+60,ma mero saman order kaile pauchu,order_status_inquiry
+61,mero order kaha aai pugyo,order_status_inquiry
+62,maile gareko saman order kaha aai pugyo,order_status_inquiry
+63,malai mero saman ko baarema janna man cha,order_status_inquiry
+64,mero order status ko barema jankari pauna man lagyo,order_status_inquiry
+65,mero order ko barema jankari dinu,order_status_inquiry
+66,mero order track garidinu,order_status_inquiry
+67,ma mero order track garna chahanxu,order_status_inquiry
+68,mero order status ke ho,order_status_inquiry
+69,mero order ko barema jankari dinu,order_status_inquiry
+70,mero order kaha cha,order_status_inquiry
+71,order ko status track garna chahanchu,order_status_inquiry
+72,order ko jankari lina man lagyo,order_status_inquiry
+73,mero order ko status ke ho,order_status_inquiry
+74,order tracking garne,order_status_inquiry
+75,order track garna man lagyo,order_status_inquiry
+76,mero order tracking garidinu,order_status_inquiry
+77,mero order kaha cha track garidinu,order_status_inquiry
+78,maile gareko order ko status vanidinu,order_status_inquiry
+79,mero order kaile samma aaucha,order_status_inquiry
+80,order kaile samma aaucha,order_status_inquiry
+81,order ko status ke ho kaile samma aaucha,order_status_inquiry
+82,mero order kaile pauchu,order_status_inquiry
+83,ma mero order kaile samma pauchu,order_status_inquiry
+84,malai mero order ko barema bujhnu man lagyo,order_status_inquiry
+85,malai mero order track garna man cha,order_status_inquiry
+86,mero order ko jankari dinu,order_status_inquiry
+87,malai order status janna man cha,order_status_inquiry
+88,mero order kaha samma aayo,order_status_inquiry
+89,order ko status herna man lagyo,order_status_inquiry
+90,mero order ko status ke ho,order_status_inquiry
+91,order ko status janna man cha,order_status_inquiry
+92,malai mero order ko barema vanidinu,order_status_inquiry
+93,mero order track garne kaha aako cha,order_status_inquiry
+94,malai mero order ko barema vanidinu,order_status_inquiry
+95,mero order kaile samma pauchu,order_status_inquiry
+96,mero order ko jankari ke ho,order_status_inquiry
+97,malai saman ko barema janna man lagyo,order_status_inquiry
+98,mero order kaha cha bujhna man lagyo,order_status_inquiry
+99,mero order ko jankari dinu status,order_status_inquiry
+100,kasto payment accept garnu huncha,payment_method
+101,paisa ke baata tirne,payment_method
+102,payment ke baata dine,payment_method
+103,paisa ke baata tirna milcha,payment_method
+104,payment method ke cha,payment_method
+105,kun kun payment accept garnu huncha,payment_method
+106,ke baata pay garna milcha,payment_method
+107,payement method ke baata garne,payment_method
+108,kasari pay garne,payment_method
+109,kasari payment garne,payment_method
+110,kasari pay garna milcha,payment_method
+111,kasari payment garna milcha,payment_method
+112,payment garne method ke ke cha,payment_method
+113,kasari pay garne ho,payment_method
+114,pay garna kun kun method accept garnu huncha,payment_method
+115,paisa tirna kun kun tarika cha,payment_method
+116,pay garna kun kun method cha,payment_method
+117,paisa tirna kun method available cha,payment_method
+118,kun payment method available cha,payment_method
+119,payment kun tarika baata garne,payment_method
+120,pay garne kun tarika cha,payment_method
+121,pay kasari garne ho,payment_method
+122,payment garna kun tarika baata garne,payment_method
+123,ma kun payment baata paisa tirna sakchu,payment_method
+124,kasari payment garna sakincha,payment_method
+125,paisa ke baata tirna sakincha,payment_method
+126,pay kasari garne,payment_method
+127,payment garna kun kun method use garna sakincha,payment_method
+128,paisa tirna kun tarika use garne ho,payment_method
+129,paiasa ke baata tirne ho,payment_method
+130,paisa tirne method ke ke cha,payment_method
+131,paisa ke baata tirne,payment_method
+132,ma ke baata paisa tirna sakchu,payment_method
+133,ma ke baata payment garna sakchu,payment_method
+134,pay garne method kun cha,payment_method
+135,kasari pay garne,payment_method
+136,pay garne kun tarika cha,payment_method
+137,kasari pay garne,payment_method
+138,pay garna ke use garna sakchu,payment_method
+139,ma ke ke tarika baata paisa tirna sakchu,payment_method
+140,ma ke ke tarika baata paisa pay garna sakchu,payment_method
+141,ma kun tarika baata paisa tirna sakchu,payment_method
+142,paisa tirne method ke ke ho,payment_method
+143,paisa kun kun method baata tirne,payment_method
+144,payment garne tirka ke ke cha,payment_method
+145,pay garne method haru ke ke cha,payment_method
+146,pay garne method ke ke ho,payment_method
+147,payment garna kun tarika baata garne,payment_method
+148,malai payment garna kun method cha,payment_method
+149,payment garna paisa tirna kun tarika ho,payment_method
+150,store ma kun product available cha,product_inquiry
+151,pasal ma kun kun product rakhnu vako cha,product_inquiry
+152,kun kun product store ma cha,product_inquiry
+153,kasto kasto saman store ma available cha,product_inquiry
+154,store ma kun saman cha,product_inquiry
+155,pasal ma kun saman paincha,product_inquiry
+156,store ma kun saman bechna rakhnu vako cha,product_inquiry
+157,store ma kun kun saman cha,product_inquiry
+158,kun kun saman available cha store ma,product_inquiry
+159,kun kun product rakhnu vako cha store ma,product_inquiry
+160,pasal ma kun kun product rakhnu vako cha,product_inquiry
+161,kun kun product available cha store ma,product_inquiry
+162,kun product available cha store ma,product_inquiry
+163,kun saman bechnu huncha store ma,product_inquiry
+164,kun kun saman store ma available cha,product_inquiry
+165,kun product sell garnu huncha bujhna man cha,product_inquiry
+166,store ma kun kun saman available cha,product_inquiry
+167,kasto product bechnu huncha,product_inquiry
+168,kun kun product available cha,product_inquiry
+169,store ma kasto saman available cha,product_inquiry
+170,kun product haru available cha store ma,product_inquiry
+171,malai Samsung Galaxy ko mobile dekhaunu,product_inquiry
+172,tapai ko store ma Redmi Note 9 ko mobile cha,product_inquiry
+173,malai Redmi Note 9 ko mobile chaiyeko cha,product_inquiry
+174,ke tapaiko pasal ma Iphone 11 ko mobile cha,product_inquiry
+175,Samsung Galaxy ra Iphone 11 ko mobile herna aako,product_inquiry
+176,Oppo ko mobile cha ki xaina,product_inquiry
+177,malai mobile ko barema jankari pauna manlagyo,product_inquiry
+178,ke tapai laptop bechnu hunxa,product_inquiry
+179,tapai calculator rakhnu hunxa,product_inquiry
+180,malai laptop ra watch kinna man cha,product_inquiry
+181,laptop ko price kati ho,product_inquiry
+182,malai Macbook Pro chaiyeko cha,product_inquiry
+183,Macbook Pro ko price kati ho,product_inquiry
+184,Macbook laptop rakhnu vako cha,product_inquiry
+185,malai Vivo ko mobile chaiyeko cha,product_inquiry
+186,calculator rakhnu vako cha ki xaina,product_inquiry
+187,Sony ko TV available cha,product_inquiry
+188,TV haru kun kun brand ma available cha,product_inquiry
+189,Redmi ko price kati ho,product_inquiry
+190,mobile haru kun kun xan,product_inquiry
+191,Casio ko calculator lai kati parxa,product_inquiry
+192,calculator Casio brand ma available cha ki xaina,product_inquiry
+193,calculator kun kun brand ko cha,product_inquiry
+194,Casio ko calculator cha ki xaina,product_inquiry
+195,malai Redmi mobile kinnu cha,product_inquiry
+196,Samsung ko mobile kun kun cha,product_inquiry
+197,Oppo ra Samsung ko mobile dekhaunu,product_inquiry
+198,Xiaomi ko Redmi mobile cha ki xaina,product_inquiry
+199,Xiaomi ra Samsung ko mobile lina aako,product_inquiry
+200,Oppo ra Xiaomi ko mobile lina aako,product_inquiry
