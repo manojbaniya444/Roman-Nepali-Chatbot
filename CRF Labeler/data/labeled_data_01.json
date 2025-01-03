@@ -1,0 +1,2114 @@
+[
+  {
+    "text": "malai Samsung Galaxy ko mobile dekhaunu",
+    "entities": [
+      {
+        "start": 6,
+        "end": 13,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "label": "Product",
+        "text": "Galaxy"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "tapai ko store ma Redmi Note 9 ko mobile xa",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "Product",
+        "text": "Redmi Note 9"
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "malai Redmi Note 9 ko mobile chaiyeko xa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 18,
+        "label": "Product",
+        "text": "Redmi Note 9"
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "ke tapaiko pasal ma Iphone 11 ko mobile xa",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "label": "Product",
+        "text": "Iphone 11"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Samsung Galaxy ra Iphone 11 ko mobile herna aako",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "Product",
+        "text": "Galaxy"
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "label": "Product",
+        "text": "Iphone 11"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Oppo ko mobile xa ki xaina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 0,
+        "label": "Product",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "text": "malai mobile ko barema jankari pauna manlagyo",
+    "entities": []
+  },
+  {
+    "text": "Oppo ko mobile xa ki xaina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "Brand",
+        "text": "Oppo"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "malai mobile ko barema jankari pauna manlagyo",
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "ke tapai laptop bechnu hunxa",
+    "entities": [
+      {
+        "start": 9,
+        "end": 15,
+        "label": "Category",
+        "text": "laptop"
+      }
+    ]
+  },
+  {
+    "text": "tapai calculator rakhnu hunxa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 16,
+        "label": "Category",
+        "text": "calculator"
+      }
+    ]
+  },
+  {
+    "text": "malai laptop ra watch kinna man xa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "label": "Category",
+        "text": "laptop"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "Category",
+        "text": "watch"
+      }
+    ]
+  },
+  {
+    "text": "laptop ko price kati ho",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "Category",
+        "text": "laptop"
+      }
+    ]
+  },
+  {
+    "text": "malai Macbook Pro chaiyeko xa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 17,
+        "label": "Product",
+        "text": "Macbook Pro"
+      }
+    ]
+  },
+  {
+    "text": "Macbook Pro ko price kati ho",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "Product",
+        "text": "Macbook Pro"
+      }
+    ]
+  },
+  {
+    "text": "Macbook laptop rakhnu vako xa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "Product",
+        "text": "Macbook"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "Category",
+        "text": "laptop"
+      }
+    ]
+  },
+  {
+    "text": "malai Vivo ko mobile chaiyeko xa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "Brand",
+        "text": "Vivo"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "calculator rakhnu vako xa ki xaina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "Category",
+        "text": "calculator"
+      }
+    ]
+  },
+  {
+    "text": "Sony ko TV available xa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "Brand",
+        "text": "Sony"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "label": "Category",
+        "text": "TV"
+      }
+    ]
+  },
+  {
+    "text": "TV haru kun kun brand ma available xa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 2,
+        "label": "Category",
+        "text": "TV"
+      }
+    ]
+  },
+  {
+    "text": "Redmi ko price kati ho",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Product",
+        "text": "Redmi"
+      }
+    ]
+  },
+  {
+    "text": "mobile haru kun kun xan",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Casio ko calculator lai kati parxa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 9,
+        "end": 19,
+        "label": "Category",
+        "text": "calculator"
+      }
+    ]
+  },
+  {
+    "text": "calculator Casio brand ma available xa ki xaina",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 0,
+        "end": 10,
+        "label": "Category",
+        "text": "calculator"
+      }
+    ]
+  },
+  {
+    "text": "calculator kun kun brand ko xa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "Category",
+        "text": "calculator"
+      }
+    ]
+  },
+  {
+    "text": "Casio ko calculator xa ki xaina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 9,
+        "end": 19,
+        "label": "Category",
+        "text": "calculator"
+      }
+    ]
+  },
+  {
+    "text": "Casio ko calculator xa ki xaina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 9,
+        "end": 19,
+        "label": "Category",
+        "text": "calculator"
+      }
+    ]
+  },
+  {
+    "text": "malai Redmi mobile kinnu xa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 11,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Samsung ko mobile kun kun xa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Oppo ra Samsung ko mobile dekhaunu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "Brand",
+        "text": "Oppo"
+      },
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Xiaomi ko Redmi mobile xa ki xaina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Xiaomi ra Samsung ko mobile lina aako",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Oppo ra Xiaomi ko mobile lina aako",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "Brand",
+        "text": "Oppo"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Oppo Xiaomi ra Samsung ko mobile ko price kati ho",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "Brand",
+        "text": "Oppo"
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Casio ko calculator ra Xiaomi ko mobile haru available xa ki xaina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 9,
+        "end": 19,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Redmi Note 9 pro ra Galaxy s21 mobile lai kati parxa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 16,
+        "label": "Product",
+        "text": "Redmi Note 9 pro"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "Product",
+        "text": "Galaxy s21"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Samsung Galaxy s21 ko price kati ho",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 8,
+        "end": 18,
+        "label": "Product",
+        "text": "Galaxy s21"
+      }
+    ]
+  },
+  {
+    "text": "Xiaomi ra Casio ko product kasto huncha",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "label": "Brand",
+        "text": "Casio"
+      }
+    ]
+  },
+  {
+    "text": "malai Xiaomi ko mobile man parxa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "malai Redmi Note 9 pro kinna xa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 22,
+        "label": "Product",
+        "text": "Redmi Note 9 pro"
+      }
+    ]
+  },
+  {
+    "text": "Apple ko Iphone lai kati parxa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Apple"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "Product",
+        "text": "Iphone"
+      }
+    ]
+  },
+  {
+    "text": "Samsung ko Galaxy s21 ra Apple ko Iphone ko price kati ho",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "Brand",
+        "text": "Apple"
+      },
+      {
+        "start": 11,
+        "end": 21,
+        "label": "Product",
+        "text": "Galaxy s21"
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "label": "Product",
+        "text": "Iphone"
+      }
+    ]
+  },
+  {
+    "text": "Apple ko mobile haru available xa ki xaina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Apple"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Samsung Xiaomi ra Apple ko mobile haru kasto xa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "label": "Brand",
+        "text": "Apple"
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Apple ko Macbook lai kati parxa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Apple"
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Product",
+        "text": "Macbook"
+      }
+    ]
+  },
+  {
+    "text": "Apple ko Macbook ra Samsung ko Galaxy s21 mobile kinna man xa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Apple"
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Product",
+        "text": "Macbook"
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "label": "Product",
+        "text": "Galaxy s21"
+      },
+      {
+        "start": 42,
+        "end": 48,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Redmi ko mobile lai kati ho",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Casio ko calculator lai kati parxa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 9,
+        "end": 19,
+        "label": "Category",
+        "text": "calculator"
+      }
+    ]
+  },
+  {
+    "text": "calculator Casio brand ra mobile Redmi ko lina man xa",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 0,
+        "end": 10,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "malai Apple ko Macbook ra Galaxy ko s21 bujhna man xa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 11,
+        "label": "Brand",
+        "text": "Apple"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Product",
+        "text": "Macbook"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "Product",
+        "text": "Galaxy"
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "label": "Product",
+        "text": "s21"
+      }
+    ]
+  },
+  {
+    "text": "kun calculator available xa",
+    "entities": [
+      {
+        "start": 4,
+        "end": 14,
+        "label": "Category",
+        "text": "calculator"
+      }
+    ]
+  },
+  {
+    "text": "Sony ko TV available xa ki xaina",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "Brand",
+        "text": "Sony"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "label": "Category",
+        "text": "TV"
+      }
+    ]
+  },
+  {
+    "text": "Sony ko TV ra Xiaomi ko Redmi Note 9 Pro mobile kinna man xa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "Brand",
+        "text": "Sony"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 23,
+        "end": 40,
+        "label": "Product",
+        "text": " Redmi Note 9 Pro"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "label": "Category",
+        "text": "TV"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "mero order id ORD12345 track garidinu",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "Order_Number",
+        "text": "ORD12345"
+      }
+    ]
+  },
+  {
+    "text": "ORD98765 mero order id ho",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "Order_Number",
+        "text": "ORD98765"
+      }
+    ]
+  },
+  {
+    "text": "maile gareko order ko id ORD00000 ho",
+    "entities": [
+      {
+        "start": 25,
+        "end": 33,
+        "label": "Order_Number",
+        "text": "ORD00000"
+      }
+    ]
+  },
+  {
+    "text": "mero order id ORD12121 ho yeslai track garidinu",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "Order_Number",
+        "text": "ORD12121"
+      }
+    ]
+  },
+  {
+    "text": "order number ORD11111 track garidinu",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "label": "Order_Number",
+        "text": "ORD11111"
+      }
+    ]
+  },
+  {
+    "text": "mero order number ORD88888 ko status ke cha",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "Order_Number",
+        "text": "ORD88888"
+      }
+    ]
+  },
+  {
+    "text": "mero order ORD66666 ko status bujhna man xa",
+    "entities": [
+      {
+        "start": 11,
+        "end": 19,
+        "label": "Order_Number",
+        "text": "ORD66666"
+      }
+    ]
+  },
+  {
+    "text": "order id ORD12321 kun status ma xa",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "Order_Number",
+        "text": "ORD12321"
+      }
+    ]
+  },
+  {
+    "text": "order id ORD99999 ko status ke xa",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "label": "Order_Number",
+        "text": "ORD99999"
+      }
+    ]
+  },
+  {
+    "text": "malai mero Redmi mobile ko order ORD34341 ko status janna man xa",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "Order_Number",
+        "text": "ORD34341"
+      }
+    ]
+  },
+  {
+    "text": "maile gareko calculator ko order number ORD66678 ko status ke ho",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "Order_Number",
+        "text": "ORD66678"
+      }
+    ]
+  },
+  {
+    "text": "malai ORD12345 ko jankari dinu",
+    "entities": [
+      {
+        "start": 6,
+        "end": 14,
+        "label": "Order_Number",
+        "text": "ORD12345"
+      }
+    ]
+  },
+  {
+    "text": "malai order number ORD23451 ko status dinu",
+    "entities": [
+      {
+        "start": 19,
+        "end": 27,
+        "label": "Order_Number",
+        "text": "ORD23451"
+      }
+    ]
+  },
+  {
+    "text": "mero order number ORD98909 ko status ke cha",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "Order_Number",
+        "text": "ORD98909"
+      }
+    ]
+  },
+  {
+    "text": "malai 5 ota Redmi ko mobile order garna man xa",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "label": "Quantity",
+        "text": "5"
+      }
+    ]
+  },
+  {
+    "text": "malai 1 ta Redmi ko mobile order garna man xa",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "label": "Quantity",
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "text": "Apple ko Iphone 5 ota order garna man xa",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Apple"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "Product",
+        "text": "Iphone"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "label": "Quantity",
+        "text": "5"
+      }
+    ]
+  },
+  {
+    "text": "ma 2 ta Casio ko calculator order garxu",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 17,
+        "end": 27,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "label": "Quantity",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "text": "mero order 1 ota Xiaomi ko Redmi mobile ho",
+    "entities": [
+      {
+        "start": 17,
+        "end": 23,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "label": "Quantity",
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "text": "mero order 10 ota Samsung ko Galaxy s21 mobile ho",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "Product",
+        "text": " Galaxy s21"
+      },
+      {
+        "start": 40,
+        "end": 46,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "label": "Quantity",
+        "text": "10"
+      }
+    ]
+  },
+  {
+    "text": "maile 3 ota Sony ko TV order garxu",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "Brand",
+        "text": "Sony"
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "label": "Category",
+        "text": "TV"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "label": "Quantity",
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "text": "malai 2 ota Xiaomi ko Redmi Note 9 mobile lina man xa",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "Product",
+        "text": "Redmi Note 9"
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "label": "Quantity",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "text": "mero order ma 8 ota Macbook ko laptop rakhne",
+    "entities": [
+      {
+        "start": 20,
+        "end": 27,
+        "label": "Product",
+        "text": "Macbook"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "Category",
+        "text": "laptop"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "label": "Quantity",
+        "text": "8"
+      }
+    ]
+  },
+  {
+    "text": "2 ota calculator kinna man xa",
+    "entities": [
+      {
+        "start": 6,
+        "end": 16,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "label": "Quantity",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "text": "1 ota Sony ko TV line",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "Brand",
+        "text": "Sony"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "Category",
+        "text": "TV"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "label": "Quantity",
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "text": "malai order ma 2 ta Casio ko calculator",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "label": "Quantity",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "text": "malai 2 ota Xiaomi ko mobile",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "label": "Quantity",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "text": "mobile 1 order garna man xa",
+    "entities": [
+      {
+        "start": 7,
+        "end": 8,
+        "label": "Quantity",
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "text": "calculator 2 order garxu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "label": "Quantity",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "text": "ma 3 TV order garne",
+    "entities": [
+      {
+        "start": 5,
+        "end": 7,
+        "label": "Category",
+        "text": "TV"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "label": "Quantity",
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "text": "malai 2 ota mobile order garnu xa",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "label": "Quantity",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "text": "malai 2 ota mobile Dharan ma delivery garne gari order rakhidinu",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "label": "Quantity",
+        "text": "2"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "3 ota laptop Dharan ma delivery",
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "label": "Category",
+        "text": "laptop"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "label": "Quantity",
+        "text": "3"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "1 ota calculator",
+    "entities": [
+      {
+        "start": 6,
+        "end": 16,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "label": "Quantity",
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "text": "1 ota mobile Dharan ma delivery",
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "label": "Quantity",
+        "text": "1"
+      },
+      {
+        "start": 13,
+        "end": 19,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "malai Xiaomi ko Redmi Note 9 mobile Dharan ma delivery",
+    "entities": [
+      {
+        "start": 6,
+        "end": 12,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 16,
+        "end": 28,
+        "label": "Product",
+        "text": "Redmi Note 9"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "malai 2 ota Xiaomi ko Redmi Note 9 mobile Sunsari maa delivery",
+    "entities": [
+      {
+        "start": 12,
+        "end": 18,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "Product",
+        "text": "Redmi Note 9"
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "label": "Quantity",
+        "text": "2"
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "label": "Location",
+        "text": "Sunsari"
+      }
+    ]
+  },
+  {
+    "text": "malai 9 ota Apple ko Iphone mobile Kathmandu ma delivery",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "Brand",
+        "text": "Apple"
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "label": "Product",
+        "text": "Iphone"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "label": "Quantity",
+        "text": "9"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "Location",
+        "text": "Kathmandu"
+      }
+    ]
+  },
+  {
+    "text": "1 ota Sony ko TV, delivery location Dharan",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "Brand",
+        "text": "Sony"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "Category",
+        "text": "TV,"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "label": "Quantity",
+        "text": "1"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "2 ota mobile, delivery location Sunsari",
+    "entities": [
+      {
+        "start": 6,
+        "end": 13,
+        "label": "Category",
+        "text": "mobile,"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "label": "Quantity",
+        "text": "2"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "Location",
+        "text": "Sunsari"
+      }
+    ]
+  },
+  {
+    "text": "1 ota calculator delivery location Dharan",
+    "entities": [
+      {
+        "start": 6,
+        "end": 16,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "label": "Quantity",
+        "text": "1"
+      },
+      {
+        "start": 35,
+        "end": 41,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "3 ta Sony ko TV delivery location Kathmandu",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "Brand",
+        "text": "Sony"
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "label": "Category",
+        "text": "TV"
+      },
+      {
+        "start": 0,
+        "end": 1,
+        "label": "Quantity",
+        "text": "3"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "Location",
+        "text": "Kathmandu"
+      }
+    ]
+  },
+  {
+    "text": "Sony ko TV 9 ota Kathmandu ma delivery",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "Brand",
+        "text": "Sony"
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "label": "Category",
+        "text": "TV"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "label": "Quantity",
+        "text": "9"
+      },
+      {
+        "start": 17,
+        "end": 26,
+        "label": "Location",
+        "text": "Kathmandu"
+      }
+    ]
+  },
+  {
+    "text": "Samsung Galaxy s21 3 ota Dharan ma delivery garidinu",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "Brand",
+        "text": "Samsung"
+      },
+      {
+        "start": 8,
+        "end": 18,
+        "label": "Product",
+        "text": "Galaxy s21"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "label": "Quantity",
+        "text": "3"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "ma Xiaomi ko Redmi mobile 1 ta Kathmandu ma order garxu",
+    "entities": [
+      {
+        "start": 3,
+        "end": 9,
+        "label": "Brand",
+        "text": "Xiaomi"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "label": "Quantity",
+        "text": "1"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "Location",
+        "text": "Kathmandu"
+      }
+    ]
+  },
+  {
+    "text": "Sunsari ma Macbook ko laptop delivery garidinu",
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "label": "Product",
+        "text": "Macbook"
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "label": "Category",
+        "text": "laptop"
+      },
+      {
+        "start": 0,
+        "end": 7,
+        "label": "Location",
+        "text": "Sunsari"
+      }
+    ]
+  },
+  {
+    "text": "mero order Sunsai ma Macbook 2 ota delivery garidinu",
+    "entities": [
+      {
+        "start": 21,
+        "end": 28,
+        "label": "Product",
+        "text": "Macbook"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "label": "Quantity",
+        "text": "2"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "label": "Location",
+        "text": "Sunsai"
+      }
+    ]
+  },
+  {
+    "text": "mero order ho Macbook ko laptop 2 ota delivery location Dharan",
+    "entities": [
+      {
+        "start": 14,
+        "end": 21,
+        "label": "Product",
+        "text": "Macbook"
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "label": "Category",
+        "text": "laptop"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "label": "Quantity",
+        "text": "2"
+      },
+      {
+        "start": 56,
+        "end": 62,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "maile garne order 2 ta Redmi ko mobile Dharan location",
+    "entities": [
+      {
+        "start": 23,
+        "end": 28,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "label": "Quantity",
+        "text": "2"
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "Dharan ma 2 ta Sony ko TV delivery gardinu",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "Brand",
+        "text": "Sony"
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "label": "Category",
+        "text": "TV"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "label": "Quantity",
+        "text": "2"
+      },
+      {
+        "start": 0,
+        "end": 6,
+        "label": "Location",
+        "text": "Dharan"
+      }
+    ]
+  },
+  {
+    "text": "ma 2 ta TV order garna chahanxu",
+    "entities": [
+      {
+        "start": 8,
+        "end": 10,
+        "label": "Category",
+        "text": "TV"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "label": "Quantity",
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "text": "malai mobile order garnu thiyo Redmi Note 9 pro xa",
+    "entities": [
+      {
+        "start": 31,
+        "end": 47,
+        "label": "Product",
+        "text": "Redmi Note 9 pro"
+      },
+      {
+        "start": 6,
+        "end": 12,
+        "label": "Category",
+        "text": "mobile"
+      }
+    ]
+  },
+  {
+    "text": "Redmi ko mobile 9 ota Kathmandu ma delivery",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Product",
+        "text": "Redmi"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "Category",
+        "text": "mobile"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "label": "Quantity",
+        "text": "9"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "Location",
+        "text": "Kathmandu"
+      }
+    ]
+  },
+  {
+    "text": "Casio calculator 9 items Kathmandu delivery location",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "Brand",
+        "text": "Casio"
+      },
+      {
+        "start": 6,
+        "end": 16,
+        "label": "Category",
+        "text": "calculator"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "label": "Quantity",
+        "text": "9"
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "label": "Location",
+        "text": "Kathmandu"
+      }
+    ]
+  }
+]

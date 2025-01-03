@@ -50,7 +50,7 @@ def align_entities(filename):
     return aligned_data
         
 if __name__ == "__main__":
-    aligned_data = align_entities("./data/labeled_data.json")
+    aligned_data = align_entities("./data/labeled_data_01.json")
     if aligned_data:
         with open("./data/aligned_data.json", "w") as f:
             json.dump(aligned_data, f, indent=4)
