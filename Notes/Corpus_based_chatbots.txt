@@ -1,0 +1,16 @@
+## Response by Retrieval
+use information retrieval to grab a response that is appropriate to the context/
+## Response by generation
+Use a language model or Encoder-Decoder to generate the response given the dialogue context
+
+Think of response production as an ecoder-decoder task, 
+generate each token rt of the response by conditioning on the encoding of the entire query q and the response so frame
+rt = argmax w belongs to V P(w | q, r1,...rt-1)
+rt = response token
+w = word belong to vocab
+V = vocab
+r1...rt-1 = all word token generated
+
+Alternative to Encoder Decoder is Fine Tuning a Large Language Model on conversation dataset fine tune GPT, Gemma2 2b
+
+Basic Encoder Decoder Model tends to get repetitive and boring.

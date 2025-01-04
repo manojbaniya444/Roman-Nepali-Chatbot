@@ -1,0 +1,21 @@
+A more sophisticated version of the frame based architecture
+Has dialogue acts more ML better generation
+
+Has dialogue state tracker: maintains the current state of the dialogue.
+(users most recent dialogue act, set of slot filler constraints from user)
+
+Has dialogue policy: what the system should do or say next.
+
+Has NLG: to generate appropriate answer, more natural less template based.
+
+Use slot filling as sequence labeling BIO tagging as sequence label machine learning
+
+use BERT like model or BiLSTM
+
+# Dialogue policy
+- What to say
+given dialogue state which state to take
+argmax of action over argmax of all previous action
+
+# Dialogue Generation
+- How to say it

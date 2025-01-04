@@ -1,0 +1,21 @@
+## GUS: frame based chatbot
+- Over 40 years old
+- Fill slots until all slots are filled
+- Continue asking until all the fields are filled
+- Once all slots are filled, Query the database
+
+## Natural Language Understanding for GUS based Frame chatbot
+- System must detect which slot of which frame user is filling and switch dialogue control to that frame.
+
+The goal is to :
+
+- Domain Classification (if the bot is for multi domain chatbot)
+- Domain classification not need for single domain chatbot but need for multi domain chatbot to identify the intent of the USER
+- Intent Determination (like order product, track order status, order one product, etc.)
+- Slot Filling (to fill the slot)
+
+## Slot filling 
+1) Rule Based Slot Filling (Regex)
+
+## Natural Language Generation
+- A pre built template is used
