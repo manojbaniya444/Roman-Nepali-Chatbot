@@ -1,0 +1,552 @@
+[
+    {
+        "question": "Maile order cancel gareko ho, refund kahile aauchha?",
+        "context": "Tapai ko refund process suru bhayeko chha ra yo 5-7 kaam din ma tapai ko account ma aauchha. Bank transfer ko lagi thap samaya lagna sakchha.",
+        "response": "Tapai ko refund process suru bhayeko chha, ra yo 5-7 kaam din bhitra tapai ko account ma aauchha."
+    },
+    {
+        "question": "Gift card kinne process ke ho?",
+        "context": "Tapai hamro website ma login garera 'Gift Cards' section ma januhos. Taha ma tapai le desired amount select garera card kinna saknuhunchha.",
+        "response": "Gift card kinna, tapai le hamro website ma login garera 'Gift Cards' section ma janera amount select garna parcha."
+    },
+    {
+        "question": "Invoice ma galti bhaeko chha, yo kasari thik garna sakincha?",
+        "context": "Invoice correction ko lagi, tapai le hamro support team lai email ya call garera details dina parcha. Correction 3-5 kaam din ma complete huncha.",
+        "response": "Invoice correction ko lagi, kripaya hamro support team lai email ya call garnuhos ra required details dinuhos."
+    },
+    {
+        "question": "Cancel gareko order ko policy ke ho?",
+        "context": "Hamro cancellation policy anusar, order cancel garna parne awastha ma, order cancel gare pachi refund 5-7 din ma tapai ko account ma huncha.",
+        "response": "Hamro cancellation policy anusar, refund 5-7 din ma tapai ko account ma huncha."
+    },
+    {
+        "question": "Maile gift card redeem garna chaheko ho, kasari garne?",
+        "context": "Gift card redeem garna, tapai checkout page ma jane bela 'Apply Gift Card' option select garera card code halna saknuhunchha.",
+        "response": "Checkout page ma 'Apply Gift Card' option select garera card code halnuhos ra redeem garnuhos."
+    },
+    {
+        "question": "Refund process ko barema thaha dinuhos.",
+        "context": "Refund process suru hunalai order cancel gareko hunuparcha. Cancelation confirm bhaepachi, refund process start hunchha, jasle karan bank transfer ko lagi 5-7 kaam din lagna sakchha. Credit card refund alik chitto huncha.",
+        "response": "Refund process suru hunalai order cancel garnu parcha. Bank transfer ko lagi 5-7 kaam din lagna sakchha."
+    },
+    {
+        "question": "Gift card kinnu cha, kasari garne?",
+        "context": "Gift cards ko lagi, hamro website ma 'Gift Cards' section ma jane. Tyaha, card ko amount select garera checkout complete garnuhos. Card email ma paunu hunchha.",
+        "response": "Gift cards kinna ko lagi, 'Gift Cards' section ma jane ra amount select gare pachi checkout complete garnuhos."
+    },
+    {
+        "question": "Maile order cancel gare, aba ke hunecha?",
+        "context": "Order cancel garepachi, confirmation email pathaunecha. Cancel bhayeko order ko refund 5-7 kaam din ma bank account ma aauchha. Online payment bhaye refund card ma janchha.",
+        "response": "Order cancel garepachi, tapai lai confirmation email pathaunecha ra refund 5-7 kaam din ma bank account ma huncha."
+    },
+    {
+        "question": "Invoice galat cha, thik garna sakinchha?",
+        "context": "Invoice correction ka lagi hamro customer support lai samparka garnuhos. Email ma invoice ko detail pathaera afno issue mention garnuhos. Correction process 3-5 kaam din ma complete huncha.",
+        "response": "Invoice correction ko lagi, customer support lai samparka garnuhos ra email ma invoice ko detail pathaera issue mention garnuhos."
+    },
+    {
+        "question": "Gift card kasari redeem garne?",
+        "context": "Gift card redeem garna checkout page ma 'Apply Gift Card' bhanne option ma click garera card ko code halnuparcha. Tespachi, card ko balance deduct huncha ra final amount payment garna parcha.",
+        "response": "Checkout page ma 'Apply Gift Card' option ma click garera card code halnuhos ra balance deduct hunecha."
+    },
+    {
+        "question": "Refund process ko barema thaha dinuhos.",
+        "context": "Refund process suru hunalai order cancel gareko hunuparcha. Cancelation confirm bhaepachi, refund process start hunchha, jasle karan bank transfer ko lagi 5-7 kaam din lagna sakchha. Credit card refund alik chitto huncha. Gift card ko balance redeem garna checkout page ma 'Apply Gift Card' option select garnuhos.",
+        "response": "Refund process suru hunalai order cancel garnu parcha. Cancelation confirm bhayepachi, bank transfer ko lagi 5-7 kaam din lagna sakchha."
+    },
+    {
+        "question": "Gift card kinnu cha, kasari garne?",
+        "context": "Gift cards ko lagi, hamro website ma 'Gift Cards' section ma jane. Tyaha, card ko amount select garera checkout complete garnuhos. Card email ma paunu hunchha. Refunds ko lagi, order cancel bhayepachi 5-7 kaam din lagna sakchha.",
+        "response": "Gift cards kinna ko lagi, 'Gift Cards' section ma jane ra card ko amount select garera checkout complete garnuhos."
+    },
+    {
+        "question": "Maile order cancel gare, aba ke hunecha?",
+        "context": "Order cancel garepachi, confirmation email pathaunecha. Cancel bhayeko order ko refund 5-7 kaam din ma bank account ma aauchha. Online payment bhaye refund card ma janchha. Billing issue thik garna customer support team lai samparka garnuhos.",
+        "response": "Order cancel garepachi, confirmation email pathaunecha ra refund 5-7 kaam din ma bank account ma huncha."
+    },
+    {
+        "question": "Invoice galat cha, thik garna sakinchha?",
+        "context": "Invoice correction ka lagi hamro customer support lai samparka garnuhos. Email ma invoice ko detail pathaera afno issue mention garnuhos. Correction process 3-5 kaam din ma complete huncha. Gift card redeem garna 'Apply Gift Card' option ma card code halnuhos.",
+        "response": "Invoice correction ko lagi, customer support lai samparka garnuhos ra email ma invoice ko detail pathaera issue mention garnuhos."
+    },
+    {
+        "question": "Gift card kasari redeem garne?",
+        "context": "Gift card redeem garna checkout page ma 'Apply Gift Card' bhanne option ma click garera card ko code halnuparcha. Tespachi, card ko balance deduct huncha ra final amount payment garna parcha. Invoice ko error thik garna customer support ma email pathaunuhos.",
+        "response": "Checkout page ma 'Apply Gift Card' option ma click garera card code halnuhos ra balance deduct hunecha."
+    },
+    {
+        "question": "Discount ko barema thaha dinuhos.",
+        "context": "Hamro website ma discount haru seasonal offer ko roop ma upalabdha hunchha. Tapai le 'Deals of the Day' section ma up to 50% discount paye saknuhuncha. Order cancel garna, 'My Orders' section ma gaera 'Cancel Order' option select garnuhos. Refund process bank transfer ka lagi 5-7 din lagna sakchha.",
+        "response": "Hamro website ma seasonal offer ko roop ma discount haru upalabdha hunchha. 'Deals of the Day' section ma up to 50% discount available cha."
+    },
+    {
+        "question": "Maile order cancel gare, aba ke hunecha?",
+        "context": "Order cancel garepachi, tapai lai confirmation email pathaunecha. Cancel bhayeko order ko refund 5-7 kaam din ma bank account ma huncha. Product inquiry ko lagi, 'Contact Us' section bata hamro support team lai samparka garnuhos. Discounts ko lagi, 'Deals' section ma jaera updated offers hernuhos.",
+        "response": "Order cancel garepachi, tapai lai confirmation email pathaunecha ra refund 5-7 kaam din ma tapai ko account ma huncha."
+    },
+    {
+        "question": "Gift card kasari redeem garne?",
+        "context": "Gift card redeem garna checkout page ma 'Apply Gift Card' option ma card code halnuparcha. Tespachi, card ko balance deduct huncha. Discounts haru 'Deals' section ma available hunchha. Order inquiry ko lagi 'My Orders' ma gaera order status check garnuhos.",
+        "response": "Checkout page ma 'Apply Gift Card' option ma card code halnuhos ra balance deduct hunecha."
+    },
+    {
+        "question": "Product ko detail inquiry garna kasari garne?",
+        "context": "Product detail inquiry ko lagi, product page ma jani 'Specifications' tab ma sabai details herna saknuhuncha. Discount ko lagi, checkout ma applicable coupon code apply garnuhos. Refund process ko lagi, cancellation confirm bhayepachi 5-7 din lagna sakchha.",
+        "response": "Product detail inquiry ko lagi, product page ma jani 'Specifications' tab ma sabai details herna saknuhuncha."
+    },
+    {
+        "question": "Discount coupon kasari apply garne?",
+        "context": "Discount coupon apply garna, checkout page ma 'Apply Coupon' bhanne option ma click garera code halnuhos. Product inquiry ko lagi, specific product ko page ma jani details hernuhos. Gift card ko balance checkout ma 'Apply Gift Card' garera use garnuhos.",
+        "response": "Checkout page ma 'Apply Coupon' option ma click garera coupon code halnuhos."
+    },
+    {
+        "question": "Discount ko barema thaha dinuhos.",
+        "context": "Tapai ko order ma processing state cha. Discounts hamro festive sales ma up to 70% off ka lagi available cha. Gift card ko balance checkout ma 'Apply Gift Card' ma use garna saknuhuncha. Refund process bank transfer ka lagi 5-7 din lagna sakchha.",
+        "response": "Festive sales ma up to 70% discount available cha."
+    },
+    {
+        "question": "Maile order cancel gareko ho, aba refund kahile aauchha?",
+        "context": "Discount apply garera order confirm garnuhos. Cancel gareko order ko refund 5-7 kaam din ma aauchha. Gift card use gareko cha bhane refund card balance ma huncha. Shipping charge ko lagi specific orders ma lagoo hune sakchha.",
+        "response": "Cancel gareko order ko refund 5-7 kaam din ma aauchha."
+    },
+    {
+        "question": "Gift card kasari kinnu?",
+        "context": "Gift card kinna ko lagi hamro website ma login garera 'Gift Cards' section ma januhos. Tyaha, amount select garera checkout process complete garnuhos. Discount code apply garna 'Apply Coupon' option use garnuhos. Refund ko lagi order cancel bhaepachi 5-7 din lagcha.",
+        "response": "Gift card kinna ko lagi, 'Gift Cards' section ma jani amount select garera checkout process complete garnuhos."
+    },
+    {
+        "question": "Shipping charge free cha ki paid?",
+        "context": "Shipping charge order amount ma depend garcha. Rs. 500 bhanda mathi ko orders ma free shipping cha. Discount apply garna 'Apply Coupon' option checkout ma cha. Refund process order cancel bhaepachi suru huncha ra 5-7 din lagcha.",
+        "response": "Rs. 500 bhanda mathi ko orders ma free shipping cha."
+    },
+    {
+        "question": "Product ko detail inquiry kasari garne?",
+        "context": "Product inquiry ko lagi tapai product page ma jani 'Specifications' section ma sabai detail pauna saknuhuncha. Discount ko lagi 'Deals of the Day' section ma up to 50% off available cha. Shipping charge ko lagi order total Rs. 500 bhanda mathi bhaye free delivery cha.",
+        "response": "Product inquiry ko lagi, product page ma jani 'Specifications' section ma sabai detail pauna saknuhuncha."
+    },
+    {
+        "question": "Refund process ko barema thaha cha ki?",
+        "context": "Refund process cancelation confirm bhaepachi suru hunchha. Bank transfer refund ka lagi 5-7 din lagcha. Credit card ko refund chito huncha. Discounts checkout page ma 'Apply Coupon' option ma code halera activate garnuhos. Gift card redeem garna checkout ma 'Apply Gift Card' option use garnuhos.",
+        "response": "Refund process cancelation confirm bhaepachi suru hunchha ra bank transfer refund ka lagi 5-7 din lagcha."
+    },
+    {
+        "question": "Discount coupon kasari apply garne?",
+        "context": "Discount coupon apply garna, checkout page ma 'Apply Coupon' bhanne option ma click garera code halnuhos. Gift card redeem garna 'Apply Gift Card' option use garnuhos. Shipping charge order total Rs. 500 bhanda mathi ko orders ma free huncha.",
+        "response": "Checkout page ma 'Apply Coupon' option ma click garera coupon code halnuhos."
+    },
+    {
+        "question": "Order tracking kasari garne?",
+        "context": "Order track garna 'My Orders' section ma januhos. Tyaha, order status jasto ki processing, shipped, ya delivered check garna saknuhuncha. Refund ko lagi cancel confirm bhaepachi process start huncha. Discounts ma 'Festive Sale' section up to 70% off available cha.",
+        "response": "Order track garna 'My Orders' section ma jani order status check garna saknuhuncha."
+    },
+    {
+        "question": "Order cancel gare, aba ke hunecha?",
+        "context": "Cancel bhayeko order ko confirmation email tapai lai pathaunecha. Refund 5-7 kaam din ma bank account ma aauchha. Discounts apply garera order confirm garnuhos. Product ko detail inquiry ko lagi 'Specifications' section ma januhos.",
+        "response": "Cancel bhayeko order ko confirmation email pathaunecha ra refund 5-7 kaam din ma bank account ma aauchha."
+    },
+    {
+        "question": "Festive sale ko discount kasto cha?",
+        "context": "Festive sales ma up to 70% off available cha. Refund ko lagi order cancel bhaepachi process start huncha. Shipping charge ko lagi orders Rs. 500 bhanda mathi free delivery huncha. Gift card purchase ko lagi 'Gift Cards' section ma januhos.",
+        "response": "Festive sales ma up to 70% off available cha."
+    },
+    {
+        "question": "Discount coupon kasari apply garne?",
+        "context": "Order ko tracking 'My Orders' section bata garna saknuhuncha. Discounts apply garna checkout page ma 'Apply Coupon' bhanne option ma click garera code halnuhos. Shipping charge ko lagi free delivery Rs. 500 bhanda mathi ko orders ma available cha. Refund ko lagi 5-7 kaam din lagcha.",
+        "response": "Discounts apply garna checkout page ma 'Apply Coupon' bhanne option ma click garera code halnuhos."
+    },
+    {
+        "question": "Order cancel gare, aba ke hunecha?",
+        "context": "Festive sale ma up to 50% discount available cha. Cancel garepachi tapai ko order ko confirmation email aauchha ra refund process start huncha, jasle bank transfer ka lagi 5-7 kaam din lagcha. Product detail inquiry ko lagi 'Specifications' section ma hernuhos.",
+        "response": "Cancel garepachi tapai ko order ko confirmation email aauchha ra refund process start huncha, jasle bank transfer ka lagi 5-7 kaam din lagcha."
+    },
+    {
+        "question": "Shipping charge free cha ki paid?",
+        "context": "Refund ko lagi order cancel bhaepachi 5-7 din lagcha. Shipping charge order total Rs. 500 bhanda mathi bhaye free delivery cha, natra Rs. 50 ko shipping fee lagcha. Discounts checkout page ma apply garna saknuhuncha. Gift card redeem garna 'Apply Gift Card' option use garnuhos.",
+        "response": "Shipping charge order total Rs. 500 bhanda mathi bhaye free delivery cha, natra Rs. 50 ko shipping fee lagcha."
+    },
+    {
+        "question": "Refund process kasari huncha?",
+        "context": "Gift card redeem garna checkout page ma 'Apply Gift Card' ma code halnuhos. Refund process cancel confirm bhaepachi suru hunchha, ra bank transfer refund ka lagi 5-7 din lagcha. Discounts festive season ma up to 70% available cha.",
+        "response": "Refund process cancel confirm bhaepachi suru hunchha, ra bank transfer refund ka lagi 5-7 din lagcha."
+    },
+    {
+        "question": "Product detail inquiry kasari garne?",
+        "context": "Product inquiry ko lagi, product page ma jani 'Specifications' section ma hernuhos. Discounts haru festive sales ma up to 50% off available cha. Shipping charge ko lagi, Rs. 500 bhanda mathi free delivery cha.",
+        "response": "Product inquiry ko lagi, product page ma jani 'Specifications' section ma hernuhos."
+    },
+    {
+        "question": "Festive sale ko discount kasto cha?",
+        "context": "Shipping charge ko lagi Rs. 500 bhanda mathi ko orders ma free delivery cha. Festive sales ma up to 70% off available cha, jasma clothes ra electronics ma special offers cha. Refund ko lagi 5-7 din lagcha.",
+        "response": "Festive sales ma up to 70% off available cha, jasma clothes ra electronics ma special offers cha."
+    },
+    {
+        "question": "Gift card kasari redeem garne?",
+        "context": "Order ko tracking 'My Orders' section bata garna saknuhuncha. Gift card redeem garna checkout page ma 'Apply Gift Card' ma card code halera balance deduct garnuhos. Discounts ma up to 50% off available cha. Refund process cancelation confirm bhaepachi suru huncha.",
+        "response": "Gift card redeem garna checkout page ma 'Apply Gift Card' ma card code halera balance deduct garnuhos."
+    },
+    {
+        "question": "Invoice thik garna kasari garne?",
+        "context": "Shipping charge free cha Rs. 500 bhanda mathi ko orders ma. Invoice thik garna customer support lai samparka garnuhos ra galti explain garera naya invoice request garnuhos. Discounts checkout ma 'Apply Coupon' bata activate garna saknuhuncha.",
+        "response": "Invoice thik garna customer support lai samparka garnuhos ra galti explain garera naya invoice request garnuhos."
+    },
+    {
+        "question": "Order tracking kasari garne?",
+        "context": "Discounts ko lagi 'Deals' section ma jaera updated offers hernuhos. Order track garna 'My Orders' section ma jani tapai ko order status (processing, shipped, delivered) check garnuhos. Refund process cancelation confirm bhaepachi start huncha.",
+        "response": "Order track garna 'My Orders' section ma jani tapai ko order status (processing, shipped, delivered) check garnuhos."
+    },
+    {
+        "question": "Order ko refund kahile aauchha?",
+        "context": "Order confirm garnuhos ra festive sale ma up to 70% discount paunuhos. Cancel bhayeko order ko refund bank transfer ka lagi 5-7 kaam din ma aauchha. Product inquiry ko lagi 'Specifications' section ma details hernuhos.",
+        "response": "Cancel bhayeko order ko refund bank transfer ka lagi 5-7 kaam din ma aauchha."
+    },
+    {
+        "question": "Discount apply garna kasari garne?",
+        "context": "Product inquiry ko lagi 'Specifications' section ma hernuhos. Discounts checkout page ma 'Apply Coupon' bhanne option use garera apply garnuhos. Refund ka lagi order cancel bhaepachi 5-7 kaam din lagcha.",
+        "response": "Discounts checkout page ma 'Apply Coupon' bhanne option use garera apply garnuhos."
+    },
+    {
+        "question": "Shipping charges ko barema thaha dinuhos.",
+        "context": "Festive sales ma up to 70% off available cha. Shipping charges Rs. 500 bhanda mathi free cha, aba talako orders ma Rs. 50 charge huncha. Refund 5-7 din bhitra bank ma credit huncha.",
+        "response": "Shipping charges Rs. 500 bhanda mathi free cha, aba talako orders ma Rs. 50 charge huncha."
+    },
+    {
+        "question": "Order cancel garna process ke ho?",
+        "context": "Refund ka barema inquiry ko lagi 5-7 din ko time frame cha. Order cancel garna, 'My Orders' ma jani cancel option select garnuhos. Discount haru checkout page ma 'Apply Coupon' bata activate garna saknuhuncha.",
+        "response": "Order cancel garna, 'My Orders' ma jani cancel option select garnuhos."
+    },
+    {
+        "question": "Refund kasari pauxa?",
+        "context": "Refund process cancel confirm bhaepachi suru hunchha, ra bank transfer refund ka lagi 5-7 kaam din lagcha. Gift card ko balance use garna checkout ma code apply garnuhos. Discounts festive sales ma available cha.",
+        "response": "Refund process cancel confirm bhaepachi suru hunchha, ra bank transfer refund ka lagi 5-7 kaam din lagcha."
+    },
+    {
+        "question": "Gift card kasari apply garne?",
+        "context": "Product inquiry ko lagi 'Specifications' section ma januhos. Gift card apply garna checkout ma 'Apply Gift Card' ma card code halnuhos. Shipping charge order amount ma adharit cha, Rs. 500 bhanda mathi ko orders ma free cha.",
+        "response": "Gift card apply garna checkout ma 'Apply Gift Card' ma card code halnuhos."
+    },
+    {
+        "question": "Order ko status kasari herne?",
+        "context": "Festive sale ko lagi up to 70% discount available cha. Order ko status 'My Orders' section ma janera herna saknuhuncha. Shipping charge ko lagi Rs. 500 bhanda mathi ko orders ma free cha.",
+        "response": "Order ko status 'My Orders' section ma janera herna saknuhuncha."
+    },
+    {
+        "question": "Festive sale ma discount kati samma cha?",
+        "context": "Refund ka lagi order cancel bhaepachi process start huncha. Festive sale ma up to 70% discount cha, jasma electronics, clothing, ra home decor samet shaamil cha. Gift card apply checkout ma garnuhos.",
+        "response": "Festive sale ma up to 70% discount cha, jasma electronics, clothing, ra home decor samet shaamil cha."
+    },
+    {
+        "question": "Invoice thik garna ko lagi ke garne?",
+        "context": "Discount apply garnuhos ra festive sale enjoy garnuhos. Invoice thik garna, customer support lai samparka garnuhos. Shipping charge ko lagi Rs. 500 bhanda mathi orders ma free cha.",
+        "response": "Invoice thik garna, customer support lai samparka garnuhos."
+    },
+    {
+        "question": "Order ko delivery kahile hunchha?",
+        "context": "Order ko delivery 5-7 din bhitra hunecha. Discounts ma festive sale ko up to 70% off available cha. Refund process order cancel confirm bhaepachi suru huncha.",
+        "response": "Order ko delivery 5-7 din bhitra hunecha."
+    },
+    {
+        "question": "Order cancel gareko refund kahile aauchha?",
+        "context": "Shipping charge order total ma adharit cha. Cancel gareko order ko refund 5-7 din ma tapai ko bank account ma aauchha. Gift card apply checkout ma garna saknuhuncha.",
+        "response": "Cancel gareko order ko refund 5-7 din ma tapai ko bank account ma aauchha."
+    },
+    {
+        "question": "Product ko warranty ko barema thaha dinuhos.",
+        "context": "Product warranty ko details 'Specifications' section ma available cha. Discounts ko lagi 'Apply Coupon' checkout page ma use garnuhos. Refund process cancel confirm bhaepachi suru huncha.",
+        "response": "Product warranty ko details 'Specifications' section ma available cha."
+    },
+    {
+        "question": "Refund ka lagi k garna parcha?",
+        "context": "Gift card apply garna 'Apply Gift Card' checkout page ma code halnuhos. Refund process start garna, order cancel confirm garnuhos. Festive sale ko discount up to 50% off cha.",
+        "response": "Refund process start garna, order cancel confirm garnuhos."
+    },
+    {
+        "question": "Order tracking link kaha cha?",
+        "context": "Order tracking ko lagi 'My Orders' section ma januhos. Refund ka lagi bank transfer 5-7 din lagcha. Shipping charges ko barema 'Shipping Policy' section ma details cha.",
+        "response": "Order tracking ko lagi 'My Orders' section ma januhos."
+    },
+    {
+        "question": "Discount offers kahile samma cha?",
+        "context": "Festive sale ma discounts up to 70% off cha, jasma clothes ra electronics ma special offers cha. Refund cancel bhaepachi 5-7 din ma aauchha. Order tracking ko lagi 'My Orders' ma januhos.",
+        "response": "Festive sale ma discounts up to 70% off cha, jasma clothes ra electronics ma special offers cha."
+    },
+    {
+        "question": "Product return policy kasto cha?",
+        "context": "Product return policy ko details 'Return Policy' section ma hernuhos. Discounts ma festive sale ko up to 70% off available cha. Refund process cancel confirm bhaepachi start huncha.",
+        "response": "Product return policy ko details 'Return Policy' section ma hernuhos."
+    },
+    {
+        "question": "Order update information k garera pauncha?",
+        "context": "Order updates email ra SMS bata provide garinchha. Refund process order cancel confirm bhaepachi start huncha. Gift card redeem garna checkout page ma code halnuhos.",
+        "response": "Order updates email ra SMS bata provide garinchha."
+    },
+    {
+        "question": "Shipping charges ma discount cha ki nai?",
+        "context": "Shipping charges Rs. 500 bhanda mathi free cha. Discounts ko lagi festive sale ma up to 70% off cha. Refund ka lagi 5-7 kaam din lagcha.",
+        "response": "Shipping charges Rs. 500 bhanda mathi free cha."
+    },
+    {
+        "question": "Order cancel garna k garne?",
+        "context": "Order cancel garna 'My Orders' ma jani cancel button click garnuhos. Refund ka lagi 5-7 din lagcha. Discounts checkout page ma 'Apply Coupon' bata activate garna saknuhuncha.",
+        "response": "Order cancel garna 'My Orders' ma jani cancel button click garnuhos."
+    },
+    {
+        "question": "Gift card balance kasari herne?",
+        "context": "Gift card balance 'My Gift Cards' section ma herna saknuhuncha. Discounts apply garna 'Apply Coupon' option use garnuhos. Refund ka lagi order cancel bhaepachi 5-7 din lagcha.",
+        "response": "Gift card balance 'My Gift Cards' section ma herna saknuhuncha."
+    },
+    {
+        "question": "Product availability ko status kasari herne?",
+        "context": "Product availability 'In Stock' status product page ma dekhna milcha. Shipping charges Rs. 500 bhanda mathi ko orders ma free cha. Refund process order cancel bhaepachi start huncha.",
+        "response": "Product availability 'In Stock' status product page ma dekhna milcha."
+    },
+    {
+        "question": "Invoice duplicate kasari pauncha?",
+        "context": "Invoice duplicate ko lagi customer support ma request garnuhos. Discounts festive sales ma available cha. Refund ka lagi 5-7 din lagcha.",
+        "response": "Invoice duplicate ko lagi customer support ma request garnuhos."
+    },
+    {
+        "question": "Delivery status check garna k garne?",
+        "context": "Delivery status check garna 'My Orders' section ma januhos. Refund process cancel confirm bhaepachi suru hunchha. Discounts ko lagi checkout page ma coupon use garnuhos.",
+        "response": "Delivery status check garna 'My Orders' section ma januhos."
+    },
+    {
+        "question": "Billing issue solve garna k garne?",
+        "context": "Billing issue solve garna, customer support ma samparka garnuhos. Discounts ma festive sale ko offers use garnuhos. Refund process 5-7 din bhitra complete hunchha.",
+        "response": "Billing issue solve garna, customer support ma samparka garnuhos."
+    },
+    {
+        "question": "Return ko process kasari hunchha?",
+        "context": "Return ko process 'Return Policy' section ma explain cha. Shipping ko lagi Rs. 500 bhanda mathi free cha. Discounts festive sales ma upto 50% available cha.",
+        "response": "Return ko process 'Return Policy' section ma explain cha."
+    },
+    {
+        "question": "Order delay bhayo, aba ke garne?",
+        "context": "Order delay bhaye, customer support lai samparka garnuhos ra updated delivery information linuhos. Refund cancel bhaepachi 5-7 din lagcha. Shipping charges Rs. 500 bhanda mathi ko orders ma free cha.",
+        "response": "Order delay bhaye, customer support lai samparka garnuhos ra updated delivery information linuhos."
+    },
+    {
+        "question": "Product replacement kasari garna milcha?",
+        "context": "Product replacement 'Return/Replace' policy under cha. Discounts apply garna checkout page ma 'Apply Coupon' option use garnuhos. Refund 5-7 din ma complete hunchha.",
+        "response": "Product replacement 'Return/Replace' policy under cha."
+    },
+    {
+        "question": "Order dispatch kahile hunchha?",
+        "context": "Order dispatch 2-3 din bhitra hunecha. Refund process cancelation confirm bhaepachi start hunchha. Discounts festive sale ko up to 70% cha.",
+        "response": "Order dispatch 2-3 din bhitra hunecha."
+    },
+    {
+        "question": "Refund status kasari check garne?",
+        "context": "Refund status 'My Orders' section ma janera herna saknuhuncha. Shipping charges free cha Rs. 500 bhanda mathi ko orders ma. Discounts checkout page ma coupon use garera active garnuhos.",
+        "response": "Refund status 'My Orders' section ma janera herna saknuhuncha."
+    },
+    {
+        "question": "Return request reject bhayo, aba ke garne?",
+        "context": "Return request reject bhaye, customer support lai samparka garnuhos ra detail inquiry garnuhos. Discounts festive sales ma available cha. Refund process cancel confirm bhaepachi suru huncha.",
+        "response": "Return request reject bhaye, customer support lai samparka garnuhos ra detail inquiry garnuhos."
+    },
+    {
+        "question": "Warranty claim kasari garne?",
+        "context": "Warranty claim ko lagi product invoice ra warranty card ko copy customer support ma pathaunuhos. Refund process order cancel confirm bhaepachi suru huncha. Discounts festive sale ko up to 50% off cha.",
+        "response": "Warranty claim ko lagi product invoice ra warranty card ko copy customer support ma pathaunuhos."
+    },
+    {
+        "question": "Delivery time extend bhayo, ke garnu parcha?",
+        "context": "Delivery time extend bhaye, customer support ma samparka garnuhos ra updated status ko lagi inquire garnuhos. Refund process cancelation confirm bhaepachi start hunchha. Discounts festive sales ma up to 70% available cha.",
+        "response": "Delivery time extend bhaye, customer support ma samparka garnuhos ra updated status ko lagi inquire garnuhos."
+    },
+    {
+        "question": "Coupon code invalid cha, aba ke garne?",
+        "context": "Coupon code invalid cha bhane customer support lai samparka garnuhos. Refund 5-7 din bhitra complete hunchha. Shipping charges Rs. 500 bhanda mathi ko orders ma free cha.",
+        "response": "Coupon code invalid cha bhane customer support lai samparka garnuhos."
+    },
+    {
+        "question": "Order modification possible cha ki nai?",
+        "context": "Order modification 'My Orders' section ma update options available cha bhane garna milcha. Refund process cancelation confirm bhaepachi start hunchha. Discounts checkout ma apply garna milcha.",
+        "response": "Order modification 'My Orders' section ma update options available cha bhane garna milcha."
+    },
+    {
+        "question": "Account ko password kasari reset garne?",
+        "context": "Password reset garna 'Forgot Password' link ma click garera email ma aayeko OTP use garnuhos. Discounts ko lagi festive sale use garnuhos. Refund process order cancel bhaepachi start hunchha.",
+        "response": "Password reset garna 'Forgot Password' link ma click garera email ma aayeko OTP use garnuhos."
+    },
+    {
+        "question": "Payment issue solve garna k garne?",
+        "context": "Payment issue solve garna customer support ma samparka garnuhos. Refund 5-7 din bhitra process hunchha. Discounts checkout page ma coupon use garera active garna saknuhuncha.",
+        "response": "Payment issue solve garna customer support ma samparka garnuhos."
+    },
+    {
+        "question": "Damaged product aayo, ke garne?",
+        "context": "Damaged product ko lagi 'Return/Replace' section ma request garnuhos. Discounts festive sale ko up to 50% off available cha. Refund ka lagi 5-7 din lagcha.",
+        "response": "Damaged product ko lagi 'Return/Replace' section ma request garnuhos."
+    },
+    {
+        "question": "Exchange policy ke cha?",
+        "context": "Exchange policy ko details 'Return/Replace' section ma available cha. Discounts festive sale ma up to 70% cha. Refund process order cancel bhaepachi start hunchha.",
+        "response": "Exchange policy ko details 'Return/Replace' section ma available cha."
+    },
+    {
+        "question": "Delivery location kasari update garne?",
+        "context": "Delivery location update garna 'My Orders' section ma address modify garnuhos. Refund ka lagi order cancel confirm bhaepachi 5-7 din lagcha. Discounts festive sale ma apply garna milcha.",
+        "response": "Delivery location update garna 'My Orders' section ma address modify garnuhos."
+    },
+    {
+        "question": "Payment confirmation kahile aauchha?",
+        "context": "Payment confirmation order place bhaepachi 10-15 minutes bhitra aauchha. Discounts festive sale ko up to 50% cha. Refund ka lagi 5-7 din lagcha.",
+        "response": "Payment confirmation order place bhaepachi 10-15 minutes bhitra aauchha."
+    },
+    {
+        "question": "Order ko invoice kahile milcha?",
+        "context": "Order ko invoice delivery bhaepachi email ma provide garinchha. Refund process cancel confirm bhaepachi start hunchha. Discounts checkout page ma apply garna milcha.",
+        "response": "Order ko invoice delivery bhaepachi email ma provide garinchha."
+    },
+    {
+        "question": "Pre-order items ko delivery kahile hunchha?",
+        "context": "Pre-order items delivery timeline product page ma mentioned cha. Refund cancel bhaepachi 5-7 din lagcha. Discounts festive sale ko up to 70% cha.",
+        "response": "Pre-order items delivery timeline product page ma mentioned cha."
+    },
+    {
+        "question": "Product customization possible cha ki nai?",
+        "context": "Product customization ko lagi customer support ma inquiry garnuhos. Refund process cancel confirm bhaepachi start hunchha. Discounts festive sales ma apply garna milcha.",
+        "response": "Product customization ko lagi customer support ma inquiry garnuhos."
+    },
+    {
+        "question": "Product rating kasari dinu sakinchha?",
+        "context": "Product rating 'My Orders' section ma janera rate option use garera dinuhos. Refund 5-7 din bhitra complete hunchha. Discounts festive sales ma up to 50% available cha.",
+        "response": "Product rating 'My Orders' section ma janera rate option use garera dinuhos."
+    },
+    {
+        "question": "Delivery slot kasari book garne?",
+        "context": "Delivery slot book garna checkout page ma slot selection option cha. Refund ka lagi cancelation confirm bhaepachi 5-7 din lagcha. Discounts festive sale ma up to 70% cha.",
+        "response": "Delivery slot book garna checkout page ma slot selection option cha."
+    },
+    {
+        "question": "International shipping available cha ki nai?",
+        "context": "International shipping ko details 'Shipping Policy' section ma available cha. Refund cancel bhaepachi 5-7 din lagcha. Discounts festive sales ma apply garna milcha.",
+        "response": "International shipping ko details 'Shipping Policy' section ma available cha."
+    },
+    {
+        "question": "Cash on delivery option available cha?",
+        "context": "Cash on delivery option selected locations ma matra available cha. Refund process 5-7 din bhitra complete hunchha. Discounts checkout ma coupon use garera active garna saknuhuncha.",
+        "response": "Cash on delivery option selected locations ma matra available cha."
+    },
+    {
+        "question": "Membership benefits k k hunchha?",
+        "context": "Membership benefits ma free shipping ra exclusive discounts sammilit cha. Refund ka lagi order cancel bhaepachi 5-7 din lagcha. Discounts festive sale ma available cha.",
+        "response": "Membership benefits ma free shipping ra exclusive discounts sammilit cha."
+    },
+    {
+        "question": "Gift wrapping service available cha ki nai?",
+        "context": "Gift wrapping service checkout page ma select garna milcha. Refund process order cancel confirm bhaepachi start hunchha. Discounts festive sales ma up to 70% cha.",
+        "response": "Gift wrapping service checkout page ma select garna milcha."
+    },
+    {
+        "question": "Payment method update kasari garne?",
+        "context": "Payment method update garna checkout page ma 'Edit Payment' option use garnuhos. Refund ka lagi 5-7 din lagcha. Discounts festive sales ma apply garna milcha.",
+        "response": "Payment method update garna checkout page ma 'Edit Payment' option use garnuhos."
+    },
+    {
+        "question": "Order history kasari herne?",
+        "context": "Order history herna 'My Orders' section ma januhos. Refund process cancelation confirm bhaepachi start hunchha. Discounts checkout page ma apply garna milcha.",
+        "response": "Order history herna 'My Orders' section ma januhos."
+    },
+    {
+        "question": "Refund status check kasari garne?",
+        "context": "Refund status 'My Orders' section ma janera check garna saknuhuncha. Discounts festive season ma up to 70% cha. Customer support refund inquiries ko lagi hamesha available cha.",
+        "response": "Refund status 'My Orders' section ma janera check garna saknuhuncha."
+    },
+    {
+        "question": "Product exchange ko time limit kati ho?",
+        "context": "Product exchange request 7 din bhitra submit garnu parcha. Discounts checkout page ma apply garna milcha. Refund process cancel bhaepachi start hunchha.",
+        "response": "Product exchange request 7 din bhitra submit garnu parcha."
+    },
+    {
+        "question": "Order confirmation email aayena, aba ke garne?",
+        "context": "Order confirmation email aayena bhane customer support ma samparka garnuhos. Discounts festive sales ma up to 50% cha. Refund 5-7 din ma process hunchha.",
+        "response": "Order confirmation email aayena bhane customer support ma samparka garnuhos."
+    },
+    {
+        "question": "Order cancel garna late bhayo, ke hunchha?",
+        "context": "Order cancel garna late bhayo bhane cancellation policy ko anumati cha ki nai check garnuhos. Refund process cancelation confirm bhaepachi start hunchha. Discounts festive sale ma up to 70% cha.",
+        "response": "Order cancel garna late bhayo bhane cancellation policy ko anumati cha ki nai check garnuhos."
+    },
+    {
+        "question": "Warranty claim kasari garne?",
+        "context": "Warranty claim ko lagi product ko invoice ra warranty card ko copy customer support ma pathaunuhos. Discounts festive sales ma apply garna milcha. Refund 5-7 din ma complete hunchha.",
+        "response": "Warranty claim ko lagi product ko invoice ra warranty card ko copy customer support ma pathaunuhos."
+    },
+    {
+        "question": "Delivery charge kati ho?",
+        "context": "Delivery charge Rs. 500 bhanda mathi ko orders ma free cha. Refund process cancelation confirm bhaepachi start hunchha. Discounts checkout ma coupon code use garna saknuhuncha.",
+        "response": "Delivery charge Rs. 500 bhanda mathi ko orders ma free cha."
+    },
+    {
+        "question": "Account delete kasari garne?",
+        "context": "Account delete garna 'My Profile' section ma account settings ma januhos ra delete option select garnuhos. Refund ka lagi 5-7 din lagcha. Discounts festive sale ko up to 70% cha.",
+        "response": "Account delete garna 'My Profile' section ma account settings ma januhos ra delete option select garnuhos."
+    },
+    {
+        "question": "Prepaid payment failed, aba ke garne?",
+        "context": "Prepaid payment failed bhaye customer support ma samparka garnuhos. Refund cancel bhaepachi 5-7 din ma process hunchha. Discounts festive sale ma apply garna milcha.",
+        "response": "Prepaid payment failed bhaye customer support ma samparka garnuhos."
+    },
+    {
+        "question": "Product availability kasari check garne?",
+        "context": "Product availability check garna product page ma 'Check Availability' option use garnuhos. Discounts festive season ma up to 50% cha. Refund cancel bhaepachi start hunchha.",
+        "response": "Product availability check garna product page ma 'Check Availability' option use garnuhos."
+    },
+    {
+        "question": "Order tracking link valid chaina, aba ke garne?",
+        "context": "Order tracking link valid chaina bhane customer support ma samparka garnuhos. Refund ka lagi cancel confirm bhaepachi 5-7 din lagcha. Discounts checkout page ma coupon code use garna milcha.",
+        "response": "Order tracking link valid chaina bhane customer support ma samparka garnuhos."
+    },
+    {
+        "question": "Return process kasari start garne?",
+        "context": "Return process 'Return/Replace' section ma janera request garnuhos. Refund cancel confirm bhaepachi start hunchha. Discounts festive sale ma apply garna milcha.",
+        "response": "Return process 'Return/Replace' section ma janera request garnuhos."
+    },
+    {
+        "question": "Delivery slot reschedule possible cha ki nai?",
+        "context": "Delivery slot reschedule garna checkout page ma 'Reschedule Delivery' option cha. Refund ka lagi cancelation confirm bhaepachi 5-7 din lagcha. Discounts festive sale ko up to 70% cha.",
+        "response": "Delivery slot reschedule garna checkout page ma 'Reschedule Delivery' option cha."
+    },
+    {
+        "question": "Out of stock item kasari order garne?",
+        "context": "Out of stock item order garna 'Notify Me' option ma subscribe garnuhos. Refund cancel bhaepachi 5-7 din ma process hunchha. Discounts checkout ma apply garna milcha.",
+        "response": "Out of stock item order garna 'Notify Me' option ma subscribe garnuhos."
+    },
+    {
+        "question": "Order ko packaging eco-friendly ho ki nai?",
+        "context": "Order packaging eco-friendly ho bhane details product page ma mentioned hunchha. Discounts festive season ma up to 50% available cha. Refund process 5-7 din ma complete hunchha.",
+        "response": "Order packaging eco-friendly ho bhane details product page ma mentioned hunchha."
+    },
+    {
+        "question": "Order delay ko update kasari paune?",
+        "context": "Order delay ko update 'Track Order' section ma janera pauna milcha. Discounts festive sale ko up to 70% cha. Refund cancel confirm bhaepachi start hunchha.",
+        "response": "Order delay ko update 'Track Order' section ma janera pauna milcha."
+    },
+    {
+        "question": "Product inspection kasari garne?",
+        "context": "Product inspection ko lagi delivery ko bela packaging carefully open garnuhos. Refund cancel confirm bhaepachi start hunchha. Discounts festive sale ma apply garna milcha.",
+        "response": "Product inspection ko lagi delivery ko bela packaging carefully open garnuhos."
+    },
+    {
+        "question": "Referral code kasari use garne?",
+        "context": "Referral code use garna checkout page ma 'Apply Referral Code' option cha. Refund process cancelation confirm bhaepachi start hunchha. Discounts festive sales ma up to 50% cha.",
+        "response": "Referral code use garna checkout page ma 'Apply Referral Code' option cha."
+    },
+    {
+        "question": "Seasonal offers ko details kasari paune?",
+        "context": "Seasonal offers ko details homepage ma 'Offers' section ma available cha. Refund process cancel confirm bhaepachi start hunchha. Discounts checkout page ma apply garna milcha.",
+        "response": "Seasonal offers ko details homepage ma 'Offers' section ma available cha."
+    },
+    {
+        "question": "Custom orders kasari request garne?",
+        "context": "Custom orders ko lagi customer support ma inquiry garnuhos. Refund ka lagi 5-7 din lagcha. Discounts festive sale ko up to 70% cha.",
+        "response": "Custom orders ko lagi customer support ma inquiry garnuhos."
+    },
+    {
+        "question": "Damaged packaging ko report kasari garne?",
+        "context": "Damaged packaging report garna delivery ko bela photo capture garnuhos ra customer support ma samparka garnuhos. Refund cancel confirm bhaepachi start hunchha. Discounts festive sale ma up to 50% cha.",
+        "response": "Damaged packaging report garna delivery ko bela photo capture garnuhos ra customer support ma samparka garnuhos."
+    }
+]

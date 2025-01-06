@@ -1,0 +1,232 @@
+[
+    {
+        "instruction": "Adda ko sankhya milaaunu hos.",
+        "context": "Krish le 15 suntala kharid gare ra Maya le 10 suntala kharid gari. Donubanda kati suntala miley?",
+        "response": "Krish le 15 suntala ra Maya le 10 suntala kharid gare. Donubanda 15 + 10 = 25 suntala miley."
+    },
+    {
+        "instruction": "Ghattaa ko sankhya nikaalnu hos.",
+        "context": "Ramesh sanga 20 syau thiyo. Usle 8 syau khaayo. Aba ussanga kati syau bacha?",
+        "response": "Ramesh sanga 20 syau thiyo, usle 8 syau khaayo. Aba ussanga 20 - 8 = 12 syau bacha."
+    },
+    {
+        "instruction": "Gunn ko sankhya nikaalnu hos.",
+        "context": "Ek mahinama ek din 5 kitab padhne vyakti le kati kitab padcha? Ek mahina 30 din ko thiyo.",
+        "response": "Ek din 5 kitab padhcha, ani 30 din ma 5 x 30 = 150 kitab padcha."
+    },
+    {
+        "instruction": "Vibhajan garera uttar dinu hos.",
+        "context": "Shyam le 48 laddu banayo. Usle 6 saathiharulai barabar banai diye. Prati saathiko share kati ho?",
+        "response": "48 laddu 6 saathiharulai barabar banai diye, ta prati saathiko share 48 ÷ 6 = 8 ho."
+    },
+    {
+        "instruction": "Sanghya ko samanata hernu hos.",
+        "context": "Hari sanga 18 aam, Tara sanga 12 aam cha. Hari le Tara lai 6 aam diyo. Donu sanga barabar aam bhayo ki nai?",
+        "response": "Hari le Tara lai 6 aam diyo, ta Hari sanga 18 - 6 = 12 aam ra Tara sanga 12 + 6 = 18 aam cha. Donu ko aam barabar bhayena."
+    },
+    {
+        "instruction": "Donu sankhya ko jod nikaalnu hos.",
+        "context": "Raju sanga 12 aam cha ra Shyam sanga 8 aam cha. Donu sanga kati aam cha?",
+        "response": "Raju sanga 12 aam ra Shyam sanga 8 aam cha. Donu sanga 12 + 8 = 20 aam cha."
+    },
+    {
+        "instruction": "Ghattaa ko sankhya nikaalnu hos.",
+        "context": "Sita sanga 25 kitaab thiyo. Usle 7 kitaab pharkaayo. Aba ussanga kati kitaab cha?",
+        "response": "Sita sanga 25 kitaab thiyo, usle 7 kitaab pharkaayo. Aba ussanga 25 - 7 = 18 kitaab cha."
+    },
+    {
+        "instruction": "Gunn ko sankhya nikaalnu hos.",
+        "context": "Ek din ma ek vyakti le 6 kitaab padcha. 5 din ma kati kitaab padhcha?",
+        "response": "Ek din ma 6 kitaab padcha. 5 din ma 6 x 5 = 30 kitaab padcha."
+    },
+    {
+        "instruction": "Vibhajan garera uttar dinu hos.",
+        "context": "Ramesh le 48 laddu banayo. Usle 8 saathiharulai barabar banai diye. Prati saathiko share kati ho?",
+        "response": "48 laddu 8 saathiharulai barabar banai diye, ta prati saathiko share 48 ÷ 8 = 6 ho."
+    },
+    {
+        "instruction": "Sankhya ko samanata hernu hos.",
+        "context": "Hari sanga 18 aam cha, Tara sanga 12 aam cha. Hari le Tara lai 6 aam diyo. Donu sanga barabar aam cha ki nai?",
+        "response": "Hari le Tara lai 6 aam diyo. Aba Hari sanga 18 - 6 = 12 aam ra Tara sanga 12 + 6 = 18 aam cha. Donu ko aam barabar cha."
+    },
+    {
+        "instruction": "Jod ko sankhya nikaalnu hos.",
+        "context": "Krishna le 20 rupaiya ra Laxmi le 15 rupaiya jodera rakhe. Donu sanga kati rupaiya bhayo?",
+        "response": "Krishna le 20 rupaiya ra Laxmi le 15 rupaiya rakhe. Donu sanga 20 + 15 = 35 rupaiya bhayo."
+    },
+    {
+        "instruction": "Prashna ko uttar dinu hos.",
+        "context": "Ek mahinama ek din 4 kilaa khane vyakti le 30 din ma kati kilaa khancha?",
+        "response": "Ek din ma 4 kilaa khane vyakti 30 din ma 4 x 30 = 120 kilaa khancha."
+    },
+    {
+        "instruction": "Bhag gareko sankhya hernu hos.",
+        "context": "Sangita le 56 laddulai 7 saathiharulai barabar banai diyo. Prati saathiko share kati ho?",
+        "response": "56 laddu 7 saathiharulai barabar banai diye, ta prati saathiko share 56 ÷ 7 = 8 ho."
+    },
+    {
+        "instruction": "Samanata check garnu hos.",
+        "context": "Ek thailama 15 aam cha ra arko thailama 15 aam cha. Donu thailama aam barabar cha ki nai?",
+        "response": "Donu thailama 15 aam cha. Tyesaile aam barabar cha."
+    },
+    {
+        "instruction": "Ghatauti nikaalnu hos.",
+        "context": "Babu le 40 rupees diyo. Rajesh le 12 rupees kharcha garyo. Aba ussanga kati rupaiya bacha?",
+        "response": "40 rupees ma bata 12 rupees kharcha garyo. Aba 40 - 12 = 28 rupees bacha."
+    },
+    {
+        "instruction": "Gunn garera uttar dinu hos.",
+        "context": "Ek din ma 9 rupa ma kitaab bechne vyakti le 6 din samma kati rupaiya kamaune ho?",
+        "response": "Ek din ma 9 rupaiya kamaune vyakti le 6 din ma 9 x 6 = 54 rupaiya kamaune ho."
+    },
+    {
+        "instruction": "Bhag gareko uttar nikaalnu hos.",
+        "context": "Prajwal le 100 laddulai 10 thailama rakhe. Prati thailama kati laddu cha?",
+        "response": "100 laddulai 10 thailama rakhe, ta prati thailama 100 ÷ 10 = 10 laddu cha."
+    },
+    {
+        "instruction": "Sankhya ko jod nikaalnu hos.",
+        "context": "Ek balak sanga 45 rupees cha ra usle arkai sanga 25 rupees liyo. Aba ussanga kati rupees cha?",
+        "response": "45 rupees ra arkai sanga 25 rupees liyo, ta 45 + 25 = 70 rupees cha."
+    },
+    {
+        "instruction": "Ghattaa ko sankhya nikaalnu hos.",
+        "context": "Ek byakti sanga 30 aam cha. Usle 12 aam khayo. Aba ussanga kati aam bacha?",
+        "response": "30 aam ma bata 12 aam khayo. Aba 30 - 12 = 18 aam bacha."
+    },
+    {
+        "instruction": "Samanata check garera uttar dinu hos.",
+        "context": "Shyam le 20 aam ra Tara le 20 aam liyo. Donubanda aam barabar cha ki nai?",
+        "response": "Shyam le 20 aam ra Tara le 20 aam liyo. Donu ko aam barabar cha."
+    },
+    {
+        "instruction": "Jod gareko sankhya nikaalnu hos.",
+        "context": "Suresh le 7 kitaab padhe ra Anil le 13 kitaab padhe. Donubanda kati kitaab padhe?",
+        "response": "Suresh le 7 kitaab ra Anil le 13 kitaab padhe, ta donubanda 7 + 13 = 20 kitaab padhe."
+    },
+    {
+        "instruction": "Gunn garera uttar dinu hos.",
+        "context": "Ek vyakti le ek din 10 ghanta kaam garcha. 15 din samma kati ghanta kaam garne ho?",
+        "response": "Ek din ma 10 ghanta kaam garne vyakti le 15 din ma 10 x 15 = 150 ghanta kaam garne ho."
+    },
+    {
+        "instruction": "Bhag gareko sankhya nikaalnu hos.",
+        "context": "Manoj le 81 laddu banayo ra 9 saathiharulai barabar banai diye. Prati saathiko share kati ho?",
+        "response": "81 laddu 9 saathiharulai barabar banai diye, ta prati saathiko share 81 ÷ 9 = 9 ho."
+    },
+    {
+        "instruction": "Ghatauti nikaalnu hos.",
+        "context": "Ramesh le 35 rupees kamaayo. Usle 20 rupees kharcha garyo. Aba ussanga kati rupees bacha?",
+        "response": "35 rupees ma bata 20 rupees kharcha garyo. Aba 35 - 20 = 15 rupees bacha."
+    },
+    {
+        "instruction": "Samanata herera uttar dinu hos.",
+        "context": "Ek bhanda 12 kitaab cha ra arkai bhanda 12 kitaab cha. Donu kitaab ko sankhya barabar cha ki nai?",
+        "response": "Ek bhanda 12 kitaab cha ra arkai bhanda 12 kitaab cha. Donu kitaab ko sankhya barabar cha."
+    },
+    {
+        "instruction": "Jod gareko sankhya nikaalnu hos.",
+        "context": "Hari sanga 14 aam cha ra Tara sanga 11 aam cha. Donubanda kati aam cha?",
+        "response": "Hari sanga 14 aam ra Tara sanga 11 aam cha. Donubanda 14 + 11 = 25 aam cha."
+    },
+    {
+        "instruction": "Ghattaa garera uttar dinu hos.",
+        "context": "Ek vyakti le 50 rupees kamaayo ra 20 rupees kharcha garyo. Aba kati rupees bacha?",
+        "response": "50 rupees kamaayo ra 20 rupees kharcha garyo. Aba 50 - 20 = 30 rupees bacha."
+    },
+    {
+        "instruction": "Gunn garera uttar dinu hos.",
+        "context": "Ek din ma ek vyakti 8 kilaa kaam garcha. 10 din samma kati kilaa kaam garcha?",
+        "response": "Ek din ma 8 kilaa kaam garcha. 10 din ma 8 x 10 = 80 kilaa kaam garcha."
+    },
+    {
+        "instruction": "Bhag gareko sankhya nikaalnu hos.",
+        "context": "Ek vyakti le 60 laddu banayo ra 5 saathiharulai barabar banai diye. Prati saathiko share kati ho?",
+        "response": "60 laddu 5 saathiharulai barabar banai diye, ta prati saathiko share 60 ÷ 5 = 12 ho."
+    },
+    {
+        "instruction": "Jod gareko sankhya nikaalnu hos.",
+        "context": "Sita le 22 kitaab ra Prakash le 18 kitaab padhe. Donubanda kati kitaab padhe?",
+        "response": "Sita le 22 kitaab ra Prakash le 18 kitaab padhe, ta donubanda 22 + 18 = 40 kitaab padhe."
+    },
+    {
+        "instruction": "Ghattaa garera uttar dinu hos.",
+        "context": "Ramesh sanga 70 rupees thiyo. Usle 30 rupees kharcha garyo. Aba ussanga kati rupees bacha?",
+        "response": "70 rupees ma bata 30 rupees kharcha garyo. Aba 70 - 30 = 40 rupees bacha."
+    },
+    {
+        "instruction": "Gunn ko sankhya nikaalnu hos.",
+        "context": "Ek din ma 7 kilometer walk garne vyakti le 12 din samma kati kilometer walk garcha?",
+        "response": "Ek din ma 7 kilometer walk garne vyakti le 12 din ma 7 x 12 = 84 kilometer walk garcha."
+    },
+    {
+        "instruction": "Bhag garera uttar dinu hos.",
+        "context": "Prajwal le 96 laddulai 8 thailama rakhe. Prati thailama kati laddu cha?",
+        "response": "96 laddulai 8 thailama rakhe, ta prati thailama 96 ÷ 8 = 12 laddu cha."
+    },
+    {
+        "instruction": "Jod ko sankhya nikaalnu hos.",
+        "context": "Ramesh le 35 aam ra Sita le 15 aam kharid gari. Donubanda kati aam cha?",
+        "response": "Ramesh le 35 aam ra Sita le 15 aam kharid gari, ta donubanda 35 + 15 = 50 aam cha."
+    },
+    {
+        "instruction": "Sankhya ko samanata hernu hos.",
+        "context": "Ek thailama 25 aam cha ra arko thailama 30 aam cha. Donu thailama aam barabar cha ki nai?",
+        "response": "Ek thailama 25 aam cha ra arko thailama 30 aam cha. Donu aam barabar chaena."
+    },
+    {
+        "instruction": "Donu sankhya ko jod nikaalnu hos.",
+        "context": "Raju sanga 12 aam cha ra Shyam sanga 8 aam cha. Donu sanga kati aam cha?",
+        "response": "Raju sanga 12 aam ra Shyam sanga 8 aam cha. Donu sanga 12 + 8 = 20 aam cha."
+    },
+    {
+        "instruction": "Ghattaa ko sankhya nikaalnu hos.",
+        "context": "Sita sanga 25 kitaab thiyo. Usle 7 kitaab pharkaayo. Aba ussanga kati kitaab cha?",
+        "response": "Sita sanga 25 kitaab thiyo, usle 7 kitaab pharkaayo. Aba ussanga 25 - 7 = 18 kitaab cha."
+    },
+    {
+        "instruction": "Gunn ko sankhya nikaalnu hos.",
+        "context": "Ek din ma ek vyakti le 6 kitaab padcha. 5 din ma kati kitaab padhcha?",
+        "response": "Ek din ma 6 kitaab padcha. 5 din ma 6 x 5 = 30 kitaab padcha."
+    },
+    {
+        "instruction": "Vibhajan garera uttar dinu hos.",
+        "context": "Ramesh le 48 laddu banayo. Usle 8 saathiharulai barabar banai diye. Prati saathiko share kati ho?",
+        "response": "48 laddu 8 saathiharulai barabar banai diye, ta prati saathiko share 48 ÷ 8 = 6 ho."
+    },
+    {
+        "instruction": "Sankhya ko samanata hernu hos.",
+        "context": "Hari sanga 18 aam cha, Tara sanga 12 aam cha. Hari le Tara lai 6 aam diyo. Donu sanga barabar aam cha ki nai?",
+        "response": "Hari le Tara lai 6 aam diyo. Aba Hari sanga 18 - 6 = 12 aam ra Tara sanga 12 + 6 = 18 aam cha. Donu ko aam barabar cha."
+    },
+    {
+        "instruction": "Jod ko sankhya nikaalnu hos.",
+        "context": "Krishna le 20 rupaiya ra Laxmi le 15 rupaiya jodera rakhe. Donu sanga kati rupaiya bhayo?",
+        "response": "Krishna le 20 rupaiya ra Laxmi le 15 rupaiya rakhe. Donu sanga 20 + 15 = 35 rupaiya bhayo."
+    },
+    {
+        "instruction": "Prashna ko uttar dinu hos.",
+        "context": "Ek mahinama ek din 4 kilaa khane vyakti le 30 din ma kati kilaa khancha?",
+        "response": "Ek din ma 4 kilaa khane vyakti 30 din ma 4 x 30 = 120 kilaa khancha."
+    },
+    {
+        "instruction": "Bhag gareko sankhya hernu hos.",
+        "context": "Sangita le 56 laddulai 7 saathiharulai barabar banai diyo. Prati saathiko share kati ho?",
+        "response": "56 laddu 7 saathiharulai barabar banai diye, ta prati saathiko share 56 ÷ 7 = 8 ho."
+    },
+    {
+        "instruction": "Samanata check garnu hos.",
+        "context": "Ek thailama 15 aam cha ra arko thailama 15 aam cha. Donu thailama aam barabar cha ki nai?",
+        "response": "Donu thailama 15 aam cha. Tyesaile aam barabar cha."
+    },
+    {
+        "instruction": "Ghatauti nikaalnu hos.",
+        "context": "Babu le 40 rupees diyo. Rajesh le 12 rupees kharcha garyo. Aba ussanga kati rupaiya bacha?",
+        "response": "40 rupees ma bata 12 rupees kharcha garyo. Aba 40 - 12 = 28 rupees bacha."
+    },
+    {
+        "instruction": "Gunn garera uttar dinu hos.",
+        "context": "Ek din ma 9 rupa ma kitaab bechne vyakti le 6 din samma kati rupaiya kamaune ho?",
+        "response": "Ek din ma 9 rupaiya kamaune vyakti le 6 din ma 9 x 6 = 54 rupaiya kamaune ho."
+    }
+]

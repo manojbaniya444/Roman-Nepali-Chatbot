@@ -1,0 +1,790 @@
+[
+    {
+        "source": "Hello, how are you?",
+        "target": "Namaste, tapaai kasto cha?"
+    },
+    {
+        "source": "What is your name?",
+        "target": "Tapaiko naam ke ho?"
+    },
+    {
+        "source": "I am fine, thank you.",
+        "target": "Ma sanchai chu, dhanyabaad."
+    },
+    {
+        "source": "Where are you going?",
+        "target": "Tapaai kaha janu hunchha?"
+    },
+    {
+        "source": "Can you help me?",
+        "target": "Ke tapaai malai madad garna saknuhunchha?"
+    },
+    {
+        "source": "What time is it?",
+        "target": "Kati bajyo?"
+    },
+    {
+        "source": "I need some water.",
+        "target": "Malai kehi paani chahincha."
+    },
+    {
+        "source": "Please wait here.",
+        "target": "Kripaya yaha parkhanuhos."
+    },
+    {
+        "source": "How much does this cost?",
+        "target": "Yo kati ko ho?"
+    },
+    {
+        "source": "Good night!",
+        "target": "Subha ratri!"
+    },
+    {
+        "source": "I was wondering if you could tell me the best way to get to the airport from here.",
+        "target": "Ma sochdai thiye ki tapaai malai yaha bata bimansthal samma jadai sabai bhanda ramro tarika bhanidinu hunchha ki?"
+    },
+    {
+        "source": "The meeting was postponed to next Friday because the manager was not available today.",
+        "target": "Baithak agami shukrabar samma sariyo kinabhane prabandhak aaja upalabdha hunu bhaena."
+    },
+    {
+        "source": "I really appreciate all the help you have given me in completing this project on time.",
+        "target": "Ma sachikai dhanyabaadi chu jun madad tapaai le malai yo pariyojana samay ma pura garna diyeko cha."
+    },
+    {
+        "source": "Can you please recommend a good restaurant nearby that serves authentic Nepali cuisine?",
+        "target": "Ke tapaai kripaya yaha najikai ek ramro restaurant sujhauna saknuhunchha jaha asli Nepali parikar paiyo?"
+    },
+    {
+        "source": "The weather forecast says it’s going to rain heavily tomorrow, so don’t forget to take an umbrella with you.",
+        "target": "Mausam sambad le bhanchha bholi dherai pani parnecha, tesaile chhata lagna birsinu hunchha ki."
+    },
+    {
+        "source": "If you need any assistance with the registration process, feel free to reach out to our support team.",
+        "target": "Yadi tapaai lai panji karan prakriya ma kunai sahayog chahincha bhane, hamro sahayata samuh sanga sampark garnus."
+    },
+    {
+        "source": "I have always dreamed of visiting the mountains of Nepal and experiencing the breathtaking views.",
+        "target": "Ma sadhai Nepal ko pahad haru ghumnu ra manakrama lageko drishya anubhav garnu ko sapana dekhdai aayeko thiye."
+    },
+    {
+        "source": "Learning a new language can be challenging, but it is also a very rewarding experience.",
+        "target": "Naya bhasha siknu kathin huncha tara yo ek damai puraskrit anubhav pani ho."
+    },
+    {
+        "source": "We should finalize the budget proposal by the end of this week to meet the project deadlines.",
+        "target": "Hami le yo hapta ko antim samma budget proposal lai antim rup dinu parcha pariyojana ko samaya sima purna garna."
+    },
+    {
+        "source": "The teacher explained the concept so clearly that everyone in the class understood it immediately.",
+        "target": "Shikshak le yo abadharana itikhera spashta rup ma samjhaye ki kachha ma sabai le tatkalai bujhyo."
+    },
+    {
+        "source": "Before we finalize the design, let’s have a detailed discussion about the client’s requirements and expectations.",
+        "target": "Hamile design antim garna aghi, grahak ko aabashyakta ra apeksha haru barema bistarit chalphal garna paro."
+    },
+    {
+        "source": "I had an amazing time exploring the cultural heritage sites and learning about their historical significance.",
+        "target": "Ma sanskritik sampada sthal haru ghumnu ra tin ko aitihasik mahatwa ko barema siknu ma adbhut samay bitaye."
+    },
+    {
+        "source": "If you are planning to hike in the Himalayas, make sure to carry proper gear and check the weather conditions beforehand.",
+        "target": "Yadi tapaai Himalaya ma hiking ko yojana banaundai hunuhuncha bhane, uchit saman lagna ra agadi nai mausam sthiti janchha."
+    },
+    {
+        "source": "The customer service representative was very polite and resolved my issue efficiently within a few minutes.",
+        "target": "Grahaak seva pratinidhi ekdam namra thie ra tinle mero samasya kehi minutes bhitra chakchake sanga samadhan gare."
+    },
+    {
+        "source": "I am looking forward to attending the workshop on sustainable living practices next weekend.",
+        "target": "Ma agami hapta ko antya ma sthayi jivan ko amal haru bareko karkashala ma jancha lai utsuk chau."
+    },
+    {
+        "source": "The doctor recommended taking a short walk every day to improve my overall health and well-being.",
+        "target": "Doktar le mero sampurna swasthya ra kalyan sudharna prati din ek chin hiddul garna sujhab diyeko thiyo."
+    },
+    {
+        "source": "It’s important to double-check all the documents before submitting them to avoid any errors or omissions.",
+        "target": "Kunai galti athwa chhutteko kura nabhirkaune ho bhane, sabai dastavej jamaa garna aghi dubara parikshan garnu jaruri huncha."
+    },
+    {
+        "source": "We decided to host the conference in a central location to make it convenient for all participants to attend.",
+        "target": "Hami le sabai bhaagidar lai aasan parne gareko ek kendriya sthaan ma sammelan ayojana garne nirdharit garayo."
+    },
+    {
+        "source": "The book provides valuable insights into effective communication strategies in professional environments.",
+        "target": "Pustak le byaabasaayik maahol ma prabhaabit sanchar yojana haru ma mulyaawan jankari dincha."
+    },
+    {
+        "source": "Can you please let me know if there are any updates regarding the event schedule or location?",
+        "target": "Ke tapaai malai karyakram ko samayapan ra sthal samparka ma kunai update cha bhane bhanidinu saknuhunchha?"
+    },
+    {
+        "source": "I had a hard time finding a reliable internet connection during my trip to the remote village.",
+        "target": "Ma durgam gau ghumnu gaera bharparna sakne internet sambandh khojda dukhai bhayo."
+    },
+    {
+        "source": "The workshop covered topics such as time management, goal setting, and maintaining a healthy work-life balance.",
+        "target": "Karkashala le samaya prabandhan, lakshya nirdharan, ra swastha kaam-jivan santulan ka bishay haru sameta sameteko thiyo."
+    },
+    {
+        "source": "Despite the heavy rain, the team managed to complete the task successfully within the given deadline.",
+        "target": "Tivra varsha hunda pani, samuh le diyeko samaya seema bhitra kaam safal rupma pura garna sakyo."
+    },
+    {
+        "source": "I strongly believe that education is the key to unlocking countless opportunities in life.",
+        "target": "Ma dhridh vishwas gardachhu ki shiksha jivan ma anek avasar kholne kunji ho."
+    },
+    {
+        "source": "The presentation highlighted the importance of adopting renewable energy sources to combat climate change.",
+        "target": "Prastuti le jalvayu parivartan sanga ladna punyabhaavi urja srot apnaune aabashyakta ma jor diyeko thiyo."
+    },
+    {
+        "source": "Please ensure that all safety protocols are strictly followed during the construction process.",
+        "target": "Kripaya nirmaan prakriya ma sabai suraksha niyam haru kadhakadhar paalan hune sunishchit garnus."
+    },
+    {
+        "source": "The village community came together to build a new school for the children after the old one was destroyed by the earthquake.",
+        "target": "Bhukampa le purano school bigre pachi gau samudaaya milera naya school nirman gare."
+    },
+    {
+        "source": "The documentary provided a fascinating glimpse into the daily lives of people living in remote Himalayan regions.",
+        "target": "Dokyumentri le Himalaya ko durgam chetra ma basne manis haru ko dainik jivan ma romanchak jhalak diyeko thiyo."
+    },
+    {
+        "source": "I had the opportunity to attend a live performance of traditional Nepali music and dance last weekend.",
+        "target": "Maile gaeko hapta ko antima paramparik Nepali sangit ra nritya ko pratyaksh pradarshan herne mauka paye."
+    },
+    {
+        "source": "The school organized a field trip to the national park to teach students about wildlife conservation.",
+        "target": "School le bidyarthi haru lai jangali jivan sanrakshan bare shikhaune lagi rashtriya udhyan ko field trip ayojana gareko thiyo."
+    },
+    {
+        "source": "The government has introduced a new policy to support small businesses and promote entrepreneurship in rural areas.",
+        "target": "Sarkar le sanu byaapar haru lai samarthan ra gramin chetra ma udyamshilata badhauna naya niti prastut gareko cha."
+    },
+    {
+        "source": "During the festival, the streets were beautifully decorated with colorful lights and traditional patterns.",
+        "target": "Parva ko samaya ma galli haru rangichangi batti ra paramparik aakriti haru le sundar sanga sajaye ko thiyo."
+    },
+    {
+        "source": "The researcher presented the findings of her study on climate change and its impact on agriculture.",
+        "target": "Anusandhak le jalvayu parivartan ra yas ko krishi ma parne prabhav bareko anusandhan ko natija prastut gare."
+    },
+    {
+        "source": "Please make sure to review all the terms and conditions carefully before signing the contract.",
+        "target": "Kripaya samjhauta ma hastakshar garnu agadi sabai sharta ra niyam haru ramrari hernus."
+    },
+    {
+        "source": "The newly constructed bridge will significantly reduce travel time between the two cities.",
+        "target": "Naya baneko pul le dui sahar bich ko yatra samay ko kramash: ghataune cha."
+    },
+    {
+        "source": "The teacher encouraged students to think critically and solve problems creatively during the group activity.",
+        "target": "Shikshak le samuh gatibidhi ko kram ma bidyarthi haru lai samal kritishil sanga sochna ra rachnatmak tarikale samasya samadhan garna protsaahan dinu bhaeko thiyo."
+    },
+    {
+        "source": "After a long day of hiking, we rested by the lake and enjoyed the serene environment.",
+        "target": "Lamo din ko hiking pachi, hami taal najikai aram gari ra shant vatavaran ko anand liyeu."
+    },
+    {
+        "source": "The company announced plans to expand its operations into international markets next year.",
+        "target": "Company le agami barsa antarrashtriya bajar ma aphno karekram bistaar garne yojana ko ghoshana gareko cha."
+    },
+    {
+        "source": "I was deeply moved by the heartfelt stories shared during the charity event.",
+        "target": "Ma daan karyakram ko samaya ma share gareko manaprabhavit katha haru le gehera prabhavit bhae."
+    },
+    {
+        "source": "The museum houses an extensive collection of artifacts that depict the rich history and culture of the region.",
+        "target": "Sangrahalay ma chhetra ko samriddha itihas ra sanskriti darsaunde vastukala ko ek bistrit sangraha cha."
+    },
+    {
+        "source": "To ensure a successful event, the organizers paid attention to every small detail, from decorations to food arrangements.",
+        "target": "Karyakram safal banaunde lagi, ayojak haru le sajawat dekhi khana milao sama sabai sanu kura haru ma dhyan diye."
+    },
+    {
+        "source": "The farmer explained how innovative techniques have improved crop yields and reduced costs over the past few years.",
+        "target": "Kisan le kasari navachar tarika haru le pachhi ka kehi barsa ma bali utpadan sudhareko ra lagat ghataune bhanera samjhauna bhaeko thiyo."
+    },
+    {
+        "source": "The tour guide shared interesting legends and historical facts about the ancient temple we visited.",
+        "target": "Yatra margdarshak le hami gayeko prachin mandir bareka rochak katha ra aitihasik tathya haru share garnu bhaeko thiyo."
+    },
+    {
+        "source": "The local community organized a clean-up drive to raise awareness about environmental conservation.",
+        "target": "Sthaniya samudaaya le vatavaran sanrakshan bare chetana jagaaune lagi safai abhiyan ayojana gareko thiyo."
+    },
+    {
+        "source": "She spent several months conducting research on the traditional medicinal practices used in the region.",
+        "target": "Unle kshetra ma prayog hune paramparik aushadhi prakriya ko barema kehi mahina anusandhan garna bitaye."
+    },
+    {
+        "source": "The new app offers a user-friendly interface and features that simplify online transactions.",
+        "target": "Naya app le upayogkarta-anukool samuchhe ra online le naya feature haru cha."
+    },
+    {
+        "source": "During the seminar, experts discussed strategies to combat cybercrime and enhance digital security.",
+        "target": "Seminar ko samaya ma visheshagya haru le cybercrime sanga ladne tarika ra digital suraksha sudharna bare chalphal gare."
+    },
+    {
+        "source": "The chef prepared a delicious five-course meal using fresh, locally sourced ingredients.",
+        "target": "Rasoiyale taja sthaniya saman prayog garera mitho paanch roti meal tayar garnu bhaeko thiyo."
+    },
+    {
+        "source": "The recent advancements in technology have transformed the way we communicate and access information.",
+        "target": "Pachhilo takniki pragati le hami sanchaar garne ra jankari prapta garne tarika ma parivartan lyayo."
+    },
+    {
+        "source": "They collaborated with international organizations to provide relief and rebuild infrastructure after the disaster.",
+        "target": "Unharu le antarrashtriya sangathan haru sanga sahayog garera durghatana pachi rahat tatha purano dhacha punarnirman garne kaam gare."
+    },
+    {
+        "source": "The scientists conducted a groundbreaking study to understand the long-term effects of air pollution on human health.",
+        "target": "Vaigyanik haru le havo pradushan le manav swasthya ma parne dirghakalik prabhav bujhna ek pathbreaking adhyan chalaye."
+    },
+    {
+        "source": "We visited a small, remote village where the residents have been living without electricity for generations.",
+        "target": "Hami ek sano durgam gau gayou jaha kehi pidhi dekhi basinda haru bina bijuli basdai aayeko cha."
+    },
+    {
+        "source": "The government has launched a new initiative to provide free education to underprivileged children across the country.",
+        "target": "Sarkar le pura deshma garib balbalika haru lai nishulk shiksha din baru yojana suru gareko cha."
+    },
+    {
+        "source": "I struggled to navigate through the crowded market, but I eventually managed to find what I was looking for.",
+        "target": "Ma bheed bhareko bajar ma charpatna garna muskil ma pariyo, tara antata ma afno khojeko kura khojda samarth bhaye."
+    },
+    {
+        "source": "The organization is working tirelessly to ensure clean drinking water is accessible to every household in the region.",
+        "target": "Sangathan haru bhag ma sapai ghar ra ma sapai janau safha pani uplabd garaune kaam gardai."
+    },
+    {
+        "source": "After carefully reviewing the proposal, the committee approved the project with minor changes.",
+        "target": "Yo."
+    },
+    {
+        "source": "The ancient artifacts discovered at the excavation site provide valuable insights into the lives of early settlers in the region.",
+        "target": "Utkaran chairya prachin leka jitai jina kapa . "
+    },
+    {
+        "source": "The organization is working tirelessly to ensure clean drinking water is accessible to every household in the region.",
+        "target": "Sangathan le kshetra ko harek ghar samet ma safha khane pani upalabdha garna nirantar kaam gardai cha."
+    },
+    {
+        "source": "After carefully reviewing the proposal, the committee approved the project with minor changes.",
+        "target": "Prastav ramrari samiksha gari sakepachi, samiti le samanya pariwartan sanga pariyojana anumodan gare."
+    },
+    {
+        "source": "The ancient artifacts discovered at the excavation site provide valuable insights into the lives of early settlers in the region.",
+        "target": "Utkhann sthal ma khojit prachin bastuharu kshetra ka prarambhik basinda haru ko jeevan bare mulyaawan jankari dincha."
+    },
+    {
+        "source": "The local government is implementing measures to preserve the cultural heritage of the old city.",
+        "target": "Sthaniya sarkar purano sahar ko sanskritik sampada jagnu lagi upaya haru lagu gardai cha."
+    },
+    {
+        "source": "Students are encouraged to participate in extracurricular activities to develop their skills and confidence.",
+        "target": "Bidhyarthi haru lai aafno koushalya ra atmavishwas vikasit garna lagi patibhasik karyakram ma sahabhagita pratsahit garincha."
+    },
+    {
+        "source": "During the conference, several experts shared their perspectives on the impact of digital transformation in education.",
+        "target": "Sammelan ko kram ma, kai visheshagya haru le shiksha ma digital rupantar le parne prabhav bare aafno drishtikon share gare."
+    },
+    {
+        "source": "The charity event raised significant funds to support healthcare initiatives in underserved communities.",
+        "target": "Daan karyakram le asayog purna samudaya ma swasthya abhiyan haru ko lagi mahatwapurna dhan sankalan garna safal bhayo."
+    },
+    {
+        "source": "Farmers in the region are adopting modern techniques to increase productivity and reduce environmental impact.",
+        "target": "Kshetra ka kisan haru utpadakta badhaune ra vatavaran ma parne asar ghataune lagi adunik tarika apnaudai chan."
+    },
+    {
+        "source": "The new highway has significantly improved connectivity between rural areas and major cities.",
+        "target": "Naya rajmarg le gramin chetra ra thula sahar bich ko sanchar ma ekdumai sudhar lyayo."
+    },
+    {
+        "source": "The team is conducting surveys to understand the needs and challenges faced by the local population.",
+        "target": "Samuh sthaniya janata le bhogne aabashyakta ra chunauti bujhna lagi sarvekshan gari rahanu cha."
+    },
+    {
+        "source": "The scientists conducted a groundbreaking study to understand the long-term effects of air pollution on human health.",
+        "target": "Vaigyanik haru le hawa ko dukha manis ko swasthya ma kasto asar parcha bhanera ekdam ramro study gare."
+    },
+    {
+        "source": "We visited a small, remote village where the residents have been living without electricity for generations.",
+        "target": "Hami ek sana durgaam gau gayou jaha manche haru pidhi dekhi bina bijuli basiraheko cha."
+    },
+    {
+        "source": "The government has launched a new initiative to provide free education to underprivileged children across the country.",
+        "target": "Sarkar le aba garib balbalika haru ko lagi free padhai garna naya yojana suru gareko cha."
+    },
+    {
+        "source": "I struggled to navigate through the crowded market, but I eventually managed to find what I was looking for.",
+        "target": "Ma dherai bheed bhako bajar ma jaan kasto muskil bho, tara ant ma j kya khojeko thiyo, tyo ta paye."
+    },
+    {
+        "source": "The organization is working tirelessly to ensure clean drinking water is accessible to every household in the region.",
+        "target": "Sangathan haru le yaha ko sab ghar ma sapha khane pani pahunch hoos bhanera dherai mehnat gari raheko cha."
+    },
+    {
+        "source": "After carefully reviewing the proposal, the committee approved the project with minor changes.",
+        "target": "Proposal ramrai herera, kehi chhoto change garera committee le project ma thik diyera cha."
+    },
+    {
+        "source": "The ancient artifacts discovered at the excavation site provide valuable insights into the lives of early settlers in the region.",
+        "target": "Utkaran site bata bheteko purano samagri haru le kshetra ka pahila ko basinda haru kasari basthyo bhanera ramailo kura sikhna milcha."
+    },
+    {
+        "source": "The local government is implementing measures to preserve the cultural heritage of the old city.",
+        "target": "Yaha ko sarkar purano sahar ko sanskritik cheej haru jhogi rakhna kehi kaam gariraheko cha."
+    },
+    {
+        "source": "Students are encouraged to participate in extracurricular activities to develop their skills and confidence.",
+        "target": "Bidhyarthi haru lai padhai ko bahira kehi program ma ni ta part lina bhancha, skills ra confidence badhaune ho ni."
+    },
+    {
+        "source": "During the conference, several experts shared their perspectives on the impact of digital transformation in education.",
+        "target": "Conference ma, dherai janne manche haru le digital shiksha ko impact kasari parcha bhanera share gare."
+    },
+    {
+        "source": "The charity event raised significant funds to support healthcare initiatives in underserved communities.",
+        "target": "Daan program le thikai dherai paisa uthaune, jasko use health ko kaam ma garna sakincha."
+    },
+    {
+        "source": "Farmers in the region are adopting modern techniques to increase productivity and reduce environmental impact.",
+        "target": "Yaha ka kisan haru productivity badhauna modern tarika apnai raheko cha, ani environment lai ni harm kam parcha."
+    },
+    {
+        "source": "The new highway has significantly improved connectivity between rural areas and major cities.",
+        "target": "Naya highway le gramin thau ra thula sahar bich ko connection ekdam ramro banako cha."
+    },
+    {
+        "source": "The team is conducting surveys to understand the needs and challenges faced by the local population.",
+        "target": "Team le yaha ka manche haru ko problems ra unko aabashyakta bujhna survey gariraheko cha."
+    },
+    {
+        "source": "The museum houses an extensive collection of artifacts that depict the rich history and culture of the region.",
+        "target": "Museum ma ramailo prachin samaan haru cha, jun kshetra ko sanskriti ra itihas ko katha dekhaucha."
+    },
+    {
+        "source": "The teacher encouraged students to think critically and solve problems creatively during the group activity.",
+        "target": "Teacher le bhanera biddharthi haru lai dhar dhar group ma sochera samasya ko hal garna ramailo banaye."
+    },
+    {
+        "source": "Despite the heavy rain, the team managed to complete the task successfully within the given deadline.",
+        "target": "Dherai paani pare pani, team le task khattam deadline bhitra gareko cha ni."
+    },
+    {
+        "source": "The book provides valuable insights into effective communication strategies in professional environments.",
+        "target": "Yo kitab le office ma kasari ramro communication garna milcha bhanera ramro kura haru sikhaucha."
+    },
+    {
+        "source": "The tour guide shared interesting legends and historical facts about the ancient temple we visited.",
+        "target": "Tour guide le kasto ramailo katha ra history ko kura share gare mandir bare jaha gako thiyou."
+    },
+    {
+        "source": "The school organized a field trip to the national park to teach students about wildlife conservation.",
+        "target": "School le students lai wildlife ko bare sikhaune bhanera national park ko trip organize gareko thiyo."
+    },
+    {
+        "source": "The children were excited to play in the park after school and enjoyed the swings and slides.",
+        "target": "Bachha haru school pachhi park ma khelna jada ekdam excited thiye, jhula ra slide khelera ramailo garen."
+    },
+    {
+        "source": "The weather was perfect for a picnic, so we packed some food and headed to the riverside.",
+        "target": "Mausam ekdam thik thiyo picnic ko lagi, tesaile khana pack gare ra nadi ko kinara tira gayaun."
+    },
+    {
+        "source": "The workshop was designed to help participants develop better time management skills.",
+        "target": "Workshop ma manche haru lai time management kasari thik garna sikhaucha bhanera design gareko thiyo."
+    },
+    {
+        "source": "After a long day at work, I love to relax with a good book and a cup of tea.",
+        "target": "Kaam ko lamo din pachi, ma ramro kitab ra ek cup chai sanga relax garna man parcha."
+    },
+    {
+        "source": "The local farmers market was full of fresh fruits, vegetables, and handmade goods.",
+        "target": "Local bazaar ma dherai taja falful, tarkari, ra hathle banako samaan haru bharpoor thiyo."
+    },
+    {
+        "source": "The young artist painted a beautiful mural that depicted scenes from daily life in the village.",
+        "target": "Yuva artist le gau ko dainik jindagi dekhaune ekdam ramailo painting banayo."
+    },
+    {
+        "source": "We spent the afternoon hiking up the hill and enjoying the breathtaking view from the top.",
+        "target": "Hami beluka pahar chadera, mathi dekhi ko ramro view herda belka bitayeu."
+    },
+    {
+        "source": "The elderly man shared stories of his youth, and we listened with great interest.",
+        "target": "Buda manche le afno jawani ko katha sunaye, ani hami ramailo sanga suniraheko thiyou."
+    },
+    {
+        "source": "The movie was so funny that we couldn't stop laughing throughout the entire show.",
+        "target": "Film etti dami ramailo thiyo ki pura show hami hasaune sakena."
+    },
+    {
+        "source": "She loves cooking new recipes and often experiments with different flavors and ingredients.",
+        "target": "Uslai naya recipe banuna ekdam man parcha, ani jhanjhan naya masala ra saman haru try garcha."
+    },
+    {
+        "source": "The students organized a fundraiser to support the local animal shelter.",
+        "target": "Students haru le local janawar shelter ko lagi paisa uthaaune program organize gare."
+    },
+    {
+        "source": "The scenic train ride through the mountains was a memorable experience for everyone on board.",
+        "target": "Mountain bhitra bata train ko ride ekdam dami memory thiyo sabai ko lagi."
+    },
+    {
+        "source": "The new mobile app makes it easy to track your daily expenses and manage your budget.",
+        "target": "Naya mobile app le daily kharcha ra budget track garna ekdam sajilo banaucha."
+    },
+    {
+        "source": "The little girl carefully painted a picture of her family and proudly showed it to everyone.",
+        "target": "Sano keti le afno family ko photo ramrari paint gari ani sabai lai dekhaudi thiyo."
+    },
+    {
+        "source": "We woke up early to watch the sunrise from the hilltop, and it was absolutely stunning.",
+        "target": "Hami ghanta ma uthyo sunrise herna pahad mathi bata, ani ekdam ramailo thiyo."
+    },
+    {
+        "source": "The new coffee shop in town has become a popular spot for young people to hang out.",
+        "target": "Sahar ko naya coffee shop aba yuva haru ko chill garne thau baneko cha."
+    },
+    {
+        "source": "The sports team trained hard every day and finally won the championship after years of effort.",
+        "target": "Team le dherai mehnat gari din dinai ani aba barsa ko try pachi championship jityo."
+    },
+    {
+        "source": "The music festival featured talented artists from all over the country and attracted a huge crowd.",
+        "target": "Music festival ma pura desh bata aaye janne artist haru le perform gare, ani dami bheed thiyo."
+    },
+    {
+        "source": "The tourists enjoyed exploring the local markets and tasting the delicious street food.",
+        "target": "Tourist haru le local bazaar ma ghumera ani mitho street food khaera ramailo gare."
+    },
+    {
+        "source": "The library is a quiet place where people can study, read, or simply relax.",
+        "target": "Library ek shanti thau ho, jaha manche padhna, kitab herna, ya just relax garna sakincha."
+    },
+    {
+        "source": "The family planned a weekend getaway to the mountains to enjoy some fresh air and quiet time.",
+        "target": "Family le weekend ma pahar tira ghumna plan gare, fresh hawa ani shanti time ko lagi."
+    },
+    {
+        "source": "The little boy was thrilled to see the colorful balloons at the fair and wanted to buy them all.",
+        "target": "Sano keta mela ma dekhiyeko rangichangi balloon herera ekdam khusi thiyo, sabai kinchu bhanthyo."
+    },
+    {
+        "source": "The chef prepared a special dish using locally sourced ingredients that everyone loved.",
+        "target": "Chef le local saman le ekdam special dish banayo, jun sabai lai dami lagyo."
+    },
+    {
+        "source": "We decided to spend the afternoon at the beach, swimming and building sandcastles.",
+        "target": "Hami beach ma swimming garna ra baalu ko ghar banuna beluka bitauchu bhanera decide gare."
+    },
+    {
+        "source": "The teacher explained the math problem in a simple way so that everyone could understand.",
+        "target": "Teacher le math ko problem dherai simple tarikale bujhayo jasto sabai le bujhaun."
+    },
+    {
+        "source": "The cat jumped onto the windowsill to watch the birds outside.",
+        "target": "Biralo jhyal ko silo ma chara haru herna jhampiyo."
+    },
+    {
+        "source": "During the long train journey, we played games and shared stories to pass the time.",
+        "target": "Train ko lamo travel ma hami games khelera ra katha share garera time pass gare."
+    },
+    {
+        "source": "The farmer worked hard in the fields all day, planting seeds and watering the crops.",
+        "target": "Kisan pura din kheti ma mehnat garera bij ropera ra bali lai pani halcha."
+    },
+    {
+        "source": "The festival was filled with music, dancing, and delicious food from different cultures.",
+        "target": "Festival ma music, naach ra dherai culture ko mitho khana le bharipurna thiyo."
+    },
+    {
+        "source": "The baby smiled brightly when her mother gave her a new toy to play with.",
+        "target": "Bachha ko aama le naya toy diyo khelna, ani bachha khusi hune."
+    },
+    {
+        "source": "The hikers packed their bags with water, snacks, and gear before starting their journey up the trail.",
+        "target": "Hiker haru le afno bag ma paani, khaja ra gear haru rakhe ra hike suru gare."
+    },
+    {
+        "source": "The new bakery in town has quickly become famous for its delicious pastries and cakes.",
+        "target": "Sahar ko naya bakery ekdam chito mitho pastry ra cake ko lagi famous bhaisakyo."
+    },
+    {
+        "source": "The doctor advised the patient to eat healthy food and exercise regularly.",
+        "target": "Doctor le patient lai healthy khana khana ra daily exercise garna suggest gare."
+    },
+    {
+        "source": "The grandparents love spending time with their grandchildren, telling stories and playing games.",
+        "target": "Bajai bajai haru afno nati natni sanga ramailo time bitaucha, katha sunera ra games khelera."
+    },
+    {
+        "source": "The artist spent weeks painting a large mural on the wall of the community center.",
+        "target": "Artist le pura hafta lagayo community center ko bhitta ma thulo mural banuna."
+    },
+    {
+        "source": "The little girl baked cookies for the first time and proudly shared them with her family.",
+        "target": "Sano keti le pahilo choti biscuit bake gari ani afno family sanga khusi hune share gare."
+    },
+    {
+        "source": "The museum had an exhibit featuring rare artifacts from ancient civilizations.",
+        "target": "Museum ma purano sabhyata bata rare samaan haru dekhaiyo."
+    },
+    {
+        "source": "We enjoyed the scenic drive along the coast, stopping occasionally to take photos.",
+        "target": "Hami coast ko ramailo drive enjoy garna, bich bich ma photo lina stop gareu."
+    },
+    {
+        "source": "The children made handmade greeting cards for their teachers on Teacher’s Day.",
+        "target": "Bachha haru le afno teacher ko lagi handmade greeting card banaye Teacher’s Day ma."
+    },
+    {
+        "source": "The athlete trained every morning to prepare for the upcoming marathon.",
+        "target": "Athlete le aune marathon ko lagi har subha training garthyo."
+    },
+    {
+        "source": "The dog wagged its tail excitedly when it saw its owner coming home.",
+        "target": "Kukkur le afno malik ghar aauda khushi hune dumm hilaune thalyo."
+    },
+    {
+        "source": "We went to the rooftop at night to stargaze and enjoy the cool breeze.",
+        "target": "Hami rati chhano ma taara herna ra thanda hawa enjoy garna gayo."
+    },
+    {
+        "source": "The little boy eagerly helped his mother bake a cake for his sister's birthday.",
+        "target": "Sano keta le afno didi ko birthday ko lagi cake banauna mummy lai madad garna ramailo ma thiyo."
+    },
+    {
+        "source": "The local cafe serves the best coffee in town, and it's always packed with customers.",
+        "target": "Yaha ko local cafe le sab bhanda ramro coffee dincha, ani hamesha bheed lagcha."
+    },
+    {
+        "source": "The children spent the afternoon flying kites in the open field.",
+        "target": "Bachha haru le khula maidaan ma pura belka changa udaune ramailo gare."
+    },
+    {
+        "source": "The community organized a cleanup drive to make the park more beautiful and usable.",
+        "target": "Samudaya le park safha garera ramailo banuna cleanup drive organize gare."
+    },
+    {
+        "source": "The new restaurant has a cozy vibe, and their momos are absolutely delicious.",
+        "target": "Naya restaurant ma ekdam chill atmosphere cha ani momo ta kasto mitho cha ni!"
+    },
+    {
+        "source": "We played cards late into the night and laughed at each other's jokes.",
+        "target": "Hami raat samma taas kheldai, ek arko ko joke ma hasaune time bitayo."
+    },
+    {
+        "source": "The gardener watered the plants early in the morning and trimmed the bushes.",
+        "target": "Mali le bihaana chhito biruwa ma paani halera jhaadi haru kaatyo."
+    },
+    {
+        "source": "The village elders sat together under the big tree, discussing old times.",
+        "target": "Gaun ka buda budhi haru thulo rukh muni basera purano kura gariraheka thiye."
+    },
+    {
+        "source": "The city looks magical at night with all the lights and decorations during the festival.",
+        "target": "Sahar festival ko bela raat ma batti ra sajawat le ekdam sundar dekhcha."
+    },
+    {
+        "source": "The siblings fought over the last piece of chocolate but ended up sharing it.",
+        "target": "Dai bahini haru last chocolate ko lagi jhagadcha, tara ant ma share gardai khanchan."
+    },
+    {
+        "source": "The bus ride through the winding mountain roads was both thrilling and a little scary.",
+        "target": "Mountain ko ghumau ghumti bato ma bus ride ekdam ramailo ra ali dar lagdo pani thiyo."
+    },
+    {
+        "source": "The teacher praised the students for their hard work and dedication during the project.",
+        "target": "Teacher le project ma mehnat ra lagan ko lagi students haru lai taarif garen."
+    },
+    {
+        "source": "The market was bustling with people buying fresh vegetables and fruits early in the morning.",
+        "target": "Subha subha bajar ma manche haru taja tarkari ra falful kiniraheko bheed thiyo."
+    },
+    {
+        "source": "We spent the evening watching the sunset and talking about our dreams and plans.",
+        "target": "Hami belka surya ast herera sapana ra plan ko kura garna bitayeu."
+    },
+    {
+        "source": "The adventurous group decided to camp by the river and cook their dinner over a fire.",
+        "target": "Adventure group le nadi ko kinara camp garera aago ma dinner banune decide gare."
+    },
+    {
+        "source": "The little girl gave her father a big hug when he brought her favorite ice cream.",
+        "target": "Sano keti le afno baba lai ramailo hug diyo, usko man pareko ice cream lyako ma."
+    },
+    {
+        "source": "The football match between the local teams attracted a large crowd of enthusiastic fans.",
+        "target": "Local team ko football match ma ramailo fans ko dherai bheed thiyo."
+    },
+    {
+        "source": "The old bridge creaked under the weight of the travelers crossing it one by one.",
+        "target": "Puraano pul manche haru ek ek kera janu ma awaj nikalcha."
+    },
+    {
+        "source": "The young boy was excited to try his new bicycle and rode it around the neighborhood.",
+        "target": "Sano keta afno naya cycle try garna excited thiyo, ani mohalla ko chakkar lagayo."
+    },
+    {
+        "source": "The rain started suddenly, and everyone ran to find shelter under the nearest shop's roof.",
+        "target": "Achanak pani parna thalyo, ani sabai najikai ko pasal ko chhat muni gaera lukcha."
+    },
+    {
+        "source": "The family gathered around the bonfire, roasting marshmallows and sharing funny stories.",
+        "target": "Family sabai bonfire ko wari jamera marshmallow roast gardai ra ramailo katha suncha."
+    },
+    {
+        "source": "The little puppy followed the kids around the yard, wagging its tail happily.",
+        "target": "Sano kukur bachha haru ko pachhadi yard ma dumm hilaudai ghumnu lagyo."
+    },
+    {
+        "source": "The market was alive with the sounds of vendors calling out and people bargaining.",
+        "target": "Bazar ma thela wala haru ko awaaj ra bargain garne manche haru le ramailo lagcha."
+    },
+    {
+        "source": "The adventurous group climbed the tall hill to get a better view of the valley below.",
+        "target": "Adventure group le tala ko upatyaka dekhna thulo pahad chadhyo."
+    },
+    {
+        "source": "She carefully wrapped the gift in colorful paper and tied it with a shiny ribbon.",
+        "target": "Usle gift lai ramailo rangichangi kagaz le ramrari pack gari ani chamkile ribbon lagai diyo."
+    },
+    {
+        "source": "The villagers celebrated the harvest festival with dancing, music, and delicious food.",
+        "target": "Gaunle haru le baliko parva naach, music ra mitho khana sanga manae."
+    },
+    {
+        "source": "The old man sat on the porch, sipping tea and enjoying the gentle breeze.",
+        "target": "Budo manche baranda ma basera chai sip gardai thado hawa enjoy gardai thiyo."
+    },
+    {
+        "source": "The kids had a blast splashing water and playing games at the pool party.",
+        "target": "Bachha haru pool party ma paani chhichaldai ra game khelera ekdam ramailo garen."
+    },
+    {
+        "source": "The mother bird carefully fed her chicks and watched them grow day by day.",
+        "target": "Aama chara le afno bachha haru lai ramrari khana khuwaera din dinai ramailo hercha."
+    },
+    {
+        "source": "The tourists explored the narrow streets of the old town, taking pictures and buying souvenirs.",
+        "target": "Tourist haru puraano sahar ko saana galli herna gaye, photo khichera ra saman kinera."
+    },
+    {
+        "source": "The boy stayed up late, looking through his telescope to see the stars and planets.",
+        "target": "Keta raat samma telescope bata taara ra graha herna uthiyo."
+    },
+    {
+        "source": "The festive lights lit up the entire street, making the neighborhood look magical.",
+        "target": "Festive light le pura galli ujyalo banayo, ani mohalla magical dekhiyo."
+    },
+    {
+        "source": "The curious cat climbed the tree to chase a squirrel but got stuck halfway up.",
+        "target": "Jigyashu biralo le muso ko pachi pachi rukh chadhyo tara bich ma phaseko."
+    },
+    {
+        "source": "The children dressed up in costumes for the school play and looked adorable on stage.",
+        "target": "Bachha haru school play ko lagi costume ma sajhi ra stage ma ekdam ramailo dekhiyo."
+    },
+    {
+        "source": "The neighborhood friends gathered for a cricket match on the vacant lot.",
+        "target": "Mohalla ko saathi haru khali jagga ma cricket match ko lagi jamyo."
+    },
+    {
+        "source": "The little girl proudly showed off her drawing to her parents and grandparents.",
+        "target": "Sano keti le afno drawing proud sanga mummy, baba ra bajai bajai lai dekhauni."
+    },
+    {
+        "source": "The friends spent the entire day exploring the woods and spotting birds and animals.",
+        "target": "Saathi haru pura din jungle ma ghumera chara ra janawar herda bitayo."
+    },
+    {
+        "source": "The small cafe near the lake offered a perfect spot to relax and enjoy the view.",
+        "target": "Pokhari najikai ko sano cafe ma relax garna ra view enjoy garna thik thau thiyo."
+    },
+    {
+        "source": "The dog barked loudly at the mailman, but he quickly ran away when he saw the leash.",
+        "target": "Kukkur le mailman lai zor le bhokyo, tara leash herera chito bhaagyo."
+    },
+    {
+        "source": "We spent the afternoon at the zoo, watching the animals and taking pictures with the elephants.",
+        "target": "Hami zoo ma beluka bitayo, janawar haru herda ra haathi sanga photo kheechda."
+    },
+    {
+        "source": "The couple went for a long walk along the beach, holding hands and talking about their future.",
+        "target": "Jodi le beach ma lamo ghumna gayo, hatma hath ra sapana ko kura garera."
+    },
+    {
+        "source": "The kids had a blast playing tag in the park, running around and laughing together.",
+        "target": "Bachha haru park ma tag kheldai ek arka sanga daudera ramailo gare."
+    },
+    {
+        "source": "The baker carefully shaped the dough and placed it in the oven to bake the bread.",
+        "target": "Baker le dough ramrari shape gari, ruti bake garna oven ma rakhe."
+    },
+    {
+        "source": "The couple decorated their house with flowers and candles for their wedding anniversary.",
+        "target": "Jodi le apno wedding anniversary ko lagi phool ra mombatti sanga ghar sajayo."
+    },
+    {
+        "source": "The kids jumped into the pool from the diving board and made huge splashes.",
+        "target": "Bachha haru diving board bata pool ma koodera paani chhichali diye."
+    },
+    {
+        "source": "The friends sat by the bonfire, singing songs and playing the guitar.",
+        "target": "Saathi haru bonfire ko wari basera geet gaudai ra guitar bajaunda ramailo garen."
+    },
+    {
+        "source": "The elderly woman carefully watered the plants and smiled as she watched them grow.",
+        "target": "Buda mahila le biruwa ma paani halera muskurai ra biruwa haru badhda herera ramailo garen."
+    },
+    {
+        "source": "We went to the mountain top to enjoy the sunrise and took lots of photos.",
+        "target": "Hami pahar ko shikhar ma suryoday herna gaye ra dherai photo kheechyo."
+    },
+    {
+        "source": "The small restaurant near the corner serves the best momos in town, and the service is great.",
+        "target": "Konera ko naya restaurant le sabai bhanda ramro momo dincha, ani service pani dami cha."
+    },
+    {
+        "source": "The children enjoyed playing with their toys in the sandbox, building castles and digging tunnels.",
+        "target": "Bachha haru sandbox ma khelna ra balu ko ghar banauna ma ramailo garen."
+    },
+    {
+        "source": "The farmer harvested the crops in the field, and the family helped bring in the produce.",
+        "target": "Kisan le kheti bata bali uthayo, ani family le saman ko sahayog gare."
+    },
+    {
+        "source": "The friends decided to go on a road trip across the country and visit all the famous landmarks.",
+        "target": "Saathi haru le desh bhari road trip garne decide gare ra famous thau haru herne plan gare."
+    },
+    {
+        "source": "The teacher encouraged the students to participate in the school talent show.",
+        "target": "Teacher le students haru lai school ko talent show ma participate garna encourage gare."
+    },
+    {
+        "source": "The musician played his guitar in the park, drawing a crowd of people who enjoyed his music.",
+        "target": "Musician le park ma guitar bajayo, ani dherai manche haru usko music herne aayo."
+    },
+    {
+        "source": "We spent the weekend hiking through the forest, spotting birds and taking breaks by the river.",
+        "target": "Hami weekend ma jungle ko bich ghumera, chara haru herera ra nadi ko kinara break garera bitayo."
+    },
+    {
+        "source": "The children painted colorful pictures of animals and displayed them in the classroom.",
+        "target": "Bachha haru le rangichangi janawar ko photo paint gare ra classroom ma rakhe."
+    },
+    {
+        "source": "The old man sat on the rocking chair, reading a book and sipping tea.",
+        "target": "Buda manche rocking chair ma basera kitab padhiraheko thiyo ani chai sip gardai."
+    },
+    {
+        "source": "We had a great time at the amusement park, riding roller coasters and eating cotton candy.",
+        "target": "Hami amusement park ma roller coaster ma ride garera ra cotton candy khayera ramailo garen."
+    }
+]

@@ -1,0 +1,952 @@
+[
+    {
+        "id": 1,
+        "english": "The quick brown fox jumps over the lazy dog. It was a wonderful sight to see in the early morning.",
+        "roman_nepali": "Chito ranga ko khairo ghamlagdo lomri susta kukur mathi jharyo. Bihan bihana herna jhanai ramailo drishya thiyo."
+    },
+    {
+        "id": 2,
+        "english": "She decided to walk along the quiet riverside, enjoying the cool breeze and the sound of birds chirping.",
+        "roman_nepali": "Uslai nadi ko kinara shanta batoma hidna man lagyo, halka hauwa ra chara haru ko awaj sunna ramailo lagyo."
+    },
+    {
+        "id": 3,
+        "english": "Learning a new language can be challenging, but it opens doors to understanding new cultures and people.",
+        "roman_nepali": "Naya bhasha siknu sajilo ta hudaina, tara yo naya sanskriti ra manche bujhna ko lagi bato kholchha."
+    },
+    {
+        "id": 4,
+        "english": "The mountains stood tall, their peaks covered with snow that shimmered under the golden rays of the setting sun.",
+        "roman_nepali": "Pahad haru unchha ubhera thiyo, unko shikhara barfidale dhakiyeko thiyo jun dubaeko gham ko kira ma chamkira thiyo."
+    },
+    {
+        "id": 5,
+        "english": "In the quiet village, children played in the open fields, their laughter echoing through the hills.",
+        "roman_nepali": "Ekdam shanta gau ma, ketaketi haru khula khetma khelthe, uniharu ko haas ko awaj pahad ma gunjiyeko thiyo."
+    },
+    {
+        "id": 6,
+        "english": "Technology has greatly improved our lives, making communication and access to information faster and more efficient.",
+        "roman_nepali": "Technology le hamro jindagi dherai sajilo banayeko chha, kura garna ra jaankari pauna dherai chhito ra asan banayeko chha."
+    },
+    {
+        "id": 7,
+        "english": "She spent hours in the library, lost in the world of books and stories from faraway lands.",
+        "roman_nepali": "Usle ghantaau library ma bitai, taadha taadha ko desh haru ka kitab ra katha ma harayeko jasto thiyo."
+    },
+    {
+        "id": 8,
+        "english": "A gentle rain began to fall, bringing with it the earthy aroma that signaled the arrival of monsoon.",
+        "roman_nepali": "Halka pani parna suru bho, mato ko mitho sugandha le mansoon suru bhayeko jasto lagthyo."
+    },
+    {
+        "id": 9,
+        "english": "The ancient temple was surrounded by lush greenery, and the sound of bells filled the air.",
+        "roman_nepali": "Purano mandir hariyali le ghereko thiyo, ra ghanti haru ko awaj le batash bhariyo."
+    },
+    {
+        "id": 10,
+        "english": "Every sunset painted the sky with hues of orange and pink, a reminder of nature's endless beauty.",
+        "roman_nepali": "Harek gham dubdai jada, asman suntala ra gulabi rang le rangiyeko hunthyo, prakriti ko sundarta yaad garthyo."
+    },
+    {
+        "id": 11,
+        "english": "After a long day at work, he sat by the window with a cup of tea, watching the rain outside.",
+        "roman_nepali": "Lamo din ko kaam pachhi, u jhyal najik basyo ek kap chai liye, bahira ko pani herdai."
+    },
+    {
+        "id": 12,
+        "english": "The market was bustling with people, vendors shouting to sell their goods, and children running around.",
+        "roman_nepali": "Bazaar ma dherai bheed thiyo, bechne manche haru chichyaudai the, ani bachha haru charipatti daudiraheko thiyo."
+    },
+    {
+        "id": 13,
+        "english": "He loved cooking for his family on weekends, trying out new recipes every time.",
+        "roman_nepali": "U afno family ko lagi weekend ma pakaauna man parthyo, harek patak naya recipe try garthyo."
+    },
+    {
+        "id": 14,
+        "english": "The dog wagged its tail excitedly as the children returned home from school.",
+        "roman_nepali": "Kukur le dherai khusi hune gari afno puchhar halyo jaba ketaketi haru school bata ghar aae."
+    },
+    {
+        "id": 15,
+        "english": "The old man shared stories of his youth, reminiscing about the days he spent in the mountains.",
+        "roman_nepali": "Buda manche le afno jawani ka katha sunayo, pahad ma bitayeko din ko samjhana gardai."
+    },
+    {
+        "id": 16,
+        "english": "The aroma of freshly baked bread filled the kitchen, making everyone hungry.",
+        "roman_nepali": "Naya taaja roti pakda ko sugandha kitchen ma failyo, sabai lai bhok lagna thalyo."
+    },
+    {
+        "id": 17,
+        "english": "As the train left the station, she waved goodbye to her friends, holding back tears.",
+        "roman_nepali": "Jaba train station chhodyo, usle afna saathi haru lai goodbye diyera hath hallaune gari roknu parcha manma."
+    },
+    {
+        "id": 18,
+        "english": "The festival brought the whole community together, with music, dancing, and delicious food.",
+        "roman_nepali": "Parva le pura community ekai thau ma sametyo, geet, nach ra mitho khana sangai."
+    },
+    {
+        "id": 19,
+        "english": "She stayed up late, staring at the stars, wondering about the mysteries of the universe.",
+        "roman_nepali": "Usle derai bela samma sutina, tara taara herdai, sansar ko rahasya haru bare socdai."
+    },
+    {
+        "id": 20,
+        "english": "The sunrise painted the sky in beautiful shades of gold and orange, signaling the start of a new day.",
+        "roman_nepali": "Udayo ko gham le asman sundar sunulo ra suntala rang ma rangayo, naya din ko suruwat ko sanket diyera."
+    },
+    {
+        "id": 21,
+        "english": "He was thrilled to finally visit the city he had only seen in movies before.",
+        "roman_nepali": "U ekdam excited thiyo tyaha ko sahar herna jaba jun usle matra movie ma dekheko thiyo."
+    },
+    {
+        "id": 22,
+        "english": "Her laughter was contagious, and soon the whole room was filled with smiles.",
+        "roman_nepali": "Usko haas ekdam charmilo thiyo, ra chhito nai pura room muskan le bharincha."
+    },
+    {
+        "id": 23,
+        "english": "They spent the night around the campfire, sharing stories and singing songs.",
+        "roman_nepali": "Uniharu campfire ko chheu ma rati bitaye, katha sunera ra geet gaudai."
+    },
+    {
+        "id": 24,
+        "english": "The library was quiet except for the soft rustle of pages being turned.",
+        "roman_nepali": "Library pura shanta thiyo, sirf kitab paltauda ko halka awaj matra suniyo."
+    },
+    {
+        "id": 25,
+        "english": "The streets were decorated with lights, creating a festive and magical atmosphere.",
+        "roman_nepali": "Sadak haru batti le sajiyeko thiyo, ekdam utsav jasto ra magical environment banayeko."
+    },
+    {
+        "id": 26,
+        "english": "He woke up early and went for a jog in the park.",
+        "roman_nepali": "U chhito uthyo ani park ma jogging garna gayo."
+    },
+    {
+        "id": 27,
+        "english": "The kids played football until it got dark.",
+        "roman_nepali": "Ketaketi haru andharo nahunjel samma football khele."
+    },
+    {
+        "id": 28,
+        "english": "She smiled as she looked at the photo in her hand.",
+        "roman_nepali": "Usle haase afno hath ma photo herda."
+    },
+    {
+        "id": 29,
+        "english": "The food smelled so good that everyone wanted a taste.",
+        "roman_nepali": "Khana ko gandha dherai mitho thiyo, sabai le try garna man paryo."
+    },
+    {
+        "id": 30,
+        "english": "He sat under the tree, enjoying the cool shade.",
+        "roman_nepali": "U rukh muni basyo, thado chhaaya ma ramailo gardai."
+    },
+    {
+        "id": 31,
+        "english": "They worked together to finish the project on time.",
+        "roman_nepali": "Uniharle sanga kaam gare taaki project time ma sakos."
+    },
+    {
+        "id": 32,
+        "english": "The sound of waves crashing was soothing to her.",
+        "roman_nepali": "Chalanga taranga ko awaj uslai sant lagyo."
+    },
+    {
+        "id": 33,
+        "english": "The cat slept peacefully near the fireplace.",
+        "roman_nepali": "Biralo sant bata fireplace najik suteko thiyo."
+    },
+    {
+        "id": 34,
+        "english": "He looked out the window, watching the busy street below.",
+        "roman_nepali": "U jhyal bata bahira hercha, tala bheed bhaako sadak herdai."
+    },
+    {
+        "id": 35,
+        "english": "The flowers in the garden were blooming beautifully.",
+        "roman_nepali": "Bagan ma phool haru ramrari fuleko thiyo."
+    },
+    {
+        "id": 36,
+        "english": "She wrote letters to her family every weekend.",
+        "roman_nepali": "Usle harek weekend ma afno family lai chitthi lekhti."
+    },
+    {
+        "id": 37,
+        "english": "The little boy was excited to ride the big rollercoaster.",
+        "roman_nepali": "Sano ketale thulo rollercoaster chadna ma dherai excited thiyo."
+    },
+    {
+        "id": 38,
+        "english": "The moonlight reflected off the calm lake surface.",
+        "roman_nepali": "Chandrama ko kiran sant tala ma chamkyo."
+    },
+    {
+        "id": 39,
+        "english": "The group of friends hiked up the mountain early in the morning.",
+        "roman_nepali": "Saathi haru ko samuh bihan bihan pahad chadne gayo."
+    },
+    {
+        "id": 40,
+        "english": "She enjoyed listening to old songs on a rainy afternoon.",
+        "roman_nepali": "Usle barsaat ma purano geet sunna ramailo lagthyo."
+    },
+    {
+        "id": 41,
+        "english": "The teacher explained the lesson with great patience.",
+        "roman_nepali": "Teacher le lesson ekdam dhairyata sanga samjhaune garyo."
+    },
+    {
+        "id": 42,
+        "english": "He packed his bag quickly and left for the station.",
+        "roman_nepali": "Usle chhito afno jhola pakkai garyo ani station tir gayo."
+    },
+    {
+        "id": 43,
+        "english": "The baby laughed when the puppy licked her face.",
+        "roman_nepali": "Bachha hasyo jaba kukur le usko mukh chatchyo."
+    },
+    {
+        "id": 44,
+        "english": "They danced under the stars until late at night.",
+        "roman_nepali": "Uniharu raat samma taara muni nachdai rahe."
+    },
+    {
+        "id": 45,
+        "english": "The new restaurant served delicious food at a good price.",
+        "roman_nepali": "Naya restaurant le mitho khana sasto ma dindai thiyo."
+    },
+    {
+        "id": 46,
+        "english": "The car stopped suddenly when a cat ran across the road.",
+        "roman_nepali": "Gadi achanak rokincha jaba ek biralo bato katcha."
+    },
+    {
+        "id": 47,
+        "english": "He spent the whole evening reading a book by the fireplace.",
+        "roman_nepali": "Usle pura beluka fireplace najik kitab padhera bitayo."
+    },
+    {
+        "id": 48,
+        "english": "The children built a sandcastle on the beach during the afternoon.",
+        "roman_nepali": "Ketaketi haru le beluka beach ma baluwa ko mahal banaye."
+    },
+    {
+        "id": 49,
+        "english": "The bird perched on the tree branch, singing a sweet melody.",
+        "roman_nepali": "Chara rukh ko hata ma bascha ani mitho geet garcha."
+    },
+    {
+        "id": 50,
+        "english": "The family gathered around the table to share dinner together.",
+        "roman_nepali": "Pariwar dinner share garna table najik jamma bhayo."
+    },
+    {
+        "id": 51,
+        "english": "The sun disappeared behind the mountains, leaving the sky orange.",
+        "roman_nepali": "Gham pahad pachi lukcha, asman suntala rang ko bancha."
+    },
+    {
+        "id": 52,
+        "english": "She kept her promise and called her friend as soon as she got home.",
+        "roman_nepali": "Usle afno wada rakhi ani ghar pugne bittikai saathi lai call garyo."
+    },
+    {
+        "id": 53,
+        "english": "The bakery was filled with the smell of freshly baked pastries.",
+        "roman_nepali": "Bakery taaja pakeko mithai ko sugandha le bharincha."
+    },
+    {
+        "id": 54,
+        "english": "The kids chased each other around the garden, laughing loudly.",
+        "roman_nepali": "Ketaketi haru bagan ma ek arka ko pachi lagcha, jor le haascha."
+    },
+    {
+        "id": 55,
+        "english": "The little girl offered her seat to the elderly man on the bus.",
+        "roman_nepali": "Sano keti le bus ma budha manche lai afno seat dincha."
+    },
+    {
+        "id": 56,
+        "english": "The team celebrated their victory with cheers and high-fives.",
+        "roman_nepali": "Team le afno jit ko khushi cheers ani high-five le manayo."
+    },
+    {
+        "id": 57,
+        "english": "The dog barked loudly when the doorbell rang.",
+        "roman_nepali": "Kukur jor le bhukcha jaba ghanti bajcha."
+    },
+    {
+        "id": 58,
+        "english": "The flowers swayed gently in the cool evening breeze.",
+        "roman_nepali": "Phool haru shital beluka ko hauwa ma ramrari halcha."
+    },
+    {
+        "id": 59,
+        "english": "The shopkeeper greeted every customer with a warm smile.",
+        "roman_nepali": "Shopkeeper har ek customer lai ramro muskan le swagat garcha."
+    },
+    {
+        "id": 60,
+        "english": "The hikers stopped to rest by a clear mountain stream.",
+        "roman_nepali": "Hikers haru ek chhoto pahadi khola najik aram garna rokcha."
+    },
+    {
+        "id": 61,
+        "english": "She watered the plants in her garden every morning.",
+        "roman_nepali": "Usle harek bihan bagan ko biruwa lai paani halcha."
+    },
+    {
+        "id": 62,
+        "english": "The sound of children playing could be heard from the schoolyard.",
+        "roman_nepali": "Schoolyard bata kheliraheko ketaketi haru ko awaj sunna milcha."
+    },
+    {
+        "id": 63,
+        "english": "The ice cream melted quickly in the hot summer sun.",
+        "roman_nepali": "Garmi ko gham ma ice cream chhito pighalcha."
+    },
+    {
+        "id": 64,
+        "english": "The fireworks lit up the night sky during the celebration.",
+        "roman_nepali": "Pataka le utsav ko raat ko asman chamkayo."
+    },
+    {
+        "id": 65,
+        "english": "She wrapped the gift carefully and added a handwritten note.",
+        "roman_nepali": "Usle gift ramrari lapetyo ani ek lekhiyeko note thapyo."
+    },
+    {
+        "id": 66,
+        "english": "As the family sat together around the fireplace on a cold winter night, they shared stories of their childhood and laughed heartily.",
+        "roman_nepali": "Jado ko raat ma pariwar sabai fireplace najik basera afno balpan ko katha suncha ani haascha."
+    },
+    {
+        "id": 67,
+        "english": "She spent hours painting a beautiful landscape, carefully blending the colors to make it look as realistic as possible.",
+        "roman_nepali": "Usle dherai ghanta ek sundar drishya banaunda bitai, rang haru ramrari milayera jastai dekhaos banuna koshish garyo."
+    },
+    {
+        "id": 68,
+        "english": "The teacher explained the difficult concept with such clarity and patience that all the students were able to understand it easily.",
+        "roman_nepali": "Teacher le muskil concept lai yasto spaashta ra dhairyata sanga samjhaune garyo ki sabai students asani sanga bujhe."
+    },
+    {
+        "id": 69,
+        "english": "The tourists were mesmerized by the breathtaking view of the snow-capped mountains shining under the bright morning sun.",
+        "roman_nepali": "Tourists haru barfidale dhakiyeko pahad ko ramro drishya dekhda bihan ko ujyaalo gham muni mohit bhae."
+    },
+    {
+        "id": 70,
+        "english": "She woke up early to bake a cake for her friend’s birthday, decorating it with fresh fruits and cream.",
+        "roman_nepali": "Usle afno saathi ko birthday ko lagi cake pakaauna chhito uthi, ani taaja falful ra cream le sajaiyo."
+    },
+    {
+        "id": 71,
+        "english": "They decided to take a road trip across the country, stopping at small towns and experiencing the local culture along the way.",
+        "roman_nepali": "Uniharu le pura desh bhar road trip garna decide garyo, sano sano sahar ma rokera sthaniya sanskriti anubhav gardai."
+    },
+    {
+        "id": 72,
+        "english": "The scientist spent years researching a cure for the disease, dedicating every waking moment to the lab.",
+        "roman_nepali": "Scientist le rog ko upchar khojna barsa bitayo, harek jaga huney bela laboratory ma samarpit garyo."
+    },
+    {
+        "id": 73,
+        "english": "The old house creaked with every step as they explored its dusty rooms, filled with memories of the past.",
+        "roman_nepali": "Purano ghar ma jaha kadhai thiyo harek kadam ma, dhulo bhareko kotha haru explore gardai, bhootka samjhana haru sangai."
+    },
+    {
+        "id": 74,
+        "english": "During the long train journey, she spent her time gazing out of the window, watching the changing scenery.",
+        "roman_nepali": "Lamo train yatra ko bela, usle afno samaya jhyal bata bahira herda, badliyo drishya dekhera bitayo."
+    },
+    {
+        "id": 75,
+        "english": "The farmer woke up before sunrise every day, tending to his fields and taking care of his livestock.",
+        "roman_nepali": "Kisan harek din gham udhna agadi nai uthcha, afno khet khetala hercha ani janawar haru ko dhyan rakhcha."
+    },
+    {
+        "id": 76,
+        "english": "Despite the challenges, she never gave up on her dream of becoming a doctor and worked tirelessly to achieve it.",
+        "roman_nepali": "Gahro haru ko bawjood, usle doctor banne sapana kabhi chhodyena ani bina thakai mehnat garyo."
+    },
+    {
+        "id": 77,
+        "english": "The city lights sparkled like stars in the night, creating a magical and vibrant atmosphere that captivated everyone.",
+        "roman_nepali": "Sahar ko batti raat ma taara jastai chamkyo, magical ra jindagile bhareko mahol banayo jun sabai lai akarsit garyo."
+    },
+    {
+        "id": 78,
+        "english": "The grandmother told her grandchildren stories of bravery and adventure, keeping them entertained late into the night.",
+        "roman_nepali": "Hajurama le afno naati haru lai saahas ra romanchak katha sunayo, uniharulai raat samma ramailo rakhyo."
+    },
+    {
+        "id": 79,
+        "english": "He sat on the balcony, sipping his coffee and watching the sunrise, feeling a sense of peace and gratitude.",
+        "roman_nepali": "U balcony ma basera coffee piudai gham udha hercha, shanti ra kirtagya ko bhaaw anubhav gardai."
+    },
+    {
+        "id": 80,
+        "english": "The heavy rain forced them to stay inside, but they made the best of it by playing board games together.",
+        "roman_nepali": "Birsaat le uniharulai bhitra basna badhya garayo, tara uniharule board games khelera ta ramailo gare."
+    },
+    {
+        "id": 81,
+        "english": "The artist spent months creating a masterpiece, carefully capturing every detail and emotion on the canvas.",
+        "roman_nepali": "Artist le mahina haru lagayo ek masterpiece banuna, canvas ma harek jankari ra bhawna ramrari samateko."
+    },
+    {
+        "id": 82,
+        "english": "They walked hand in hand along the beach, leaving footprints behind them on the wet sand.",
+        "roman_nepali": "Uniharu hath ma hath dhareko beach ma hidaye, pichadi geela baluwa ma pag chhap chhodera."
+    },
+    {
+        "id": 83,
+        "english": "The library was a quiet haven for her, a place where she could lose herself in books for hours.",
+        "roman_nepali": "Library uska lagi ek shanta basna thaun thiyo, jaha usle ghanta haru kitabh ma harayeko huncha."
+    },
+    {
+        "id": 84,
+        "english": "The children eagerly waited for their father to return from his trip, bringing stories and gifts from faraway places.",
+        "roman_nepali": "Ketaketi haru utshuk bhaera afno baba ko yatra bata farkane kura ko pratiksha gardai, taadha desh haru ko katha ra upahaar liye aune."
+    },
+    {
+        "id": 85,
+        "english": "As the rain poured outside, they sat by the window sipping hot tea and talking about their childhood memories.",
+        "roman_nepali": "Bahir barsaat pariraheko bela, uniharu jhyal najik basera taato chiya piudai ani balpan ko samjhana haru kura gardai."
+    },
+    {
+        "id": 86,
+        "english": "After a long day at work, he enjoyed sitting in the garden, listening to the chirping birds and feeling the cool breeze.",
+        "roman_nepali": "Lamo kaam ko din pachi, u bagan ma basna ramailo maanyo, chara haru ko chirbir sunera ra chiso hauwa mahsoos gardai."
+    },
+    {
+        "id": 87,
+        "english": "Even though the road was bumpy and narrow, they continued their journey with excitement and determination.",
+        "roman_nepali": "Bato ukalo ra sanguro hune bahek pani, uniharule utsaha ra dridta sanga afno yatra jari rakhe."
+    },
+    {
+        "id": 88,
+        "english": "She stayed up late at night, finishing the project she had been working on for weeks.",
+        "roman_nepali": "Usle raat dheri samma jagera, dherai hapta dekhi kaam gari raheko project sakai."
+    },
+    {
+        "id": 89,
+        "english": "The aroma of freshly baked bread filled the kitchen as she carefully took it out of the oven.",
+        "roman_nepali": "Taaja pakeko roti ko sugandha kitchen bharincha jaba usle bistarai oven bata nikalcha."
+    },
+    {
+        "id": 90,
+        "english": "The group of friends decided to camp near the river, enjoying the sound of water and the starry night sky.",
+        "roman_nepali": "Saathi haru ko samuh le nadi najik camp garna decide garyo, paani ko awaj ra taara le bharincha asman ko ramailo gardai."
+    },
+    {
+        "id": 91,
+        "english": "Although it was a tiring climb, the breathtaking view from the top made it all worthwhile.",
+        "roman_nepali": "Thakai lagdai ukalo thiyo, tara mathi dekheko drishya le sabai samasya bhulayo."
+    },
+    {
+        "id": 92,
+        "english": "The old couple loved spending their evenings sitting on the porch, watching the sunset together.",
+        "roman_nepali": "Budha budhi haru afno beluka varanda ma basera gham doobeko herna man parthyo."
+    },
+    {
+        "id": 93,
+        "english": "He spent hours fixing his bike, determined to get it running smoothly before the weekend trip.",
+        "roman_nepali": "Usle bike thik garna ghanta haru lagayo, weekend trip agadi smooth chalcha bhanera drid thiyo."
+    },
+    {
+        "id": 94,
+        "english": "The children were thrilled to see the fireworks lighting up the sky in vibrant colors.",
+        "roman_nepali": "Ketaketi haru taara ramailo bhaera asman ma rangichangi pataka dekhna excited bhae."
+    },
+    {
+        "id": 95,
+        "english": "The travelers were fascinated by the local market, filled with colorful fabrics, handmade crafts, and delicious street food.",
+        "roman_nepali": "Travelers haru sthaniya bajar le mohit bhae, rangichangi kapda, handmade crafts ra mitho street food le bhareko."
+    },
+    {
+        "id": 96,
+        "english": "She carefully wrapped the delicate vase in layers of paper before placing it in the box.",
+        "roman_nepali": "Usle jhanjhanilo vase ramrari kagaj ma lapetera box ma rakhyo."
+    },
+    {
+        "id": 97,
+        "english": "They walked through the dense forest, following a narrow path that led to a hidden waterfall.",
+        "roman_nepali": "Uniharu ghanaghana jungle bata hiddai ek patalo bato follow garcha, jun lukeko jharna tir lagcha."
+    },
+    {
+        "id": 98,
+        "english": "Despite the rain, they decided to go hiking, wearing waterproof jackets and carrying umbrellas.",
+        "roman_nepali": "Barsaat hune bahek pani, uniharule hiking jaana decide garyo, waterproof jacket lagayera ra chata liye."
+    },
+    {
+        "id": 99,
+        "english": "The young boy eagerly helped his mother prepare dinner, chopping vegetables and setting the table.",
+        "roman_nepali": "Sano keta le ramailo sanga aama lai dinner banuna madat garyo, tarkari kata ra table set garda."
+    },
+    {
+        "id": 100,
+        "english": "As the sun set, the beach was filled with people enjoying the cool evening and the sound of the waves.",
+        "roman_nepali": "Gham doobda beach ma chiso beluka ra chalanga taranga ko awaj ko majja lincha manche haru le bharincha."
+    },
+    {
+        "id": 101,
+        "english": "Even though the journey was long and tiring, they couldn’t stop smiling as they thought about finally meeting their family.",
+        "roman_nepali": "Yatra lamo ra thakai lagdo hune bahek pani, pariwar lai bhetnu ko sochera uniharu haseko chhodena."
+    },
+    {
+        "id": 102,
+        "english": "The couple spent hours choosing the perfect furniture for their new home, debating over colors and designs.",
+        "roman_nepali": "Jodi le afno naya ghar ko lagi perfect furniture chhanna ghanta haru lagayo, rang ra design ko maath debate gardai."
+    },
+    {
+        "id": 103,
+        "english": "As the night grew colder, they huddled closer around the campfire, sharing stories and roasting marshmallows.",
+        "roman_nepali": "Raat jhan jhan chiso huncha, uniharu campfire najik jamma hunchan, katha share gardai ra marshmallow roast gardai."
+    },
+    {
+        "id": 104,
+        "english": "The little boy excitedly ran towards the ice cream truck, waving his hands to get the vendor’s attention.",
+        "roman_nepali": "Sano keta ice cream truck tira khushi hune dhohi halcha, hath hallayera vendor ko dhyan tancha."
+    },
+    {
+        "id": 105,
+        "english": "The elderly man spent his mornings sitting by the lake, watching the ducks swim peacefully across the water.",
+        "roman_nepali": "Budha manche le bihan pokhari najik basera bitauchha, haans haru lai shanti sanga paani ma tira herera."
+    },
+    {
+        "id": 106,
+        "english": "They worked together to clean the park, picking up trash and planting flowers to make it beautiful again.",
+        "roman_nepali": "Uniharu park saphaa garna sangai kaam garcha, kachra uthane ra phool ropne, park firta sundar banauna."
+    },
+    {
+        "id": 107,
+        "english": "She was nervous before her speech, but her friends encouraged her with warm smiles and supportive words.",
+        "roman_nepali": "Usle speech agadi ali nervous feel garyo, tara uska saathi haru le ramro muskan ra supportive kura garera utsaha diyera."
+    },
+    {
+        "id": 108,
+        "english": "The group of friends sat under the starry sky, talking about their dreams and plans for the future.",
+        "roman_nepali": "Saathi haru ko samuh taara bhareko asman muni basera, afno sapana ra bhabisya ko plan ko kura garchan."
+    },
+    {
+        "id": 109,
+        "english": "The children loved visiting their grandparents’ house, where they could play in the big garden and eat homemade treats.",
+        "roman_nepali": "Ketaketi haru afno hajurbuwa hajurama ko ghar ma jaanu dherai man parcha, jaha thulo bagan ma khelna ra gharelu mithai khana paucha."
+    },
+    {
+        "id": 110,
+        "english": "Even after years, the old diary still held memories of her teenage years, making her smile as she flipped through the pages.",
+        "roman_nepali": "Barsau pachi pani, purano diary le usko kishor awastha ko samjhana jamayera rakhyo, jasma page paltauda usle muskan layayo."
+    },
+    {
+        "id": 111,
+        "english": "They spent the entire afternoon hiking up the mountain and were rewarded with an incredible view at the top.",
+        "roman_nepali": "Uniharule pura diuso pahad ukalera bitayo ra mathi pugera adbhut drishya dekhera khusi bhaye."
+    },
+    {
+        "id": 112,
+        "english": "The street was lined with vendors selling colorful handicrafts, delicious snacks, and vibrant clothes.",
+        "roman_nepali": "Sadak ko dubaai tir vendors haru rangichangi handicrafts, mitho khaja, ra jhillimilli kapda bechdai."
+    },
+    {
+        "id": 113,
+        "english": "She patiently waited for the train, watching the people around her, each busy with their own lives.",
+        "roman_nepali": "Usle train ko pratiksha dhairyata sanga garyo, charipati manche haru hercha, jun sabai afno afno jindagi ma byasta."
+    },
+    {
+        "id": 114,
+        "english": "The travelers were amazed by the ancient temple, with its intricate carvings and centuries-old history.",
+        "roman_nepali": "Travelers haru praachin mandir dekhda ascharrya bhae, jasma jatil karigari ra satabdi purano itihas thiyo."
+    },
+    {
+        "id": 115,
+        "english": "The team worked tirelessly throughout the night to complete the project before the deadline.",
+        "roman_nepali": "Team le deadline agadi project sakaucha bhanera pura raat bina thakai kaam garyo."
+    },
+    {
+        "id": 116,
+        "english": "Despite the heavy rain, the villagers came together to rebuild the damaged bridge over the river.",
+        "roman_nepali": "Dherai jor ko barsaat huney bahek pani, gaunle haru sangai jamma bhayera nadima tute ko pul banayo."
+    },
+    {
+        "id": 117,
+        "english": "The young girl spent her weekends volunteering at the animal shelter, feeding and playing with the dogs and cats.",
+        "roman_nepali": "Sano keti le afno weekend animal shelter ma volunteer gardai bitauchha, kukur ra biralo haru lai khuwaune ra khelne."
+    },
+    {
+        "id": 118,
+        "english": "The couple decided to renovate their house, spending hours choosing new tiles, paints, and furniture.",
+        "roman_nepali": "Jodi le ghar renovate garna decide garyo, ghanta haru lagayera naya tile, paint, ra furniture chhanna."
+    },
+    {
+        "id": 119,
+        "english": "As the train sped through the countryside, they enjoyed the view of green fields and small villages.",
+        "roman_nepali": "Train gaule chetra ma chittikai jada, uniharu hariyo khet ra sano gau haru ko drishya ramailo garcha."
+    },
+    {
+        "id": 120,
+        "english": "The children gathered around their teacher as she read them a story, her voice bringing the characters to life.",
+        "roman_nepali": "Ketaketi haru afno teacher ko charipati jamma hunchan jaba usle katha padcha, usko awaj le characters lai jinda jasto banauchha."
+    },
+    {
+        "id": 121,
+        "english": "After a long day of exploring the city, they sat at a small café, sipping coffee and watching people pass by.",
+        "roman_nepali": "Sahar explore gareko lamo din pachi, uniharu sano café ma basera coffee piudai ra manche haru gujri rako herdai."
+    },
+    {
+        "id": 122,
+        "english": "The writer spent weeks crafting the perfect ending for her novel, rewriting it multiple times until she was satisfied.",
+        "roman_nepali": "Lekhak le afno upanyas ko perfect ending banuna hapta haru lagayo, dherai choti lekhera satisfied hunu samma."
+    },
+    {
+        "id": 123,
+        "english": "The little girl was overjoyed when her father surprised her with a new bicycle for her birthday.",
+        "roman_nepali": "Sano keti baba le birthday ma naya bicycle surprise diyera dherai khusi bhae."
+    },
+    {
+        "id": 124,
+        "english": "They spent the day decorating the house with fairy lights and flowers to celebrate the festival.",
+        "roman_nepali": "Uniharule ghar fairy light ra phool haru le sajayera tyo parba manaauna pura din lagaye."
+    },
+    {
+        "id": 125,
+        "english": "Despite the scorching heat, the farmers continued working in the fields, determined to finish the harvest on time.",
+        "roman_nepali": "Jor ko garmi huney bahek pani, kisan haru time ma fasal sakcha bhanera khet ma kaam gardai."
+    },
+    {
+        "id": 126,
+        "english": "The museum was filled with ancient artifacts and paintings, each telling a story of a bygone era.",
+        "roman_nepali": "Museum praachin samagri ra painting haru le bharincha, jasma harek ek puraano yug ko katha bhancha."
+    },
+    {
+        "id": 127,
+        "english": "As the plane took off, he looked out the window, mesmerized by the clouds and the tiny buildings below.",
+        "roman_nepali": "Plane udda usle jhyal bata hercha, baadal ra tala ka sana sana ghar haru dekhda mohit bhae."
+    },
+    {
+        "id": 128,
+        "english": "The hikers were thrilled to finally reach the top of the mountain after hours of climbing through rough terrain.",
+        "roman_nepali": "Hikers haru dherai ghanta ukalo rought terrain ma chadhera pahad ko choati pugera khusi bhae."
+    },
+    {
+        "id": 129,
+        "english": "The classroom was filled with excitement as the students prepared for their annual cultural program.",
+        "roman_nepali": "Classroom utsaha le bharincha jaba students haru afno barshik sanskritik karyakram ko tayarima lagdai."
+    },
+    {
+        "id": 130,
+        "english": "The chef carefully plated the dish, ensuring every element was in the perfect place before serving it to the guests.",
+        "roman_nepali": "Chef le dish ramrari sajayo, harek element perfect thauma ho bhanera herera, pachi guests lai serve garyo."
+    },
+    {
+        "id": 131,
+        "english": "The siblings stayed up late talking about their favorite childhood memories and funny stories from school.",
+        "roman_nepali": "Didi-bhai raat dheri samma jagera balpan ko sabai ramailo samjhana ra school ko hasne katha haru kura garchan."
+    },
+    {
+        "id": 132,
+        "english": "The volunteers distributed food and blankets to the homeless people, bringing smiles to their faces.",
+        "roman_nepali": "Volunteers haru le bina ghar ko manche haru lai khana ra blanket diyera uniharuko mukh ma muskan lyaye."
+    },
+    {
+        "id": 133,
+        "english": "The sound of the waves crashing against the rocks was calming as they sat on the beach in silence.",
+        "roman_nepali": "Taranga ko awaj dhunga ma thokda shanta huncha jaba uniharu beach ma chupchap bascha."
+    },
+    {
+        "id": 134,
+        "english": "The little puppy followed the children around the yard, wagging its tail happily and barking playfully.",
+        "roman_nepali": "Sano kukur bacha haru ko pachi yard ma ghumcha, khusi hune dhum tale hallayera ra kheliraha bark gardai."
+    },
+    {
+        "id": 135,
+        "english": "They enjoyed watching the sunrise from the hilltop, the sky painted in shades of orange and pink.",
+        "roman_nepali": "Uniharu gham udhna hilltop bata herera ramailo garcha, asman sungharai ra gulabi rang ma rangiyeko."
+    },
+    {
+        "id": 136,
+        "english": "The family worked together to build a small treehouse for the kids, spending the entire weekend on the project.",
+        "roman_nepali": "Pariwar sangai jamma bhayera ketaketi haru ko lagi sano treehouse banayo, pura weekend project ma lagaiyo."
+    },
+    {
+        "id": 137,
+        "english": "She stood on the stage, her hands trembling slightly, but her voice grew stronger as she began her speech.",
+        "roman_nepali": "Usle stage ma ubhera, hath ali kaapdai, tara speech suru garepachi usko awaj majboot bancha."
+    },
+    {
+        "id": 138,
+        "english": "They stopped at a roadside dhaba to enjoy a hearty meal after driving for hours on the highway.",
+        "roman_nepali": "Uniharu highway ma dherai ghanta drive garepachi roadside ko dhaba ma ramro khana ko maja lincha."
+    },
+    {
+        "id": 139,
+        "english": "The festival brought the entire community together, with people dancing, singing, and celebrating late into the night.",
+        "roman_nepali": "Parba le pura samudaay ekchoti jamma garyo, jaha manche haru naachda, geet gaudai ra raat dheri samma manaudai."
+    },
+    {
+        "id": 140,
+        "english": "The artist sat by the riverbank, sketching the serene landscape with the mountains and flowing water.",
+        "roman_nepali": "Artist nadi kinaarma basera, pahad ra behrinda paani le bharincha tyo shanta drishya sketch gardai."
+    },
+    {
+        "id": 141,
+        "english": "He spent hours troubleshooting his computer, only to realize that the issue was with a loose cable.",
+        "roman_nepali": "Usle computer troubleshoot garna ghanta lagayo, tara problem loose cable ma thiyo bhanera thaha payo."
+    },
+    {
+        "id": 142,
+        "english": "The team collaborated online using video calls and shared documents to complete the project on time.",
+        "roman_nepali": "Team le online video call ra shared document use garera time ma project sakayo."
+    },
+    {
+        "id": 143,
+        "english": "She eagerly waited for the latest smartphone release, checking reviews and comparisons every day.",
+        "roman_nepali": "Usle naya smartphone release ko lagi utsuk bhayera, harek din review ra comparison herthyo."
+    },
+    {
+        "id": 144,
+        "english": "The city buzzed with activity as people rushed to catch the metro and navigate through the busy streets.",
+        "roman_nepali": "Sahar halla bharincha jaba manche metro pakadna ra bheed bhaako galli ma ghumna rush garcha."
+    },
+    {
+        "id": 145,
+        "english": "He created a playlist of his favorite songs for the long drive, ensuring it would keep him entertained throughout.",
+        "roman_nepali": "Usle lamo drive ko lagi afno manparcha geet ko playlist banayo, pura time entertain hune pakka garna."
+    },
+    {
+        "id": 146,
+        "english": "The delivery drone flew over the neighborhood, carefully dropping the package on the customer’s doorstep.",
+        "roman_nepali": "Delivery drone tole mathi uda, customer ko darajh ma ramrari package halcha."
+    },
+    {
+        "id": 147,
+        "english": "They spent the evening binge-watching their favorite series, surrounded by snacks and cozy blankets.",
+        "roman_nepali": "Uniharu sanjha afno manparcha series binge watch gardai, khaja ra ramailo blanket le gheriyera."
+    },
+    {
+        "id": 148,
+        "english": "She designed an app that helped students organize their schedules and set reminders for assignments.",
+        "roman_nepali": "Usle students ko schedule organize ra assignment ko lagi reminder set garna app design garin."
+    },
+    {
+        "id": 149,
+        "english": "The new coworking space was filled with young professionals typing away on their laptops and sipping coffee.",
+        "roman_nepali": "Naya coworking space laptop ma type gardai ra coffee sip gardai young professionals le bharincha."
+    },
+    {
+        "id": 150,
+        "english": "He was fascinated by the virtual reality headset, which transported him into a completely different world.",
+        "roman_nepali": "Uslai virtual reality headset le pura nai aru duniya ma lagda ramailo lagyo."
+    },
+    {
+        "id": 151,
+        "english": "The startup founders pitched their innovative ideas to investors, hoping to secure funding for their project.",
+        "roman_nepali": "Startup ko founders le investors sanga afno innovative idea pitch gardai, project ko lagi funding secure garna ko lagi."
+    },
+    {
+        "id": 152,
+        "english": "She spent her weekend attending an online coding bootcamp to improve her skills and build new projects.",
+        "roman_nepali": "Usle afno weekend online coding bootcamp ma skills improve ra naya project banaunda lagayin."
+    },
+    {
+        "id": 153,
+        "english": "They celebrated their friend’s promotion with a virtual party, complete with games and music over video call.",
+        "roman_nepali": "Uniharu le saathi ko promotion virtual party ma games ra music sanga video call ma manaye."
+    },
+    {
+        "id": 154,
+        "english": "The electric car glided silently down the road, impressing everyone with its sleek design and smooth performance.",
+        "roman_nepali": "Electric car sadak ma chupchap chalcha, sabai lai usko sleek design ra smooth performance le prabhavit garcha."
+    },
+    {
+        "id": 155,
+        "english": "The kids were thrilled to play with the new gaming console, diving into exciting adventures on the screen.",
+        "roman_nepali": "Ketaketi haru naya gaming console ma khelna pachi, screen ma ramailo adventure ma dukhera khusi bhae."
+    },
+    {
+        "id": 156,
+        "english": "The smart home system automatically turned off the lights and adjusted the temperature as they went to sleep.",
+        "roman_nepali": "Smart home system le uniharu sutna jada light off ra temperature adjust gariyo."
+    },
+    {
+        "id": 157,
+        "english": "She shared her travel experiences on social media, posting stunning pictures and tips for future travelers.",
+        "roman_nepali": "Usle afno travel ko anubhav social media ma share gari, ramro photo ra travel tips post gardai."
+    },
+    {
+        "id": 158,
+        "english": "The entrepreneur hosted a live webinar, answering questions and sharing insights about starting a business.",
+        "roman_nepali": "Entrepreneur le live webinar host gari, business suru garna ko barema prasna ko uttar ra tips share gardai."
+    },
+    {
+        "id": 159,
+        "english": "The urban park was equipped with charging stations, Wi-Fi, and spaces for remote workers to relax and work.",
+        "roman_nepali": "Urban park ma charging station, Wi-Fi, ra remote workers ko lagi kaam garna ra relax garna space thiyo."
+    },
+    {
+        "id": 160,
+        "english": "He spent the afternoon assembling his new gaming PC, excited to test its performance on his favorite games.",
+        "roman_nepali": "Usle naya gaming PC assemble garna pura diuso lagayo, afno manparcha game ma performance test garna khusi bhaera."
+    },
+    {
+        "id": 161,
+        "english": "He couldn’t believe how quickly the new software update improved his computer’s performance.",
+        "roman_nepali": "Usle biswas garna sakena ki naya software update le usko computer ko performance kati chhito improve garayo."
+    },
+    {
+        "id": 162,
+        "english": "The social media influencer posted a series of photos showcasing her latest fashion line, attracting a lot of attention.",
+        "roman_nepali": "Social media influencer le afno naya fashion line ko photos post garera dherai dhyan akarsit garayo."
+    },
+    {
+        "id": 163,
+        "english": "They planned a weekend getaway using an app that helped them find affordable hotels and activities.",
+        "roman_nepali": "Uniharu le weekend getaway plan garyo, ek app use garera jasma uniharu affordable hotel ra activity haru khojcha."
+    },
+    {
+        "id": 164,
+        "english": "She watched a tutorial on YouTube to learn how to use the new video editing software.",
+        "roman_nepali": "Usle YouTube ma tutorial herera naya video editing software kasari use garne ho bhanera sika."
+    },
+    {
+        "id": 165,
+        "english": "The startup launched an online platform for freelancers to connect with clients and find new projects.",
+        "roman_nepali": "Startup le freelancers haru lai clients sanga connect garne ra naya projects khojne online platform launch garayo."
+    },
+    {
+        "id": 166,
+        "english": "He joined a virtual fitness class to work out at home, following along with the instructor on his tablet.",
+        "roman_nepali": "Usle ghar ma kaam garna virtual fitness class join garyo, tablet ma instructor ko pichhadi herda."
+    },
+    {
+        "id": 167,
+        "english": "They ordered dinner online and tracked the delivery in real-time using a tracking app on their phones.",
+        "roman_nepali": "Uniharu le online dinner order garyo ra tracking app use garera phone ma delivery ko status herda."
+    },
+    {
+        "id": 168,
+        "english": "The company introduced a new feature on its website, allowing users to customize their profiles with different themes.",
+        "roman_nepali": "Company le afno website ma naya feature introduce garayo, jasma users haru lai afno profile customize garne option diyeko thiyo."
+    },
+    {
+        "id": 169,
+        "english": "She attended a virtual conference on digital marketing, listening to experts discuss the latest trends.",
+        "roman_nepali": "Usle digital marketing ma virtual conference attend garera, experts haru le latest trends ko barema kura garne sune."
+    },
+    {
+        "id": 170,
+        "english": "The new electric bike had impressive features, like a built-in GPS and a long-lasting battery, making commuting much easier.",
+        "roman_nepali": "Naya electric bike ma impressive features thiyo, jasle built-in GPS ra lamo samaya chalne battery dekhayeko thiyo, commuting sajilo banayo."
+    },
+    {
+        "id": 171,
+        "english": "She downloaded a fitness app to track her workouts and set goals for improving her health.",
+        "roman_nepali": "Usle fitness app download garera afno workouts track garna ra health improve garna goals set garayo."
+    },
+    {
+        "id": 172,
+        "english": "The developer worked late into the night, debugging the code for the new mobile app launch.",
+        "roman_nepali": "Developer raat bhar kaam garera, naya mobile app launch ko lagi code debug gariraheko thiyo."
+    },
+    {
+        "id": 173,
+        "english": "They ordered groceries online, choosing from a wide variety of fresh produce and packaged goods.",
+        "roman_nepali": "Uniharu le online grocery order garera, taja phal, sabji ra packaged goods haru chhanyo."
+    },
+    {
+        "id": 174,
+        "english": "He was excited to try the new virtual reality game, hoping it would immerse him in an entirely different world.",
+        "roman_nepali": "Usle naya virtual reality game try garne kura garera khusi bhaeko thiyo, uslai pura nai arko duniya ma lagdai."
+    },
+    {
+        "id": 175,
+        "english": "She customized her smartphone with unique wallpapers and widgets, giving it a personal touch.",
+        "roman_nepali": "Usle afno smartphone lai aneka wallpapers ra widgets haru le customize garera afno personal touch diyeko thiyo."
+    },
+    {
+        "id": 176,
+        "english": "The online marketplace saw a surge in sales as people started buying products for the upcoming holiday season.",
+        "roman_nepali": "Online marketplace ma sales ma badhat aayo, jaba manche haru aune holiday season ko lagi products kinna suru gare."
+    },
+    {
+        "id": 177,
+        "english": "The tech company launched a new smartwatch that could monitor health metrics and sync with your phone.",
+        "roman_nepali": "Tech company le naya smartwatch launch garayo, jasle health metrics monitor garna ra phone sanga sync garna sakcha."
+    },
+    {
+        "id": 178,
+        "english": "He followed the tutorial to build a website from scratch, learning how to code along the way.",
+        "roman_nepali": "Usle tutorial herera website banayo, code kasari garne sikda sika garera."
+    },
+    {
+        "id": 179,
+        "english": "She streamed her favorite video game on Twitch, interacting with viewers and answering questions live.",
+        "roman_nepali": "Usle afno manparcha video game Twitch ma stream garyo, viewers sanga interact garera live prasna ko jawab diyeko."
+    },
+    {
+        "id": 180,
+        "english": "They went to a café with free Wi-Fi to finish their work, enjoying a coffee while working on their laptops.",
+        "roman_nepali": "Uniharu free Wi-Fi thahaeko café ma gaera kaam sakayara, laptop ma kaam gardai coffee ko maja liyo."
+    },
+    {
+        "id": 181,
+        "english": "The students participated in an online competition, testing their knowledge in various subjects.",
+        "roman_nepali": "Students haru online competition ma bhag lagayo, alag-alag subject ma apno knowledge test garne."
+    },
+    {
+        "id": 182,
+        "english": "He set up a home theater system with surround sound and a projector, creating a mini cinema in his living room.",
+        "roman_nepali": "Usle ghar ma surround sound ra projector sanga home theater setup garera, living room ma mini cinema banayo."
+    },
+    {
+        "id": 183,
+        "english": "They used a food delivery app to order lunch at the office, choosing from a variety of local restaurants.",
+        "roman_nepali": "Uniharu le office ma lunch order garna food delivery app use garera, local restaurants bata choose garera."
+    },
+    {
+        "id": 184,
+        "english": "She was able to connect with friends across the globe using video calls, staying in touch despite the distance.",
+        "roman_nepali": "Usle video call use garera duniya bhar ka saathiharu sanga connect garna sakyo, doori ko baare ma chinta nagari."
+    },
+    {
+        "id": 185,
+        "english": "The city was lit up with colorful lights for the festival, and the streets were filled with people celebrating.",
+        "roman_nepali": "Sahar parba ko lagi rangeen light le sajiyeko thiyo, ra gali haru manche haru le celebrate garera bharincha."
+    },
+    {
+        "id": 186,
+        "english": "They used an online map to navigate their way through the city, avoiding traffic and finding the quickest route.",
+        "roman_nepali": "Uniharu le online map use garera sahar ma ghumda, traffic bachauda ra sabai bhanda chhito route khojda."
+    },
+    {
+        "id": 187,
+        "english": "The young entrepreneur started an e-commerce website, selling handmade products to customers worldwide.",
+        "roman_nepali": "Naya entrepreneur le e-commerce website suru garera, handmade products worldwide customers lai bechne."
+    },
+    {
+        "id": 188,
+        "english": "He spent hours researching the best gadgets for home automation, looking for deals and discounts online.",
+        "roman_nepali": "Usle ghanta ghanta ghar ko automation ko lagi best gadgets research garera, online deals ra discounts khojda."
+    },
+    {
+        "id": 189,
+        "english": "She created a blog to share her travel experiences and tips, inspiring others to explore new places.",
+        "roman_nepali": "Usle afno travel anubhav ra tips share garna blog banayo, arulai naya thau haru explore garna inspire garne."
+    },
+    {
+        "id": 190,
+        "english": "They attended a workshop on digital photography, learning how to edit and enhance their pictures using advanced software.",
+        "roman_nepali": "Uniharu digital photography ma workshop attend garera, advanced software use garera photo edit ra enhance garne sika."
+    }
+]

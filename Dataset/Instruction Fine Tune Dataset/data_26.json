@@ -1,0 +1,886 @@
+[
+    {
+        "source": "ke gardai chhau?",
+        "target": "What are you doing?"
+    },
+    {
+        "source": "khana khayau?",
+        "target": "Did you eat?"
+    },
+    {
+        "source": "aba ke garne?",
+        "target": "What to do now?"
+    },
+    {
+        "source": "malai thaha chaina",
+        "target": "I don't know."
+    },
+    {
+        "source": "timi kasto chau?",
+        "target": "How are you?"
+    },
+    {
+        "source": "yo ta ramailo cha!",
+        "target": "This is fun!"
+    },
+    {
+        "source": "ghumna jaane ho?",
+        "target": "Shall we go for a trip?"
+    },
+    {
+        "source": "kaile aaune?",
+        "target": "When will you come?"
+    },
+    {
+        "source": "samaya nai chaina",
+        "target": "There's no time."
+    },
+    {
+        "source": "ho ni, thik cha",
+        "target": "Yeah, it's fine."
+    },
+    {
+        "source": "mero phone kaha cha?",
+        "target": "Where's my phone?"
+    },
+    {
+        "source": "maile socheko thiyena",
+        "target": "I didn't expect that."
+    },
+    {
+        "source": "dherai raamro cha",
+        "target": "It's very good."
+    },
+    {
+        "source": "malai ali ali bhok lagyo",
+        "target": "I'm a little hungry."
+    },
+    {
+        "source": "chaiya khanu cha?",
+        "target": "Do you want tea?"
+    },
+    {
+        "source": "k garna man lagyo?",
+        "target": "What do you feel like doing?"
+    },
+    {
+        "source": "kaam sakyo?",
+        "target": "Is your work done?"
+    },
+    {
+        "source": "aaja dherai thakai lagyo",
+        "target": "I'm very tired today."
+    },
+    {
+        "source": "ta kaha jadai chhas?",
+        "target": "Where are you going?"
+    },
+    {
+        "source": "paisa kati cha?",
+        "target": "How much money do you have?"
+    },
+    {
+        "source": "chitto gar na!",
+        "target": "Hurry up!"
+    },
+    {
+        "source": "ramailo huncha jasto lagcha",
+        "target": "I think it'll be fun."
+    },
+    {
+        "source": "kati derai bolne ho?",
+        "target": "Why do you talk so much?"
+    },
+    {
+        "source": "malai birsiyou?",
+        "target": "Did you forget me?"
+    },
+    {
+        "source": "phone garera sodh na",
+        "target": "Call and ask."
+    },
+    {
+        "source": "timi kaha thiyou?",
+        "target": "Where were you?"
+    },
+    {
+        "source": "malai sutnu parcha",
+        "target": "I need to sleep."
+    },
+    {
+        "source": "kina ta yesto bolchas?",
+        "target": "Why do you talk like that?"
+    },
+    {
+        "source": "yo ta asadhai ramro cha",
+        "target": "This is exceptionally good."
+    },
+    {
+        "source": "aaja bistarai jaanu",
+        "target": "Go slowly today."
+    },
+    {
+        "source": "kaile pugchau?",
+        "target": "When will you arrive?"
+    },
+    {
+        "source": "kati ramailo ta!",
+        "target": "So much fun!"
+    },
+    {
+        "source": "kina parkhira chau?",
+        "target": "Why are you waiting?"
+    },
+    {
+        "source": "mero lagi pani lyaidincha?",
+        "target": "Can you bring one for me too?"
+    },
+    {
+        "source": "kati paisa kharcha bhayo?",
+        "target": "How much money was spent?"
+    },
+    {
+        "source": "yo kaha bata kinchau?",
+        "target": "Where do you buy this from?"
+    },
+    {
+        "source": "bhok lagi sakyo aba",
+        "target": "I'm already hungry now."
+    },
+    {
+        "source": "hijo ta dherai jamma bhayo",
+        "target": "Yesterday was very crowded."
+    },
+    {
+        "source": "arko patak sangai jaanchhau",
+        "target": "We'll go together next time."
+    },
+    {
+        "source": "kina yesto garne?",
+        "target": "Why do it like this?"
+    },
+    {
+        "source": "yo ta asadhai mahango cha",
+        "target": "This is extremely expensive."
+    },
+    {
+        "source": "aaja ni kaam cha?",
+        "target": "Do you have work today too?"
+    },
+    {
+        "source": "dherai ramailo bhayo",
+        "target": "It was so much fun."
+    },
+    {
+        "source": "malai padhnu cha",
+        "target": "I need to study."
+    },
+    {
+        "source": "yo ho ki arko?",
+        "target": "Is this it or the other one?"
+    },
+    {
+        "source": "aaja ta dherai garmi cha",
+        "target": "It's very hot today."
+    },
+    {
+        "source": "bhanchha ma k gariraheko thiyo?",
+        "target": "What were you doing in the kitchen?"
+    },
+    {
+        "source": "yo kura chai malai manparcha",
+        "target": "I like this thing."
+    },
+    {
+        "source": "aba samay ta bhancha ho ni!",
+        "target": "Now it's about time, isn't it!"
+    },
+    {
+        "source": "kina tension linchau?",
+        "target": "Why do you stress out?"
+    },
+    {
+        "source": "mela gayera ramailo gareko thiyou?",
+        "target": "Did you have fun at the fair?"
+    },
+    {
+        "source": "malai ali ali thakai lagcha",
+        "target": "I'm feeling a little tired."
+    },
+    {
+        "source": "timi kati ramro dekhiraheko chau aaja!",
+        "target": "You look so good today!"
+    },
+    {
+        "source": "uslai sodhnu parcha hola",
+        "target": "You might need to ask them."
+    },
+    {
+        "source": "kasto chito bitera gayo din!",
+        "target": "The day went by so quickly!"
+    },
+    {
+        "source": "hamro kaam kaha pugyo?",
+        "target": "Where has our work reached?"
+    },
+    {
+        "source": "kina ta dhilo garna man lagcha?",
+        "target": "Why do you feel like delaying?"
+    },
+    {
+        "source": "yo ta mero favorite ho",
+        "target": "This is my favorite."
+    },
+    {
+        "source": "kehi khabar cha?",
+        "target": "Any updates?"
+    },
+    {
+        "source": "kati jana jane plan cha?",
+        "target": "How many people are planning to go?"
+    },
+    {
+        "source": "maile ta soche pani chaina",
+        "target": "I didn't even think about it."
+    },
+    {
+        "source": "hawa lagiraheko cha",
+        "target": "It's breezy."
+    },
+    {
+        "source": "gharma ta kunai kura cha jasto lagdaina",
+        "target": "It doesn't seem like there's anything at home."
+    },
+    {
+        "source": "phone ma message patha na",
+        "target": "Send me a message on the phone."
+    },
+    {
+        "source": "kina dherai nachhas?",
+        "target": "Why do you dance so much?"
+    },
+    {
+        "source": "aba ta hamro ta thik huncha jasto lagcha",
+        "target": "I think we'll be fine now."
+    },
+    {
+        "source": "aba aba bhat khana jaam hai",
+        "target": "Let's go eat rice now."
+    },
+    {
+        "source": "kati deri ghumnu cha?",
+        "target": "How much longer do you want to roam?"
+    },
+    {
+        "source": "malai chai help garna parcha",
+        "target": "I need to help out."
+    },
+    {
+        "source": "padhai ta aba thik cha?",
+        "target": "Is your study going well now?"
+    },
+    {
+        "source": "usko kura dherai ramailo cha",
+        "target": "Their talk is very interesting."
+    },
+    {
+        "source": "yesto jado ma kaha janey?",
+        "target": "Where to go in this cold?"
+    },
+    {
+        "source": "kina ta phone ma aawaj chaina?",
+        "target": "Why isn't there sound on your phone?"
+    },
+    {
+        "source": "aaja ta ekdam mitho khana bhayo",
+        "target": "Today's food was really delicious."
+    },
+    {
+        "source": "kaam ta ekdam bhari cha aba",
+        "target": "Work is extremely busy now."
+    },
+    {
+        "source": "bholi kaam free huncha?",
+        "target": "Will you be free tomorrow?"
+    },
+    {
+        "source": "hijo ke bhayo ta?",
+        "target": "What happened yesterday?"
+    },
+    {
+        "source": "sita kaha ho?",
+        "target": "Where is Sita?"
+    },
+    {
+        "source": "ramro jasto cha hai",
+        "target": "It seems good."
+    },
+    {
+        "source": "malai chai coffee nai manparcha",
+        "target": "I like coffee the most."
+    },
+    {
+        "source": "kina mero kura sunna sakdaina?",
+        "target": "Why can't you listen to me?"
+    },
+    {
+        "source": "kina dhilo pugis?",
+        "target": "Why did you arrive late?"
+    },
+    {
+        "source": "aaja ta abasar nai abasar cha!",
+        "target": "Today is an opportunity in itself!"
+    },
+    {
+        "source": "kehi yo samasya halne upaya cha?",
+        "target": "Is there any solution to this problem?"
+    },
+    {
+        "source": "kina ho ta har samay yasto?",
+        "target": "Why is it like this every time?"
+    },
+    {
+        "source": "arko din plan banau hai",
+        "target": "Make plans for the next day, okay?"
+    },
+    {
+        "source": "aaja school ma kehi special program thiyo. sabaile dherai ramailo gare. malai ta presentation garna alik garho lagyo, tara thik bhayo ani sabai le taali diye.",
+        "target": "There was a special program at school today. Everyone had a lot of fun. I found it a bit hard to give the presentation, but it went well, and everyone clapped."
+    },
+    {
+        "source": "timi kahile aune bhaneko thiyou? ma ta dherai parkhera thake. aba chai ta mero lagi pheri aau hai.",
+        "target": "When did you say you would come? I got tired of waiting so long. Next time, make sure to come for me again, okay?"
+    },
+    {
+        "source": "hijo raat ta ekdam ramailo thiyo. sabai jana sangai basera khel kheleko. aba chai ta yasto mazza ko time kati bela aaucha jasto lagdaina.",
+        "target": "Last night was so much fun. Everyone sat together and played games. I feel like such enjoyable times won't come again soon."
+    },
+    {
+        "source": "malai lagcha aba padhai ma dherai dhyan dinu parcha. exam audaicha ani dherai course baaki cha. aba chai arka kura ma time waste garna milcha jasto lagdaina.",
+        "target": "I feel like I need to focus more on my studies now. Exams are approaching, and there's a lot of syllabus left. I don't think I can afford to waste time on other things now."
+    },
+    {
+        "source": "hamro tyo trip ta ekdam mazza ko thiyo. pahila hike garera thakai lagyo, tara pachi hotel pugda dherai relax bhaisakyo. sabai le khaana ramailo sanga khaye, ani music ma dance pani garna thalyo.",
+        "target": "That trip of ours was so much fun. At first, we got tired from the hike, but once we reached the hotel, we felt very relaxed. Everyone ate together joyfully and then started dancing to the music."
+    },
+    {
+        "source": "kino ta timro mood dherai off jasto cha? kehi tension cha ki? malai bhan na, sadhai jasari kura garihalcha ta.",
+        "target": "Why do you seem so off today? Is something bothering you? Tell me, like you always do."
+    },
+    {
+        "source": "mero birthday ma yo patak chai ekdam unexpected surprise bhayo. sabai sathiharu aaye ra ekdam thulo party rakheko rahecha. malai ta birsiyou jasto lagcha bhanera sochda surprise thiyo.",
+        "target": "This time, my birthday was full of unexpected surprises. All my friends came and threw such a big party. When I thought they had forgotten me, it turned out to be a surprise."
+    },
+    {
+        "source": "yo semester ta ekdam garho lagyo. assignments haru timely submit garnu parcha ani classes pani miss garna mildaina. tara aba feri yesto busy time ma ramailo garna man lagcha.",
+        "target": "This semester felt really tough. Assignments had to be submitted on time, and classes couldn't be missed. But now I feel like enjoying myself in this busy time."
+    },
+    {
+        "source": "hijo hamro gharma ta guest aayeko thiyo. mummy le ekdam mitho khaana banako rahecha. sabai le khayera ta ramailo kura garna thale, aba chai mero room cleaning garna parcha.",
+        "target": "We had guests at our house yesterday. Mom had cooked really delicious food. After everyone ate, they started chatting happily. Now I need to clean my room."
+    },
+    {
+        "source": "kaile kaile ta aba chai afno kaam ma alik santosh lagcha. tara jhan ekdam perfect banauna man lagcha, ani hamro team ko sath pani dherai mazza lagcha.",
+        "target": "Sometimes I feel satisfied with my work. But I also want to make it even more perfect, and I really enjoy working with our team."
+    },
+    {
+        "source": "kino ta aba dherai confuse jasto lagcha? aajako presentation chai clear bhayo ki ta pheri presentation practice garna parcha?",
+        "target": "Why do you seem so confused now? Was today's presentation clear, or do we need to practice the presentation again?"
+    },
+    {
+        "source": "maile ta sochdai sochaina ki yasto hunecha. aba ta yesto ramailo bhanda ni dherai ramailo samaya jhati bela aaucha ra aaja ko din kasari bishwas garna.",
+        "target": "I never thought it would turn out this way. I can't even believe such a fun time happened, let alone a day like today."
+    },
+    {
+        "source": "malai ta ali ali asar pareko jasto lagcha aaja. aba bholi thik huncha ki ta thap rest garna parcha, herna parcha.",
+        "target": "I feel like I'm slightly affected today. I'll see if I get better tomorrow or if I need more rest."
+    },
+    {
+        "source": "aaja ta sabai dherai excited thiyou. tyo program ma sabai ko performance ta ekdam ramro bhayo ra abha award ko lagi pani dherai curiously parkheko.",
+        "target": "Everyone was very excited today. All the performances at the program were really good, and we were waiting very curiously for the awards."
+    },
+    {
+        "source": "hijo ta ekdam thakaithiyo. dherai kaam sakera ghara pugda chai kehi garna man lagena. aba chai ek din full rest lina parcha.",
+        "target": "Yesterday was so exhausting. After finishing so much work and getting home, I didn’t feel like doing anything. I think I need a full day of rest now."
+    },
+    {
+        "source": "hijo ta traffic ma jhan dherai time bitayo. kaile ghar pugcha bhanera sochda sochda ta dinai bitne jasto lagyo. aba ta office bata time ma niskinu parcha jasto cha.",
+        "target": "Yesterday, I spent so much time in traffic. I felt like the whole day would pass just waiting to get home. I think I'll need to leave the office on time from now on."
+    },
+    {
+        "source": "aaja ta aba hiking ko plan discuss garna thalnu parcha. ko ko janecha ani kati time lagi pugne, sabai kura thik cha ki bhanera confirm garna parcha.",
+        "target": "We need to start discussing the hiking plan today. Who's going, how long it will take to reach, and whether everything is set—all of this needs to be confirmed."
+    },
+    {
+        "source": "yo tyo purano restaurant jasto ramro cha ki chaina, aba herne bela cha. maile ta ali simple order gare, timro dish chai ekdam fancy dekhincha.",
+        "target": "Is this place as good as that old restaurant? We'll find out now. I ordered something simple, but your dish looks really fancy."
+    },
+    {
+        "source": "hijo hamro group meeting ekdam productive lagyo. sabai jana le ramro idea share gare ra aba yo project ma kasari progress garne bhanera clear plan banayo.",
+        "target": "Yesterday's group meeting felt very productive. Everyone shared great ideas, and now we have a clear plan on how to make progress with the project."
+    },
+    {
+        "source": "kina ta mero phone nai ring garena? ma ta expect gardai thiye ki timro message aaucha. aba ta email pathaula bhanera herda ta tyo ni chaina.",
+        "target": "Why didn't my phone ring? I was expecting a message from you. Then I checked, thinking you might have sent an email, but there was nothing there either."
+    },
+    {
+        "source": "yo cycle chalnu chai ekdam fun lagyo. pahila ta ali garho jasto lagyo, tara aba chai ramailo huncha jasto lagcha. aba chai bholi pheri try garna man lagcha.",
+        "target": "Riding this cycle was really fun. At first, it felt a bit difficult, but now I think it's going to be enjoyable. I want to try it again tomorrow."
+    },
+    {
+        "source": "ke timi bhanda ramailo manche arko cha? tyo joke sunera ta ma ta hasaera faint nai hune jasto bhae. aba chai aru jokes pani share gar hai.",
+        "target": "Is there anyone more fun than you? Listening to that joke, I almost fainted from laughing. Now share more jokes, okay?"
+    },
+    {
+        "source": "padhai ko kura garne ho bhanera sochi raheko thiye. tara ajkal ta sabai distractions le time khadai cha. aba ta schedule thik banayera padhnu parcha.",
+        "target": "I was thinking of talking about studies. But these days, distractions are eating up all the time. Now I really need to make a proper schedule and study."
+    },
+    {
+        "source": "timi kahile dekheko thiyou mero childhood photos? ma ta ekdam curious chu, kina bhane mero purano style ta ali funny lagcha.",
+        "target": "When did you see my childhood photos? I'm really curious because my old style seems kind of funny to me."
+    },
+    {
+        "source": "maile ta aaja sathiharu sanga dherai ramailo gare. pahila ta football khele, ani cafe ma gayera coffee sanga jokes share garera time bitayo.",
+        "target": "I had a lot of fun with my friends today. First, we played football, and then we went to a café, had coffee, and shared jokes to pass the time."
+    },
+    {
+        "source": "kina ta computer slow cha aaja? maile ta file download garna try gare, tara dherai bela samma kaam garna mildaina jasto cha.",
+        "target": "Why is the computer so slow today? I tried downloading a file, but it feels like I won't be able to get much work done for a long time."
+    },
+    {
+        "source": "mero bichar ma ta aba kehi badi savings garna suru garna parcha. aba agadi ta dherai expenses aune jasto lagcha, ani planning sabai thik huncha bhanera bishwas cha.",
+        "target": "I think I need to start saving more now. It seems like there will be a lot of expenses ahead, but I believe everything will work out with proper planning."
+    },
+    {
+        "source": "timi sangai ghumna ta ekdam fun huncha. maile ta ajkal heraera place suggestions ko list banako chu, aba ta sangai plan banau hai.",
+        "target": "Going out with you is so much fun. I've recently made a list of suggested places, so now let's plan together, okay?"
+    },
+    {
+        "source": "aaja maile mero gym routine change gare. pahila ta light exercise thiyo, aba chai ekdam heavy workout start gareko chu, ani dherai fresh feel hunchha.",
+        "target": "Today, I changed my gym routine. It used to be light exercises before, but now I've started doing heavy workouts, and I feel really refreshed."
+    },
+    {
+        "source": "kino ta aba sabai friends busy bhae? maile ta aaja group chat ma message patha, tara ekdam late reply ayo. sabai ko schedule different bhaera hola.",
+        "target": "Why is everyone so busy these days? I sent a message to the group chat today, but the replies came really late. Maybe everyone's schedules are different."
+    },
+    {
+        "source": "yo new café try garna man lagcha. online ma reviews ta ramro cha bhaneko dekheko, aba chai hamro experience ramro huncha ki ta herum.",
+        "target": "I feel like trying this new café. I saw online that it has good reviews, so let's see if we have a good experience."
+    },
+    {
+        "source": "maile ta bike ride ekdam enjoy gare. pahilo patak ta ali nervous bhae, tara aba chai ramailo lagcha. aba ta aru places ma ride jane plan cha.",
+        "target": "I really enjoyed the bike ride. At first, I was a bit nervous, but now it feels exciting. I'm planning to ride to other places now."
+    },
+    {
+        "source": "aaja maile ekdam thulo mistake gare jasto lagcha. maile ta sochi rakheko thiyo ki sabai thik cha, tara aba ta afno judgement ma doubt huna thalyo.",
+        "target": "I feel like I made a big mistake today. I thought everything was fine, but now I'm starting to doubt my own judgment."
+    },
+    {
+        "source": "kaile kaile ta yo season ma dherai boring lagcha. baira pani dherai jado cha, ani ghar ma basda chai kehi productive garna man lagdaina.",
+        "target": "Sometimes, this season feels very boring. It's very cold outside, and staying at home doesn't make me feel like doing anything productive."
+    },
+    {
+        "source": "aaja hamro family gathering ekdam ramailo thiyo. sabai jana sanga basera pura purana stories sunera ta ekdam nostalgic feel hune bhayo.",
+        "target": "Today's family gathering was so enjoyable. Sitting together and listening to old stories made me feel so nostalgic."
+    },
+    {
+        "source": "hijo ko din ta ekdam hectic thiyo. office ma kaam ko pressure dherai thiyo, aba ta ghar ma pugera relax hunu parcha bhanera socheko, tara kitchen ma ekdam jhanjhat bhayo.",
+        "target": "Yesterday was such a hectic day. There was so much pressure at the office, and I thought I could relax after reaching home, but the kitchen was a mess."
+    },
+    {
+        "source": "timi ta euta talented person chau. tyo artwork maile herera ta ekdam impressed bhae. aba chai timro karya ekdam professional level ko huncha jasto lagcha.",
+        "target": "You're such a talented person. I was really impressed after seeing that artwork. I feel like your work will reach a very professional level now."
+    },
+    {
+        "source": "kina ta aaja school ko function ma tension liya? sabai ta confident dekhi rahe thiyou, ani timro speech ta ekdam ramro lagyo.",
+        "target": "Why were you so stressed at the school function today? You looked so confident, and your speech was really good."
+    },
+    {
+        "source": "yo week ta pura busy thiyo. maile ekdam dherai kaam manage garna parcha bhanera sochi raheko thiye. aba chai bholi ekdin ramailo time lincha bhanera plan banako.",
+        "target": "This week was completely busy. I kept thinking about how I had to manage so much work. Now I've planned to take a fun day tomorrow."
+    },
+    {
+        "source": "aaja shopping mall ma dherai crowded thiyo. tyo offer ko lagi sabaile line lagya jasto lagyo. aba ta online shopping nai ramro ho jasto cha.",
+        "target": "The mall was so crowded today. It seemed like everyone was lining up for that offer. I feel like online shopping is better now."
+    },
+    {
+        "source": "yo movie ekdam ramro thiyo. story line ta interesting thiyo, tara last part ma chai ali confuse garne twist rakhya jasto lagcha.",
+        "target": "This movie was really good. The storyline was interesting, but the last part had a twist that felt a bit confusing."
+    },
+    {
+        "source": "kina ta aba sabai jana ko timing mismatch bhae jasto lagcha? padhai ko routine ta ekdam tight cha, tara friends sanga ta bhetne time pani milcha jasto lagdaina.",
+        "target": "Why does it feel like everyone's timing is mismatched now? My study routine is really tight, and I feel like I won't even get time to meet friends."
+    },
+    {
+        "source": "bholi ta hiking ko lagi sabai ready cha. malai chai bag pack garna alik tension lagiraheko cha, kina bhane ekdam dherai items rakhnu parcha.",
+        "target": "Everything is ready for tomorrow's hike. I'm a bit stressed about packing my bag because there are so many items to take."
+    },
+    {
+        "source": "maile ta tyo recipe ekdam carefully follow gare. aba chai khaana sabai le enjoy garne ho ki bhanera curious lagiraheko cha.",
+        "target": "I followed that recipe very carefully. Now I'm curious if everyone will enjoy the food."
+    },
+    {
+        "source": "aaja meeting ma ekdam productive ideas aaye. presentation pani clear thiyo, ani aba chai hamro next step ma kaam suru garna thalna parcha.",
+        "target": "Today's meeting brought a lot of productive ideas. The presentation was clear too, and now we need to start working on the next steps."
+    },
+    {
+        "source": "timi sanga ghumna ekdam ramailo lagcha. hamro photo shoot pani mazza ko thiyo, ani aba chai insta ma post garne bela aayo.",
+        "target": "Hanging out with you is so much fun. Our photoshoot was great too, and now it's time to post it on Instagram."
+    },
+    {
+        "source": "hijo ta ma dherai late sutchu bhanera ramailo movie herna suru gare. tara aba ta subha office ko timing manage garna parcha, bistarai pura movie herchu bhaneko chu.",
+        "target": "Last night, I started watching a fun movie, thinking I'd sleep late. But now I need to manage my morning office timings, so I'll watch the rest gradually."
+    },
+    {
+        "source": "yo event organize garna ekdam mehnat lagyo. sabai le support gare, tara aba feedback collection garna important cha ki aba future ma arko event improve garna.",
+        "target": "Organizing this event took a lot of effort. Everyone supported it, but now collecting feedback is important to improve the next event in the future."
+    },
+    {
+        "source": "padhai ta maile prioritize gareko thiye. tara ajkal distractions dherai bhae jasto lagcha. aba chai complete focus le kaam garna parcha bhanera schedule set gareko chu.",
+        "target": "I had prioritized my studies. But these days, it feels like there are too many distractions. Now I've set a schedule to work with complete focus."
+    },
+    {
+        "source": "kino ta yo weather dherai unpredictable lagcha? maile ta umbrella lagera niskeko thiyen, tara aba ta ekdam dhoop nikalyo.",
+        "target": "Why does this weather feel so unpredictable? I left home with an umbrella, but now it's so sunny."
+    },
+    {
+        "source": "hamro team meeting ma ekdam positive vibes thiyo. sabai le creative ideas share gare, ani aba chai yo project ekdam smoothly complete huncha jasto lagcha.",
+        "target": "Our team meeting had really positive vibes. Everyone shared creative ideas, and now I feel like this project will be completed very smoothly."
+    },
+    {
+        "source": "malai ta hiking ekdam ramailo lagcha. aba chai timi sangai aru places explore garna man lagcha, kina ki group ma ta energy dherai mazza ko huncha.",
+        "target": "I find hiking very enjoyable. Now I want to explore other places with you because being in a group makes the energy so much fun."
+    },
+    {
+        "source": "aaja maile tyo task complete garna pura dedication rakhe. pura plan follow gare, ani result pani expected jasari ramro aayo.",
+        "target": "Today, I dedicated myself fully to completing that task. I followed the entire plan, and the result turned out as good as expected."
+    },
+    {
+        "source": "kino ta aba sabai jana thakai lage jasto lagcha? maile ta dinner plan suggest gare, tara timro response ekdam low jasto thiyo.",
+        "target": "Why does it feel like everyone is so tired now? I suggested a dinner plan, but your response seemed very low."
+    },
+    {
+        "source": "yo semester ma ekdam dherai kaam cha. assignments ta ek pachi arko aaudai cha, aba chai time manage garna ekdam ramro habit develop garna parcha.",
+        "target": "This semester has so much work. Assignments keep coming one after another, and now I really need to develop good time management habits."
+    },
+    {
+        "source": "hijo ko din ta ekdam interesting thiyo. maile ekdam purano school friend sanga bhetne chance paye. kati memories flashback ma aaye jasto lagyo.",
+        "target": "Yesterday was such an interesting day. I got the chance to meet an old school friend. It felt like so many memories came back in a flash."
+    },
+    {
+        "source": "aaja maile naya recipe try gareko. yo ekdam challenging lagyo, tara result ekdam ramro aayo. sabai le ta maile professional chef ho jasto bhanda.",
+        "target": "I tried a new recipe today. It felt quite challenging, but the result turned out amazing. Everyone said it looked like I was a professional chef."
+    },
+    {
+        "source": "kina ta aba public transport ma dherai time lagcha jasto lagcha? maile ta pahila 30 minute ma pugne bhaneko thiyo, aba ta ek ghanta lagcha.",
+        "target": "Why does it feel like public transport takes so much time these days? It used to take me 30 minutes before, but now it takes an hour."
+    },
+    {
+        "source": "yo baar ta hiking ma sabai unexpected cheez dekhe. ekdam sundar waterfalls thiyo, ani forest ko vibes pani peaceful lagyo.",
+        "target": "This time during the hike, I saw so many unexpected things. There was a beautiful waterfall, and the forest vibes felt so peaceful."
+    },
+    {
+        "source": "yo season ma chai festivals ko vibes dherai ramailo huncha. malai ta afno relatives sanga gayera celebrations garna ekdam fun lagcha.",
+        "target": "This season has such festive vibes. I really enjoy visiting my relatives and celebrating together."
+    },
+    {
+        "source": "kina aba sabai friends busy huncha jasto lagcha? maile group hangout plan gareko thiyo, tara timiharu ko time milna ekdam difficult bhaecha.",
+        "target": "Why does it feel like all my friends are so busy these days? I had planned a group hangout, but it's been so difficult to match your schedules."
+    },
+    {
+        "source": "maile ta bholi ko exam ko lagi ekdam hard study gareko chu. aba chai relaxation ko lagi ali TV herna parcha jasto lagcha.",
+        "target": "I've studied really hard for tomorrow's exam. Now I feel like I need to watch some TV to relax."
+    },
+    {
+        "source": "aaja ko weather ta ekdam ramailo lagcha. haina timi chai k garna sochiraheko cha? aba ta baira gayera ramailo garna plan gara hai.",
+        "target": "Today's weather feels so nice. What are you planning to do? Let's plan something fun outside now."
+    },
+    {
+        "source": "yo project ekdam challenging lagcha. malai chai pahila kasari complete garne bhanera thaha thiyena, tara aba chai teamwork le sabai easy banayo.",
+        "target": "This project feels really challenging. I had no idea how to complete it at first, but teamwork has made everything easier."
+    },
+    {
+        "source": "timi ta ekdam support garne manche chau. maile jati difficult phase ma bhaye ni timro help le ekdam motivate huncha.",
+        "target": "You are such a supportive person. No matter how difficult my phase is, your help really motivates me."
+    },
+    {
+        "source": "kino ta aba subha breakfast ko importance feel huna thalyo? pahila ta ma ignore garthye, tara aba energy ekdam difference huncha jasto lagcha.",
+        "target": "Why do I feel the importance of breakfast now? I used to ignore it before, but now it feels like there's a big difference in energy levels."
+    },
+    {
+        "source": "aaja ko match ekdam intense thiyo. maile chai pura game herne time payen, ani hamro team ko performance pani ramro lagyo.",
+        "target": "Today's match was so intense. I managed to watch the entire game, and our team's performance was really good."
+    },
+    {
+        "source": "bholi ko trip ko excitement ta ekdam high cha. maile ta packing almost complete gare, ani aba chai departure time ko wait matra cha.",
+        "target": "The excitement for tomorrow's trip is so high. I've almost completed packing, and now I'm just waiting for the departure time."
+    },
+    {
+        "source": "hijo ko rain ta ekdam heavy thiyo. ma ta ghar ma basera chai ekdam peaceful feel gare. chai pani sanga coffee le ta mood relax hune.",
+        "target": "Yesterday's rain was so heavy. I stayed home and felt so peaceful. Rain and coffee really helped me relax."
+    },
+    {
+        "source": "yo weekend ta maile kehi different garne sochi raheko chu. aba chai nature ma gayera thoda fresh air enjoy garna man lagcha.",
+        "target": "This weekend, I'm thinking of doing something different. I feel like going out into nature and enjoying some fresh air."
+    },
+    {
+        "source": "yo saal ta ekdam memories create hune jasto lagcha. sabai new experiences ko lagi ready hunu parcha, ani aba chai positivity le aagadi badhne bela cha.",
+        "target": "This year feels like it will be full of memories. We have to be ready for new experiences, and now it's time to move forward with positivity."
+    },
+    {
+        "source": "aaja maile ekdam inspirational book padhna suru gare. aba chai productive thoughts le pura routine ramro huncha jasto feel huna thalyo.",
+        "target": "I started reading a very inspirational book today. Now I feel like productive thoughts will make my whole routine better."
+    },
+    {
+        "source": "yo art gallery ko visit ekdam meaningful lagyo. ma ta creative energy ko feel garna thale, ani aba chai afno artwork ma kasari improve garne bhanera socheko chu.",
+        "target": "Visiting this art gallery felt so meaningful. I started feeling creative energy, and now I'm thinking about how to improve my own artwork."
+    },
+    {
+        "source": "kina ta travelling ko vibes aba interesting lagcha? pahila ta ma hesitant thiyen, tara aba chai destinations ko list banauna man lagcha.",
+        "target": "Why does traveling feel so interesting now? I used to be hesitant, but now I feel like making a list of destinations."
+    },
+    {
+        "source": "yo year ma ta ekdam dherai changes dekhnu parcha. afno life goals achieve garna ko lagi aba chai determination le kaam suru garna parcha.",
+        "target": "This year, I need to see a lot of changes. To achieve my life goals, I need to start working with determination."
+    },
+    {
+        "source": "maile ta aba healthy lifestyle ko lagi thulo decision liye. aba ta morning walk, balanced diet, ani daily exercise suru garna parcha. yo time ekdam serious huney bela cha.",
+        "target": "I've made a big decision for a healthy lifestyle. Now I need to start morning walks, a balanced diet, and daily exercise. It's time to get really serious."
+    },
+    {
+        "source": "kina ta ekdam sasto deal herda maile online shopping gare. tara aba chai product aayera ramro quality hune ho ki bhanera tension lagiraheko cha.",
+        "target": "I shopped online after seeing a really cheap deal. But now I'm worried if the product will be of good quality when it arrives."
+    },
+    {
+        "source": "aaja maile childhood ka memories herda pura emotional feel bhaye. tyo purano photo album le ta ekdam nostalgic feel diyo.",
+        "target": "Today, I felt completely emotional looking at childhood memories. That old photo album made me feel so nostalgic."
+    },
+    {
+        "source": "bholi ko presentation ekdam important cha. maile pura preparation garna time lagako chu, tara aba confidence level build garna focus garnu parcha.",
+        "target": "Tomorrow's presentation is very important. I've spent time preparing for it, but now I need to focus on building my confidence."
+    },
+    {
+        "source": "kina aba tyo series ko last episode ma ekdam suspense rakheko jasto lagcha? maile ta pura binge-watch gare, tara last ma chai ali incomplete feel huna thalyo.",
+        "target": "Why does it feel like the last episode of that series ended with so much suspense? I binge-watched the whole thing, but the ending felt a bit incomplete."
+    },
+    {
+        "source": "aaja ko day off ekdam productive lagyo. maile ghar ka sabai chores complete gare, ani aba chai ekta relaxing movie herera time pass garna plan gareko chu.",
+        "target": "Today's day off felt very productive. I finished all the household chores, and now I've planned to relax and watch a movie."
+    },
+    {
+        "source": "hijo maile ekdam ramailo book padhna suru gare. aba ta storyline ma pura interested bhae jasto lagcha, ani maile chai bholi time nikali sakera finish garna parcha.",
+        "target": "Yesterday, I started reading such an interesting book. Now I'm completely hooked on the storyline, and I need to make time to finish it tomorrow."
+    },
+    {
+        "source": "kina aba yo year ma ekdam unexpected changes bhae jasto lagcha? maile ta pura goals set gare, tara tyo obstacles le thoda challenging banayo.",
+        "target": "Why does it feel like this year brought so many unexpected changes? I set all my goals, but the obstacles made things a bit challenging."
+    },
+    {
+        "source": "yo week ta pura stressful lagyo. ma ta weekend ma ekdam relaxed vibes ko lagi plan garna socheko chu. chai spa day ramro option ho jasto lagcha.",
+        "target": "This week felt completely stressful. I'm thinking of planning something with relaxed vibes this weekend. A spa day seems like a good option."
+    },
+    {
+        "source": "bholi ko family gathering ekdam exciting cha. malai ta relatives ko new stories sunna ani ramailo games ma participate garna man lagcha.",
+        "target": "Tomorrow's family gathering is very exciting. I want to listen to my relatives' new stories and participate in fun games."
+    },
+    {
+        "source": "aaja office ma team bonding activities ekdam fun thiyo. maile chai collaboration ma kasari efficiently kaam garna sakcha bhanera sikhe.",
+        "target": "Today's team bonding activities at the office were so much fun. I learned how we can collaborate efficiently."
+    },
+    {
+        "source": "kina ta aba travel planning ma dherai time lagcha? maile ta pura itinerary ready banaye, tara bookings ma chai thoda confusion bhae jasto cha.",
+        "target": "Why does it take so much time to plan travel these days? I prepared the entire itinerary, but there seems to be some confusion with the bookings."
+    },
+    {
+        "source": "yo saal ma ekdam dherai festivals enjoy garna paye. malai chai sabai cultural vibes ekdam fresh ani energetic feel huncha.",
+        "target": "This year, I got to enjoy so many festivals. All the cultural vibes make me feel so refreshed and energetic."
+    },
+    {
+        "source": "yo assignment complete garna ta pura dedication lagcha. ma ta last minute procrastination garna banda gare, ani aba chai disciplined routine banauna parcha.",
+        "target": "This assignment requires complete dedication. I've stopped last-minute procrastination, and now I need to create a disciplined routine."
+    },
+    {
+        "source": "aaja hiking route ta unexpected thiyo. maile ta ekdam new trail explore gare, ani tyo waterfall ko beauty chai unforgettable thiyo.",
+        "target": "Today's hiking route was unexpected. I explored a completely new trail, and the beauty of that waterfall was unforgettable."
+    },
+    {
+        "source": "yo weekend ma chai maile new recipe try garna sochi raheko chu. aba ta chai sabai kehi ready cha, ani maile feedback le improvement garna parcha.",
+        "target": "This weekend, I'm planning to try a new recipe. Now everything is ready, and I need to take feedback for improvement."
+    },
+    {
+        "source": "bholi ko weather forecast le ta exciting outdoor plans banayo. maile ta ekdam sunny day ko lagi picnic organize garna socheko chu.",
+        "target": "Tomorrow's weather forecast has made me plan exciting outdoor activities. I've thought of organizing a picnic for the sunny day."
+    },
+    {
+        "source": "yo semester ma dherai assignments ko workload thiyo. tara aba finals ko lagi pura concentrate garna parcha bhanera schedule tight banaye.",
+        "target": "This semester had a heavy workload of assignments. But now I've made a tight schedule to concentrate fully on the finals."
+    },
+    {
+        "source": "kina ta maile tyo old movie revisit gare? pura childhood memories fresh huncha, ani tyo simple storyline ta ekdam heartwarming thiyo.",
+        "target": "Why did I revisit that old movie? It brought back all the childhood memories, and the simple storyline was so heartwarming."
+    },
+    {
+        "source": "yo naya hobby explore garna ta ekdam interesting lagcha. aba ta maile regular routine ma include garna socheko chu, kina ki tyo le pura relaxing feel diyo.",
+        "target": "Exploring this new hobby feels so interesting. Now I've thought of including it in my regular routine because it feels so relaxing."
+    },
+    {
+        "source": "aaja ko hiking ta pura unexpected adventure jasto thiyo. maile dherai beautiful sceneries dekhna paye, ani friends sanga chai ekdam ramailo time spend bhayo.",
+        "target": "Today's hike felt like a complete unexpected adventure. I got to see so many beautiful sceneries, and I had a great time with friends."
+    },
+    {
+        "source": "kina aba social media ma dherai time spend gare jasto lagcha? maile ta productive kaam ma focus garnu parcha bhanera decide gare.",
+        "target": "Why does it feel like I spend too much time on social media these days? I’ve decided to focus more on productive work."
+    },
+    {
+        "source": "yo tihar ma chai ekdam special vibes thiyo. maile diyas decorate gare, ani ghar ma festive look le sabai happy feel bhayo.",
+        "target": "This Tihar had such special vibes. I decorated diyas, and the festive look at home made everyone feel happy."
+    },
+    {
+        "source": "maile ta aba healthy eating habits suru garna try gareko chu. junk food lai minimize garera home-cooked meals prioritize garna lagayeko.",
+        "target": "I’m trying to start healthy eating habits now. I’ve begun minimizing junk food and prioritizing home-cooked meals."
+    },
+    {
+        "source": "hijo maile ekdam funny movie herna paye. puro time ta hasna ma gayo, ani mood relax bhayeko jasto lagyo.",
+        "target": "Yesterday, I watched such a funny movie. I spent the whole time laughing, and it felt like my mood completely relaxed."
+    },
+    {
+        "source": "bholi maile naya city explore garna plan gareko chu. itinerary ma chai historical places ani local food taste garna ko lagi add gareko chu.",
+        "target": "Tomorrow, I’ve planned to explore a new city. My itinerary includes visiting historical places and tasting local food."
+    },
+    {
+        "source": "kina ta aaja ko shopping ekdam hectic feel bhayo? maile chai ekdam simple plan banayeko thiyo, tara crowded shops le pura thakaideko.",
+        "target": "Why did today's shopping feel so hectic? I had made a simple plan, but the crowded shops completely exhausted me."
+    },
+    {
+        "source": "aaja maile afno favorite book rere. storyline chai ekdam interesting cha, ani pura imagination le visuals create garna thale.",
+        "target": "Today, I re-read my favorite book. The storyline is so interesting, and it made my imagination create vivid visuals."
+    },
+    {
+        "source": "yo saal ko new year celebration ta ekdam memorable thiyo. fireworks display ekdam ramro lagyo, ani sabai sanga ramailo garna paye.",
+        "target": "This year’s New Year celebration was so memorable. The fireworks display was amazing, and I got to have fun with everyone."
+    },
+    {
+        "source": "aaja ko workout routine ekdam challenging thiyo. maile chai first time strength training try gare, tara post-workout feeling chai ekdam satisfying lagcha.",
+        "target": "Today's workout routine was very challenging. I tried strength training for the first time, but the post-workout feeling is so satisfying."
+    },
+    {
+        "source": "hijo ko conversation sanga ekdam deep connection feel bhayo. maile chai pura honest ra open talk garna paye, ani tyo ekdam refreshing lagyo.",
+        "target": "Yesterday’s conversation felt like a deep connection. I got to have an honest and open talk, and it felt so refreshing."
+    },
+    {
+        "source": "kina aba maile afno old diary revisit gare? sabai memories ekdam vivid feel huna thalyo, ani maile past experiences le sikheko thulo lesson realize gare.",
+        "target": "Why did I revisit my old diary? All the memories started feeling so vivid, and I realized the big lessons I learned from past experiences."
+    },
+    {
+        "source": "bholi ko lunch plan ta ekdam exciting cha. maile ta new restaurant explore garne, ani unko special dishes taste garna ko lagi ready chu.",
+        "target": "Tomorrow's lunch plan is so exciting. I’m going to explore a new restaurant and am ready to taste their special dishes."
+    },
+    {
+        "source": "yo week ta ekdam stressful feel bhayo, tara weekend ma chai short getaway plan gareko chu. ekdam relax ra recharge hune bela cha.",
+        "target": "This week felt so stressful, but I’ve planned a short getaway for the weekend. It’s time to relax and recharge."
+    },
+    {
+        "source": "aaja maile ghar clean garna ko lagi pura day dedicate gare. thakilo lagyo, tara clean ani organized space le ekdam satisfying feel diyo.",
+        "target": "Today, I dedicated the entire day to cleaning the house. It was tiring, but the clean and organized space felt so satisfying."
+    },
+    {
+        "source": "yo time ma chai financial planning ekdam important lagcha. maile budget track garna ani saving habits improve garna focus garna thale.",
+        "target": "Financial planning feels so important at this time. I’ve started focusing on tracking my budget and improving saving habits."
+    },
+    {
+        "source": "aaja maile childhood favorite game khelera pura nostalgic feel liye. sabai old friends ko yaad ayo, ani tyo time ekdam simple lagcha.",
+        "target": "Today, I played my childhood favorite game and felt so nostalgic. It reminded me of all my old friends, and that time felt so simple."
+    },
+    {
+        "source": "bholi ta maile early morning yoga class ma jana plan gareko chu. aba chai healthy routine banayera pura energetic feel hune jasto lagcha.",
+        "target": "Tomorrow, I’ve planned to attend an early morning yoga class. It feels like creating a healthy routine will make me feel more energetic."
+    },
+    {
+        "source": "yo book ko last chapter chai ekdam emotional thiyo. maile chai pura character journey ko experience ekdam deeply feel gare.",
+        "target": "The last chapter of this book was so emotional. I deeply felt the experience of the entire character journey."
+    },
+    {
+        "source": "kina aba social events ma gayera ekdam mixed feelings huncha? ek side ma excitement cha, tara aru side ma chai overwhelming lagcha.",
+        "target": "Why do I feel such mixed emotions at social events? On one side, there’s excitement, but on the other side, it feels overwhelming."
+    },
+    {
+        "source": "aaja ko meeting ekdam productive thiyo. maile chai afno ideas present garna paye, ani sabai ko feedback pani constructive thiyo. aba chai project timeline lai refine garna kaam thalnu parcha.",
+        "target": "Today's meeting was very productive. I got to present my ideas, and everyone's feedback was constructive. Now I need to start refining the project timeline."
+    },
+    {
+        "source": "yo monsoon season ma chai hiking garna thulo adventure jasto lagcha. trails ta pura muddy thiyo, tara nature ko beauty le sabai hardships worth banayo.",
+        "target": "Hiking during this monsoon season feels like a big adventure. The trails were completely muddy, but the beauty of nature made all the hardships worth it."
+    },
+    {
+        "source": "kina aba maile new skill sikne decision gare jasto lagcha? aba chai coding course enroll garna sochiraheko chu, ani yo career growth ko lagi helpful hune jasto lagcha.",
+        "target": "Why do I feel like I’ve decided to learn a new skill? I’m thinking of enrolling in a coding course now, and it seems like it’ll be helpful for career growth."
+    },
+    {
+        "source": "aaja maile ekdam different cuisine try gare. tyo spicy dishes ma chai unique flavor thiyo, ani aba chai recipes sikna try garna man lagcha.",
+        "target": "Today, I tried a completely different cuisine. The spicy dishes had a unique flavor, and now I feel like trying to learn the recipes."
+    },
+    {
+        "source": "hijo maile ekdam inspiring documentary herna paye. pura life perspective ma ekdam thulo change feel bhayo, ani aba positive approach adopt garna socheko chu.",
+        "target": "Yesterday, I watched a very inspiring documentary. It brought a big change in my life perspective, and now I’ve decided to adopt a positive approach."
+    },
+    {
+        "source": "yo saal ma chai family vacation ekdam memorable thiyo. sabai sanga ekdam quality time spend garna paye, ani destinations pani ekdam beautiful thiyo.",
+        "target": "This year’s family vacation was so memorable. I got to spend quality time with everyone, and the destinations were so beautiful."
+    },
+    {
+        "source": "kina ta aba weekend ma plan gareko outdoor picnic cancel hunu parcha? weather forecast le ta pura heavy rain dekhayo, ani alternative indoor activity plan garnu parcha.",
+        "target": "Why does the outdoor picnic I planned for the weekend have to be canceled? The weather forecast shows heavy rain, so I need to plan an alternative indoor activity."
+    },
+    {
+        "source": "aaja morning ma chai ekdam peaceful walk garna paye. sunrise view le ta pura positive vibes diyo, ani pura din ta energetic feel bhayo.",
+        "target": "This morning, I had such a peaceful walk. The sunrise view gave such positive vibes, and the entire day felt energetic."
+    },
+    {
+        "source": "yo semester ma ta chai new subject ekdam challenging thiyo. maile ta pura additional resources use garera concept clear garna try gare.",
+        "target": "This semester, the new subject was very challenging. I tried using additional resources to clear the concepts."
+    },
+    {
+        "source": "hijo ko late-night movie marathon ta ekdam fun thiyo. maile ta pura back-to-back classic movies enjoy gare, ani mood ekdam refreshed lagyo.",
+        "target": "Last night’s movie marathon was so much fun. I enjoyed back-to-back classic movies, and my mood felt completely refreshed."
+    },
+    {
+        "source": "bholi ko event ko preparation ekdam hectic lagcha. maile chai checklist ready gare, tara coordination ko lagi thoda stress huna thalyo.",
+        "target": "Tomorrow’s event preparation feels very hectic. I’ve prepared a checklist, but coordinating everything is starting to feel a bit stressful."
+    },
+    {
+        "source": "kina aba maile pura gardening start garna man lagcha? yo hobby le ekdam relaxing feel huncha, ani plants ko growth dekhda ta pura fulfilling lagcha.",
+        "target": "Why do I feel like starting gardening now? This hobby feels so relaxing, and watching the plants grow is so fulfilling."
+    },
+    {
+        "source": "yo week ma ekdam dherai workload thiyo, tara time management le pura balance garna sakiyo. aba chai weekends ma relaxation time ko lagi plan gareko chu.",
+        "target": "This week had so much workload, but I managed to balance everything with time management. Now I’ve planned some relaxation time for the weekend."
+    },
+    {
+        "source": "aaja ghar ko cleaning process ekdam long lagyo. kitchen organize garna pura din lagyo, tara final look le ekdam satisfying feel diyo.",
+        "target": "Today, the house cleaning process felt so long. Organizing the kitchen took the whole day, but the final look was so satisfying."
+    },
+    {
+        "source": "bholi maile ekdam exciting art workshop attend garna plan gareko chu. creativity explore garna ta ekdam ramailo opportunity jasto lagcha.",
+        "target": "Tomorrow, I’ve planned to attend a very exciting art workshop. It feels like such a fun opportunity to explore creativity."
+    },
+    {
+        "source": "yo morning ma breakfast ekdam unique dish try gare. local market bata fresh ingredients liyera ekdam flavorful recipe ready bhayo.",
+        "target": "This morning, I tried a very unique breakfast dish. With fresh ingredients from the local market, the recipe turned out so flavorful."
+    },
+    {
+        "source": "kina aba maile afno fitness routine ko consistency maintain garna man lagcha? healthy habits build garera ekdam confident feel huna thalcha.",
+        "target": "Why do I feel like maintaining consistency in my fitness routine? Building healthy habits makes me feel so confident."
+    },
+    {
+        "source": "yo evening ma chai pura book reading session dedicate garne sochiraheko chu. quiet time ma chai afno imagination pura explore garna pauxa.",
+        "target": "This evening, I’m planning to dedicate a full book reading session. Quiet time allows me to completely explore my imagination."
+    },
+    {
+        "source": "aaja afternoon ma chai pura random music playlist explore gare. new artists discover garna ekdam fun thiyo, ani favorite songs add garna paye.",
+        "target": "This afternoon, I explored a completely random music playlist. Discovering new artists was so much fun, and I got to add some favorite songs."
+    },
+    {
+        "source": "yo travel experience ekdam eye-opening thiyo. maile new culture observe garna paye, ani locals sanga interaction le ta pura learning experience thiyo.",
+        "target": "This travel experience was so eye-opening. I got to observe a new culture, and interacting with the locals was a complete learning experience."
+    }
+]

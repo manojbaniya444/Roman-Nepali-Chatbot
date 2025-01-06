@@ -1,0 +1,867 @@
+[
+    {
+        "instruction": "Timile ghaṭi kasto thik cha bhannai test kasari garna sakchhau?",
+        "context": null,
+        "response": "Ghaṭi test garna nimti, timi taulo ramrari ghumaauna, khoki hera, ani gaaro bhaye doctor sanga sampark garna sakchau."
+    },
+    {
+        "instruction": "Hawa-maan ko report kasari lekhnuhos?",
+        "context": null,
+        "response": "Hawa-maan ko report lekhna nimti, taaja weather data samet, tapai ko chet ma huney taapman, hawa, ra barsha ko janakari sammelan garnuhos."
+    },
+    {
+        "instruction": "Email pathaune tarika samjhauna.",
+        "context": null,
+        "response": "Email pathauna ko lagi, tapai ko email app kholnu hos, naya email ma click garnuhos, recipient ko email thikana halnu hos, subject ani message lekhi 'Send' button thichnu hos."
+    },
+    {
+        "instruction": "Nepali ma 'Book' ko arth k ho?",
+        "context": null,
+        "response": "Nepali ma 'Book' ko arth 'Kitab' ho."
+    },
+    {
+        "instruction": "Computer reset garne process bataunuhos.",
+        "context": null,
+        "response": "Computer reset garna, settings kholnu hos, 'System' ma januhos, ani 'Reset PC' option select garera direction follow garnuhos."
+    },
+    {
+        "instruction": "Ek cup chiya kasari bancha?",
+        "context": null,
+        "response": "Ek cup chiya banaunda, paani ra dudh ustai matra ma uhali, chini ra chiya pathi halera ramrari uhalauna, ani chhane ani serve garna sakinchha."
+    },
+    {
+        "instruction": "Android phone ma password kasari set garne?",
+        "context": null,
+        "response": "Settings ma januhos, 'Security' option ma click garnuhos, 'Set Password' ma januhos, ani afno mann parne password rakhnuhos."
+    },
+    {
+        "instruction": "Nepal ko rajdhani ko naam ke ho?",
+        "context": null,
+        "response": "Nepal ko rajdhani ko naam Kathmandu ho."
+    },
+    {
+        "instruction": "Ek cup dudh kasari tatyaune?",
+        "context": null,
+        "response": "Ek cup dudh tatyauna, pahela tapain stove balnuhos, ek tapko bhanda ma dudh halera stove ma rakhnu hos, ani halko taal ma tatyaunu hos."
+    },
+    {
+        "instruction": "Facebook account kasari kholne?",
+        "context": null,
+        "response": "Facebook account kholna, facebook.com ma januhos, 'Create New Account' ma click garnuhos, afno naam, email, ani password halera sign up garnuhos."
+    },
+    {
+        "instruction": "Kathmandu dekhi Pokhara samma ko distance kati cha?",
+        "context": null,
+        "response": "Kathmandu dekhi Pokhara samma ko distance karib 200 kilometers cha."
+    },
+    {
+        "instruction": "Ek rupaiya ma kati paisa huncha?",
+        "context": null,
+        "response": "Ek rupaiya ma 100 paisa huncha."
+    },
+    {
+        "instruction": "Nepal ma chhuttine pramukh parvharu ko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepal ma chhuttine pramukh parvharu: Dashain, Tihar, Chhath, Lhosar, Holi, Teej, ani Maghe Sankranti hun."
+    },
+    {
+        "instruction": "Phone recharge kasari garne?",
+        "context": null,
+        "response": "Phone recharge garna, recharge card ma diyeko code dial garnuhos: *122*PIN#, ani call button thichnu hos."
+    },
+    {
+        "instruction": "Hawa-maan sammandhi suchana kasari paune?",
+        "context": null,
+        "response": "Hawa-maan sammandhi suchana internet, TV, radio ko news ya taaja weather apps bata pauna sakinchha."
+    },
+    {
+        "instruction": "Online shopping kasari garne?",
+        "context": null,
+        "response": "Online shopping garna e-commerce site ma januhos, chahine product select garnuhos, cart ma rakhera afno delivery details ani payment garnuhos."
+    },
+    {
+        "instruction": "Ek rupaiya ko hisab le 10 rupaiya ko pirohan garnuhos.",
+        "context": null,
+        "response": "Ek rupaiya ko hisab le, 10 rupaiya ko pirohan 10 rukh, 10 swastik, 10 sundar karyakram jasto garaune ho."
+    },
+    {
+        "instruction": "Chiya ko recipe lekhnuhos.",
+        "context": null,
+        "response": "Chiya banaunda pahela ek cup paani uhali, chiya pathi, chini, ani dudh milayera 5 minute samma uhalaunu hos. Pachhi chhane ani serve garnuhos."
+    },
+    {
+        "instruction": "Nepal ko chhuttine pramukh nadiharuko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepal ko pramukh nadiharu: Koshi, Gandaki, Karnali, Bagmati, Narayani, Mahakali, ani Rapti hun."
+    },
+    {
+        "instruction": "Passport renewal kasari garne?",
+        "context": null,
+        "response": "Passport renewal garna tapain ko najik ko Department of Passport ma application halera naya passport ko fee tirnu hos. Sabai required documents bujhayera process purna garnuhos."
+    },
+    {
+        "instruction": "ATM card kasari chalauchha?",
+        "context": null,
+        "response": "ATM card chaluna, ATM machine ma card halnu hos, afno PIN number type garnuhos, ani cash withdraw, balance inquiry jasto options select garnuhos."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda thulo himal ko naam ke ho?",
+        "context": null,
+        "response": "Nepal ko sabai bhanda thulo himal ko naam Sagarmatha (Mount Everest) ho."
+    },
+    {
+        "instruction": "Garmi ma thanda rahane upaya ke ke hun?",
+        "context": null,
+        "response": "Garmi ma thanda rahna dhilo dhilo paani piunu, halka kapda lagaaunu, ani shade ma basnu hos. Cooling fan ya AC pani use garna sakchhau."
+    },
+    {
+        "instruction": "Cycle ma puncture bhaye kasari milaaune?",
+        "context": null,
+        "response": "Cycle ko puncture milaauna, tube lai nikalera pani ma jachnu hos. Puncture ko thau patayera rubber patch ani glue lagayera chhode pachhi milcha."
+    },
+    {
+        "instruction": "Nepali sahityama prakhyat kavi ko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepali sahityama prakhyat kavi haru: Laxmi Prasad Devkota, Siddhicharan Shrestha, Madhav Prasad Ghimire, ani Bhanu Bhakta Acharya hun."
+    },
+    {
+        "instruction": "Computer ko antivirus software install kasari garne?",
+        "context": null,
+        "response": "Antivirus software install garna, trusted website bata software download garnuhos, ani setup file run garera direction follow garnuhos."
+    },
+    {
+        "instruction": "Tihar parva kasari maninchha?",
+        "context": null,
+        "response": "Tihar parva ma kaag tihar, kukur tihar, gai tihar, govardhan puja ani bhai tika manaiyera deep haru balera, mithai banayera ramailo maninchha."
+    },
+    {
+        "instruction": "Khana pachi pet dukhyo bhane ke garnu parcha?",
+        "context": null,
+        "response": "Khana pachi pet dukhyo bhane haluka khana khanu, aduwa ko juice ya taajai pani piunu. Ekchin aram garnuhos ra continue bhaye doctor sanga sampark garnuhos."
+    },
+    {
+        "instruction": "Nepal ma kati pradesh chan?",
+        "context": null,
+        "response": "Nepal ma 7 ota pradesh chan."
+    },
+    {
+        "instruction": "Bistarai taajai uthne tips dinuhos.",
+        "context": null,
+        "response": "Taajai uthna nimti ramro nidra garnu hos, subha bhairako alarm set garnuhos, ani uthna bittikai taaja paani piunu hos."
+    },
+    {
+        "instruction": "Computer ma file kasari delete garne?",
+        "context": null,
+        "response": "Computer ma file delete garna, file select garnuhos, ani keyboard ma 'Delete' button thichnu hos. Permanent delete garna 'Shift + Delete' use garnuhos."
+    },
+    {
+        "instruction": "Nepal ma mobile recharge garna digital wallet ko naam bataunuhos.",
+        "context": null,
+        "response": "Nepal ma mobile recharge garna sajilo digital wallet haru: eSewa, Khalti, IME Pay, ani CellPay hun."
+    },
+    {
+        "instruction": "Timi Nepali ma 'Education' ko arth batauna sakchhau?",
+        "context": null,
+        "response": "'Education' ko arth Nepali ma 'Shiksha' ho."
+    },
+    {
+        "instruction": "Mobile ma photo kasari delete garne?",
+        "context": null,
+        "response": "Mobile ma photo delete garna, gallery kholnu hos, photo select garnuhos, ani delete icon ma click garnuhos."
+    },
+    {
+        "instruction": "Nepali patra patrika ko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepali patra patrika haru: Kantipur, Nagarik, Annapurna Post, Gorkhapatra, ra Setopati hun."
+    },
+    {
+        "instruction": "Bachha haru lai subha din ko suruwat kasari garna sikaune?",
+        "context": null,
+        "response": "Bachha haru lai subha din ko suruwat garna sikauna, taaja pani piunu, exercise garnu, ani healthy khana khanu sikaaunu."
+    },
+    {
+        "instruction": "Ek cup coffee kasari bancha?",
+        "context": null,
+        "response": "Ek cup coffee banaunda, ek chamchha coffee powder ra chini ramrari pani ma milayera, uhale pachhi dudh milaaunu hos."
+    },
+    {
+        "instruction": "Nepal ko itihaas ma prakhyat raja ko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepal ko itihaas ma prakhyat raja haru: Prithvi Narayan Shah, Tribhuwan Shah, ra Mahendra Shah hun."
+    },
+    {
+        "instruction": "Cycle kasari chalaune?",
+        "context": null,
+        "response": "Cycle chalauna seat ma basera pedal halnu hos, handle ramrari samatnu hos, ani brake sahi tarikale use garnu hos."
+    },
+    {
+        "instruction": "Nepali geet sanga sammandhit prakhyat sangeetkar haru ko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepali geet ko prakhyat sangeetkar haru: Narayan Gopal, Amber Gurung, Ani Choying Drolma, ani Natikaji hun."
+    },
+    {
+        "instruction": "Traffic light le k darsaunchha?",
+        "context": null,
+        "response": "Traffic light le stop, slow down, ani go darsaunchha: Red - Stop, Yellow - Slow Down, Green - Go."
+    },
+    {
+        "instruction": "Bank account kasari kholne?",
+        "context": null,
+        "response": "Bank account kholna afno ID card, passport size photo ra required documents bank ma bujhaunu hos. Form fill up garera process complete garnu hos."
+    },
+    {
+        "instruction": "Garmi ko din ma thanda drinks kasari banaune?",
+        "context": null,
+        "response": "Thanda drinks banaunda taaja phal haru blender ma rakhera chini ra baraf milaaunu hos, ani ramrari mix garnuhos."
+    },
+    {
+        "instruction": "Nepali sanskriti ma chhuttine parvharu ko bishesh bataunuhos.",
+        "context": null,
+        "response": "Nepali sanskriti ma Dashain, Tihar, Holi, Chhath, ra Lhosar jasto parvharu maninchha, jasle parivaar sangai mitho samay bitaaune majoro dinchha."
+    },
+    {
+        "instruction": "Nepali ma 'Laptop' ko meaning ke ho?",
+        "context": null,
+        "response": "'Laptop' ko arth Nepali ma 'Bokna milne computer' ho."
+    },
+    {
+        "instruction": "Nepal ma kailekaile bhukampa ko risk huncha, tyasko lagi suraksha upaya ke ho?",
+        "context": null,
+        "response": "Bhukampa ko risk kaile aauchha bhane suraksha upaya ma: majboot ghar banau, emergency kit rakhnuhos, ani bhukampa bela ma table muni luknu hos."
+    },
+    {
+        "instruction": "Smartphone update kasari garnu parcha?",
+        "context": null,
+        "response": "Smartphone update garna settings kholnu hos, 'System Updates' ma januhos, ani available update download ra install garnuhos."
+    },
+    {
+        "instruction": "Ek cup dudh ma halne chini ko matra kasari nirdharit garne?",
+        "context": null,
+        "response": "Ek cup dudh ma chini ko matra tapai ko mithas ko pasan anusar 1 dekhi 2 chamchha samma halna sakinchha."
+    },
+    {
+        "instruction": "Nepali ma 'Environment' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Environment' ko arth Nepali ma 'Paryavaran' ho."
+    },
+    {
+        "instruction": "Bistarai lagnu parne halo tarikai ke ke hun?",
+        "context": null,
+        "response": "Bistarai lagnu parne halo tarikai: clean sheet halnu, light blanket lagaaunu, ani bistarai ramrari falnu hos."
+    },
+    {
+        "instruction": "Nepali lok geet ko udaharan dinuhos.",
+        "context": null,
+        "response": "Nepali lok geet haru: 'Resham Firiri', 'Gaine Geet', ani 'Deurali Dadhaima' hun."
+    },
+    {
+        "instruction": "Nepali ma 'Library' ko arth ke ho?",
+        "context": null,
+        "response": "'Library' ko arth Nepali ma 'Pustakalaya' ho."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda dherai boline bhasha kun ho?",
+        "context": null,
+        "response": "Nepal ko sabai bhanda dherai boline bhasha Nepali ho."
+    },
+    {
+        "instruction": "Dashain parv ko mahatwa ke ho?",
+        "context": null,
+        "response": "Dashain parv ko mahatwa parivaarik milan, shakti ko pooja, ra ramro ma badi jitko pratik ko rup ma maninchha."
+    },
+    {
+        "instruction": "Online class ma samasya bhaye kasari samadhan garne?",
+        "context": null,
+        "response": "Online class ma samasya bhaye ramro internet connection jachnu hos, mute/unmute ani camera settings sahi cha ki hernu hos, ani teacher sanga samasya share garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Hospital' ko meaning ke ho?",
+        "context": null,
+        "response": "'Hospital' ko arth Nepali ma 'Aspatal' ho."
+    },
+    {
+        "instruction": "Lifafa chhittai chitne tarika ke ho?",
+        "context": null,
+        "response": "Lifafa chhittai chitna, halko kapaad ma lifafa rakhera iron garna sakchhau, ya pakkai ramrari chhape pachi hawa nikalera tape lagaaunu hos."
+    },
+    {
+        "instruction": "Raat ko ramro nidra nimti ke garna parcha?",
+        "context": null,
+        "response": "Raat ko ramro nidra nimti, halka khana khanu, nidra aghi digital screen na hernu, ra ekai samay ma sutne aadat basaaunu hos."
+    },
+    {
+        "instruction": "Nepali ma 'Education System' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Education System' ko arth Nepali ma 'Shiksha Pranali' ho."
+    },
+    {
+        "instruction": "Ek plate momo banauna chahine samagri haru ke ke hun?",
+        "context": null,
+        "response": "Ek plate momo banauna chahine samagri haru: maida, kima (masu ya tarkari), pyaj, masala, tel, ani momo ko aakar banau ko lagi belan."
+    },
+    {
+        "instruction": "Nepali janata ka sabai bhanda mahila adhyakshya ko naam ke ho?",
+        "context": null,
+        "response": "Nepali janata ka sabai bhanda pahila mahila adhyakshya Bidhya Devi Bhandari hun."
+    },
+    {
+        "instruction": "Online payment ko faida ke ke hun?",
+        "context": null,
+        "response": "Online payment ko faida haru: sajilo ra chhittai payment, ghar bata nai transaction, ra digital record rakhnai suwidha."
+    },
+    {
+        "instruction": "Nepali ma 'Library Card' ko meaning ke ho?",
+        "context": null,
+        "response": "'Library Card' ko arth Nepali ma 'Pustakalaya Card' ho."
+    },
+    {
+        "instruction": "Yoga kasari garne?",
+        "context": null,
+        "response": "Yoga garna taaza hawa ma halko kapda lagayera basnu hos, meditation ya stretching garera shwas lena ra chodna parcha."
+    },
+    {
+        "instruction": "Nepali ma 'Healthy Food' ko arth ke ho?",
+        "context": null,
+        "response": "'Healthy Food' ko arth Nepali ma 'Swastha Khadya' ho."
+    },
+    {
+        "instruction": "Swastha jiwan ko lagi ke ke garna parcha?",
+        "context": null,
+        "response": "Swastha jiwan ko lagi niyamit exercise, sano sano khana khanu, ramro nidra garnu, ra stress kam garnu parcha."
+    },
+    {
+        "instruction": "Email ID banaune process bataunuhos.",
+        "context": null,
+        "response": "Email ID banauna Gmail ya anya email provider ma januhos, 'Sign Up' ma click garera naam, username, password, ani anya janakari halera account kholnu hos."
+    },
+    {
+        "instruction": "Nepali ma 'Computer Science' ko meaning ke ho?",
+        "context": null,
+        "response": "'Computer Science' ko arth Nepali ma 'Sanganak Vigyan' ho."
+    },
+    {
+        "instruction": "Nepali cinema ko prakhyat nirdeshak ko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepali cinema ko prakhyat nirdeshak haru: Tulsi Ghimire, Bhusan Dahal, Narayan Puri, ani Nischal Basnet hun."
+    },
+    {
+        "instruction": "Garmi bela ma ramro drink ko recipe bataunuhos.",
+        "context": null,
+        "response": "Garmi bela ma lemon water banau, nimbu ko ras, chini, baraf ra paani milaaunu hos, ani ramrari mix garera serve garnuhos."
+    },
+    {
+        "instruction": "Nepal ko purano dharohar haru ko udaharan dinuhos.",
+        "context": null,
+        "response": "Nepal ko purano dharohar haru: Pashupatinath Mandir, Bouddhanath Stupa, Swayambhunath, ra Patan Durbar Square hun."
+    },
+    {
+        "instruction": "Nepali ma 'Online Learning' ko arth ke ho?",
+        "context": null,
+        "response": "'Online Learning' ko arth Nepali ma 'Online Shikshan' ho."
+    },
+    {
+        "instruction": "Nepali ma 'Weather Forecast' ko meaning ke ho?",
+        "context": null,
+        "response": "'Weather Forecast' ko arth Nepali ma 'Mausam ko Jankari' ho."
+    },
+    {
+        "instruction": "Nepal ma ghumna milne prasiddha thau haru ko naam dinuhos.",
+        "context": null,
+        "response": "Nepal ma ghumna milne prasiddha thau haru: Pokhara, Chitwan National Park, Lumbini, Annapurna Base Camp, ani Everest Base Camp hun."
+    },
+    {
+        "instruction": "Online shopping kasari garne?",
+        "context": null,
+        "response": "Online shopping garna e-commerce website ma login garnuhos, product search garera add to cart garnuhos, ani payment pachi order confirm garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Self Discipline' ko meaning ke ho?",
+        "context": null,
+        "response": "'Self Discipline' ko arth Nepali ma 'Swa-Anushasan' ho."
+    },
+    {
+        "instruction": "Tihar ma diyaharu kasari balinchha?",
+        "context": null,
+        "response": "Tihar ma diyaharu safaa thau ma rakhera baati ani tel milaaera maachis ko sahayata le balinchha."
+    },
+    {
+        "instruction": "Ghumne gadi kasari surakshit tarikale chalaune?",
+        "context": null,
+        "response": "Ghumne gadi surakshit tarikale chalauna seat belt lagaunu hos, traffic rules palana garnu hos, ani signal herera gadi chalaunu hos."
+    },
+    {
+        "instruction": "Nepali lok sanskriti ma nach haru ko udaharan dinuhos.",
+        "context": null,
+        "response": "Nepali lok sanskriti ma nach haru: Lakhey Nach, Jhyaure Nach, Kauda Nach, ani Maruni Nach hun."
+    },
+    {
+        "instruction": "Computer restart kasari garne?",
+        "context": null,
+        "response": "Computer restart garna 'Start' menu ma januhos, 'Power' option select garera 'Restart' click garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Exercise' ko meaning ke ho?",
+        "context": null,
+        "response": "'Exercise' ko arth Nepali ma 'Byayam' ho."
+    },
+    {
+        "instruction": "Pustak lekhnalai prarambhik idea kasari suru garne?",
+        "context": null,
+        "response": "Pustak lekhnalai prarambhik idea ko lagi theme select garnuhos, outline banau, ra kahani ko mukhya charitra ra plot parichaya milaaunu hos."
+    },
+    {
+        "instruction": "Nepal ma boline anya bhasha haru ko udaharan dinuhos.",
+        "context": null,
+        "response": "Nepal ma boline anya bhasha haru: Maithili, Bhojpuri, Tharu, Tamang, Newar, Magar, ani Rai hun."
+    },
+    {
+        "instruction": "Healthy breakfast ko example dinuhos.",
+        "context": null,
+        "response": "Healthy breakfast ko example: Oatmeal sanga fruits, boiled anda, ani dudh ya green tea."
+    },
+    {
+        "instruction": "Nepali ma 'Technology' ko arth ke ho?",
+        "context": null,
+        "response": "'Technology' ko arth Nepali ma 'Prabidhi' ho."
+    },
+    {
+        "instruction": "Nepali itihas ko janakari dinuhos.",
+        "context": null,
+        "response": "Nepali itihas ko prarambh Lichhavi kaal bata huncha, Shaha rajvans le Nepal ko ekikaran gare, ani Rana kaal pachi prajatantra aayo."
+    },
+    {
+        "instruction": "Bank ma loan kasari apply garne?",
+        "context": null,
+        "response": "Bank ma loan apply garna afno ID, income proof, ra collateral documents bank ma bujhaunu hos. Form fill up garera approval ko lagi pratiksha garnu hos."
+    },
+    {
+        "instruction": "Nepali sanskriti ma bibahako pratha kasari maninchha?",
+        "context": null,
+        "response": "Nepali sanskriti ma bibaha ko pratha lagan, sindoor, ra sagun dine jasto paramparik bidhi haru sanga maninchha."
+    },
+    {
+        "instruction": "Nepali ma 'Time Management' ko meaning ke ho?",
+        "context": null,
+        "response": "'Time Management' ko arth Nepali ma 'Samaya Byabasthapan' ho."
+    },
+    {
+        "instruction": "Mobile phone ko password kasari set garne?",
+        "context": null,
+        "response": "Mobile phone ko settings ma januhos, 'Security' section ma januhos, ani password ya PIN set garera confirm garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Fitness' ko arth ke ho?",
+        "context": null,
+        "response": "'Fitness' ko arth Nepali ma 'Sharirik Swastha' ho."
+    },
+    {
+        "instruction": "Nepali sanskriti ko chhuttine bisheshta haru ke ke hun?",
+        "context": null,
+        "response": "Nepali sanskriti ko bisheshta haru: Parivaarik samriddhi, lok nach, lok geet, ani parvharu manaaune anuharita parampara hun."
+    },
+    {
+        "instruction": "Dashain ma tika lagaune bidhi bataunuhos.",
+        "context": null,
+        "response": "Dashain ma tika lagaune bidhi ma safaa kapada lagayera, jamara ra tika ko thaal tayar garera, badebuwa ko ashirbad le tika lagaune gari maninchha."
+    },
+    {
+        "instruction": "Bachha haru lai siksha ko mahatwa kasari bujhaune?",
+        "context": null,
+        "response": "Bachha haru lai siksha ko mahatwa bujhauna ramro udaharan dinuhos, siksha le unko bhabisya ramro banauchha bhanera bujhaaunuhos, ani interactive learning tools ko prayog garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Internet Security' ko arth ke ho?",
+        "context": null,
+        "response": "'Internet Security' ko arth Nepali ma 'Anya Prabidhi suraksha' ho."
+    },
+    {
+        "instruction": "Pokhara ghumna jaane plan kasari banau?",
+        "context": null,
+        "response": "Pokhara ghumna jaane plan ma budget banaunu, hotel reserve garnu, ghumne thau jastai Phewa Lake, Sarangkot, ani Davis Falls ko itinerary milaaunu hos."
+    },
+    {
+        "instruction": "Rukh ropne faida haru ke ke hun?",
+        "context": null,
+        "response": "Rukh ropne faida haru: paryavaran ma sudhar, oxygen ko production, dhulo ra pollution ma kami, ani prakritik sundarta ko sanrakshan."
+    },
+    {
+        "instruction": "Nepali ma 'Teamwork' ko meaning ke ho?",
+        "context": null,
+        "response": "'Teamwork' ko arth Nepali ma 'Samuhik Kaam' ho."
+    },
+    {
+        "instruction": "Online reading kasari suru garne?",
+        "context": null,
+        "response": "Online reading suru garna trusted e-book platform ya website ma januhos, login garnu, ani PDF ya e-books download garera padna thalnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Mental Health' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Mental Health' ko arth Nepali ma 'Mansik Swastha' ho."
+    },
+    {
+        "instruction": "Yoga le swastha ma kasto prabhav parcha?",
+        "context": null,
+        "response": "Yoga le sharirik swastha sudhar garcha, stress kam garcha, immune system majboot banauchha, ra mental clarity dina madat garcha."
+    },
+    {
+        "instruction": "Mobile ma screenshot kasari leene?",
+        "context": null,
+        "response": "Mobile ma screenshot leena, power button ra volume down button ekai patak dabaunu hos."
+    },
+    {
+        "instruction": "Nepal ko prakhyat nadi haru ko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepal ko prakhyat nadi haru: Koshi, Gandaki, Bagmati, Karnali, ra Rapti hun."
+    },
+    {
+        "instruction": "Swastha ko lagi pani pine niyam haru ke ke hun?",
+        "context": null,
+        "response": "Swastha ko lagi, din ma 8 glass pani piunu, taaja pani piunu, ra ramro filter ya bisuddha pani prayog garnu parcha."
+    },
+    {
+        "instruction": "Nepali ma 'Cloud Storage' ko meaning ke ho?",
+        "context": null,
+        "response": "'Cloud Storage' ko arth Nepali ma 'Badal Bhandaran' ho."
+    },
+    {
+        "instruction": "Nepali sanskriti ma lok geet haru ko mahatwa bataunuhos.",
+        "context": null,
+        "response": "Nepali sanskriti ma lok geet haru parampra, lok jeevan ko kahani, ani sanskritik pahichan ko pratik ho."
+    },
+    {
+        "instruction": "Nepali ma 'Artificial Intelligence' ko arth ke ho?",
+        "context": null,
+        "response": "'Artificial Intelligence' ko arth Nepali ma 'Krutrim Buddhimatta' ho."
+    },
+    {
+        "instruction": "Lumbini ghumna kaile best season ho?",
+        "context": null,
+        "response": "Lumbini ghumna sabai bhanda ramro season autumn ra winter ho, jaba mausam taaja ra thik rahanchha."
+    },
+    {
+        "instruction": "Ghar ma pizza kasari banau?",
+        "context": null,
+        "response": "Ghar ma pizza banaunda maida ko dough banaera, tomato sauce spread garnu, cheese ra toppings halera oven ma bake garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Digital Payment' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Digital Payment' ko arth Nepali ma 'Digital Bhuktani' ho."
+    },
+    {
+        "instruction": "Nepali ko mukhya tyohar haru ko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepali ko mukhya tyohar haru: Dashain, Tihar, Teej, Chhath, ani Lhosar hun."
+    },
+    {
+        "instruction": "Nepali ma 'Renewable Energy' ko meaning ke ho?",
+        "context": null,
+        "response": "'Renewable Energy' ko arth Nepali ma 'Punaryogya Urja' ho."
+    },
+    {
+        "instruction": "Nepali ma 'Climate Change' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Climate Change' ko arth Nepali ma 'Jalvayu Parivartan' ho."
+    },
+    {
+        "instruction": "Pahilo patak Kathmandu ma ghumna jane manche lai kun thau ghumna janne sujhab dinuhos.",
+        "context": null,
+        "response": "Pahilo patak Kathmandu ghumna jane manche lai Pashupatinath Mandir, Swayambhunath Stupa, Kathmandu Durbar Square, ra Garden of Dreams ghumna sujhab dinchha."
+    },
+    {
+        "instruction": "Nepali ma 'Recycling' ko meaning ke ho?",
+        "context": null,
+        "response": "'Recycling' ko arth Nepali ma 'Punarchakriya' ho."
+    },
+    {
+        "instruction": "School ma project kaam kasari suru garne?",
+        "context": null,
+        "response": "School ma project kaam suru garna sabai tools ra materials milaaera, outline banaera, ani planning anusar step-by-step kaam suru garnuhos."
+    },
+    {
+        "instruction": "Nepali sanskriti ma ghumto pratha ko mahatwa ke ho?",
+        "context": null,
+        "response": "Nepali sanskriti ma ghumto pratha sammaan, maryada, ra parivaarik parampara ko chinh ho."
+    },
+    {
+        "instruction": "Dherai productivity ka lagi samaya kasari byabasthit garne?",
+        "context": null,
+        "response": "Dherai productivity ka lagi task list banau, priority dinuhos, time-blocking method use garera focus garera kaam garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Renewable Resources' ko arth ke ho?",
+        "context": null,
+        "response": "'Renewable Resources' ko arth Nepali ma 'Punaryogya Sansadhan' ho."
+    },
+    {
+        "instruction": "Nepali ma 'Sustainable Development' ko meaning ke ho?",
+        "context": null,
+        "response": "'Sustainable Development' ko arth Nepali ma 'Digo Bikas' ho."
+    },
+    {
+        "instruction": "Pokhara ma kun kun adventure activities garna milchha?",
+        "context": null,
+        "response": "Pokhara ma paragliding, zip-lining, boating in Phewa Lake, ra Annapurna trek jasto adventure activities garna milchha."
+    },
+    {
+        "instruction": "Nepali ma 'Artificial Intelligence' le kasto bhabisya ko kalpana garna sakchha?",
+        "context": null,
+        "response": "'Artificial Intelligence' le automation, robotics, ani data-driven decision-making ko bhabisya banauchha."
+    },
+    {
+        "instruction": "Tihar ma rangoli kasari banauchha?",
+        "context": null,
+        "response": "Tihar ma rangoli banaunda colorful powder, flowers, ya diyas ko prayog garera sundar pattern design garincha."
+    },
+    {
+        "instruction": "Nepali ma 'Organic Farming' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Organic Farming' ko arth Nepali ma 'Jaivik Krishi' ho."
+    },
+    {
+        "instruction": "Nepali ma 'Global Warming' ko arth ke ho?",
+        "context": null,
+        "response": "'Global Warming' ko arth Nepali ma 'Biswa Taapmaan Vriddhi' ho."
+    },
+    {
+        "instruction": "Kathmandu ma ratri jivan ma kun kun activities popular hun?",
+        "context": null,
+        "response": "Kathmandu ma ratri jivan ma Thamel ma live music, clubs, street food tour, ra late-night shopping popular activities hun."
+    },
+    {
+        "instruction": "Nepali ma 'Ecosystem' ko meaning ke ho?",
+        "context": null,
+        "response": "'Ecosystem' ko arth Nepali ma 'Pranali' ho."
+    },
+    {
+        "instruction": "Bachha lai khana khuwauna sajilo banaune tips dinuhos.",
+        "context": null,
+        "response": "Bachha lai khana khuwauna ramro presentation garera, alikati story banayera, ra uniharuko manparne taste ko khana tayar garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Hybrid Vehicle' ko meaning ke ho?",
+        "context": null,
+        "response": "'Hybrid Vehicle' ko arth Nepali ma 'Mishrit Yatayat Sadhan' ho."
+    },
+    {
+        "instruction": "Kathmandu ma durgami karyalaya haru kasari khojne?",
+        "context": null,
+        "response": "Kathmandu ma durgami karyalaya haru khojna online map services, official websites, ya local directory ko sahayata linuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Renewable Energy Sources' ko arth ke ho?",
+        "context": null,
+        "response": "'Renewable Energy Sources' ko arth Nepali ma 'Punaryogya Urja Sansadhan' ho."
+    },
+    {
+        "instruction": "Mobile battery dherai samaya samma kasari chalau?",
+        "context": null,
+        "response": "Mobile battery dherai samaya samma chaluna brightness low rakhnu, unused apps band garnu, ra background process off garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Work-Life Balance' ko meaning ke ho?",
+        "context": null,
+        "response": "'Work-Life Balance' ko arth Nepali ma 'Kaam ra Byaktigat Jeevan Ko Santulan' ho."
+    },
+    {
+        "instruction": "Nepali ma 'Financial Planning' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Financial Planning' ko arth Nepali ma 'Aarthik Yojana Banaune Kriya' ho."
+    },
+    {
+        "instruction": "Nepali parivar ma budha-budha lai kasari sammaan garincha?",
+        "context": null,
+        "response": "Nepali parivar ma budha-budha lai ashirbad lina, haat jodne, ra uniharuko paramarsha maanera sammaan garincha."
+    },
+    {
+        "instruction": "Internet use gardaa suraksha ko lagi ke kuraharu ma dhyan dinu parchha?",
+        "context": null,
+        "response": "Internet use gardaa strong password prayog garnu, trusted website ma januhos, ani suspicious link ma click nagarnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Digital Transformation' ko meaning ke ho?",
+        "context": null,
+        "response": "'Digital Transformation' ko arth Nepali ma 'Digital Rupantaran' ho."
+    },
+    {
+        "instruction": "Nepali geet sangeet ko prakar haru ko naam dinuhos.",
+        "context": null,
+        "response": "Nepali geet sangeet ko prakar haru: Lok geet, Adhunik geet, Bhajan, Pop, Rock, ra Dohori geet hun."
+    },
+    {
+        "instruction": "Nepali ma khet ma ropne bij ko naam dinuhos.",
+        "context": null,
+        "response": "Nepali ma khet ma ropne bij haru: Dhaan, Makai, Gahu, Raayo, ra Aalu hun."
+    },
+    {
+        "instruction": "Nepali ma 'Entrepreneurship' ko meaning ke ho?",
+        "context": null,
+        "response": "'Entrepreneurship' ko arth Nepali ma 'Udyamshilta' ho."
+    },
+    {
+        "instruction": "Bharosa kasari banau?",
+        "context": null,
+        "response": "Bharosa banaunda satya bolnu, kaam ma iman dar rahanu, ra abaadhya kura na garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Self Improvement' ko arth ke ho?",
+        "context": null,
+        "response": "'Self Improvement' ko arth Nepali ma 'Swa Sudhar' ho."
+    },
+    {
+        "instruction": "Himal paryatanko laagi tiyar kasari garne?",
+        "context": null,
+        "response": "Himal paryatanko laagi warm kapada, trekking tools, medical kit, ani guide ko sahayata ko tiyar garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Time Value of Money' ko meaning ke ho?",
+        "context": null,
+        "response": "'Time Value of Money' ko arth Nepali ma 'Samaya Anusar Paisako Mahatwa' ho."
+    },
+    {
+        "instruction": "Nepali ma 'Electric Vehicle' ko meaning ke ho?",
+        "context": null,
+        "response": "'Electric Vehicle' ko arth Nepali ma 'Bijuli Yatayat Sadhan' ho."
+    },
+    {
+        "instruction": "Nepali ma 'Cloud Computing' ko meaning ke ho?",
+        "context": null,
+        "response": "'Cloud Computing' ko arth Nepali ma 'Badal Pranali Ma Suvidha' ho."
+    },
+    {
+        "instruction": "Rojgaar ko lagi resume kasari tayar garne?",
+        "context": null,
+        "response": "Rojgaar ko lagi resume tayar garna education, experience, skills, ani contact details spast rakhnu hos."
+    },
+    {
+        "instruction": "Nepali ma 'Sustainable Tourism' ko arth ke ho?",
+        "context": null,
+        "response": "'Sustainable Tourism' ko arth Nepali ma 'Digo Paryatan' ho."
+    },
+    {
+        "instruction": "Bachha ko samaya anusar padhai ko niyam kasari banaune?",
+        "context": null,
+        "response": "Bachha ko samaya anusar padhai ko niyam unko school timing ra ghar kaam herera time-table banaera."
+    },
+    {
+        "instruction": "Nepali ma 'Cyber Security' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Cyber Security' ko arth Nepali ma 'Antarik Suraksha' ho."
+    },
+    {
+        "instruction": "Kathmandu ma ratopul ma jaunubhayeko manchhe lai kun kun bus chalcha?",
+        "context": null,
+        "response": "Ratopul jane manchhe lai New Road line, Maharajgunj line, ra Balaju line bus chalcha."
+    },
+    {
+        "instruction": "Nepali ma 'Energy Efficiency' ko arth ke ho?",
+        "context": null,
+        "response": "'Energy Efficiency' ko arth Nepali ma 'Urja Kushalta' ho."
+    },
+    {
+        "instruction": "Nepali ko jun tharu mithas chha tyo rakhaune tips dinuhos.",
+        "context": null,
+        "response": "Nepali mithas rakhauna chetana jagaaunu, bhasa ani parampara maanera jeevan jeeuna sakarathmak soch banaunuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Blockchain Technology' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Blockchain Technology' ko arth Nepali ma 'Blokshrink Prabidhi' ho."
+    },
+    {
+        "instruction": "Janaury mahina ma Nepal ko kun-kun thau ghumna milcha?",
+        "context": null,
+        "response": "Janaury mahina ma Pokhara, Chitwan, Lumbini, ra Kathmandu valley ghumna ramailo huncha. Himal trek ko lagi Thamel ya Everest base camp planning garna milcha."
+    },
+    {
+        "instruction": "Nepali ma 'Digital Marketing' ko arth ke ho?",
+        "context": null,
+        "response": "'Digital Marketing' ko arth Nepali ma 'Digital Prasaaran' ho."
+    },
+    {
+        "instruction": "Dashain ko tika ko mahatwa bataunuhos.",
+        "context": null,
+        "response": "Dashain ko tika ko mahatwa ashirbad, samriddhi, ani parivaarik sambandha majboot banauchha bhanera maninchha."
+    },
+    {
+        "instruction": "Nepali ma 'Virtual Reality' ko meaning ke ho?",
+        "context": null,
+        "response": "'Virtual Reality' ko arth Nepali ma 'Aakarshit Kriya Ma Prateksh Anubhuti' ho."
+    },
+    {
+        "instruction": "Bachha haru ko confidence kasari badhaaune?",
+        "context": null,
+        "response": "Bachha haru ko confidence badhauna uniharulai ramro kura bhannuhos, mistakes sikaune opportunity ko rup ma linu, ani unko effort ko kadar garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Freelancing' ko arth ke ho?",
+        "context": null,
+        "response": "'Freelancing' ko arth Nepali ma 'Swatantra Kaam Garna' ho."
+    },
+    {
+        "instruction": "Lalitpur ko historical thau haru ko naam dinuhos.",
+        "context": null,
+        "response": "Lalitpur ko historical thau haru: Patan Durbar Square, Krishna Mandir, Hiranya Varna Mahavihar, ra Kumbheshwar Mandir hun."
+    },
+    {
+        "instruction": "Nepali ma 'Remote Work' ko meaning ke ho?",
+        "context": null,
+        "response": "'Remote Work' ko arth Nepali ma 'Duri Bata Kaam Garna' ho."
+    },
+    {
+        "instruction": "Ghar ma safai garna ramro tips dinuhos.",
+        "context": null,
+        "response": "Ghar ma safai garna schedule banaunu, daily routine ma thik-thik cheez milaaunu, ani safai ko lagi eco-friendly products ko upayog garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Machine Learning' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Machine Learning' ko arth Nepali ma 'Yantra Sikai Prabidhi' ho."
+    },
+    {
+        "instruction": "Nepali parikar haru ko naam lekhnu hos.",
+        "context": null,
+        "response": "Nepali parikar haru: Dal Bhat Tarkari, Momo, Sel Roti, Gundruk, Dhido, ra Aalu Tama hun."
+    },
+    {
+        "instruction": "Internet connection slow bhaeko bela kasari fix garne?",
+        "context": null,
+        "response": "Internet connection slow bhaeko bela router restart garnuhos, background apps band garnuhos, ani ISP lai sampark garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Sustainable Agriculture' ko meaning ke ho?",
+        "context": null,
+        "response": "'Sustainable Agriculture' ko arth Nepali ma 'Digo Krishi' ho."
+    },
+    {
+        "instruction": "Chiso mausam ma swastha kasari rakhaune?",
+        "context": null,
+        "response": "Chiso mausam ma swastha rakhauna warm kapada lagaaunu, taja khana khanu, dherai pani piunu, ani regular exercise garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Carbon Footprint' ko arth bataunuhos.",
+        "context": null,
+        "response": "'Carbon Footprint' ko arth Nepali ma 'Carbon Padchhap' ho."
+    },
+    {
+        "instruction": "Nepali ma 'Online Learning' ko meaning ke ho?",
+        "context": null,
+        "response": "'Online Learning' ko arth Nepali ma 'Online Sikai' ho."
+    },
+    {
+        "instruction": "Dherai energy save garna kasari kaam garne?",
+        "context": null,
+        "response": "Energy save garna LED lights use garnuhos, appliances band garnu, ani renewable energy ko prayog garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'Data Privacy' ko meaning ke ho?",
+        "context": null,
+        "response": "'Data Privacy' ko arth Nepali ma 'Data Gopaniya' ho."
+    },
+    {
+        "instruction": "Chiya kasari banau?",
+        "context": null,
+        "response": "Chiya banaunda pani tataera, chiya patti ra chini miss garnuhos, ramro sang stir garepachhi chai cup ma serve garnuhos."
+    }
+]
