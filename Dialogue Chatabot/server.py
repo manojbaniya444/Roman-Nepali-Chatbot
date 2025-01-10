@@ -15,9 +15,7 @@ greetings = [
     "Namaste ma k sahayog garna sakchu."
 ]
 
-def chat_with_bot(question: str) -> str:
-    question = preprocess_text(question)
-    
+def chat_with_bot(question: str) -> str:    
     if any(word in ["hello", "hi", "namaskar", "namaste"] for word in question.lower().split()):
         return random.choice(greetings)
     response = bot.process_message(question)
