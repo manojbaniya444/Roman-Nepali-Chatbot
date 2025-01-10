@@ -62,9 +62,10 @@ class IntentClassificationModel:
             pred = self.model(bow_tensor)
             pred = torch.softmax(pred, dim=-1)
             label = torch.argmax(pred, dim=-1)
+            print(f"Probability", pred.max())
             
         predicted_intent = self.id2label(label)
-        return predicted_intent
+        return predicted_intent if pred.max().item() > 0.80 else None
     
     
 if __name__ == "__main__":

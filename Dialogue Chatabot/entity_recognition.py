@@ -95,6 +95,7 @@ class CRFModel:
 
 if __name__ == "__main__":
     model = CRFModel()
-    sentence = "Redmi ko price kati ho"
-    predictions = model.predict(sentence=sentence)
-    print(predictions)
+    while True:
+        question = input("Type question: ")
+        response = model.predict(question)
+        print(response)
