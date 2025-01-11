@@ -1,1 +1,9 @@
 - Bobrow, Daniel G GUS based frame based chatbot.
+- Attention is All you need
+- Unsloth
+- CRF 
+- Instruction Fine Tune original
+- LORA original
+- HuggingFace
+- Cross language transfer
+- some other chatbots paper
