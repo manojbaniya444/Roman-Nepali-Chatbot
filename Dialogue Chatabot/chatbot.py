@@ -170,7 +170,12 @@ class EcommerceBot:
         
         if intent == "order_product":
             #? can get missing entity about "Product" | "Location" | "Quantity"
-            return "Order product ko incomplete handler"
+            # if there is still information need to get then ask
+            if any(x not in entity for x in missing_entity):
+                return f"Hajur malai  {", ".join(missing_entity)} pani vannuhos."
+            # if got all then proceed to confirm with entity
+            else:
+                return self._handle_order_product(entity)
         elif intent == "product_inquiry":
             #? Can get missing entity about "Product" | "Brand" | "Category"
             if any(entity in self.dialogue_manager["entity"] for entity in ["Product", "Brand", "Category"]):
@@ -218,7 +223,6 @@ class EcommerceBot:
         return "Kripaya sahi order number dinuhos."
     
     def _handle_order_product(self, entities: Dict[str, str]) -> str:
-        # TODO:
         self.dialogue_manager["intent_satisfied"] = False
         needed = ["Product", "Quantity", "Location"]
         missing = [entity for entity in needed if entities[entity] is None]
@@ -230,6 +234,8 @@ class EcommerceBot:
         matched_product = self.fuzzy_search(search_term=entities.get("Product"), search_type="name")
         
         if len(matched_product) == 0:
+            # then probably got the wrong entity or product not available
+            self.dialogue_manager["entity"]["Product"] = None
             return f"Maaf garnu hola {entities.get("Product")} available xaina."
         product = matched_product[0]
         

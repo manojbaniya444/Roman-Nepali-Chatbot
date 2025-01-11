@@ -4,8 +4,8 @@ from sklearn.preprocessing import LabelEncoder
 from preprocess_text import preprocess_text
 import pandas as pd
 
-DATASET = r"D:\\Roman Nepali Chatbot\\Intent Classification\data\\intent_dataset.csv"
-MODEL = r"D:\\Roman Nepali Chatbot\\Intent Classification\best.pt"
+DATASET = r"D:\\Roman Nepali Chatbot\\Dialogue Chatabot\data\\intent_dataset.csv"
+MODEL = r"D:\\Roman Nepali Chatbot\\Dialogue Chatabot\\models\best.pt"
 HIDDEN_SIZE = 20
 
 class IntentClassification(torch.nn.Module):

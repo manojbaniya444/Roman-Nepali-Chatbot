@@ -1,4 +1,4 @@
-MODEL = r"D:\\Roman Nepali Chatbot\\Entity Recognition\\crf_model.pkl"
+MODEL = r"D:\\Roman Nepali Chatbot\\Dialogue Chatabot\\models\\crf_model.pkl"
 
 import joblib
 from sklearn_crfsuite import CRF
