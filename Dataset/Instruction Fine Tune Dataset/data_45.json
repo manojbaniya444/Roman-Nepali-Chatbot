@@ -1,0 +1,1252 @@
+[
+    {
+        "context": "Nepal ko rajniti ma Jan Andolan ko ek dami mahatwa cha. Jan Andolan 2046 ma prajatantra lyaeko thiyo.",
+        "question": "Jan Andolan 2046 ma ke lyaeko thiyo?",
+        "answer": "Prajatantra"
+    },
+    {
+        "context": "Mount Everest sansar ko sabai bhanda uncha himal ho. Isko unchai 8,848 meter ho.",
+        "question": "Mount Everest ko unchai kati ho?",
+        "answer": "8,848 meter"
+    },
+    {
+        "context": "Gautam Buddha Lumbini ma janmeka thiye. Lumbini Nepal ko Rupandehi jilla ma chha.",
+        "question": "Gautam Buddha kahaan janmeko ho?",
+        "answer": "Lumbini"
+    },
+    {
+        "context": "Pokhara Nepal ko ek dami ramro paryatan thau ho. Wahaan Phewa taal, Mahendra cave, ra Sarangkot jasta thau chhan.",
+        "question": "Pokhara ma kun kun thau chhan?",
+        "answer": "Phewa taal, Mahendra cave, ra Sarangkot"
+    },
+    {
+        "context": "Dashain Nepal ko sabai bhanda thulo parva ho. Yo parva ma Tika, Jamara lagauchhan ra purnima samma manauchhan.",
+        "question": "Dashain ma ke ke garinchha?",
+        "answer": "Tika, Jamara lagauchhan ra manauchhan"
+    },
+    {
+        "context": "Swayambhunath Kathmandu ma chha. Yo ek historical ra dharmik thau ho.",
+        "question": "Swayambhunath kaha chha?",
+        "answer": "Kathmandu"
+    },
+    {
+        "context": "Nepali cricket team le 2023 ma ACC Premier Cup jitera Asia Cup ma entry paeko thiyo.",
+        "question": "Nepali cricket team le 2023 ma ke jitera Asia Cup ma gayo?",
+        "answer": "ACC Premier Cup"
+    },
+    {
+        "context": "Pashupatinath Mandir Nepal ko famous mandir ho. Barsa bhar dherai yatri haru yo mandir herna aauchhan.",
+        "question": "Pashupatinath Mandir kasto mandir ho?",
+        "answer": "Famous"
+    },
+    {
+        "context": "Pokhara ko mausam chadai badalinchha. Kahi din ma dherai gharmilo ra kahi din thado pani parna sakchha.",
+        "question": "Pokhara ko mausam kasto chha?",
+        "answer": "Chadai badalinchha"
+    },
+    {
+        "context": "Dashain ko samay ma ghar ma Tika lagaune, khelne ra ramailo garne kam huncha.",
+        "question": "Dashain ko samay ma ke ke garincha?",
+        "answer": "Tika lagaune, khelne ra ramailo garne"
+    },
+    {
+        "context": "Nepal ko national flower Laliguras ho. Yo phool Himalaya kshetra ma dherai dekhna sakincha.",
+        "question": "Nepal ko national flower ke ho?",
+        "answer": "Laliguras"
+    },
+    {
+        "context": "Kathmandu ma Durbar Square jasto historical thau dherai chhan. Yaha hanuman dhoka pani cha.",
+        "question": "Kathmandu ma kun historical thau chhan?",
+        "answer": "Durbar Square ra Hanuman Dhoka"
+    },
+    {
+        "context": "Chitwan ma Bharatpur Nepal ko ekdam ramro sahar ho. Chitwan National Park le din dinai tourist attract garcha.",
+        "question": "Chitwan ma tourist lai kasto thau manparcha?",
+        "answer": "Chitwan National Park"
+    },
+    {
+        "context": "Nepali haru ko major food dal, bhat, tarkari ho. Yo ta harek din ko khaana ma parcha.",
+        "question": "Nepali haru ko major food ke ho?",
+        "answer": "Dal, bhat, tarkari"
+    },
+    {
+        "context": "Nepal ek dami cultural country ho jaha dherai jat-jati ko milan dekhna sakincha.",
+        "question": "Nepal ma kasto culture cha?",
+        "answer": "Jat-jati ko milan dekhna sakincha"
+    },
+    {
+        "context": "Holi Nepal ko ek colorful festival ho. Yo parva ma rang khelne ra mithai khane pratha cha.",
+        "question": "Holi ma ke garincha?",
+        "answer": "Rang khelne ra mithai khane"
+    },
+    {
+        "context": "Fewa Taal Pokhara ma chha ra yo Nepal ko ekdam ramro taal ho. Isko majh ma Tal Barahi mandir chha.",
+        "question": "Fewa Taal kaha chha?",
+        "answer": "Pokhara"
+    },
+    {
+        "context": "Nepal ma Indra Jatra ek popular festival ho. Kathmandu ko durbar square ma yo parva ramailo sanga manaincha.",
+        "question": "Indra Jatra kaha manaincha?",
+        "answer": "Kathmandu ko Durbar Square"
+    },
+    {
+        "context": "Nepali note haru ma Sagarmatha ko tasbir dekhna milcha. Yo note Nepal Rastra Bank le banaucha.",
+        "question": "Nepali note ma ke dekhna milcha?",
+        "answer": "Sagarmatha ko tasbir"
+    },
+    {
+        "context": "Nepal ma dherai caste system chha tara sabai caste le sangai basne culture baneko cha.",
+        "question": "Nepal ma kasto caste system cha?",
+        "answer": "Sabai caste le sangai basne"
+    },
+    {
+        "context": "Thamel Kathmandu ma party spot ko roop ma popular cha. Tourist haru wahaan shopping ra night life ko lagi janchhan.",
+        "question": "Thamel ma tourist haru kina janchhan?",
+        "answer": "Shopping ra night life ko lagi"
+    },
+    {
+        "context": "Nepal ma Bagmati nadi ek historical nadi ho. Yo nadi Kathmandu ma bagdachha ra sabai le mahatwa dinchha.",
+        "question": "Bagmati nadi kaha bagdachha?",
+        "answer": "Kathmandu"
+    },
+    {
+        "context": "Lukla ko airstrip sansar ma ekdam risky airstrip ho. Yo sagarmatha chadhne ko lagi entry point ho.",
+        "question": "Lukla ko airstrip kina risky ho?",
+        "answer": "Sagarmatha chadhne ko lagi entry point ho"
+    },
+    {
+        "context": "Rara taal Nepal ko sabai bhanda thulo taal ho. Yo taal Mugu jilla ma chha.",
+        "question": "Nepal ko sabai bhanda thulo taal ko naam ke ho?",
+        "answer": "Rara taal"
+    },
+    {
+        "context": "Chhaupadi pratha Nepal ko pashchim chhetra ma common cha. Aba yo pratha ban gareko cha.",
+        "question": "Chhaupadi pratha Nepal ko kaha common cha?",
+        "answer": "Pashchim chhetra"
+    },
+    {
+        "context": "Nepal ma momo ekdam popular khana ho. Yo snack ko roop ma manparcha.",
+        "question": "Nepal ma sabai bhanda popular khana ke ho?",
+        "answer": "Momo"
+    },
+    {
+        "context": "Bhaktapur ko juju dhau ekdam mitho mithai ho. Yo dhau ko production Nepal ma ekdam famous cha.",
+        "question": "Bhaktapur ma kasto dhau mithai cha?",
+        "answer": "Juju dhau"
+    },
+    {
+        "context": "Sagarmatha sansar ko sabai bhanda uncha himal ho. Yo Everest ko naam le pani chincha.",
+        "question": "Sagarmatha lai arko naam ma ke bhanincha?",
+        "answer": "Everest"
+    },
+    {
+        "context": "Janakpur Nepal ko ek religious thau ho. Yo Sita ko janma sthaan ko roop ma chincha.",
+        "question": "Janakpur lai kina religious thau bhanincha?",
+        "answer": "Sita ko janma sthaan"
+    },
+    {
+        "context": "Chiya Nepal ko ek common drink ho. Nepali haru bihana chai piyo bhanera bolchan.",
+        "question": "Nepali haru ko common drink ke ho?",
+        "answer": "Chiya"
+    },
+    {
+        "context": "Nagarkot Kathmandu ko najik ma parcha ra sunrise herna ko lagi famous cha.",
+        "question": "Nagarkot ma tourist haru kina janchhan?",
+        "answer": "Sunrise herna"
+    },
+    {
+        "context": "Teej Nepali mahila haru ko ek dami important festival ho. Mahila haru yo din ma brata baschhan ra nach garchhan.",
+        "question": "Teej ko din Nepali mahila haru ke garchhan?",
+        "answer": "Brata baschhan ra nach garchhan"
+    },
+    {
+        "context": "Nepal ma Dashain ra Tihar dubaijana bada festivals ho. Dashain ma tika ra jamara lagauchhan ra Tihar ma bhai tika dinchhan.",
+        "question": "Nepal ma kun kun bada festivals chhan?",
+        "answer": "Dashain ra Tihar"
+    },
+    {
+        "context": "Tilicho taal Nepal ma sabai bhanda uncha ma bhayeko taal ho. Yo Annapurna himal ko najik chha.",
+        "question": "Tilicho taal kaha chha?",
+        "answer": "Annapurna himal ko najik"
+    },
+    {
+        "context": "Manakamana Mandir ma jane manchhe haru dherai wish haru pura garna prarthana garchhan. Yaha jane cable car ride ko pani suvidha cha.",
+        "question": "Manakamana Mandir ma jane ko lagi ke suvidha cha?",
+        "answer": "Cable car ride"
+    },
+    {
+        "context": "Koshi nadi Nepal ko sabai bhanda thulo nadi ho. Yo eastern Nepal bata bagchha.",
+        "question": "Nepal ko sabai bhanda thulo nadi ko naam ke ho?",
+        "answer": "Koshi nadi"
+    },
+    {
+        "context": "Tansen Palpa ek historical sahar ho jaha Rani Mahal jasto ramro thau chha.",
+        "question": "Tansen Palpa ma kun ramro thau chha?",
+        "answer": "Rani Mahal"
+    },
+    {
+        "context": "Nepal ko national bird Danphe ho. Yo himal ma dekhna sakincha.",
+        "question": "Nepal ko national bird ko naam ke ho?",
+        "answer": "Danphe"
+    },
+    {
+        "context": "Lumbini ma Ashoka Pillar ek historical landmark ho. Yo Gautam Buddha ko janma thau ma chha.",
+        "question": "Ashoka Pillar kaha chha?",
+        "answer": "Lumbini"
+    },
+    {
+        "context": "Karnali Nepal ko ek sabai bhanda lambai bagne nadi ho. Isko origin Tibet bata suru huncha.",
+        "question": "Nepal ko sabai bhanda lambai bagne nadi ko naam ke ho?",
+        "answer": "Karnali"
+    },
+    {
+        "context": "Chitwan National Park ma tiger, rhino, ra deer jasta wild animals dekhna sakincha.",
+        "question": "Chitwan National Park ma kun kun animals dekhna milcha?",
+        "answer": "Tiger, rhino, ra deer"
+    },
+    {
+        "context": "Bandipur ek hill station ho jaha bata dherai sundar himal herna sakincha.",
+        "question": "Bandipur ma tourist haru kina janchhan?",
+        "answer": "Sundar himal herna"
+    },
+    {
+        "context": "Everest Base Camp trek adventure lover haru ko lagi ekdam popular trek ho.",
+        "question": "Everest Base Camp trek kina popular cha?",
+        "answer": "Adventure lover haru ko lagi"
+    },
+    {
+        "context": "Saptakoshi Nepal ko sabai bhanda thulo river system ho. Yo dherai branches ma divide huncha.",
+        "question": "Saptakoshi kina important river system ho?",
+        "answer": "Dherai branches ma divide huncha"
+    },
+    {
+        "context": "Nepal ko pashchim chhetra ma Ghoda Ghodi taal ekdam ramro wetland area ho.",
+        "question": "Ghoda Ghodi taal kaha chha?",
+        "answer": "Nepal ko pashchim chhetra"
+    },
+    {
+        "context": "Dhulikhel ekdam ramro view point ho jaha bata himalaya herna sakincha.",
+        "question": "Dhulikhel ma tourist haru kina janchhan?",
+        "answer": "Himalaya herna"
+    },
+    {
+        "context": "Nepali calendar bikram sambat ho, jun AD bhanda 56/57 saal agadi huncha.",
+        "question": "Nepali calendar ko naam ke ho?",
+        "answer": "Bikram Sambat"
+    },
+    {
+        "context": "Kalinchowk Bhagwati Mandir ek religious thau ho, jun Dolakha ma chha.",
+        "question": "Kalinchowk Bhagwati Mandir kaha chha?",
+        "answer": "Dolakha"
+    },
+    {
+        "context": "Hetauda industrial area ko roop ma popular cha ra highway connection ko lagi important ho.",
+        "question": "Hetauda kina important ho?",
+        "answer": "Highway connection ko lagi"
+    },
+    {
+        "context": "Nepali movie industry lai Kollywood bhanincha ra yo Kathmandu ma base cha.",
+        "question": "Nepali movie industry lai ke bhanincha?",
+        "answer": "Kollywood"
+    },
+    {
+        "context": "Patan Durbar Square ek historical site ho, jun UNESCO World Heritage Site ho.",
+        "question": "Patan Durbar Square UNESCO ko kun category ma parcha?",
+        "answer": "World Heritage Site"
+    },
+    {
+        "context": "Kagbeni Mustang ma parcha ra trekking garne haru ko popular stop ho.",
+        "question": "Kagbeni kaha parcha?",
+        "answer": "Mustang"
+    },
+    {
+        "context": "Nepal ma mango garmiko ritu ma sabai bhanda manparne fal ho.",
+        "question": "Garmiko ritu ma Nepali haru kun fal manparcha?",
+        "answer": "Mango"
+    },
+    {
+        "context": "Budhanilkantha Mandir ma bishal Vishnu ko murti chha, jun pani ma suteko awastha ma cha.",
+        "question": "Budhanilkantha Mandir ma ke dekhna sakincha?",
+        "answer": "Bishal Vishnu ko murti"
+    },
+    {
+        "context": "Ranikot hiking spot ko roop ma popular cha ra Kathmandu ko najik ma parcha.",
+        "question": "Ranikot kina popular cha?",
+        "answer": "Hiking spot ko roop ma"
+    },
+    {
+        "context": "Ghandruk Annapurna region ma parcha ra gurung community ko culture herna sakincha.",
+        "question": "Ghandruk ma ke herna sakincha?",
+        "answer": "Gurung community ko culture"
+    },
+    {
+        "context": "Nepal ma tea garden Ilam ma dherai dekhna sakincha, jun lush green hills le dhakiyeko cha.",
+        "question": "Nepal ma tea garden kaha chha?",
+        "answer": "Ilam"
+    },
+    {
+        "context": "Shey Phoksundo Lake Dolpa ma chha ra yo ekdam deep blue color ko taal ho.",
+        "question": "Shey Phoksundo Lake kaha chha?",
+        "answer": "Dolpa"
+    },
+    {
+        "context": "Namche Bazaar Everest region ko ek popular stop ho, trekking ko lagi essential cha.",
+        "question": "Namche Bazaar kina popular cha?",
+        "answer": "Everest region ko popular stop"
+    },
+    {
+        "context": "Nepal ko traditional dress ma daura suruwal ra gunyo cholo parcha.",
+        "question": "Nepal ko traditional dress ma ke ke parcha?",
+        "answer": "Daura suruwal ra gunyo cholo"
+    },
+    {
+        "context": "Annapurna Base Camp trekking haru ko lagi ek popular destination ho.",
+        "question": "Annapurna Base Camp kina popular cha?",
+        "answer": "Trekking haru ko lagi"
+    },
+    {
+        "context": "Chhath Parva Nepal ko Madhesh region ma ek important parva ho.",
+        "question": "Chhath Parva kaha important cha?",
+        "answer": "Madhesh region"
+    },
+    {
+        "context": "Nepal ko National Anthem ko naam 'Sayaun Thunga Phoolka' ho.",
+        "question": "Nepal ko National Anthem ko naam ke ho?",
+        "answer": "Sayaun Thunga Phoolka"
+    },
+    {
+        "context": "Dharan Sunsari jilla ma parcha ra eastern Nepal ko ek ramro sahar ho.",
+        "question": "Dharan kaha parcha?",
+        "answer": "Sunsari jilla"
+    },
+    {
+        "context": "Palpa ma Rani Mahal 'Nepal ko Taj Mahal' ko roop ma famous cha.",
+        "question": "Palpa ma Rani Mahal lai ke bhanincha?",
+        "answer": "'Nepal ko Taj Mahal'"
+    },
+    {
+        "context": "Jomsom trek ma popular destination ho, jun kali Gandaki nadi ko najik chha.",
+        "question": "Jomsom kaha parcha?",
+        "answer": "Kali Gandaki nadi ko najik"
+    },
+    {
+        "context": "Tilganga Kathmandu ma eye hospital ko roop ma world famous cha.",
+        "question": "Tilganga kina famous cha?",
+        "answer": "Eye hospital ko roop ma"
+    },
+    {
+        "context": "Nepal ko national animal cow ho. Cow lai religious animal ko roop ma manincha.",
+        "question": "Nepal ko national animal ke ho?",
+        "answer": "Cow"
+    },
+    {
+        "context": "Mahendra Highway Nepal ko sabai bhanda lambai highway ho.",
+        "question": "Nepal ko sabai bhanda lambai highway ko naam ke ho?",
+        "answer": "Mahendra Highway"
+    },
+    {
+        "context": "Karnali region ma Jumla organic apple ko lagi famous cha.",
+        "question": "Jumla ma ke famous cha?",
+        "answer": "Organic apple"
+    },
+    {
+        "context": "Boudhanath Kathmandu ma chha ra yo Buddhist site ko roop ma world famous cha.",
+        "question": "Boudhanath kaha chha?",
+        "answer": "Kathmandu"
+    },
+    {
+        "context": "Nepal ma rice harvesting festival Asar ko mahina ma manincha.",
+        "question": "Rice harvesting festival kun mahina ma manincha?",
+        "answer": "Asar"
+    },
+    {
+        "context": "Tsho Rolpa Glacier Lake Rolwaling Himal ma chha ra ek adventure destination ho.",
+        "question": "Tsho Rolpa Lake kaha chha?",
+        "answer": "Rolwaling Himal"
+    },
+    {
+        "context": "Nepal ma Newar community ko lakhe dance ek popular traditional dance ho.",
+        "question": "Nepal ma kun community ko lakhe dance popular cha?",
+        "answer": "Newar community"
+    },
+    {
+        "context": "Sindhuligadhi ek historical thau ho, jaha Nepali sena le British East India Company lai harayeko thiyo.",
+        "question": "Sindhuligadhi kina historical cha?",
+        "answer": "Nepali sena le British East India Company lai harayeko thiyo"
+    },
+    {
+        "context": "Nepal ko sabai bhanda chhoto river Arun Khola ho.",
+        "question": "Nepal ko sabai bhanda chhoto river ko naam ke ho?",
+        "answer": "Arun Khola"
+    },
+    {
+        "context": "Godavari Botanical Garden Lalitpur ma chha ra yaha nature lover haru ko lagi ramro thau ho.",
+        "question": "Godavari Botanical Garden kaha chha?",
+        "answer": "Lalitpur"
+    },
+    {
+        "context": "Nepal ko Lhosar festival Tamang, Sherpa, ra Gurung community ko main festival ho.",
+        "question": "Lhosar festival kun kun community le manauchha?",
+        "answer": "Tamang, Sherpa, ra Gurung"
+    },
+    {
+        "context": "Kushma Parbat ma suspension bridge ko lagi popular cha.",
+        "question": "Kushma kina popular cha?",
+        "answer": "Suspension bridge ko lagi"
+    },
+    {
+        "context": "Nepal ma doko ek traditional basket ho, jun bamboo bata banincha.",
+        "question": "Doko ke bata banincha?",
+        "answer": "Bamboo"
+    },
+    {
+        "context": "Nepal ko Sunkoshi river rafting ko lagi ekdam popular cha.",
+        "question": "Sunkoshi river kina popular cha?",
+        "answer": "Rafting ko lagi"
+    },
+    {
+        "context": "Bardia National Park ma wild elephants ra Bengal tiger dekhna sakincha.",
+        "question": "Bardia National Park ma ke dekhna sakincha?",
+        "answer": "Wild elephants ra Bengal tiger"
+    },
+    {
+        "context": "Nepal ma international airport Tribhuvan International Airport ho, jun Kathmandu ma chha.",
+        "question": "Nepal ko international airport ko naam ke ho?",
+        "answer": "Tribhuvan International Airport"
+    },
+    {
+        "context": "Chandragiri Hills ma cable car ride ko suvidha chha ra yaha bata Kathmandu ko ramro view dekhincha.",
+        "question": "Chandragiri Hills ma ke special cha?",
+        "answer": "Cable car ride ra Kathmandu ko ramro view"
+    },
+    {
+        "context": "Rhododendron Nepal ko pahichan ho ra dherai jasto color ma yo himal ma phulcha.",
+        "question": "Rhododendron kaha phulcha?",
+        "answer": "Himal ma"
+    },
+    {
+        "context": "Nepal ma Nag Panchami festival nag ko pooja garera manauchha.",
+        "question": "Nag Panchami ma ke garincha?",
+        "answer": "Nag ko pooja"
+    },
+    {
+        "context": "Tansen bazar traditional Nepali architecture ko lagi famous cha.",
+        "question": "Tansen bazar kina famous cha?",
+        "answer": "Traditional Nepali architecture ko lagi"
+    },
+    {
+        "context": "Nepal ma Everest Marathon sansar ko sabai bhanda unchai ma hune marathon ho.",
+        "question": "Everest Marathon kina special cha?",
+        "answer": "Sansar ko sabai bhanda unchai ma hune"
+    },
+    {
+        "context": "Nepal ko educational hub Pokhara ra Kathmandu manincha.",
+        "question": "Nepal ko educational hub kun thau ho?",
+        "answer": "Pokhara ra Kathmandu"
+    },
+    {
+        "context": "Nepali jhola handmade product ho, jun tourist haru ko lagi popular souvenir ho.",
+        "question": "Nepali jhola kina popular cha?",
+        "answer": "Handmade product ho ra tourist haru ko lagi souvenir"
+    },
+    {
+        "context": "Nepal ma Dashrath Stadium football match haru ko lagi popular cha.",
+        "question": "Dashrath Stadium ma ke hunchha?",
+        "answer": "Football match haru"
+    },
+    {
+        "context": "Kalapathar Everest region ma ek ramro view point ho, jaha bata Everest herna sakincha.",
+        "question": "Kalapathar ma tourist haru kina janchhan?",
+        "answer": "Everest herna"
+    },
+    {
+        "context": "Nepal ma Chhath Parva din Surya dev ko pooja garincha.",
+        "question": "Chhath Parva ma kun dev ko pooja garincha?",
+        "answer": "Surya dev"
+    },
+    {
+        "context": "Gosaikunda taal Rasuwa ma chha ra Hindu haru ko religious thau ho.",
+        "question": "Gosaikunda taal kaha chha?",
+        "answer": "Rasuwa"
+    },
+    {
+        "context": "Khokana ek traditional village ho, jun mustard oil ko lagi famous cha.",
+        "question": "Khokana ma ke famous cha?",
+        "answer": "Mustard oil"
+    },
+    {
+        "context": "Nepal ma Ropain Jatra kheti ko suruwat ko chinhari ho.",
+        "question": "Ropain Jatra kina manincha?",
+        "answer": "Kheti ko suruwat ko chinhari"
+    },
+    {
+        "context": "Pokhara ma Bindhyabasini Mandir ek popular religious site ho.",
+        "question": "Bindhyabasini Mandir kaha chha?",
+        "answer": "Pokhara"
+    },
+    {
+        "context": "Nepal ma dherai jaso Himali area ma yak farming huncha.",
+        "question": "Nepal ma yak farming kaha huncha?",
+        "answer": "Himali area ma"
+    },
+    {
+        "context": "Mustang region ma Tiji festival manaincha, jun Buddhist tradition ma base cha.",
+        "question": "Tiji festival kun region ma manincha?",
+        "answer": "Mustang region"
+    },
+    {
+        "context": "Phewa taal ma boating ek popular activity ho.",
+        "question": "Phewa taal ma tourist haru ke garchhan?",
+        "answer": "Boating"
+    },
+    {
+        "context": "Nepal ma gundruk ek traditional Nepali food ho, jun fermented leafy vegetable bata banincha.",
+        "question": "Gundruk ke ho?",
+        "answer": "Traditional Nepali food"
+    },
+    {
+        "context": "Janaki Mandir Janakpur ma chha ra yaha Sita ko pooja garincha.",
+        "question": "Janaki Mandir kaha chha?",
+        "answer": "Janakpur"
+    },
+    {
+        "context": "Nepal ma Patale Chhango 'David's Fall' ko roop ma popular cha.",
+        "question": "Patale Chhango lai arko naam ma ke bhanincha?",
+        "answer": "David's Fall"
+    },
+    {
+        "context": "Sauraha Chitwan National Park ko gate ho, jun jungle safari ko lagi popular cha.",
+        "question": "Sauraha kina popular cha?",
+        "answer": "Jungle safari ko lagi"
+    },
+    {
+        "context": "Rara Lake Karnali Pradesh ma parcha ra yo Nepal ko sabai bhanda thulo taal ho.",
+        "question": "Rara Lake kaha parcha?",
+        "answer": "Karnali Pradesh"
+    },
+    {
+        "context": "Pokhara ko Mahendra Cave ek popular tourist destination ho, jun limestone cave ho.",
+        "question": "Mahendra Cave ma tourist haru kina janchhan?",
+        "answer": "Limestone cave herna"
+    },
+    {
+        "context": "Nepal ma momo ek popular street food ho, jun dumpling jasto dish ho.",
+        "question": "Nepal ko popular street food ko naam ke ho?",
+        "answer": "Momo"
+    },
+    {
+        "context": "Sagarmatha ko original naam Chomolungma ho, jun Tibetan language ma cha.",
+        "question": "Sagarmatha ko original naam ke ho?",
+        "answer": "Chomolungma"
+    },
+    {
+        "context": "Thamel Kathmandu ko ek tourist hub ho, jun nightlife ra shopping ko lagi famous cha.",
+        "question": "Thamel kina famous cha?",
+        "answer": "Nightlife ra shopping ko lagi"
+    },
+    {
+        "context": "Tilicho Lake sabai bhanda unchai ma parne fresh water lake ho.",
+        "question": "Tilicho Lake kasto taal ho?",
+        "answer": "Fresh water lake"
+    },
+    {
+        "context": "Nepal ma 6 ma samaya zone cha, tara most parts GMT+5:45 ma cha.",
+        "question": "Nepal ma official time zone ke ho?",
+        "answer": "GMT+5:45"
+    },
+    {
+        "context": "Lumbini Gautam Buddha ko janma thau ho ra UNESCO World Heritage Site ho.",
+        "question": "Lumbini UNESCO list ma kina cha?",
+        "answer": "Gautam Buddha ko janma thau ho"
+    },
+    {
+        "context": "Tihar festival ma bhai tika sabai bhanda special part ho.",
+        "question": "Tihar festival ma ke special cha?",
+        "answer": "Bhai tika"
+    },
+    {
+        "context": "Nepal ma Milke Danda rhododendron ko lagi ek popular trekking route ho.",
+        "question": "Milke Danda ma ke herna sakincha?",
+        "answer": "Rhododendron"
+    },
+    {
+        "context": "Gokyo Lake Everest region ma parcha ra trekking ko lagi popular cha.",
+        "question": "Gokyo Lake kaha parcha?",
+        "answer": "Everest region"
+    },
+    {
+        "context": "Nepal ma traditional khaja set ma chiura, alu, ra masu rakhincha.",
+        "question": "Traditional Nepali khaja set ma ke ke rakhincha?",
+        "answer": "Chiura, alu, ra masu"
+    },
+    {
+        "context": "Kirtipur Kathmandu ko najik ma parcha ra Newar culture ko lagi famous cha.",
+        "question": "Kirtipur ma ke famous cha?",
+        "answer": "Newar culture"
+    },
+    {
+        "context": "Nepal ma Indra Jatra ek traditional festival ho, jun Kathmandu ma manaincha.",
+        "question": "Indra Jatra kaha manincha?",
+        "answer": "Kathmandu"
+    },
+    {
+        "context": "Nepal ma Pathivara Temple Taplejung ma chha ra religious pilgrimage ko lagi important cha.",
+        "question": "Pathivara Temple kaha chha?",
+        "answer": "Taplejung"
+    },
+    {
+        "context": "Chitlang ek beautiful valley ho, jun organic cheese ko lagi famous cha.",
+        "question": "Chitlang ma ke famous cha?",
+        "answer": "Organic cheese"
+    },
+    {
+        "context": "Nepal ma Deurali ek trekking rest point ho, jun Annapurna region ma parcha.",
+        "question": "Deurali trekking ko kun region ma parcha?",
+        "answer": "Annapurna region"
+    },
+    {
+        "context": "Nepal ma Everest Base Camp ko height 5,364 meters ho.",
+        "question": "Everest Base Camp ko height kati cha?",
+        "answer": "5,364 meters"
+    },
+    {
+        "context": "Bhaktapur ma Juju dhau ek special food ho, jun sweet curd ho.",
+        "question": "Bhaktapur ma Juju dhau ke ho?",
+        "answer": "Sweet curd"
+    },
+    {
+        "context": "Ramechhap ma Manthali ek popular destination ho, jun rafting ko lagi famous cha.",
+        "question": "Manthali ma ke popular cha?",
+        "answer": "Rafting"
+    },
+    {
+        "context": "Nepal ma Bhote Koshi river sabai bhanda challenging rafting ko lagi manincha.",
+        "question": "Bhote Koshi river kina famous cha?",
+        "answer": "Challenging rafting ko lagi"
+    },
+    {
+        "context": "Dhulikhel ma Namo Buddha ek important Buddhist site ho.",
+        "question": "Dhulikhel ma kun religious site cha?",
+        "answer": "Namo Buddha"
+    },
+    {
+        "context": "Nepal ma Rato Macchindranath ko rath yatra Lalitpur ma hunchha.",
+        "question": "Rato Macchindranath ko rath yatra kaha manincha?",
+        "answer": "Lalitpur"
+    },
+    {
+        "context": "Nepal ko Chhimeki desh haru China ra India ho.",
+        "question": "Nepal ko chhimeki desh kun kun ho?",
+        "answer": "China ra India"
+    },
+    {
+        "context": "Nepal ko main agriculture product dhan ho.",
+        "question": "Nepal ko main agriculture product ke ho?",
+        "answer": "Dhan"
+    },
+    {
+        "context": "Nepal ko sabai bhanda uncha city Mustang ko Lo Manthang ho.",
+        "question": "Nepal ko sabai bhanda uncha city ko naam ke ho?",
+        "answer": "Lo Manthang"
+    },
+    {
+        "context": "Panauti ek ancient Newar settlement ho, jun temples ko lagi famous cha.",
+        "question": "Panauti ma ke famous cha?",
+        "answer": "Temples"
+    },
+    {
+        "context": "Nepal ma janawar ko lagi Chitwan National Park ko importance dherai cha.",
+        "question": "Chitwan National Park kina important cha?",
+        "answer": "Janawar ko lagi"
+    },
+    {
+        "context": "Nepal ko Tsho Rolpa Lake sabai bhanda thulo glacier lake ho.",
+        "question": "Tsho Rolpa Lake kasto lake ho?",
+        "answer": "Sabai bhanda thulo glacier lake"
+    },
+    {
+        "context": "Nepal ma Bhairahawa Gautam Buddha International Airport ho, jun second international airport ho.",
+        "question": "Nepal ko second international airport ko naam ke ho?",
+        "answer": "Gautam Buddha International Airport"
+    },
+    {
+        "context": "Everest region ma Namche Bazaar trekking route ko ek popular town ho.",
+        "question": "Namche Bazaar kaha parcha?",
+        "answer": "Everest region"
+    },
+    {
+        "context": "Pokhara ma World Peace Pagoda ek famous stupa ho.",
+        "question": "World Peace Pagoda kaha chha?",
+        "answer": "Pokhara"
+    },
+    {
+        "context": "Lalitpur ma Patan Durbar Square ek UNESCO World Heritage Site ho.",
+        "question": "Patan Durbar Square ko status ke ho?",
+        "answer": "UNESCO World Heritage Site"
+    },
+    {
+        "context": "Nepal ko traditional outfit ma daura suruwal ra gunyu choli parcha.",
+        "question": "Nepal ko traditional outfit ma ke parcha?",
+        "answer": "Daura suruwal ra gunyu choli"
+    },
+    {
+        "context": "Kathmandu ma Pashupatinath Temple Hindu haru ko ek important religious site ho.",
+        "question": "Pashupatinath Temple kun dharma sanga sambandhit cha?",
+        "answer": "Hindu dharma"
+    },
+    {
+        "context": "Nepal ma Makalu Himal fifth highest mountain ho.",
+        "question": "Makalu Himal ko ranking ke ho?",
+        "answer": "Fifth highest mountain"
+    },
+    {
+        "context": "Nepal ma Sagarmatha National Park trekking ra wildlife ko lagi famous cha.",
+        "question": "Sagarmatha National Park kina famous cha?",
+        "answer": "Trekking ra wildlife ko lagi"
+    },
+    {
+        "context": "Dolpa region ma Shey Phoksundo Lake ko pani deep blue color ko cha.",
+        "question": "Shey Phoksundo Lake ko pani kasto cha?",
+        "answer": "Deep blue color"
+    },
+    {
+        "context": "Bungamati ek traditional village ho, jun wood carving ko lagi famous cha.",
+        "question": "Bungamati ma ke famous cha?",
+        "answer": "Wood carving"
+    },
+    {
+        "context": "Nepal ma Yomari Newar community ko special sweet dish ho.",
+        "question": "Yomari ko sambandh kun community sanga cha?",
+        "answer": "Newar community"
+    },
+    {
+        "context": "Nepal ma Koshi Barrage Sunsari ma parcha ra irrigation ko lagi important cha.",
+        "question": "Koshi Barrage kaha chha?",
+        "answer": "Sunsari"
+    },
+    {
+        "context": "Nepal ma Karnali river sabai bhanda lamo river ho.",
+        "question": "Nepal ko sabai bhanda lamo river ko naam ke ho?",
+        "answer": "Karnali river"
+    },
+    {
+        "context": "Nepal ma Changu Narayan Temple ek purano Hindu mandir ho.",
+        "question": "Changu Narayan Temple kasto mandir ho?",
+        "answer": "Purano Hindu mandir"
+    },
+    {
+        "context": "Gorkha ma Manakamana Temple cable car ride ko lagi popular cha.",
+        "question": "Manakamana Temple kina popular cha?",
+        "answer": "Cable car ride ko lagi"
+    },
+    {
+        "context": "Kathmandu ma Swayambhunath Temple 'Monkey Temple' ko naam le pani chincha.",
+        "question": "Swayambhunath Temple lai arko naam ma ke bhanincha?",
+        "answer": "Monkey Temple"
+    },
+    {
+        "context": "Nepal ma Mustang desert landscape ko lagi unique manincha.",
+        "question": "Mustang ko landscape kasto cha?",
+        "answer": "Desert landscape"
+    },
+    {
+        "context": "Nepal ma Ghandruk ek gurung village ho, trekking route ma parcha.",
+        "question": "Ghandruk ma ko ko baschhan?",
+        "answer": "Gurung community"
+    },
+    {
+        "context": "Nepal ma Seto Machhindranath ko jatra Kathmandu ma manincha.",
+        "question": "Seto Machhindranath ko jatra kaha manincha?",
+        "answer": "Kathmandu"
+    },
+    {
+        "context": "Janakpur ma Mithila art ko popularity dherai cha.",
+        "question": "Janakpur ma ke popular cha?",
+        "answer": "Mithila art"
+    },
+    {
+        "context": "Pokhara ma Begnas Lake ek peaceful destination ho.",
+        "question": "Begnas Lake kasto thau ho?",
+        "answer": "Peaceful destination"
+    },
+    {
+        "context": "Nepal ko official currency Nepali rupee ho.",
+        "question": "Nepal ko official currency ke ho?",
+        "answer": "Nepali rupee"
+    },
+    {
+        "context": "Bhojpur Nepal ko traditional khukuri production ko lagi famous cha.",
+        "question": "Bhojpur kina famous cha?",
+        "answer": "Traditional khukuri production ko lagi"
+    },
+    {
+        "context": "Nepal ma Kalinchowk ek religious site ho, jun snow ko lagi pani popular cha.",
+        "question": "Kalinchowk ma ke famous cha?",
+        "answer": "Snow ra religious site"
+    },
+    {
+        "context": "Nepal ma Ilam tea production ko lagi popular thau ho.",
+        "question": "Ilam kina popular cha?",
+        "answer": "Tea production ko lagi"
+    },
+    {
+        "context": "Nepal ko parliament building Baneshwor ma chha.",
+        "question": "Nepal ko parliament building kaha chha?",
+        "answer": "Baneshwor"
+    },
+    {
+        "context": "Nagarkot sunrise view ko lagi ekdam popular cha.",
+        "question": "Nagarkot ma ke herna sakincha?",
+        "answer": "Sunrise view"
+    },
+    {
+        "context": "Phewa Lake ma Tal Barahi Temple ek island mandir ho.",
+        "question": "Tal Barahi Temple kaha chha?",
+        "answer": "Phewa Lake ma"
+    },
+    {
+        "context": "Nepal ma Chhath Parva tarai region ma manincha.",
+        "question": "Chhath Parva kaha manincha?",
+        "answer": "Tarai region"
+    },
+    {
+        "context": "Nepal ma Bhaktapur ko pottery square traditional pottery making ko lagi famous cha.",
+        "question": "Bhaktapur ko pottery square kina famous cha?",
+        "answer": "Traditional pottery making ko lagi"
+    },
+    {
+        "context": "Nepal ma Annapurna Circuit ek popular trekking route ho, jun diverse landscape ko lagi manincha.",
+        "question": "Annapurna Circuit kina popular cha?",
+        "answer": "Diverse landscape ko lagi"
+    },
+    {
+        "context": "Nepal ma Thakali khana ek traditional Nepali dish ho, jun dal bhat set ho.",
+        "question": "Thakali khana ma ke parcha?",
+        "answer": "Dal bhat set"
+    },
+    {
+        "context": "Nepal ma Lhosar festival Tamang ra Gurung community le manauchhan.",
+        "question": "Lhosar kun community le manauchhan?",
+        "answer": "Tamang ra Gurung community"
+    },
+    {
+        "context": "Janakpur ma Janaki Temple Ramayan ko prasiddha mandir ho.",
+        "question": "Janaki Temple kina prasiddha cha?",
+        "answer": "Ramayan ko prasiddha mandir ho"
+    },
+    {
+        "context": "Nepal ma Chandragiri Hills Kathmandu ko view ko lagi popular cha.",
+        "question": "Chandragiri Hills kina popular cha?",
+        "answer": "Kathmandu ko view ko lagi"
+    },
+    {
+        "context": "Nepal ma Dhulikhel ek popular hiking destination ho.",
+        "question": "Dhulikhel kina popular cha?",
+        "answer": "Hiking destination ko lagi"
+    },
+    {
+        "context": "Rara Lake ma boating ekdam popular activity ho.",
+        "question": "Rara Lake ma ke garna sakincha?",
+        "answer": "Boating"
+    },
+    {
+        "context": "Nepal ma Ghale Gaun ek cultural tourism destination ho.",
+        "question": "Ghale Gaun kina important cha?",
+        "answer": "Cultural tourism destination ko lagi"
+    },
+    {
+        "context": "Nepal ko Sauraha ma elephant safari popular cha.",
+        "question": "Sauraha ma ke popular cha?",
+        "answer": "Elephant safari"
+    },
+    {
+        "context": "Nagarkot ma hiking ra mountain view ko lagi tourist haru janchhan.",
+        "question": "Nagarkot ma tourist haru kina janchhan?",
+        "answer": "Hiking ra mountain view ko lagi"
+    },
+    {
+        "context": "Nepal ma Dharan BP Koirala Institute of Health Sciences le popular cha.",
+        "question": "Dharan kina popular cha?",
+        "answer": "BP Koirala Institute of Health Sciences ko lagi"
+    },
+    {
+        "context": "Nepal ma Marpha apple farming ko lagi famous cha.",
+        "question": "Marpha ma ke famous cha?",
+        "answer": "Apple farming"
+    },
+    {
+        "context": "Nepal ma Pathao ek popular ride-sharing app ho.",
+        "question": "Nepal ma kun ride-sharing app popular cha?",
+        "answer": "Pathao"
+    },
+    {
+        "context": "Bardiya National Park wildlife watching ko lagi prasiddha cha.",
+        "question": "Bardiya National Park kina prasiddha cha?",
+        "answer": "Wildlife watching ko lagi"
+    },
+    {
+        "context": "Lumbini ma Ashoka Pillar Gautam Buddha ko janma thau ko nishani ho.",
+        "question": "Ashoka Pillar ko significance ke ho?",
+        "answer": "Gautam Buddha ko janma thau ko nishani ho"
+    },
+    {
+        "context": "Pokhara ma Davis Falls ek unique waterfall ho.",
+        "question": "Davis Falls kina unique cha?",
+        "answer": "Unique waterfall ho"
+    },
+    {
+        "context": "Nepal ma Mardi Himal trek natural beauty ko lagi popular cha.",
+        "question": "Mardi Himal trek kina popular cha?",
+        "answer": "Natural beauty ko lagi"
+    },
+    {
+        "context": "Nepal ma Krishnashtami Krishna Bhagwan ko janma ko din ho.",
+        "question": "Krishnashtami ma ke manauchhan?",
+        "answer": "Krishna Bhagwan ko janma"
+    },
+    {
+        "context": "Bhaktapur ma Nyatapola Temple ek tall pagoda-style mandir ho.",
+        "question": "Nyatapola Temple kasto mandir ho?",
+        "answer": "Tall pagoda-style mandir"
+    },
+    {
+        "context": "Gosaikunda taal ek sacred lake ho, jun Langtang region ma parcha.",
+        "question": "Gosaikunda taal kaha chha?",
+        "answer": "Langtang region ma"
+    },
+    {
+        "context": "Nepal ma Bandipur ek preserved cultural heritage town ho.",
+        "question": "Bandipur kina preserved cha?",
+        "answer": "Cultural heritage ko lagi"
+    },
+    {
+        "context": "Pokhara ma Sarangkot sunrise ra paragliding ko lagi prasiddha cha.",
+        "question": "Sarangkot ma tourist haru kina janchhan?",
+        "answer": "Sunrise ra paragliding ko lagi"
+    },
+    {
+        "context": "Nepal ma Mount Everest expedition adventure seekers ko lagi popular cha.",
+        "question": "Mount Everest kina popular cha?",
+        "answer": "Expedition ra adventure ko lagi"
+    },
+    {
+        "context": "Nepal ma Bhote Jatra ek traditional festival ho.",
+        "question": "Bhote Jatra ke ho?",
+        "answer": "Traditional festival"
+    },
+    {
+        "context": "Nepal ma Kali Gandaki river ma shaligram stones dekhna sakincha.",
+        "question": "Kali Gandaki river ma ke dekhna sakincha?",
+        "answer": "Shaligram stones"
+    },
+    {
+        "context": "Nepal ma Mardi Himal trek ko highest point Mardi Base Camp ho.",
+        "question": "Mardi Himal trek ko highest point ke ho?",
+        "answer": "Mardi Base Camp"
+    },
+    {
+        "context": "Nepal ma Tansen ek historic town ho, jun Palpa district ma parcha.",
+        "question": "Tansen kaha chha?",
+        "answer": "Palpa district ma"
+    },
+    {
+        "context": "Bardiya National Park ma Bengal tiger dekhna milcha.",
+        "question": "Bardiya National Park ma ke dekhna milcha?",
+        "answer": "Bengal tiger"
+    },
+    {
+        "context": "Nepal ma Dhulikhel ma Kali Temple ek religious site ho.",
+        "question": "Dhulikhel ma kun religious site cha?",
+        "answer": "Kali Temple"
+    },
+    {
+        "context": "Nepal ma Tiji Festival Mustang region ma manincha, jun Tibetan culture sanga jodiyeko cha.",
+        "question": "Tiji Festival kaha manincha?",
+        "answer": "Mustang region"
+    },
+    {
+        "context": "Nepal ma Koshi Tappu Wildlife Reserve bird watching ko lagi prasiddha cha.",
+        "question": "Koshi Tappu Wildlife Reserve kina famous cha?",
+        "answer": "Bird watching ko lagi"
+    },
+    {
+        "context": "Nepal ma Indra Jatra Kathmandu valley ma manincha.",
+        "question": "Indra Jatra kaha manincha?",
+        "answer": "Kathmandu valley"
+    },
+    {
+        "context": "Chitwan National Park ma jeep safari ra jungle walk popular activities ho.",
+        "question": "Chitwan National Park ma ke garna sakincha?",
+        "answer": "Jeep safari ra jungle walk"
+    },
+    {
+        "context": "Nepal ma Sunkoshi river white water rafting ko lagi popular cha.",
+        "question": "Sunkoshi river kina famous cha?",
+        "answer": "White water rafting ko lagi"
+    },
+    {
+        "context": "Nepal ma Namobuddha ek important Buddhist pilgrimage site ho.",
+        "question": "Namobuddha kasto thau ho?",
+        "answer": "Important Buddhist pilgrimage site"
+    },
+    {
+        "context": "Nepal ma Everest Base Camp trek adventure seekers ko lagi world famous ho.",
+        "question": "Everest Base Camp trek kina popular cha?",
+        "answer": "Adventure seekers ko lagi world famous"
+    },
+    {
+        "context": "Nepal ma Helambu trekking trail Tamang culture explore garna popular cha.",
+        "question": "Helambu trekking trail kina popular cha?",
+        "answer": "Tamang culture explore garna"
+    },
+    {
+        "context": "Nepal ma Bhaktapur ko Juju Dhau sweet curd ko rup ma prasiddha cha.",
+        "question": "Bhaktapur ko Juju Dhau kasto ho?",
+        "answer": "Sweet curd"
+    },
+    {
+        "context": "Nepal ma Basantapur Durbar Square ek historical palace complex ho.",
+        "question": "Basantapur Durbar Square kasto thau ho?",
+        "answer": "Historical palace complex"
+    },
+    {
+        "context": "Nepal ma Rato Machhindranath ko jatra ek lamo festival ho.",
+        "question": "Rato Machhindranath ko jatra kasto ho?",
+        "answer": "Ek lamo festival"
+    },
+    {
+        "context": "Nepal ma Janaki Temple Mithila architecture ko udaharan ho.",
+        "question": "Janaki Temple ko architecture kasto ho?",
+        "answer": "Mithila architecture"
+    },
+    {
+        "context": "Nepal ma Patan ko Golden Temple ek Buddhist monastery ho.",
+        "question": "Golden Temple kasto ho?",
+        "answer": "Buddhist monastery"
+    },
+    {
+        "context": "Nepal ma Kakani ek scenic hill station ho, jun trout farming ko lagi pani prasiddha cha.",
+        "question": "Kakani kina prasiddha cha?",
+        "answer": "Scenic hill station ra trout farming ko lagi"
+    },
+    {
+        "context": "Nepal ma Ghorepani Poon Hill sunrise view ko lagi trek popular cha.",
+        "question": "Ghorepani Poon Hill trek kina popular cha?",
+        "answer": "Sunrise view ko lagi"
+    },
+    {
+        "context": "Nepal ma Bhaktapur Durbar Square Newar architecture ko lagi prasiddha cha.",
+        "question": "Bhaktapur Durbar Square kina prasiddha cha?",
+        "answer": "Newar architecture ko lagi"
+    },
+    {
+        "context": "Nepal ma Lumbini UNESCO World Heritage Site ho.",
+        "question": "Lumbini ko status ke ho?",
+        "answer": "UNESCO World Heritage Site"
+    },
+    {
+        "context": "Nepal ma Siddha Gufa sabai bhanda thulo cave ho.",
+        "question": "Nepal ko sabai bhanda thulo cave ko naam ke ho?",
+        "answer": "Siddha Gufa"
+    },
+    {
+        "context": "Nepal ma Kalinchowk Bhagwati mandir ek high-altitude temple ho.",
+        "question": "Kalinchowk Bhagwati mandir kasto mandir ho?",
+        "answer": "High-altitude temple"
+    },
+    {
+        "context": "Nepal ma Phulchoki Hill bird watching ra hiking ko lagi popular cha.",
+        "question": "Phulchoki Hill ma ke garna sakincha?",
+        "answer": "Bird watching ra hiking"
+    },
+    {
+        "context": "Nepal ma Tilicho Lake sabai bhanda high-altitude lake ho.",
+        "question": "Nepal ko sabai bhanda high-altitude lake ko naam ke ho?",
+        "answer": "Tilicho Lake"
+    },
+    {
+        "context": "Nepal ma Nar Phu Valley trek hidden valleys explore garna perfect cha.",
+        "question": "Nar Phu Valley trek kina unique cha?",
+        "answer": "Hidden valleys explore garna perfect"
+    },
+    {
+        "context": "Nepal ma Kirtipur ek historical town ho.",
+        "question": "Kirtipur kasto thau ho?",
+        "answer": "Historical town"
+    },
+    {
+        "context": "Nepal ma Manaslu trek untouched nature experience garna popular cha.",
+        "question": "Manaslu trek kina special cha?",
+        "answer": "Untouched nature experience garna"
+    },
+    {
+        "context": "Nepal ma Changu Narayan mandir sabai bhanda purano mandir ho.",
+        "question": "Nepal ko sabai bhanda purano mandir ko naam ke ho?",
+        "answer": "Changu Narayan mandir"
+    },
+    {
+        "context": "Nepal ma Kathmandu Durbar Square history ra culture explore garna famous cha.",
+        "question": "Kathmandu Durbar Square kina prasiddha cha?",
+        "answer": "History ra culture explore garna"
+    },
+    {
+        "context": "Nepal ma Boudhanath Stupa ek World Heritage Site ho.",
+        "question": "Boudhanath Stupa ko status ke ho?",
+        "answer": "World Heritage Site"
+    },
+    {
+        "context": "Nepal ma Palpa ko Rani Mahal ek historical palace ho.",
+        "question": "Palpa ko Rani Mahal kina important cha?",
+        "answer": "Historical palace ho"
+    },
+    {
+        "context": "Nepal ma Shree Antu Danda Ilam ma cha ra sunrise view ko lagi popular cha.",
+        "question": "Shree Antu Danda ma ke herna sakincha?",
+        "answer": "Sunrise view"
+    },
+    {
+        "context": "Nepal ma Dhankuta tea farming ko lagi prasiddha cha.",
+        "question": "Dhankuta kina famous cha?",
+        "answer": "Tea farming ko lagi"
+    },
+    {
+        "context": "Nepal ma Pashupatinath Mandir ek UNESCO World Heritage Site ho.",
+        "question": "Pashupatinath Mandir ko status ke ho?",
+        "answer": "UNESCO World Heritage Site"
+    },
+    {
+        "context": "Nepal ma Sagarmatha National Park snow leopard conservation ko lagi prasiddha cha.",
+        "question": "Sagarmatha National Park kina famous cha?",
+        "answer": "Snow leopard conservation ko lagi"
+    },
+    {
+        "context": "Nepal ma Ilam tea garden le scenic beauty provide garcha.",
+        "question": "Ilam ma ke prasiddha cha?",
+        "answer": "Tea garden"
+    },
+    {
+        "context": "Nepal ma Mustang ko caves archaeological significance ko lagi manincha.",
+        "question": "Mustang ko caves kina prasiddha cha?",
+        "answer": "Archaeological significance ko lagi"
+    },
+    {
+        "context": "Nepal ma Khaptad National Park untouched wilderness ko lagi popular cha.",
+        "question": "Khaptad National Park kina popular cha?",
+        "answer": "Untouched wilderness ko lagi"
+    },
+    {
+        "context": "Nepal ma Rara Lake sabai bhanda thulo fresh water lake ho.",
+        "question": "Nepal ko sabai bhanda thulo fresh water lake ko naam ke ho?",
+        "answer": "Rara Lake"
+    },
+    {
+        "context": "Nepal ma Chitlang goat cheese ko lagi prasiddha cha.",
+        "question": "Chitlang kina famous cha?",
+        "answer": "Goat cheese ko lagi"
+    },
+    {
+        "context": "Nepal ma Panch Pokhari religious pilgrimage site ko rup ma manincha.",
+        "question": "Panch Pokhari kasto thau ho?",
+        "answer": "Religious pilgrimage site"
+    },
+    {
+        "context": "Nepal ma Barun Valley unique biodiversity ko lagi prasiddha cha.",
+        "question": "Barun Valley kina important cha?",
+        "answer": "Unique biodiversity ko lagi"
+    },
+    {
+        "context": "Nepal ma Ghandruk ek Gurung community village ho.",
+        "question": "Ghandruk ma kun community bascha?",
+        "answer": "Gurung community"
+    },
+    {
+        "context": "Nepal ma Langtang Valley trek natural beauty explore garna prasiddha cha.",
+        "question": "Langtang Valley trek kina popular cha?",
+        "answer": "Natural beauty explore garna"
+    },
+    {
+        "context": "Nepal ma Nuwakot Durbar ek historical palace ho.",
+        "question": "Nuwakot Durbar kasto ho?",
+        "answer": "Historical palace"
+    },
+    {
+        "context": "Nepal ma Kaligandaki Gorge sabai bhanda deepest gorge ho.",
+        "question": "Kaligandaki Gorge kina special cha?",
+        "answer": "Sabai bhanda deepest gorge ho"
+    },
+    {
+        "context": "Nepal ma Tansen Bazaar traditional crafts ko lagi famous cha.",
+        "question": "Tansen Bazaar kina prasiddha cha?",
+        "answer": "Traditional crafts ko lagi"
+    },
+    {
+        "context": "Nepal ma Janakpur Maithili art ko lagi prasiddha cha.",
+        "question": "Janakpur kina famous cha?",
+        "answer": "Maithili art ko lagi"
+    },
+    {
+        "context": "Nepal ma Tilaurakot Gautam Buddha ko childhood residence ho.",
+        "question": "Tilaurakot kina prasiddha cha?",
+        "answer": "Gautam Buddha ko childhood residence"
+    },
+    {
+        "context": "Nepal ma Bandipur preserved cultural village ho.",
+        "question": "Bandipur kasto thau ho?",
+        "answer": "Preserved cultural village"
+    },
+    {
+        "context": "Nepal ma Koshi Barrage bird watching ra fishing ko lagi prasiddha cha.",
+        "question": "Koshi Barrage ma ke garna sakincha?",
+        "answer": "Bird watching ra fishing"
+    },
+    {
+        "context": "Nepal ma Phoksundo Lake sabai bhanda deepest lake ho.",
+        "question": "Nepal ko sabai bhanda deepest lake ko naam ke ho?",
+        "answer": "Phoksundo Lake"
+    },
+    {
+        "context": "Nepal ma Dolpa region remote trekking ko lagi prasiddha cha.",
+        "question": "Dolpa region kina famous cha?",
+        "answer": "Remote trekking ko lagi"
+    },
+    {
+        "context": "Nepal ma Manang apple farming ra yak cheese ko lagi popular cha.",
+        "question": "Manang ma ke popular cha?",
+        "answer": "Apple farming ra yak cheese"
+    },
+    {
+        "context": "Nepal ma Swargadwari Temple ek important pilgrimage site ho.",
+        "question": "Swargadwari Temple kasto ho?",
+        "answer": "Important pilgrimage site"
+    },
+    {
+        "context": "Nepal ma Rupa Lake peaceful boating experience ko lagi famous cha.",
+        "question": "Rupa Lake ma ke garna sakincha?",
+        "answer": "Peaceful boating experience"
+    },
+    {
+        "context": "Nepal ma Tsho Rolpa Lake glacial lake ho.",
+        "question": "Tsho Rolpa Lake kasto lake ho?",
+        "answer": "Glacial lake"
+    },
+    {
+        "context": "Nepal ma Panauti ek historic town ho, jun cultural festivals ko lagi prasiddha cha.",
+        "question": "Panauti kina prasiddha cha?",
+        "answer": "Cultural festivals ko lagi"
+    },
+    {
+        "context": "Nepal ma Everest Base Camp heli tour ek luxury experience ho.",
+        "question": "Everest Base Camp heli tour kina popular cha?",
+        "answer": "Luxury experience ko lagi"
+    },
+    {
+        "context": "Nepal ma Kanchanjunga Conservation Area wildlife conservation ko lagi prasiddha cha.",
+        "question": "Kanchanjunga Conservation Area kina important cha?",
+        "answer": "Wildlife conservation ko lagi"
+    },
+    {
+        "context": "Nepal ma Siddhartha Highway ek scenic highway ho.",
+        "question": "Siddhartha Highway kina famous cha?",
+        "answer": "Scenic highway ho"
+    }
+]

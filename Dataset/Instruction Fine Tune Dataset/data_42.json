@@ -1,0 +1,652 @@
+[
+    {
+        "question": "Nepal ko rajdhani kaha ho?",
+        "context": "Nepal ko rajdhani Kathmandu ho. Kathmandu Nepal ko sabai bhanda thulo sahar ho. Pokhara pani ek ramro sahar ho, tara yo rajdhani hoina. Nepal ko purano rajdhani Bhaktapur ho bhanne kura etihaas ma lekhiyeko cha.",
+        "answer": "Kathmandu ho."
+    },
+    {
+        "question": "Sagarmatha k ho?",
+        "context": "Sagarmatha sansar ko sabai bhanda uchcha himal ho. Yo Nepal ra China ko simana ma cha. Islai English ma Mount Everest bhancha.",
+        "answer": "Sagarmatha sansar ko sabai bhanda uchcha himal ho."
+    },
+    {
+        "question": "Pokhara ma ke dherai popular cha?",
+        "context": "Pokhara ma Fewa taal dherai popular cha. Pokhara ma paragliding garna ni manchhe haru dherai aauchhan. Annapurna himal haru ko drishya pani Pokhara bata dherai ramro dekhcha.",
+        "answer": "Fewa taal dherai popular cha."
+    },
+    {
+        "question": "Lumbini kina prasiddha cha?",
+        "context": "Lumbini Nepal ko Rupandehi district ma cha ra yo Gautam Buddha ko janmabhumi ho. Lumbini ma Mayadevi Mandir, Ashoka Stambha, ra anek monastery haru cha. Lumbini UNESCO World Heritage Site pani ho.",
+        "answer": "Lumbini Gautam Buddha ko janmabhumi ho."
+    },
+    {
+        "question": "Himalayan range ko sabai bhanda uchcha himal kun ho?",
+        "context": "Himalayan range ma thuprai uchcha himal haru cha, jas ma Mount Everest sabai bhanda uchcha ho. Isko uchai 8,848.86 meters ho, ra yo Nepal ra China ko border ma cha.",
+        "answer": "Mount Everest sabai bhanda uchcha himal ho."
+    },
+    {
+        "question": "Nepal ko national flower ke ho?",
+        "context": "Nepal ko national flower Laliguras ho. Laliguras ek prakar ko rhododendron ho, jun Nepal ka himal chhetra ma ramro sanga phulcha. Islai Nepali culture ma dherai mahatvapurna thau dinchha.",
+        "answer": "Nepal ko national flower Laliguras ho."
+    },
+    {
+        "question": "Pashupatinath mandir kaha cha?",
+        "context": "Pashupatinath mandir Kathmandu ma cha, Bagmati nadiko kinara ma. Yo mandir Hindu haruko maha-mandir ho ra Bhagwan Shiva lai samarpit cha. Pashupatinath mandir UNESCO World Heritage Site pani ho.",
+        "answer": "Pashupatinath mandir Kathmandu ma cha."
+    },
+    {
+        "question": "Nepal ma kati ota jatibheda ko problem cha?",
+        "context": "Nepal ma anek jati haru baschhan, jasle Nepal ko culture diverse banaucha. Tara, jatibheda ko samasya ek bado social issue ho. Nepal ko constitution le jatibheda khatam garna bhaneko cha, tara gramin thau haru ma yo samasya ajhai cha.",
+        "answer": "Nepal ma jatibheda ko problem dherai thau ma ajhai cha."
+    },
+    {
+        "question": "Chitwan National Park ma ke ke dekhnasakcha?",
+        "context": "Chitwan National Park Nepal ko sabai bhanda purano national park ho. Yo park ma rare species jastai rhino, Bengal tiger, ra gharial crocodile dekhnasakcha. Safari rides, bird watching, ra jungle walks ni dherai popular cha.",
+        "answer": "Rhino, Bengal tiger, ra gharial crocodile dekhnasakcha."
+    },
+    {
+        "question": "Manakamana mandir kaha cha ra tya jane kasari jane?",
+        "context": "Manakamana mandir Gorkha ma cha, ra yo mandir Bhagwati Mata lai samarpit cha. Tya janeko lagi cable car sabai bhanda sajilo madhyam ho, jun Kurintar bata suru huncha.",
+        "answer": "Manakamana mandir Gorkha ma cha ra tya cable car bata jancha."
+    },
+    {
+        "question": "Bagmati nadiko mahatto ke ho?",
+        "context": "Bagmati nadi Kathmandu upatyaka ko mukhya nadi ho. Yo religiously important cha kina bhane Pashupatinath mandir yahi nadiko kinara ma cha. Bagmati nadi lai pani dharmik snan ko thau ma ganti garinchha.",
+        "answer": "Bagmati nadi religiously important cha ra Pashupatinath mandir yasko kinara ma cha."
+    },
+    {
+        "question": "Janakpur ma ke dekhnasakcha?",
+        "context": "Janakpur Ramayana ma ullekhit Ram ra Sita ko bibah sthal ho. Janaki Mandir yaha ko mukhya aakarshan ho. Yaha mithila culture ko ramailo jhalak pani dekhnasakcha.",
+        "answer": "Janakpur ma Janaki Mandir ra mithila culture dekhnasakcha."
+    },
+    {
+        "question": "Rara taal kaha cha ra kina prasiddha cha?",
+        "context": "Rara taal Nepal ko Mugu district ma cha, jun Nepal ko sabai bhanda thulo fresh water lake ho. Isko sundar drishya ra shant tatha natural environment ka lagi yo prasiddha cha.",
+        "answer": "Rara taal Mugu ma cha ra sundar drishya ko lagi prasiddha cha."
+    },
+    {
+        "question": "Last fiscal year ma ABC Company ko total revenue kati thiyo?",
+        "context": "ABC Company ko last fiscal year ko revenue $5 million thiyo. Yo revenue pichle fiscal year ko revenue bhanda 25% increment ho. Company le mainly software development ra cloud services ma kam garcha.",
+        "answer": "$5 million thiyo."
+    },
+    {
+        "question": "XYZ Pvt. Ltd. ma kati jana employees kaam garirahecha?",
+        "context": "XYZ Pvt. Ltd. ma total 350 employees kaam gariraheka chan. Yo company le IT outsourcing ra digital marketing services provide garna ma focus garcha.",
+        "answer": "350 employees kaam gariraheka chan."
+    },
+    {
+        "question": "DEF Enterprises ko net profit growth pichle barsha kasto thiyo?",
+        "context": "DEF Enterprises le pichle barsha 15% net profit growth achieve gareko thiyo. Yo mainly unko naya product line 'GreenTech' ko karan bhako ho, jun market ma dherai successful bhayo.",
+        "answer": "15% net profit growth thiyo."
+    },
+    {
+        "question": "KTM Holdings ko market share Nepali market ma kati cha?",
+        "context": "KTM Holdings ko market share Nepali market ma 35% cha. Company le consumer electronics, laptops, ra smartphones ma dominance dekhaeko cha.",
+        "answer": "35% market share cha."
+    },
+    {
+        "question": "PQR Solutions ko last quarter ma revenue decline ko karan ke thiyo?",
+        "context": "PQR Solutions ko last quarter ma revenue decline ko karan unko US market ma demand ghatnu ra supply chain disruption le bhako ho. Company le ab aba local sourcing ma focus garne plan cha.",
+        "answer": "US market ma demand ghatnu ra supply chain disruption le bhayo."
+    },
+    {
+        "question": "HIJ Corp le kati ko funding raise gareko cha?",
+        "context": "HIJ Corp le Series B funding round ma $10 million raise gareko cha. Yo funding primarily unko expansion projects ra R&D budget ko lagi allocate huncha.",
+        "answer": "$10 million raise gareko cha."
+    },
+    {
+        "question": "MNO Industries ko key product line ke ho?",
+        "context": "MNO Industries ko key product line consumer durables ho, jas ma washing machines, refrigerators, ra microwaves sammilit chan. Company le budget-friendly segment ma market capture garna focus gareko cha.",
+        "answer": "Washing machines, refrigerators, ra microwaves."
+    },
+    {
+        "question": "RST Tech ma yearly turnover kati cha?",
+        "context": "RST Tech ko yearly turnover $20 million cha. Company primarily software products ra enterprise solutions provide garna ma focus cha.",
+        "answer": "$20 million cha."
+    },
+    {
+        "question": "UVX Logistics ko customer satisfaction rate kasto cha?",
+        "context": "UVX Logistics ko customer satisfaction rate 92% cha. Yo company le on-time delivery ra efficient logistics services provide garna ka lagi popular cha.",
+        "answer": "92% cha."
+    },
+    {
+        "question": "XYZ Pvt. Ltd. le naya hires ko lagi budget kati rakheko cha?",
+        "context": "XYZ Pvt. Ltd. le naya hires ko lagi $200,000 ko budget allocate gareko cha, jas ma technical ra managerial positions donai include huncha.",
+        "answer": "$200,000 ko budget allocate gareko cha."
+    },
+    {
+        "question": "Alpha Corp ko total workforce ma kati jana employees chan?",
+        "context": "Alpha Corp ma total 1,200 employees chan, jas ma technical team ma 800 jana ra remaining operations ra sales department ma chan. Yo company primarily SaaS solutions develop garcha.",
+        "answer": "1,200 employees chan."
+    },
+    {
+        "question": "Beta Tech le last quarter ma kasto revenue report gareko thiyo?",
+        "context": "Beta Tech le last quarter ma $3.5 million ko revenue report gareko thiyo. Company le major contracts Australia ra US market bata secure gareko thiyo, jasle revenue growth boost gareko cha.",
+        "answer": "$3.5 million ko revenue report gareko thiyo."
+    },
+    {
+        "question": "Gamma Ltd. ko main product line ke ho?",
+        "context": "Gamma Ltd. ko main product line electric vehicles ho. Company le affordable EVs manufacture garna focus gareko cha ra unko flagship model 'EcoDrive' Nepali market ma dherai popular cha.",
+        "answer": "Electric vehicles."
+    },
+    {
+        "question": "Delta Industries le FY2024 ma kasto profit margin maintain gareko cha?",
+        "context": "Delta Industries le FY2024 ma 18% profit margin maintain gareko cha, jun unko efficient cost-cutting strategies ra increased production capacity le sambhav bhayo.",
+        "answer": "18% profit margin."
+    },
+    {
+        "question": "Theta Solutions le naya project launch ko lagi kati ko investment plan gareko cha?",
+        "context": "Theta Solutions le naya AI-based project launch ko lagi $5 million ko investment plan gareko cha. Yo investment majorly R&D ma allocate huncha.",
+        "answer": "$5 million ko investment plan gareko cha."
+    },
+    {
+        "question": "Sigma Logistics ko on-time delivery rate kasto cha?",
+        "context": "Sigma Logistics ko on-time delivery rate 95% cha. Company le advanced tracking systems ra optimized supply chain use garera yo benchmark achieve gareko ho.",
+        "answer": "95% cha."
+    },
+    {
+        "question": "Omega Retail ko monthly sales average kati cha?",
+        "context": "Omega Retail ko monthly sales average $500,000 cha. Company ko main focus groceries ra household items ho, jasle consistent sales performance ensure garcha.",
+        "answer": "$500,000 cha."
+    },
+    {
+        "question": "Epsilon Pvt. Ltd. le naya market entry ko lagi k gariraheko cha?",
+        "context": "Epsilon Pvt. Ltd. le Indian market entry ko lagi joint venture partner khojda cha ra product localization ko lagi market research ma focus gariraheko cha.",
+        "answer": "Indian market entry ko lagi joint venture partner khojda cha."
+    },
+    {
+        "question": "Zeta Enterprises ko recent valuation kati thiyo?",
+        "context": "Zeta Enterprises ko recent valuation $50 million thiyo. Company ko growth ko major factor fintech sector ma disruptive solutions ko demand ho.",
+        "answer": "$50 million thiyo."
+    },
+    {
+        "question": "Lambda Corporation le supply chain improvement ko lagi ke initiatives suru gareko cha?",
+        "context": "Lambda Corporation le supply chain improvement ko lagi blockchain-based tracking system implement garna suru gareko cha ra vendor management system upgrade gariraheko cha.",
+        "answer": "Blockchain-based tracking system implement garna suru gareko cha."
+    },
+    {
+        "question": "NovaTech le pichle barsha ma total revenue kati generate gareko thiyo?",
+        "context": "NovaTech le pichle barsha ma total revenue $12 million generate gareko thiyo. Company ko revenue ko major contribution cybersecurity solutions bata aayeko ho.",
+        "answer": "$12 million generate gareko thiyo."
+    },
+    {
+        "question": "Apex Manufacturing ko monthly production capacity kati cha?",
+        "context": "Apex Manufacturing ko monthly production capacity 50,000 units cha. Company ko primary products machineries ra industrial equipment ho.",
+        "answer": "50,000 units cha."
+    },
+    {
+        "question": "Vertex Corp ko pichle quarter ko profit kasto thiyo?",
+        "context": "Vertex Corp le pichle quarter ma $2 million ko profit report gareko thiyo, jun mainly unko operational efficiency improvement ko karan sambhav bhayo.",
+        "answer": "$2 million ko profit report gareko thiyo."
+    },
+    {
+        "question": "Orion Technologies ko main competitor ko naam ke ho?",
+        "context": "Orion Technologies ko main competitor Horizon Softworks ho. Dono companies software development field ma direct rivals chan, tara Horizon ko market share thulo cha.",
+        "answer": "Horizon Softworks."
+    },
+    {
+        "question": "Pinnacle Energy le renewable energy projects ma kati ko budget allocate gareko cha?",
+        "context": "Pinnacle Energy le renewable energy projects ko lagi $20 million ko budget allocate gareko cha. Yo budget wind ra solar energy projects ma invest huncha.",
+        "answer": "$20 million ko budget allocate gareko cha."
+    },
+    {
+        "question": "Stellar Foods ko main product line ke ho?",
+        "context": "Stellar Foods ko main product line packaged snacks ho. Company ko popular brand 'QuickBites' Nepali market ma dherai ramro perform gareko cha.",
+        "answer": "Packaged snacks."
+    },
+    {
+        "question": "Atlas Logistics ko last year ma customer retention rate kasto thiyo?",
+        "context": "Atlas Logistics ko last year ma customer retention rate 87% thiyo. Yo retention rate timely delivery ra competitive pricing ko karan high cha.",
+        "answer": "87% thiyo."
+    },
+    {
+        "question": "Zenith Pharmaceuticals le kati ko new hiring announce gareko cha?",
+        "context": "Zenith Pharmaceuticals le 150 new hires ko announce gareko cha. Yo hiring production, R&D, ra sales departments ma distribute huncha.",
+        "answer": "150 new hires."
+    },
+    {
+        "question": "Nimbus Corp le agami 2 barsa ma expansion ko lagi ke target set gareko cha?",
+        "context": "Nimbus Corp le agami 2 barsa ma South Asian market ma entry garne target set gareko cha. Company le logistics hubs establish garna focus gariraheko cha.",
+        "answer": "South Asian market ma entry garne target set gareko cha."
+    },
+    {
+        "question": "Echelon Services ko current market valuation kati cha?",
+        "context": "Echelon Services ko current market valuation $80 million cha. Company ko valuation ko growth customer acquisition rate ko steady increment le boost gareko ho.",
+        "answer": "$80 million cha."
+    },
+    {
+        "question": "Chronos Retail ko new store openings ko target ke cha?",
+        "context": "Chronos Retail le agami mahina ma 10 naya stores kholne plan banayeko cha. Yo expansion mid-sized cities ma focus garne cha.",
+        "answer": "10 naya stores kholne target cha."
+    },
+    {
+        "question": "Nimbus Corp ko major revenue source ke ho?",
+        "context": "Nimbus Corp ko major revenue source IT consulting services ho. Company le medium-sized businesses ko IT infrastructure upgrade ma specialize garcha.",
+        "answer": "IT consulting services."
+    },
+    {
+        "question": "NextGen Solutions le cyber security tools ma kati ko investment announce gareko cha?",
+        "context": "NextGen Solutions le cyber security tools develop garne ko lagi $7 million ko investment announce gareko cha. Yo budget unko naya firewall system develop garna ma allocate cha.",
+        "answer": "$7 million ko investment announce gareko cha."
+    },
+    {
+        "question": "Cosmo Textiles ko export revenue kati percent ho?",
+        "context": "Cosmo Textiles ko export revenue total revenue ko 60% ho. Major exports European ra North American market ma huncha.",
+        "answer": "60% ho."
+    },
+    {
+        "question": "Synergy Corp le cost reduction strategies ma ke ke implementation gareko cha?",
+        "context": "Synergy Corp le cost reduction strategies ma automation tools use garna ra redundant processes eliminate garna suru gareko cha.",
+        "answer": "Automation tools use garna ra redundant processes eliminate gareko cha."
+    },
+    {
+        "question": "Polaris Ventures ko current projects ma focus ke cha?",
+        "context": "Polaris Ventures ko current projects blockchain-based financial solutions develop garna ma focus cha. Company le decentralized finance ko area explore gariraheko cha.",
+        "answer": "Blockchain-based financial solutions develop garna ma focus cha."
+    },
+    {
+        "question": "Crescent Industries ko last fiscal year ko growth rate kasto thiyo?",
+        "context": "Crescent Industries ko last fiscal year ma growth rate 22% thiyo, jun mainly new product launch ra market expansion ko karan bhayo.",
+        "answer": "22% thiyo."
+    },
+    {
+        "question": "Aster Innovations le pichle mahina ma ko-kasari collaborate gareko cha?",
+        "context": "Aster Innovations le pichle mahina ma Delta Robotics sanga collaboration gareko cha, robotics process automation tools ko development ma kaam garna.",
+        "answer": "Delta Robotics sanga collaborate gareko cha."
+    },
+    {
+        "question": "Quantum Enterprises le pichle barsha ma naya market segment explore gareko cha?",
+        "context": "Quantum Enterprises le pichle barsha ma education technology segment ma entry gareko cha. Unko flagship e-learning platform 'LearnQuick' successfully launch bhayo.",
+        "answer": "Education technology segment ma entry gareko cha."
+    },
+    {
+        "question": "Omega Systems le FY2023 ma operational cost ko reduction ko lagi ke ke steps liye?",
+        "context": "Omega Systems le FY2023 ma operational cost reduction ko lagi remote work policy implement gareko thiyo, jasle office rental cost reduce garna madad gareko ho. Company le SaaS tools ma investment pani ghataune decision liye.",
+        "answer": "Remote work policy implement gareko ra SaaS tools ma investment ghataune decision liye."
+    },
+    {
+        "question": "Ascend Corp le agami barsha ma profitability improve garna ke strategies banayeko cha?",
+        "context": "Ascend Corp le agami barsha ma profitability improve garna market diversification ra cost optimization strategies banayeko cha. Company le customer acquisition cost reduce garna targeted marketing campaigns ma focus gariraheko cha.",
+        "answer": "Market diversification ra cost optimization strategies banayeko cha."
+    },
+    {
+        "question": "Evergreen Solutions le last quarter ma total client acquisition rate kasto thiyo?",
+        "context": "Evergreen Solutions le last quarter ma total 45 new clients acquire gareko thiyo. Company le customer support enhancement le acquisition rate boost gareko ho.",
+        "answer": "45 new clients acquire gareko thiyo."
+    },
+    {
+        "question": "Fusion Electronics ko sabai bhanda popular product line ke ho?",
+        "context": "Fusion Electronics ko sabai bhanda popular product line smart home devices ho, jas ma smart speakers ra smart lighting systems dherai demand ma cha.",
+        "answer": "Smart home devices."
+    },
+    {
+        "question": "Nimbus Group le agami 5 barsa ma expansion strategy kasto banayeko cha?",
+        "context": "Nimbus Group le agami 5 barsa ma South Asian ra African markets ma expansion garna plan banayeko cha. Company le logistics hubs establish garna ra local partnerships explore garna focus gariraheko cha.",
+        "answer": "South Asian ra African markets ma expansion garna plan banayeko cha."
+    },
+    {
+        "question": "Lunar Enterprises ko FY2022 ma export revenue kati thiyo?",
+        "context": "Lunar Enterprises ko FY2022 ma export revenue $8.5 million thiyo, jun mainly Asian ra Middle Eastern countries bata generate bhayo.",
+        "answer": "$8.5 million thiyo."
+    },
+    {
+        "question": "Vertex Ventures le recent funding round ma kati raise gareko cha?",
+        "context": "Vertex Ventures le recent Series C funding round ma $15 million raise gareko cha. Yo fund AI-driven healthcare solutions develop garna allocate garne cha.",
+        "answer": "$15 million raise gareko cha."
+    },
+    {
+        "question": "Pioneer Textiles le recent growth rate ko karan ke ho?",
+        "context": "Pioneer Textiles le recent growth rate ko karan new sustainable fabric line launch garnu ho. Market ma yo fabric environmental-friendly alternative ko rup ma popular bhayo.",
+        "answer": "New sustainable fabric line launch garnu ho."
+    },
+    {
+        "question": "Summit Logistics ko annual shipment capacity kasto cha?",
+        "context": "Summit Logistics ko annual shipment capacity 1 million tons cha. Company le efficient warehouse management ra optimized delivery systems le yo capacity maintain gareko ho.",
+        "answer": "1 million tons cha."
+    },
+    {
+        "question": "Cosmos Pharmaceuticals le new product development ma kati ko budget rakheko cha?",
+        "context": "Cosmos Pharmaceuticals le new product development ko lagi $10 million ko budget allocate gareko cha. Company le primarily life-saving drugs ma research garna focus gariraheko cha.",
+        "answer": "$10 million ko budget allocate gareko cha."
+    },
+    {
+        "question": "Apex Tech ko last fiscal year ko net profit kati thiyo?",
+        "context": "Apex Tech ko last fiscal year ko net profit $7 million thiyo. Company le majorly cloud services ra software subscriptions bata revenue generate gareko ho.",
+        "answer": "$7 million thiyo."
+    },
+    {
+        "question": "Helix Industries le customer satisfaction improve garna ko lagi k gareko cha?",
+        "context": "Helix Industries le customer satisfaction improve garna ko lagi after-sales service enhance gareko cha ra customer support team ko size double gareko cha.",
+        "answer": "After-sales service enhance gareko ra customer support team ko size double gareko cha."
+    },
+    {
+        "question": "Trident Energy ko renewable energy portfolio ma kati percent contribution cha?",
+        "context": "Trident Energy ko renewable energy portfolio ma 60% contribution cha, jas ma majorly wind ra solar energy projects cha.",
+        "answer": "60% contribution cha."
+    },
+    {
+        "question": "Horizon Ventures le agami 2 barsa ma kasto revenue growth target set gareko cha?",
+        "context": "Horizon Ventures le agami 2 barsa ma 30% ko revenue growth target set gareko cha, primarily new market entry ra enhanced product offerings le sambhav garne cha.",
+        "answer": "30% ko revenue growth target set gareko cha."
+    },
+    {
+        "question": "Evolve Corp ko supply chain management ka lagi ke naya systems implement gareko cha?",
+        "context": "Evolve Corp le supply chain management ka lagi AI-based inventory tracking system implement gareko cha, jasle efficiency ra cost reduction ma madad garna cha.",
+        "answer": "AI-based inventory tracking system implement gareko cha."
+    },
+    {
+        "question": "Phoenix Retail ko best-performing region ko naam ke ho?",
+        "context": "Phoenix Retail ko best-performing region Kathmandu Valley ho, jasle company ko total revenue ko 45% contribute garcha.",
+        "answer": "Kathmandu Valley."
+    },
+    {
+        "question": "Spectra Solutions le employee retention ko lagi k gariraheko cha?",
+        "context": "Spectra Solutions le employee retention ko lagi skill development programs launch gareko cha ra performance-based bonuses provide gariraheko cha.",
+        "answer": "Skill development programs launch gareko ra performance-based bonuses provide gariraheko cha."
+    },
+    {
+        "question": "Aurora Foods ko sabai bhanda naya product line ko naam ke ho?",
+        "context": "Aurora Foods ko sabai bhanda naya product line organic snacks ho, jas ma gluten-free cookies ra healthy chips include cha.",
+        "answer": "Organic snacks."
+    },
+    {
+        "question": "Everest Enterprises le market penetration ko lagi kun strategy use gareko cha?",
+        "context": "Everest Enterprises le market penetration ko lagi aggressive pricing ra extensive marketing campaigns use gareko cha, jun lower-tier cities ma target cha.",
+        "answer": "Aggressive pricing ra extensive marketing campaigns use gareko cha."
+    },
+    {
+        "question": "Nova Robotics le agami quarter ma revenue target kati set gareko cha?",
+        "context": "Nova Robotics le agami quarter ma $10 million ko revenue target set gareko cha. Company le new product launch ra existing client base expansion ko lagi focused efforts gariraheko cha.",
+        "answer": "$10 million ko revenue target set gareko cha."
+    },
+    {
+        "question": "Zion Textiles le agami mahina ma kun market explore garna plan gareko cha?",
+        "context": "Zion Textiles le agami mahina ma Southeast Asian market explore garna plan gareko cha. Yo initiative nepali-made garments ko popularity lai leverage garna cha.",
+        "answer": "Southeast Asian market explore garna plan gareko cha."
+    },
+    {
+        "question": "NextWave Solutions le last year ma customer complaints ko average rate kati thiyo?",
+        "context": "NextWave Solutions le last year ma customer complaints ko average rate 3% thiyo, jun customer support team ko proactive resolution strategy le achieve bhayo.",
+        "answer": "3% thiyo."
+    },
+    {
+        "question": "Summit Motors le eco-friendly initiatives ko lagi ke naya steps liye?",
+        "context": "Summit Motors le eco-friendly initiatives ko lagi electric vehicle production ko capacity double gareko cha ra EV charging stations establish garna collaborate gariraheko cha.",
+        "answer": "Electric vehicle production ko capacity double gareko ra EV charging stations establish garna collaborate gareko cha."
+    },
+    {
+        "question": "Apex Corp ko recent acquisition ko naam ke ho?",
+        "context": "Apex Corp le recent acquisition ko rup ma GreenTech Systems lai acquire gareko cha, jasle renewable energy sector ma unko presence strong banayeko cha.",
+        "answer": "GreenTech Systems."
+    },
+    {
+        "question": "Titan Industries le recent ko marketing campaign ko tagline ke ho?",
+        "context": "Titan Industries le recent ko marketing campaign ko tagline 'Durability Redefined' ho, jasle unko high-quality products ko message convey garcha.",
+        "answer": "'Durability Redefined.'"
+    },
+    {
+        "question": "Echo Digital le annual employee turnover rate kati ho?",
+        "context": "Echo Digital le annual employee turnover rate 12% ho. Company le new retention policies implement garna sochi raheko cha taaki yo rate reduce garna sakos.",
+        "answer": "12% ho."
+    },
+    {
+        "question": "Prism Chemicals ko new product development cycle ko average duration kati cha?",
+        "context": "Prism Chemicals ko new product development cycle ko average duration 18 months cha. Yo cycle rigorous testing ra quality assurance process le lengthy huncha.",
+        "answer": "18 months cha."
+    },
+    {
+        "question": "SolarFlare Energy ko major projects ko focus ke ho?",
+        "context": "SolarFlare Energy ko major projects ko focus rural areas ma solar-powered grids install garna ma cha, jasle energy access lai enhance garcha.",
+        "answer": "Rural areas ma solar-powered grids install garna ma focus cha."
+    },
+    {
+        "question": "Dynamic Ventures le last quarter ma total sales volume kati achieve gareko cha?",
+        "context": "Dynamic Ventures le last quarter ma total sales volume 200,000 units achieve gareko cha, jas ma electronics devices ko high demand le contribute gareko ho.",
+        "answer": "200,000 units achieve gareko cha."
+    },
+    {
+        "question": "BrightTech Solutions le new office locations ko lagi ke criteria use gariraheko cha?",
+        "context": "BrightTech Solutions le new office locations ko lagi accessibility, cost-effectiveness, ra tech talent ko availability jasto criteria use gariraheko cha.",
+        "answer": "Accessibility, cost-effectiveness, ra tech talent ko availability criteria use gariraheko cha."
+    },
+    {
+        "question": "Aurora Logistics ko main international shipping partner ko naam ke ho?",
+        "context": "Aurora Logistics ko main international shipping partner Global Freight Systems ho, jun large-scale shipments ko timely delivery ma specialize garcha.",
+        "answer": "Global Freight Systems."
+    },
+    {
+        "question": "Metro Ventures le cost-cutting strategies ko under kun departments ma focus gareko cha?",
+        "context": "Metro Ventures le cost-cutting strategies ko under HR ra logistics departments ma focus gareko cha, jasle unko operational efficiency boost garne cha.",
+        "answer": "HR ra logistics departments ma focus gareko cha."
+    },
+    {
+        "question": "Infinity Corp ko flagship product ko naam ke ho?",
+        "context": "Infinity Corp ko flagship product 'SmartTrack Pro' ho, jun enterprise-grade asset tracking solutions provide garcha.",
+        "answer": "'SmartTrack Pro.'"
+    },
+    {
+        "question": "BlueOcean Foods le production wastage reduce garna ko lagi ke implement gareko cha?",
+        "context": "BlueOcean Foods le production wastage reduce garna lean manufacturing practices adopt gareko cha ra digital inventory monitoring system use garna thaleko cha.",
+        "answer": "Lean manufacturing practices adopt gareko ra digital inventory monitoring system use garna thaleko cha."
+    },
+    {
+        "question": "Vertex Analytics le recent market analysis report ko focus area ke ho?",
+        "context": "Vertex Analytics le recent market analysis report ko focus area e-commerce growth trends in South Asia ho, jun rapidly growing consumer base le influence gareko cha.",
+        "answer": "E-commerce growth trends in South Asia."
+    },
+    {
+        "question": "Pioneer Logistics le naya software system ko testing phase kati mahina samay lagcha?",
+        "context": "Pioneer Logistics le naya software system ko testing phase ma 6 mahina samay lagcha, jun quality assurance ra error debugging ensure garna ko lagi ho.",
+        "answer": "6 mahina samay lagcha."
+    },
+    {
+        "question": "Summit Solutions le ISO certification ko lagi kun kun process adopt gareko cha?",
+        "context": "Summit Solutions le ISO certification ko lagi detailed process documentation, employee training programs, ra quality management systems audit complete gareko cha.",
+        "answer": "Detailed process documentation, employee training programs, ra quality management systems audit complete gareko cha."
+    },
+    {
+        "question": "Galaxy Systems ko recent ko sabai bhanda bada customer deal ko naam ke ho?",
+        "context": "Galaxy Systems ko recent ko sabai bhanda bada customer deal Zenith Enterprises sanga thiyo, jas ma $2 million ko IT infrastructure overhaul agreement finalize gareko cha.",
+        "answer": "Zenith Enterprises sanga thiyo."
+    },
+    {
+        "question": "Vortex Industries le sustainability initiatives ko lagi kati ko budget allocate gareko cha?",
+        "context": "Vortex Industries le sustainability initiatives ko lagi $5 million ko budget allocate gareko cha, jasle renewable energy adoption ra waste management projects ma invest garna cha.",
+        "answer": "$5 million ko budget allocate gareko cha."
+    },
+    {
+        "question": "Ascend Tech le new talent acquisition ma kun kun tools use gariraheko cha?",
+        "context": "Ascend Tech le new talent acquisition ko lagi AI-driven recruitment software ra online assessment tools use gariraheko cha, jasle hiring process lai fast-track garna madad garcha.",
+        "answer": "AI-driven recruitment software ra online assessment tools use gariraheko cha."
+    },
+    {
+        "question": "Elite Foods le agami mahina kun product category expand garne plan cha?",
+        "context": "Elite Foods le agami mahina ma ready-to-eat meal kits category expand garne plan cha, jun urban professionals ko demand address garna design gareko cha.",
+        "answer": "Ready-to-eat meal kits category expand garne plan cha."
+    },
+    {
+        "question": "Galaxy Pharma ko sabai bhanda profitable region kun cha?",
+        "context": "Galaxy Pharma ko sabai bhanda profitable region Western Nepal ho, jasle total revenue ko 55% contribute garcha due to high demand for generic medicines.",
+        "answer": "Western Nepal."
+    },
+    {
+        "question": "Skyline Apparel le FY2024 ma kati units production target set gareko cha?",
+        "context": "Skyline Apparel le FY2024 ma 1.5 million units ko production target set gareko cha, jun automated stitching systems ko adoption le sambhav hune cha.",
+        "answer": "1.5 million units ko production target set gareko cha."
+    },
+    {
+        "question": "Summit Communications le recent partnership ma kun company sanga collaborate gareko cha?",
+        "context": "Summit Communications le recent partnership ma Horizon Telecom sanga collaborate gareko cha, jasle rural broadband connectivity projects ma kaam garcha.",
+        "answer": "Horizon Telecom sanga collaborate gareko cha."
+    },
+    {
+        "question": "Vertex Solutions le FY2023 ko R&D expenditure kati thiyo?",
+        "context": "Vertex Solutions le FY2023 ma $12 million ko R&D expenditure gareko thiyo, jun AI-based solutions develop garna utilize gareko ho.",
+        "answer": "$12 million ko R&D expenditure gareko thiyo."
+    },
+    {
+        "question": "Everest Beverages le agami season ko lagi marketing campaign ma kun theme use garna plan cha?",
+        "context": "Everest Beverages le agami season ko marketing campaign ma 'Refreshing Every Moment' theme use garna plan cha, targeting summer sales growth.",
+        "answer": "'Refreshing Every Moment' theme use garna plan cha."
+    },
+    {
+        "question": "Nimbus Logistics le international operations ko lagi kun kun tools implement gareko cha?",
+        "context": "Nimbus Logistics le international operations ko lagi GPS-based fleet tracking system ra automated customs clearance software implement gareko cha.",
+        "answer": "GPS-based fleet tracking system ra automated customs clearance software implement gareko cha."
+    },
+    {
+        "question": "Global Builders le FY2023 ma total projects completed kati gareko cha?",
+        "context": "Global Builders le FY2023 ma total 35 projects complete gareko cha, jun ma commercial complexes ra residential apartments majorly include cha.",
+        "answer": "35 projects complete gareko cha."
+    },
+    {
+        "question": "Harmony Cosmetics ko flagship product line ko naam ke ho?",
+        "context": "Harmony Cosmetics ko flagship product line 'Pure Glow' ho, jun natural ingredients-based skincare products ko series ho.",
+        "answer": "'Pure Glow.'"
+    },
+    {
+        "question": "BrightStar Energy le kun kun renewable energy projects ma investment gareko cha?",
+        "context": "BrightStar Energy le wind farms development ra rooftop solar panel installations ma investment gareko cha, focusing on sustainable energy solutions.",
+        "answer": "Wind farms development ra rooftop solar panel installations ma investment gareko cha."
+    },
+    {
+        "question": "Pinnacle Foods le packaging ko lagi kun materials adopt gareko cha?",
+        "context": "Pinnacle Foods le packaging ko lagi biodegradable materials adopt gareko cha, jun company ko environmental impact reduce garne policy sanga align huncha.",
+        "answer": "Biodegradable materials adopt gareko cha."
+    },
+    {
+        "question": "Infinity Software le recent performance review ko basis ma kun division sabai efficient thiyo?",
+        "context": "Infinity Software le recent performance review ko basis ma mobile app development division sabai efficient thiyo, jun projects ahead of schedule complete garna sakyo.",
+        "answer": "Mobile app development division sabai efficient thiyo."
+    },
+    {
+        "question": "Summit Exports le 2023 ma export volume ko growth rate kati thiyo?",
+        "context": "Summit Exports le 2023 ma export volume ko growth rate 18% thiyo, jun high demand in European markets le boost gareko ho.",
+        "answer": "18% thiyo."
+    },
+    {
+        "question": "Evergreen Electronics le product returns reduce garna ko lagi ke steps liye?",
+        "context": "Evergreen Electronics le product returns reduce garna ko lagi stricter quality control measures ra pre-sale technical support implement gareko cha.",
+        "answer": "Stricter quality control measures ra pre-sale technical support implement gareko cha."
+    },
+    {
+        "question": "Blue Horizon Properties le real estate market expansion ko lagi kun cities target gareko cha?",
+        "context": "Blue Horizon Properties le real estate market expansion ko lagi Pokhara ra Chitwan cities target gareko cha, jas ma rising middle-class demand focus cha.",
+        "answer": "Pokhara ra Chitwan cities target gareko cha."
+    },
+    {
+        "question": "Zenith Healthcare le telemedicine platform ma ke major upgrades gareko cha?",
+        "context": "Zenith Healthcare le telemedicine platform ma video consultation optimization ra secure patient data storage ko upgrades gareko cha.",
+        "answer": "Video consultation optimization ra secure patient data storage ko upgrades gareko cha."
+    },
+    {
+        "question": "Summit Education le FY2023 ko scholarship budget kati rakheko cha?",
+        "context": "Summit Education le FY2023 ma $2 million ko scholarship budget rakheko cha, targeting underprivileged students in rural areas.",
+        "answer": "$2 million ko scholarship budget rakheko cha."
+    },
+    {
+        "question": "BrightWorks Automation le production output ko efficiency improve garna ke techniques use gareko cha?",
+        "context": "BrightWorks Automation le production output ko efficiency improve garna robotic assembly lines ra predictive maintenance systems implement gareko cha.",
+        "answer": "Robotic assembly lines ra predictive maintenance systems implement gareko cha."
+    },
+    {
+        "question": "Aurora Tech le FY2023 ma innovation budget ma kati increase gareko cha?",
+        "context": "Aurora Tech le FY2023 ma innovation budget ma 25% ko increase gareko cha, focusing on AI-powered solutions ra IoT devices development.",
+        "answer": "25% ko increase gareko cha."
+    },
+    {
+        "question": "Elite Manufacturing le labor efficiency improve garna kun software adopt gareko cha?",
+        "context": "Elite Manufacturing le labor efficiency improve garna workforce management software 'OptiWork' adopt gareko cha, jun real-time scheduling support garcha.",
+        "answer": "'OptiWork' software adopt gareko cha."
+    },
+    {
+        "question": "Everest Agro le organic farming practices ma kati farmers collaborate gariraheko cha?",
+        "context": "Everest Agro le organic farming practices promote garna 5,000 farmers collaborate gariraheko cha, jasle eco-friendly agriculture ko expansion ma madad garcha.",
+        "answer": "5,000 farmers collaborate gariraheko cha."
+    },
+    {
+        "question": "NextGen Electronics le customer support improve garna kun platform integrate gareko cha?",
+        "context": "NextGen Electronics le customer support improve garna AI chatbot integration gareko cha, jasle customer queries ko fast resolution ensure garcha.",
+        "answer": "AI chatbot integrate gareko cha."
+    },
+    {
+        "question": "Horizon Textiles le recent sustainability report ma carbon footprint ko reduction kati percent mention gareko cha?",
+        "context": "Horizon Textiles le recent sustainability report ma carbon footprint ko reduction 18% mention gareko cha, jun renewable energy use le sambhav bhayo.",
+        "answer": "18% reduction mention gareko cha."
+    },
+    {
+        "question": "Summit Biotech le FY2024 ko expansion strategy ma kun region target gareko cha?",
+        "context": "Summit Biotech le FY2024 ko expansion strategy ma South Asia region target gareko cha, jas ma high demand for generic medicines cha.",
+        "answer": "South Asia region target gareko cha."
+    },
+    {
+        "question": "Orbit Foods le supply chain optimize garna kun partnership gareko cha?",
+        "context": "Orbit Foods le supply chain optimize garna 'AgroFlow Logistics' sanga partnership gareko cha, jasle timely delivery ra cost efficiency ensure garcha.",
+        "answer": "'AgroFlow Logistics' sanga partnership gareko cha."
+    },
+    {
+        "question": "Nova Engineering le innovation awards ma kun category ma award jitne cha?",
+        "context": "Nova Engineering le innovation awards ma 'Best Robotics Design' category ma award jitne cha, jun unko autonomous robot line ko lagi ho.",
+        "answer": "'Best Robotics Design' category ma jitne cha."
+    },
+    {
+        "question": "EcoWear le plastic-free packaging ma transition garna kati ko investment gareko cha?",
+        "context": "EcoWear le plastic-free packaging ma transition garna $3 million ko investment gareko cha, focusing on biodegradable materials.",
+        "answer": "$3 million ko investment gareko cha."
+    },
+    {
+        "question": "Greenfields Agritech le sustainable farming projects ma kun kun crops prioritize gareko cha?",
+        "context": "Greenfields Agritech le sustainable farming projects ma millet, quinoa, ra lentils prioritize gareko cha, targeting high-nutrition crops.",
+        "answer": "Millet, quinoa, ra lentils prioritize gareko cha."
+    },
+    {
+        "question": "Summit Healthcare le digital consultation platform ma average monthly users kati thiyo?",
+        "context": "Summit Healthcare le digital consultation platform ma average monthly users 50,000 thiyo, jun rising demand for telemedicine services ko karan ho.",
+        "answer": "50,000 thiyo."
+    },
+    {
+        "question": "Nova Solar le FY2023 ma kati megawatts ko energy production achieve gareko cha?",
+        "context": "Nova Solar le FY2023 ma 200 megawatts ko energy production achieve gareko cha, jun unko hybrid solar farms model le sambhav gareko ho.",
+        "answer": "200 megawatts achieve gareko cha."
+    },
+    {
+        "question": "BlueWave Logistics le delivery timelines improve garna ko lagi ke steps liye?",
+        "context": "BlueWave Logistics le delivery timelines improve garna GPS tracking system upgrade gareko ra centralized logistics hub establish gareko cha.",
+        "answer": "GPS tracking system upgrade gareko ra centralized logistics hub establish gareko cha."
+    },
+    {
+        "question": "BrightStar Education le online courses ko enrollment ma kun subject sabai popular thiyo?",
+        "context": "BrightStar Education le online courses ko enrollment ma 'Data Science Fundamentals' sabai popular thiyo, jun demand for data professionals le drive gareko ho.",
+        "answer": "'Data Science Fundamentals' sabai popular thiyo."
+    },
+    {
+        "question": "Summit Retail le naya loyalty program ma kati percent discount offer gareko cha?",
+        "context": "Summit Retail le naya loyalty program ma up to 15% discount offer gareko cha, targeting repeat customers ko retention.",
+        "answer": "Up to 15% discount offer gareko cha."
+    },
+    {
+        "question": "Evergreen Ventures le FY2024 ko revenue target kati set gareko cha?",
+        "context": "Evergreen Ventures le FY2024 ko revenue target $25 million set gareko cha, focusing on global market expansion.",
+        "answer": "$25 million set gareko cha."
+    },
+    {
+        "question": "Prism Electronics le last year ko warranty claims ratio kati thiyo?",
+        "context": "Prism Electronics le last year ko warranty claims ratio 2.5% thiyo, jun high-quality control systems ko karan ho.",
+        "answer": "2.5% thiyo."
+    },
+    {
+        "question": "Summit Apparel le eco-friendly production methods ma kati percent transition gareko cha?",
+        "context": "Summit Apparel le eco-friendly production methods ma 40% transition gareko cha, using organic cotton ra water-saving techniques.",
+        "answer": "40% transition gareko cha."
+    },
+    {
+        "question": "Aurora Logistics le cargo tracking system ko features ma kun updates gareko cha?",
+        "context": "Aurora Logistics le cargo tracking system ma real-time updates, route optimization, ra live notifications ko features add gareko cha.",
+        "answer": "Real-time updates, route optimization, ra live notifications add gareko cha."
+    },
+    {
+        "question": "Summit Foods le international exports ma kun products sabai demand ma cha?",
+        "context": "Summit Foods le international exports ma dried fruits ra organic honey sabai demand ma cha, targeting European markets.",
+        "answer": "Dried fruits ra organic honey sabai demand ma cha."
+    }
+]

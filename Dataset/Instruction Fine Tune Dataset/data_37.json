@@ -1,0 +1,382 @@
+[
+    {
+        "instruction": "Timi afno balpan ko ek smaran bare ek chhoto katha lekh.",
+        "response": "Ma sano bela ek din mero saathi haru sangai khelnu jada, ek patak bagcha ma ramailo gareko smaran cha. Hamle khelna ko lagi dherai rukh haru chadnu ra guliyo fal khanu, ekdam khushi bhayeko thiyo."
+    },
+    {
+        "instruction": "Prerak ek ukti lekha.",
+        "response": "Kasailai sajilo mancheko katha sunera hunchha, tar tarika khojda matra agadi badna sakinchha."
+    },
+    {
+        "instruction": "Timi kunai prasna ko javaph deu ki timro manparne parva k ho.",
+        "response": "Mero manparne parva Dashain ho, kina bhane yo parva ma pura parivar jamma hunchha, ra dherai ramailo, khelkud ra masu khana paainchha."
+    },
+    {
+        "instruction": "Ek romantic quote lekha.",
+        "response": "Timi ko aankha ma herda jindagi ko harek rang dekchu, ra yo mero sapana ho timro sangai aaja ra hamesha basne."
+    },
+    {
+        "instruction": "Timi afno manparne gaana ko bare lekh.",
+        "response": "Mero manparne gaana 'Resham Firiri' ho, kina bhane yo gaana ma hami Nepali sanskritiko anubhav garna sakchhau ra sunera dherai mitha lagcha."
+    },
+    {
+        "instruction": "Timi afno balpan ma sikeko ek mahatopurna paath bare lekh.",
+        "response": "Mero balpan ma sikeko sabai bhanda mahatopurna paath ho 'mehnat bina safalta sambhavnai hudaina'. Ma sano bela math ko exam ma fail bhayepachi, mero buwa le mehnat garna siknu bhannu bhayeko thiyo. Tes bela dekhi ma harek kaam ma mehnat garna thale."
+    },
+    {
+        "instruction": "Ek din ko katha lekh jaba timi kushi bhaayau.",
+        "response": "Ek din ma mero sathi haru sangai ghauma gako thiye. Tyaha simsar ko beauty herna pauda ekdam kushi lagyo. Hamile machha pakera khana khojda, ramailo ma ghadi kati bhanda samaya kasari bitcha thaha nai bhaena."
+    },
+    {
+        "instruction": "Prerna dine ek ukti lekha.",
+        "response": "Jindagi ma aghi badhna ho bhane, afno galti haru bujhnu ra sudharnu sabai bhanda thulo jeet ho."
+    },
+    {
+        "instruction": "Timro manparne kitab ko bare ma lekh.",
+        "response": "Mero manparne kitab 'Palpasa Cafe' ho. Yo kitab ma Nepali samajik ra political jeevan ko yathartha dekhaune katha haru chhan. Kitab ko lekhai ani bhaw haru ekdam prabhawshali lagcha."
+    },
+    {
+        "instruction": "Timi afno adarsha byakti ko bare ma lekh.",
+        "response": "Mero adarsha byakti mero buwa hunuhunchha. Waha ekdam mehnati ra imaandaar hunuhuncha. Waha le hami sanga hamesha satya bolna ra sajilo baata nahernu bhanera siknu bhayeko chha."
+    },
+    {
+        "instruction": "Ek prem katha ko suruwat lekha.",
+        "response": "Ek din, ek ujyalai bhari bhaeko sahar ma, Aarav ra Maya ek park ma bhete. Aarav ko jhajhalko aankha le Maya ko muskan ma samundra jastai gahiraai dekhe."
+    },
+    {
+        "instruction": "Afno manparne khana ko bare ma lekh.",
+        "response": "Mero manparne khana momo ho. Dherai tara ko momo chakhnu ko ananda nai aru khana ma paudina. Sabai bhanda mitho momo jhol momo ho."
+    },
+    {
+        "instruction": "Ek prerak kahani ko suruwat lekha.",
+        "response": "Ek sana gaun ma, ek garib kisan le aafno mehnat ra imaandari ko madhyam bata sabai samasya haru jita. Waha ko jiwan le sikhaune kura ho, 'mehnat garne manche kahile haraudaina'."
+    },
+    {
+        "instruction": "Timi afno manparne thaun ko bare ma lekh.",
+        "response": "Mero manparne thaun Pokhara ho. Pokhara ko Phewa taal, Sarangkot ra Annapurna Himal herera ma ekdam shanti mahsoos garchhu. Tyaha ko hawa ani beauty le man shital huncha."
+    },
+    {
+        "instruction": "Ek haasya purna ukti lekha.",
+        "response": "Jindagi ma paise ko pachi dherai na laagna, kina bhane paise le chai kharcha ko tension ta dinchha, tara happiness ko guarantee dinna."
+    },
+    {
+        "instruction": "Timi afno sabai bhanda ramailo din ko bare ma lekh.",
+        "response": "Ramailo din ko kura garnu parcha bhane, tyo din ho jaba ma sathiharusanga rafting gako thiye. Pani ma jhanpane, hansi-majaki ra adventure ekdam ramailo lagyo. Aba samjhuda ni muskan aaucha."
+    },
+    {
+        "instruction": "Ekdam musukka hasna jasto moment ko bare ma lekh.",
+        "response": "Musukka hasna jasto moment ta tyo thiyo jaba mero sano bhai le maile hideko chocolate khana khojda, fridge bhitra ghusnu khojcha ra atkincha. Aba ta use samjhera ni has uthcha!"
+    },
+    {
+        "instruction": "Timi afno manparne movie ko bare ma lekh.",
+        "response": "Mero manparne movie 'Kabaddi' ho. Yo movie ma Nepal ko rural life ko taste ra character ko majaki herna majja lagcha. Sundar thau, ramailo story ra sabai character ma ek jindagi jasto feel cha."
+    },
+    {
+        "instruction": "Afno manparne jagga ghumeko experience lekh.",
+        "response": "Pokhara ghumeko experience ekdam dami thiyo. Taal barahi ma boat ride, Sarangkot ma surya udaya herna ani baato ma local khaja khana kasto ramailo lagyo vanera sabda ma bujhna garo cha."
+    },
+    {
+        "instruction": "Dashain ma garne kaam haru bare lekh.",
+        "response": "Dashain ma ta sabai bhanda dami kura tika ra jamara ho. Khaane kura ta koile nai end hudaina, masu ra selroti ko smell samjhuda ni mukh ma paani aauncha. Ani patang udaune pani ramailo huncha."
+    },
+    {
+        "instruction": "Timro favorite childhood game ko bare ma lekh.",
+        "response": "Bachpan ma dandi biyo khelna ekdam dami lagthyo. Tyeti kharcha hune kura pani chaina, tara sabai saathi jamma hune ra yo khel khelna ta pura din kasari bitthyo thaha hudaina."
+    },
+    {
+        "instruction": "Afno ekdam embarrassing moment ko bare ma lekh.",
+        "response": "Ek din ma college ko stage ma bolna gako thiye, tara suruma mic pakadna khojda mic khuskincha ani hall bhari chahechahe hascha. Tyas pachi ta pura nervous bhaye!"
+    },
+    {
+        "instruction": "Timi manpareko season ko bare ma lekh.",
+        "response": "Mero manparcha basanta ko season. Yo season ma na dherai jado cha na dherai garmi. Rukh haru ma fula phulcha ani harek kura ramailo lagna thalcha."
+    },
+    {
+        "instruction": "Timi afno favorite singer ko bare ma lekh.",
+        "response": "Mero manparne singer Bipul Chettri ho. Waha ko geet ma Nepali sanskriti ko touch cha ani music sunera dherai santosh milcha. 'Syndicate' geet ta maile kati patak suneko hola."
+    },
+    {
+        "instruction": "Timi life ma sabai bhanda daring kaam gareko kura lekh.",
+        "response": "Sabai bhanda daring kaam ta bungee jump gareko ho. First ma ta taauko khali kasto dar lagcha bhane, tara jump garda jindagi ma ekdam ramailo feel aaucha."
+    },
+    {
+        "instruction": "AI bhaneko k ho bhanera lekha.",
+        "response": "AI bhaneko Artificial Intelligence ho. Yo computer harulai manche jasto sochnu ra kaam garna sikhaune technology ho. Jasle ghara maa basera ni kaam sajilo banaucha."
+    },
+    {
+        "instruction": "Robotics ko bare ma ali ali lekh.",
+        "response": "Robotics bhaneko robot banaucha ra tyo robot haru le manche ko kaam sajilo garna madat garcha. Aba ta ghar ma robot le sweeping ra safa garna ni sakcha."
+    },
+    {
+        "instruction": "Biology bhaneko k ho bhanera lekh.",
+        "response": "Biology bhaneko jeevan ra jeev haru ko study ho. Yo ma manche, janawar, plant ra microorganism haru ko bare ma sabai kura bujhincha."
+    },
+    {
+        "instruction": "Physics ko meaning kasari bujhaune bhanera lekh.",
+        "response": "Physics bhaneko science ko branch ho jun duniya ko gati ra sabai physical kura ko study garcha. Jastai, light, gravity, speed jasari kaam garcha, tyo sabai ko kura bujhaune ho."
+    },
+    {
+        "instruction": "Astronomy bhaneko k ho lekh.",
+        "response": "Astronomy bhaneko taara, chandra, graha ani pura universe ko study ho. Aba yo ma alien chha ki chaina bhanne kura pani sochinchha!"
+    },
+    {
+        "instruction": "Machine learning ko bare ma lekh.",
+        "response": "Machine learning bhaneko computer lai data sikayera manche jasto decision lina sikhaune process ho. Aba yesto technology le Netflix le timilai k herna mancha bhanera recommend pani garcha."
+    },
+    {
+        "instruction": "Chemistry bhaneko k ho bhanera lekh.",
+        "response": "Chemistry bhaneko science ko branch ho jun matter ko composition ra reaction ko bare ma bujhaune ho. Aba yo ma chemical haru miss garera nai sabai naya kura bancha."
+    },
+    {
+        "instruction": "Computer Science bhaneko k ho bhanera lekh.",
+        "response": "Computer Science bhaneko computer ko system, programming, ra technology ko bare ma study garne subject ho. Aba coding gare pani computer le ramailo kaam garcha."
+    },
+    {
+        "instruction": "Genetics bhaneko k ho bhanera lekh.",
+        "response": "Genetics bhaneko manche, janawar ra plant ko genes ko study ho. Aba yo le dherai kura bujhna madat garcha jastai manche ko rang, height kasto huncha bhanera."
+    },
+    {
+        "instruction": "Mathematics ko bare ma lekh.",
+        "response": "Mathematics bhaneko numbers, calculation, ra patterns ko study ho. Aba jindagi ma counting dekhi budget banuna samma sabai ma math chahinchha."
+    },
+    {
+        "instruction": "AI bhaneko ke ho bhanera lekhnu.",
+        "response": "AI bhaneko Artificial Intelligence ho. Yo computer lai manche jasto sochnu ra kaam garna sikhaune technology ho. AI le ghar ko kaam dekhi business decision samma sajilo banaucha."
+    },
+    {
+        "instruction": "Robotics bhaneko ke ho bhanera lekhnu.",
+        "response": "Robotics bhaneko robot banayera mancheko kaam sajilo banaucha. Robot haru le manufacturing, ghar ko kaam, ani research jastai thulo-thulo kaam garcha."
+    },
+    {
+        "instruction": "Biology bhaneko ke ho bhanera lekhnu.",
+        "response": "Biology bhaneko jeevan ra jeev haru ko adhyayan ho. Biology ma manche, janawar, bot ra sukshma jeev haru ko barema janakari linincha."
+    },
+    {
+        "instruction": "Physics bhaneko ke ho bhanera lekhnu.",
+        "response": "Physics bhaneko science ko ek shaakha ho, jun duniya ma bhaeka physical phenomenon ko study garcha. Yo le energy, motion, ra natural forces jastai kura bujhauna madat garcha."
+    },
+    {
+        "instruction": "Astronomy bhaneko ke ho bhanera lekhnu.",
+        "response": "Astronomy bhaneko taara, chandra, graha ra pura universe ko barema adhyayan garne science ho. Yo ma galaxy, black hole, ani alien jasto rochak kura pani study huncha."
+    },
+    {
+        "instruction": "Machine learning bhaneko ke ho bhanera lekhnu.",
+        "response": "Machine learning bhaneko computer lai data sikayera manche jasto sochnu ra decision lina sakne banaune process ho. Yo le Netflix le timilai man parne show recommend garna madat garcha."
+    },
+    {
+        "instruction": "Chemistry bhaneko ke ho bhanera lekhnu.",
+        "response": "Chemistry bhaneko science ko shaakha ho, jun matter ko composition, structure, ani reaction ko barema adhyayan garcha. Yo le chemical miss garera naya naya padartha banaucha."
+    },
+    {
+        "instruction": "Computer science bhaneko ke ho bhanera lekhnu.",
+        "response": "Computer science bhaneko computer ko technology, programming, ra system ko adhyayan ho. Aba coding garera ramailo app ra software banaucha."
+    },
+    {
+        "instruction": "Genetics bhaneko ke ho bhanera lekhnu.",
+        "response": "Genetics bhaneko manche, janawar ra bot haru ko genes ko study ho. Yo le manche ko rang, height, ani character kasto hune bhanne bujhauna madat garcha."
+    },
+    {
+        "instruction": "Mathematics bhaneko ke ho bhanera lekhnu.",
+        "response": "Mathematics bhaneko numbers, calculation, patterns ra structure ko adhyayan ho. Aba budget banuna, counting garna ra calculation sabai math le garcha."
+    },
+    {
+        "instruction": "AI ko barema ke thaha chha? Thap janakari lekhnu.",
+        "response": "AI, jaslai Artificial Intelligence bhanchha, computer lai manche jasto sochnu ra decision lina sikhaune system ho. Aba AI le self-driving car dekhi speech recognition samma kaam garcha."
+    },
+    {
+        "instruction": "Robotics ko concept kasto ho? Lekhnuhos.",
+        "response": "Robotics bhaneko robot banayera mancheko kaam sajilo ra tezi banaucha. Robot haru manufacturing industry ma dherai prayog hunchha, ani ghar ma pani kaam garna sakchha."
+    },
+    {
+        "instruction": "Biology bhaneko kura bujhayera lekhnu.",
+        "response": "Biology bhaneko jeevan ra jeev haru ko adhyayan ho. Yo science ko shaakha ho, jun jeev haru ko structure, function, ra evolution ko barema janakari dincha."
+    },
+    {
+        "instruction": "Physics bhaneko aba timro hisab ma kasari bujhincha? Lekhnuhos.",
+        "response": "Physics bhaneko duniya ma ghatne natural process haru ko adhyayan ho, jastai gravity, light, ra motion. Yo le kasari sansar chalirako chha bhanne bujhauna madat garcha."
+    },
+    {
+        "instruction": "Astronomy ko barema alik ramro lekhnu.",
+        "response": "Astronomy bhaneko taara, chandra, ra graha ko adhyayan ho. Aba yo le universe ko thulo kura, jastai black hole, galaxy, ani purano sansar ko rahasya bujhauna madat garcha."
+    },
+    {
+        "instruction": "Machine learning bhanne kura kasari bujhincha? Lekhnuhos.",
+        "response": "Machine learning bhaneko computer lai data sikayera manche jasto system banaucha. Aba isko help le online shopping ma timile manparne product recommend garcha."
+    },
+    {
+        "instruction": "Chemistry ko importance ke ho? Lekhnuhos.",
+        "response": "Chemistry ko importance ta dherai cha. Aba yo le medicine, food production, ra energy ko barema naya naya kura develop garna madat garcha."
+    },
+    {
+        "instruction": "Computer science ko role bhanera lekhnu.",
+        "response": "Computer science bhaneko ajako sansar ma ekdam important ho. Aba isko madat le website, app, ani game banaucha, ra technology lai aagadi badaucha."
+    },
+    {
+        "instruction": "Genetics kasari kaam garcha? Lekhnuhos.",
+        "response": "Genetics bhaneko genes ko barema adhyayan ho, jasle mancheko physical appearance ani disease ko barema bujhauna madat garcha. Aba yo le DNA ko barema ramro jankari dincha."
+    },
+    {
+        "instruction": "Mathematics kina important ho? Lekhnuhos.",
+        "response": "Mathematics bhaneko sabai field ma important cha, jastai science, engineering, ra business ma. Aba sabai kura ko calculation math le hune bhayera isko importance dherai cha."
+    },
+    {
+        "instruction": "AI ra machine learning ko farak ke ho? Lekhnuhos.",
+        "response": "AI bhaneko broader concept ho, jasle computer lai intelligent system banaucha. Machine learning ta AI ko part ho, jasle computer lai data sikayera automatic decision lina madat garcha."
+    },
+    {
+        "instruction": "Robotics ko scope ke ke ho? Lekhnuhos.",
+        "response": "Robotics ko scope dherai chhanko chha. Aba manufacturing, healthcare, space exploration, ani ghar ko kaam ma pani robot le kaam garna sakchha."
+    },
+    {
+        "instruction": "Climate change bhaneko ke ho? Lekhnuhos.",
+        "response": "Climate change bhaneko prithvi ko hawa-pani ani temperature ma dihisakeko pariwartan ho. Aba yo dherai jaso manche le carbon dioxide ra aru greenhouse gases utsarjan gareko le huncha."
+    },
+    {
+        "instruction": "Renewable energy bhaneko ke ho? Isko udaharan lekhnu.",
+        "response": "Renewable energy bhaneko energy ko tyo source ho, jun aba firta pauna sakincha. Isko udaharan ma solar energy, wind energy, ani hydropower parcha."
+    },
+    {
+        "instruction": "Photosynthesis bhaneko kasto process ho? Lekhnuhos.",
+        "response": "Photosynthesis bhaneko process ho jaha bot haru surya ko roshni lai energy ma badalcha. Aba yo process ma carbon dioxide ra paani use garera glucose bancha."
+    },
+    {
+        "instruction": "Quantum physics ko barema ke thaha chha? Lekhnuhos.",
+        "response": "Quantum physics bhaneko atom ra subatomic particles ko behavior ko adhyayan ho. Yo le light ra matter kasari kaam garcha bhanne bujhauna madat garcha."
+    },
+    {
+        "instruction": "Space exploration kina important ho? Lekhnuhos.",
+        "response": "Space exploration le alien jindagi ko khoj garna, universe ko rahasya bujhna, ra technology ma naya naya innovation lana madat garcha."
+    },
+    {
+        "instruction": "Electric vehicles bhaneko ke ho? Isko labh lekhnu.",
+        "response": "Electric vehicles (EV) bhaneko gaadi ho, jun petrol ya diesel ko badlama electricity le chaldacha. Isko labh ho, pollution kam huncha ra cost pani sano samaya ma bachat huncha."
+    },
+    {
+        "instruction": "Blockchain technology ko barema ke thaha chha? Lekhnuhos.",
+        "response": "Blockchain technology bhaneko decentralized system ho, jun transactions ra data safe ra transparent banaucha. Aba yo cryptocurrency jastai Bitcoin ma use huncha."
+    },
+    {
+        "instruction": "5G technology le kina kura garchha? Lekhnuhos.",
+        "response": "5G technology bhaneko next generation wireless technology ho, jun faster internet speed ra low latency dina madat garcha. Aba yo smart city ani IoT development ma helpful huncha."
+    },
+    {
+        "instruction": "Genetic engineering bhaneko ke ho? Udaharan lekhnu.",
+        "response": "Genetic engineering bhaneko genes ko modification garera jeev haru ko character change garna sakne process ho. Aba yo le disease treatment ani genetically modified crops ma use huncha."
+    },
+    {
+        "instruction": "Oceanography bhaneko ke ho? Lekhnuhos.",
+        "response": "Oceanography bhaneko samudra ko adhyayan ho. Aba yo ma pani ko gati, jeev haru, ani samudra ko ecosystem ko barema bujhincha."
+    },
+    {
+        "instruction": "Nanotechnology ko importance ke ho? Lekhnuhos.",
+        "response": "Nanotechnology bhaneko ekdam sano particles ko study ra application ho. Aba yo medicine, electronics, ani energy sector ma dherai important huncha."
+    },
+    {
+        "instruction": "Artificial satellites ko labh ke ke ho? Lekhnuhos.",
+        "response": "Artificial satellites le communication, weather forecasting, ra GPS system ma madat garcha. Aba yo bina ta hamro mobile ko internet ani TV signals pani possible hudaina."
+    },
+    {
+        "instruction": "Cybersecurity ko barema lekhnu.",
+        "response": "Cybersecurity bhaneko computer system ra network lai hackers bata surakshit rakhna ko lagi garne process ho. Aba yo le personal data ani financial information suraksha dincha."
+    },
+    {
+        "instruction": "Human brain ko kaam kasari huncha? Lekhnuhos.",
+        "response": "Human brain bhaneko body ko control center ho. Aba yo le sochnu, smaran, movement, ani feelings ko command dincha."
+    },
+    {
+        "instruction": "Sustainable development bhaneko ke ho? Lekhnuhos.",
+        "response": "Sustainable development bhaneko aba ko resources lai suchikrit tarikale use garera future generation ko lagi pani reserve garne process ho. Aba yo ma environment, economy, ani society balance hunu parchha."
+    },
+    {
+        "instruction": "DNA testing ko use kaha-kaha huncha? Lekhnuhos.",
+        "response": "DNA testing bhaneko parental identity khojna, criminal investigation, ra medical diagnosis ma use huncha. Aba yo le manche ko genetic information dincha."
+    },
+    {
+        "instruction": "Renewable resources ra non-renewable resources ko farak lekhnu.",
+        "response": "Renewable resources aba feri-feri use garna sakincha, jastai solar energy ra water. Non-renewable resources ek patak sakisake pachi feri use garna milcha jastai coal ra petroleum."
+    },
+    {
+        "instruction": "Cloud computing bhaneko ke ho? Isko upayog lekhnu.",
+        "response": "Cloud computing bhaneko online server ko use garera data store garne ani application run garne technology ho. Aba yo le remote kaam garna sajilo banaucha."
+    },
+    {
+        "instruction": "Ecosystem ko importance ke ho? Lekhnuhos.",
+        "response": "Ecosystem bhaneko living ra non-living things ko interaction ho. Aba yo balance ma rakhna parcha, kinaki sabai jeev haru ecosystem ma dependent chhan."
+    },
+    {
+        "instruction": "AI le hamro jindagi ma kasto asar gareko chha? Lekhnuhos.",
+        "response": "AI le hamro jindagi ma dherai sajilo banayeko chha. Aba chatbots, recommendation systems, ra smart home devices jastai kura le mancheko kaam tezi ra asan banaucha."
+    },
+    {
+        "instruction": "Electric vehicles future ma kasto role khelne chha? Lekhnuhos.",
+        "response": "Electric vehicles future ma pollution control ra energy conservation ma ekdam important role khelne chha. Aba fossil fuels ko jagga le renewable energy ko importance badcha."
+    },
+    {
+        "instruction": "Black hole bhanne kura ke ho? Lekhnuhos.",
+        "response": "Black hole bhaneko space ko tyo area ho, jaha gravity ati nai strong huncha. Aba tyahan bata light pani bahira aauna sakdaina."
+    },
+    {
+        "instruction": "COVID-19 vaccine kasari kaam garcha? Lekhnuhos.",
+        "response": "COVID-19 vaccine le hamro immune system lai virus sanga ladauna sikaucha. Aba yo le virus ko weak ya dead particles sikayera protection dincha."
+    },
+    {
+        "instruction": "Solar energy ko labh ke ke ho? Lekhnuhos.",
+        "response": "Solar energy bhaneko pollution-free ra unlimited energy ho. Aba yo ghar ko electricity, water heating, ani industries ma use garna sakinchha."
+    },
+    {
+        "instruction": "AI ani robotics ko sambandha ke ho? Lekhnuhos.",
+        "response": "AI robotics ko ek main part ho. Robotics le hardware kaam garcha, ra AI le tyo robot lai smart banaucha, jasle autonomous kaam garna madat garcha."
+    },
+    {
+        "instruction": "Internet of Things (IoT) bhaneko ke ho? Isko upayog lekhnu.",
+        "response": "IoT bhaneko connected devices ko network ho, jun internet bata communication garcha. Aba yo smart home devices, healthcare, ani industries ma use huncha."
+    },
+    {
+        "instruction": "Mars exploration kina important ho? Lekhnuhos.",
+        "response": "Mars exploration important ho, kinaki yo le alien jindagi ko khoj, future colonization, ani sansar bahira ko environment bujhna madat garcha."
+    },
+    {
+        "instruction": "Virtual reality (VR) le ke garna sakcha? Lekhnuhos.",
+        "response": "Virtual reality le manche lai real world jasto digital environment ma experience dincha. Aba yo gaming, education, ani training ma dherai upyogi chha."
+    },
+    {
+        "instruction": "Cryptocurrency ko scope ke ho? Lekhnuhos.",
+        "response": "Cryptocurrency digital currency ho, jun blockchain technology ma adharit huncha. Aba yo le decentralized banking system ko sambhavana ra naya financial system ko suruwat garcha."
+    },
+    {
+        "instruction": "Greenhouse effect bhaneko ke ho? Isko positive ra negative side lekhnu.",
+        "response": "Greenhouse effect bhaneko sun ko energy prithvi ma rogda, atmosphere le tyaslai samatne process ho. Aba positive side ma yo prithvi lai warm rakhna madat garcha, negative side ma global warming badcha."
+    },
+    {
+        "instruction": "Metaverse bhaneko ke ho? Isko upayog lekhnu.",
+        "response": "Metaverse bhaneko virtual world ho, jaha manche augmented reality (AR) ra virtual reality (VR) ko madat le interaction garcha. Aba yo gaming, education, ra social interaction ma use huncha."
+    },
+    {
+        "instruction": "Artificial intelligence future ma kasto impact dincha? Lekhnuhos.",
+        "response": "Artificial intelligence le future ma healthcare, education, ani transport system lai smarter ra efficient banaucha. Aba mancheko kaam pani tezi ra sajilo huncha."
+    },
+    {
+        "instruction": "Bioinformatics bhaneko ke ho? Lekhnuhos.",
+        "response": "Bioinformatics bhaneko biology ani data science ko combination ho. Aba yo DNA analysis, genetic research, ani disease diagnosis ma use huncha."
+    },
+    {
+        "instruction": "Renewable energy ko upayog le duniya ma kasto pariwartan aauna sakcha? Lekhnuhos.",
+        "response": "Renewable energy ko upayog le pollution kam huncha ra environment clean rakhna madat garcha. Aba long term ma energy dependency fossil fuels bata hatcha."
+    },
+    {
+        "instruction": "Self-driving cars kasari kaam garchan? Lekhnuhos.",
+        "response": "Self-driving cars sensors, cameras, ra AI ko madat le kaam garchan. Aba yo le road ko information analyze garera automatic drive garcha."
+    },
+    {
+        "instruction": "DNA fingerprinting bhaneko ke ho? Lekhnuhos.",
+        "response": "DNA fingerprinting bhaneko manche ko DNA test garera unique identity khojne process ho. Aba yo criminal investigation ani parental verification ma use huncha."
+    },
+    {
+        "instruction": "Quantum computing bhaneko aba kasto computing ho? Lekhnuhos.",
+        "response": "Quantum computing bhaneko quantum mechanics ma adharit computing ho. Aba yo le complex problems fast solve garna sakcha, jaslai normal computers le gardaina."
+    },
+    {
+        "instruction": "SpaceX ko purpose ke ho? Lekhnuhos.",
+        "response": "SpaceX ko purpose space exploration lai commercial banaucha ra human life lai Mars ma basna possible banaucha. Aba reusable rockets ko technology le cost pani kam huncha."
+    }
+]

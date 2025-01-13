@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Mero internet kamm garena, aba ke garne?",
+        "context": "Tapai ko router ko power light jaldai cha bhane router thik cha. Jaldai chhaina bhane power cord check garnuhos. Network stability ka lagi router reset garna saknuhuncha.",
+        "response": "Tapai ko router ko power light check garnuhos. Jaldai cha bhane router reset garna try garnuhos, natra power cord sahi cha ki nai hernus."
+    },
+    {
+        "question": "Phone ma balance herna parcha, kasari herne?",
+        "context": "Tapai ko SIM ko balance check garna *123# dial garnuhos. Balance auto-display huncha. Application bata check garna account login garnuhos.",
+        "response": "Tapai *123# dial garnuhos, balance display huncha. Alternatively, app ma login garera pani check garna saknuhuncha."
+    },
+    {
+        "question": "Call kati ko lagi free huncha?",
+        "context": "Unlimited plan ma call free huncha tapai ko subscription plan anusar. Regular plan ma per minute charge lagecha. Details ke ko plan chha bhane website ma login garnuhos.",
+        "response": "Unlimited plan chha bhane call free huncha. Natra, per minute charge huncha. Tapai ko plan confirm garnai ho bhane website ma login garnuhos."
+    },
+    {
+        "question": "Recharge garna sakena, aba ke garne?",
+        "context": "Recharge garna ko lagi tapai ko recharge code sahi cha ki nai confirm garnuhos. Natra tapai ko app ma technical issue chha bhane customer care ma samparka garnuhos.",
+        "response": "Recharge code sahi cha ki nai confirm garnuhos. Aba pani problem chha bhane, hami lai customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Mero TV ma signal chaina, aba k garnu?",
+        "context": "Tapai ko set-top box ko power check garnuhos. Cable loosely connected cha bhane tightly lagaunuhos. Signal issue dur nai bhane hami lai call garnuhos.",
+        "response": "Set-top box ko power check garnuhos ani cable tight cha ki nai confirm garnuhos. Aba pani chaina bhane hami lai call garnuhos."
+    },
+    {
+        "question": "Account login garna milena, aba kasari solve garne?",
+        "context": "Forgot password ma click garera reset garnuhos. Aba pani login garna milena bhane hami lai direct samparka garnuhos. Multiple wrong attempts le lock huncha account.",
+        "response": "Forgot password click garera password reset garnuhos. Aba pani problem solve hudeina bhane hami lai samparka garnuhos."
+    },
+    {
+        "question": "Package upgrade garna chahanchu, ke garne?",
+        "context": "Tapai ko package upgrade ko lagi website login garera dashboard ma 'Upgrade' button click garnuhos. Customer care bata pani upgrade process garnu milcha.",
+        "response": "Website login garera 'Upgrade' button click garnuhos. Aba pani support chahiyo bhane customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Mero internet kamm garena, aba ke garne?",
+        "context": "Internet connectivity ko samasya ka lagi sabai band garera start garnuhos (router ko power off garera 10 sec pachi on garnuhos). Router ko light status check garnuhos - power, internet, ra WiFi light jaldai cha bhane sabai thik cha. Aba device ma WiFi network sahi connected cha ki nai hernus. Android ma Settings > WiFi ma gayera 'Connected' bhaneko confirm garnuhos. Windows ma WiFi symbol ma right-click garera 'Troubleshoot' option chalaunuhos. Internet nabhaye router reset garnuhos. Aba pani nabhaye customer support ma samparka garnuhos, router ma configuration problem huna sakcha.",
+        "response": "Router restart garnuhos, lights check garnuhos (power ra WiFi jaldai cha ki nai). Nabhae device ko WiFi settings confirm garnuhos. Aba pani samasya solve nabhaye customer care ma call garnuhos."
+    },
+    {
+        "question": "Phone ma balance herna parcha, kasari herne?",
+        "context": "Phone balance herna ka lagi: 1. Tapai le *123# dial garnu parcha, jun instant balance display gardai cha. 2. Natra, tapai ko telecom provider ko official mobile app download garnuhos (e.g., NTC App or Ncell App). App ma login garera tapai ko balance ra data usage pani details ma herna saknuhuncha. App use garda 'Auto-refresh' option enable gareko confirm garnuhos, balance updated dekhina ka lagi. If balance dekhdaina bhane, app uninstall garera re-install garnuhos. SMS ko lagi, tapai ko operator le different code provide gareko huna sakcha, e.g., 'BAL' type garera 1415 ma pathaunuhos.",
+        "response": "Tapai le *123# dial garera balance hernus. App download garna milcha bhane telecom provider ko app use garera pani details hernus. SMS code ko lagi BAL 1415 ma pathaunuhos."
+    },
+    {
+        "question": "Recharge garna sakena, aba ke garne?",
+        "context": "Recharge garna problem bhaye sabhanda pahila recharge card ko code clearly visible cha ki nai confirm garnuhos. Scratched card clear cha bhane *122*recharge code# dial garnuhos. Alternatively, telecom app ko 'Recharge' option use garnuhos - code scan garna milcha. Aba pani recharge huna sakena bhane, 1. Tapai ko SIM active cha ki nai confirm garnuhos. Inactive SIM le recharge accept gardaina. 2. Recharge garna attempt le error message (e.g., 'Invalid Code') dekhaye customer care ma recharge card ko details provide garera verify garnuhos. Recharge balance turant reflect huncha active account ma.",
+        "response": "Recharge code clearly visible cha ki nai confirm garnuhos, *122*code# dial garnuhos. App bata recharge scan pani garnus. Aba pani nabhaye customer care lai call garera help linos."
+    },
+    {
+        "question": "TV ma signal chaina, aba k garne?",
+        "context": "TV signal chaina bhane set-top box ra TV ko connection check garnuhos. Sabai cable tightly connected cha ki nai hernus (HDMI ya AV cable). Set-top box ko 'Signal Strength' option ma gayera level low cha bhane dish alignment problem huna sakcha. Signal troubleshoot garna set-top box reset garnuhos (power off/on) ani dish antenna check garna professional technician lai bolau. Aba pani problem solve nabhaye subscription status confirm garnuhos - subscription expire bhaye signal aundaina. Customer care ma call garera error code provide garnuhos, error code le issue ko detail batacha (e.g., E16 - subscription expired).",
+        "response": "Cable connection ani set-top box ko signal check garnuhos. Low signal cha bhane technician lai bolau. Subscription status confirm garnuhos ani customer care lai samparka garnuhos."
+    },
+    {
+        "question": "Account login garna milena, aba kasari solve garne?",
+        "context": "Account login garna milena bhane 1. Password thik cha ki nai confirm garnuhos. Multiple attempts le account temporarily lock huncha. 2. Forgot Password ma click garera naya password set garnuhos. 3. Email ko spam ya junk folder ma password reset link check garnuhos. Login attempt pachi error message (e.g., 'Invalid Credentials') aaye bhane tapai le email/username thik enter garnu bhayo ki nai confirm garnuhos. Aba pani problem solve nabhaye, account verification ka lagi ID proof email garera customer support ma contact garnuhos. Suspicious login attempt ko case ma account temporarily lock huncha.",
+        "response": "Forgot Password click garera password reset garnuhos. Aba pani login nabhaye email spam folder check garnuhos ani customer support ma ID proof send garnuhos."
+    },
+    {
+        "question": "Bank ko account block jasto cha, aba k garne?",
+        "context": "Bank account block huna ko karan: 1. Multiple wrong password attempts le account lock huncha. 2. Suspicious activity detect bhaye bank le account temporarily block garna sakcha. Aba ke garne? a) Branch ma gayera valid ID proof ko copy provide garnuhos. b) Online banking portal ma login garna khoste huncha bhane, 'Forgot Password' click garera reset garnuhos. c) Suspicious transaction case ma bank customer care number call garera issue explain garnuhos. Phone banking pin ya OTP ko request aaye jastai suspicious lagi bhaye ignore garnuhos.",
+        "response": "Branch ma gayera ID proof submit garnuhos. Aba pani problem cha bhane customer care ma call garera issue explain garnuhos."
+    },
+    {
+        "question": "Mobile ma data speed dhilo cha, kasari fix garne?",
+        "context": "Mobile data slow bhaye: 1. Settings ma gayera 'Network Mode' check garnuhos, LTE/4G option select garnuhos. 2. Background apps off garnuhos jun data consume gardai cha. 3. Network reset garna phone ko Settings > System > Reset Options ma gayera 'Reset Network Settings' select garnuhos. 4. SIM card ko proper alignment check garnuhos, khuleko SIM slot le connectivity ma problem diyo bhane replace garnuhos. Aba pani slow cha bhane network provider ko coverage status confirm garnuhos. Maintenance ka karan le temporary issue huna sakcha.",
+        "response": "Network mode 4G cha ki nai check garnuhos ani background apps band garnuhos. Aba pani problem cha bhane network reset garera SIM alignment hernus."
+    },
+    {
+        "question": "Laptop ma software install garna mildaina, ke garne?",
+        "context": "Laptop ma software install garna mildaina bhane: 1. Administrator rights cha ki nai confirm garnuhos. Installer file lai 'Run as Administrator' garera try garnuhos. 2. Software ko minimum system requirements check garnuhos. RAM ya storage insufficient cha bhane installation fail huncha. 3. Antivirus software le installer lai block gareko cha bhane, temporary antivirus disable garnuhos. 4. Installation pachi error code aaye bhane code copy garera software provider ko support page ma solution search garnuhos. Aba pani issue solve nabhaye, latest version ko installer download garera retry garnuhos.",
+        "response": "Installer lai 'Run as Administrator' garera try garnuhos. Minimum system requirements check garnuhos ani antivirus disable garepachi retry garnuhos."
+    },
+    {
+        "question": "Electricity bill online kasari tirne?",
+        "context": "Electricity bill online tirna ko lagi: 1. Tapai ko electricity provider ko official website ya mobile app download garnuhos. 2. App/website ma login garera 'Pay Bill' section ma enter garnuhos. Tapai ko customer ID enter garera due amount confirm garnuhos. 3. Payment options ma Credit/Debit Card, eWallet (e.g., eSewa, Khalti) ya Net Banking choose garnuhos. 4. Payment pachi receipt auto-generate huncha, jun save garna saknuhuncha future reference ko lagi. Aba pani transaction failed bhaye bank account statement check garera amount deduct bhayo ki nai confirm garnuhos.",
+        "response": "Electricity provider ko app download garera 'Pay Bill' section ma customer ID enter garnuhos. Payment pachi receipt save garnuhos."
+    },
+    {
+        "question": "Driving license renewal online kasari garne?",
+        "context": "Driving license renewal online garna: 1. Department of Transport Management ko official website ma login garnuhos. 2. 'License Renewal' section select garera tapai ko license number ra date of birth enter garnuhos. 3. Renewal fees online payment ko lagi eSewa, Khalti ya Net Banking use garnuhos. 4. Required documents (e.g., medical certificate, recent photo) upload garnuhos. Submission complete bhaye appointment date auto-generate huncha, jun ko copy save garnuhos. Aba pani error aaye bhane Department ko toll-free number ma contact garnuhos.",
+        "response": "Department of Transport website ma login garera license renewal form fill garnuhos ani required documents upload garera payment garnuhos."
+    },
+    {
+        "question": "Phone overheating vayo, aba k garne?",
+        "context": "Phone overheating ko reason: 1. High graphics game ya video ko excessive use le device garam huncha. 2. Background apps le CPU overload gareko huna sakcha. 3. Charging ko time ma phone use nagarnuhos, jun overheating ko main cause ho. Aba k garne? a) All background apps band garnuhos. b) Phone ko battery health check garnuhos, old battery le heating badhauna sakcha. c) Cooling down ko lagi airplane mode on garera thadai ma rakhnu helpful huncha. Aba pani problem solve nabhaye, authorized service center ma diagnosis garnuhos.",
+        "response": "Background apps band garnuhos ani charging ko bela phone use nagarnuhos. Aba pani problem cha bhane service center ma check garnuhos."
+    },
+    {
+        "question": "Credit card payment due bhayo, aba k garne?",
+        "context": "Credit card payment due bhaye: 1. Online banking ma login garera 'Credit Card Payment' option select garnuhos. Tapai ko card number enter garera due amount clear garnuhos. 2. Payment portal le 'Scheduled Payment' allow gareko cha bhane late fee avoid garna upcoming payments ko date set garnuhos. 3. Due bhanda large amount rakhera advance payment garnuhos. Aba pani issue solve nabhaye, card provider ko branch ma gayera manual payment garnuhos. Frequent late payment le credit score effect huncha, timely payment ensure garnuhos.",
+        "response": "Online banking use garera due amount clear garnuhos. Frequent late payment avoid garna 'Scheduled Payment' set garnuhos."
+    },
+    {
+        "question": "Passport renewal ko process k ho?",
+        "context": "Passport renewal ka lagi: 1. Department of Passport ko official website ma gayera 'Passport Renewal' form download garnuhos. 2. Required documents (e.g., old passport, recent photo, citizenship copy) ready garnuhos. 3. Online form submit garepachi application tracking ID generate huncha, jun save garnuhos. 4. Appointment slot select garera embassy ya passport office visit garnuhos. Processing time ma 7-10 din lagna sakcha. Aba pani renewal process ma issue aaye bhane toll-free support line ma call garnuhos.",
+        "response": "Passport renewal form download garera submit garnuhos. Required documents prepare garera embassy ma visit garnuhos."
+    },
+    {
+        "question": "Mobile ko password birsiyo, aba k garne?",
+        "context": "Mobile ko password birseko cha bhane: 1. Factory reset garna parcha. Reset garnu bhanda pahila device ma login gareko Google account ya Apple ID yaad garnuhos, natra device permanently lock huncha. 2. Reset garna phone ko 'Recovery Mode' ma januhos (Power button + Volume Down ekai patak press garera). 3. 'Wipe Data/Factory Reset' select garera confirm garnuhos. Aba pachi device reset bhaye Google account bata sign in garera restore process complete garnuhos. Aba pani unlock nabhaye authorized service center ma visit garnuhos.",
+        "response": "Recovery mode ma gayera factory reset garnuhos ani Google account ya Apple ID login garera unlock process complete garnuhos."
+    },
+    {
+        "question": "Home loan kasari apply garne?",
+        "context": "Home loan apply garna: 1. Bank ko official website ma 'Loan Products' section ma januhos ani eligibility criteria hernus. Minimum income requirement ra employment stability check garnuhos. 2. Required documents (e.g., salary slip, tax clearance certificate, property papers) ready garnuhos. 3. Application form online fill garera submit garnuhos, ya nearest branch ma visit garera manual form fill garnuhos. Loan approval process ma 7-15 din lagna sakcha, bank le additional verification jasto ki property valuation garna sakcha. Aba pani query cha bhane bank ko loan officer sanga direct samparka garnuhos.",
+        "response": "Bank ko website ma eligibility criteria hernus ani documents ready garera online ya branch ma form submit garnuhos."
+    },
+    {
+        "question": "Online class join garna problem cha, aba k garne?",
+        "context": "Online class join garna problem bhaye: 1. Internet connection speed check garnuhos, stable connection cha ki nai ensure garnuhos. 2. Browser cache clear garera class platform (e.g., Zoom, Google Meet) reopen garnuhos. 3. Application update gareko cha ki nai hernus, outdated version le problem dina sakcha. 4. Login credentials sahi cha ki nai confirm garnuhos. Aba pani class join nabhaye, technical support team lai contact garnuhos ani error screenshot send garera solution khojnuhos.",
+        "response": "Internet speed check garnuhos ani browser cache clear garera application update garnuhos. Nabhae technical support sanga samparka garnuhos."
+    },
+    {
+        "question": "Gas cylinder ko leakage thaha vayo, aba k garne?",
+        "context": "Gas cylinder leak cha bhane turant safety measures linos: 1. Cylinder ko regulator band garera kitchen ma sabai windows ra doors kholnus. 2. Kahi pani matchstick ya electrical appliance on nagarnuhos. 3. Leakage detect garna soap solution use garnuhos - regulator pipe ma bubble aayo bhane leak confirm huncha. Aba gas distributor ko emergency helpline number ma call garera replacement ko lagi request garnuhos. Fire hazard avoid garna cylinder thadai ma rakhnu important huncha.",
+        "response": "Regulator band garnuhos, windows open rakhnuhos ani distributor ko emergency helpline lai call garnuhos."
+    },
+    {
+        "question": "New SIM card kasari activate garne?",
+        "context": "Naya SIM card activate garna: 1. SIM card insert garera phone restart garnuhos. 2. SIM provider ko welcome SMS ko lagi 24 ghanta samma wait garnuhos. 3. Manual activation cha bhane *123# dial garera follow-up garnuhos. 4. Kahi photo ID proof ma mismatch cha bhane activation delay huncha, distributor ma ID proof submit garnuhos. Aba pani active nabhaye SIM provider ko toll-free number ma call garnuhos ani manual verification request garnuhos.",
+        "response": "SIM insert garera phone restart garnuhos ani manual activation ko lagi *123# dial garnuhos."
+    },
+    {
+        "question": "Email delivery failed vayo, aba k garne?",
+        "context": "Email delivery failed bhane: 1. Receiver ko email address thik cha ki nai confirm garnuhos. Typing error le email bounce huna sakcha. 2. Attachment size limit check garnuhos, large files le failure dincha. Compress garepachi resend garnuhos. 3. Sender account verify garnuhos, email service block bhayeko cha ki nai hernus (e.g., spam-like activity). Aba pani delivery problem cha bhane email service provider ko support team sanga samparka garnuhos ani error message ko detail provide garnuhos.",
+        "response": "Receiver ko email address check garnuhos ani attachment size limit confirm garera email resend garnuhos."
+    },
+    {
+        "question": "Insurance claim kasari file garne?",
+        "context": "Insurance claim file garna: 1. Insurance provider ko website ma claim form download garnuhos. 2. Claim type (e.g., health, vehicle, property) anusar required documents (e.g., bills, FIR report) prepare garnuhos. 3. Claim form fill garera online ya physical branch ma submit garnuhos. Verification process ma 7-10 din lagna sakcha. 4. Claim tracking ID save garnuhos ani process status time-to-time check garnuhos. Aba pani delay bhaye customer care ma inquiry garnuhos.",
+        "response": "Insurance provider ko website bata form download garera documents sanga submit garnuhos ani tracking ID save garnuhos."
+    },
+    {
+        "question": "Phone ko camera blurry cha, aba kasari fix garne?",
+        "context": "Phone camera blurry cha bhane: 1. Camera lens clean garnuhos, lens ma dust ya fingerprint lageko cha bhane blurry huncha. Soft cloth use garera clean garnuhos. 2. Camera app settings ma focus mode check garnuhos, auto-focus enable cha ki nai confirm garnuhos. 3. Phone restart garera camera app reopen garnuhos. Aba pani issue solve nabhaye, software update ko lagi Settings > Software Update ma januhos. Hardware fault cha bhane authorized service center ma repair garnuhos.",
+        "response": "Camera lens clean garnuhos, auto-focus enable cha ki nai hernus ani software update garnuhos."
+    },
+    {
+        "question": "PAN card apply kasari garne?",
+        "context": "PAN card apply garna: 1. Inland Revenue Department ko official website ma 'PAN Registration' section ma januhos. 2. Online form fill garera citizenship details ra personal information enter garnuhos. 3. Required documents (e.g., citizenship ko photocopy, recent photo) upload garnuhos. 4. Application submit garera tracking number save garnuhos. Aba pani process ma issue bhaye tax office ko help desk ma samparka garnuhos. Normal processing time 7 din samma lagna sakcha.",
+        "response": "PAN registration form online fill garera documents upload garnuhos ani tracking number save garnuhos."
+    },
+    {
+        "question": "Laptop ko keyboard kaam garena, aba k garne?",
+        "context": "Laptop keyboard kaam garena bhane: 1. Keyboard keys ko physical damage check garnuhos. Dust le jam cha bhane compressed air use garera clean garnuhos. 2. Keyboard driver outdated cha bhane Device Manager ma gayera update garnuhos. 3. External keyboard connect garera test garnuhos, aba external le kaam garyo bhane hardware fault confirm huncha. Aba pani kaam nagare service center ma replace ya repair garna parcha.",
+        "response": "Keyboard clean garnuhos, driver update garnuhos ani external keyboard bata test garnuhos. Hardware issue cha bhane service center ma repair garnuhos."
+    },
+    {
+        "question": "Bank ma cheque deposit kasari garne?",
+        "context": "Cheque deposit garna: 1. Bank ko branch visit garera deposit slip ko form fill garnuhos. Required details: account holder name, account number, cheque amount. 2. Deposit slip ko copy rakhnuhos as proof. 3. Cheque ko backside ma signature garnuhos ani deposit slip sanga counter ma submit garnuhos. Aba processing time normal condition ma 2-3 working days ho. Aba pani deposit process ma delay bhaye bank ko branch manager sanga samparka garnuhos.",
+        "response": "Deposit slip fill garera cheque submit garnuhos. Deposit proof ko lagi slip ko copy rakhnuhos."
+    },
+    {
+        "question": "Electricity bill online kasari tirne?",
+        "context": "Electricity bill online tirna: 1. Nepal Electricity Authority (NEA) ko official app ya authorized digital wallets jasto ki eSewa, Khalti use garnuhos. 2. Meter customer number enter garera bill amount check garnuhos. 3. Wallet ma sufficient balance cha bhane 'Pay Now' option click garnuhos. Payment confirm bhaye transaction receipt save garnuhos. Aba pani payment failed bhaye NEA ko helpline ma samparka garnuhos.",
+        "response": "eSewa ya Khalti ma meter number enter garera bill amount pay garnuhos ani receipt save garnuhos."
+    },
+    {
+        "question": "Passport renewal ko lagi k garnu parcha?",
+        "context": "Passport renewal process: 1. Department of Passport ko official website ma online form fill garnuhos. 2. Required documents: old passport, recent passport-size photo, ani citizenship photocopy submit garnuhos. 3. Appointment booking garnuhos ani allocated date ma passport office visit garnuhos. 4. Renewal processing normally 10-15 working days lagcha. Aba urgent case cha bhane 'Fast Track' service ko lagi additional charges pay garnuhos. Delay bhaye help desk ma status inquiry garnuhos.",
+        "response": "Online form fill garera required documents sanga passport office ma visit garnuhos."
+    },
+    {
+        "question": "ATM ma cash withdraw failed vayo, aba k garne?",
+        "context": "ATM cash withdraw failed bhaye: 1. ATM receipt ma error code check garnuhos. 2. Account balance insufficient cha ki nai confirm garera retry garnuhos. Aba card block ya machine error cha bhane bank ko customer care ma call garnuhos. 3. Transaction failed bhaye pani amount deduct bhayo bhane 2-3 working days wait garnuhos; refund automatic huncha. Aba refund nabhaye transaction ID sanga complaint file garnuhos.",
+        "response": "Error code hernus, aba amount deduct bhayo bhane 2-3 din pachi automatic refund huncha. Nabhaye bank sanga samparka garnuhos."
+    },
+    {
+        "question": "Online shopping refund kasari claim garne?",
+        "context": "Online shopping refund claim garna: 1. Seller ko return/refund policy check garnuhos. 2. Received product ma defect ya wrong item cha bhane proof ko lagi photo/video evidence ready garnuhos. 3. Website ya app ma 'Order History' section ma gayera return request submit garnuhos. Refund processing time normal 5-7 working days ho. Aba pani delay bhaye customer support sanga live chat ya call garnuhos.",
+        "response": "Return request submit garera proof attach garnuhos ani 5-7 din refund ko lagi wait garnuhos."
+    },
+    {
+        "question": "Driving license renewal kasari garne?",
+        "context": "Driving license renewal: 1. Department of Transport ko official website ma online form fill garnuhos. 2. Required documents: old license, recent medical certificate, ani passport-size photo upload garnuhos. 3. Renewal fee online pay garnuhos. Aba appointment date ma Transport Office ma biometric verification complete garnuhos. License renewal process normal 10 working days lagcha. Aba delay bhaye office ko inquiry counter ma status check garnuhos.",
+        "response": "Online form fill garera required documents upload garnuhos ani biometric verification ko lagi office ma januhos."
+    },
+    {
+        "question": "Insurance premium online kasari tirne?",
+        "context": "Insurance premium tirna: 1. Insurance provider ko website ya mobile app ma login garnuhos. 2. Policy number ra due amount check garera payment section open garnuhos. 3. Digital wallets (e.g., eSewa, Khalti) ya debit/credit card use garera payment confirm garnuhos. Aba transaction successful bhaye receipt download garera future reference ko lagi rakhnuhos. Payment failed bhaye insurance helpline ma contact garnuhos.",
+        "response": "Insurance provider ko website ma login garera digital wallet ya card bata payment garnuhos."
+    },
+    {
+        "question": "Bank account close kasari garne?",
+        "context": "Bank account close garna: 1. Bank ko nearest branch visit garnuhos. 2. Account closure ko application form fill garera valid ID proof submit garnuhos. 3. Account ma balance cha bhane withdrawal garera zero balance ma change garnuhos. Aba verification process complete bhaye account closure confirmation letter collect garnuhos. Aba pani balance dispute cha bhane bank ko manager sanga discuss garnuhos.",
+        "response": "Branch ma visit garera account closure form fill garnuhos ani ID proof submit garnuhos."
+    },
+    {
+        "question": "Phone ma storage full vayo, aba k garne?",
+        "context": "Phone storage full vayo bhane: 1. Unused apps uninstall garnuhos. 2. Photos, videos, ani large files cloud storage (e.g., Google Drive) ma upload garera device bata delete garnuhos. 3. Cache files clear garna Settings > Storage > Clear Cache option use garnuhos. 4. Storage optimization ko lagi SD card insert garera external storage ko use garnuhos. Aba pani space free nabhaye factory reset consider garnuhos (data backup garnu important cha).",
+        "response": "Unused apps delete garnuhos ani files cloud ma upload garera device ma free space create garnuhos."
+    },
+    {
+        "question": "Online class ko recorded video download garna milcha?",
+        "context": "Online class platform (e.g., Zoom, Google Meet) le recorded video ko access provide garcha. 1. Class ko host le recording link share gareko cha bhane direct access milcha. 2. Kahi download option enabled cha bhane 'Download' button click garnuhos. Aba access problem cha bhane host sanga permission request garnuhos. Copyright policy ko violation nagari video download garna host ko consent le allow garnuhos.",
+        "response": "Recording link share bhaye download garnuhos, problem cha bhane host sanga permission request garnuhos."
+    },
+    {
+        "question": "Bike servicing kasari garne?",
+        "context": "Bike servicing garna: 1. Authorized service center ma visit garnuhos ani servicing schedule follow garnuhos. 2. Servicing checklist: engine oil change, brake pad inspection, chain lubrication, tire pressure check, ani air filter cleaning. 3. Additional maintenance jasto ki clutch adjustment, suspension inspection, ani battery check garna saknu huncha. Aba regular servicing le bike ko mileage ra performance better huncha. Aba pani problem cha bhane mechanic le detailed diagnosis garna sakcha.",
+        "response": "Authorized service center ma gayera engine oil change, brake pad check, ani chain lubrication garna request garnuhos."
+    },
+    {
+        "question": "Water purifier le pani filter garena, aba k garne?",
+        "context": "Water purifier le pani filter nagare bhane: 1. Power supply check garnuhos, power switch on cha ki nai confirm garnuhos. 2. Water tank empty cha bhane refill garnuhos. 3. Filter cartridge clogged cha bhane clean ya replace garnuhos. User manual ma recommended replacement cycle check garnuhos. 4. Aba pani problem solve nabhaye technician sanga contact garera service request file garnuhos. Regular maintenance le purifier ko lifespan barhauxa.",
+        "response": "Filter clean ya replace garnuhos, aba kaam nagare technician sanga contact garnuhos."
+    },
+    {
+        "question": "Phone ma overheating ko problem cha, aba k garne?",
+        "context": "Phone overheating problem solve garna: 1. Background apps band garera processor load reduce garnuhos. 2. Phone ko case ya cover remove garera cooling improve garnuhos. 3. Charging ko waqt heavy apps (e.g., games) avoid garnuhos. 4. Software update check garnuhos, outdated version overheating cause garna sakcha. Aba pani problem cha bhane phone ko battery ya hardware technician le inspect garnuhos.",
+        "response": "Background apps band garera software update garnuhos. Aba hardware inspect garna technician sanga contact garnuhos."
+    },
+    {
+        "question": "Courier tracking number harayo, aba package track kasari garne?",
+        "context": "Courier tracking number harayo bhane: 1. Courier company ko customer care ma call garnuhos ani sender ko details (e.g., sender name, mobile number, dispatch date) provide garnuhos. 2. Email confirmation check garnuhos, tracking number detail email ma huncha. Aba pani tracking ko lagi problem bhaye courier office directly visit garnuhos ani manual inquiry garnuhos.",
+        "response": "Customer care lai sender ko details provide garnuhos ani tracking number ko lagi assistance linuhos."
+    },
+    {
+        "question": "Health insurance claim kasari file garne?",
+        "context": "Health insurance claim garna: 1. Hospital ko billing section ma insurance details provide garnuhos. 2. Insurance provider ko claim form fill garera required documents (e.g., hospital bills, discharge summary, doctor prescription) submit garnuhos. 3. Insurance ko pre-approval system cha bhane hospital le direct insurance provider sanga coordinate garcha. Aba claim delay bhaye insurance helpline ma inquiry garnuhos.",
+        "response": "Hospital bills ani discharge summary sanga claim form submit garnuhos. Pre-approval system cha bhane hospital sanga samparka garnuhos."
+    },
+    {
+        "question": "Laptop ko battery quickly discharge huncha, aba k garne?",
+        "context": "Laptop ko battery quickly discharge bhaye: 1. Brightness level reduce garnuhos ani unused apps band garnuhos. 2. Battery saver mode enable garnuhos ani high-performance settings avoid garnuhos. 3. Battery health diagnostic tool run garera battery status check garnuhos. Aba battery damaged cha bhane authorized service center ma replace garnuhos. Regular charging habit le battery lifespan maintain garna madat garcha.",
+        "response": "Brightness reduce garnuhos, battery saver mode enable garnuhos ani aba problem solve nabhaye service center ma replace garnuhos."
+    },
+    {
+        "question": "Train ticket online kasari book garne?",
+        "context": "Train ticket online book garna: 1. Railway booking platform (e.g., IRCTC) ma account create garnuhos. 2. Login garepachi 'Book Ticket' section ma station names, travel date, ani passenger details enter garnuhos. 3. Payment section ma preferred method (debit card, UPI, etc.) use garera ticket book garnuhos. Ticket confirmation ko lagi SMS ya email ko wait garnuhos. Aba pani booking issue cha bhane customer support ma contact garnuhos.",
+        "response": "Railway platform ma login garera passenger details fill garera online payment garnuhos."
+    },
+    {
+        "question": "Home delivery order cancel kasari garne?",
+        "context": "Home delivery order cancel garna: 1. Order platform ma login garera 'Order History' section open garnuhos. 2. Cancel eligible cha bhane 'Cancel Order' option select garnuhos. Aba refund process automatically start huncha. 3. Delivery stage ma cha bhane order cancel policy check garnuhos. Refund timing 7-10 working days samma lagna sakcha. Aba problem cha bhane live chat ya helpline sanga samparka garnuhos.",
+        "response": "Order History ma gayera 'Cancel Order' option select garnuhos ani refund process ko lagi wait garnuhos."
+    },
+    {
+        "question": "Job application status kasari check garne?",
+        "context": "Job application status check garna: 1. Company ko career portal ma login garera application ID use garera status check garnuhos. 2. Email updates ko lagi inbox regularly check garnuhos. Aba automatic status update system cha bhane 'In Progress' ya 'Shortlisted' jasto status haru display huncha. Aba response nabhaye HR sanga follow-up email ya call garnuhos.",
+        "response": "Company career portal ma login garera application ID use garnuhos. Aba HR sanga follow-up garnuhos."
+    },
+    {
+        "question": "Bike ko mileage kamm vayo, aba k garne?",
+        "context": "Bike mileage improve garna: 1. Air filter clean garnuhos ani tire pressure optimal level ma rakhnuhos. 2. Regular servicing garera engine tune-up garnuhos. 3. Sudden acceleration ra high-speed driving avoid garnuhos. 4. Premium fuel use garna consider garnuhos. Aba problem solve nabhaye mechanic sanga discuss garera detailed inspection garnuhos.",
+        "response": "Air filter clean garnuhos, tire pressure check garnuhos ani mechanic sanga engine tune-up garna milcha."
+    },
+    {
+        "question": "SIM card replace kasari garne?",
+        "context": "SIM card replace garna: 1. Mobile network provider ko nearest store visit garnuhos. 2. Required documents: valid ID proof, recent passport-size photo, ani SIM card holder ko details (e.g., registered mobile number). 3. Lost SIM case ma complaint file gareko proof le submit garnuhos. Aba verification process complete bhaye replacement charge pay garera new SIM issue garincha. Replacement ko lagi typically 1-2 hours lagna sakcha.",
+        "response": "Nearest network provider ko store ma ID proof ra registered details sanga visit garnuhos."
+    },
+    {
+        "question": "Travel visa apply kasari garne?",
+        "context": "Travel visa apply garna: 1. Destination country ko official embassy website ma visa application form fill garnuhos. 2. Required documents: valid passport, recent passport-size photo, travel itinerary, ani bank statement submit garnuhos. 3. Visa interview appointment schedule garnuhos aba interview ma genuine travel purpose explain garnuhos. Aba visa processing time 7-15 working days lagna sakcha. Delay cha bhane embassy sanga inquiry garnuhos.",
+        "response": "Embassy website ma form fill garera required documents submit garnuhos ani interview appointment linuhos."
+    },
+    {
+        "question": "Pension withdrawal kasari garne?",
+        "context": "Pension withdrawal garna: 1. Pension office visit garnuhos ani withdrawal application form fill garnuhos. 2. Required documents: pension account details, identity proof, ani recent passport-size photo submit garnuhos. Aba withdrawal process start garna typically 7-10 working days lagcha. Pension release delay bhaye relevant pension office ma complaint file garnuhos.",
+        "response": "Withdrawal form fill garera pension account details ra ID proof sanga office ma submit garnuhos."
+    },
+    {
+        "question": "Home loan ko interest rate kasari compare garne?",
+        "context": "Home loan ko interest rate compare garna: 1. Banks ko official website ma gayera loan ko interest rate check garnuhos. 2. EMI calculator use garera monthly repayment amount calculate garnuhos. 3. Fixed vs floating rate ko benefits ani disadvantages analyze garnuhos. Aba sasto interest rate ko lagi bank ko loan officer sanga directly samparka garnuhos. Comparison tools ani online marketplaces pani use garna saknuhuncha.",
+        "response": "Banks ko website ma gayera rate check garnuhos ani EMI calculator use garera repayment compare garnuhos."
+    },
+    {
+        "question": "Online form submit garna failed vayo, aba k garne?",
+        "context": "Online form submit garna failed vayo bhane: 1. Internet connection check garnuhos ani stable cha ki nai confirm garnuhos. 2. Form ko mandatory fields fill cha ki nai ensure garnuhos. 3. Browser cache clear garera form feri try garnuhos. Aba pani problem cha bhane website ko technical support ma complaint file garnuhos. Temporary server issue cha bhane retry garnuhos.",
+        "response": "Internet connection check garnuhos, browser cache clear garnuhos ani technical support sanga contact garnuhos."
+    },
+    {
+        "question": "Electricity pole damaged vayo, complaint kasari file garne?",
+        "context": "Electricity pole damaged vayo bhane: 1. Nepal Electricity Authority ko toll-free number ma call garnuhos ani location details provide garnuhos. 2. Complaint form NEA ko official website ma fill garera issue report garnuhos. 3. Emergency case (e.g., live wire down) ma local NEA office sanga direct contact garnuhos. Aba repair request typically 1-2 working days ma address huncha. Aba delay cha bhane regional office ma follow-up garnuhos.",
+        "response": "NEA ko toll-free number ma call garera location details sanga complaint file garnuhos."
+    },
+    {
+        "question": "Hospital ma emergency ma patient kasari admit garne?",
+        "context": "Emergency ma patient admit garna: 1. Hospital ko emergency section ma direct gayera patient ko details provide garnuhos. 2. Required documents: patient ko ID proof ani insurance card (if applicable). 3. Immediate medical attention cha bhane 'Cashless Admission' ko lagi insurance provider sanga confirm garnuhos. Aba emergency case ma deposit amount collect huncha ani final billing discharge ma huncha.",
+        "response": "Emergency section ma patient admit garera required documents ani insurance card provide garnuhos."
+    },
+    {
+        "question": "Land purchase ko lagi legal process k ho?",
+        "context": "Land purchase legal process: 1. Seller ko land ko ownership verify garna Land Revenue Office ma gayera details confirm garnuhos. 2. Purchase agreement draft garnuhos ani both parties sign garnuhos. 3. Payment process complete garepachi Land Revenue Office ma transfer deed register garnuhos. Aba property tax ani registration charge pay garera legal title obtain garnuhos.",
+        "response": "Ownership verify garera purchase agreement sign garnuhos ani Land Revenue Office ma transfer deed register garnuhos."
+    },
+    {
+        "question": "Work from home ko lagi productivity kasari barhau ne?",
+        "context": "Work from home ma productivity barhauna: 1. Fixed routine follow garnuhos ani distraction minimize garnuhos. 2. Comfortable work environment create garnuhos with proper lighting and ergonomic chair. 3. Task prioritize garera to-do list maintain garnuhos. 4. Regular breaks le fatigue reduce garcha ani motivation maintain huncha. Aba communication tools (e.g., Zoom, Slack) effectively use garera team coordination garna saknuhuncha.",
+        "response": "Fixed routine follow garnuhos, distraction minimize garnuhos ani breaks le fatigue reduce garnuhos."
+    },
+    {
+        "question": "School ma student ko transfer process kasari huncha?",
+        "context": "Student transfer process: 1. Current school bata Transfer Certificate (TC) ani academic records collect garnuhos. 2. New school ko admission form fill garera required documents (e.g., TC, previous grade ko mark sheet) submit garnuhos. 3. Admission fee pay garnuhos ani enrollment confirmation ko lagi wait garnuhos. Aba transfer delay cha bhane both schools sanga coordination garnuhos.",
+        "response": "Current school bata TC collect garnuhos ani new school ko admission form fill garera submit garnuhos."
+    },
+    {
+        "question": "Online shopping ko refund kasari claim garne?",
+        "context": "Online shopping ko refund claim garna: 1. Product receive bhayeko proof ani unboxing video (if applicable) save garnuhos. 2. Shopping platform ko 'Order History' section ma gayera product return request submit garnuhos. 3. Reason for return ani required photos upload garnuhos. Aba pickup schedule confirm garnuhos ani return process complete bhayepachi refund automatically process huncha. Refund timing 7-10 working days samma lagna sakcha.",
+        "response": "Order History ma gayera return request submit garnuhos ani pickup schedule confirm garnuhos."
+    },
+    {
+        "question": "Bank account statement online kasari download garne?",
+        "context": "Bank account statement download garna: 1. Bank ko net banking ya mobile app login garnuhos. 2. 'Account Statement' ya 'E-Statement' option select garnuhos. 3. Date range select garera PDF ya email format choose garnuhos ani download garnuhos. Aba regularly statement check garera unauthorized transactions monitor garnuhos. Aba technical error bhaye bank ko helpline sanga contact garnuhos.",
+        "response": "Net banking ya mobile app login garera 'Account Statement' option bata PDF download garnuhos."
+    },
+    {
+        "question": "Driving license renewal kasari garne?",
+        "context": "Driving license renewal garna: 1. Transport office ya online portal bata renewal form fill garnuhos. 2. Required documents: old driving license, recent passport-size photo, ani medical fitness certificate submit garnuhos. 3. Renewal fee pay garnuhos aba form verify huncha. License print ani delivery process complete bhayepachi renewed license issue garincha. Renewal timing 7-14 working days samma lagna sakcha.",
+        "response": "Transport office ko online portal ma form fill garera required documents submit garnuhos."
+    },
+    {
+        "question": "Hotel booking cancel garna refund kasari paucha?",
+        "context": "Hotel booking cancel garna: 1. Booking platform ko 'My Bookings' section open garnuhos. 2. 'Cancel Booking' option select garera cancellation policy check garnuhos. Non-refundable bookings ma refund claim garna mildaina. Aba refundable booking cha bhane cancel garera refund initiate huncha. Refund process timing typically 7-10 working days lagcha. Aba platform support team sanga contact garnuhos.",
+        "response": "My Bookings section ma 'Cancel Booking' garera refund initiate garnuhos."
+    },
+    {
+        "question": "Insurance premium online kasari pay garne?",
+        "context": "Insurance premium online pay garna: 1. Insurance provider ko website ya mobile app login garnuhos. 2. Policy number ani payment details enter garnuhos. 3. Preferred payment method (credit/debit card, UPI, net banking) select garera payment confirm garnuhos. Aba successful transaction ko lagi receipt download garnuhos. Aba delay cha bhane insurance provider sanga contact garnuhos.",
+        "response": "Provider ko website ma login garera policy number enter garera online payment garnuhos."
+    },
+    {
+        "question": "Landline phone ma problem cha, repair request kasari garne?",
+        "context": "Landline phone ma problem solve garna: 1. Service provider ko helpline number ma call garera complaint register garnuhos. 2. Issue details jasto ki 'No Dial Tone' ya 'Noise on Line' specify garnuhos. 3. Technician appointment schedule garnuhos aba repair request process huncha. Aba problem solve nabhaye escalation process ko lagi customer care sanga follow-up garnuhos.",
+        "response": "Service provider ko helpline ma call garera complaint register garnuhos."
+    },
+    {
+        "question": "Airline ticket reschedule kasari garne?",
+        "context": "Airline ticket reschedule garna: 1. Airline ko official website ma login garnuhos ani 'Manage Booking' section ma jane. 2. Ticket ko PNR number ani registered email ya mobile number enter garnuhos. 3. Preferred travel date ani time select garera fare difference pay garnuhos. Aba new ticket confirmation ko lagi email ya SMS wait garnuhos. Reschedule fee cha bhane payment garnuhos.",
+        "response": "Airline website ma 'Manage Booking' section bata travel date change garera fare difference pay garnuhos."
+    },
+    {
+        "question": "Online payment stuck bhayo, refund kasari garne?",
+        "context": "Online payment stuck bhaye: 1. Payment gateway ko status check garnuhos ani transaction ID save garnuhos. 2. Bank ya wallet provider sanga contact garera transaction details provide garnuhos. Aba refund process automatically initiate huncha. Typically 5-7 working days ma refund complete huncha. Aba issue solve nabhaye escalation request file garnuhos.",
+        "response": "Bank ya wallet provider sanga transaction ID provide garera refund request garnuhos."
+    },
+    {
+        "question": "School admission ko process kasari huncha?",
+        "context": "School admission ko process: 1. Admission inquiry form school office ya website bata obtain garnuhos. 2. Required documents: birth certificate, previous academic records, passport-size photo submit garnuhos. 3. Admission test ya interview clear garera enrollment confirmation ko lagi wait garnuhos. Admission fee pay garnuhos aba student ko details school database ma register huncha.",
+        "response": "School ko office ma inquiry form fill garera required documents submit garnuhos."
+    },
+    {
+        "question": "Train ko late timing kasari check garne?",
+        "context": "Train ko timing check garna: 1. Railway official app ya website ma login garera train number enter garnuhos. 2. 'Live Status' section ma train ko current location ani delay details check garnuhos. Aba station display board ma timing update confirm garnuhos. Regular updates ko lagi SMS alert subscribe garna saknuhuncha.",
+        "response": "Railway app ma login garera 'Live Status' bata train ko delay details check garnuhos."
+    },
+    {
+        "question": "Electricity bill online kasari pay garne?",
+        "context": "Electricity bill online pay garna: 1. Electricity board ko official website ya mobile app login garnuhos. 2. 'Pay Bill' option select garera consumer number ani amount enter garnuhos. 3. Payment method (credit/debit card, net banking, wallet) select garera payment confirm garnuhos. Aba successful transaction ko receipt download garnuhos. Aba payment error cha bhane helpline ma samparka garnuhos.",
+        "response": "Electricity board ko app ma login garera consumer number ani amount enter garera pay garnuhos."
+    },
+    {
+        "question": "Bank loan application kasari garne?",
+        "context": "Bank loan apply garna: 1. Preferred bank ma visit garera loan officer sanga samparka garnuhos. 2. Required documents: ID proof, address proof, income statement, ani bank statement submit garnuhos. 3. Loan application form fill garera eligibility check garnuhos. Aba loan approval ko lagi processing time typically 5-10 working days huncha. Approval pachi disbursement process complete huncha.",
+        "response": "Bank visit garera loan officer sanga contact garera documents submit garnuhos."
+    },
+    {
+        "question": "Passport renewal kasari garne?",
+        "context": "Passport renewal garna: 1. Passport application center ya official portal bata renewal form fill garnuhos. 2. Required documents: old passport, recent passport-size photo, ani ID proof submit garnuhos. 3. Renewal fee online ya in-person pay garnuhos. Aba application verify bhayepachi renewed passport delivery 10-15 working days ma huncha. Delay cha bhane regional passport office sanga follow-up garnuhos.",
+        "response": "Passport center ma renewal form fill garera required documents submit garnuhos."
+    },
+    {
+        "question": "PAN card kasari apply garne?",
+        "context": "PAN card apply garna: 1. Inland Revenue Department ko official website ma gayera online form fill garnuhos. 2. Required documents: citizenship certificate ko copy, recent passport-size photo, ani address proof upload garnuhos. 3. Application fee online pay garera form submit garnuhos. Aba verification process complete bhayepachi PAN card 7-10 working days ma delivery huncha.",
+        "response": "IRD ko website ma form fill garera citizenship ko copy ani photo upload garnuhos."
+    },
+    {
+        "question": "Flight boarding pass kasari generate garne?",
+        "context": "Flight boarding pass generate garna: 1. Airline ko official website ya app login garnuhos. 2. 'Check-in' section ma ticket PNR number ani registered email ya mobile number enter garnuhos. 3. Seat selection garnuhos ani e-boarding pass generate garnuhos. Aba boarding pass ko printout ya digital copy flight departure time bhanda 2-3 ghanta aghi carry garnuhos.",
+        "response": "Airline app ma check-in garera e-boarding pass generate garera carry garnuhos."
+    },
+    {
+        "question": "Mobile app crash bhaye k garne?",
+        "context": "Mobile app crash bhaye: 1. App ko latest version check garnuhos ani update garnuhos. 2. Device ma storage space sufficient cha ki nai confirm garnuhos. 3. App ko cache clear garera feri try garnuhos. Aba pani crash problem cha bhane app uninstall garera re-install garnuhos. Issue solve nabhaye developer support team sanga contact garnuhos.",
+        "response": "App ko update garnuhos ani cache clear garera feri try garnuhos."
+    },
+    {
+        "question": "Digital wallet ma stuck transaction refund kasari garne?",
+        "context": "Digital wallet transaction refund garna: 1. Wallet app ma transaction history open garnuhos ani stuck transaction ko details save garnuhos. 2. Wallet ko support section ma refund request form fill garnuhos. 3. Transaction ID ani registered mobile number provide garnuhos. Aba wallet provider ko response typically 3-5 working days ma huncha.",
+        "response": "Wallet app ma refund request form fill garera transaction details provide garnuhos."
+    },
+    {
+        "question": "Tourist visa ko extension kasari garne?",
+        "context": "Tourist visa extension garna: 1. Immigration office ma visit garera visa extension form fill garnuhos. 2. Required documents: original passport, visa copy, ani recent passport-size photo submit garnuhos. 3. Extension fee pay garera processing ko lagi wait garnuhos. Typically, 3-5 working days ma extended visa issue huncha.",
+        "response": "Immigration office ma visit garera visa extension form fill garnuhos ani required documents submit garnuhos."
+    },
+    {
+        "question": "Mobile recharge online kasari garne?",
+        "context": "Mobile recharge online garna: 1. Recharge app ya mobile banking app login garnuhos. 2. Mobile number enter garera recharge amount select garnuhos. 3. Payment method choose garera transaction confirm garnuhos. Aba successful recharge ko confirmation SMS receive huncha. Issue cha bhane service provider ko support ma contact garnuhos.",
+        "response": "Recharge app ma number ani amount enter garera payment confirm garnuhos."
+    },
+    {
+        "question": "Lost item ko police report kasari file garne?",
+        "context": "Lost item ko police report file garna: 1. Nearest police station visit garnuhos ani complaint form fill garnuhos. 2. Lost item ko details: description, last known location, ani approximate time of loss specify garnuhos. 3. Police ko verification process pachi loss certificate obtain garnuhos. Aba document official purposes ko lagi valid huncha.",
+        "response": "Police station visit garera complaint form fill garera lost item ko details provide garnuhos."
+    }
+]
