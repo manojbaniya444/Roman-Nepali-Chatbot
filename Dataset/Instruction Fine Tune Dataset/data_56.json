@@ -1,0 +1,522 @@
+[
+    {
+        "question": "Nepal ko raja haru ko bare ma kunai jankari cha?",
+        "context": "Nepal ma raja ko pratha 1768 dekhi suru bhayeko ho, jab King Prithvi Narayan Shah le Nepal lai ekikrit gare. Teti bela bata 2008 samma Nepal ma raja haru ko shasan rahyo.",
+        "response": "Ho, Nepal ma pahila raja haru thiyo. Prithvi Narayan Shah le Nepal ekikrit gareko thiyo, ra 2008 samma raja haru ko shasan rahyo."
+    },
+    {
+        "question": "Sagarmatha ko uchai kati cha?",
+        "context": "Sagarmatha, jisko English ma Mount Everest bhaninchha, ko uchai 8,848.86 meters cha, jasma Nepal ra China ko sahamatile update gareko accurate measurement anusar ho.",
+        "response": "Sagarmatha ko uchai 8,848.86 meters ho, Nepal ra China le confirm gareko."
+    },
+    {
+        "question": "Nepal ma total kati ota UNESCO World Heritage Sites chan?",
+        "context": "Nepal ma 4 cultural ra 4 natural sites garera total 8 UNESCO World Heritage Sites chan. Kathmandu Valley ko durbar square haru cultural sites ko udaharan ho.",
+        "response": "Nepal ma total 8 UNESCO World Heritage Sites chan, jasle cultural ra natural sites sammilit gareko cha."
+    },
+    {
+        "question": "Pashupatinath mandir ko bare ma bistar ma bhannu na.",
+        "context": "Pashupatinath Mandir Nepal ko sabai bhanda purano tatha pavitra Hindu mandir ho, jun Kathmandu ko Bagmati nadiko kinaarma cha. Is mandir lai Lord Shiva ko sthaan bhanera maaninchha.",
+        "response": "Pashupatinath mandir ekdam purano ra mahaan mandir ho, jun Shiva Bhagwan ko sthaan ho. Yo Kathmandu ma Bagmati nadiko cheuma cha."
+    },
+    {
+        "question": "Pokhara ma ghumna ko lagi ke ke famous cha?",
+        "context": "Pokhara ma ghumna Fewa Lake, Sarangkot, Davis Falls, Mahendra Cave jasta thau haru famous chan. Yaha bata Annapurna range ko ramro drishya pani herna milcha.",
+        "response": "Pokhara ma Fewa Lake, Sarangkot, Davis Falls jasta thau haru ghumna ramailo cha, ra Annapurna range ko view herna majja cha."
+    },
+    {
+        "question": "Patient ko BP kasto cha?",
+        "context": "Medical report anusar, patient ko blood pressure 140/90 mmHg ma record bhayeko cha. Doctor le slightly high bhanera mention gareko cha.",
+        "response": "Patient ko BP 140/90 cha, thikai cha tara ali high jasto cha bhanera doctor le bhannu bhayo."
+    },
+    {
+        "question": "Patient ko sugar level ko bare ma jankari dinus na.",
+        "context": "Lab report ma fasting sugar level 110 mg/dL mention cha, jun slightly high consider garincha. Doctor le diet control garna suggest gareko cha.",
+        "response": "Sugar level fasting ma 110 mg/dL cha, thikai cha tara ali dhyan dinu parcha bhanera doctor le suggest gareko cha."
+    },
+    {
+        "question": "Test results ko bare ma k bhannubhayo?",
+        "context": "Doctor le bhannu bhayo ki sabai test results normal range vitra cha. Kahi pani abnormality dekhiyena.",
+        "response": "Doctor le bhannu bhayo ki sabai test normal cha, tension linu parcha jasto dekhina."
+    },
+    {
+        "question": "Patient ko recent surgery ko update dinus.",
+        "context": "Report ma mention cha ki patient ko gallbladder surgery 2 weeks pachi success bhayo. Ab recovery phase ma cha, ra pain management ko lagi medication prescribe gareko cha.",
+        "response": "Gallbladder ko surgery successfully 2 weeks agadi bhayo. Ahile recovery phase ma hunuhuncha ra pain ko lagi ausadhi leko hunuhuncha."
+    },
+    {
+        "question": "Lab report ma cholesterol level kasto cha?",
+        "context": "Lab report anusar, total cholesterol level 240 mg/dL cha, jun slightly high ho. Doctor le diet exercise ko lagi strongly recommend gareko cha.",
+        "response": "Cholesterol 240 mg/dL cha, ali high cha bhanera doctor le diet exercise garna bhannubhayo."
+    },
+    {
+        "question": "Prescription ma ke lekheko cha?",
+        "context": "Doctor le patient lai amlodipine 5 mg din ma ek patak lekhnu bhayeko cha, BP control garna ko lagi. Saath ma routine checkup ko lagi 1 mahina pachi aunu bhaneko cha.",
+        "response": "Prescription ma amlodipine 5 mg din ma ek patak lekhnu bhayeko cha, ra 1 mahina pachi checkup ko lagi aunu bhannubhayo."
+    },
+    {
+        "question": "Patient ko allergy ko bare ma thap jankari cha?",
+        "context": "Medical history anusar, patient lai penicillin ko allergy cha. Doctor le alternative antibiotic prescribe garna bhaneko cha.",
+        "response": "Patient lai penicillin allergy cha bhaneko cha, ani doctor le aru antibiotic prescribe garna suggest gareko cha."
+    },
+    {
+        "question": "Recent lab tests ma vitamin D ko level kasto cha?",
+        "context": "Lab test ma vitamin D level 15 ng/mL cha, jun deficiency level ho. Doctor le supplements lina strongly recommend gareko cha.",
+        "response": "Vitamin D ko level 15 ng/mL cha, dherai kam cha bhanera doctor le supplements khana bhaneko cha."
+    },
+    {
+        "question": "Patient ko medical history kasto cha?",
+        "context": "Patient ko medical history anusar, uniharulai 2018 ma diabetes diagnose bhayeko thiyo. Tespachi, 2020 ma mild heart attack bhayeko thiyo ra angioplasty garna parcha bhanera doctor le recommend gare. Patient ahile din ma 2 patak insulin use garchan, ra regular checkup ko lagi 3 mahina ma ek patak hospital auncha. Blood pressure pani slight high cha bhanera medication ma cha. Allergies ko kura garna parcha bhane, uniharulai penicillin ra shellfish allergy cha, jun ekdam serious ho bhanera mention cha.",
+        "response": "Patient ko medical history herda, uniharulai 2018 ma diabetes diagnose bhayeko ra 2020 ma mild heart attack pani bhayeko thiyo. Ahile insulin din ma 2 patak use garchan ra BP ko lagi ausadhi linchan. Allergies ma penicillin ra shellfish ko allergy cha, jun serious cha bhanera report lekhya cha."
+    },
+    {
+        "question": "Patient ko surgery ko barema details cha?",
+        "context": "Patient ko medical report ma mention cha ki uniharulai gallbladder ko problem ko karan 2023 ko March ma laparoscopic surgery garna parcha bhanera decision liyo. Surgery Kathmandu ma ek reputed hospital ma bhayeko ho, ra tyo successful bhayeko report ma mention cha. Post-surgery complications ka kura ma pain management medication prescribe gareko cha, ani regular dressing ko lagi weekly hospital visit garna bhaneko cha. Patient le surgery pachi ko follow-up ma dherai thikai feel garirako bhanera note gareko cha.",
+        "response": "Patient ko surgery gallbladder ko problem le garda March 2023 ma bhayeko thiyo, Kathmandu ma. Surgery successful thiyo ra pain management ko lagi medication dinu bhaneko cha. Regular hospital visit garna suggest gareko cha."
+    },
+    {
+        "question": "Lab tests ma abnormality cha?",
+        "context": "Recent lab tests report anusar, hemoglobin level slightly low cha, 10.5 g/dL ma cha. Vitamin B12 ko level pani deficiency range ma cha, 180 pg/mL. Tesko karan lethargy ko complain gareko record ma cha. Cholesterol level normal cha, total cholesterol 190 mg/dL ho. Thyroid function test normal range vitra cha, TSH 3.0 mIU/L ma cha. Doctor le multivitamin supplements, khas garera iron ra B12 ko lagi prescribe gareko cha, ani dietary changes lekhnu bhayeko cha. Regular follow-up 1 mahina ma garnu parcha bhanera bhaneko cha.",
+        "response": "Lab test ma hemoglobin slightly kam cha, 10.5 g/dL. Vitamin B12 deficiency pani cha, 180 pg/mL ma. Doctor le supplements prescribe gareko cha ra diet ma thulo dhyan dinu parcha bhanera suggest gareko cha."
+    },
+    {
+        "question": "Allergies ko full details dinus na.",
+        "context": "Medical report ma allergies ko section ma clearly mention cha ki patient lai penicillin, shellfish, ra pollen allergy cha. Penicillin ko allergy ko symptoms severe rash, breathing problem, ra anaphylactic shock samma gaye bhanera note cha. Shellfish allergy ko symptoms abdominal pain, vomiting, ra hives huncha bhaneko cha. Pollen allergy ko karan seasonal sneezing ra nasal congestion huncha. Doctor le epinephrine auto-injector aina sanga rakhnu parcha bhanera strongly recommend gareko cha.",
+        "response": "Patient lai penicillin, shellfish, ra pollen allergy cha. Penicillin le severe reaction dincha, ani shellfish le stomach problem ra rash dincha. Pollen le seasonal sneezing huncha. Doctor le epinephrine aina sanga rakhna bhaneko cha."
+    },
+    {
+        "question": "Recent follow-up visit ma ke kura bhayo?",
+        "context": "Follow-up visit ko note anusar, patient ko complaint fatigue ra joint pain ko bare ma cha. Doctor le fatigue ko karan vitamin D deficiency huncha ki bhanera blood test garna recommend gareko cha. Joint pain ko lagi anti-inflammatory medication suru garna bhaneko cha. Routine physical examination normal cha, ani heart rate 72 bpm ra BP 130/85 mmHg ma cha. Diet ma calcium ra vitamin D lekhnu bhaneko cha, ani next follow-up 6 weeks pachi garnu bhanera instruction diyeko cha.",
+        "response": "Recent follow-up ma fatigue ko bare ma vitamin D test garna bhaneko cha. Joint pain ko lagi anti-inflammatory medication start garna suggest gareko cha. Routine check normal cha, BP 130/85 ho ra diet ma calcium ra vitamin D add garnu bhaneko cha."
+    },
+    {
+        "question": "Patient ko heart condition ko bare ma kasto update cha?",
+        "context": "Medical report lekhya cha ki patient lai 2019 ma coronary artery disease diagnose bhayeko thiyo, ra angioplasty surgery bhayeko ho. Tespachi patient beta-blockers ra aspirin din ma ek patak leira medication ma cha. Recent stress test report normal aako cha, ani echocardiogram le mild left ventricular hypertrophy dekhaune cha. Doctor le physical activity continue garna ra diet ma low sodium khana recommend gareko cha.",
+        "response": "Patient lai 2019 ma coronary artery disease thiyo, ra angioplasty garna parcha bhaneko thiyo. Recent test reports normal cha, ra low sodium diet follow garna suggest gareko cha."
+    },
+    {
+        "question": "Patient ko liver function tests ko result kasto cha?",
+        "context": "Report anusar, patient ko liver function tests ma ALT ra AST slightly elevated dekha cha, ALT 60 U/L ra AST 55 U/L cha. Total bilirubin 1.2 mg/dL ma cha, jun upper normal range ma parcha. Doctor le fatty liver ko suspicion gareko cha, ani alcohol consumption minimize garna strongly recommend gareko cha. Follow-up ultrasound scan garna bhaneko cha.",
+        "response": "Liver function tests ma ALT ra AST ali high cha, ALT 60 ra AST 55. Doctor le fatty liver ko suspicion gareko ani alcohol kam garna bhaneko cha."
+    },
+    {
+        "question": "Diabetes management ko lagi doctor le k suggest gare?",
+        "context": "Patient lai type-2 diabetes diagnose cha ra fasting blood sugar 145 mg/dL dekha cha. HbA1c test le 7.2% dekha cha, jun thikai tara slightly high cha. Doctor le metformin din ma dui patak prescribe gareko cha, ani low glycemic index food khana bhaneko cha. Exercise routine ma 30 mins brisk walk din ma garna strongly recommend gareko cha. Regular monitoring ko lagi home glucometer use garna bhaneko cha.",
+        "response": "Diabetes ko lagi metformin din ma 2 patak lekhya cha ra low glycemic food khana suggest gareko cha. Din ma 30 minutes walk garna bhaneko cha ra glucometer use garna bhannubhayo."
+    },
+    {
+        "question": "Patient ko thyroid function test ko bare ma kasto cha?",
+        "context": "Report anusar, patient ko TSH level 5.8 mIU/L cha, jun slightly elevated cha ra subclinical hypothyroidism ko lakshan ho. Free T4 ra Free T3 normal range vitra cha. Doctor le levothyroxine 25 mcg din ma ek patak suru garna bhaneko cha, ani 6 mahina pachi repeat thyroid test garna recommend gareko cha.",
+        "response": "TSH level ali high cha, 5.8. Doctor le levothyroxine 25 mcg din ma ek patak suru garna bhaneko ra thyroid test 6 mahina pachi repeat garna suggest gareko cha."
+    },
+    {
+        "question": "Kidney function tests ko kasto report cha?",
+        "context": "Recent lab test anusar, patient ko serum creatinine 1.4 mg/dL ma cha, jun slightly high ho. GFR calculate gareko cha ra 65 mL/min aako cha, jun mild kidney dysfunction ko indicator ho. Blood urea nitrogen (BUN) 22 mg/dL normal range ma cha. Doctor le pani dherai khanu bhaneko cha, ani high protein diet avoid garna bhaneko cha.",
+        "response": "Kidney function ma creatinine slightly high cha, 1.4 mg/dL, ra GFR 65 ma cha. Doctor le pani dherai khanu ra high protein diet avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Recent MRI scan ko findings kasto cha?",
+        "context": "MRI report ma mention cha ki patient ko lumbar spine ma L4-L5 disc prolapse cha, jasle mild nerve compression gareko cha. Tyo karan back pain ra leg pain ko complaint cha. Doctor le physiotherapy suru garna recommend gareko cha, ra pain management ko lagi gabapentin prescribe gareko cha. Surgery ko immediate need dekhiyeko chaina, tara future ma evaluate garna bhaneko cha.",
+        "response": "MRI report ma L4-L5 disc prolapse cha ra mild nerve compression dekhiyeko cha. Doctor le physiotherapy suru garna bhaneko cha ra pain ko lagi gabapentin prescribe gareko cha."
+    },
+    {
+        "question": "Patient ko cholesterol profile ko result kasto cha?",
+        "context": "Patient ko recent lipid profile anusar, total cholesterol 220 mg/dL cha, LDL 140 mg/dL, HDL 40 mg/dL, ra triglycerides 180 mg/dL cha. Doctor le LDL level lai target gareko cha, ani atorvastatin din ma ek patak start garna bhaneko cha. Saath ma diet ma fried food ra saturated fat avoid garna strongly recommend gareko cha.",
+        "response": "Cholesterol profile ma total 220 mg/dL ra LDL 140 mg/dL cha. Doctor le atorvastatin start garna ra oily food avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Patient ko post-surgery recovery ko bare ma k cha?",
+        "context": "Patient ko knee replacement surgery 3 mahina agadi bhayeko thiyo. Physical therapy follow-up report ma patient le daily activities pain free garna sakcha bhaneko cha. Swelling alikati cha, jun normal recovery process ko part ho. Doctor le physiotherapy continue garna ani high-impact activities avoid garna bhaneko cha.",
+        "response": "Knee replacement surgery pachi recovery ramro cha, ra patient le normal daily kaam garna sakcha. Physiotherapy continue garna ani high-impact activities avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Patient ko heart condition ko bare ma kasto update cha?",
+        "context": "The medical history indicates coronary artery disease diagnosed in 2019. Angioplasty was performed the same year. Current medications include beta-blockers and aspirin, taken once daily. The latest stress test shows normal results, while an echocardiogram reports mild left ventricular hypertrophy. Recommendations include maintaining physical activity and following a low-sodium diet.",
+        "response": "Patient ko 2019 ma angioplasty bhayeko thiyo. Stress test normal cha, ra diet ma low sodium khana bhaneko cha."
+    },
+    {
+        "question": "Patient ko liver function tests ko result kasto cha?",
+        "context": "Liver function tests show ALT at 60 U/L and AST at 55 U/L, both slightly elevated. Total bilirubin is recorded at 1.2 mg/dL, within the upper normal range. Fatty liver is suspected based on these results. The patient has been advised to minimize alcohol consumption and undergo a follow-up ultrasound scan.",
+        "response": "ALT 60 ra AST 55, ali high cha. Doctor le fatty liver ko suspicion gareko ani alcohol kam garna suggest gareko cha."
+    },
+    {
+        "question": "Diabetes management ko lagi doctor le k suggest gare?",
+        "context": "The patient’s fasting blood sugar is 145 mg/dL, and HbA1c is 7.2%. Medications include metformin taken twice daily. Dietary recommendations focus on low glycemic index foods. A daily 30-minute brisk walk is strongly encouraged. The patient has been instructed to monitor blood glucose levels regularly using a glucometer.",
+        "response": "Fasting sugar 145 ra HbA1c 7.2% cha. Metformin din ma dui patak ra daily walk 30 minutes garna suggest gareko cha."
+    },
+    {
+        "question": "Patient ko thyroid function test ko bare ma kasto cha?",
+        "context": "Thyroid function tests report TSH at 5.8 mIU/L, indicating subclinical hypothyroidism. Free T4 and Free T3 are within normal ranges. Levothyroxine 25 mcg has been prescribed, with instructions to repeat the thyroid test after six months.",
+        "response": "TSH level 5.8 cha, jun ali high ho. Levothyroxine 25 mcg lekhya cha ra 6 mahina pachi repeat test garna bhaneko cha."
+    },
+    {
+        "question": "Kidney function tests ko kasto report cha?",
+        "context": "The patient’s serum creatinine is 1.4 mg/dL, slightly elevated. GFR is calculated at 65 mL/min, indicating mild kidney dysfunction. Blood urea nitrogen (BUN) is 22 mg/dL, within the normal range. Recommendations include increased water intake and avoiding high-protein diets.",
+        "response": "Creatinine 1.4 mg/dL cha, ra GFR 65 cha. Pani dherai khanu ra high protein diet avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Recent MRI scan ko findings kasto cha?",
+        "context": "MRI findings indicate L4-L5 disc prolapse with mild nerve compression. The patient has been experiencing back pain and leg pain. Physiotherapy has been recommended along with gabapentin for pain management. No immediate need for surgery is noted, but reevaluation may be required in the future.",
+        "response": "MRI ma L4-L5 disc prolapse cha ra mild nerve compression dekha cha. Physiotherapy suru garna ani gabapentin khana bhaneko cha."
+    },
+    {
+        "question": "Patient ko cholesterol profile ko result kasto cha?",
+        "context": "The lipid profile shows total cholesterol at 220 mg/dL, LDL at 140 mg/dL, HDL at 40 mg/dL, and triglycerides at 180 mg/dL. The focus is on reducing LDL levels. Atorvastatin has been prescribed, with additional dietary recommendations to avoid fried foods and saturated fats.",
+        "response": "Total cholesterol 220 mg/dL ra LDL 140 mg/dL cha. Doctor le atorvastatin start garna ra fried food avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Patient ko post-surgery recovery ko bare ma k cha?",
+        "context": "The patient underwent knee replacement surgery three months ago. Physical therapy reports indicate the patient can perform daily activities without pain. Mild swelling is noted, which is considered part of the normal recovery process. Recommendations include continuing physiotherapy and avoiding high-impact activities.",
+        "response": "Surgery pachi recovery ramro cha, daily kaam garna sakcha. Physiotherapy continue garna ra high-impact activities avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Recent lab tests ma anemia ko bare ma k bhayeko cha?",
+        "context": "Lab reports show hemoglobin at 9.8 g/dL, indicating mild anemia. Iron studies reveal low serum ferritin levels at 10 ng/mL. The patient has been prescribed iron supplements and advised to consume iron-rich foods. A follow-up test has been recommended in one month to monitor progress.",
+        "response": "Hemoglobin 9.8 cha, anemia cha. Doctor le iron supplements prescribe gareko ra iron-rich food khana suggest gareko cha."
+    },
+    {
+        "question": "Allergies ko full details dinus na.",
+        "context": "The patient has documented allergies to penicillin, shellfish, and pollen. Penicillin reactions include severe rash and anaphylactic shock. Shellfish causes abdominal pain and vomiting, while pollen triggers sneezing and nasal congestion. The patient has been advised to carry an epinephrine auto-injector at all times.",
+        "response": "Patient lai penicillin, shellfish, ra pollen allergy cha. Epinephrine aina sanga rakhna bhaneko cha bhanera doctor le suggest gareko cha."
+    },
+    {
+        "question": "Patient ko heart problem ko barema thap janakari dinus na.",
+        "context": "Patient lai 2019 ma coronary artery disease diagnose bhayeko thiyo. Tespachi angioplasty garna parcha bhanera surgery bhayeko. Aba pani aspirin ra beta-blockers din ma ek patak lincha. Stress test pachi sab thik cha bhaneko, ra diet ma salt kam garna bhaneko cha.",
+        "response": "2019 ma heart ko problem bhayeko thiyo, angioplasty gareko. Aba sab thik cha, aspirin lincha ra low salt diet follow garna bhaneko cha."
+    },
+    {
+        "question": "Patient ko kidney test ko report kasto cha?",
+        "context": "Kidney test ma serum creatinine 1.4 mg/dL cha, jun ali badeko cha. GFR calculate garera 65 aako cha. Blood urea nitrogen normal range vitra cha. Doctor le pani dherai khanu ani high protein diet avoid garna suggest gareko cha.",
+        "response": "Creatinine 1.4 cha, GFR 65 cha. Doctor le pani dherai khanu ani high protein khana chodnu bhaneko cha."
+    },
+    {
+        "question": "MRI scan ko findings ko barema ke cha?",
+        "context": "MRI report ma L4-L5 disc prolapse dekhiyeko cha, ani tyo mild nerve compression ko karan back pain ra leg pain cha. Surgery ko jarurat chaina bhaneko, tara physiotherapy start garna ani gabapentin khana bhaneko cha.",
+        "response": "MRI ma disc prolapse cha ani pain ko lagi physiotherapy ra gabapentin suggest gareko cha."
+    },
+    {
+        "question": "Patient ko diabetes ko barema details dinus.",
+        "context": "Fasting blood sugar 145 mg/dL cha, HbA1c 7.2% cha. Metformin din ma 2 patak lincha. Doctor le diet ma sugary food avoid garna ani daily 30 mins walk garna strongly suggest gareko cha. Glucose monitor garna glucometer use garna bhaneko cha.",
+        "response": "Fasting sugar 145 ra HbA1c 7.2% aako cha. Metformin din ma dui patak lincha ra sugary food avoid garna bhaneko cha."
+    },
+    {
+        "question": "Cholesterol ko report kasto cha?",
+        "context": "Cholesterol report ma total 220 mg/dL cha, LDL 140 mg/dL cha, HDL 40 mg/dL, ani triglycerides 180 mg/dL aako cha. Doctor le atorvastatin start garna ani oily food avoid garna bhaneko cha.",
+        "response": "Cholesterol ali badeko cha, LDL 140 cha. Doctor le atorvastatin khana bhaneko ani oily food chodna suggest gareko cha."
+    },
+    {
+        "question": "Allergy ko barema pura details dinus.",
+        "context": "Patient lai penicillin, shellfish, ani pollen allergy cha. Penicillin le serious reaction dincha jasto ki rash ani breathing problem. Shellfish le vomiting ani stomach pain dincha. Pollen le sneezing ani nasal congestion huncha. Doctor le epinephrine aina sanga rakhna bhaneko cha.",
+        "response": "Penicillin, shellfish, ani pollen allergy cha. Epinephrine aina sanga rakhna bhaneko cha bhanera doctor le bhaneko cha."
+    },
+    {
+        "question": "Thyroid test ko result k cha?",
+        "context": "TSH level 5.8 cha, ani tyo slightly badeko cha bhanera subclinical hypothyroidism bhaneko. Free T4 ra Free T3 chai normal cha. Doctor le levothyroxine 25 mcg prescribe gareko ani 6 mahina pachi test repeat garna suggest gareko cha.",
+        "response": "TSH 5.8 cha, thyroid ali high cha. Levothyroxine 25 mcg din ma ek patak khana bhaneko cha."
+    },
+    {
+        "question": "Recent surgery ko recovery kasto cha?",
+        "context": "3 mahina agadi knee replacement surgery bhayeko. Aba patient le ramrai feel gariracha, ani daily activities pain free garna sakcha. Swelling ali cha, tara normal recovery process ma parcha. Physiotherapy continue garna ani heavy kaam avoid garna bhaneko cha.",
+        "response": "Surgery ko recovery ramro cha, ani physiotherapy continue garna bhaneko cha."
+    },
+    {
+        "question": "Lab test ko result ma anemia ko barema ke cha?",
+        "context": "Hemoglobin 9.8 g/dL cha, jun mild anemia ho. Serum ferritin 10 ng/mL cha, tyo pani ali kam cha. Doctor le iron supplements ra iron-rich food recommend gareko ani ek mahina pachi test repeat garna bhaneko cha.",
+        "response": "Hemoglobin 9.8 cha ani anemia cha. Iron supplements start garna ra diet ma iron-rich food lekhnu bhaneko cha."
+    },
+    {
+        "question": "Follow-up visit ma ke kura bhayo?",
+        "context": "Follow-up ma fatigue ani joint pain ko barema kura bhayo. Doctor le vitamin D deficiency check garna test garna bhaneko cha. Joint pain ko lagi anti-inflammatory medication prescribe gareko cha. BP 130/85 cha ra diet ma vitamin D add garna suggest gareko cha.",
+        "response": "Fatigue ko lagi vitamin D test garna bhaneko ra joint pain ko lagi medication prescribe gareko cha."
+    },
+    {
+        "question": "BP ko barema update dinus.",
+        "context": "Patient ko BP recent test ma 150/90 aako cha, jun slightly high cha. Doctor le din ma ek patak amlodipine 5 mg khana prescribe gareko cha. Extra salty food avoid garna ani regular exercise garna strongly recommend gareko cha. Follow-up visit 2 hapta pachi bhaneko cha.",
+        "response": "BP 150/90 cha, slightly high. Amlodipine din ma ek patak prescribe gareko ra salt kam garna bhaneko cha."
+    },
+    {
+        "question": "Patient ko recent blood test ko report ma vitamin levels kasto cha?",
+        "context": "Blood test ma vitamin D level 18 ng/mL cha, jun kam cha. Vitamin B12 level chai 320 pg/mL cha, tyo normal range ma parcha. Doctor le vitamin D supplements start garna ani sunlight exposure badhauna bhaneko cha.",
+        "response": "Vitamin D level kam cha, 18 ng/mL. Vitamin D supplements khana ani dhoop ma basna suggest gareko cha."
+    },
+    {
+        "question": "Lung infection ko barema ke cha?",
+        "context": "Chest X-ray ma left lower lung ma mild infection dekhiyeko cha. Patient lai cough ra fever ko complaint cha. Antibiotics ko lagi amoxicillin-clavulanate 625 mg din ma tin patak prescribe gareko cha. Steam inhalation ra pani dherai khanu bhaneko cha.",
+        "response": "Chest X-ray ma mild lung infection dekhiyeko cha. Antibiotics prescribe gareko ra pani dherai khanu bhaneko cha."
+    },
+    {
+        "question": "Post-COVID recovery ko barema kasto cha?",
+        "context": "Patient COVID positive thiyo ani recovery pachi fatigue, breathlessness, ra body ache ko complaint cha. Doctor le multivitamins ra light physical activity recommend gareko cha. Pulmonary rehab suru garna bhaneko cha, ani 1 mahina pachi follow-up visit ko lagi bolaune cha.",
+        "response": "Post-COVID symptoms ma fatigue ra breathlessness cha. Multivitamins khana ra light exercise garna suggest gareko cha."
+    },
+    {
+        "question": "Pregnancy test ko result ke aayo?",
+        "context": "Urine pregnancy test positive aako cha. Doctor le prenatal vitamins start garna bhaneko cha ani 8 weeks ultrasound garna schedule gareko cha. Saath ma healthy diet ra regular check-up maintain garna suggest gareko cha.",
+        "response": "Pregnancy test positive cha. Doctor le prenatal vitamins start garna ra ultrasound ko lagi date fix garna suggest gareko cha."
+    },
+    {
+        "question": "Chronic cough ko barema ke cha?",
+        "context": "Patient lai 3 hapta dekhi chronic cough cha. Chest X-ray normal aako cha, tara spirometry test ma mild asthma dekhiyeko cha. Doctor le salbutamol inhaler prescribe gareko cha, din ma 2 patak use garna bhaneko cha. Dust exposure avoid garna strongly recommend gareko cha.",
+        "response": "Chronic cough ko karan asthma ho. Salbutamol inhaler prescribe gareko ra dust exposure avoid garna bhaneko cha."
+    },
+    {
+        "question": "Recent ultrasound report ko barema details dinus.",
+        "context": "Abdominal ultrasound ma gallbladder ma 8 mm ko gallstone dekhiyeko cha. Pain ko complaint cha, ani doctor le surgery ko lagi consult garna suggest gareko cha. Immediate pain management ko lagi NSAIDs prescribe gareko cha.",
+        "response": "Ultrasound ma gallstone dekhiyeko cha. Doctor le surgery ko lagi consult garna bhaneko cha."
+    },
+    {
+        "question": "Joint pain ko barema ke cha?",
+        "context": "Patient lai 2 mahina dekhi knee joint ma pain cha, X-ray ma mild osteoarthritis dekhiyeko cha. Pain management ko lagi paracetamol ra physiotherapy recommend gareko cha. Weight loss garna ani high-impact exercise avoid garna strongly suggest gareko cha.",
+        "response": "Knee joint pain ko karan osteoarthritis ho. Paracetamol ra physiotherapy suggest gareko ani weight loss garna bhaneko cha."
+    },
+    {
+        "question": "Skin rash ko karan ke ho?",
+        "context": "Skin rash ko inspection pachi eczema diagnose gareko cha. Doctor le topical corticosteroid cream prescribe gareko cha, ani perfume ya harsh soap use nagarna bhaneko cha. Hydration maintain garna ani moisturizer daily lagaauna suggest gareko cha.",
+        "response": "Skin rash eczema ko karan le ho. Cream prescribe gareko ra harsh soap avoid garna bhaneko cha."
+    },
+    {
+        "question": "Headache ko lagi ke suggest gare?",
+        "context": "Patient migraine ko complaint cha, ani triggers ma stress ra sleep deprivation noted cha. Doctor le sumatriptan prescribe gareko cha, headache aayepachi immediate lekhnu bhaneko cha. Regular sleep pattern maintain garna strongly recommend gareko cha.",
+        "response": "Migraine ko lagi sumatriptan prescribe gareko cha. Stress kam garna ra ramro nid garna suggest gareko cha."
+    },
+    {
+        "question": "Fever ko karan ke cha?",
+        "context": "Patient lai 4 din dekhi fever cha, ani blood test ma typhoid positive aako cha. Doctor le cefixime din ma dui patak prescribe gareko cha. Saath ma hydration maintain garna ani rest garna strongly recommend gareko cha.",
+        "response": "Typhoid ko fever cha. Cefixime khana ani dherai rest garna suggest gareko cha."
+    },
+    {
+        "question": "Recent dental pain ko barema ke bhayo?",
+        "context": "Patient lai lower molar tooth ma severe pain cha. Dental X-ray ma cavity dekhiyeko cha ani root canal treatment recommend gareko cha. Pain management ko lagi ibuprofen prescribe gareko cha.",
+        "response": "Molar tooth ma cavity cha. Root canal garna bhaneko ani pain ko lagi ibuprofen suggest gareko cha."
+    },
+    {
+        "question": "Baby ko vaccination schedule ko update dinus.",
+        "context": "Baby lai 6 mahina ko vaccine lagaaune schedule aako cha. Vaccines include pentavalent 3, OPV 3, and rotavirus vaccine. Doctor le schedule miss nagarna strongly recommend gareko cha.",
+        "response": "6 mahina ko vaccine schedule aako cha. Pentavalent 3, OPV 3, ani rotavirus lagaauna bhaneko cha."
+    },
+    {
+        "question": "Stomach pain ko barema ke cha?",
+        "context": "Patient lai 2 din dekhi stomach pain cha, ra ultrasound ma gastritis dekhiyeko cha. Doctor le pantoprazole empty stomach khana prescribe gareko cha. Spicy ani oily food avoid garna strongly suggest gareko cha.",
+        "response": "Stomach pain ko karan gastritis ho. Pantoprazole khana ra spicy food chodna suggest gareko cha."
+    },
+    {
+        "question": "Weight loss program ma ke suggest gare?",
+        "context": "Patient overweight cha, BMI 30 aako cha. Doctor le calorie deficit diet follow garna, daily 45 minutes exercise garna, ani sugary drinks avoid garna suggest gareko cha. Monthly weight monitoring ko lagi follow-up schedule gareko cha.",
+        "response": "Weight loss ko lagi calorie deficit diet ani daily exercise garna suggest gareko cha."
+    },
+    {
+        "question": "Arthritis ko treatment ko update dinus.",
+        "context": "Patient ko arthritis ko lagi NSAIDs ani glucosamine prescribe gareko cha. Regular physiotherapy garna ani joint pain ko lagi hot pack use garna suggest gareko cha. Weight management ko lagi bhi strongly recommend gareko cha.",
+        "response": "Arthritis ko lagi medication ani physiotherapy recommend gareko cha. Weight control garna bhaneko cha."
+    },
+    {
+        "question": "Eye check-up ma ke problem dekhiyo?",
+        "context": "Eye check-up ma patient ko left eye ma 1.5 power dekhiyeko cha. Dry eyes ko complaint cha, ani artificial tears drops din ma 4 patak use garna prescribe gareko cha. Screen time kam garna strongly recommend gareko cha.",
+        "response": "Left eye ma 1.5 power cha ani dry eyes ko lagi drops prescribe gareko cha."
+    },
+    {
+        "question": "UTI ko barema ke update cha?",
+        "context": "Patient ko urine test ma UTI confirm cha, ra organism E. coli detect bhayeko cha. Antibiotics ko lagi nitrofurantoin prescribe gareko cha. Pani dherai khana ani spicy food avoid garna strongly recommend gareko cha.",
+        "response": "UTI confirm cha, antibiotics prescribe gareko ra pani dherai khana suggest gareko cha."
+    },
+    {
+        "question": "Allergy test ma ke problem dekha cha?",
+        "context": "Allergy test ma patient lai dust mites ani pet dander allergy confirm cha. Symptoms sneezing, itchy eyes, ra nasal congestion ho. Doctor le antihistamines prescribe gareko ani masks use garna strongly recommend gareko cha.",
+        "response": "Dust mites ani pet dander allergy cha. Antihistamines khana ra mask lagaauna suggest gareko cha."
+    },
+    {
+        "question": "Head injury ko report ko barema k cha?",
+        "context": "CT scan ma minor concussion dekhiyeko cha, ani bleeding dekhiyeko chaina. Patient le headache ani dizziness ko complaint cha. Rest garna, bright light avoid garna, ani pain management ko lagi paracetamol lekhiyeko cha.",
+        "response": "Minor concussion cha, rest garna ani light avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Skin infection ko barema thap janakari dinus.",
+        "context": "Patient ko skin infection fungal ho, jasko karan itching ani redness cha. Doctor le topical antifungal cream ra din ma ek patak oral antifungal medication prescribe gareko cha. Tight clothing avoid garna strongly suggest gareko cha.",
+        "response": "Fungal infection cha, antifungal cream ani medication prescribe gareko cha."
+    },
+    {
+        "question": "Recent stroke ko recovery kasto cha?",
+        "context": "Patient lai 1 mahina agadi minor stroke aako thiyo. Physiotherapy garna suru gareko cha, ani blood thinners jaise aspirin prescribe gareko cha. Regular BP check garna ani low-sodium diet follow garna strongly recommend gareko cha.",
+        "response": "Stroke pachi recovery ramro cha, physiotherapy ma improvement cha ani aspirin lekhiyeko cha."
+    },
+    {
+        "question": "Patient ko depression ko treatment ma ke cha?",
+        "context": "Patient ko depression ko lagi SSRI (sertraline) prescribe gareko cha. Weekly therapy sessions attend garna suggest gareko cha. Sleep pattern maintain garna ani stress kam garna strongly recommend gareko cha.",
+        "response": "Depression ko lagi SSRI prescribe gareko ra weekly therapy suggest gareko cha."
+    },
+    {
+        "question": "Baby ko growth ma ke kura aayo?",
+        "context": "Baby ko weight 8 kg cha, ani height 72 cm. Doctor le growth normal bhaneko cha. Solid food suru garna ra dherai fruits ani vegetables add garna recommend gareko cha.",
+        "response": "Baby ko growth ramro cha. Solid food suru garna ra healthy diet suggest gareko cha."
+    },
+    {
+        "question": "Cholesterol report ma ke update cha?",
+        "context": "Total cholesterol 240 mg/dL cha, LDL 160 mg/dL cha, HDL 35 mg/dL cha. Doctor le atorvastatin start garna bhaneko cha. Saath ma fried food ani saturated fats avoid garna strongly recommend gareko cha.",
+        "response": "Cholesterol ali badeko cha, atorvastatin lekhiyeko ani oily food avoid garna bhaneko cha."
+    },
+    {
+        "question": "Patient ko asthma control ma cha ki chaina?",
+        "context": "Patient lai seasonal asthma cha, ani aba inhaler use garera ramro control ma cha. Spirometry test pachi lung function normal aako cha. Doctor le daily preventer inhaler use garna ani emergency ko lagi reliever inhaler sanga rakhna suggest gareko cha.",
+        "response": "Asthma control ma cha. Preventer inhaler daily use garna bhaneko cha."
+    },
+    {
+        "question": "Patient ko diet chart ko barema k bhaneko cha?",
+        "context": "Doctor le patient ko weight loss ko lagi high-protein, low-carb diet recommend gareko cha. Breakfast ma boiled eggs ani fruits lincha. Lunch ma grilled chicken ani vegetables cha. Dinner ma light soup suggest gareko cha. Junk food completely avoid garna bhaneko cha.",
+        "response": "High-protein, low-carb diet follow garna bhaneko cha ani junk food chodna suggest gareko cha."
+    },
+    {
+        "question": "Blood pressure ko lagi recent suggestion ke cha?",
+        "context": "Recent visit ma BP 140/95 aako cha, jun ali high cha. Doctor le losartan din ma ek patak prescribe gareko cha. Exercise routine ma brisk walk add garna ani stress management ko lagi meditation garna strongly recommend gareko cha.",
+        "response": "BP ali high cha. Losartan start garna bhaneko ra exercise routine ma walk add garna suggest gareko cha."
+    },
+    {
+        "question": "Chronic back pain ko barema ke cha?",
+        "context": "MRI report ma L5-S1 disc degeneration dekhiyeko cha. Pain management ko lagi physiotherapy recommend gareko cha. Saath ma ibuprofen din ma dui patak lincha. Doctor le posture improve garna ani heavy lifting avoid garna strongly suggest gareko cha.",
+        "response": "Back pain disc degeneration le ho. Physiotherapy garna ani posture improve garna suggest gareko cha."
+    },
+    {
+        "question": "Pregnancy ma folic acid use garna k bhaneko cha?",
+        "context": "First trimester ma folic acid 400 mcg daily lincha. Doctor le neural tube defect prevent garna ko lagi mandatory bhaneko cha. Saath ma green leafy vegetables diet ma include garna strongly recommend gareko cha.",
+        "response": "Folic acid daily lincha, ani green vegetables diet ma add garna bhaneko cha."
+    },
+    {
+        "question": "Heartburn ko lagi ke prescribe gare?",
+        "context": "Heartburn ko complaint ma doctor le omeprazole empty stomach din ma ek patak lincha bhaneko cha. Spicy ani oily food completely avoid garna strongly suggest gareko cha. Pani dherai khanu ani dinner light rakhaune recommend gareko cha.",
+        "response": "Omeprazole khana suggest gareko cha ani spicy food avoid garna bhaneko cha."
+    },
+    {
+        "question": "Thyroid test ma result ke cha?",
+        "context": "TSH 7.5 aako cha, jun ali high cha. Free T4 normal range vitra cha. Subclinical hypothyroidism diagnose gareko cha. Doctor le levothyroxine 50 mcg prescribe gareko cha ani 3 mahina pachi repeat test garna suggest gareko cha.",
+        "response": "TSH high cha, levothyroxine start garna bhaneko ani repeat test garna suggest gareko cha."
+    },
+    {
+        "question": "Diabetes management ma ke suggest gare?",
+        "context": "Fasting blood sugar 160 mg/dL cha, ani postprandial 210 mg/dL cha. Doctor le metformin din ma dui patak lincha bhaneko cha. Saath ma sugary food completely avoid garna ani daily 30 min walk strongly recommend gareko cha.",
+        "response": "Sugar level high cha. Metformin lincha ani sugary food avoid garna bhaneko cha."
+    },
+    {
+        "question": "Allergy ka symptoms ko lagi ke garna bhaneko cha?",
+        "context": "Allergy symptoms jastai sneezing, itchy nose ko lagi antihistamine (cetirizine) prescribe gareko cha. Dust exposure avoid garna ani mask lagaauna bhaneko cha. Saath ma room ma air purifier use garna recommend gareko cha.",
+        "response": "Allergy symptoms ko lagi cetirizine prescribe gareko cha ra dust exposure avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Mental health ko treatment ma kasto progress cha?",
+        "context": "Patient lai anxiety disorder cha, ani SSRI (escitalopram) din ma ek patak prescribe gareko cha. Therapy sessions ma progress dekhiyecha, ani sleep quality pani improve bhayeko cha. Doctor le daily meditation garna strongly recommend gareko cha.",
+        "response": "Anxiety ko lagi medication ani therapy bata ramro improvement cha. Meditation garna suggest gareko cha."
+    },
+    {
+        "question": "Skin whitening cream use garna doctor le ke bhaneko cha?",
+        "context": "Skin pigmentation ko lagi hydroquinone cream prescribe gareko cha, jun din ma ek patak rat ko time ma use garna bhaneko cha. Sun exposure avoid garna ani sunscreen lagaauna strongly recommend gareko cha.",
+        "response": "Pigmentation ko lagi cream prescribe gareko ani sunscreen lagaauna suggest gareko cha."
+    },
+    {
+        "question": "Vitamin D deficiency ko lagi ke gareko cha?",
+        "context": "Vitamin D level 15 ng/mL cha, ani severe deficiency diagnose gareko cha. Doctor le chadai boost garna weekly cholecalciferol 60,000 IU prescribe gareko cha. Sunlight ma daily 20 mins basna strongly recommend gareko cha.",
+        "response": "Vitamin D deficiency ko lagi supplements prescribe gareko ani dhoop ma basna bhaneko cha."
+    },
+    {
+        "question": "Baby ko teething pain ko lagi ke suggest gare?",
+        "context": "Baby ko teething pain ko lagi doctor le chilled teething rings use garna bhaneko cha. Saath ma light gum massage garna ani acetaminophen pain severe bhaye dine recommend gareko cha.",
+        "response": "Teething pain ko lagi chilled teething rings ra gum massage garna suggest gareko cha."
+    },
+    {
+        "question": "Patient ko fracture recovery kasto cha?",
+        "context": "Patient ko right wrist fracture ko lagi cast 6 hapta lagi use gareko thiyo. Aba cast hataera physiotherapy suru gareko cha. Pain mild cha, ani grip strength improve huncha bhanera exercise suggest gareko cha.",
+        "response": "Fracture recovery ramro cha, physiotherapy start gareko ani pain mild cha."
+    },
+    {
+        "question": "Sinus infection ko lagi ke prescribe gare?",
+        "context": "Sinus infection ma amoxicillin din ma tin patak ani nasal decongestant spray use garna prescribe gareko cha. Steam inhalation garna strongly recommend gareko cha.",
+        "response": "Sinus infection ko lagi antibiotics ani steam inhalation garna suggest gareko cha."
+    },
+    {
+        "question": "Migraine ko lagi ke suggest gareko cha?",
+        "context": "Patient lai frequent migraine attacks huncha. Doctor le sumatriptan attacks ko bela ma lincha bhanera prescribe gareko cha. Trigger jastai bright light ani loud noise avoid garna strongly recommend gareko cha.",
+        "response": "Migraine ko lagi sumatriptan lincha ani triggers avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Patient ko vitamin B12 deficiency ko barema ke cha?",
+        "context": "Vitamin B12 level 180 pg/mL cha, jun low cha. Doctor le monthly intramuscular injection prescribe gareko cha. Saath ma B12-rich foods jastai eggs, dairy, ani meat khana strongly recommend gareko cha.",
+        "response": "B12 deficiency cha. Injection lincha ani B12-rich food khana suggest gareko cha."
+    },
+    {
+        "question": "Kidney stone ko lagi ke treatment cha?",
+        "context": "Ultrasound ma 5mm ko kidney stone dekhiyeko cha. Doctor le pain ko lagi diclofenac prescribe gareko cha. Pani dherai khana ani citrus fruits diet ma include garna strongly recommend gareko cha.",
+        "response": "Kidney stone cha. Pain ko lagi medicine ra pani dherai khana suggest gareko cha."
+    },
+    {
+        "question": "Anemia ko barema ke update cha?",
+        "context": "Hemoglobin level 9.5 g/dL cha, jun low cha. Iron deficiency anemia diagnose gareko cha. Doctor le ferrous sulfate tablet prescribe gareko cha ani vitamin C intake badhauna strongly suggest gareko cha.",
+        "response": "Anemia ko lagi iron tablet prescribe gareko cha ani vitamin C badhauna suggest gareko cha."
+    },
+    {
+        "question": "PCOS ko lagi ke treatment cha?",
+        "context": "PCOS diagnose pachi doctor le metformin din ma ek patak ani oral contraceptive pills prescribe gareko cha. Lifestyle change ko lagi regular exercise ani balanced diet strongly recommend gareko cha.",
+        "response": "PCOS ko lagi metformin ani lifestyle changes jastai exercise recommend gareko cha."
+    },
+    {
+        "question": "Child ko fever ko barema update dinus.",
+        "context": "Baby lai 102°F fever cha, ani paracetamol 6 ghanta gap ma lincha bhaneko cha. Doctor le hydration maintain garna ani cool compress use garna strongly recommend gareko cha.",
+        "response": "Fever ko lagi paracetamol lekhiyeko cha ani cool compress garna suggest gareko cha."
+    },
+    {
+        "question": "Post-surgery recovery ko barema ke cha?",
+        "context": "Appendix surgery ko 1 hapta bhayo. Doctor le pain management ko lagi acetaminophen prescribe gareko cha. Stitches clean garna ani spicy food avoid garna strongly recommend gareko cha.",
+        "response": "Post-surgery recovery ramro cha. Pain ko lagi acetaminophen ani stitches clean garna bhaneko cha."
+    },
+    {
+        "question": "Patient ko cholesterol management ko lagi ke cha?",
+        "context": "Total cholesterol 220 mg/dL, LDL 140 mg/dL cha. Doctor le atorvastatin din ma ek patak ani low-fat diet follow garna strongly recommend gareko cha. Weekly 5 din 30 minutes exercise garna suggest gareko cha.",
+        "response": "Cholesterol ko lagi statin lincha ani low-fat diet ra exercise recommend gareko cha."
+    },
+    {
+        "question": "Cough ko treatment ma ke gareko cha?",
+        "context": "Patient lai 5 din dekhi dry cough cha. Doctor le cough syrup (dextromethorphan) prescribe gareko cha. Saath ma steam inhalation garna ani cold drinks avoid garna strongly suggest gareko cha.",
+        "response": "Dry cough ko lagi syrup lekhiyeko cha ani steam inhalation garna suggest gareko cha."
+    },
+    {
+        "question": "Pregnancy ma nausea ko lagi ke suggest gare?",
+        "context": "Patient lai first trimester ma severe morning sickness cha. Doctor le ondansetron din ma ek patak ani light snacks frequently khana bhaneko cha. Spicy food avoid garna strongly recommend gareko cha.",
+        "response": "Nausea ko lagi ondansetron prescribe gareko cha ani light food khana bhaneko cha."
+    },
+    {
+        "question": "Eczema ko barema k cha?",
+        "context": "Patient ko hand eczema ko lagi steroid cream prescribe gareko cha. Doctor le moisturizer frequent use garna ani harsh soaps avoid garna strongly recommend gareko cha.",
+        "response": "Eczema ko lagi cream lekhiyeko cha ani harsh soap avoid garna suggest gareko cha."
+    },
+    {
+        "question": "Elderly patient ko dementia ko barema ke cha?",
+        "context": "Patient lai mild dementia diagnose gareko cha. Doctor le donepezil din ma ek patak ani memory exercises garna suggest gareko cha. Family le regular interaction ani mental support dinu strongly recommend gareko cha.",
+        "response": "Dementia ko lagi medicine lekhiyeko ani memory exercises garna suggest gareko cha."
+    },
+    {
+        "question": "Acne treatment ma ke suggest gare?",
+        "context": "Patient ko acne severe cha. Doctor le isotretinoin tablet ani benzoyl peroxide gel use garna prescribe gareko cha. Saath ma oily food avoid garna ani daily face clean garna strongly recommend gareko cha.",
+        "response": "Acne ko lagi tablet ani gel lekhiyeko cha. Oily food chodna suggest gareko cha."
+    },
+    {
+        "question": "Child ko growth spurt ko barema ke bhaneko cha?",
+        "context": "Child ko height ani weight ma sudden growth dekhiyeko cha. Doctor le balanced diet follow garna ani daily milk ani fruits khana strongly recommend gareko cha.",
+        "response": "Growth spurt ma balanced diet ra milk fruits khana suggest gareko cha."
+    },
+    {
+        "question": "Heart ko health ko lagi ke recommend gare?",
+        "context": "Heart health ko lagi doctor le DASH diet follow garna strongly recommend gareko cha. Saath ma daily brisk walk 30 minutes ani BP ko regular monitoring garna bhaneko cha.",
+        "response": "Heart health ko lagi DASH diet ani brisk walk recommend gareko cha."
+    },
+    {
+        "question": "Insomnia ko barema ke update cha?",
+        "context": "Patient lai 1 mahina dekhi sleep disturbance cha. Doctor le melatonin din ma ek patak prescribe gareko cha ani sleep hygiene maintain garna suggest gareko cha. Screen time sleep agadi kam garna strongly recommend gareko cha.",
+        "response": "Insomnia ko lagi melatonin lekhiyeko cha ani sleep hygiene maintain garna suggest gareko cha."
+    },
+    {
+        "question": "Patient ko post-COVID recovery ma ke cha?",
+        "context": "Patient le recent COVID bata recovery gareko cha. Weakness ani fatigue ko lagi multivitamins prescribe gareko cha. Saath ma light exercise ani high-protein diet recommend gareko cha.",
+        "response": "Post-COVID ko lagi vitamins ani light exercise suggest gareko cha."
+    },
+    {
+        "question": "Piles ko treatment ma ke cha?",
+        "context": "Patient lai grade 2 piles cha. Doctor le stool softener prescribe gareko cha. Spicy food avoid garna ani daily fiber intake badhauna strongly recommend gareko cha.",
+        "response": "Piles ko lagi stool softener ani fiber intake badhauna suggest gareko cha."
+    }
+]

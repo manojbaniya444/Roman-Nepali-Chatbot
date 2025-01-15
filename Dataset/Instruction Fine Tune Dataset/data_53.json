@@ -1,0 +1,362 @@
+[
+    {
+        "context": "Namaste, yo hamro online event registration platform ho. tapai yaha event ko barema sabai details pauna saknuhunchha ra register garna saknuhunchha. Yedi kunai samasya cha bhane, kripaya hamlai contact garnuhos.",
+        "question": "Maile event register garna khojda payment error ayo, ke garne?",
+        "response": "Kripaya tapaiko internet connection check garnuhos ra feri kosis garnuhos. Yedi samasya fix hudaina bhane, hamlai email ma sampark garnuhos: support@example.com."
+    },
+    {
+        "context": "Hamro platform ma register garnu padhna pahila, event ka terms and conditions sabai padhera bujhnu parcha. Hamro support team hamesha tapaiko madat garna tayar chha.",
+        "question": "Terms and conditions kahan dekhnasakchhu?",
+        "response": "tapaiko event ko page ma 'Terms and Conditions' link cha, tyaha click garnuhos. Aba yo padhna milchha."
+    },
+    {
+        "context": "Event registration complete garnu agadi, tapaile sabai required fields fill garnuparcha. Email address ra phone number thik cha bhane double-check garnuhos.",
+        "question": "Maile wrong email haleko jasto lagcha, maile kasari thik garna sakchhu?",
+        "response": "tapai wrong email entry case ma hamro support team lai sampark garnuhos. Email support@example.com ma apno details pathaunuhos."
+    },
+    {
+        "context": "Hamro event registration system ko under, tapaiko personal data secure garinchha. Hamile GDPR compliance follow garna barsha prati badyachitt gariraheko chha.",
+        "question": "Mero data secure chha ta?",
+        "response": "Ho, tapaiko data hamile encrypt garera secure server ma store gareko chha."
+    },
+    {
+        "context": "Event ka tickets ko confirmation tapaiko email ma pathaune cha. Yedi email pauxa, kripaya spam/junk folder pani check garnuhos.",
+        "question": "Maile ticket ko confirmation email payeko chaina, aba ke garne?",
+        "response": "Kripaya spam/junk folder check garnuhos. Email confirm na bhae hamlai turunta sampark garnuhos."
+    },
+    {
+        "context": "Hamro refund policy anusaar, cancellation gareko ticket ko refund 7 din bhitra hamile process garera pathauncha.",
+        "question": "Maile event ticket cancel gareko ho, refund kahile aauchha?",
+        "response": "tapaiko refund process 7 din bhitra complete garnecha. Refund status ko lagi support@example.com ma sampark garnuhos."
+    },
+    {
+        "context": "Namaste! tapai hamro event registration platform ma aunu bhayeko ma dhanyabaad. Yaha tapaile upcoming events ko details padhna, tickets book garna, ra apno seat confirm garna saknuhunchha. Yedi ticket booking ko samaya ma kunai problem aayo jasto lagcha bhane, hamro support team lai sampark garnu. Hami 24/7 online cha ra email, chat, ya call bata help dinchu. Event registration process suru garna agadi, tapaiko profile ma details update cha ki chaina check garnuhos. Email address ra phone number accurate hunuparcha jasle tapai sanga sampark garna sajilo huncha.",
+        "question": "Maile seat confirm garna khojda error ayo, ke garna milcha?",
+        "response": "Pahila ta, tapaiko internet connection thik cha ki chaina check garnuhos. Aba pani problem aayo bhane, ticket confirm garna hamro live chat ma jana saknuhunchha ya email garnuhos: support@example.com. Hamile yo turunta solve garne pratibadhha chha."
+    },
+    {
+        "context": "Hami sabai events ka participants ko lagi suvidha purna registration process ko prabandha gariraheko chaun. Hamro ticketing system le multi-payment options, jasle credit card, debit card, ra eSewa jasto wallets support garne cha. Payment process secure SSL encryption ko maddat le chalcha, jasle tapaiko financial details safe rakcha. Ticket confirm garne bittikai, tapaiko registered email ma e-ticket pathaune system cha. Yedi tapai confirm email receive garnu bhaena bhane, kripaya apno spam ya junk folder check garnuhos. Aba pani confirm email chaina bhane hamlai sampark garnuhos.",
+        "question": "Maile e-ticket ko confirmation email paudina, ke garna sakchhu?",
+        "response": "Spam ya junk folder check garnuhos, tyaha pani chaina bhane email support@example.com ma apno details (ticket ID, email) pathaunuhos. Hami manually resend garna sakchhaun."
+    },
+    {
+        "context": "Event ko date ma change bhaeko bhaye, hami sabai participants lai turunta email ra SMS bata notify garne chhaun. Hamro priority cha ki sabai participants timely update pahun. Event reschedule huda ticket cancel garnu chahanchha bhane, tapai hamro refund policy anusaar full refund claim garna saknuhunchha. Refund ko lagi, hami tapailai 7-10 working days ko samaya ko guarantee dinchhaun. Refund claim garnu agadi, kripaya ticket details, registered email, ra payment method confirm garnuhos.",
+        "question": "Event reschedule bhaera maile ticket refund chahanchhu, ke garna parcha?",
+        "response": "Refund claim garnu ko lagi, tapai hamro refund request form fill garnuhos. Form hamro website ko support section ma cha. Kunai confusion cha bhane, email support@example.com ma sampark garnuhos."
+    },
+    {
+        "context": "Hamro event registration system ma, tapaiko data ko security hamro sabai bhanda thulo priority ho. tapaile diyekaa sabai information encrypted format ma rakheko huncha jasle unauthorized access ko risk hundaina. Hami international data protection laws (jasto ki GDPR) ko anusaran gariraheko chau. tapaiko account ma unusual activity dekhincha bhane, turuntai email garnuhos. Account security badhauna strong password set garnuhos ra two-factor authentication enable garnuhos.",
+        "question": "Mero account hack bhaeko jasto lagcha, ke garna sakchhu?",
+        "response": "Turunta password change garnuhos ra two-factor authentication enable garnuhos. Aba pani problem aayo bhane, hamlai support@example.com ma sampark garnuhos. Hami tapaiko account review garnechha."
+    },
+    {
+        "context": "Hamro event registration platform ma, sabai details transparent huncha. Event location, time, agenda, speakers ko list, sabai tapaiko dashboard ma available huncha. Event ma join garna ko lagi, ticket ko QR code email ma paunu huncha, jaslai scan garera tapaile entry linuhos. Event ko live streaming ko suvidha pani available cha. Yedi event attend garna physical location ma problem aayo bhane, live streaming option enable cha ki chaina check garnuhos. Kunai confusion cha bhane, hamlai sampark garnuhos.",
+        "question": "Ma physical location ma jana sakdina, livestream kasari access garna milcha?",
+        "response": "tapaiko dashboard ma 'Live Streaming' option huncha. Tyaha login garnuhos ra event ko streaming link access garnuhos. Aba problem bhae bhane hamlai email garnuhos."
+    },
+    {
+        "context": "Namaste! Hamro event registration platform ma sabai kura transparent cha, jasle tapailai sajilo parcha. Event ko schedule, location, price details ra agenda sabai clearly dekhaune cha. Event register garna agadi, tapaile FAQ section ma pani janchha saknuhunchha jaha tapaiko general queries ko jawab huncha. Yedi event ko time ma tapaiko location ma change cha bhane, tapailai email ra SMS bata notify garincha. tapaiko ticket confirm bhayepachi QR code sanga PDF format ma ticket mail garincha. Kunai confusion cha bhane, hamlai chat support ya email bata sampark garnuhos.",
+        "question": "Mero event location change bhayeko ho, maile ke garna parcha?",
+        "response": "tapai email ma pathaeko updated location details check garnuhos. Aba pani confusion cha bhane, hamlai turunta email garnuhos: support@example.com."
+    },
+    {
+        "context": "Hamro platform ma event registration process complete garna apno personal details jasto ki naam, email, phone number, ra payment details provide garna parcha. tapaiko details ko safety hamile SSL encryption use garera ensure garne garchhaun. Ticket confirm bhayepachi, email ma QR code ko ticket aauchha. Yedi tapaiko QR code properly scan hudaina bhane, manual entry ko suvidha pani huncha. Hamro support team yaha hamesha ready huncha tapaiko problem solve garna.",
+        "question": "QR code scan hudaina, maile event ma kasari entry garna sakchhu?",
+        "response": "tapai registration desk ma apno ticket ID ra naam dekhaunuhos. Hamro team le manual entry process garera tapaiko entry confirm garnechha."
+    },
+    {
+        "context": "Hamro event platform le tapaiko convenience ko lagi multiple payment gateways support garne garchha, jasle net banking, wallets, ra UPI options provide garchha. Yedi payment fail huncha bhane, retry garna agadi apno balance check garnuhos. Paisa deduct bhaera pani ticket confirm hudaina bhane, hamile tapaiko refund process within 48 ghanta ma suru garchhaun. Refund confirm garna ko lagi tapai hamro support team sanga sampark garna saknuhunchha.",
+        "question": "Maile payment gareko paisa deduct bhaeko cha, tara ticket confirm hudaina. Aba ke garne?",
+        "response": "tapaiko transaction ID ra email support@example.com ma pathaunuhos. Hami tapaiko issue turunta resolve garnechhaun."
+    },
+    {
+        "context": "Hamro platform participants ko lagi special early bird discounts provide garchha. Early bird tickets ko offer ko lagi coupon codes available huncha, jaslai checkout ma use garera discount pauna saknuhunchha. Discount apply hunu agadi, coupon valid cha ki chaina check garnuhos. Early bird tickets ko limited availability huncha, jasle tapaiko registration early garna motivation dincha. Discount related kunai confusion cha bhane, tapai FAQ section check garnuhos ya hamlai directly sampark garnuhos.",
+        "question": "Maile coupon code enter garera discount pauna khojda apply hudaina, yo kasari fix garna sakchhu?",
+        "response": "Kripaya coupon code valid cha ki chaina double-check garnuhos. Aba pani issue cha bhane, support@example.com ma apno details ra coupon code pathaunuhos."
+    },
+    {
+        "context": "tapaiko convenience ko lagi, hamro platform ma event reminders SMS ra email bata pathaune system cha. Event reminders ko timing customize garna, tapai apno profile settings ma 'Reminders' option use garera customize garna saknuhunchha. Default ma reminders 1 din ra 1 ghanta agadi send huncha. Yedi tapai reminder receive nagarnu cha bhane, tapai disable garna saknuhunchha.",
+        "question": "Maile event ko reminder SMS receive gareko chaina, ke garna sakchhu?",
+        "response": "tapai apno profile settings ma reminder notifications enabled cha ki chaina check garnuhos. Aba pani SMS chaina bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Event ma participate garna agadi, tapaiko ID verification garna parcha. tapaile apno original ID proof jasto ki Nagarikta, Passport, ya Driving License present garna parcha. ID verification process registration desk ma huncha, jasle tapaiko ticket confirm garera entry dincha. Duplicate ID use nagarnuhos, kinaki entry valid ID proof ma matra depend huncha. Yedi ID proof harayo ya problem cha bhane, registration desk sanga turunta sampark garnuhos.",
+        "question": "Maile apno ID proof birseko ho, aba maile entry kasari garna sakchhu?",
+        "response": "ID proof bhayeko kunai trusted person le lyauna milcha bhane lyaunuhos. Aba pani problem cha bhane, registration desk ma issue explain garnuhos. Hamro team alternative verify garna madat garnechha."
+    },
+    {
+        "context": "Hamro platform ma, event ka organizers le live poll, Q&A, ra surveys organize garna milcha jasle event ko interactivity badhauncha. tapai live poll ma participate garna apno dashboard ko 'Live Activities' section ma januhos. Surveys ko result event ko end ma publish garincha. Yedi survey ma participate garna ko lagi link kaam nagarcha bhane, hamro support team sanga sampark garnuhos.",
+        "question": "Maile live poll ma participate garna khojda issue aayo, ke garna sakchhu?",
+        "response": "tapaiko internet connection check garnuhos ra 'Live Activities' section refresh garnuhos. Aba pani problem cha bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform le event attendees ko lagi post-event certificates ko suvidha provide garchha. Yedi event ma certificate available cha bhane, tapai registration ko samaya ma yo option select garna saknuhunchha. Event ko end pachi, certificate automatically tapaiko registered email ma send garincha. Digital certificate download garna ko lagi, tapai dashboard ko 'My Certificates' section ma januhos. Yedi certificate missing cha bhane, hamlai sampark garnuhos.",
+        "question": "Maile certificate ko email receive gareko chaina, ke garna sakchhu?",
+        "response": "Dashboard ko 'My Certificates' section check garnuhos. Aba pani problem cha bhane, support@example.com ma apno event details pathaunuhos."
+    },
+    {
+        "context": "tapaiko security hamro priority ho. Hamro platform ma apno account ko password reset garna sajilo cha. Yedi tapai password birsinu bhaeko cha bhane, login page ma 'Forgot Password' option ma click garnuhos. Tyaha apno registered email enter garnuhos ra password reset link paunuhos. Link le 15 minutes samma valid huncha, so turunta use garnuhos. Kunai technical issue aayo bhane hamlai inform garnuhos.",
+        "question": "Maile password reset link ma click gareko ho, tara expire bhaeko jasto lagcha. Aba ke garne?",
+        "response": "Kripaya feri 'Forgot Password' ma click garera naya reset link mag garnuhos. Aba pani issue solve hudaina bhane, support@example.com ma sampark garnuhos."
+    },
+    {
+        "context": "Event registration cancel garna ko lagi hami le easy refund policy provide gareka chau. tapai 'My Tickets' section ma gaera cancel garna saknuhunchha. Ticket cancel bhae pachi refund 7-10 din bhitra tapaiko original payment method ma aauchha. Refund related kunai issue cha bhane, hamro support team sanga sampark garnuhos. Late refund ko case ma, tapaiko bank sanga pani contact garna parna sakchha.",
+        "question": "Maile ticket cancel gareko ho, tara refund ahile samma aayeko chaina. Aba ma ke garna sakchhu?",
+        "response": "Refund processing ma 7-10 din lagna sakchha. Yo period bitisakepachi pani refund chaina bhane, kripaya hamlai support@example.com ma ticket ID ra transaction details pathaunuhos."
+    },
+    {
+        "context": "Hamro platform le multi-device support provide garchha jasle mobile, tablet, ra computer sabai bata access garna milcha. Yedi tapaiko ek device ma login cha bhane, arko device ma auto-login hunna, jasle security ensure garchha. Logout garera naya device ma login garna sajilo cha. Kunai technical issue cha bhane, tapaiko device update cha ki chaina check garnuhos. Aba pani login problem cha bhane, hamlai email garnuhos.",
+        "question": "Mobile bata logout garera maile laptop bata login garna khojda kaam gareko chaina, aba ke garna sakchhu?",
+        "response": "tapaiko login credentials check garnuhos ra browser cache clear garnuhos. Aba pani kaam nagare bhane, support@example.com ma email garnuhos."
+    },
+    {
+        "context": "Hamile events ka participants ko lagi on-the-spot help desk ko suvidha provide gareka chau. Yedi event ko time ma ticket ko issue, QR code scan problem, ya entry ko samasya aayo bhane, tapai help desk ma januhos. Help desk le turuntai apno problem resolve garnechha. Physical location ko address ra timings registration email ma send garincha.",
+        "question": "Help desk ko location kasari thaha pauna sakchhu?",
+        "response": "tapaiko email ma send gareko registration details check garnuhos. Aba pani information chhaina bhane, hamlai email garnuhos: support@example.com."
+    },
+    {
+        "context": "Event registration ko samaya ma sabai participants le apno ticket confirm garna chahanchhan. Yedi ticket ma mistake cha bhane, dashboard ko 'Edit Ticket' option le correction garna milcha. Edit option ma naam, email, ra phone number jasto fields change garna saknuhunchha. However, event ko din ma ticket edit garna milcha ki chaina yo policy event-specific huncha. Kunai duda cha bhane, hamlai contact garnuhos.",
+        "question": "Maile ticket ma galti gareko ho, edit kasari garna sakchhu?",
+        "response": "'Edit Ticket' option ma jani mistake correct garnuhos. Aba edit option kaam nagare bhane, hamlai support@example.com ma sampark garnuhos."
+    },
+    {
+        "context": "Hamro event platform ma tapaiko event schedule customize garna pani option cha. Event ka parallel sessions cha bhane, tapai apno interest anusar sessions select garera apno schedule banana saknuhunchha. Schedule finalize bhayepachi dashboard ma 'My Schedule' section ma save huncha. Kunai technical issue cha bhane, tapaiko browser refresh garna try garnuhos.",
+        "question": "Maile apno schedule customize garna khojda sessions save hudaina, aba ke garna sakchhu?",
+        "response": "Browser refresh garnuhos ra feri try garnuhos. Aba pani problem solve hudaina bhane, support@example.com ma email garnuhos."
+    },
+    {
+        "context": "Namaste! Hamro platform ma event ke baare ma purna details jasto ki timing, speakers list, session agenda, ra lunch break timing sabai clearly mention huncha. tapaiko convenience ko lagi, lunch ra refreshment ko timing event ka organizers le pre-plan gareka huncha. Special dietary requirements cha bhane, tapai registration ko samaya ma inform garna saknuhunchha. Event ko dinko din sabai updates push notifications ra SMS bata send garincha.",
+        "question": "Maile apno dietary requirements mention garna birseko ho, aba kasari inform garna sakchhu?",
+        "response": "Kripaya support@example.com ma apno event ID ra dietary requirements details pathaunuhos. Aba pani confusion cha bhane, hamlai email garnuhos."
+    },
+    {
+        "context": "Hamro event system le group registrations ko lagi pani facility provide garchha. Group registration ma discount policy ra participant ko naam entry ko lagi separate form available huncha. Yedi group registration ko samaya ma kunai participant ko details galat cha bhane, tapai ticket edit garna saknuhunchha. Group leader ko email ID ma confirmation details ra QR code send garincha.",
+        "question": "Maile group registration ma galat naam mention gareko ho, kasari thik garna sakchhu?",
+        "response": "Dashboard ma jani 'Edit Group Tickets' option ma click garnuhos. Aba edit option available chaina bhane, support@example.com ma email garnuhos."
+    },
+    {
+        "context": "Hamro platform le post-event feedback ko lagi easy survey system provide garchha. Survey form event end bhayepachi automatically tapaiko email ma send huncha. Feedback ko lagi 5-star rating system, comments section, ra improvement suggestions option cha. Feedback le organizers lai future events better banauna madat garcha. Survey related technical issue cha bhane, hamlai contact garnuhos.",
+        "question": "Maile survey form receive gareko chaina, feedback kasari dina sakchhu?",
+        "response": "Email ko spam folder pani check garnuhos. Aba survey form chaina bhane, support@example.com ma apno email ID ra event details pathaunuhos."
+    },
+    {
+        "context": "Hamro event platform le speaker sessions ko live streaming facility provide garchha. Yedi tapai event ma physically present hunu saknuhunna bhane, live stream link dashboard ko 'Live Events' section ma available huncha. Internet connection stable cha bhane live stream ma problem hudaina. Technical difficulties ka case ma, live stream reconnect garna option huncha.",
+        "question": "Maile live stream ma join garna khojda buffering problem ayo, ke garna sakchhu?",
+        "response": "tapaiko internet connection check garnuhos. Browser refresh garnuhos ya live stream link feri open garnuhos. Aba pani problem solve hudaina bhane, support@example.com ma sampark garnuhos."
+    },
+    {
+        "context": "Event ka attendees le networking ko lagi dedicated app ko use garna saknuhunchha. App ma attendee list, contact sharing, ra private messaging feature available huncha. Networking app ma login garna ko lagi tapaiko registration ID cha bhane sajilo huncha. Networking ko lagi event-specific rules follow garna parcha, jasto ki spam messages na pathaune. Technical issue bhaye, networking app support team sanga sampark garna milcha.",
+        "question": "Networking app ma login garna khojda registration ID invalid bhancha, aba ke garne?",
+        "response": "tapaiko registration ID correct cha ki chaina check garnuhos. Aba pani kaam nagare bhane, support@example.com ma ID pathaunuhos."
+    },
+    {
+        "context": "Hamro event platform le hybrid events ko lagi dual-mode registration support garchha. Physical event ko saath-saathai virtual attendees ko lagi login credentials send garincha. Virtual participants ko lagi platform ma live chat, Q&A, ra session polls ko option huncha. Internet-related issue cha bhane, tapaiko session ko recording pani 24 ghanta bhitra dashboard ma available huncha.",
+        "question": "Maile session live attend garna sakina, recording kasari access garna sakchhu?",
+        "response": "Dashboard ma login garnuhos ra 'Session Recordings' section ma recording access garnuhos. Aba recording available chaina bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform ko sponsors section ma event ka official sponsors ko details ra offers mention huncha. Sponsors le attendees ko lagi special discounts ra freebies ko facility provide garchhan. Offers claim garna sponsor booth ma jaana parcha ya email verification garera online claim garna milcha. Offers expire date ko details sabai clearly dekhaune cha.",
+        "question": "Maile sponsor ko offer claim garna birseko ho, aba claim garna milcha?",
+        "response": "Offers ko expire date check garnuhos. Aba valid cha bhane, sponsor booth ma contact garnuhos. Aba online claim garna milcha bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform attendees ko lagi detailed invoices ko suvidha provide garchha. Payment confirm bhayepachi invoice automatic generate bhayera email ma send huncha. Invoice ko PDF dashboard ma pani download garna milcha. Yedi invoice details galat cha bhane, tapai edit request garna saknuhunchha. Edit process complete huna 2-3 working days lagna sakchha.",
+        "question": "Maile apno invoice download garna khojda error aayo, aba kasari download garna sakchhu?",
+        "response": "Dashboard ma 'My Invoices' section refresh garnuhos. Aba error solve hudaina bhane, support@example.com ma email garnuhos."
+    },
+    {
+        "context": "Namaste! Hamro platform ma tapaiko event ko preparation lai sajilo banaune suvidha haru cha. Event ka sabai attendees ko lagi pre-event checklist send garincha. Checklist ma important points jasto ki location, reporting time, dress code, required documents, ra safety protocols ko information huncha. tapai yo checklist dashboard ma 'Event Preparation' section bata pani access garna saknuhunchha.",
+        "question": "Maile pre-event checklist email ma payeko chaina, yo kasari access garna sakchhu?",
+        "response": "tapaiko dashboard ma 'Event Preparation' section ma januhos. Aba checklist chaina bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform sponsors ko giveaways ra freebies ko lagi separate booth allocate garcha. Giveaways ko timing ra distribution details event schedule ma mention huncha. Attendees le apno QR code scan garera giveaways collect garna milcha. Freebies related kunai issue cha bhane, sponsor booth ma directly inquiry garnuhos. Event end bhayepachi giveaways claim garna milcha ki chaina yo event-specific policy ho.",
+        "question": "Giveaways ko timing miss bhayo, aba claim garna milcha ki milcha?",
+        "response": "Kripaya event ko sponsor booth ma inquiry garnuhos. Aba sponsor booth accessible chaina bhane, support@example.com ma email garnuhos."
+    },
+    {
+        "context": "Hamro platform le attendees ko feedback ko lagi after-event discussion forum ko suvidha provide garchha. Forum ma tapai apno experiences, questions, ra suggestions post garna saknuhunchha. Forum ko login credentials event ko end ma email garincha. Forum ma professional behavior maintain garna parcha. Spam ya irrelevant content post garna allow hudaina.",
+        "question": "Discussion forum ma login garna khojda credentials invalid bhancha, kasari fix garna sakchhu?",
+        "response": "Kripaya apno email ma bheteko forum credentials verify garnuhos. Aba valid credentials sanga pani login hudaina bhane, support@example.com ma sampark garnuhos."
+    },
+    {
+        "context": "Hamro platform participants ko lagi custom badges design ko suvidha provide garcha. Badges ma tapaiko naam, designation, ra company logo customize garna milcha. Badges registration ko samaya ma finalize huncha ra event ma collect garna milcha. Kunai galti cha bhane, badge design edit ko lagi email pathauna parcha. Edit request ko deadline event registration close huna 3 din agadi huncha.",
+        "question": "Maile badge design customize garna birseko ho, aba kasari change garna sakchhu?",
+        "response": "Kripaya support@example.com ma apno customization details pathaunuhos. Deadline bitisakepachi edit possible hudaina."
+    },
+    {
+        "context": "Hamro platform le volunteers ko lagi dedicated training session ko suvidha provide garcha. Training session ma event management, attendee assistance, ra technical support ko tips provide huncha. Volunteers ko attendance track garna ID card mandatory cha. Training session ka recordings ra materials dashboard ma download garna milcha. Kunai doubts cha bhane, training session ko coordinator sanga sampark garnuhos.",
+        "question": "Ma training session attend garna sakina, aba materials kasari download garna sakchhu?",
+        "response": "Dashboard ko 'Training Materials' section ma januhos ra sabai resources download garnuhos. Aba materials available chaina bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform attendees ko safety prioritize garcha. Event ma emergency protocols clearly define huncha jasto ki evacuation plan, first aid station ko location, ra emergency contacts. Event ko security desk ma apno problems report garna milcha. Attendees le dashboard ko 'Safety Guidelines' section ma sabai details access garna saknuhunchha.",
+        "question": "Emergency ko case ma first aid station ko location kasari thaha pauna sakchhu?",
+        "response": "tapaiko dashboard ma 'Safety Guidelines' section check garnuhos. Aba pani thaha pauna garo cha bhane, onsite security desk ma contact garnuhos."
+    },
+    {
+        "context": "Hamro platform ma ticket transfer facility cha jasma tapai apno ticket arko vyakti lai transfer garna milcha. Transfer ko lagi ticket ID, new attendee ko naam ra email address update garnu parcha. Transfer request complete huna 24 ghanta lagna sakchha. Ticket transfer related policy haru event-specific huncha, jasle transfer allowed cha ki chaina ensure garnuhos.",
+        "question": "Maile ticket transfer request pathaeko ho tara confirm bhayeko chaina, aba ma ke garna sakchhu?",
+        "response": "Transfer request ko status dashboard ma check garnuhos. Aba confirm bhayeko chaina bhane, support@example.com ma apno ticket ID pathaunuhos."
+    },
+    {
+        "context": "Hamro platform le exclusive VIP attendees ko lagi separate lounge access ko suvidha provide garchha. VIP tickets purchase gareka participants le lounge ma refreshment, priority seating, ra personal assistance paunuhunchha. Lounge entry ko lagi tapaiko VIP badge mandatory cha. Lounge timing ra facilities ko details event ka organizers le email garne huncha.",
+        "question": "VIP lounge entry ko lagi badge khojda, maile badge harayeko ho. Aba ke garna sakchhu?",
+        "response": "Registration desk ma apno issue explain garnuhos. Duplicate badge ko lagi apno ID verify garnu parcha."
+    },
+    {
+        "context": "Hamro platform ma speakers ko profile, topics, ra session timings ko information attendees le dashboard ma access garna milcha. Speaker ko session attend garna pre-registration garna parcha. Overbooked sessions ma waitlist option available huncha. Waitlist ko confirmation email ma send huncha ra slot available bhae matra attend garna milcha.",
+        "question": "Maile waitlist ma name register gareko ho, aba confirmation kasari check garna sakchhu?",
+        "response": "Dashboard ko 'Waitlist Status' section check garnuhos. Aba email receive nagare bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform le event ko sponsors ko exclusive offers ko lagi attendees lai QR code-based access provide garchha. tapaiko dashboard ma 'Exclusive Offers' section ma sabai available offers list huncha. QR code scan garna ko lagi tapaiko device ma internet connection required huncha. Offers limited time ko lagi available huncha, tesaile offer details carefully read garnuhos.",
+        "question": "QR code scan nagareko le maile offer access garna sakina, aba kasari access garna milcha?",
+        "response": "Dashboard ma 'Exclusive Offers' section check garnuhos. Aba QR code kaam nagare bhane, support@example.com ma email garnuhos."
+    },
+    {
+        "context": "Hamro platform event-specific reminders send garcha, jasma tapaiko session timings, lunch break schedule, ra important announcements include huncha. Reminders tapaiko registered email ra SMS ma send garincha. tapai additional reminders customize garna saknuhunchha by enabling notifications from dashboard. Kunai reminder receive nagareko lagcha bhane, apno spam folder pani check garnuhos.",
+        "question": "Mero session timing ko reminder aaeko chaina, aba ma kasari confirm garna sakchhu?",
+        "response": "Dashboard ma 'My Schedule' section check garnuhos. Aba pani reminder confirm garna garo cha bhane, support@example.com ma apno event details pathaunuhos."
+    },
+    {
+        "context": "Hamro platform ma tapai apno registration ko history ra previous events ko details check garna saknuhunchha. Past event ko tickets, attendance records, ra feedback submissions sabai dashboard ma 'Event History' section bata available huncha. Yedi tapaiko account sanga past event records match nagareko cha bhane, contact garnuhos for manual verification.",
+        "question": "Mero past event record dashboard ma dekhaudaina, yo kasari fix garna sakchhu?",
+        "response": "Kripaya support@example.com ma apno registered email ID ra past event details pathaunuhos. Aba manual verification pachi record update huncha."
+    },
+    {
+        "context": "Event ke samaya ma parking-related facilities ko full details attendees ko convenience ko lagi provide garincha. tapaiko dashboard ma parking map, nearby parking lot locations, ra valet service timings ko details available huncha. tapaiko vehicle registration ka details required cha valet service ko lagi. Emergency parking issue cha bhane, onsite parking assistance desk ma inquiry garnuhos.",
+        "question": "Parking location ko map download garna khojda error ayo, aba ma ke garna sakchhu?",
+        "response": "Dashboard ko 'Parking Details' section refresh garnuhos. Aba error fix hudaina bhane, support@example.com ma apno issue explain garnuhos."
+    },
+    {
+        "context": "Hamro platform attendees lai personalized session recommendations ko suvidha dincha. Recommendation algorithm le tapaiko interest ko basis ma sessions recommend garcha. Recommendations 'Suggested Sessions' section ma view garna milcha. Kunai session fully booked cha bhane, alternative sessions ko list automatically provide huncha.",
+        "question": "Suggested sessions ma fully booked session cha, alternative sessions kasari check garna sakchhu?",
+        "response": "'Suggested Sessions' section ma alternative sessions ko list check garnuhos. Aba pani session availability ko confusion cha bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform participants lai onsite entry ko lagi fast-track QR code scanning facility dincha. Entry process seamless rakhna ko lagi pre-event QR code download garna recommended huncha. QR code dashboard ko 'My Tickets' section ma available huncha. Forgot QR code ko case ma, registration desk ma apno registered email ID verify garnuhos.",
+        "question": "Mero QR code maile download garna birseko ho, onsite entry kasari garna sakchhu?",
+        "response": "Registration desk ma apno registered email ID verify garnuhos. Staff le QR code manually retrieve garnechha."
+    },
+    {
+        "context": "Hamro event platform le participants ko sustainability ko lagi eco-friendly practices promote garcha. Attendees lai digital tickets, reusable water bottles, ra electric vehicle parking ko suvidha provide garincha. Sustainability initiatives ko details event email updates ma ra dashboard ko 'Eco Practices' section ma available huncha.",
+        "question": "Sustainability initiatives ko updates maile email ma payeko chaina, yo kasari access garna sakchhu?",
+        "response": "Dashboard ma 'Eco Practices' section check garnuhos. Aba updates access nagareko lagcha bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform le event ka exclusive merchandise purchase ko lagi 'Merch Store' feature provide garcha. Store dashboard ko 'Merchandise' section ma available huncha jaha tapai t-shirts, mugs, ra event-specific souvenirs order garna saknuhunchha. Payment confirm bhayepachi, merchandise delivery options email ma send garincha.",
+        "question": "Merchandise order gareko ho tara delivery details email ma chaina, aba ma ke garna sakchhu?",
+        "response": "Dashboard ko 'Order History' section check garnuhos. Aba pani delivery details confirm garna garo cha bhane, support@example.com ma apno order ID pathaunuhos."
+    },
+    {
+        "context": "Hamro platform le event attendees ko network expansion ko lagi live chat rooms ko facility dincha. Chat rooms session ko theme ko adhar ma categorize gareko huncha. Attendees le professional etiquette maintain garna parcha. Inappropriate behavior ko complaint ko lagi 'Report Issue' button available huncha.",
+        "question": "Chat room ma login garna khojda error ayo, kasari fix garna sakchhu?",
+        "response": "Browser refresh garnuhos ra feri login try garnuhos. Aba problem fix hudaina bhane, support@example.com ma apno error details pathaunuhos."
+    },
+    {
+        "context": "Hamro platform le volunteers ko achievement recognize garna ko lagi post-event appreciation certificates dincha. Certificate volunteer dashboard ko 'My Achievements' section ma available huncha. Digital certificate download garna milcha ra printed copy request gareko bhaye 10-12 din ma dispatch huncha.",
+        "question": "Volunteer certificate download garna khojda error ayo, aba kasari access garna sakchhu?",
+        "response": "Dashboard ko 'My Achievements' section refresh garnuhos. Aba pani error fix hudaina bhane, support@example.com ma sampark garnuhos."
+    },
+    {
+        "context": "Hamro platform le event attendees ko registration confirmation email pathauncha. Email ma event details, venue ko map, ra QR code attachment huncha. Email ma kunai issue bhaye dashboard ko 'My Events' section bata sabai information access garna saknuhunchha. Registration email resend garna ko lagi support@example.com ma request garnuhos.",
+        "question": "Maile registration confirmation email receive gareko chaina, aba yo kasari resend garna sakchhu?",
+        "response": "Dashboard ko 'My Events' section check garnuhos. Aba email resend garna support@example.com ma apno registered email ID ra event details pathaunuhos."
+    },
+    {
+        "context": "Hamro platform le hybrid events ka participants ko lagi live streaming ra recording access provide garchha. tapaiko session live stream 'Event Live' section ma available huncha. Session ko recording event ko end bhayepachi 48 ghanta bhitra upload garincha. Recording access ko lagi internet connection required huncha.",
+        "question": "Maile session live stream miss gareko ho, recording kaha access garna sakchhu?",
+        "response": "Event ko dashboard ma 'Event Live' section check garnuhos. Recording 48 ghanta bhitra available huncha. Aba available na bhaye, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform le speakers ko content ko lagi attendees sanga pre-event questions collect garchha. Questions submit garna ko lagi dashboard ko 'Ask Speaker' feature use garna milcha. Pre-event questions ko deadline event start huna 24 ghanta agadi huncha. Deadline pachi questions directly session ma puchhna milcha.",
+        "question": "Maile 'Ask Speaker' ma question submit garna birseko ho, aba ma kasari question puchhna sakchhu?",
+        "response": "Deadline bitisakeko ho bhane, live session ko Q&A section use garnuhos. Aba Q&A section kaam garena bhane, event moderator lai sampark garnuhos."
+    },
+    {
+        "context": "Hamro platform ma event-specific notifications enable garna ko lagi attendees le 'Notification Settings' customize garna sakchha. Notification types jasto ki session reminders, announcements, ra post-event surveys enable ya disable garna milcha. Settings ko changes immediately apply huncha, tara email notifications le sometimes delay lagsakchha.",
+        "question": "Maile notification enable gareko ho tara session reminders aaeko chaina, aba ma ke garna sakchhu?",
+        "response": "'Notification Settings' recheck garnuhos ra email spam folder pani verify garnuhos. Aba problem fix nagare bhane, support@example.com ma inquiry garnuhos."
+    },
+    {
+        "context": "Hamro platform le food preferences customization ko suvidha dincha. Attendees le dashboard ko 'Food Preferences' section ma vegetarian, vegan, gluten-free, ra allergies related preferences set garna sakchha. Preferences ko deadline event start huna 3 din agadi huncha. Preferences change ko request manually approve garna padhne sakchha.",
+        "question": "Maile food preference customize garna birseko ho, aba yo kasari update garna sakchhu?",
+        "response": "Kripaya support@example.com ma apno updated preference details pathaunuhos. Aba deadline bitisakeko ho bhane, on-site food team sanga contact garnuhos."
+    },
+    {
+        "context": "Hamro platform le networking purpose ko lagi attendees ko business card exchange ko digital feature dincha. Dashboard ma 'Networking Zone' section ma tapai apno business profile create garna saknuhunchha. QR code ko madhyam bata cards exchange garna milcha. Kunai technical issue cha bhane, live chat support team lai contact garnuhos.",
+        "question": "Mero QR code scan hudaina, aba ma kasari business card share garna sakchhu?",
+        "response": "Kripaya apno profile recheck garnuhos ki complete cha ki chaina. Aba problem fix hudaina bhane, support@example.com ma apno issue explain garnuhos."
+    },
+    {
+        "context": "Hamro platform participants ko convenience ko lagi multilingual support provide garcha. Dashboard ko 'Language Settings' section ma apno preferred language select garna milcha. Language change garepachi dashboard ko content immediately update huncha. Technical issue cha bhane, default language English ma revert huncha.",
+        "question": "Maile language setting Nepali ma change gareko ho tara content still English ma cha, kasari fix garna sakchhu?",
+        "response": "Browser refresh garnuhos ra feri try garnuhos. Aba problem fix hudaina bhane, support@example.com ma apno issue explain garnuhos."
+    },
+    {
+        "context": "Hamro platform le events ka attendees ko accommodation arrange garna 'Stay Booking' feature provide garchha. Hotel booking dashboard ko 'Accommodation' section bata direct garna milcha. Booking confirmation email pathauncha ra payment secure portal bata garnu parcha. Last-minute booking ka lagi extra charges applicable huncha.",
+        "question": "Maile hotel booking confirm gareko ho tara confirmation email payeko chaina, aba ke garna sakchhu?",
+        "response": "'Accommodation' section ma apno booking status check garnuhos. Aba email confirm nagare bhane, support@example.com ma apno booking ID pathaunuhos."
+    },
+    {
+        "context": "Hamro platform le special needs ko lagi accessible facilities provide garcha. Wheelchair access, sign language interpreters, ra hearing aids ko details dashboard ko 'Accessibility Services' section ma available huncha. Additional requests pathauna deadline event start huna 5 din agadi ho. Onsite assistance ko lagi volunteers sanga sampark garnuhos.",
+        "question": "Maile accessibility ko lagi request pathauna birseko ho, onsite ko lagi kasari help pauna sakchhu?",
+        "response": "Onsite volunteer desk ma apno requirement explain garnuhos. Volunteers le tapaiko assistance ko lagi immediately coordinate garnechan."
+    },
+    {
+        "context": "Hamro platform le attendee badges ma NFC technology ko use garcha, jasko madhyam bata tapaiko session attendance auto-track huncha. Badges event ko registration desk ma collect garna parcha. Loss ya damage bhaye duplicate badge ko lagi small fee applicable huncha.",
+        "question": "Mero badge lost bhayo, duplicate badge ko lagi ke garnu parcha?",
+        "response": "Registration desk ma duplicate badge ko request garnuhos. ID verify garnu padhnecha ra small fee applicable huncha."
+    },
+    {
+        "context": "Hamro platform le post-event feedback collection ko lagi 'Feedback Form' feature provide garchha. Form dashboard ko 'Feedback' section ma available huncha ra event end bhayepachi 48 ghanta bhitra submit garna saknuhunchha. Feedback submit garepachi, confirmation email pathauncha. Feedback ma suggestions submit garna ko lagi text box ko suvidha cha.",
+        "question": "Maile feedback submit garna birseko ho, aba kasari submit garna sakchhu?",
+        "response": "Dashboard ko 'Feedback' section visit garnuhos. Form 48 ghanta bhitra available huncha, tesaile tyaha submit garnuhos."
+    },
+    {
+        "context": "Hamro platform le event improvement ko lagi attendees sanga poll system ko madhyam bata suggestions collect garcha. Poll dashboard ko 'Suggestions' section ma available huncha ra multiple options select garna milcha. Poll close bhayepachi results email ko madhyam bata share garincha.",
+        "question": "Poll ma suggestion pathauna birseko ho, aba ke garnu parcha?",
+        "response": "Poll deadline bhitra dashboard ko 'Suggestions' section ma visit garnuhos ra apno suggestions submit garnuhos."
+    },
+    {
+        "context": "Hamro platform le real-time feedback collect garna 'Live Feedback' feature dincha, jaha attendees le session ko bich feedback submit garna sakchha. Feedback anonymously collect huncha ra session ko end ma aggregated results presenter sanga share garincha. Technical issue cha bhane live chat support available huncha.",
+        "question": "Session feedback submit garna khojda error aayo, aba ma ke garna sakchhu?",
+        "response": "Live chat support team lai contact garnuhos. Aba pani problem solve nagare bhane dashboard refresh garera feri try garnuhos."
+    },
+    {
+        "context": "Hamro platform le post-event survey ko lagi attendees lai customized survey link email garchha. Survey complete garepachi, thank-you discount code email ma provide garincha. Kunai attendee le survey link access garna sakena bhane, 'Survey Help' section dashboard ma available huncha.",
+        "question": "Maile survey link email ma payeko chaina, aba yo kasari access garna sakchhu?",
+        "response": "Dashboard ko 'Survey Help' section visit garnuhos. Aba email verify garera survey link feri request garnuhos."
+    },
+    {
+        "context": "Hamro platform attendees ko valuable feedback ko adhar ma top suggestions shortlist garcha ra next event planning ma implement garcha. Feedback ko result summary dashboard ko 'Event Updates' section ma view garna milcha. Regular updates email ma pani pathauncha.",
+        "question": "Maile suggestion submit gareko ho, yo shortlist bhayo ki nai kasari thaha pauna sakchhu?",
+        "response": "Dashboard ko 'Event Updates' section ma apno suggestion shortlist bhayeko cha ki chaina check garnuhos."
+    },
+    {
+        "context": "Hamro platform le attendees ko feedback ko lagi interactive emoji rating system use garcha. Attendees le individual sessions, speakers, ra venue ko lagi emojis ko madhyam bata rating dincha. Rating ka aggregated results event ko end ma email garincha.",
+        "question": "Venue rating dinako lagi emoji kasari use garna sakchhu?",
+        "response": "Dashboard ko 'Feedback' section ma visit garnuhos ra venue ko lagi emoji rating dinuhos."
+    },
+    {
+        "context": "Hamro platform le attendees ko feedback ko adhar ma event insights prepare garcha. Insights dashboard ko 'Reports' section ma downloadable PDF format ma available huncha. Insights ma attendee satisfaction, most liked sessions, ra suggestions ko summary include huncha.",
+        "question": "Event insights ma attendee satisfaction ko details kasari download garna sakchhu?",
+        "response": "Dashboard ko 'Reports' section ma visit garnuhos ra PDF download option select garnuhos."
+    },
+    {
+        "context": "Hamro platform le sessions ko individual feedback ka lagi post-session quizzes organize garcha. Quizzes le speaker engagement ko score generate garcha ra top-performing sessions shortlist garcha. Quizzes dashboard ko 'Session Quizzes' section ma 24 ghanta bhitra complete garna parcha.",
+        "question": "Maile session quiz complete garna birseko ho, aba deadline bhitra kasari complete garna sakchhu?",
+        "response": "Dashboard ko 'Session Quizzes' section ma visit garnuhos ra 24 ghanta bhitra quiz complete garnuhos."
+    },
+    {
+        "context": "Hamro platform le feedback form fill garna attendees lai reminder notifications send garcha. Reminders tapaiko registered email ra SMS ma send garincha. Reminder miss bhaye bhane dashboard ko notification panel ma sabai reminders available huncha.",
+        "question": "Feedback form fill garna ko reminder miss bhayo, aba yo kasari access garna sakchhu?",
+        "response": "Dashboard ko notification panel ma sabai reminders check garnuhos ra form fill garnuhos."
+    },
+    {
+        "context": "Hamro platform le attendees sanga exclusive interviews ko lagi opt-in option dincha. Interview participants ko responses post-event report ma include huncha. Opt-in dashboard ko 'Exclusive Interviews' section ma available huncha. Opt-in deadline event end huna ek din agadi huncha.",
+        "question": "Interview ma opt-in garna birseko ho, aba kasari participate garna milcha?",
+        "response": "Dashboard ko 'Exclusive Interviews' section ma visit garnuhos ra opt-in option enable garnuhos. Aba deadline miss bhaye bhane, contact support@example.com."
+    }
+]
