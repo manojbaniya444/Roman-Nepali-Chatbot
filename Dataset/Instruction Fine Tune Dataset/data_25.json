@@ -40,163 +40,163 @@
         "answer": "Router restart garera hernu, same cha bhane provider lai call garera complain garnu."
     },
     {
-        "instruction": "WiFi ko password kasari change garne?",
+        "question": "WiFi ko password kasari change garne?",
         "answer": "Router ko IP address browser ma halera login garne, settings ma gayera password change garne."
     },
     {
-        "instruction": "Electricity bill online kasari tirne?",
+        "question": "Electricity bill online kasari tirne?",
         "answer": "eSewa ya Khalti ma login garne, 'Electricity' ko option ma account number halera payment garne."
     },
     {
-        "instruction": "Pan card ko form kasari bharne?",
+        "question": "Pan card ko form kasari bharne?",
         "answer": "Tax office ko website ma gayera form download garne, sabai details bharera submit garne."
     },
     {
-        "instruction": "Passport renewal kasari garne?",
+        "question": "Passport renewal kasari garne?",
         "answer": "Online form bharera appointment lina milcha, pharak photo ra documents lera embassy ma jancha."
     },
     {
-        "instruction": "Bank ma cheque kasari deposit garne?",
+        "question": "Bank ma cheque kasari deposit garne?",
         "answer": "Cheque ko backside ma signature garne, deposit slip bharera counter ma submit garne."
     },
     {
-        "instruction": "SIM card kasari activate garne?",
+        "question": "SIM card kasari activate garne?",
         "answer": "SIM card phone ma halera customer care ma call garne, required details dinu parcha."
     },
     {
-        "instruction": "Ghar ko tax kasari tirne?",
+        "question": "Ghar ko tax kasari tirne?",
         "answer": "Ward office ma gayera required documents lera jancha, counter ma gayera tax tirne."
     },
     {
-        "instruction": "Gmail account kasari banaune?",
+        "question": "Gmail account kasari banaune?",
         "answer": "Gmail ko website ma 'Create Account' button thokera sabai details bharne, email ready huncha."
     },
     {
-        "instruction": "TV remote kaam nagareko bela ke garne?",
+        "question": "TV remote kaam nagareko bela ke garne?",
         "answer": "Remote ko battery check garne, same cha bhane TV manual button try garnu."
     },
     {
-        "instruction": "Printer kasari connect garne?",
+        "question": "Printer kasari connect garne?",
         "answer": "Printer ko wire laptop ma connect garne, driver install cha bhane install garera print dinu."
     },
     {
-        "instruction": "Bank bata loan kasari linu?",
+        "question": "Bank bata loan kasari linu?",
         "answer": "Bank ma gayera loan ko form bharne, income proof ra required documents dinu parcha."
     },
     {
-        "instruction": "Tihar ma rangoli kasari banaune?",
+        "question": "Tihar ma rangoli kasari banaune?",
         "answer": "Ground ma design banaera color powder halera sajhaune, optional diyaharu rakhera decorate garna milcha."
     },
     {
-        "instruction": "Mobile ma app kasari download garne?",
+        "question": "Mobile ma app kasari download garne?",
         "answer": "Play Store ya App Store kholera app ko naam search garne, ani 'Install' button thoknu parcha."
     },
     {
-        "instruction": "Exam ma top garne kasari?",
+        "question": "Exam ma top garne kasari?",
         "answer": "Daily timetable banayera padne, notes revise garne ani past questions practice garne."
     },
     {
-        "instruction": "Cooking gas cylinder order kasari garne?",
+        "question": "Cooking gas cylinder order kasari garne?",
         "answer": "Gas supplier ko app ya call center ma phone garne, customer ID halera order confirm garne."
     },
     {
-        "instruction": "Computer ma antivirus install kasari garne?",
+        "question": "Computer ma antivirus install kasari garne?",
         "answer": "Trusted website bata antivirus download garera run garne, license code halera activate garne."
     },
     {
-        "instruction": "Bhaat mitho kasari pakaune?",
+        "question": "Bhaat mitho kasari pakaune?",
         "answer": "Bhaat laune, pani thik matra halne, ani cooker ma 3 whistle garera pakaune."
     },
     {
-        "instruction": "Water filter kasari safha garne?",
+        "question": "Water filter kasari safha garne?",
         "answer": "Filter ko parts kholera pani ra detergent le safha garera ramrari sukayera fix garne."
     },
     {
-        "instruction": "Laptop format kasari garne?",
+        "question": "Laptop format kasari garne?",
         "answer": "Important file backup garera bootable USB prepare garne, BIOS ma boot select garera OS install garne."
     },
     {
-        "instruction": "Phone ko storage full cha, aba ke garne?",
+        "question": "Phone ko storage full cha, aba ke garne?",
         "answer": "Unnecessary apps uninstall garne, photos ra videos Google Drive ma save garne, ani cache clear garne."
     },
     {
-        "instruction": "Online shopping kasari garne?",
+        "question": "Online shopping kasari garne?",
         "answer": "Shopping app kholera desired item search garne, cart ma halera address ra payment confirm garne."
     },
     {
-        "instruction": "Online class ko link kasari join garne?",
+        "question": "Online class ko link kasari join garne?",
         "answer": "Teacher le pathaunu bhako link kholera Zoom ya Google Meet ma join garne."
     },
     {
-        "instruction": "Cycle ko chain loose cha, kasari fix garne?",
+        "question": "Cycle ko chain loose cha, kasari fix garne?",
         "answer": "Chain adjuster screw ghumaera tight garne, tension theek cha bhane wrench le fix garne."
     },
     {
-        "instruction": "Traffic ko fine kasari tirne?",
+        "question": "Traffic ko fine kasari tirne?",
         "answer": "Fine ticket lera nearest traffic office ma jana, ya online eSewa bata tirna milcha."
     },
     {
-        "instruction": "Haircut ko best style kasari choose garne?",
+        "question": "Haircut ko best style kasari choose garne?",
         "answer": "Barber lai photo dekhaune ya hair type ko barema sallah liyera decision garne."
     },
     {
-        "instruction": "Momo ko chutney kasari mitho banaune?",
+        "question": "Momo ko chutney kasari mitho banaune?",
         "answer": "Tomato, timmur, garlic, chili blend garera slight oil ra lemon juice mix garne."
     },
     {
-        "instruction": "Bus stop kaha cha kasari thaha paune?",
+        "question": "Bus stop kaha cha kasari thaha paune?",
         "answer": "Google Maps ya local manchhe sanga sodhne, ani najikai ko bus stop find garne."
     },
     {
-        "instruction": "Room ko decor kasari improve garne?",
+        "question": "Room ko decor kasari improve garne?",
         "answer": "Light color ko curtain use garne, wall ma photo frames ra plants rakhne."
     },
     {
-        "instruction": "Smartphone hang hune problem kasari thik garne?",
+        "question": "Smartphone hang hune problem kasari thik garne?",
         "answer": "Restart garne, unnecessary apps remove garne ra software update cha bhane update garne."
     },
     {
-        "instruction": "Motorbike ko servicing kasari garne?",
+        "question": "Motorbike ko servicing kasari garne?",
         "answer": "Authorized workshop ma bike lagne, oil change, filter clean, ra brake check garne."
     },
     {
-        "instruction": "Paisa transfer online kasari garne?",
+        "question": "Paisa transfer online kasari garne?",
         "answer": "Pahila eSewa, Khalti, ya ConnectIPS ma login garne. Tyo pachhi 'Send Money' ko option thoknu. Jasko account ma paisa pathaunu cha, usko account number ra bank ko naam thik sanga halne. Amount confirm garera 'Proceed' ma click garera OTP halne. OTP verify bhaye pachi paisa instantly transfer huncha. Screenshot lina cha bhane save pani garna milcha."
     },
     {
-        "instruction": "Office ma leave kasari request garne?",
+        "question": "Office ma leave kasari request garne?",
         "answer": "Sabai bhanda pahila manager ya supervisor sanga verbally discuss garne ki kina leave chahincha. Ani HR system ma janera ya email ko madhyam bata leave ko request pathaune. Leave letter ma date, reason, ra duration clearly mention garera pathaune. Tyo pachhi approval ka lagi follow-up garna parda huncha. Emergency cha bhane phone ma direct inform garera process complete garna milcha."
     },
     {
-        "instruction": "Gas cylinder ko leakage cha, aba ke garne?",
+        "question": "Gas cylinder ko leakage cha, aba ke garne?",
         "answer": "Sabai bhanda pahila kitchen ko gas ko regulator off garne. Windows ra doors kholera hawa bhitra ani bahira charaune. Matches ya lighter ko use nagarne, light switch pani off garne. Cylinder ko leakage confirm garna soap water lagayera bubble cha ki nai check garne. Leakage confirm cha bhane gas supplier lai call garera replacement magne. Emergency ma 112 ma call garera madat ko lagi sodhne."
     },
     {
-        "instruction": "Motorcycle ko mileage kasari improve garne?",
+        "question": "Motorcycle ko mileage kasari improve garne?",
         "answer": "Motorcycle ko mileage improve garna sabai bhanda pahila regularly servicing garne. Engine oil timely change garne ra air filter clean rakhne. Tyre pressure recommend gareko matra rakhera ride garne. Hard acceleration ya unnecessary braking avoid garne. Traffic ma bike idle rakhera time kharche nagarne. Fuel tank full rakhera petrol ko quality pani dhyan ma rakhne. Smooth ride garna ko lagi consistent speed maintain garne."
     },
     {
-        "instruction": "Birth certificate kasari nikalne?",
+        "question": "Birth certificate kasari nikalne?",
         "answer": "Birth certificate nikalna ward office ma gayera application form bharne. Baccha ko birth hospital ma bhaye hospital le diye ko birth record ko copy lera jancha. Documents ma parents ko citizenship copy, marriage certificate, ra baccha ko photo attach garne. Ward office ko officer le verify gare pachi certificate ko processing suru huncha. Processing time 3-7 din lagcha, ra ready bhaye pachi office bata lera aune."
     },
     {
-        "instruction": "Exam ko result kasari herne?",
+        "question": "Exam ko result kasari herne?",
         "answer": "Sabai bhanda pahila board ko official website kholera 'Result' ko section ma jancha. Roll number ya symbol number enter garera result search garne. Alternative ma SMS ko madhyam bata result herna milcha. SMS garna result code type garera respective board ko number ma send garne. If possible, school ya college ko notice board ma pani result check garna milcha. Online ma result download garera print garna pani milcha."
     },
     {
-        "instruction": "New phone setup kasari garne?",
+        "question": "New phone setup kasari garne?",
         "answer": "New phone kholera pahila preferred language select garne. WiFi ya mobile data connect garera Google account ya Apple ID login garne. Important apps Play Store ya App Store bata download garne. Contacts transfer garna Google sync ya Bluetooth ko madat le garne. Fingerprint, Face ID, ya PIN setup garera security ensure garne. Backup ko option enable garera important data safe rakhne."
     },
     {
-        "instruction": "Pasal ko license kasari banaune?",
+        "question": "Pasal ko license kasari banaune?",
         "answer": "Sabai bhanda pahila pasal register garna ward office ya municipality ma application dine. Application sanga business ko name, location, ra owner ko details dinu parcha. Citizenship copy, house rent agreement ya ghar ko malik ko approval letter attach garne. Municipal tax ya registration fee timely tirne. Verification pachi license card issue huncha, ra tyo card pasal ma rakhera display garne."
     },
     {
-        "instruction": "Festival ko decoration kasari garne?",
+        "question": "Festival ko decoration kasari garne?",
         "answer": "Sabai bhanda pahila ghar ko clean-up garera suru garne. Lights, diyaharu, ra flowers jasto materials kinera sajhaune. Rangoli banayera entrance ma design halne. Ghar ko wall ma fairy lights rakhne ra corner ma flower vases ya candles rakhne. Puja ko thali ready garera auspicious items sajhaune. Festival ko theme anusar ghar ma uniform colors rakhda decoration sundar dekhincha."
     },
     {
-        "instruction": "Passport application kasari submit garne?",
+        "question": "Passport application kasari submit garne?",
         "answer": "Online passport application form official website ma gayera bharne. Photo ko size ra background requirement herera thik sanga photo upload garne. Payment online ya bank ma garera receipt attach garne. Documents jasle citizenship, birth certificate, ra recommendation letter include huncha, scan garera attach garne. Form submit gare pachi appointment date lincha ra respective passport office ma document verification ka lagi jancha."
     },
     {

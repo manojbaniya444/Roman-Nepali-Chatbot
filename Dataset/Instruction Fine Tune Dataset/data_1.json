@@ -1,10 +1,5 @@
 [
     {
-        "context": "Product: Samsung Galaxy S21, Price: Rs. 99,999, Features: 5G, 128GB, Black Color.",
-        "question": "Samsung Galaxy S21 ko price k ho?",
-        "response": "Samsung Galaxy S21 ko price Rs. 99,999 ho."
-    },
-    {
         "context": "Product: HP Pavilion Laptop, Price: Rs. 79,999, Features: Intel i5, 8GB RAM, 512GB SSD.",
         "question": "HP Pavilion Laptop ma k k features cha?",
         "response": "HP Pavilion Laptop ma Intel i5, 8GB RAM, ani 512GB SSD features cha."

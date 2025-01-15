@@ -1,0 +1,893 @@
+category,system,instruction,context,question,response
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepal ko himal parvat haru sansar bhari prasiddha chhan. Prati barsa hajaaron paryatak haru yaha aai rahanchhan.,"Nepal ko himal prasiddha chhan, ra hajaaron paryatak yaha aauchhan."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Kathmandu sahar ma dharohar haru ko samrakshan avashyak chha. Yasto dharohar haru ko moolya sanskritik ra aaitihasik rup ma mahattopurna chha.,"Kathmandu ko dharohar ko samrakshan jaruri chha, yo sanskritik ra aaitihasik rup ma mahattopurna chha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Pokhara sahar sundar taal haru le ghereko chha. Machhapuchhre himal ko chhaya taal ma dekhna sakinchha.,Pokhara taal haru ra Machhapuchhre himal ko sundarta le ghereko chha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepali lok geet haru le hamro sanskriti ra parampara ko chhabi prastut garchha. Yasto geet haru deshko moolya ra pahichan ho.,Nepali lok geet sanskriti ra pahichan ko chhabi ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Chitwan National Park ma anek prakar ka jangali janawar haru baschhan. Tiger, ganda ra bakhri jasto durlabh janawar haru pani dekhna milchha.","Chitwan ma tiger, ganda jasto durlabh janawar haru baschhan."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Lumbini Gautam Buddha ko janmabhumi ho. Yo sthal ma anek aaitihasik avashesh haru dekhna sakinchha.,Lumbini Buddha ko janmabhumi ho ra aaitihasik avashesh haru chhan.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepal ek krishi pradhan desh ho. Yahako adhikansh janasankhya krishi karma ma samlagna chha.,"Nepal krishi pradhan desh ho, ra adhikansh manchhe krishi ma lageka chhan."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Sagarmatha sansar ko sabai bhanda uncha himal ho. Yo Nepal ko gaurav ko pratik ho.,Sagarmatha sansar ko uncha himal ra Nepal ko gaurav ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Nepal ma anek jati, bhasa ra dharma haru ko mel chha. Yo desh ekata ko sundar udaharan ho.","Nepal jati, bhasa, dharma ko ekata ko desh ho."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Nepali kalakar haru le sanskritik kshetra ma mahan yogdan diyechhan. Film, geet, ra nach ma pani mahatwapurna pragati bhayeko chha.",Nepali kalakar sanskritik kshetra ma mahatwapurna yogdan dinchhan.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepali khana dal bhat tarkari le prasiddha chha. Yo swadist ra poshan yukta ho.,Nepali dal bhat tarkari swadist ra poshan yukta ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Pashupatinath mandir sansar bhari prasiddha haiindu tirtha ho. Yo mandir Kathmandu ma chha.,Pashupatinath mandir prasiddha haiindu tirtha Kathmandu ma chha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepal ma chaunri ko kapi lai gundruk banayera khancha. Gundruk Nepali parikar ma ek anivarya dish ho.,Gundruk Nepali parikar ma anivarya dish ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Manang ma paryatak haru ko lagi anek adventure karyakram haru milchhan. Trekking ra hiking yaha ko mukhya karyakram ho.,Manang ma trekking ra hiking ko adventure karyakram chhan.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepali sanskriti ma lok katha haru le mahatwapurna sthaan rakheko chha. Yo hami nepali haru ko itihas sang sambandhit chha.,Nepali sanskriti ma lok katha itihas sang sambandhit chha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Janakpur Mithila Sanskriti ko ek mahatwapurna sthal ho. Yaha Ram ra Sita ko katha sang sambandhit dharohar haru chhan.,Janakpur Ram-Sita sambandhit Mithila Sanskriti ko sthal ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepali janajati haru ko bibidh parampara ra reetithiti le desh ko rangin chhabi prastut garcha.,Nepali janajati ko parampara desh lai rangin banauchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Hetauda Nepal ko ek udhyogik sahar ho. Yaha anek udyog haru sthapana garieka chhan.,Hetauda udhyogik sahar ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Rara taal Nepal ko sabai bhanda thulo taal ho. Yo taalamathi chara herna ko lagi prasiddha chha.,Rara taal thulo ra chara herna prasiddha ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Bhaktapur ko juju dhau tyo thau ko mishrit mitho dish ho. Yo Nepali mulo sanskriti ko chhabi ho.,Bhaktapur ko juju dhau mishrit mitho dish ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Nepal ma anek prakriti ko anugrah chha. Himal, pahad, ra tarai le gathit yo desh ma bibidh paryatan ko sambhavana chha. Manchhe haru trekking, rafting, ra jungle safari ko lagi Nepal aauchhan.","Nepal ma trekking, rafting, ra jungle safari ko paryatan sambhavana chha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Nepali parikar ma momo ek atyanta lokpriya dish ho. Tarkari, maasu, ra paneer ko momo sabai ko manparne ho. Kathmanduma momo ko thuprai dukan haru dekhna sakinchha.","Momo Nepali lokpriya dish ho, Kathmanduma thuprai dukan chhan."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Gorkha Nepal ko purano rajdhani ho. Yo thau ma Prithvi Narayan Shah ko rajmahal chha. Paryatak haru le Gorkha durbar ko drishya ko anand linu sakchhan.,"Gorkha purano rajdhani ho, jaha Prithvi Narayan Shah ko durbar chha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepal ma Dashain ra Tihar dherai nai mahatwapurna chhuttiharu ma ganninchha. Yo samay ma pariwaar ra sathiharu ekata ko samjhana garchhan.,Dashain ra Tihar pariwaar ekata ko chhuttiharu hun.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Karnali pradesh Nepal ko sabai bhanda durgam thau haru ma ek ho. Yaha ko manchhe haru dherai samay samma mul sadak bata banchit thiye. Aba raajmarg le janata haru ko jeevan saral banayeko chha.,"Karnali durgam chha, aba rajmarg le jeevan saral banayeko chha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Nepali natya kala ma naach, geet ra natak le aaitihasik mahatwa rakheko chha. Priya lok natak haru ko manchayan bhaye jasto, naach haru le nepali parampara ko pradarshan garcha.",Nepali natya kala naach ra natak le parampara dekhaunchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Sagarmatha National Park ma dherai anukritiya haru paainchha. Yaha rare flora ra fauna sangai yak ra snow leopard jasto janawar haru paainchha.,"Sagarmatha ma yak, snow leopard, ra rare flora fauna chhan."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Janakpur ko mitho mithai haru ko naam sabai le sune ko chha. Lalmohan, malpua, ra rasbari yaha ko prakhyat mithai haru hun. Paryatak haru ko lagi yo pramukh akarshan ho.","Janakpur ko lalmohan, malpua, ra rasbari mitho mithai hun."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Nepal ma bibidh jati ra bhasa haru ko sammelan dekhna sakinchha. Tamang, Rai, Gurung, ra Sherpa haru ko apno-apno sanskritik pahichan chha.","Nepal ma Tamang, Rai, Gurung, ra Sherpa ko sanskritik pahichan chha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Kathmandu ko Swayambhunath stupa ek prasiddha bauddha sthaan ho. Yo stupa ma Buddha ko aakarshan chhavi ra shanti ko sandesh diyeko chha.,Swayambhunath stupa shanti ko prasiddha bauddha sthaan ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Koshi Nadi Nepal ko sabai bhanda lamo nadi ho. Yo nadi le Nepal ra Bharat lai jalashrot uplabdha garauchha. Prakriti ko sundarta ma pani Koshi nadi le mahatwa rakheko chha.,"Koshi Nepal ko lamo nadi ho, jalashrot ra sundarta ko mahatwa rakheko chha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Bhotekoshi rafting ko lagi prasiddha thau ho. Rafting garda yaha ka tat le ramailo anubhav dinchha. Adventure premiharu ko lagi yo ek suroopma anupam thau ho.,Bhotekoshi rafting adventure ko prasiddha thau ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Nepali sahitya ma kabita, katha ra upanyas le mahatwa rakheko chha. Yo le hami ko sanskritik pahichan ra samajik sandesh lai prastut garcha.","Nepali sahitya kabita, katha ra upanyas le sanskritik pahichan dekhaunchha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Patan durbar square ek aaitihasik sthaan ho jaha nepali kala ko udaharan dekhna milchha. Mandir, chautara, ra purano rajmahal le yo thau ko sundarta badaauncha.",Patan durbar square kala ra aaitihasik sthaan ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Dhulikhel ek sundar pahadi sahar ho. Yaha bata Himal ko drishya herna ko lagi paryatak haru aauchhan. Clean environment le yaha ko aakarshan badhcha.,Dhulikhel Himal drishya ra clean environment ko sundar pahadi sahar ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din ek garib kishan le jungle ma ek thulo dhunga dekhyo. Dhunga lai utpatang hune bhayeko thaha paayera, usle sochyo ki yo dhunga bechera paisa kamayeko jaala. Tyas karan, usle dhunga uthayera bajaar pugyo, tara kohi bechnu ma ruchi dekhena. Aakhir ma usle yo ek samanya dhunga ho bhanera tyaha faalyo.","Garib kishan le thulo dhunga bechna khojyo, tara tyaslai samanya dhunga sochera faalyo."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek samay, ek budho aama ra unko chhora janmadin manaune tarika ma bech ma aaye. Aama le purano photo album kholi past smritiharu dekhaune bichar garin. Chhorale afno chhoto jeevan ko maya ra sanskriti ko samjhanu parcha bhanera bhaawuk bhayo.",Aama chhora janmadin ma past smritiharu samjhin ra sanskriti ko mahattwa samjhin.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepal ma aakash ra dharti bichko sundar samyojan ho. Himal haru ko uchai ra tarai ko samatal le yo desh lai anupam banayeko chha. Manchhe haru yaha ka prakritik sundarta herna ko lagi manoranthana le aauchhan.,Nepal aakash-dharti ko samyojan ra prakritik sundarta ko desh ho.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek jogi le ek samasya ma pareko jivan ko katha sunaye. Jogi le afno sangharsha ra katha bata sabai lai sahayog ko sandesh die. Yo katha le sabailai prerna ra asha diyeko thiyo.,Jogi le sangharsha ko katha sunayera prerna ra asha diyeko thiyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek jungli bagh le aafno samrajya ko suraksha garna ko lagi ek din bistarai sabai janawar haru lai sammelan ma bolayo. Bag le sabai ko dhanayabad vyakt garera van ra pahad ko santulan banayera rakhnu parcha bhanera aadesh diye.,Bagh le samrajya suraksha ra santulan banai rakhna aadesh diye.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Pokhara sahar ma ek sana katha chha. Ek sana aama le apna bachha haru ko lagi sundar taal herna janekaa thiye. Tyo din ko smriti haru le bachha haru ko jindagi bhar jati ramailo samaya deyeko thiyo.,Pokhara ma aama le bachha haru lai taal herna lagera ramailo smriti diyin.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din, ek sipahi afno duty garna Nepal ko ek himal ma base. Tyaha ko tandoor chiso le usko jeevan ma sangharsha dekhaayo. Tara, usle afno sahas ra samarpan ko sabable jeevan ma pragati garna sakyo.",Sipahi le himal ko sangharsha ma sahas ra samarpan le pragati garna sikyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek gaun ma ek manche ko manusya pani ko abhav le dukhith thiyo. Usle ek din afno pura village lai nai samriddha banaucha bhanera aawashyak kaam suru garera ek naya aayojana banayo.,Ek manche le gaun ko pani ko samasya hal garna aayojana banayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek budha manche ek thulo jungle ma bhule. Tyo jungle ma sabai prakriti le manasik shanti diyaune ko udaharan thiyo. Jungle ma sadhai ko lagi ti budha rahe ra shanti ko sandesh failaune nirnaya gare.,Budha jungle ma bhule ra shanti failaune nirnaya gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Kathmandu ma ek naaya school khuliyo jaha sabai prakar ka bachha haru lai barabar sikshya diyinchha. Yo school le adhyayan ko kshetra ma adhunik pravidhiko prayog garna suru gareko chha.,Kathmandu ko naaya school sabai lai barabar sikshya dinchha ra pravidhiko prayog garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Chitwan ma ek din ek chorale jungle ma bhagna khojyo. Tara, tyaha ko prabandhan ra janawar ko sahayog le usle tyaha ko prakriti ma maya garna suru gareko katha suru bhayo.",Chorale jungle ko prakriti ma maya garna sikyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Bhaktapur ma ek narile afno parampara haru bachaucha bhanera dherai karyakram ma bhaag liyin. Parampara ko mahattwako bare ma barambar samasya haru dekhaune kosish gare.,Bhaktapur ma narile parampara bachuna karyakram garin.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek kisan le afno bari ko tarakari bechna baajaar pugera dherai becha. Tarakari bechi uthaune paisa le, usle afno pariwaar lai sukha ra samriddha banaucha bhanera sochyo.",Kisan le tarakari bechera pariwaar ko sukha ko sapana dekhe.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Tansen ek sundar pahadi sahar ho. Ek din tyaha ek paryatak aayera tyo thau ko pura itihas ra sanskriti ko bare ma dherai kura sikera bidesh ma samjhaune niyam gare.,Tansen ma paryatak le itihas ra sanskriti ko bare ma sikyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Lumbini ma Gautam Buddha ko janmabhumi ko bare ma prasiddhi failai rahane karyakram ek abaad raheko sthiti ma cha. Yo sthal ko prasiddhi badhaune kaam lagatar cha.,Lumbini ko prasiddhi badhaune karyakram lagatar chha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din ek gaun ko budho manche le afno purano samay ko katha sunayo. Tyo katha ma unko sangharsha, unko shiksha, ra tyo shiksha bata paayeko anubhav le purai gaun ka manchhe haru prabhabit bhae.",Budho manche ko sangharsha ko katha le sabai prabhabit bhae.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek sipahi le aafno purano yuddha ko anubhav sunayo. Usle sathi haru lai yuddha ko kathinai, shanti ko mahatwa, ra ekata le kasto balyo samaj bancha bhanera sikayo.",Sipahi le yuddha ko kathinai ra shanti ko mahatwa sikhayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din, ek sanakisan le afno bari ma ek anutha biruwa lageko dekhe. Tyas biruwa bata usle ramro tarika le tarakari utpaadan garera pura gaun lai madad garne yojana suru garayo.",Sanakisan le biruwa utpaadan gari gaun lai madad garne sochyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek bideshi le Manang ma ramailo yatra suru gare. Tyaha ko himal, taal, ra local manchhe haru ko sanskritik thulo aakarshan ma pareko anubhav le u usko desh ma yatra ko prachaar garna thalyo.",Bideshi le Manang ko himal ra sanskriti ko prachaar garna thalyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek chhoro le afno aama ko ichha pura garna parikshya ma ramro padai gareko katha thiyo. Usle sangharsha ra mehnat le sapana pura garna sakincha bhanera sikhayo.,Chhorale aama ko ichha pura garna sangharsha ra mehnat gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Pokhara ko Fewa taal ma ek jodi paryatak haru boating gariraheka thiye. Tyo boating ko samay uniharuko sabai bhanda ramailo yatra ko yaad baneko thiyo.,Fewa taal ma jodi ko boating ramailo yaad banayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din, ek chhoro le gaun ko purano mandir ko raksha garna prabhu ko agadi bhandapast garne nirnaya gare. Usko sankalpa le pura gaun ko manchhe haru ma naya aasako sanchar bhayo.",Chhorale mandir raksha ko sankalpa gari gaun ma aasako sanchar gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Kathmandu ma ek naye cafe khuliyo. Tyaha, local khaja haru sangai art display haru ko thulo demand thiyo, ra tyo thau creativity ko ek ramro udaaharan baneko thiyo.",Kathmandu ma naye cafe local khaja ra creativity ko udaaharan banayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek budho manche le bachha haru sanga afno balyakal ko ramailo katha haru sunthyo. Tyo katha le bachha haru ma purano samay ra sanskritiko bare ma roch garayo.,Budho manche ko katha le bachha haru ma sanskritiko roch jagayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Lumbini ma ek jogi le meditation ma baachne tarika ra shanti ko bare ma sikayeko katha thiyo. Tyasle local manchhe haru ma aatma shanti ko sandesh failayo.,Jogi le Lumbini ma meditation ra shanti ko sandesh failayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Biratnagar ma ek diwash karyakram ma local manchhe haru le afno culture ko bibhinna roop haru pradarshan gare. Yo karyakram le sabai manchhe haru ma garva jagayo.,Biratnagar ko karyakram le culture pradarshan ra garva jagayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Dhulikhel ma ek aama le himal herda herda afno chhora sanga sundar sapana ko kura garin. Tyas sapana le chhora lai nai naya sochnu parcha bhanera prerna diyo.,Aama ko sapana ko kura le chhora lai prerna diyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek kisan le afno paddy field ma ek chamkilo pathar dekhe. Usle tyas pathar ko rahasya pataa lagaaune karyakram suru gare.,Kisan le field ma chamkilo pathar ko rahasya khojne sochyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Nepal ma paryatan ko bibidh sambhavana cha. Himal trekking, rafting, jungle safari, ra religious tourism haru le deshko arthik sthiti balyo banaucha.","Nepal ko trekking, rafting, ra tourism le arthik sthiti balyo banaucha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek purano gaun ma ek legend thiyo ki ek din Himal ma ek dhanako bhandar khojinecha. Manchhe haru le tyaha nai basera tyas dhan khojne nirnaya gare.,Gaun ma Himal ko dhan khojne legend le manchhe haru basera khojna suru gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din, ek guru le afna chela haru lai ekata, daya, ra samarpan ko mahatwa sikayeko thiyo. Yo sikshya le uniharuko samaj sudhaarne baani banayo.",Guru le ekata ra daya sikayera samaj sudhaarna prerna diyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Sagarmatha National Park ma ek din paryatak haru le snow leopard dekhe. Tyasle uniharulai prakriti ko mahatwa ra raksha ko bare ma gehrayilo soch garna badhayo.,Sagarmatha ma snow leopard dekhda prakriti raksha ko soch badhyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Chitwan ma ek din ek narile gaun ko khel ma hissa liyin. Tyo khel gaun ko parampara ra samuhik jeevan ko sundar udaharan baneko thiyo.,Narile Chitwan ma parampara ko khel ma hissa liin.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek chhora le aama lai ek sundar upahar dina parvat chadhne yojana suru garayo. Usle tyo sapana pura garna purai team lai samarthan ma rakhyo.,Chhorale aama lai upahar dina parvat chadhne yojana suru gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Janakpur ma ek diwash karyakram le Sita ko sanskriti ko bare ma vibhinna aayaam samjhaune prayash gare. Yo karyakram le sthaniya manchhe haru ma purano sanskriti ko pratiya bhavna jagayo.,Janakpur karyakram le Sita ko sanskriti samjhaune prayash gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din, ek saano katha gaun ma ek bideshi bhid antardhyan bhayo. Usle gaun ko manchhe haru sanga nepal ko sanskriti sikhe ra afno deshma sanskritiko prachaar garna samarpit bhayo.",Bideshi le gaun ko sanskriti sikhera prachaar garna samarpit bhayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek baaje le afno jagga ko bansuri bajayera dherai lok geet gaye. Tyo geet le pura gaun lai ramailo diyeko ra aafno sanskriti lai sambhaalne prayash bhayo.,Baajele bansuri bajayera sanskriti sambhaalne prayash gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Lalitpur ma ek purano ghanti bigrayera bolna sakena. Tyas ghanti ko murti tikaune tippani gareko ek karyakram le purano sanskritiko gaurav hercha garne prayash gareko thiyo.,Lalitpur ko purano ghanti tikaune karyakram sanskriti gaurav ka lagi thiyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek shikshak le ek gaun ma afno bachha haru sanga prashasan ko samasya ko barema karyakram gare. Tyo karyakram le samasya ko samadhan ka rasta khojne chahana jagayo.,Shikshak le samasya samadhan ko rasta khojne karyakram gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Dhankuta ma ek nepali kavi le ek sahitya manch ma afno kavitaharu prastut gare. Tyo kavitaharu le prem, sanskriti, ra jeevan ko sundarta ko barema prerna diye.",Dhankuta ma kavi le prem ra sanskriti ko barema kavitaharu diye.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek kisan le khet ma ek anutha bhari tarakari paayo. Tyo tarakari ko bech bhaye pachi afno pariwarko jeevan sudhaarne sapana dekhe.,Kisan le anutha tarakari bechera pariwarko jeevan sudhaarne sochyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Gorkha ma ek purano khandahar ma purana katha ko sandesh khojne prayash gare. Tyo sandesh le samudayik ekata ra sanskritiko mahattwako siksha diye.,Gorkha khandahar ko katha le ekata ra sanskriti ko siksha diye.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Sagarmatha ma ek expedition team le ek din barfi himal ma vishram gare. Tyaha ko sundarta ra shanti ko anubhav le sabailai naya urja diye.,Expedition team le Sagarmatha ko shanti ra sundarta anubhav gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek purano bato ma ek jogi le bhikhari haru sanga jeevan ko mahatwa ko barema kura gare. Tyasle sabai lai jeevan sudhaarne mahatwako barema anubhav karayo.,Jogi le bhikshuk haru lai jeevan sudhaarne mahatwa ko siksha diye.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Pokhara ma ek din samudayik program ma sabai sathiharu sanga taal ko ramailo kura ra dherai sanskriti geet gaye. Yo program le purano mitrata jhagayo.,Pokhara program le taal ra geet ko madhyam bata mitrata jhagayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek sikshak le ek purano samudayik gharsanga lagaane tarika ko barema bachha haru sanga karyakram gare. Tyo sikshale uniharulai samaj sewa ko guruthilo siksha diye.,Shikshak le samaj sewa ko siksha diye.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Terai ko jungle ma ek raat ko samaya ma ek manchhe le bagh ko shikaar dekhyo. Usle tyo bagh ko raksha garne nirnay gare.,Manchhe le Terai ko jungle ma bagh ko raksha garne sochyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Janakpur ma ek samay ek sundar barsha ma sabai sanskritik karyakram gare. Barsha ko sundarta ra samajik ekata ko mahattwa dekhne thiyo.,Janakpur barsha ma sanskritik karyakram le ekata dekhayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek guru le afna sabai chela harulai himal ma ekta ra sahas ko mahattwako barema bhasan diye. Tyasle chelaharuma naya prerna jhagayo.,Guru le chelaharulai ekta ra sahas ko mahattwa sikhayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Bharatpur ma ek sundar mela lageko thiyo, jaha sabai tarika ka manchhe haru milera sanskritiko sundar udaharan pradarshan gare.",Bharatpur ko mela sanskritiko sundar udaharan thiyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek gaun ma ek purano dherai samasya sanga sanghars garne manche thiyo. Tyo manche le samasya ko samadhan khojda pura samudayik ekata banayo.,Manche le samasya hal garera samudayik ekata banayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Jiri ma ek sundar taal ko ramailo smritiharule paryatakharulai maya garna seekhayo. Tyo taal le sundar jeevan ko prerna diyo.,Jiri taal le paryatakharulai sundar jeevan ko prerna diyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Dharan ma ek din ko samay ma sabai baje haru sammelan garera sanskriti ko karyakram gare. Yo karyakram le purano samaya ko gaurav jagayo.,Dharan karyakram le purano samaya ko gaurav jagayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek saano manche le afno chhoto jeevan ma samaj sudhaarne prayash gare. Usle gareko karyale sabai ko jiwanma badalaune prabhav pareko thiyo.,Manche le samaj sudhaarne prayash gare ra badal pare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Mustang ma ek pahadi katha sunne afasar ayo, jaha unharu ko sanskriti ra lok geet haru ko katha ko mahatwa samjhiyeko thiyo.",Mustang ma katha le sanskriti ra lok geet ko mahatwa samjhaune thiyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek ghumto bato ma ek chhoro ra usko budho bau hidedai thiye. Bau le chhoralai afno samay ko kathaharu sunayera jeevan ko asar ra siksha ko barema bujhayo.,Baule chhoralai jeevan ra siksha ko barema sikayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek bidyarthi le ek gaun ma tyo gaun ko sanskriti sikne prayash gare. Tyo siksha le uslai sanskritiko mahatwa bujhna ra bhavishya ma prachaar garna sahayak bhayo.,Bidhyarthi le gaun ko sanskriti sikera mahatwa bujhe.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Pokhara ma ek sundar din, paryatak harule taal ko sundarta herda art gallery pani herne thalyo. Tyas gallery le taal ko sundarta ra art ko sambandh dekhayo.",Pokhara taal ra art gallery le sundarta ko sambandh dekhayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek baje le ek samuhik karyakram ma purano lok geet bajayera purano samay ra sanskriti ko barema kura gare. Sabai le purano din ko katha anubhav gare.,Baje le lok geet bajayera purano samay ko katha anubhav garaune kaam gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Terai ma ek mela lageko thiyo, jaha sabai manche haru le afno afno sanskriti ko pradarshan gare. Tyo mela ekatako sundar udaharan thiyo.",Terai mela sanskriti ra ekata ko sundar udaharan thiyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek chhoro le afno gaun ko purano ghar ko samrakshan garna nirnay gare. Usko prayash le gaun ko sanskriti ko garima hercha garne aasha jagayo.,Chhorale purano ghar samrakshan garera sanskritiko garima sambhaale.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek gaun ma ek mahila le sanga sanga basera sabailai padhne karyakram suru gare. Tyo karyakram le samaj sudhaarne ra siksha ko mahatwa bujhayo.,Mahilale siksha karyakram suru gari samaj sudhaarne prayash gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Kathmandu ko ek purano dhunge dhara ma manchhe haru bhetera purano samay ko kura garthyo. Tyasle sanskriti ko mahatwa sabailai smaran garayo.,Kathmandu dhunge dhara le sanskritiko mahatwa smaran garayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din ek shikshak le afno purano karyalaya ma ekta, samanta, ra sangharsha ko barema bhasan diye. Tyo bhasan le bidhyarthi harulai jeevan ko kura bujhna madad gare.",Shikshak le ekta ra sangharsha ko bhasan diye.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek gaun ma ek saano chhori le sapana ko barema kura garera sabai manchhe harulai unko buddhi ra aasha le prabhavit gare.,Chhorile sapana ko kura gari manchhe harulai prabhavit gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din, ek samudayik sammelan ma Himal ma jeevan ko kathinai ko barema kura gare. Tyasle sabailai ek apuro jeevan ko yathartha sikayo.",Sammelan le Himal ko kathinai ko yathartha sikayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Gorkha ma ek sipahi le afno yuddha ko anubhav ra shanti ko mahatwa ko barema kura gare. Tyasle shanti ra ekatako sandesh failayo.,Sipahi le shanti ra ekatako sandesh failayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek jana sipahi le afno pariwar ra gaun ko raksha ko barema mahattwako katha sunayo. Tyas katha le sabailai prerna diyeko thiyo.,Sipahile pariwar ra gaun ko raksha ko katha bataya.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek mahila le himal ma taraka herera sundar katha banai. Tyas katha le sundar jeevan ko tasbir sabailai diyeko thiyo.,Mahilale himal herera sundar jeevan ko katha banai.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek taalim ma gaun ka kisan harule sanghai ramro utpaadan kasari garnesikdai sanskritiko prabhav ko barema bujhne karyakram suru gare.,Kisan harule ramro utpaadan ra sanskriti ko prabhav sikhe.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek yogi le parvat chadera meditation ko mahatwa ko barema kura gare. Tyasle swastha ra shanti ko sandesh failayo.,Yogi le meditation le swastha ra shanti failayo bhanera sikhayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek purano ghar ma ek sammelan lagayera purano sanskritiko katha sunayo. Tyo katha le sanskriti ko prabhav ko barema samaj bujhayo.,Sammelan le purano sanskritiko katha samaj bujhayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek gaun ma ek sundar taal ko ramailo kura sunaiyo. Tyo taal ko katha le sabailai aakarshit ra anandit banayo.,Taal ko katha le sabailai aakarshit ra anandit banayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek jogi le taraka ko madhyam bata manavata ra daya ko mahatwa ko sandesh pathaye. Tyo sandesh le sansar ma shanti ko aasha jagayo.,Jogi le daya ra shanti ko sandesh pathaye.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek gaun ma purano mandir ko samrakshan ka lagi ek yojana suru bhayo. Gaun ka sabai manche le saath diyera tyo yojana ko sambhavna dekhaune prayash gare.,Gaun le mandir ko samrakshan ka lagi ek yojana suru gare.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek scientist le Mars ma water ko evidence khojcha. Aba photos bata thaha huncha ki Mars ko surface ma dry river bed jasto structure chha. Aba manche haru le sochcha ki Mars ma pani life huna sakcha.,Mars ma dry river bed ko structure le water ko evidence dekhauncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Chernobyl disaster 1986 ma vayo, jun ekdam thulo nuclear accident ho. Aba reactor explode hune bittikai radioactive materials hawa ma felliyo. Aba manche haru ajhai tyaha ko asar mahsoos garchhan.",Chernobyl disaster ma reactor explode bhayera radioactive material felliyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Jurassic Park movie ma scientist haru le dinosaur clone garchhan DNA bata. Aba ek island ma dinosaur ko park bancha. Tara dinosaur le control out bhayera sabai bigarcha.,"Jurassic Park ma dinosaur ko park bancha, tara uniharu control out huncha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek manche le time travel gareko dream dekcha. Aba future ma gaera flying cars ra robots hercha. Aba usko sapana yo sabai reality ma possible huncha bhanne soch dindacha.,Ek manche le future ko flying cars ra robots time travel dream ma hercha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepal ko first satellite 'NepaliSat-1' 2019 ma launch vayo. Aba yo satellite le Nepal ko weather monitoring ra data collect garna madat garcha. Yo ekdam proud moment thiyo Nepali haru ko lagi.,NepaliSat-1 le weather monitoring ra data collect garna madat garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Harry Potter series ekdam popular chha. Aba Harry le Hogwarts ma magic sikcha ra Voldemort sanga fight garchha. Aba usko courage le sabai friends ra school bachcha.,Harry Potter ma Harry le Voldemort sanga fight garera sabai bachcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek farmer le hybrid seeds use garyo, jun weather resistant thiyo. Aba usko production ekdam ramro bhayo, ra usle arko season ma dherai crops ugauna thalyo. Aba usko neighbours le ni yesto seeds try gare.",Hybrid seeds le ek farmer ko production ramro banayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek robot le human feelings copy garna thalcha. Aba manche haru ussanga interact garna thalcha. Aba last ma robot le accept garcha ki usko emotions real hoina tara usle sabai lai help garna sakcha.,Ek robot le human emotions copy garera manche lai help garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Mount Everest summiting ekdam challenging task ho. Aba sherpa haru ko madat bina ta summit garnu garo huncha. Aba ek team le snowstorm ma struggle garepachi pani Everest summit garyo.,Mount Everest summit ma sherpa ko madat ekdam important chha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,The Matrix movie ma Neo le virtual world ra real world ko sachai bujcha. Aba usle ek digital system sanga ladnu parcha jaha usko freedom ko lagi sabai kura ma challenge huncha.,The Matrix ma Neo le virtual ra real world ko sachai bujcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din ek painter le ekdam realistic painting banauchha, jasma mountains ra rivers sabai natural dekhcha. Aba yo painting ekdam popular huncha ra usle award ni jitcha.",Ek painter ko realistic painting popular bhayera award jitcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek famous scientist Nikola Tesla le wireless electricity ko experiment garya thiyo. Aba usle sochyo ki ek din sansar wireless power system use garcha. Aba Tesla ko ideas aaj pani futuristic jasto lagcha.,"Tesla le wireless electricity ko experiment garyo, jasle future inspire garcha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Bhagavad Gita ma Krishna le Arjun lai life ko philosophy ko barema sikauchha. Aba usle karma garna ko importance ra positivity ko barema sikauchha. Yo grantha sabai ko lagi ekdam inspiring chha.,Bhagavad Gita ma Krishna le Arjun lai karma ra positivity ko barema sikauchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ekta Kapoor ko daily soaps ma dherai twists huncha. Aba ek show ma lead character die garepachi aarkai janma lera farki aauchha. Aba audience le yo storyline ekdam entertaining maanchha.,Daily soaps ma twists jasle story interesting banaunchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Apollo 11 mission le sabai ko sapana pura garyo jab Neil Armstrong le first step rakheko thiyo moon ma. Aba 'one small step for man, one giant leap for mankind' bhanne line popular bhayo.",Apollo 11 mission le moon ma first step rakhera history banayo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Einstein le relativity theory develop gare. Aba yo theory le samjhauncha ki time ra space ekdam interconnected chhan. Aba fast speed ma travel garda time slow huna sakcha, jasto ki space travel ma.","Relativity theory le time ra space interconnected bhancha, ra fast travel garda time slow hunchha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Newton le gravity ko discovery gare, jun apple ground ma girepachi unko dimaag ma aayo. Aba yo theory le samjhauncha ki har ek object ma attraction force huncha, jun usko mass ra distance le depend garcha.","Newton le gravity ko theory explain garyo, jun force mass ra distance ma depend garcha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Apollo 13 mission ekdam risky vayo. Aba spaceship ma problem aayo, jasle astronaut harulai earth ma safely return huna garo banayo. Tara NASA ko teamwork le uniharu lai bachayo.","Apollo 13 mission risky thiyo, tara NASA ko teamwork le astronaut haru bachayo."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din ek dog harayo ra ek baccha le uslai khojna suru garyo. Aba dog ek arko thau ma trap bhaeko thiyo. Baccha le dog rescue garepachi, dog usko sabai thulo problem ma madat garna thalcha.",Ek baccha le harayeko dog rescue garyo ra dog usko madat garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,The Lion King movie ma Simba le apno bauba ko dream fulfill garna struggle garcha. Aba usle Scar sanga ladcha ra apno rajya reclaim garcha. Movie le family ra courage ko importance sikauchha.,The Lion King ma Simba le courage ra family ko importance sikcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Mount Everest climb garnu ekdam tough task ho. Aba manche haru physical fitness ra sherpa ko madat le summit garcha. Aba uniharu le tyaha ko challenging weather sanga battle garna parcha.,"Mount Everest climb ma fitness, sherpa ko madat, ra weather battle garna parcha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Black hole ko discovery le sansar ko physics ma dherai new theories aayo. Aba black hole ko event horizon bhitra time rakhyo bhane usle bahira auna sakdaina bhanne concept ekdam interesting chha.,Black hole discovery le event horizon ko unique concept dekhauncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,3 Idiots movie ma Rancho le sikai ekdam ramailo huncha bhancha. Aba rote sikne process chhodera practical knowledge ma focus garna bhancha. Usko lesson sabai student ko lagi useful chha.,3 Idiots ma Rancho le practical knowledge ma focus garna sikaucha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek farmer le drone use garera apno farm monitor garcha. Aba usle pests ko problem detect garyo ra usko crops save garna sakyo. Aba technology le farming ma ekdam improvement aayo.,Drone le farmer lai farm monitor garna ra crops save garna madat garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Spider-Man: No Way Home ma Peter le multiverse ko problem face garcha. Aba Doctor Strange le usko madat garcha, tara villains haru sanga fight gardai usle apno life sacrifice jasto situation ma pugcha.",No Way Home ma Peter le multiverse ko problem solve garcha ra sacrifice garna tayar huncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek scientist le AI robot develop garcha jun human emotions feel garna sakcha. Aba yo robot le manche ko psychology samjhera usko problems solve garna thalcha. Aba manche haru usko ability admire garcha.,AI robot le human emotions feel garera manche ko problem solve garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Mars rover Perseverance le red planet ko surface explore garirahechha. Aba usle soil samples collect garera scientists lai Mars ko geology ko barema thaha dina madat garcha.,Mars rover Perseverance le soil samples collect garera Mars ko geology ko information dincha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,The Matrix movie ma Neo le realize garcha ki real world matrix ko control ma chha. Aba usle system ko rules break gardai apno freedom ko lagi fight garcha.,The Matrix ma Neo le matrix ko rules todera freedom ko lagi fight garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek teacher le ek weak student lai encourage garcha ra usko talent recognize garcha. Aba student le competition ma participate garera first prize win garcha.,Ek teacher le student lai encourage garera usko potential dekhauncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Nepal ma Lhosar festival ekdam popular chha. Aba yo festival ko time ma family haru ekatra hunchan ra delicious food prepare garincha. Aba dance ra music le celebration ko maza badhcha.,"Lhosar ma family ekatra hunchan, delicious food khancha ra celebration garincha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek scientist le underwater robot design garyo, jun deep sea ma data collect garna sakcha. Aba usle ocean floor ko mapping ra marine life ko study garna madat garcha. Aba yesto invention le science field ma progress huna sakcha.",Underwater robot le ocean mapping ra marine life study ma madat garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din ek bachha le old camera use garna sikcha. Aba usle apno ghar ko pura photo album create garcha. Aba old technology ko mazza samjhera, sabai ko attention tancha.",Ek bachha le old camera le photo album create garcha ra sabai ko attention tancha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,The Flash movie ma Barry Allen le time travel garna sikcha. Aba usle past ma gaera apno mistakes thik garna khocha. Tara usle realize garcha ki time change garda future ko problem ma asar parcha.,"The Flash ma Barry le time travel garera mistakes fix garna khocha, tara problem create huncha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,COVID-19 vaccine le millions of people ko life save garyo. Aba yesto vaccine le immunity build garna madat garcha ra pandemic control ma help garyo. Yo ekdam significant medical achievement ho.,COVID-19 vaccine le immunity build garera pandemic control ma madat garyo.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek din ek painter le ekdam beautiful landscape painting banaucha. Aba usle hills, rivers, ra sunset ko view include garera sabai impressed huncha. Aba tyo painting ek art gallery ma rakhincha.",Ek painter le beautiful landscape painting banayera art gallery ma rakhcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,NASA ko Artemis mission le moon base establish garna plan garcha. Aba yo mission le human exploration ko lagi next step hunechha ra space ma living ko possibilities explore garcha.,Artemis mission le moon base establish garera space exploration ma progress garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Interstellar movie ma Cooper le black hole ko barema research garna space travel garcha. Aba usle family ko maya ra future ko science ko bich ma decision lina parcha. Movie ekdam emotional chha.,Interstellar ma Cooper le science research ra family ko bich decision lanchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek farmer le organic farming suru garcha, jun modern chemicals use gardaina. Aba usko crops healthy huncha ra market ma high demand huncha. Aba usko story le arka farmers lai inspire garcha.",Organic farming le healthy crops produce garchha ra farmer inspire garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek space scientist le asteroid impact ko simulation run garcha. Aba simulation le dekhauncha ki future ma asteroid collision avoid garna early detection ekdam zaruri chha. Aba yesto research le human survival ko lagi madat garcha.,Asteroid impact simulation le early detection ko importance dekhauncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek documentary ma Everest climb garne process dekhauncha. Aba preparation, sherpa ko role, ra harsh weather condition sanga battle garne kura highlighted chha. Aba documentary educational ra inspiring chha.","Everest documentary preparation, sherpa role, ra challenges highlight garcha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek teacher le visually impaired students ko lagi braille script sikaucha. Aba students le books ra stories easily padna sikchan. Aba yo approach le uniharu ko confidence build garcha.,Teacher le visually impaired students lai braille sikayera uniharu ko confidence build garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek football player le World Cup final ma last-minute goal score garcha. Aba usko team win huncha ra manche haru uslai hero declare garcha. Aba yo moment ekdam memorable huncha.,Football player le last-minute goal le team win garera hero bancha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek wildlife photographer jungle ma rare snow leopard ko photo capture garcha. Aba usko photo award-winning huncha ra conservation campaign ma use huncha.,Wildlife photographer le snow leopard ko photo capture garera award jitcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek coder le AI system banaucha jun healthcare ma patient ko diagnosis garna help garcha. Aba yo system le doctor ko workload reduce garcha ra accurate results dincha.,AI system le healthcare ma diagnosis garera doctor ko workload reduce garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek day hiking group le hidden waterfall discover garcha. Aba tyo place sabai ka lagi natural beauty showcase huncha ra tourism boost garcha.,Hiking group le hidden waterfall discover garera tourism boost garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek scientist le gene editing technology CRISPR use garera diseases cure garna plan garcha. Aba usko experiment le complex diseases ko treatment ko possibilities kholcha.,CRISPR technology le diseases cure garera treatment possibilities explore garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek student le robotics competition ma participate garcha. Aba usko robot autonomous system use garera task complete garcha ra first prize jitcha.,Robotics competition ma student ko robot le first prize jitcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Nepal ma Tihar festival ekdam ramailo chha. Aba tika lagaune, lights jalaune, ra kukur ko puja garera yo festival celebrate huncha. Aba yo festival family ra culture ko importance highlight garcha.","Tihar festival ma tika, lights, ra kukur puja le family ra culture ko importance dekhauncha."
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek researcher le Everest region ko glaciers ko study garcha. Aba usle climate change ko karan le ice melting rate ekdam badheko report garcha. Aba yo research le awareness ma madat garcha.,Glacier study le climate change le ice melting rate badheko dekhauncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Avengers: Endgame ma Iron Man le Thanos sanga battle garera universe bachcha. Aba usle Infinity Stones use garera snap garchha, tara tyo act le usko life sacrifice garcha.",Avengers: Endgame ma Iron Man le universe bachcha ra apno life sacrifice garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek young artist le street walls ma mural banaucha. Aba usko artwork le city ko environment decorate garcha ra awareness message spread garcha.,Street murals le city decorate garera awareness message spread garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek din ek bachha le butterfly catch garna khocha. Aba usle realize garcha ki butterflies lai enjoy garna ko lagi free rakhnai ramailo huncha. Aba usko sochle usko friends lai inspire garcha.,Ek bachha le butterflies lai free rakhera enjoy garna sikcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Marie Curie le radioactivity ko field ma dherai important research gare. Aba usle X-ray machines develop garna madat garyo, jun aaj medical science ma vital chha.",Marie Curie le radioactivity research garera X-ray machines ma madat garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek old library ma ek rare book discovery huncha. Aba yo book le ancient history ko secrets reveal garcha. Aba scholars le yo discovery ekdam valuable maanchan.,Rare book le ancient history ko secrets reveal garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek marathon runner le first time race ma participate garcha. Aba usle consistent practice ko basis ma top five ma finish garcha. Aba usko dedication sabai lai motivate garcha.,Marathon runner le practice ko basis ma race ma top finish garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,The Shawshank Redemption movie ma Andy le unjust imprisonment face garcha. Aba usle patience ra smartness le freedom ko lagi ek plan banaucha ra successful huncha.,Andy le unjust imprisonment face garera patience le freedom paunchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek scientist le renewable energy ko lagi solar panels ma improvement garcha. Aba usle efficient ra low-cost technology introduce garcha, jun environment friendly huncha.",Scientist le solar panel ko efficiency badhaera environment friendly technology develop garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek cultural festival ma local artists le dance ra songs perform garcha. Aba yo event le visitors lai local traditions ko experience dincha ra tourism boost garcha.,Cultural festival le traditions showcase garera tourism boost garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek software engineer le new app develop garcha, jun time management ma focus garcha. Aba yo app le user ko daily routine organize garna help garcha.",Time management app user ko daily routine organize garna madat garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek wildlife documentary ma jungle ko rare species capture garcha. Aba tyo documentary le species ko conservation ko importance dekhauncha.,Wildlife documentary le rare species conservation ko importance highlight garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek villager le rainwater harvesting system setup garcha. Aba yo system le drought ko problem solve garna madat garcha ra unko community ko pani ko shortage fix huncha.,Rainwater harvesting le drought ko problem solve garera pani ko shortage fix garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,The Dark Knight movie ma Batman le Joker ko chaotic plans stop garcha. Aba usko moral decisions le Gotham city ko safety ma focus garcha.,The Dark Knight ma Batman le Joker stop garera Gotham city ko safety ma focus garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek student le apno hobby photography ma dherai ramro huncha. Aba usko photos competitions ma select huncha ra usle awards win garcha.,Photography ma student ko hobby le awards jitcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek mountain climber le K2 summit garcha, jun Everest bhanda difficult chha. Aba usko success le climbing community ma ekdam respect paunchha.",K2 summit garera climber le climbing community ma respect paunchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek teacher le online classes ma innovative methods use garcha. Aba unko students le interactive ra fun learning experience paunchhan.,Online classes ma teacher le innovative methods le interactive learning dincha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek city ma green initiative start huncha. Aba locals le trees plant garchhan ra pollution control ko lagi collective effort dinchan.,Green initiative ma locals le trees plant garera pollution control garchhan.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek family le vacation ma beach visit garcha. Aba uniharu ko bonding ma ramailo time spend hunechha ra memories create huncha.,Family vacation ma bonding ra memories create hunchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek nepali writer le novel publish garcha, jun international level ma recognition paunchha. Aba unko story le Nepali culture ko beauty showcase garcha.",Nepali writer ko novel international level ma recognition paunchha ra culture showcase garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek young entrepreneur le eco-friendly packaging company start garcha. Aba yo packaging le plastics ko alternatives provide garcha ra environment safe banaucha.,Eco-friendly packaging company le plastics ko alternative provide garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek wildlife sanctuary ma conservation program start huncha. Aba tyo program le endangered species ko breeding ra survival ko lagi significant impact dincha.,Wildlife sanctuary ko program le endangered species ko survival ma help garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek talented singer le reality show ma participate garcha. Aba usko voice le judges ra audience ko heart jitcha, ra usle competition win garcha.",Reality show ma singer le audience ko heart jitera competition win garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek farmer le drone technology use garera irrigation system efficient banaucha. Aba tyo drone le water distribution proper tarikale garna madat garcha.,Drone technology le farmer ko irrigation system efficient banaucha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek group of friends le forest cleanup campaign organize garcha. Aba campaign le litter ko problem solve garcha ra local wildlife lai safe environment dincha.,Forest cleanup campaign le litter remove garera wildlife ko environment safe banaucha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Harry Potter series ma Harry le Voldemort sanga ladcha ra usko evil plans stop garcha. Aba usko bravery le Hogwarts ra wizarding world save garcha.,Harry le Voldemort ko evil plans stop garera wizarding world save garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek day ek young scientist le battery ko new type invent garcha. Aba tyo battery renewable energy store garna sakcha ra electric vehicles efficient banaucha.,Scientist le renewable energy store garna sakne new battery invent garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek cyclist le Himalayan trail ma solo journey complete garcha. Aba usle extreme weather sanga battle gardai adventure finish garcha.,Cyclist le Himalayan trail ma solo journey finish garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek orphan boy le ek old man sanga guitar sikcha. Aba usle ek music competition ma participate garera apno talent showcase garcha.,Orphan boy le guitar sikera competition ma talent showcase garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek young chef le cooking show ma participate garcha. Aba usko unique recipes le judges impressed garera uslai winner banaucha.,Cooking show ma young chef le unique recipes le winner banchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek day ek village ma flood alert aauchha. Aba villagers le mutual help le evacuation process fast banaucha ra sabai ko safety ensure garcha.,Flood alert ma villagers le mutual help le safety ensure garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek old temple ko renovation project suru huncha. Aba locals le fundraising garera tyo heritage preserve garna madat garcha.,Temple renovation project ma locals le heritage preserve garna madat garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek teacher le virtual reality tools use garera history class interactive banaucha. Aba students le ancient civilizations visually experience garna paunchhan.,Virtual reality le students lai ancient civilizations visually experience garna madat garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek marathon event ma thousands of runners participate garcha. Aba event le health awareness ra fitness ko importance promote garcha.,Marathon event le health awareness ra fitness ko importance promote garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek day ek dog hero banchha jaba usle apno owner lai forest fire bata save garcha. Aba yo event media ma viral huncha ra dog ko courage ko dherai tarif huncha.,Dog le owner lai forest fire bata save garera hero banchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek artist le sand sculpture banayera international art competition ma participate garcha. Aba usko creativity le first prize jitna madat garcha.,Artist le sand sculpture le competition ma first prize jitcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek programmer le blind-friendly app design garcha. Aba yo app le visually impaired users ko navigation ra accessibility ko problem solve garcha.,Blind-friendly app visually impaired users ko navigation problem solve garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek scientist le Mars colony ko blueprint develop garcha. Aba tyo blueprint le human life sustain garna ko lagi advanced technology explore garcha.,Mars colony blueprint le human life sustain garna technology explore garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek popular cricket match ma underdog team le champion team lai haraucha. Aba uniharu ko performance le fans ko dherai appreciation paunchha.,Underdog team le champion team lai harayera fans ko appreciation paunchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek traveler le hidden village visit garcha, jaha local culture ko unique practices observe garcha. Aba unko story le tourism industry ma naya focus leauchha.",Traveler le hidden village ko unique culture explore garera tourism promote garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek old man le apno garden ma organic vegetables grow garcha. Aba usle tyo vegetables sell garera local market ma fresh produce ko demand fulfill garcha.,Old man le organic vegetables grow garera local market ko demand fulfill garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek space mission ma astronaut le International Space Station repair garcha. Aba unko hard work le mission successful huncha ra scientific experiments continue huncha.,Astronaut le ISS repair garera mission successful banaucha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek musician le street performance le start garcha. Aba usko music ko melody le passerby ko attention tancha ra usle support receive garcha.,Street performance ma musician ko melody le manche ko attention tancha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek city ma robot delivery system test huncha. Aba tyo system le fast ra contactless delivery ko convenience provide garcha.,Robot delivery system le fast ra contactless delivery provide garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,"Ek student le online platform bata coding sikcha. Aba usle apno first mobile app launch garcha, jun user-friendly chha.",Student le coding sikera first mobile app launch garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek couple le abandoned puppy rescue garcha. Aba puppy uniharu ko ghar ma happy family member banchha.,Couple le puppy rescue garera happy family member banaucha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek artist le virtual reality use garera 3D art exhibition host garcha. Aba visitors le immersive experience enjoy garchhan.,VR exhibition ma artist le immersive 3D art showcase garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek teenager le bike tour ma entire country explore garcha. Aba usko journey stories le social media ma inspiration spread garcha.,Teenager ko bike tour journey le social media ma inspiration spread garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek day ek journalist le small village ko untold story cover garcha. Aba tyo article le government ko attention tanera village ko problems solve garna madat garcha.,Journalist ko article le village ko problems solve garna government ko attention tancha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek group of students le plastic-free campaign start garcha. Aba unko efforts le school ra community ma awareness increase garcha.,Students ko plastic-free campaign le school ra community ma awareness spread garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek swimmer le Olympic level competition ma represent garcha. Aba usko determination le gold medal jitna madat garcha.,Swimmer le Olympic competition ma gold medal jitna determination dekhauncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek tourist le Nepali food ma momo ra sel roti ko taste enjoy garcha. Aba usle social media ma Nepali cuisine ko dherai tarif garcha.,Tourist le momo ra sel roti enjoy garera Nepali cuisine ko tarif garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek mountaineer le winter season ma difficult peak summit garcha. Aba unko bravery le adventure community ma respect paunchha.,Mountaineer le winter summit garera adventure community ma respect paunchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek Nepali football team le regional championship ma unexpected victory paunchha. Aba tyo victory le nation ma unity ra pride leauchha.,Football team ko victory le nation ma unity ra pride leauchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek startup company le affordable electric scooter launch garcha. Aba tyo scooter le eco-friendly transportation promote garcha.,Startup company ko scooter eco-friendly transportation promote garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek birami man lai hospital ma blood donate garera ek stranger ko life save huncha. Aba yo act le usko story local news ma highlight huncha.,Blood donation le stranger ko life save garera story highlight huncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek artist le beach ma sand art banaucha. Aba usko art le environment preservation ko message spread garcha.,Sand art le environment preservation ko message spread garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek child prodigy le mathematics ma extraordinary skills dekhauncha. Aba usle international olympiad ma gold medal jitna sakcha.,Child prodigy le math olympiad ma gold medal jitna skills dekhauncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek author le historical fiction novel publish garcha. Aba tyo novel readers ma dherai popular huncha ra bestseller banchha.,Historical fiction novel bestseller banchha ra readers ma popular huncha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek environmentalist le river cleanup campaign lead garcha. Aba campaign le polluted river lai clean garna dherai help garcha.,Environmentalist ko campaign le polluted river clean garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek boy le apno first science project ma volcano model banaucha. Aba school ma usko creativity ko dherai tarif huncha.,Boy ko volcano model le school ma creativity ko tarif paunchha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek software developer le language translation app develop garcha. Aba yo app le users lai communication easy banaucha.,Translation app le users ko communication easy banaucha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek city ma solar-powered buses operate huncha. Aba yo initiative le pollution reduce garera sustainable transportation promote garcha.,Solar-powered buses le pollution reduce garera sustainable transportation promote garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek young girl le robotics competition ma humanoid robot present garcha. Aba tyo robot le advanced features ko karan judges impressed garcha.,Humanoid robot le advanced features le judges impressed garcha.
+summary,"Talako instruction follow garera user le gareko question ko Roman Nepali Language ma answer vana
+
+","Summarize the following text in Roman Nepali
+",,Ek wildlife photographer le jungle ma rare bird ko photo capture garcha. Aba usko photo international magazine ma feature huncha.,Wildlife photographer ko rare bird photo international magazine ma feature huncha.
