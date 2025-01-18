@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LLM Token Stream Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        #output {
+            border: 1px solid #ccc;
+            padding: 20px;
+            min-height: 100px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        #cursor {
+            display: inline-block;
+            width: 2px;
+            height: 20px;
+            background: #000;
+            animation: blink 1s infinite;
+        }
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>LLM Token Stream Demo</h1>
+    <button onclick="startStream()">Generate Response</button>
+    <div id="output">
+        <span id="text"></span><span id="cursor"></span>
+    </div>
+
+    <script>
+        function startStream() {
+            const textElement = document.getElementById('text');
+            textElement.textContent = '';  // Clear previous content
+            
+            const eventSource = new EventSource('/stream');
+            
+            eventSource.onmessage = function(event) {
+                const data = JSON.parse(event.data);
+                
+                if (data.done) {
+                    eventSource.close();
+                    return;
+                }
+                
+                if (data.token) {
+                    textElement.textContent += data.token;
+                }
+            };
+            
+            eventSource.onerror = function(error) {
+                console.error('EventSource failed:', error);
+                eventSource.close();
+            };
+        }
+    </script>
+</body>
+</html>

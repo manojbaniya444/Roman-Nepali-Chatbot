@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LLM Token Stream Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        #output {
+            border: 1px solid #ccc;
+            padding: 20px;
+            min-height: 100px;
+            margin: 20px 0;
+            border-radius: 8px;
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        #cursor {
+            display: inline-block;
+            width: 2px;
+            height: 20px;
+            background: #000;
+            animation: blink 1s infinite;
+            vertical-align: middle;
+        }
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+        button {
+            padding: 12px 24px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <h1>LLM Token Stream Demo</h1>
+    <button id="generateBtn" onclick="startStream()">Generate Response</button>
+    <div id="output">
+        <span id="text"></span><span id="cursor"></span>
+    </div>
+
+    <script>
+        let eventSource = null;
+
+        function startStream() {
+            const textElement = document.getElementById('text');
+            const generateBtn = document.getElementById('generateBtn');
+            
+            // Clear previous content and disable button
+            textElement.textContent = '';
+            generateBtn.disabled = true;
+            
+            // Close existing connection if any
+            if (eventSource) {
+                eventSource.close();
+            }
+            
+            eventSource = new EventSource('/stream');
+            
+            eventSource.onmessage = function(event) {
+                const data = JSON.parse(event.data);
+                
+                if (data.done) {
+                    eventSource.close();
+                    generateBtn.disabled = false;
+                    return;
+                }
+                
+                if (data.token) {
+                    textElement.textContent += data.token;
+                }
+            };
+            
+            eventSource.onerror = function(error) {
+                console.error('EventSource failed:', error);
+                eventSource.close();
+                generateBtn.disabled = false;
+            };
+        }
+
+        // Clean up on page unload
+        window.onbeforeunload = function() {
+            if (eventSource) {
+                eventSource.close();
+            }
+        };
+    </script>
+</body>
+</html>

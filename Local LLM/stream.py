@@ -13,4 +13,4 @@ def get_stream_response(input_text="", max_length=100):
     for new_text in streamer:
         print(new_text, end="")
         
-get_stream_response("The idea to")
+get_stream_response("Lionel Messi is")
