@@ -35,8 +35,10 @@ async def chat(session_id: str, question: Question):
     else:
         bot = EcommerceBot(intent_model=intent_model, entity_model=entity_model)
         sessions[session_id] = bot
+        
     response = chat_with_bot(question.question, bot)
-    return {"response": response}
+    chat_states = bot.get_chat_states()
+    return {"response": response, "states": chat_states}
 
 if __name__ == "__main__":
     bot = EcommerceBot(intent_model, entity_model)

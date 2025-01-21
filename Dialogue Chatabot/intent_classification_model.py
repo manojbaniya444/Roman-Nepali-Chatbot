@@ -65,7 +65,13 @@ class IntentClassificationModel:
             print(f"Probability", pred.max())
             
         predicted_intent = self.id2label(label)
-        return predicted_intent if pred.max().item() > 0.80 else None
+        intent_predicted =  predicted_intent if pred.max().item() > 0.80 else None
+        prediction_probabilities = pred.squeeze().tolist()
+        pred_probs_dict = dict()
+        
+        for i, pred in enumerate(prediction_probabilities):
+            pred_probs_dict[self.id2label(i)] = pred
+        return intent_predicted, pred_probs_dict
     
     
 if __name__ == "__main__":

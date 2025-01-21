@@ -1,23 +1,6 @@
 from typing import Dict, List, Tuple, Optional
 from preprocess_text import preprocess_text
-
-products_db = [
-            {"id": 1, "name": "IPhone 11", "category": "mobile", "brand": "Apple", "price": 799.99},
-            {"id": 2, "name": "Galaxy S21", "category": "mobile", "brand": "Samsung", "price": 699.99},
-            {"id": 3, "name": "Sony Television", "category": "TV", "brand": "Sony", "price": 179.99},
-            {"id": 5, "name": "Macbook Pro", "category": "laptop", "brand": "Apple", "price": 1299.99},
-            {"id": 6, "name": "Redmi Note 9 pro", "category": "mobile", "brand": "Xiaomi", "price": 999.99},
-        ]
-order_db = [
-            {
-                "Id": "ORD12345",
-                "status": "Processing"
-            },
-            {
-                "Id": "ORD00000",
-                "status": "Shipping"
-            }
-        ]
+from database import products_db, order_db
 import random
 from fuzzywuzzy import process, fuzz
 
@@ -42,14 +25,23 @@ class EcommerceBot:
             "missing_entity": []
         }
         
+        self.raw_entities = None
+        
+        self.probability_intent = None
+                
         self.products_db = products_db
         
-        # keep the context of the last intent and all the entities
-        self.conversation_context = {}
+    def get_chat_states(self):
+        return {
+            "dialogue_states": self.dialogue_manager,
+            "entities": self.raw_entities,
+            "probabilities": self.probability_intent
+        }
         
     def process_message(self, user_message: str) -> str:
         intent = self._predict_intent(user_message)
         entities = self._extract_entities(user_message)
+        self.raw_entities = entities
         
         print(f"Dialogue manager {self.dialogue_manager}")
         
@@ -87,12 +79,12 @@ class EcommerceBot:
     
     def _predict_intent(self, sentence):
         text = preprocess_text(sentence)
-        intent = self.intent_model.predict(text)
+        intent, prediction_probabilities = self.intent_model.predict(text)
+        self.probability_intent = prediction_probabilities
         return intent
     
     def _extract_entities(self, message: str) -> Dict[str, str]:
         entities = self.entity_model.predict(message)
-        print(entities)
         return self._format_entities(entities, message.split())
     
     def fuzzy_search(self, search_term: str, search_type: str) -> List[Dict]:
@@ -126,11 +118,11 @@ class EcommerceBot:
     def format_product_inquiry_message(self, matches: list[dict]):
         message = ""
         for i, product in enumerate(matches):
-            if i == 0:
-                msg = f"Hami sanga product Rs. {product["price"]} parne {product["name"]} xa\n"
+            if i != len(matches)-1:
+                msg = f"Rs. {product["price"]} parne {product["name"]},\n"
                 message += msg
             else:
-                msg = f"Arko Hami sanga product {product["name"]} xa ra yaslai Rs. {product["price"]} parcha.\n"
+                msg = f"ra Rs. {product["price"]} parne {product["name"]} hami sanga available xa.\n"
                 message += msg
             
         return message
