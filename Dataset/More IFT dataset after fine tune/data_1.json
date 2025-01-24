@@ -1,0 +1,567 @@
+[
+    {
+        "question": "Redmi Note 9 Pro ko price kati ho?",
+        "context": "Redmi Note 9 Pro ek popular smartphone ho. Yesko price 12000 ho. Yesma 128 GB SSD ra Gorilla Glass jastai features available cha.",
+        "response": "Redmi Note 9 Pro ko price 12000 ho. Yesma 128 GB SSD ra Gorilla Glass cha."
+    },
+    {
+        "question": "Samsung Galaxy Tab A ko barema jankari dinu?",
+        "context": "Samsung Galaxy Tab A ek affordable tablet ho. Isko price 25000 ho ra yesma 10.1-inch display, 64 GB storage, ra Android OS jastai features paaincha.",
+        "response": "Samsung Galaxy Tab A ko price 25000 ho. Yesma 10.1-inch display, 64 GB storage, ra Android OS cha."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko barema jankari dinu?",
+        "context": "Sony WH-1000XM4 ek premium wireless headphone ho. Isko price 35000 ho. Yesma noise cancellation, 30 ghanta ko battery life, ra Bluetooth 5.0 support jastai features cha.",
+        "response": "Sony WH-1000XM4 ko price 35000 ho. Yesma noise cancellation, 30 ghanta ko battery life, ra Bluetooth 5.0 support cha."
+    },
+    {
+        "question": "HP Pavilion 15 ko price kati ho?",
+        "context": "HP Pavilion 15 ek versatile laptop ho. Yesko price 60000 ho ra yesma Intel i5 processor, 8 GB RAM, ra 256 GB SSD storage available cha.",
+        "response": "HP Pavilion 15 ko price 60000 ho. Yesma Intel i5 processor, 8 GB RAM, ra 256 GB SSD storage available cha."
+    },
+    {
+        "question": "Canon EOS 1500D camera ko barema jankari dinu?",
+        "context": "Canon EOS 1500D ek DSLR camera ho. Isko price 45000 ho ra yesma 24.1 MP sensor, Full HD video recording, ra Wi-Fi connectivity jastai features paaincha.",
+        "response": "Canon EOS 1500D ko price 45000 ho. Yesma 24.1 MP sensor, Full HD video recording, ra Wi-Fi connectivity cha."
+    },
+    {
+        "question": "Redmi Note 9 Pro ko features ke-ke ho?",
+        "context": "Redmi Note 9 Pro ek budget-friendly smartphone ho. Isko price 12000 ho ra yesma 128 GB SSD, Gorilla Glass, ra 48 MP triple camera setup jastai features available cha.",
+        "response": "Redmi Note 9 Pro ko features ho: 128 GB SSD, Gorilla Glass, ra 48 MP triple camera setup."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 ko price kati ho?",
+        "context": "Samsung Galaxy Buds 2 ek wireless earbuds ho. Yesko price 15000 ho. Yesma noise cancellation, 5 ghanta battery life, ra Bluetooth 5.2 support cha.",
+        "response": "Samsung Galaxy Buds 2 ko price 15000 ho. Yesma noise cancellation, 5 ghanta battery life, ra Bluetooth 5.2 support cha."
+    },
+    {
+        "question": "Dell Inspiron 15 Laptop available xa?",
+        "context": "Dell Inspiron 15 ek reliable laptop ho. Yesko price 70000 ho. Yesma Intel i7 processor, 16 GB RAM, 512 GB SSD, ra Windows 11 OS cha. Hami sanga Dell Inspiron 15 stock ma available cha.",
+        "response": "Dell Inspiron 15 stock ma available cha. Yesko price 70000 ho. Yesma Intel i7 processor, 16 GB RAM, ra 512 GB SSD cha."
+    },
+    {
+        "question": "Sony Bravia 55-inch TV ko barema jankari dinu?",
+        "context": "Sony Bravia 55-inch TV ek smart TV ho. Yesko price 120000 ho ra yesma 4K Ultra HD display, HDR support, ra Android OS available cha.",
+        "response": "Sony Bravia 55-inch TV ko price 120000 ho. Yesma 4K Ultra HD display, HDR support, ra Android OS cha."
+    },
+    {
+        "question": "Apple Watch Series 7 ko features ke ho?",
+        "context": "Apple Watch Series 7 ek high-end smartwatch ho. Isko price 60000 ho. Yesma retina display, heart rate monitoring, ra 18 ghanta battery life cha.",
+        "response": "Apple Watch Series 7 ko features ho: retina display, heart rate monitoring, ra 18 ghanta battery life."
+    },
+    {
+        "question": "Bose SoundLink Speaker ko price kati ho?",
+        "context": "Bose SoundLink ek portable wireless speaker ho. Isko price 20000 ho ra yesma deep bass, Bluetooth 4.2 support, ra 10 ghanta battery life cha.",
+        "response": "Bose SoundLink Speaker ko price 20000 ho. Yesma deep bass, Bluetooth 4.2 support, ra 10 ghanta battery life cha."
+    },
+    {
+        "question": "Lenovo Legion 5 gaming laptop ko barema jankari dinu?",
+        "context": "Lenovo Legion 5 ek powerful gaming laptop ho. Yesko price 110000 ho. Yesma AMD Ryzen 7 processor, 16 GB RAM, 1 TB SSD, ra NVIDIA RTX 3060 graphics cha.",
+        "response": "Lenovo Legion 5 ko price 110000 ho. Yesma AMD Ryzen 7 processor, 16 GB RAM, 1 TB SSD, ra NVIDIA RTX 3060 graphics cha."
+    },
+    {
+        "question": "Mi Smart Band 6 ko features ke ho?",
+        "context": "Mi Smart Band 6 ek fitness tracker ho. Isko price 4000 ho. Yesma AMOLED display, heart rate monitor, ra 14 din ko battery life cha.",
+        "response": "Mi Smart Band 6 ko features ho: AMOLED display, heart rate monitor, ra 14 din ko battery life."
+    },
+    {
+        "question": "Asus ROG Phone 5 ko price kati ho?",
+        "context": "Asus ROG Phone 5 ek gaming smartphone ho. Yesko price 80000 ho. Yesma 144 Hz AMOLED display, Snapdragon 888 processor, ra 6000 mAh battery cha.",
+        "response": "Asus ROG Phone 5 ko price 80000 ho. Yesma 144 Hz AMOLED display, Snapdragon 888 processor, ra 6000 mAh battery cha."
+    },
+    {
+        "question": "LG Refrigerator 260L ko barema jankari dinu?",
+        "context": "LG Refrigerator 260L ek frost-free refrigerator ho. Isko price 40000 ho. Yesma smart inverter compressor, multi-airflow system, ra toughened glass shelves available cha.",
+        "response": "LG Refrigerator 260L ko price 40000 ho. Yesma smart inverter compressor, multi-airflow system, ra toughened glass shelves available cha."
+    },
+    {
+        "question": "Samsung Galaxy S21 Ultra ko price kati ho?",
+        "context": "Samsung Galaxy S21 Ultra ek flagship smartphone ho. Isko price 140000 ho. Yesma 108 MP quad camera setup, 12 GB RAM, 5G support, ra 5000 mAh battery cha.",
+        "response": "Samsung Galaxy S21 Ultra ko price 140000 ho. Yesma 108 MP quad camera setup, 12 GB RAM, 5G support, ra 5000 mAh battery cha."
+    },
+    {
+        "question": "LG Washing Machine 7kg available cha?",
+        "context": "LG Washing Machine 7kg ek fully automatic washing machine ho. Yesko price 35000 ho. Yesma smart inverter technology, stainless steel drum, ra energy-saving features available cha.",
+        "response": "LG Washing Machine 7kg stock ma available cha. Yesko price 35000 ho. Yesma smart inverter technology, stainless steel drum, ra energy-saving features cha."
+    },
+    {
+        "question": "Canon PIXMA G3010 printer ko barema jankari dinu?",
+        "context": "Canon PIXMA G3010 ek all-in-one printer ho. Isko price 25000 ho. Yesma high page yield ink tanks, wireless printing, ra scanner features cha.",
+        "response": "Canon PIXMA G3010 ko price 25000 ho. Yesma high page yield ink tanks, wireless printing, ra scanner features cha."
+    },
+    {
+        "question": "Sony PlayStation 5 console ko price kati ho?",
+        "context": "Sony PlayStation 5 ek gaming console ho. Isko price 80000 ho. Yesma 825 GB SSD storage, ray tracing support, ra 4K gaming experience available cha.",
+        "response": "Sony PlayStation 5 ko price 80000 ho. Yesma 825 GB SSD storage, ray tracing support, ra 4K gaming experience cha."
+    },
+    {
+        "question": "Philips Air Fryer HD9252 ko features ke ho?",
+        "context": "Philips Air Fryer HD9252 ek compact air fryer ho. Yesko price 15000 ho. Yesma Rapid Air technology, 4.1L capacity, ra dishwasher-safe parts available cha.",
+        "response": "Philips Air Fryer HD9252 ko features ho: Rapid Air technology, 4.1L capacity, ra dishwasher-safe parts."
+    },
+    {
+        "question": "Acer Predator Helios 300 laptop ko barema jankari dinu?",
+        "context": "Acer Predator Helios 300 ek gaming laptop ho. Yesko price 120000 ho. Yesma Intel i7 processor, 16 GB RAM, 512 GB SSD, NVIDIA RTX 3060 graphics card, ra 144 Hz display available cha.",
+        "response": "Acer Predator Helios 300 ko price 120000 ho. Yesma Intel i7 processor, 16 GB RAM, 512 GB SSD, NVIDIA RTX 3060 graphics card, ra 144 Hz display available cha."
+    },
+    {
+        "question": "Nikon D5600 DSLR camera ko price kati ho?",
+        "context": "Nikon D5600 ek DSLR camera ho. Isko price 65000 ho. Yesma 24.2 MP sensor, vari-angle touchscreen display, ra Bluetooth connectivity available cha.",
+        "response": "Nikon D5600 ko price 65000 ho. Yesma 24.2 MP sensor, vari-angle touchscreen display, ra Bluetooth connectivity cha."
+    },
+    {
+        "question": "Dyson V11 vacuum cleaner ko features ke ho?",
+        "context": "Dyson V11 ek premium cordless vacuum cleaner ho. Yesko price 90000 ho. Yesma advanced filtration, LCD display, ra 60 minutes battery backup cha.",
+        "response": "Dyson V11 ko features ho: advanced filtration, LCD display, ra 60 minutes battery backup."
+    },
+    {
+        "question": "Samsung 253L Double Door Refrigerator available cha?",
+        "context": "Samsung 253L Double Door Refrigerator ek frost-free refrigerator ho. Yesko price 45000 ho. Yesma Digital Inverter Technology, toughened glass shelves, ra stabilizer-free operation available cha.",
+        "response": "Samsung 253L Double Door Refrigerator stock ma available cha. Yesko price 45000 ho. Yesma Digital Inverter Technology, toughened glass shelves, ra stabilizer-free operation available cha."
+    },
+    {
+        "question": "JBL Charge 5 speaker ko barema jankari dinu?",
+        "context": "JBL Charge 5 ek portable Bluetooth speaker ho. Isko price 20000 ho. Yesma IP67 waterproof rating, 20 ghanta battery life, ra power bank functionality available cha.",
+        "response": "JBL Charge 5 ko price 20000 ho. Yesma IP67 waterproof rating, 20 ghanta battery life, ra power bank functionality available cha."
+    },
+    {
+        "question": "OnePlus Nord 2 5G ko price kati ho?",
+        "context": "OnePlus Nord 2 5G ek mid-range smartphone ho. Yesko price 50000 ho. Yesma MediaTek Dimensity 1200 processor, 8 GB RAM, 128 GB storage, ra 4500 mAh battery available cha.",
+        "response": "OnePlus Nord 2 5G ko price 50000 ho. Yesma MediaTek Dimensity 1200 processor, 8 GB RAM, 128 GB storage, ra 4500 mAh battery cha."
+    },
+    {
+        "question": "Sony WH-CH510 headphones ko barema jankari dinu?",
+        "context": "Sony WH-CH510 ek wireless headphones ho. Isko price 6000 ho. Yesma Bluetooth 5.0 support, 35 ghanta battery life, ra lightweight design cha.",
+        "response": "Sony WH-CH510 ko price 6000 ho. Yesma Bluetooth 5.0 support, 35 ghanta battery life, ra lightweight design cha."
+    },
+    {
+        "question": "Dell XPS 13 laptop ko features ke ho?",
+        "context": "Dell XPS 13 ek premium ultrabook ho. Yesko price 140000 ho. Yesma Intel i7 processor, 16 GB RAM, 512 GB SSD, 13.3-inch 4K UHD touchscreen display, ra Windows 11 available cha.",
+        "response": "Dell XPS 13 ko features ho: Intel i7 processor, 16 GB RAM, 512 GB SSD, 13.3-inch 4K UHD touchscreen display, ra Windows 11."
+    },
+    {
+        "question": "Apple AirPods Pro available cha?",
+        "context": "Apple AirPods Pro ek premium wireless earbuds ho. Yesko price 38000 ho. Yesma Active Noise Cancellation, Transparency Mode, ra H1 chip jastai features cha. Hami sanga yo product stock ma available cha.",
+        "response": "Apple AirPods Pro stock ma available cha. Yesko price 38000 ho. Yesma Active Noise Cancellation, Transparency Mode, ra H1 chip cha."
+    },
+    {
+        "question": "Samsung QLED 65-inch TV ko barema jankari dinu?",
+        "context": "Samsung QLED 65-inch TV ek premium smart TV ho. Isko price 180000 ho. Yesma 4K resolution, Quantum Dot technology, HDR10+ support, ra Bixby voice assistant available cha.",
+        "response": "Samsung QLED 65-inch TV ko price 180000 ho. Yesma 4K resolution, Quantum Dot technology, HDR10+ support, ra Bixby voice assistant cha."
+    },
+    {
+        "question": "HP DeskJet 2331 printer ko price kati ho?",
+        "context": "HP DeskJet 2331 ek budget-friendly all-in-one printer ho. Yesko price 6000 ho. Yesma printing, scanning, ra copying ko features available cha.",
+        "response": "HP DeskJet 2331 ko price 6000 ho. Yesma printing, scanning, ra copying ko features cha."
+    },
+    {
+        "question": "Logitech MX Master 3 mouse ko features ke ho?",
+        "context": "Logitech MX Master 3 ek advanced wireless mouse ho. Isko price 12000 ho. Yesma ergonomic design, customizable buttons, USB-C charging, ra 4000 DPI sensor available cha.",
+        "response": "Logitech MX Master 3 ko features ho: ergonomic design, customizable buttons, USB-C charging, ra 4000 DPI sensor."
+    },
+    {
+        "question": "Xiaomi Mi 11 Lite smartphone ko price kati ho?",
+        "context": "Xiaomi Mi 11 Lite ek slim design smartphone ho. Yesko price 35000 ho. Yesma AMOLED display, Snapdragon 732G processor, 64 MP triple camera, ra 4250 mAh battery cha.",
+        "response": "Xiaomi Mi 11 Lite ko price 35000 ho. Yesma AMOLED display, Snapdragon 732G processor, 64 MP triple camera, ra 4250 mAh battery cha."
+    },
+    {
+        "question": "Panasonic Microwave Oven NN-SN936 ko barema jankari dinu?",
+        "context": "Panasonic Microwave Oven NN-SN936 ek high-capacity microwave oven ho. Yesko price 28000 ho. Yesma 2.2 cubic feet capacity, inverter technology, ra 1250 watts power available cha.",
+        "response": "Panasonic Microwave Oven NN-SN936 ko price 28000 ho. Yesma 2.2 cubic feet capacity, inverter technology, ra 1250 watts power available cha."
+    },
+    {
+        "question": "Razer BlackWidow V3 keyboard ko features ke ho?",
+        "context": "Razer BlackWidow V3 ek mechanical gaming keyboard ho. Isko price 15000 ho. Yesma RGB lighting, mechanical switches, ra ergonomic wrist rest cha.",
+        "response": "Razer BlackWidow V3 ko features ho: RGB lighting, mechanical switches, ra ergonomic wrist rest."
+    },
+    {
+        "question": "Samsung Galaxy Watch 4 ko price kati ho?",
+        "context": "Samsung Galaxy Watch 4 ek premium smartwatch ho. Isko price 35000 ho. Yesma body composition analysis, Wear OS, ra SpO2 monitoring cha.",
+        "response": "Samsung Galaxy Watch 4 ko price 35000 ho. Yesma body composition analysis, Wear OS, ra SpO2 monitoring cha."
+    },
+    {
+        "question": "Asus TUF Gaming A15 laptop ko barema jankari dinu?",
+        "context": "Asus TUF Gaming A15 ek durable gaming laptop ho. Yesko price 90000 ho. Yesma AMD Ryzen 5 processor, 16 GB RAM, 512 GB SSD, NVIDIA GTX 1650 graphics, ra RGB keyboard cha.",
+        "response": "Asus TUF Gaming A15 ko price 90000 ho. Yesma AMD Ryzen 5 processor, 16 GB RAM, 512 GB SSD, NVIDIA GTX 1650 graphics, ra RGB keyboard cha."
+    },
+    {
+        "question": "Realme Buds Air 2 ko features ke ho?",
+        "context": "Realme Buds Air 2 ek wireless earbuds ho. Isko price 7000 ho. Yesma Active Noise Cancellation, 25 ghanta playback time, ra Bluetooth 5.2 support available cha.",
+        "response": "Realme Buds Air 2 ko features ho: Active Noise Cancellation, 25 ghanta playback time, ra Bluetooth 5.2 support."
+    },
+    {
+        "question": "Poco X5 Pro smartphone ko price kati ho?",
+        "context": "Poco X5 Pro ek mid-range smartphone ho. Yesko price 40000 ho. Yesma Snapdragon 778G processor, 108 MP camera, 6.67-inch AMOLED display, ra 5000 mAh battery cha.",
+        "response": "Poco X5 Pro ko price 40000 ho. Yesma Snapdragon 778G processor, 108 MP camera, 6.67-inch AMOLED display, ra 5000 mAh battery cha."
+    },
+    {
+        "question": "Sony Alpha 7C camera ko barema jankari dinu?",
+        "context": "Sony Alpha 7C ek compact full-frame camera ho. Isko price 200000 ho. Yesma 24.2 MP sensor, 4K video recording, in-body stabilization, ra fast autofocus system cha.",
+        "response": "Sony Alpha 7C ko price 200000 ho. Yesma 24.2 MP sensor, 4K video recording, in-body stabilization, ra fast autofocus system cha."
+    },
+    {
+        "question": "Samsung Galaxy Tab S8 ko features ke ho?",
+        "context": "Samsung Galaxy Tab S8 ek high-performance tablet ho. Yesko price 80000 ho. Yesma 11-inch LCD display, Snapdragon 8 Gen 1 processor, 8 GB RAM, ra S Pen support cha.",
+        "response": "Samsung Galaxy Tab S8 ko features ho: 11-inch LCD display, Snapdragon 8 Gen 1 processor, 8 GB RAM, ra S Pen support."
+    },
+    {
+        "question": "Huawei FreeBuds 4i ko price kati ho?",
+        "context": "Huawei FreeBuds 4i ek wireless earbuds ho. Isko price 10000 ho. Yesma Active Noise Cancellation, 10 ghanta battery life, ra quick charge support cha.",
+        "response": "Huawei FreeBuds 4i ko price 10000 ho. Yesma Active Noise Cancellation, 10 ghanta battery life, ra quick charge support cha."
+    },
+    {
+        "question": "MSI GF65 Thin gaming laptop available cha?",
+        "context": "MSI GF65 Thin ek gaming laptop ho. Yesko price 110000 ho. Yesma Intel i5 processor, NVIDIA RTX 3060 graphics card, 16 GB RAM, ra 144 Hz display cha. Hami sanga yo laptop stock ma available cha.",
+        "response": "MSI GF65 Thin stock ma available cha. Yesko price 110000 ho. Yesma Intel i5 processor, NVIDIA RTX 3060 graphics card, 16 GB RAM, ra 144 Hz display cha."
+    },
+    {
+        "question": "Dyson Pure Cool Air Purifier ko barema jankari dinu?",
+        "context": "Dyson Pure Cool Air Purifier ek premium air purifier ho. Isko price 65000 ho. Yesma HEPA filter, real-time air quality monitoring, ra bladeless fan technology cha.",
+        "response": "Dyson Pure Cool Air Purifier ko price 65000 ho. Yesma HEPA filter, real-time air quality monitoring, ra bladeless fan technology cha."
+    },
+    {
+        "question": "Realme 4K Smart Google TV Stick ko price kati ho?",
+        "context": "Realme 4K Smart Google TV Stick ek media streaming device ho. Yesko price 5000 ho. Yesma Android TV 11, Google Assistant, ra 4K HDR support available cha.",
+        "response": "Realme 4K Smart Google TV Stick ko price 5000 ho. Yesma Android TV 11, Google Assistant, ra 4K HDR support available cha."
+    },
+    {
+        "question": "Asus ZenBook Duo 14 laptop ko features ke ho?",
+        "context": "Asus ZenBook Duo 14 ek dual-screen laptop ho. Yesko price 160000 ho. Yesma Intel i7 processor, 16 GB RAM, 1 TB SSD, ra secondary ScreenPad Plus display available cha.",
+        "response": "Asus ZenBook Duo 14 ko features ho: Intel i7 processor, 16 GB RAM, 1 TB SSD, ra secondary ScreenPad Plus display."
+    },
+    {
+        "question": "Sony HT-S40R soundbar ko barema jankari dinu?",
+        "context": "Sony HT-S40R ek home theater soundbar system ho. Isko price 40000 ho. Yesma 600W power output, wireless rear speakers, ra Dolby Audio support cha.",
+        "response": "Sony HT-S40R ko price 40000 ho. Yesma 600W power output, wireless rear speakers, ra Dolby Audio support cha."
+    },
+    {
+        "question": "Fitbit Versa 3 smartwatch ko price kati ho?",
+        "context": "Fitbit Versa 3 ek fitness-focused smartwatch ho. Yesko price 25000 ho. Yesma built-in GPS, heart rate monitoring, 6 din battery life, ra Alexa support cha.",
+        "response": "Fitbit Versa 3 ko price 25000 ho. Yesma built-in GPS, heart rate monitoring, 6 din battery life, ra Alexa support cha."
+    },
+    {
+        "question": "Samsung Galaxy A13 smartphone ko price kati ho?",
+        "context": "Samsung Galaxy A13 ek budget smartphone ho. Yesko price 22000 ho. Yesma 6.6-inch PLS LCD display, Exynos 850 processor, 50 MP quad camera setup, ra 5000 mAh battery cha.",
+        "response": "Samsung Galaxy A13 ko price 22000 ho. Yesma 6.6-inch PLS LCD display, Exynos 850 processor, 50 MP quad camera setup, ra 5000 mAh battery cha."
+    },
+    {
+        "question": "LG UltraGear 27-inch gaming monitor ko barema jankari dinu?",
+        "context": "LG UltraGear 27-inch gaming monitor ek high-performance monitor ho. Isko price 50000 ho. Yesma 144 Hz refresh rate, 1 ms response time, QHD resolution, ra NVIDIA G-Sync support cha.",
+        "response": "LG UltraGear 27-inch gaming monitor ko price 50000 ho. Yesma 144 Hz refresh rate, 1 ms response time, QHD resolution, ra NVIDIA G-Sync support cha."
+    },
+    {
+        "question": "Boat Rockerz 550 headphones available cha?",
+        "context": "Boat Rockerz 550 ek wireless over-ear headphones ho. Isko price 2500 ho. Yesma 20 ghanta battery life, 50 mm drivers, ra Bluetooth 5.0 support cha. Hami sanga yo headphones stock ma available cha.",
+        "response": "Boat Rockerz 550 stock ma available cha. Yesko price 2500 ho. Yesma 20 ghanta battery life, 50 mm drivers, ra Bluetooth 5.0 support cha."
+    },
+    {
+        "question": "Lenovo ThinkPad X1 Carbon laptop ko features ke ho?",
+        "context": "Lenovo ThinkPad X1 Carbon ek business-class ultrabook ho. Yesko price 180000 ho. Yesma Intel i7 processor, 16 GB RAM, 1 TB SSD, ra 14-inch 4K display available cha.",
+        "response": "Lenovo ThinkPad X1 Carbon ko features ho: Intel i7 processor, 16 GB RAM, 1 TB SSD, ra 14-inch 4K display."
+    },
+    {
+        "question": "Anker PowerCore 20000 power bank ko price kati ho?",
+        "context": "Anker PowerCore 20000 ek high-capacity power bank ho. Yesko price 3000 ho. Yesma 20000 mAh capacity, fast charging support, ra dual USB ports available cha.",
+        "response": "Anker PowerCore 20000 ko price 3000 ho. Yesma 20000 mAh capacity, fast charging support, ra dual USB ports cha."
+    },
+    {
+        "question": "Canon EOS 90D camera ko price kati ho?",
+        "context": "Canon EOS 90D ek advanced DSLR camera ho. Yesko price 170000 ho. Yesma 32.5 MP APS-C sensor, 4K video recording, Dual Pixel autofocus, ra vari-angle touchscreen display cha.",
+        "response": "Canon EOS 90D ko price 170000 ho. Yesma 32.5 MP APS-C sensor, 4K video recording, Dual Pixel autofocus, ra vari-angle touchscreen display cha."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 ko features ke ho?",
+        "context": "Samsung Galaxy Buds 2 ek lightweight wireless earbuds ho. Yesko price 15000 ho. Yesma Active Noise Cancellation, customizable sound profiles, ra wireless charging support available cha.",
+        "response": "Samsung Galaxy Buds 2 ko features ho: Active Noise Cancellation, customizable sound profiles, ra wireless charging support."
+    },
+    {
+        "question": "LG 55-inch OLED TV available cha?",
+        "context": "LG 55-inch OLED TV ek premium television ho. Isko price 200000 ho. Yesma OLED display, Dolby Vision, AI-powered 4K upscaling, ra built-in Alexa support cha. Hami sanga yo TV stock ma available cha.",
+        "response": "LG 55-inch OLED TV stock ma available cha. Yesko price 200000 ho. Yesma OLED display, Dolby Vision, AI-powered 4K upscaling, ra built-in Alexa support cha."
+    },
+    {
+        "question": "Amazfit GTS 2 Mini smartwatch ko barema jankari dinu?",
+        "context": "Amazfit GTS 2 Mini ek budget-friendly smartwatch ho. Yesko price 10000 ho. Yesma AMOLED display, SpO2 monitoring, 14 din battery life, ra 70+ sports modes available cha.",
+        "response": "Amazfit GTS 2 Mini ko price 10000 ho. Yesma AMOLED display, SpO2 monitoring, 14 din battery life, ra 70+ sports modes cha."
+    },
+    {
+        "question": "HP Omen 16 gaming laptop ko features ke ho?",
+        "context": "HP Omen 16 ek high-end gaming laptop ho. Yesko price 150000 ho. Yesma Intel i7 processor, NVIDIA RTX 3070 graphics, 16 GB RAM, 1 TB SSD, ra 16.1-inch QHD display cha.",
+        "response": "HP Omen 16 ko features ho: Intel i7 processor, NVIDIA RTX 3070 graphics, 16 GB RAM, 1 TB SSD, ra 16.1-inch QHD display."
+    },
+    {
+        "question": "Realme Narzo 50A smartphone ko price kati ho?",
+        "context": "Realme Narzo 50A ek budget smartphone ho. Yesko price 18000 ho. Yesma MediaTek Helio G85 processor, 50 MP camera, 6000 mAh battery, ra 6.5-inch HD+ display cha.",
+        "response": "Realme Narzo 50A ko price 18000 ho. Yesma MediaTek Helio G85 processor, 50 MP camera, 6000 mAh battery, ra 6.5-inch HD+ display cha."
+    },
+    {
+        "question": "JBL Flip 6 Bluetooth speaker ko barema jankari dinu?",
+        "context": "JBL Flip 6 ek portable Bluetooth speaker ho. Isko price 15000 ho. Yesma IP67 water-resistant design, 12 ghanta playback time, ra powerful bass radiator cha.",
+        "response": "JBL Flip 6 ko price 15000 ho. Yesma IP67 water-resistant design, 12 ghanta playback time, ra powerful bass radiator cha."
+    },
+    {
+        "question": "Acer Nitro XV272U monitor ko features ke ho?",
+        "context": "Acer Nitro XV272U ek gaming monitor ho. Yesko price 60000 ho. Yesma 27-inch QHD display, 165 Hz refresh rate, HDR400 support, ra AMD FreeSync cha.",
+        "response": "Acer Nitro XV272U ko features ho: 27-inch QHD display, 165 Hz refresh rate, HDR400 support, ra AMD FreeSync."
+    },
+    {
+        "question": "Dyson V8 Absolute vacuum cleaner ko price kati ho?",
+        "context": "Dyson V8 Absolute ek cordless vacuum cleaner ho. Yesko price 75000 ho. Yesma powerful suction, HEPA filter, ra 40 minutes runtime available cha.",
+        "response": "Dyson V8 Absolute ko price 75000 ho. Yesma powerful suction, HEPA filter, ra 40 minutes runtime available cha."
+    },
+    {
+        "question": "Logitech G435 gaming headset ko barema jankari dinu?",
+        "context": "Logitech G435 ek lightweight gaming headset ho. Isko price 8000 ho. Yesma Bluetooth connectivity, 40 mm drivers, ra 18 ghanta battery life available cha.",
+        "response": "Logitech G435 ko price 8000 ho. Yesma Bluetooth connectivity, 40 mm drivers, ra 18 ghanta battery life cha."
+    },
+    {
+        "question": "Samsung 970 EVO Plus SSD ko price kati ho?",
+        "context": "Samsung 970 EVO Plus ek high-performance SSD ho. Isko price 20000 ho. Yesma 1 TB storage capacity, NVMe interface, ra 3500 MB/s read speed available cha.",
+        "response": "Samsung 970 EVO Plus ko price 20000 ho. Yesma 1 TB storage capacity, NVMe interface, ra 3500 MB/s read speed cha."
+    },
+    {
+        "question": "Mi Smart Band 7 ko features ke ho?",
+        "context": "Mi Smart Band 7 ek fitness tracker ho. Yesko price 5000 ho. Yesma AMOLED display, SpO2 monitoring, 14 din battery life, ra 120+ fitness modes available cha.",
+        "response": "Mi Smart Band 7 ko features ho: AMOLED display, SpO2 monitoring, 14 din battery life, ra 120+ fitness modes."
+    },
+    {
+        "question": "Corsair K70 RGB keyboard ko price kati ho?",
+        "context": "Corsair K70 RGB ek mechanical gaming keyboard ho. Isko price 18000 ho. Yesma Cherry MX switches, dynamic RGB lighting, ra aluminum frame cha.",
+        "response": "Corsair K70 RGB ko price 18000 ho. Yesma Cherry MX switches, dynamic RGB lighting, ra aluminum frame cha."
+    },
+    {
+        "question": "Sony PS5 ko barema jankari dinu?",
+        "context": "Sony PS5 ek next-gen gaming console ho. Yesko price 80000 ho. Yesma ultra-fast SSD, ray tracing, 4K gaming support, ra haptic feedback controller cha.",
+        "response": "Sony PS5 ko price 80000 ho. Yesma ultra-fast SSD, ray tracing, 4K gaming support, ra haptic feedback controller cha."
+    },
+    {
+        "question": "Apple MacBook Air M2 ko features ke ho?",
+        "context": "Apple MacBook Air M2 ek premium lightweight laptop ho. Yesko price 165000 ho. Yesma Apple M2 chip, 8-core GPU, 13.6-inch Retina display, ra 18 ghanta battery life cha.",
+        "response": "Apple MacBook Air M2 ko features ho: Apple M2 chip, 8-core GPU, 13.6-inch Retina display, ra 18 ghanta battery life."
+    },
+    {
+        "question": "Dell XPS 13 laptop ko price kati ho?",
+        "context": "Dell XPS 13 ek premium ultrabook ho. Yesko price 140000 ho. Yesma Intel i7 processor, 16 GB RAM, 512 GB SSD, ra 13.4-inch InfinityEdge display available cha.",
+        "response": "Dell XPS 13 ko price 140000 ho. Yesma Intel i7 processor, 16 GB RAM, 512 GB SSD, ra 13.4-inch InfinityEdge display available cha."
+    },
+    {
+        "question": "Google Nest Hub 2nd Gen ko barema jankari dinu?",
+        "context": "Google Nest Hub 2nd Gen ek smart display ho. Isko price 12000 ho. Yesma 7-inch touchscreen, Google Assistant, smart home controls, ra sleep tracking feature available cha.",
+        "response": "Google Nest Hub 2nd Gen ko price 12000 ho. Yesma 7-inch touchscreen, Google Assistant, smart home controls, ra sleep tracking feature cha."
+    },
+    {
+        "question": "Seagate Expansion 2TB external hard drive ko price kati ho?",
+        "context": "Seagate Expansion 2TB ek reliable external hard drive ho. Yesko price 8000 ho. Yesma USB 3.0 connectivity, compact design, ra plug-and-play compatibility cha.",
+        "response": "Seagate Expansion 2TB ko price 8000 ho. Yesma USB 3.0 connectivity, compact design, ra plug-and-play compatibility cha."
+    },
+    {
+        "question": "Bose QuietComfort 45 headphones ko features ke ho?",
+        "context": "Bose QuietComfort 45 ek premium noise-canceling headphone ho. Yesko price 45000 ho. Yesma advanced noise cancellation, 24 ghanta battery life, ra high-fidelity audio available cha.",
+        "response": "Bose QuietComfort 45 ko features ho: advanced noise cancellation, 24 ghanta battery life, ra high-fidelity audio."
+    },
+    {
+        "question": "Sony WH-1000XM5 headphones ko price kati ho?",
+        "context": "Sony WH-1000XM5 ek premium wireless headphone ho. Isko price 55000 ho. Yesma industry-leading noise cancellation, 30 ghanta battery life, ra adaptive sound control cha.",
+        "response": "Sony WH-1000XM5 ko price 55000 ho. Yesma industry-leading noise cancellation, 30 ghanta battery life, ra adaptive sound control cha."
+    },
+    {
+        "question": "Samsung 32-inch Smart Monitor M7 available cha?",
+        "context": "Samsung Smart Monitor M7 ek multipurpose monitor ho. Yesko price 50000 ho. Yesma 4K resolution, built-in apps, remote control, ra USB-C connectivity cha. Hami sanga yo monitor stock ma available cha.",
+        "response": "Samsung 32-inch Smart Monitor M7 stock ma available cha. Yesko price 50000 ho. Yesma 4K resolution, built-in apps, remote control, ra USB-C connectivity cha."
+    },
+    {
+        "question": "Razer BlackWidow V3 Pro keyboard ko barema jankari dinu?",
+        "context": "Razer BlackWidow V3 Pro ek wireless mechanical gaming keyboard ho. Isko price 20000 ho. Yesma Razer Green switches, RGB lighting, ra ergonomic wrist rest cha.",
+        "response": "Razer BlackWidow V3 Pro ko price 20000 ho. Yesma Razer Green switches, RGB lighting, ra ergonomic wrist rest cha."
+    },
+    {
+        "question": "Logitech MX Master 3S mouse ko price kati ho?",
+        "context": "Logitech MX Master 3S ek advanced wireless mouse ho. Yesko price 15000 ho. Yesma MagSpeed scroll wheel, customizable buttons, ra USB-C charging cha.",
+        "response": "Logitech MX Master 3S ko price 15000 ho. Yesma MagSpeed scroll wheel, customizable buttons, ra USB-C charging cha."
+    },
+    {
+        "question": "Xiaomi Mi Air Purifier 3 ko features ke ho?",
+        "context": "Xiaomi Mi Air Purifier 3 ek affordable air purifier ho. Yesko price 15000 ho. Yesma HEPA filter, OLED touch display, ra 380 cubic meter per hour CADR rating cha.",
+        "response": "Xiaomi Mi Air Purifier 3 ko features ho: HEPA filter, OLED touch display, ra 380 cubic meter per hour CADR rating."
+    },
+    {
+        "question": "Apple iPad Air 5th Gen ko price kati ho?",
+        "context": "Apple iPad Air 5th Gen ek lightweight tablet ho. Yesko price 95000 ho. Yesma M1 chip, 10.9-inch Liquid Retina display, 5G connectivity, ra Apple Pencil 2 support cha.",
+        "response": "Apple iPad Air 5th Gen ko price 95000 ho. Yesma M1 chip, 10.9-inch Liquid Retina display, 5G connectivity, ra Apple Pencil 2 support cha."
+    },
+    {
+        "question": "HyperX Cloud II gaming headset available cha?",
+        "context": "HyperX Cloud II ek popular gaming headset ho. Isko price 12000 ho. Yesma 7.1 surround sound, memory foam ear cushions, ra durable aluminum frame cha. Hami sanga yo headset stock ma available cha.",
+        "response": "HyperX Cloud II stock ma available cha. Yesko price 12000 ho. Yesma 7.1 surround sound, memory foam ear cushions, ra durable aluminum frame cha."
+    },
+    {
+        "question": "Samsung Galaxy Z Flip 4 smartphone ko barema jankari dinu?",
+        "context": "Samsung Galaxy Z Flip 4 ek foldable smartphone ho. Yesko price 135000 ho. Yesma Snapdragon 8+ Gen 1 processor, 6.7-inch foldable AMOLED display, ra 3700 mAh battery cha.",
+        "response": "Samsung Galaxy Z Flip 4 ko price 135000 ho. Yesma Snapdragon 8+ Gen 1 processor, 6.7-inch foldable AMOLED display, ra 3700 mAh battery cha."
+    },
+    {
+        "question": "Dell UltraSharp 34-inch monitor ko price kati ho?",
+        "context": "Dell UltraSharp 34-inch monitor ek ultra-wide professional monitor ho. Yesko price 80000 ho. Yesma QHD resolution, USB-C connectivity, ra 99% sRGB color accuracy cha.",
+        "response": "Dell UltraSharp 34-inch monitor ko price 80000 ho. Yesma QHD resolution, USB-C connectivity, ra 99% sRGB color accuracy cha."
+    },
+    {
+        "question": "GoPro HERO 11 action camera ko features ke ho?",
+        "context": "GoPro HERO 11 ek rugged action camera ho. Yesko price 70000 ho. Yesma 5.3K video recording, HyperSmooth 5.0 stabilization, ra waterproof design cha.",
+        "response": "GoPro HERO 11 ko features ho: 5.3K video recording, HyperSmooth 5.0 stabilization, ra waterproof design."
+    },
+    {
+        "question": "Echo Dot 5th Gen ko barema jankari dinu?",
+        "context": "Echo Dot 5th Gen ek compact smart speaker ho. Isko price 7000 ho. Yesma Alexa voice assistant, improved sound quality, ra smart home compatibility cha.",
+        "response": "Echo Dot 5th Gen ko price 7000 ho. Yesma Alexa voice assistant, improved sound quality, ra smart home compatibility cha."
+    },
+    {
+        "question": "Sony Bravia XR OLED TV ko features ke ho?",
+        "context": "Sony Bravia XR OLED TV ek premium smart TV ho. Yesko price 300000 ho. Yesma Cognitive Processor XR, 4K resolution, HDR10, Dolby Atmos sound, ra Google TV support cha.",
+        "response": "Sony Bravia XR OLED TV ko features ho: Cognitive Processor XR, 4K resolution, HDR10, Dolby Atmos sound, ra Google TV support."
+    },
+    {
+        "question": "Huawei FreeBuds Pro 2 ko price kati ho?",
+        "context": "Huawei FreeBuds Pro 2 ek high-quality wireless earbuds ho. Isko price 20000 ho. Yesma dual dynamic drivers, active noise cancellation, ra 30 ghanta battery life cha.",
+        "response": "Huawei FreeBuds Pro 2 ko price 20000 ho. Yesma dual dynamic drivers, active noise cancellation, ra 30 ghanta battery life cha."
+    },
+    {
+        "question": "Lenovo Legion 5 Pro gaming laptop ko barema jankari dinu?",
+        "context": "Lenovo Legion 5 Pro ek powerful gaming laptop ho. Yesko price 175000 ho. Yesma AMD Ryzen 7 processor, NVIDIA RTX 3060 graphics, 16 GB RAM, 512 GB SSD, ra 16-inch QHD display cha.",
+        "response": "Lenovo Legion 5 Pro ko price 175000 ho. Yesma AMD Ryzen 7 processor, NVIDIA RTX 3060 graphics, 16 GB RAM, 512 GB SSD, ra 16-inch QHD display cha."
+    },
+    {
+        "question": "Samsung Galaxy Watch 5 ko price kati ho?",
+        "context": "Samsung Galaxy Watch 5 ek premium smartwatch ho. Yesko price 30000 ho. Yesma AMOLED display, advanced health monitoring, GPS, ra 3 din battery life cha.",
+        "response": "Samsung Galaxy Watch 5 ko price 30000 ho. Yesma AMOLED display, advanced health monitoring, GPS, ra 3 din battery life cha."
+    },
+    {
+        "question": "Canon PIXMA G3010 printer ko features ke ho?",
+        "context": "Canon PIXMA G3010 ek all-in-one ink tank printer ho. Yesko price 25000 ho. Yesma wireless printing, high page yield, ra compact design cha.",
+        "response": "Canon PIXMA G3010 ko features ho: wireless printing, high page yield, ra compact design."
+    },
+    {
+        "question": "Amazon Fire HD 10 tablet ko barema jankari dinu?",
+        "context": "Amazon Fire HD 10 ek affordable tablet ho. Isko price 25000 ho. Yesma 10.1-inch Full HD display, 32 GB storage, ra Alexa integration cha.",
+        "response": "Amazon Fire HD 10 ko price 25000 ho. Yesma 10.1-inch Full HD display, 32 GB storage, ra Alexa integration cha."
+    },
+    {
+        "question": "Asus TUF Gaming A15 ko price kati ho?",
+        "context": "Asus TUF Gaming A15 ek durable gaming laptop ho. Yesko price 135000 ho. Yesma AMD Ryzen 5 processor, NVIDIA GTX 1650 graphics, 8 GB RAM, ra 512 GB SSD cha.",
+        "response": "Asus TUF Gaming A15 ko price 135000 ho. Yesma AMD Ryzen 5 processor, NVIDIA GTX 1650 graphics, 8 GB RAM, ra 512 GB SSD cha."
+    },
+    {
+        "question": "DJI Mini 3 Pro drone ko barema jankari dinu?",
+        "context": "DJI Mini 3 Pro ek lightweight drone ho. Isko price 125000 ho. Yesma 4K HDR video, 48 MP camera, obstacle avoidance, ra 34 minutes flight time cha.",
+        "response": "DJI Mini 3 Pro ko price 125000 ho. Yesma 4K HDR video, 48 MP camera, obstacle avoidance, ra 34 minutes flight time cha."
+    },
+    {
+        "question": "OnePlus Nord Buds 2 ko price kati ho?",
+        "context": "OnePlus Nord Buds 2 ek affordable wireless earbuds ho. Yesko price 5000 ho. Yesma 12.4 mm drivers, fast charging, ra IP55 water resistance cha.",
+        "response": "OnePlus Nord Buds 2 ko price 5000 ho. Yesma 12.4 mm drivers, fast charging, ra IP55 water resistance cha."
+    },
+    {
+        "question": "Samsung T7 Shield SSD ko features ke ho?",
+        "context": "Samsung T7 Shield ek rugged external SSD ho. Yesko price 25000 ho. Yesma 1 TB storage, USB 3.2 Gen 2 connectivity, ra shock-resistant design cha.",
+        "response": "Samsung T7 Shield ko features ho: 1 TB storage, USB 3.2 Gen 2 connectivity, ra shock-resistant design."
+    },
+    {
+        "question": "Fitbit Charge 5 fitness band ko barema jankari dinu?",
+        "context": "Fitbit Charge 5 ek advanced fitness tracker ho. Isko price 15000 ho. Yesma AMOLED display, heart rate tracking, stress management tools, ra 7 din battery life cha.",
+        "response": "Fitbit Charge 5 ko price 15000 ho. Yesma AMOLED display, heart rate tracking, stress management tools, ra 7 din battery life cha."
+    },
+    {
+        "question": "Apple AirTag ko price kati ho?",
+        "context": "Apple AirTag ek tracking device ho. Yesko price 4000 ho. Yesma precision tracking, Find My app compatibility, ra water-resistant design cha.",
+        "response": "Apple AirTag ko price 4000 ho. Yesma precision tracking, Find My app compatibility, ra water-resistant design cha."
+    },
+    {
+        "question": "LG Dual Inverter AC ko features ke ho?",
+        "context": "LG Dual Inverter AC ek energy-efficient air conditioner ho. Yesko price 75000 ho. Yesma dual inverter compressor, 1.5 ton capacity, ra low noise operation cha.",
+        "response": "LG Dual Inverter AC ko features ho: dual inverter compressor, 1.5 ton capacity, ra low noise operation."
+    },
+    {
+        "question": "Nikon Z6 II camera ko barema jankari dinu?",
+        "context": "Nikon Z6 II ek full-frame mirrorless camera ho. Isko price 200000 ho. Yesma 24.5 MP sensor, 4K video recording, dual card slots, ra 14 fps continuous shooting cha.",
+        "response": "Nikon Z6 II ko price 200000 ho. Yesma 24.5 MP sensor, 4K video recording, dual card slots, ra 14 fps continuous shooting cha."
+    },
+    {
+        "question": "MSI GeForce RTX 3060 graphics card ko price kati ho?",
+        "context": "MSI GeForce RTX 3060 ek mid-range gaming graphics card ho. Yesko price 65000 ho. Yesma ray tracing, 12 GB GDDR6 VRAM, ra DLSS support cha.",
+        "response": "MSI GeForce RTX 3060 ko price 65000 ho. Yesma ray tracing, 12 GB GDDR6 VRAM, ra DLSS support cha."
+    },
+    {
+        "question": "Dyson V15 Detect vacuum cleaner ko price kati ho?",
+        "context": "Dyson V15 Detect ek high-performance cordless vacuum cleaner ho. Yesko price 120000 ho. Yesma laser dust detection, HEPA filtration system, ra 60 minutes run time cha.",
+        "response": "Dyson V15 Detect ko price 120000 ho. Yesma laser dust detection, HEPA filtration system, ra 60 minutes run time cha."
+    },
+    {
+        "question": "Asus ROG Phone 7 Ultimate smartphone ko features ke ho?",
+        "context": "Asus ROG Phone 7 Ultimate ek gaming-focused smartphone ho. Yesko price 150000 ho. Yesma Snapdragon 8 Gen 2 processor, 16 GB RAM, 165 Hz AMOLED display, ra 6000 mAh battery cha.",
+        "response": "Asus ROG Phone 7 Ultimate ko price 150000 ho. Yesma Snapdragon 8 Gen 2 processor, 16 GB RAM, 165 Hz AMOLED display, ra 6000 mAh battery cha."
+    },
+    {
+        "question": "Sony Alpha A7 IV camera ko barema jankari dinu?",
+        "context": "Sony Alpha A7 IV ek hybrid full-frame mirrorless camera ho. Isko price 280000 ho. Yesma 33 MP sensor, 4K 60fps video recording, real-time eye autofocus, ra dual SD card slots cha.",
+        "response": "Sony Alpha A7 IV ko price 280000 ho. Yesma 33 MP sensor, 4K 60fps video recording, real-time eye autofocus, ra dual SD card slots cha."
+    },
+    {
+        "question": "BenQ EX3501R ultrawide monitor ko price kati ho?",
+        "context": "BenQ EX3501R ek ultrawide curved monitor ho. Yesko price 85000 ho. Yesma 35-inch QHD resolution, HDR10 support, ra USB-C connectivity cha.",
+        "response": "BenQ EX3501R ko price 85000 ho. Yesma 35-inch QHD resolution, HDR10 support, ra USB-C connectivity cha."
+    },
+    {
+        "question": "JBL Charge 5 speaker ko features ke ho?",
+        "context": "JBL Charge 5 ek portable Bluetooth speaker ho. Yesko price 18000 ho. Yesma waterproof design, 20 ghanta battery life, ra built-in power bank feature cha.",
+        "response": "JBL Charge 5 ko features ho: waterproof design, 20 ghanta battery life, ra built-in power bank feature."
+    },
+    {
+        "question": "Anker PowerCore 20000 power bank ko price kati ho?",
+        "context": "Anker PowerCore 20000 ek high-capacity power bank ho. Yesko price 5000 ho. Yesma 20,000 mAh capacity, fast charging support, ra dual USB ports cha.",
+        "response": "Anker PowerCore 20000 ko price 5000 ho. Yesma 20,000 mAh capacity, fast charging support, ra dual USB ports cha."
+    },
+    {
+        "question": "HP Spectre x360 convertible laptop ko barema jankari dinu?",
+        "context": "HP Spectre x360 ek premium convertible laptop ho. Isko price 185000 ho. Yesma Intel i7 processor, 16 GB RAM, 1 TB SSD, 13.5-inch 3K2K OLED touchscreen, ra 360-degree hinge cha.",
+        "response": "HP Spectre x360 ko price 185000 ho. Yesma Intel i7 processor, 16 GB RAM, 1 TB SSD, 13.5-inch 3K2K OLED touchscreen, ra 360-degree hinge cha."
+    },
+    {
+        "question": "Philips Hue White and Color Ambiance smart bulbs available cha?",
+        "context": "Philips Hue White and Color Ambiance ek smart lighting solution ho. Yesko price 8000 ho. Yesma 16 million color options, voice control, ra app compatibility cha. Hami sanga yo bulb stock ma available cha.",
+        "response": "Philips Hue White and Color Ambiance smart bulbs stock ma available cha. Yesko price 8000 ho. Yesma 16 million color options, voice control, ra app compatibility cha."
+    },
+    {
+        "question": "Razer Kraken V3 X gaming headset ko price kati ho?",
+        "context": "Razer Kraken V3 X ek entry-level gaming headset ho. Yesko price 8000 ho. Yesma 7.1 surround sound, lightweight design, ra comfortable ear cushions cha.",
+        "response": "Razer Kraken V3 X ko price 8000 ho. Yesma 7.1 surround sound, lightweight design, ra comfortable ear cushions cha."
+    },
+    {
+        "question": "LG Gram 17 laptop ko features ke ho?",
+        "context": "LG Gram 17 ek lightweight productivity laptop ho. Yesko price 160000 ho. Yesma Intel i7 processor, 16 GB RAM, 1 TB SSD, ra 17-inch WQXGA display cha.",
+        "response": "LG Gram 17 ko features ho: Intel i7 processor, 16 GB RAM, 1 TB SSD, ra 17-inch WQXGA display."
+    },
+    {
+        "question": "Microsoft Surface Pro 9 ko barema jankari dinu?",
+        "context": "Microsoft Surface Pro 9 ek 2-in-1 laptop ho. Isko price 130000 ho. Yesma Intel i5 processor, 8 GB RAM, 256 GB SSD, ra 13-inch PixelSense touchscreen cha.",
+        "response": "Microsoft Surface Pro 9 ko price 130000 ho. Yesma Intel i5 processor, 8 GB RAM, 256 GB SSD, ra 13-inch PixelSense touchscreen cha."
+    },
+    {
+        "question": "Corsair K70 RGB MK.2 gaming keyboard ko price kati ho?",
+        "context": "Corsair K70 RGB MK.2 ek high-quality mechanical gaming keyboard ho. Yesko price 15000 ho. Yesma Cherry MX switches, customizable RGB lighting, ra durable aluminum frame cha.",
+        "response": "Corsair K70 RGB MK.2 ko price 15000 ho. Yesma Cherry MX switches, customizable RGB lighting, ra durable aluminum frame cha."
+    },
+    {
+        "question": "Amazon Kindle Paperwhite ko features ke ho?",
+        "context": "Amazon Kindle Paperwhite ek e-reader ho. Yesko price 15000 ho. Yesma 6.8-inch glare-free display, adjustable warm light, ra waterproof design cha.",
+        "response": "Amazon Kindle Paperwhite ko features ho: 6.8-inch glare-free display, adjustable warm light, ra waterproof design."
+    },
+    {
+        "question": "Samsung Q60B QLED TV ko barema jankari dinu?",
+        "context": "Samsung Q60B ek mid-range QLED TV ho. Isko price 125000 ho. Yesma 4K UHD resolution, Quantum Dot technology, HDR10+, ra dual LED backlighting cha.",
+        "response": "Samsung Q60B QLED TV ko price 125000 ho. Yesma 4K UHD resolution, Quantum Dot technology, HDR10+, ra dual LED backlighting cha."
+    },
+    {
+        "question": "HyperX Pulsefire Haste gaming mouse ko price kati ho?",
+        "context": "HyperX Pulsefire Haste ek lightweight gaming mouse ho. Yesko price 4000 ho. Yesma honeycomb shell design, 60g weight, ra Pixart 3335 sensor cha.",
+        "response": "HyperX Pulsefire Haste ko price 4000 ho. Yesma honeycomb shell design, 60g weight, ra Pixart 3335 sensor cha."
+    }
+]

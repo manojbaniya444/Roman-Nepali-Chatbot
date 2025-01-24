@@ -1,0 +1,2126 @@
+[
+    {
+      "context": "ElectroShop, Dharan-2, Main Road ma hamro store raheko chha. Hamro store bata smartphones, laptops, ra accessories jastai covers ra chargers pani available chha. Delivery only inside Dharan available chha. Hami free delivery service Dharan ko sabai thau ma di rahanchhau. Extra charges lagcha Dharan bahira delivery garna.",
+      "question": "Hajurko store le Dharan bahira delivery garcha?",
+      "response": "Hamro store le delivery only Dharan vitra matra garcha. Bahira ko lagi extra charge lagcha."
+    },
+    {
+      "context": "Himalayan Electronics, Itahari-4, Line Bazaar ma smartphone accessories ko bises collection chha. Covers, screen protectors, ra chargers Itahari ma free delivery available chha. Itahari bahira delivery service abailable chaina.",
+      "question": "Tapaiharu le Itahari bahira delivery dinu huncha?",
+      "response": "Hamro delivery Itahari vitra matra available chha. Itahari bahira delivery service chhaina."
+    },
+    {
+      "context": "Birat Tech Solutions, Biratnagar-10, Airport Road ma nai sabai electronics saman paainchha. Smartphone, smartwatch, ra gaming accessories nai sabai ko delivery purba ma free chha. Delivery sirf purba ko thauharu vitra matra available chha.",
+      "question": "Tapaiharu le Kathmandu ma delivery garchha?",
+      "response": "Hamro delivery purba ko thauharu vitra matra available chha. Kathmandu delivery chhaina."
+    },
+    {
+      "context": "SmartTech Store, Dharan-1, Bhanuchowk ma hamile nai dherai saman haru sucharu delivery system sanga delivery garchhau. Delivery Dharan, Itahari, ra Biratnagar ma free chha. Purba ko aru thau ma delivery charge lagcha.",
+      "question": "Tapaiharu le Purba ko aru thau ma saman pathaunu huncha?",
+      "response": "Yes, hamro delivery Dharan, Itahari, ra Biratnagar ma free chha, purba ko aru thau ma charge lagcha."
+    },
+    {
+      "context": "Digital Hub, Biratnagar-4, Traffic Chowk bata hamile nai sabai electronics saman jaise smartwatches, headphones, ra gaming consoles ko delivery purba bhari matra garchhau. Delivery inside valley chhaina.",
+      "question": "Tapaiharu le Kathmandu valley ma saman delivery garnu huncha?",
+      "response": "Hamro delivery sirf purba bhari available chha. Valley ma delivery service chhaina."
+    },
+    {
+      "context": "SamanBazaar, Itahari-8, College Road ma electronics ra accessories ko delivery Itahari vitra matra free chha. Delivery charge lageko thau haru Dharan, ra Biratnagar ma ho.",
+      "question": "Tapaiharu le free delivery kahan kahan dinu huncha?",
+      "response": "Hamro free delivery Itahari vitra matra available chha. Dharan ra Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "Tech Valley, Dharan-3, Main Bazaar ma nai sabai electronics saman jaise laptops, tablets, ra gaming consoles purba bhari delivery available chha. Delivery Kathmandu ma chaina.",
+      "question": "Tapaiharu le Kathmandu ko lagi delivery dinu huncha?",
+      "response": "Hamro delivery purba bhari available chha, Kathmandu delivery chaina."
+    },
+    {
+      "context": "ElectroWorld, Itahari-2, Ramailo Chowk ma, mobile phones, ra accessories free delivery Itahari ma chha. Delivery sirf purba ma matra garchhau.",
+      "question": "Tapaiharu le Pokhara ma delivery garcha?",
+      "response": "Hamro delivery purba ma matra available chha. Pokhara ma delivery service chaina."
+    },
+    {
+      "context": "GadgetPro, Biratnagar-5, Bargachhi ma wireless headphones, laptops, ra printers ko delivery sirf Biratnagar vitra matra free chha. Delivery Biratnagar bahira sambhavana chaina.",
+      "question": "Hajurko store le Biratnagar bahira saman pathaunu huncha?",
+      "response": "Hamro delivery Biratnagar vitra matra free chha. Bahira delivery sambhavana chaina."
+    },
+    {
+      "context": "Digital World, Dharan-9, Madan Chowk ma mobile covers, earphones, ra other accessories free delivery Dharan vitra available chha. Dharan bahira saman delivery garnu chhaina.",
+      "question": "Tapaiharu le Dharan bahira delivery garnu huncha?",
+      "response": "Hamro delivery Dharan vitra matra available chha. Bahira saman pathauna chhaina."
+    },
+    {
+      "context": "NepalTech, Itahari-5, Golchha Complex ma nai sabai laptops, chargers, ra computer accessories ko collection chha. Delivery Itahari, Dharan, ra Biratnagar vitra matra possible chha.",
+      "question": "Tapaiharu le Hetauda ma delivery garchhau?",
+      "response": "Hamro delivery Itahari, Dharan, ra Biratnagar vitra matra possible chha. Hetauda delivery chhaina."
+    },
+    {
+      "context": "QuickTech Store, Biratnagar-6, Buspark area ma purba bhari delivery available chha. Kathmandu valley ma pani delivery suru garna chhaina abhi.",
+      "question": "Hajurko store le valley ma delivery service suru garna huncha?",
+      "response": "Abhi hamro delivery purba bhari matra available chha, valley ko lagi delivery service chhaina."
+    },
+    {
+      "context": "Tech Station, Dharan-10, Tarahari Chowk ma smartphones, tabs, ra powerbanks delivery Itahari ra Biratnagar ma matra garcha. Dharan vitra delivery free chha.",
+      "question": "Tapaiharu le Birgunj ma saman pathaunu huncha?",
+      "response": "Hamro delivery Dharan, Itahari, ra Biratnagar vitra matra available chha. Birgunj delivery chhaina."
+    },
+    {
+      "context": "TechnoHub, Itahari-9, Kanchan Road ma nai sabai saman upalabdha chha. Delivery sirf purba ka major cities ma available chha. Free delivery Itahari vitra chha.",
+      "question": "Tapaiharu le minor towns ma delivery garnu huncha?",
+      "response": "Hamro delivery sirf purba ka major cities ma available chha. Minor towns ma delivery service chhaina."
+    },
+    {
+      "context": "Gadget Arena, Biratnagar-3, Shani Mandir Chowk ma delivery purba bhari possible chha. Dharan, Itahari, ra Biratnagar ma delivery free chha. Delivery Kathmandu ma sambhavana chhaina.",
+      "question": "Hajur le Kathmandu ma saman pathaunu huncha?",
+      "response": "Hamro delivery Dharan, Itahari, ra Biratnagar ma matra free chha. Kathmandu delivery chaina."
+    },
+    {
+      "context": "SmartTech World, Itahari-6, Chowk Bazaar ma wireless earphones, keyboards, ra smart TVs ko delivery purba bhari available chha. Sirf Dharan, Itahari, ra Biratnagar ma free chha.",
+      "question": "Hajurko delivery Kathmandu ma pani huncha?",
+      "response": "Hamro delivery sirf purba bhari matra available chha, Kathmandu delivery chhaina."
+    },
+    {
+      "context": "SmartTech Store, Biratnagar-5, Main Road ma electronics ko delivery service haru Purba Nepal ka sabai thau ma available chha. Tarika anusar, Biratnagar bhitra ko delivery free chha. Baki thau haruma delivery charge applicable chha.",
+      "question": "Hajurko Biratnagar bhitra free delivery available chha?",
+      "response": "Hajur, Biratnagar bhitra free delivery available chha. Purba Nepal ka aru thau haru ma delivery charge lagcha."
+    },
+    {
+      "context": "DigiMart, Dharan-10, Bhanu Chowk bata order gareko saman Dharan bhitra matra free delivery chha. Itahari ra Biratnagar jasta thau haruma delivery charge lagcha.",
+      "question": "Tapaiharu le Dharan bhitra free delivery dinu huncha?",
+      "response": "Ho, Dharan bhitra free delivery dinchhaun. Itahari ra Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "SamanBazaar, Kathmandu-1, New Baneshwor ma hamro electronics ko delivery Kathmandu Upatyaka bhitra free chha. Pokhara, Chitwan, ra Baaki thau haru ma delivery charge applicable chha.",
+      "question": "Tapai koma Kathmandu bhitra delivery charge lagdaina?",
+      "response": "Ho, Kathmandu Upatyaka bhitra delivery charge lagdaina. Pokhara, Chitwan, ra aru thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "TechHub Store, Dharan-4, Putali Line bata electronics saman order gareko Koshi Pradesh bhitra matra delivery dinchhaun. Free delivery ko suvidha Dharan ko andar matra chha.",
+      "question": "Tapaiharu ko free delivery Dharan ko kun thau samma chha?",
+      "response": "Hamro free delivery Dharan ko andar matra chha. Koshi Pradesh bhitra delivery charge lagcha."
+    },
+    {
+      "context": "ElectroShop, Biratnagar-10, Airport Road ma saman ko delivery Biratnagar bhitra ra Itahari samma free chha. Baki thau haruma delivery charge applicable chha.",
+      "question": "Tapaiharu ko Itahari samma delivery charge lagcha?",
+      "response": "Itahari samma free delivery chha. Baki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetMart, Pokhara-6, Lakeside ma electronics saman Pokhara Upatyaka bhitra matra delivery chha. Baaki thau haru jasta Kathmandu, Chitwan, ra Bharatpur ma delivery charge lagcha.",
+      "question": "Pokhara Upatyaka bhitra delivery free ho?",
+      "response": "Ho, Pokhara Upatyaka bhitra delivery free ho. Baki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "TechMarket, Chitwan-2, Narayanghat bata saman Kathmandu ra Pokhara ma delivery chha. Narayanghat ko bhitra delivery free chha, Kathmandu ra Pokhara ma charge lagcha.",
+      "question": "Hajurko Kathmandu samma delivery free ho?",
+      "response": "Kathmandu samma delivery free chhaina. Narayanghat ko bhitra matra delivery free chha."
+    },
+    {
+      "context": "ShopX, Biratnagar-9, Traffic Chowk ma electronics saman delivery purba Nepal ko sabai major cities ma available chha. Biratnagar bhitra delivery free ho, aru thau haruma charge lagcha.",
+      "question": "Tapaiharu ko purba Nepal ma delivery chha?",
+      "response": "Ho, purba Nepal ko sabai major cities ma delivery chha. Biratnagar bhitra free delivery chha, aru thau haruma charge lagcha."
+    },
+    {
+      "context": "E-Saman Hub, Kathmandu-3, New Road bata saman Kathmandu Upatyaka bhitra delivery free chha. Bhaktapur, Lalitpur, ra Kritipur ma pani delivery free ho.",
+      "question": "Tapai koma Lalitpur samma delivery free ho?",
+      "response": "Ho, Lalitpur samma delivery free ho. Kathmandu Upatyaka bhitra delivery free chha."
+    },
+    {
+      "context": "DigitalWorld Store, Dharan-14, Ghopa Camp ma saman order gareko Dharan bhitra free delivery chha. Baaki Koshi Pradesh ka thau haru ma delivery charge lagcha.",
+      "question": "Tapaiharu le Dharan bahira delivery charge linu huncha?",
+      "response": "Ho, Dharan bahira delivery charge lagcha. Dharan bhitra delivery free chha."
+    },
+    {
+      "context": "TechBazaar, Biratnagar-4, Hospital Line ma hamro electronics saman Biratnagar bhitra matra free delivery chha. Dharan ra Itahari ma delivery charge applicable chha.",
+      "question": "Hajurko saman Dharan samma free delivery chha?",
+      "response": "Dharan samma free delivery chhaina. Biratnagar bhitra matra free delivery chha."
+    },
+    {
+      "context": "SmartShop, Kathmandu-5, Kalanki ma saman Kathmandu Upatyaka ko bhitra free delivery chha. Baaki Nepal ko thau haruma delivery charge lagcha.",
+      "question": "Kathmandu bhitra ko delivery charge lagcha?",
+      "response": "Kathmandu bhitra ko delivery charge lagdaina. Delivery free chha."
+    },
+    {
+      "context": "GadgetNepal, Dharan-3, Bhanuchowk bata saman order Dharan bhitra delivery free chha. Koshi Pradesh ka aru thau haru ma delivery charge lagcha.",
+      "question": "Tapaiharu Dharan ko bhitra delivery free ho?",
+      "response": "Ho, Dharan ko bhitra delivery free ho. Koshi Pradesh ka aru thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "TechCenter, Itahari-2, Station Road bata saman order gareko Itahari bhitra matra free delivery chha. Biratnagar ra Dharan ma delivery charge applicable chha.",
+      "question": "Tapai haru le Itahari bhitra free delivery dinu huncha?",
+      "response": "Ho, Itahari bhitra free delivery available chha. Biratnagar ra Dharan ma delivery charge lagcha."
+    },
+    {
+      "context": "DigiStore, Pokhara-11, Mahendra Pool bata electronics saman Pokhara ko purba chhetrama matra free delivery chha. Chitwan, Kathmandu ra Baaki thau haruma delivery charge lagcha.",
+      "question": "Tapaiharu ko Pokhara ma kahan free delivery available chha?",
+      "response": "Pokhara ko purba chhetrama matra free delivery chha. Baki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroWorld, Biratnagar-6, Birtamode bata saman Biratnagar ra Itahari ma free delivery chha. Aru thau haruma delivery charge applicable chha.",
+      "question": "Tapaiharu le Itahari samma free delivery dinu huncha?",
+      "response": "Ho, Itahari samma free delivery chha. Biratnagar ra aru thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStore, Chitwan-1, Narayanghat bata saman Kathmandu ko Upatyaka bhitra delivery free chha. Baaki Nepal ka thau haruma delivery charge applicable chha.",
+      "question": "Tapaiharu le Kathmandu ma free delivery dinu huncha?",
+      "response": "Ho, Kathmandu ko Upatyaka bhitra free delivery available chha. Baaki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "TechMart, Kathmandu-10, Old Baneshwor ma electronics saman Kathmandu ko purba bhitra free delivery chha. Bhaktapur, Lalitpur ra Kritipur ma delivery charge lagcha.",
+      "question": "Tapai Kathmandu ko purba ma free delivery dinu huncha?",
+      "response": "Ho, Kathmandu ko purba bhitra free delivery chha. Bhaktapur, Lalitpur ra Kritipur ma delivery charge lagcha."
+    },
+    {
+      "context": "ShopHub, Biratnagar-2, Subha Chowk bata saman Itahari ra Biratnagar bhitra matra delivery free chha. Koshi Pradesh ko aru thau haruma delivery charge applicable chha.",
+      "question": "Tapaiharu le Koshi Pradesh ma delivery charge lagau huncha?",
+      "response": "Ho, Koshi Pradesh ko aru thau haruma delivery charge lagcha. Itahari ra Biratnagar bhitra matra free delivery chha."
+    },
+    {
+      "context": "ElectroStore, Dharan-7, Dharan-2 ko Samakhusi Road bata saman Dharan bhitra free delivery chha. Aru thau haru jasta Biratnagar, Itahari, Pokhara ma delivery charge lagcha.",
+      "question": "Tapaiharu le Dharan bhitra free delivery dinu huncha?",
+      "response": "Ho, Dharan bhitra free delivery available chha. Biratnagar, Itahari ra Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "TechShop, Kathmandu-4, Maitidevi ma saman Kathmandu ko Upatyaka bhitra free delivery chha. Baki thau haruma delivery charge lagcha.",
+      "question": "Hajurko Kathmandu ma free delivery chha?",
+      "response": "Ho, Kathmandu Upatyaka bhitra free delivery chha. Baki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "SmartGadget, Dharan-3, Bhadrapur bata electronics saman only Dharan ma delivery free chha. Baki Koshi Pradesh ma delivery charge lagcha.",
+      "question": "Tapai Dharan ma delivery free dinu huncha?",
+      "response": "Ho, Dharan bhitra free delivery chha. Koshi Pradesh ka aru thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetHub, Biratnagar-11, Mechi Chowk bata saman Biratnagar ra Itahari bhitra free delivery chha. Baaki thau haruma delivery charge lagcha.",
+      "question": "Tapaiharu ko Itahari ma free delivery available chha?",
+      "response": "Ho, Itahari bhitra free delivery available chha. Biratnagar ra baaki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalMarket, Kathmandu-3, Thapathali bata electronics saman Kathmandu ko Upatyaka bhitra matra delivery free chha. Bhaktapur ra Lalitpur ma delivery charge lagcha.",
+      "question": "Tapai Kathmandu Upatyaka bhitra delivery free dinu huncha?",
+      "response": "Ho, Kathmandu Upatyaka bhitra free delivery available chha. Bhaktapur ra Lalitpur ma delivery charge lagcha."
+    },
+    {
+      "context": "TechPoint, Pokhara-4, Baglung Road ma electronics saman Pokhara ko purba chhetrama free delivery chha. Baki Pokhara ko thau haruma delivery charge applicable chha.",
+      "question": "Tapai Pokhara purba bhitra free delivery dinu huncha?",
+      "response": "Ho, Pokhara purba bhitra free delivery chha. Baki Pokhara ko thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "E-Tech, Biratnagar-5, Shantinagar bata electronics saman only Biratnagar ma delivery free chha. Itahari ra Dharan ma delivery charge applicable chha.",
+      "question": "Tapaiharu ko Biratnagar bhitra delivery free ho?",
+      "response": "Ho, Biratnagar bhitra delivery free ho. Itahari ra Dharan ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStore, Chitwan-2, Narayanghat bata saman Kathmandu ko Upatyaka bhitra delivery free chha. Chitwan ko aru thau haruma delivery charge lagcha.",
+      "question": "Tapai Kathmandu Upatyaka bhitra free delivery dinu huncha?",
+      "response": "Ho, Kathmandu ko Upatyaka bhitra free delivery available chha. Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartTech, Pokhara-3, Pardi ko chaubandi bata saman Pokhara ra Kathmandu ko Upatyaka bhitra delivery free chha. Baki thau haruma delivery charge lagcha.",
+      "question": "Pokhara ma delivery free chha?",
+      "response": "Pokhara ko Upatyaka bhitra delivery free chha. Kathmandu ra aru thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "TechShop, Kathmandu-12, Chabahil ma electronics saman Kathmandu ko bhitra matra free delivery chha. Bhaktapur ra Lalitpur ma delivery charge applicable chha.",
+      "question": "Tapai Kathmandu bhitra free delivery dinu huncha?",
+      "response": "Ho, Kathmandu bhitra free delivery available chha. Bhaktapur ra Lalitpur ma delivery charge lagcha."
+    },
+    {
+      "context": "SamanStore, Dharan-9, Dharan-2 bata saman Dharan ko sabai thau bhitra delivery free chha. Baaki thau haruma delivery charge applicable chha.",
+      "question": "Tapai Dharan ko bhitra delivery free dinu huncha?",
+      "response": "Ho, Dharan ko sabai thau bhitra free delivery chha. Baaki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "TechMarket, Biratnagar-3, Birtamode bata electronics saman Itahari ra Biratnagar bhitra delivery free chha. Koshi Pradesh ko aru thau haruma delivery charge lagcha.",
+      "question": "Hajurko Itahari ma free delivery chha?",
+      "response": "Ho, Itahari ra Biratnagar bhitra free delivery available chha. Koshi Pradesh ko aru thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "TechNepal, Kathmandu-9, Durbarmarg bata saman Kathmandu Upatyaka bhitra matra free delivery chha. Baaki thau jasta Bhaktapur, Lalitpur, ra Kavre ma delivery charge lagcha.",
+      "question": "Tapaiharu ko Bhaktapur samma delivery charge lagcha?",
+      "response": "Ho, Bhaktapur samma delivery charge lagcha. Kathmandu Upatyaka bhitra delivery free chha."
+    },
+    {
+      "context": "DigiHub, Itahari-3, BP Chowk ma saman order Itahari bhitra matra delivery free chha. Dharan, Biratnagar ra Purba Nepal ko aru thau haruma delivery charge applicable chha.",
+      "question": "Tapai Itahari bhitra free delivery dinu huncha?",
+      "response": "Ho, Itahari bhitra free delivery available chha. Dharan ra Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroNepal, Dharan-8, Buddha Chowk bata saman Dharan ko purba bhitra matra free delivery chha. Baki Koshi Pradesh ka thau haruma delivery charge lagcha.",
+      "question": "Hajurko saman Dharan purba samma free delivery ho?",
+      "response": "Ho, Dharan ko purba bhitra free delivery chha. Baki Koshi Pradesh ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetWorld, Pokhara-7, Hallan Chowk bata saman Pokhara Upatyaka ma delivery free chha. Chitwan ra Kathmandu ma delivery charge lagcha.",
+      "question": "Pokhara Upatyaka ma delivery free chha?",
+      "response": "Ho, Pokhara Upatyaka bhitra delivery free chha. Chitwan ra Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "ShopSmart, Biratnagar-1, Airport Road ma saman Biratnagar bhitra delivery free chha. Itahari ra Dharan ma delivery charge applicable chha.",
+      "question": "Hajurko saman Biratnagar bhitra delivery free ho?",
+      "response": "Ho, Biratnagar bhitra delivery free chha. Itahari ra Dharan ma delivery charge lagcha."
+    },
+    {
+      "context": "TechCity, Chitwan-5, Bharatpur bata saman Bharatpur bhitra matra delivery free chha. Pokhara, Kathmandu, ra Birgunj ma delivery charge applicable chha.",
+      "question": "Bharatpur bhitra ko delivery free ho?",
+      "response": "Ho, Bharatpur bhitra delivery free chha. Pokhara, Kathmandu ra Birgunj ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetShop, Kathmandu-6, Baluwatar bata saman Kathmandu Upatyaka bhitra free delivery chha. Lalitpur ra Bhaktapur ko delivery charge lagdaina.",
+      "question": "Tapai ko Lalitpur samma delivery charge lagdaina?",
+      "response": "Ho, Lalitpur samma delivery charge lagdaina. Kathmandu Upatyaka bhitra delivery free chha."
+    },
+    {
+      "context": "ElectroTech, Dharan-10, Putali Line ma saman order Dharan bhitra matra free delivery chha. Itahari ra Purba Nepal ka aru thau haruma delivery charge applicable chha.",
+      "question": "Hajurko Itahari samma free delivery chha?",
+      "response": "Itahari samma free delivery chhaina. Dharan bhitra matra free delivery chha."
+    },
+    {
+      "context": "DigitalMart, Pokhara-2, Chipledhunga ma electronics saman Pokhara ko sabai thau bhitra delivery free chha. Kathmandu ra Bharatpur ma delivery charge lagcha.",
+      "question": "Pokhara sabai thau ma free delivery chha?",
+      "response": "Ho, Pokhara ko sabai thau bhitra delivery free chha. Kathmandu ra Bharatpur ma delivery charge lagcha."
+    },
+    {
+      "context": "TechNepal Store, Itahari-7, Janata Chowk ma saman Itahari ko sabai thau ma free delivery chha. Koshi Pradesh ko aru thau haruma delivery charge lagcha.",
+      "question": "Tapai ko Itahari sabai thau ma free delivery chha?",
+      "response": "Ho, Itahari ko sabai thau ma free delivery chha. Koshi Pradesh ko aru thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "E-Shop, Kathmandu-4, New Baneshwor bata saman Kathmandu Upatyaka bhitra delivery free chha. Pokhara ra Chitwan ma delivery charge lagcha.",
+      "question": "Tapai Pokhara samma free delivery dinu huncha?",
+      "response": "Pokhara samma free delivery chhaina. Kathmandu Upatyaka bhitra matra free delivery chha."
+    },
+    {
+      "context": "SmartGadget, Biratnagar-12, Traffic Chowk ma saman Biratnagar bhitra free delivery chha. Itahari ra Dharan ma delivery charge applicable chha.",
+      "question": "Biratnagar bhitra delivery free ho?",
+      "response": "Ho, Biratnagar bhitra delivery free chha. Itahari ra Dharan ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetMart, Dharan-5, Bhanu Chowk ma saman Dharan bhitra matra free delivery chha. Koshi Pradesh ka baki thau haruma delivery charge lagcha.",
+      "question": "Hajurko saman Dharan bhitra delivery free ho?",
+      "response": "Ho, Dharan bhitra delivery free ho. Koshi Pradesh ka baki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroHub, Kathmandu-8, Maharajgunj ma saman Kathmandu ko Upatyaka bhitra delivery free chha. Bhaktapur ra Lalitpur ma pani delivery free chha.",
+      "question": "Kathmandu bhitra delivery charge lagdaina?",
+      "response": "Ho, Kathmandu bhitra delivery charge lagdaina. Bhaktapur ra Lalitpur ma pani delivery free chha."
+    },
+    {
+      "context": "TechBazaar, Itahari-4, BP Chowk ma saman Itahari ko sabai thau ma delivery free chha. Biratnagar ra Dharan ma delivery charge lagcha.",
+      "question": "Itahari sabai thau ma free delivery ho?",
+      "response": "Ho, Itahari ko sabai thau ma delivery free chha. Biratnagar ra Dharan ma delivery charge lagcha."
+    },
+    {
+      "context": "ShopElectronics, Pokhara-8, Lakeside ma saman Pokhara ko purba chhetra bhitra matra free delivery chha. Baaki thau haruma delivery charge lagcha.",
+      "question": "Pokhara purba ma delivery free chha?",
+      "response": "Ho, Pokhara purba bhitra delivery free chha. Baaki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStore, Dharan-2, Bhanu Chowk ma saman Dharan ko sabai thau bhitra free delivery chha. Koshi Pradesh ma baki thau haruma delivery charge lagcha.",
+      "question": "Tapaiharu Dharan sabai thau ma free delivery dinu huncha?",
+      "response": "Ho, Dharan ko sabai thau bhitra free delivery chha. Koshi Pradesh ka baki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "TechStore, Kathmandu-3, Tripureshwor ma electronics saman Kathmandu ma delivery free chha. Pokhara, Chitwan, ra Lalitpur ma delivery charge applicable chha. Dhading ma pani delivery charge lagcha.",
+      "question": "Tapai ko Lalitpur samma delivery free ho?",
+      "response": "Lalitpur samma delivery charge lagcha. Kathmandu ma delivery free chha."
+    },
+    {
+      "context": "NepalGadgets, Birgunj-5, Adarsha Nagar bata saman Birgunj bhitra delivery free chha. Hetauda, Chitwan, ra Kathmandu samma delivery charge lagcha.",
+      "question": "Hajurko saman Birgunj bhitra free delivery ho?",
+      "response": "Ho, Birgunj bhitra delivery free chha. Hetauda, Chitwan, ra Kathmandu samma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStore, Dharan-9, Buddha Chowk ma saman Dharan ko Upatyaka ma free delivery chha. Itahari ra Koshi Pradesh ko baki thau haruma delivery charge lagcha.",
+      "question": "Dharan Upatyaka ma delivery free chha?",
+      "response": "Ho, Dharan Upatyaka bhitra delivery free chha. Itahari ra Koshi Pradesh ko baki thau haruma delivery charge lagcha."
+    },
+    {
+      "context": "SmartBazaar, Pokhara-11, Amarsingh Chowk ma saman Pokhara ma delivery free chha. Purba Chitwan, Bharatpur, ra Tanahun ma delivery charge applicable chha.",
+      "question": "Pokhara bhitra free delivery chha?",
+      "response": "Ho, Pokhara bhitra delivery free chha. Purba Chitwan, Bharatpur, ra Tanahun ma delivery charge lagcha."
+    },
+    {
+      "context": "DigiNepal, Kathmandu-10, Thamel bata saman Kathmandu Upatyaka bhitra matra delivery free chha. Bhaktapur, Lalitpur, ra Valley ko bahira delivery charge lagcha.",
+      "question": "Hajurko Kathmandu Valley bhitra delivery free chha?",
+      "response": "Ho, Kathmandu Valley bhitra delivery free chha. Valley ko bahira delivery charge lagcha."
+    },
+    {
+      "context": "QuickMart, Itahari-2, Pipal Chowk ma saman Itahari ko purba thau bhitra delivery free chha. Biratnagar ra Dharan samma delivery charge lagcha.",
+      "question": "Tapaiharu ko Itahari purba delivery free ho?",
+      "response": "Ho, Itahari ko purba thau bhitra delivery free chha. Biratnagar ra Dharan samma delivery charge lagcha."
+    },
+    {
+      "context": "TechWorld, Biratnagar-3, Kanchanbari ma saman Biratnagar ko sabai thau bhitra free delivery chha. Morang, Sunsari, ra Dhankuta ma delivery charge lagcha.",
+      "question": "Biratnagar sabai thau ma delivery free chha?",
+      "response": "Ho, Biratnagar ko sabai thau bhitra delivery free chha. Morang, Sunsari, ra Dhankuta ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroNepal, Kathmandu-7, Kalanki bata saman Kathmandu Upatyaka bhitra free delivery chha. Kavre, Makwanpur, ra Gorkha samma delivery charge lagcha.",
+      "question": "Tapai Kathmandu ko delivery free chha?",
+      "response": "Ho, Kathmandu Upatyaka bhitra delivery free chha. Kavre, Makwanpur, ra Gorkha samma delivery charge lagcha."
+    },
+    {
+      "context": "SmartTech, Dharan-4, Bhanu Chowk ma saman Dharan Upatyaka bhitra free delivery chha. Itahari, Inaruwa, ra Birtamod samma delivery charge lagcha.",
+      "question": "Hajur Dharan Upatyaka ma delivery free dinu huncha?",
+      "response": "Ho, Dharan Upatyaka bhitra delivery free chha. Itahari, Inaruwa, ra Birtamod samma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetHub, Pokhara-9, Prithvi Chowk bata saman Pokhara ko Lakeside ra purba chhetra bhitra matra free delivery chha. Chitwan, Tanahun, ra Syangja samma delivery charge applicable chha.",
+      "question": "Pokhara Lakeside samma delivery charge lagdaina?",
+      "response": "Ho, Lakeside samma delivery charge lagdaina. Pokhara ko purba chhetra bhitra free delivery chha."
+    },
+    {
+      "context": "TechMart, Chitwan-3, Narayangadh ma saman Bharatpur bhitra free delivery chha. Hetauda, Makwanpur, ra Chitwan ko pashchim thau ma delivery charge lagcha.",
+      "question": "Hetauda samma delivery charge lagcha?",
+      "response": "Ho, Hetauda samma delivery charge lagcha. Bharatpur bhitra delivery free chha."
+    },
+    {
+      "context": "DigitalGears, Kathmandu-1, Jamal bata saman Kathmandu ko sabai thau bhitra free delivery chha. Pokhara, Biratnagar, ra Dharan samma delivery charge applicable chha.",
+      "question": "Kathmandu ko delivery free ho?",
+      "response": "Ho, Kathmandu ko sabai thau bhitra delivery free chha. Pokhara, Biratnagar, ra Dharan samma delivery charge lagcha."
+    },
+    {
+      "context": "NepTech, Dharan-6, Tarahara Chowk bata saman Dharan ko sabai thau bhitra delivery free chha. Purba Nepal ka aru thau haruma delivery charge lagcha.",
+      "question": "Tapai Dharan ma free delivery dinu huncha?",
+      "response": "Ho, Dharan ma sabai thau bhitra delivery free chha. Purba Nepal ka baki thau ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartElectronics, Biratnagar-5, Golchha Chowk ma saman Biratnagar bhitra free delivery chha. Itahari, Dharan, ra Sunsari ko aru thau ma delivery charge lagcha.",
+      "question": "Biratnagar bhitra delivery charge lagcha?",
+      "response": "Biratnagar bhitra delivery charge lagdaina. Itahari, Dharan, ra Sunsari ko aru thau ma delivery charge lagcha."
+    },
+    {
+      "context": "TechShop, Kathmandu-4, Anamnagar bata saman Kathmandu ko Upatyaka bhitra delivery free chha. Lalitpur ra Bhaktapur ma pani delivery free chha.",
+      "question": "Tapai Bhaktapur samma delivery free dinu huncha?",
+      "response": "Ho, Bhaktapur samma delivery free chha. Kathmandu Upatyaka bhitra delivery charge lagdaina."
+    },
+    {
+      "context": "ElectroSmart, Pokhara-10, ShitalPath bata saman Pokhara ko purba bhitra delivery free chha. Chitwan ra Syangja samma delivery charge applicable chha.",
+      "question": "Pokhara purba samma delivery free ho?",
+      "response": "Ho, Pokhara purba samma delivery free chha. Chitwan ra Syangja samma delivery charge lagcha."
+    },
+    {
+      "context": "SmartTechHub, Kathmandu-5, New Baneshwor ma base chha, jaha electronics saman haru ko kendra ho. Kathmandu Upatyaka ko core area ma saman haru delivery free chha jasle Kathmandu, Lalitpur ra Bhaktapur lai samet chha. Tar, upatyaka bahira delivery chahine bhaye, Banepa, Dhulikhel, ra Kavre samma delivery charge lagcha. Yesto ni, saman ko weight ra size anusar pani charge badna sakcha. Special instruction chahine delivery ko lagi, hamro hotline ma samparka garna saknu huncha.",
+      "question": "Tapai Kathmandu Upatyaka ma delivery free dinu huncha?",
+      "response": "Ho, Kathmandu Upatyaka ko core area bhitra delivery free chha. Tar, upatyaka bahira, Banepa, Dhulikhel, ra Kavre samma delivery charge lagcha."
+    },
+    {
+      "context": "NepalGadgetMart, Birgunj-12, Adarsha Chowk bata sabai electronics saman dispatch huncha. Birgunj ko sabai ward haru ma delivery free chha. Tar, Parsa district bahira, Hetauda, Bara, ra Rautahat samma delivery charge lagcha. Special case ma, customer le specific location ko delivery chahine bhaye advance order confirmation garna parcha. Saman dispatch hune samay Monday dekhi Friday, office hour ma matra ho.",
+      "question": "Tapai Birgunj bahira pani saman delivery dinu huncha?",
+      "response": "Ho, Birgunj bahira pani delivery dincha, tar Hetauda, Bara, ra Rautahat samma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalBazaar, Pokhara-4, Mahendrapool ma electronics accessories ko hub ho. Pokhara city bhitra delivery free chha, jasma Lakeside, Prithvi Chowk, ra Bindhyabasini mandir area samet parcha. Tanahun, Syangja, ra Kaski ko baki chhetra ma saman delivery garna delivery charge applicable chha. Kunai urgent delivery chahine bhaye, hamro express delivery service pani available chha, jun samay anusar chargeable huncha.",
+      "question": "Hajur Pokhara ko Lakeside samma delivery free dinu huncha?",
+      "response": "Ho, Pokhara ko Lakeside samma delivery free chha. Tanahun, Syangja, ra Kaski ko baki chhetra ma delivery charge applicable chha."
+    },
+    {
+      "context": "QuickDelivery, Dharan-3, Bhanu Chowk ma adharit ecommerce service ho. Dharan Upatyaka bhitra delivery charge lagdaina, jasle Pindeshwor, Tarahara, ra Bijaypur jasta thau samet samet chha. Itahari, Inaruwa, ra Biratnagar samma delivery charge applicable chha. Heavy electronics items jaise TV, fridge ko lagi additional charge applicable huncha. Payment options pani flexible chha, cash on delivery ra online payment duita available chha.",
+      "question": "Hajur Dharan Upatyaka ma delivery free chha?",
+      "response": "Ho, Dharan Upatyaka bhitra delivery free chha. Itahari, Inaruwa, ra Biratnagar samma delivery charge lagcha."
+    },
+    {
+      "context": "TechBazaar, Itahari-6, Hattisar ma sthit hub ho. Itahari bhitra saman free delivery chha. Delivery Itahari ko eastern part jasta ki Kanchanbari, Duhabi, ra Tandi ma pani available chha. Tar, Morang district ko Purweli chhetra ma saman pathaune delivery charge lagcha. Hamro service Sunday dekhi Friday samma open chha ra special holidays ma saman dispatch chhaina.",
+      "question": "Tapai Itahari eastern region samma delivery free ho?",
+      "response": "Ho, Itahari eastern region bhitra delivery free chha. Tar, Morang district ko Purweli chhetra ma delivery charge lagcha."
+    },
+    {
+      "context": "EliteElectronics, Kathmandu-10, Tinkune ma electronics saman ko centralized hub ho. Kathmandu Upatyaka bhitra delivery saman ko cost ma include chha. Delivery Lalitpur ko Satdobato, Jawalakhel, ra Bhaktapur ko Kamalbinayak samma free delivery ho. Upatyaka bahira, Dhulikhel, Banepa, ra Sindhupalchok samma delivery charge lagcha. Emergency delivery ma saman 24 ghanta bhitra pathauna surcharge lagna sakcha.",
+      "question": "Kathmandu ko Jawalakhel samma free delivery chha?",
+      "response": "Ho, Jawalakhel samma free delivery chha. Tar, upatyaka bahira, Dhulikhel, Banepa, ra Sindhupalchok samma delivery charge lagcha."
+    },
+    {
+      "context": "TechDealHub, Biratnagar-8, Airport Road bata saman dispatch huncha. Biratnagar ko sabai ward bhitra delivery charge lagdaina. Tar, Dharan, Itahari, ra Birtamod samma delivery charge lagcha. Delivery ma saman ko size, weight, ra distance ko anusar additional cost lagna sakcha. Weekend ma delivery service available chhaina.",
+      "question": "Tapai ko Biratnagar ward delivery free chha?",
+      "response": "Ho, Biratnagar ko sabai ward bhitra delivery free chha. Tar, Dharan, Itahari, ra Birtamod samma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetWorld, Chitwan-2, Bharatpur ma base center chha. Bharatpur ko sabai area ma delivery charge lagdaina. Chitwan district ko purba ra pashchim thau haru jasta ki Narayangadh, Ratnanagar, ra Mugling samma delivery charge applicable chha. Return policy 7 din bhitra chha, tar saman damage na hunu parcha.",
+      "question": "Tapai Bharatpur samma free delivery garna saknu huncha?",
+      "response": "Ho, Bharatpur samma free delivery chha. Chitwan district ko baki thau ma delivery charge lagcha."
+    },
+    {
+      "context": "NepTechMart, Pokhara-13, Airport Chowk ma adharit ecommerce hub chha. Pokhara Upatyaka bhitra saman delivery free chha. Lakeside, Amarsingh, ra Srijanachowk samma pani delivery cost included chha. Pokhara ko bahira, Syangja, Baglung, ra Parbat samma saman delivery garna charge lagcha.",
+      "question": "Pokhara ko Srijanachowk samma free delivery chha?",
+      "response": "Ho, Srijanachowk samma delivery free chha. Pokhara Upatyaka ko bahira delivery charge lagcha."
+    },
+    {
+      "context": "QuickElectro, Kathmandu-12, Baluwatar bata saman dispatch huncha. Kathmandu Upatyaka ma, Balaju, Kalanki, ra Gongabu samma free delivery chha. Lalitpur ko area jasta ki Jhamsikhel, Kupandol ma pani free chha. Tar, Bhaktapur, Banepa, ra Nuwakot samma delivery charge applicable chha.",
+      "question": "Tapai ko Lalitpur area ma free delivery ho?",
+      "response": "Ho, Lalitpur ko Jhamsikhel ra Kupandol samma free delivery chha. Bhaktapur, Banepa, ra Nuwakot samma delivery charge lagcha."
+    },
+    {
+      "context": "TechEase, Butwal-5, Kalikanagar ma electronics saman ko outlet chha. Butwal ma sabai ward haru bhitra delivery free chha. Tar, Rupandehi district bahira, Lumbini, Palpa, ra Kapilvastu samma delivery charge lagcha. Special delivery ko lagi, hamro express service use garna saknu huncha, jun saman weight anusar chargeable huncha. Heavy appliances, jastai washing machine ra refrigerator ma fixed delivery fee applicable chha. Delivery confirmation ko lagi hamro customer service ma samparka garna saknu huncha.",
+      "question": "Tapai Butwal ko ward haru ma delivery free chha?",
+      "response": "Ho, Butwal ko sabai ward haru bhitra delivery free chha. Rupandehi district bahira delivery charge lagcha."
+    },
+    {
+      "context": "DigitalHome, Birgunj-15, Shankar Road ma electronics ko showroom ho. Birgunj ko Shankar Road, Chapkaiya, ra Adarsha Nagar samma delivery free chha. Tar, Birgunj bahira, Bara, Simara, ra Kalaiya samma delivery charge lagcha. Heavy electronics saman delivery garna truck use garnuparcha, jasle fixed cost lagcha. Dispatch ko samay Monday dekhi Saturday samma ho, tar Sunday ma delivery service band chha.",
+      "question": "Hajur Birgunj ko Shankar Road samma delivery dinu huncha?",
+      "response": "Ho, Shankar Road samma delivery free chha. Tar, Birgunj bahira, Bara, Simara, ra Kalaiya samma delivery charge lagcha."
+    },
+    {
+      "context": "SmartGadgetHub, Itahari-10, Koshi Highway ko naaliko cheu base chha. Itahari Upatyaka ma free delivery chha, jasma Hattisar, Buspark, ra Zero Point ko area samet chha. Tar, Dharan, Biratnagar, ra Duhabi samma delivery garna extra charge lagcha. Saman urgent cha bhane, express delivery service ko lagi hamro hotline ma samparka garnu hos.",
+      "question": "Tapai Itahari ma free delivery dinu huncha?",
+      "response": "Ho, Itahari Upatyaka bhitra free delivery chha. Tar, Dharan, Biratnagar, ra Duhabi samma delivery charge lagcha."
+    },
+    {
+      "context": "EStoreNepal, Pokhara-7, Lakeside ma electronics saman ko outlet chha. Pokhara Upatyaka ma, Lakeside, Newroad, ra Mahendrapool samma delivery free chha. Baglung, Parbat, ra Syangja samma delivery charge lagcha. Special bulk order ko lagi, advance booking garnu parcha, ani delivery confirmation pani chhito huncha. Weekend ma service open chha, tar national holidays ma delivery available hudaina.",
+      "question": "Pokhara ko Newroad samma delivery charge lagdaina?",
+      "response": "Ho, Pokhara ko Newroad samma delivery charge lagdaina. Tar, Baglung, Parbat, ra Syangja samma delivery charge lagcha."
+    },
+    {
+      "context": "TechWorld, Kathmandu-9, Boudha Road ma sthit showroom ho. Kathmandu ko core areas jasta ki Bouddha, Chabahil, ra Gaushala samma delivery free chha. Lalitpur ko Ekantakuna, Jhamsikhel, ra Jawalakhel samma pani delivery free chha. Tar, Bhaktapur, Banepa, ra Kavre samma saman delivery garna charge lagcha. Heavy items ko lagi advance booking garnu jaruri chha.",
+      "question": "Tapai Lalitpur samma free delivery garna saknu huncha?",
+      "response": "Ho, Lalitpur samma delivery free chha. Tar, Bhaktapur, Banepa, ra Kavre samma delivery charge lagcha."
+    },
+    {
+      "context": "NepalGadgetStore, Bharatpur-4, Lions Chowk bata dispatch huncha. Bharatpur Upatyaka ma sabai ward haru bhitra delivery free chha. Tar, Narayangadh, Mugling, ra Chitwan district ko baki areas samma delivery garna charge applicable huncha. Delivery service ko samay working days ma matra ho, ani saman damage ko claim sirf 3 din bhitra garna parcha.",
+      "question": "Tapai Bharatpur Upatyaka ma delivery charge lagcha?",
+      "response": "Bharatpur Upatyaka ma delivery charge lagdaina. Tar, Narayangadh, Mugling, ra Chitwan district ko baki areas samma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetGalaxy, Biratnagar-10, Airport Road ma base chha. Biratnagar ko ward 1 dekhi 19 samma delivery charge lagdaina. Dharan, Itahari, ra Birtamod samma delivery garna delivery charge applicable chha. Heavy electronics saman ko lagi additional fees lagna sakcha. Weekend delivery service sirf advance payment ma available chha.",
+      "question": "Biratnagar ko ward 5 samma free delivery chha?",
+      "response": "Ho, Biratnagar ko ward 5 samma free delivery chha. Dharan, Itahari, ra Birtamod samma delivery charge lagcha."
+    },
+    {
+      "context": "TechTrends, Dharan-5, Bhanu Chowk ma electronics store chha. Dharan ma sabai ward haru bhitra delivery free chha. Itahari, Inaruwa, ra Duhabi samma delivery charge lagcha. Express delivery ko lagi saman dispatch 24 ghanta bhitra huncha, tara surcharge lagna sakcha.",
+      "question": "Dharan Upatyaka ma delivery charge lagcha?",
+      "response": "Dharan Upatyaka ma delivery charge lagdaina. Tar, Itahari, Inaruwa, ra Duhabi samma delivery charge lagcha."
+    },
+    {
+      "context": "EliteMart, Kathmandu-12, Balaju ma sthit electronics outlet ho. Kathmandu ko Balaju, Gongabu, ra Kalanki samma delivery free chha. Bhaktapur, Banepa, ra Dhulikhel samma delivery charge lagcha. Large appliances delivery ko lagi fixed fee lagna sakcha.",
+      "question": "Tapai Gongabu samma delivery free dinu huncha?",
+      "response": "Ho, Gongabu samma delivery free chha. Bhaktapur, Banepa, ra Dhulikhel samma delivery charge lagcha."
+    },
+    {
+      "context": "MegaStore, Pokhara-8, Prithvi Chowk ma center chha. Pokhara Upatyaka ko Lakeside, Mahendrapool, ra Newroad samma delivery charge lagdaina. Syangja, Baglung, ra Parbat samma delivery garna extra cost lagcha. Urgent delivery 12 ghanta bhitra possible chha, tara express service ko cost samet lagcha.",
+      "question": "Hajur Mahendrapool samma free delivery chha?",
+      "response": "Ho, Mahendrapool samma free delivery chha. Syangja, Baglung, ra Parbat samma delivery charge lagcha."
+    },
+    {
+      "context": "TechBazaar, Kathmandu-11, Maitidevi ko center ho. Hamro delivery service Nepal bhar available chha, tara Kathmandu valley bhitra ko delivery free ho. Baaki sabai jilla haru ma delivery charge saman ko weight ra distance anusar lagcha. Kathmandu valley bhitra ko express delivery ko lagi 200 rupaiya charge lagcha, jasma saman order gareko 6 ghanta bhitra dispatch huncha. Aba saman order gareko total amount Rs. 3000 banda mathi bhaye delivery free huncha, Kathmandu bahira pani.",
+      "question": "Tapai Kathmandu valley bahira ko delivery ko barema thap jankari dinu huncha?",
+      "response": "Kathmandu valley bhitra delivery free chha. Baaki Nepal bhar delivery charge saman ko weight ra distance anusar lagcha. Rs. 3000 banda mathi order ma Kathmandu bahira pani free delivery chha."
+    },
+    {
+      "context": "DigitalHub, Pokhara-6, Lakeside ma sthit electronics showroom ho. Pokhara Upatyaka ma delivery free chha. Aba saman order Rs. 5000 banda mathi bhaye Syangja, Baglung, ra Kaski jilla samma delivery free huncha. Urgent delivery ko lagi extra charge lagna sakcha. Baaki areas ko lagi courier service dwara saman dispatch huncha, ani charge courier ko rate anusar lagcha. Delivery timing Monday dekhi Saturday ko bich din ko 9 bajedekhi 5 baje samma ho.",
+      "question": "Tapai Syangja samma delivery free dinu huncha?",
+      "response": "Ho, aba saman order Rs. 5000 banda mathi bhaye Syangja samma delivery free chha. Rs. 5000 tala ko order ma courier charge lagcha."
+    },
+    {
+      "context": "ElectroMart, Biratnagar-12, Airport Road ma center chha. Delivery service ko lagi hamile Purba Nepal ko Dharan, Itahari, ra Jhapa area bhitra free delivery provide garna suru gareka chhau. Aba saman order gareko Rs. 4000 mathi bhaye, Birtamod samma pani free delivery available chha. Heavy saman delivery garna truck lagcha, jasma fixed Rs. 500 ko charge applicable chha. Nepal ka baaki sabai areas ma delivery charge saman ko weight anusar lageko chha.",
+      "question": "Tapai Purba ko delivery ko barema kehi bhandinu huncha?",
+      "response": "Purba Nepal ko Dharan, Itahari, ra Jhapa area bhitra free delivery chha. Aba saman order Rs. 4000 mathi bhaye, Birtamod samma pani free delivery available chha."
+    },
+    {
+      "context": "GadgetCenter, Bharatpur-4, Lions Chowk ma electronics saman ko outlet ho. Bharatpur ma sabai ward haru bhitra delivery free chha. Aba saman order gareko Rs. 3000 banda mathi bhaye Narayangadh, Mugling, ra Ratnanagar samma free delivery chha. Heavy appliances jastai refrigerator ra washing machine ko lagi fixed Rs. 700 ko charge applicable huncha. Delivery service ko timing weekdays ma matra available chha, ani saman ko damage claim order delivery bhayeko 48 ghanta bhitra matra garna milcha.",
+      "question": "Bharatpur bahira ko delivery charge kati ho?",
+      "response": "Bharatpur bhitra delivery free chha. Rs. 3000 banda mathi ko order ma Narayangadh, Mugling, ra Ratnanagar samma free delivery chha. Heavy appliances ko lagi Rs. 700 charge lagcha."
+    },
+    {
+      "context": "SmartElectronics, Kathmandu-9, New Baneshwor ma showroom chha. Kathmandu valley bhitra delivery service free chha. Aba saman order gareko total Rs. 2000 banda mathi bhaye express delivery 2 ghanta bhitra provide garna sakcha. Bhaktapur, Lalitpur, ra Kathmandu ma express service surcharge Rs. 300 ho. Nepal bhar delivery saman ko weight anusar courier dwara dispatch garincha, tara Kathmandu valley bhitra hamro own fleet use huncha.",
+      "question": "Kathmandu valley ma express delivery available chha?",
+      "response": "Ho, Kathmandu valley bhitra saman order Rs. 2000 banda mathi bhaye express delivery 2 ghanta bhitra available chha. Surcharge Rs. 300 ho."
+    },
+    {
+      "context": "eShopNepal, Itahari-8, College Road ma sthit ho. Hamro delivery Itahari ko ward 1 dekhi 10 samma free chha. Aba saman order gareko Rs. 3500 banda mathi bhaye Dharan ra Biratnagar samma pani delivery free provide huncha. Itahari bahira ko saman dispatch local courier dwara huncha, ra delivery charge courier company ko rate list anusar lagcha. Return or exchange policy sirf 7 din bhitra matra valid chha.",
+      "question": "Tapai Dharan samma free delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 3500 banda mathi bhaye Dharan samma free delivery chha. Itahari bahira courier dwara saman dispatch huncha."
+    },
+    {
+      "context": "TechZone, Bhaktapur-5, Suryabinayak ma electronics showroom chha. Bhaktapur ma ward 1 dekhi 10 samma delivery free chha. Aba saman order gareko Rs. 2500 banda mathi bhaye Kathmandu valley ko sabai areas ma free delivery chha. Nepal ko baaki thau haru ma saman dispatch courier company dwara huncha, ra courier charge saman ko size ra weight anusar lagcha.",
+      "question": "Tapai Kathmandu valley ko delivery free ho?",
+      "response": "Ho, Rs. 2500 banda mathi ko order ma Kathmandu valley ko sabai areas ma delivery free chha."
+    },
+    {
+      "context": "GadgetGuru, Lalitpur-2, Pulchowk ma base chha. Lalitpur ma ward 1 dekhi 25 samma delivery free chha. Aba saman order gareko Rs. 4000 banda mathi bhaye Kathmandu, Lalitpur, ra Bhaktapur ko sabai ward ma free delivery available huncha. Nepal bhar ko delivery saman weight ra distance anusar chargeable huncha. Weekend delivery sirf prior booking garema matra available chha.",
+      "question": "Kathmandu, Lalitpur, Bhaktapur ko delivery free chha?",
+      "response": "Ho, Rs. 4000 banda mathi ko order ma Kathmandu, Lalitpur, ra Bhaktapur ko sabai ward ma delivery free chha."
+    },
+    {
+      "context": "HomeTech, Dharan-6, Bhanu Chowk ma electronics saman ko outlet ho. Dharan ma ward 1 dekhi 20 samma delivery free chha. Aba saman order gareko Rs. 3000 mathi bhaye Itahari, Birtamod, ra Biratnagar samma free delivery chha. Heavy saman, jastai AC unit ko lagi truck dwara delivery garincha, ra fixed Rs. 1000 ko charge applicable chha. Delivery timing Monday dekhi Saturday samma ho, Sunday ma delivery service available hudaina.",
+      "question": "Dharan ko delivery free ho?",
+      "response": "Ho, Dharan ma ward 1 dekhi 20 samma delivery free chha. Aba saman order Rs. 3000 mathi bhaye Itahari, Birtamod, ra Biratnagar samma pani free delivery chha."
+    },
+    {
+      "context": "ElectroNepal, Birgunj-14, Shankar Road ma electronics ko center chha. Birgunj ko Shankar Road, Adarsha Nagar, ra Chapkaiya samma delivery free chha. Aba saman order gareko Rs. 5000 mathi bhaye Bara, Simara, ra Kalaiya samma free delivery available huncha. Courier dispatch timing Monday dekhi Friday samma ho, tara urgent delivery ko lagi hamro express service chargeable huncha.",
+      "question": "Birgunj ko Shankar Road samma delivery free chha?",
+      "response": "Ho, Birgunj ko Shankar Road samma delivery free chha. Aba saman order Rs. 5000 mathi bhaye Bara, Simara, ra Kalaiya samma pani delivery free chha."
+    },
+    {
+      "context": "ElectroShop, Kathmandu-10, Tinkune ma sthit electronics store ho. Delivery Kathmandu valley ko Bhaktapur, Lalitpur, ra Kathmandu ko ward haru ma free chha. Aba saman order gareko Rs. 4000 banda mathi bhaye valley bahira, jastai Hetauda ra Dhulikhel samma pani delivery free huncha. Heavy saman ko lagi Rs. 800 surcharge applicable huncha. Delivery service ko timing Monday dekhi Friday 9 baje dekhi 6 baje samma ho.",
+      "question": "Tapai Hetauda samma delivery free huncha?",
+      "response": "Ho, aba saman order Rs. 4000 banda mathi bhaye Hetauda samma delivery free huncha. Heavy saman ko lagi Rs. 800 surcharge applicable huncha."
+    },
+    {
+      "context": "TechNepal, Pokhara-7, Hallan Chowk ma electronics outlet chha. Pokhara ko ward 1 dekhi 20 samma delivery free chha. Aba saman order gareko Rs. 3000 banda mathi bhaye Lekhnath, Baglung, ra Lamjung samma pani free delivery dincha. Express delivery ko lagi Rs. 200 surcharge applicable huncha. Courier dwara Nepal bhar dispatch garincha, delivery timing saman ko nature anusar vary huncha.",
+      "question": "Tapai Pokhara bahira delivery free chha?",
+      "response": "Pokhara ko ward 1 dekhi 20 samma delivery free chha. Aba saman order Rs. 3000 banda mathi bhaye Lekhnath, Baglung, ra Lamjung samma pani free delivery chha."
+    },
+    {
+      "context": "DigitalMall, Dharan-15, Madan Bhandari Road ma base chha. Dharan bhitra ko sabai ward haru ma delivery free chha. Aba saman order Rs. 2000 mathi bhaye Itahari, Birtamod, ra Damak samma pani free delivery available chha. Courier service ko rate jasto saman ko weight anusar biratnagar samma lagcha. Heavy saman delivery ma Rs. 700 surcharge applicable huncha.",
+      "question": "Tapaiharu le Birtamod samma free delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 2000 mathi bhaye Birtamod samma free delivery chha."
+    },
+    {
+      "context": "SmartStore, Bhaktapur-9, Kamalbinayak ma electronics items ko center ho. Bhaktapur ra Kathmandu valley ko sabai ward ma free delivery chha. Aba saman order gareko Rs. 5000 mathi bhaye Hetauda, Banepa, ra Sindhuli samma delivery free provide garincha. Heavy saman ko lagi flat Rs. 1000 charge lagcha, ani express delivery surcharge Rs. 300 ho.",
+      "question": "Tapai Sindhuli samma delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 5000 mathi bhaye Sindhuli samma delivery free huncha. Heavy saman ko lagi flat Rs. 1000 charge lagcha."
+    },
+    {
+      "context": "ElectroDeals, Biratnagar-5, Bargachhi ma electronics store chha. Biratnagar ko ward 1 dekhi 20 samma delivery free chha. Aba saman order Rs. 4000 banda mathi bhaye Itahari ra Dharan samma free delivery chha. Heavy appliances ma fixed Rs. 500 ko charge applicable huncha, delivery service Monday dekhi Saturday samma matra chalcha.",
+      "question": "Tapai Dharan samma delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 4000 banda mathi bhaye Dharan samma free delivery chha."
+    },
+    {
+      "context": "GadgetKing, Lalitpur-5, Jawalakhel ma electronics showroom chha. Lalitpur bhitra ko delivery free chha, aba saman order Rs. 3000 mathi bhaye Bhaktapur, Kathmandu, ra Kirtipur samma pani free delivery available chha. Heavy saman ko lagi Rs. 700 surcharge applicable huncha, ani courier ko lagi Nepal bhar dispatch rate applicable huncha.",
+      "question": "Tapai Kathmandu ma free delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 3000 mathi bhaye Kathmandu samma free delivery chha."
+    },
+    {
+      "context": "SmartGadgets, Bharatpur-2, Hakim Chowk ma center chha. Bharatpur ko sabai ward haru ma delivery free chha. Aba saman order gareko Rs. 4000 banda mathi bhaye Mugling, Narayangadh, ra Tandi samma pani delivery free huncha. Express delivery ko lagi additional Rs. 300 lagcha, tara weekend delivery only pre-booking ma matra available chha.",
+      "question": "Tapai Narayangadh samma delivery free dinu huncha?",
+      "response": "Ho, saman order Rs. 4000 banda mathi bhaye Narayangadh samma delivery free huncha."
+    },
+    {
+      "context": "eElectronics, Birgunj-8, Adarsha Nagar ma electronics showroom chha. Birgunj ko ward haru ma delivery free chha. Aba saman order gareko Rs. 5000 mathi bhaye Simara, Bara, ra Kalaiya samma free delivery available chha. Courier dispatch ko lagi saman ko weight ra size anusar charge lagcha.",
+      "question": "Simara samma free delivery chha?",
+      "response": "Ho, saman order Rs. 5000 mathi bhaye Simara samma free delivery chha."
+    },
+    {
+      "context": "FastTech, Kathmandu-7, Lazimpat ma electronics store chha. Kathmandu valley bhitra ko delivery sabai ward ma free chha. Aba saman order gareko Rs. 3000 mathi bhaye Dhulikhel, Banepa, ra Kavre samma delivery free huncha. Heavy saman dispatch ko lagi extra Rs. 800 charge applicable huncha.",
+      "question": "Banepa samma free delivery available chha?",
+      "response": "Ho, saman order Rs. 3000 mathi bhaye Banepa samma free delivery available chha."
+    },
+    {
+      "context": "ElectroHub, Dharan-10, Buddha Chowk ma center chha. Dharan ma sabai ward ma delivery free chha. Aba saman order gareko Rs. 2000 banda mathi bhaye Itahari ra Damak samma pani free delivery huncha. Heavy saman ko lagi flat Rs. 600 lagcha.",
+      "question": "Tapai Itahari samma free delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 2000 banda mathi bhaye Itahari samma free delivery huncha."
+    },
+    {
+      "context": "ElectroNepal, Kathmandu-12, Koteshwor ma sthit store ho. Kathmandu valley vitra Bhaktapur, Lalitpur, ra Kathmandu ko sabai ward haru ma delivery free chha. Aba saman order Rs. 5000 banda mathi bhaye Dhulikhel, Banepa, ra Panauti samma pani delivery free available chha. Courier service ko lagi heavy saman ma Rs. 1000 surcharge applicable huncha.",
+      "question": "Tapaiharu Banepa samma free delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 5000 banda mathi bhaye Banepa samma free delivery huncha."
+    },
+    {
+      "context": "TechStore, Pokhara-9, Mahendrapul ma electronics ko store ho. Pokhara bhitra sabai ward ma delivery free chha. Aba saman order Rs. 3000 mathi bhaye Lekhnath, Lamjung, ra Baglung samma delivery free chha. Courier dwara Nepal bhar saman dispatch garincha, tara weight anusar charge applicable huncha.",
+      "question": "Hajurko store le Baglung samma free delivery dincha?",
+      "response": "Ho, saman order Rs. 3000 mathi bhaye Baglung samma free delivery dincha."
+    },
+    {
+      "context": "GadgetHub, Biratnagar-6, Bargachhi ma electronics store chha. Biratnagar bhitra delivery free chha. Aba saman order Rs. 4000 mathi bhaye Dharan, Itahari, ra Damak samma pani free delivery chha. Courier dwara saman dispatch garincha, heavy saman ko lagi Rs. 800 surcharge applicable huncha.",
+      "question": "Tapai Dharan samma free delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 4000 mathi bhaye Dharan samma free delivery chha."
+    },
+    {
+      "context": "SmartTech, Bharatpur-5, Chaubiskothi ma sthit chha. Bharatpur ko sabai ward ma delivery free chha. Aba saman order Rs. 3500 mathi bhaye Mugling, Narayangadh, ra Tandi samma pani free delivery dincha. Heavy saman ko lagi Rs. 700 surcharge applicable huncha.",
+      "question": "Tapai Narayangadh samma delivery free chha?",
+      "response": "Ho, saman order Rs. 3500 mathi bhaye Narayangadh samma delivery free chha."
+    },
+    {
+      "context": "FastElectronics, Bhaktapur-8, Kamalbinayak ma showroom chha. Bhaktapur bhitra delivery free chha. Aba saman order gareko Rs. 5000 banda mathi bhaye Lalitpur, Kathmandu, ra Banepa samma delivery free huncha. Heavy saman ma flat Rs. 1000 ko charge applicable huncha.",
+      "question": "Kathmandu samma free delivery chha?",
+      "response": "Ho, saman order Rs. 5000 mathi bhaye Kathmandu samma free delivery chha."
+    },
+    {
+      "context": "DigitalMart, Dharan-15, Bhanuchowk ma electronics center ho. Dharan bhitra delivery free chha. Aba saman order Rs. 3000 mathi bhaye Itahari, Birtamod, ra Biratnagar samma free delivery available chha. Express delivery ko lagi additional Rs. 500 lagcha.",
+      "question": "Birtamod samma delivery free chha?",
+      "response": "Ho, saman order Rs. 3000 mathi bhaye Birtamod samma delivery free chha."
+    },
+    {
+      "context": "GadgetWorld, Hetauda-4, Sahid Chowk ma electronics outlet chha. Hetauda ma delivery free chha. Aba saman order Rs. 4500 mathi bhaye Chitwan, Narayangadh, ra Makwanpur samma pani free delivery available chha. Courier service ko lagi flat Rs. 600 surcharge lagcha.",
+      "question": "Hetauda bahira delivery free chha?",
+      "response": "Saman order Rs. 4500 mathi bhaye Chitwan, Narayangadh, ra Makwanpur samma delivery free chha."
+    },
+    {
+      "context": "eElectronics, Kathmandu-7, Lazimpat ma center ho. Kathmandu valley bhitra delivery free chha. Aba saman order Rs. 4000 mathi bhaye Dhulikhel ra Banepa samma pani free delivery dincha. Express delivery ko lagi Rs. 300 surcharge applicable huncha.",
+      "question": "Banepa samma free delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 4000 mathi bhaye Banepa samma free delivery dincha."
+    },
+    {
+      "context": "TechMart, Pokhara-12, Lakeside ma showroom chha. Pokhara ko ward haru ma delivery free chha. Aba saman order gareko Rs. 3000 mathi bhaye Lekhnath ra Syangja samma delivery free available chha. Heavy saman dispatch ko lagi additional Rs. 700 lagcha.",
+      "question": "Tapai Syangja samma free delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 3000 mathi bhaye Syangja samma free delivery dincha."
+    },
+    {
+      "context": "SmartStore, Dharan-8, Madan Bhandari Road ma location chha. Dharan bhitra delivery free chha. Aba saman order gareko Rs. 2000 mathi bhaye Itahari ra Damak samma pani free delivery available chha. Heavy saman ko lagi flat Rs. 500 lagcha.",
+      "question": "Tapai Itahari samma delivery free dinu huncha?",
+      "response": "Ho, saman order Rs. 2000 mathi bhaye Itahari samma delivery free huncha."
+    },
+    {
+      "context": "QuickTech, Lalitpur-6, Pulchowk ma electronics center chha. Lalitpur ma delivery free chha. Aba saman order gareko Rs. 3000 mathi bhaye Kathmandu ra Bhaktapur samma free delivery chha. Courier dispatch Nepal bhar available chha, tara weight anusar charge lagcha.",
+      "question": "Kathmandu samma delivery free available chha?",
+      "response": "Ho, saman order Rs. 3000 mathi bhaye Kathmandu samma delivery free available chha."
+    },
+    {
+      "context": "DigitalDeals, Biratnagar-10, Airport Road ma store chha. Biratnagar bhitra delivery free chha. Aba saman order Rs. 4000 mathi bhaye Dharan, Itahari, ra Birtamod samma delivery free available chha. Heavy saman dispatch ko lagi Rs. 800 charge lagcha.",
+      "question": "Birtamod samma free delivery dinu huncha?",
+      "response": "Ho, saman order Rs. 4000 mathi bhaye Birtamod samma delivery free dincha."
+    },
+    {
+      "context": "GadgetStore, Chitwan-7, Hakim Chowk ma electronics outlet chha. Bharatpur ma delivery free chha. Aba saman order Rs. 3000 mathi bhaye Mugling, Narayangadh, ra Tandi samma delivery free available chha. Express delivery surcharge Rs. 300 applicable huncha.",
+      "question": "Narayangadh samma free delivery dincha?",
+      "response": "Ho, saman order Rs. 3000 mathi bhaye Narayangadh samma free delivery dincha."
+    },
+    {
+      "context": "ElectroShop, Kathmandu-10, New Baneshwor ma electronics ko center ho. Kathmandu valley ma delivery free chha. Aba saman order Rs. 3500 mathi bhaye Banepa, Dhulikhel, ra Panauti samma delivery free available chha. Heavy saman delivery ma Rs. 900 surcharge lagcha.",
+      "question": "Banepa samma free delivery chha?",
+      "response": "Ho, saman order Rs. 3500 mathi bhaye Banepa samma free delivery chha."
+    },
+    {
+      "context": "GadgetCenter, Dharan-15, Buddha Chowk ma sthit chha. Dharan bhitra ko delivery free chha. Aba saman order gareko Rs. 2500 mathi bhaye Itahari, Birtamod, ra Biratnagar samma pani free delivery available chha. Courier dispatch Nepal bhar chalcha.",
+      "question": "Itahari samma free delivery available chha?",
+      "response": "Ho, saman order Rs. 2500 mathi bhaye Itahari samma free delivery available chha."
+    },
+    {
+      "context": "DigitalBazaar, Kathmandu-14, Kalanki ma sthit ho. Kathmandu valley ko Kathmandu, Lalitpur, ra Bhaktapur bhitra free delivery chha. Aba saman ko order amount Rs. 4000 mathi bhaye Banepa, Dhulikhel, ra Naubise samma pani free delivery dinchha. Courier service Nepal bhar available chha, tara additional weight charge applicable huncha.",
+      "question": "Tapaiharu Banepa samma free delivery dinu huncha?",
+      "response": "Order Rs. 4000 mathi bhaye, Banepa samma free delivery available chha."
+    },
+    {
+      "context": "TechMart, Pokhara-17, Amar Singh Chowk ma electronics store chha. Pokhara bhitra delivery free chha. Aba saman order Rs. 3000 mathi bhaye Lekhnath ra Baglung samma delivery free chha. Courier dwara Nepal bhar saman pathaune suvidha chha, tara courier charge anusar lagcha.",
+      "question": "Tapai Baglung samma delivery dinu huncha?",
+      "response": "Saman order Rs. 3000 mathi bhaye Baglung samma free delivery chha."
+    },
+    {
+      "context": "GadgetStore, Biratnagar-8, Bargachhi ma store ho. Biratnagar bhitra delivery free chha. Aba saman order Rs. 3500 mathi bhaye Itahari ra Dharan samma pani delivery free chha. Heavy saman ko lagi Rs. 1000 surcharge applicable chha.",
+      "question": "Itahari samma delivery free chha?",
+      "response": "Order Rs. 3500 mathi bhaye, Itahari samma free delivery available chha."
+    },
+    {
+      "context": "SmartElectronics, Bharatpur-11, Chitwan ma center chha. Bharatpur ko sabai ward ma free delivery chha. Aba saman order gareko Rs. 4000 mathi bhaye Mugling ra Tandi samma delivery charge lagdaina. Nepal bhar courier dispatch garincha, tara flat Rs. 500 charge applicable huncha.",
+      "question": "Tandi samma delivery charge free huncha?",
+      "response": "Rs. 4000 mathi order gareko bhaye, Tandi samma delivery charge lagdaina."
+    },
+    {
+      "context": "eTech Nepal, Hetauda-6, Bhutandevi Mandir Chowk ma store chha. Hetauda bhitra delivery ko charge lagdaina. Aba saman ko amount Rs. 5000 mathi bhaye Makwanpur, Chitwan, ra Narayangadh samma pani delivery free chha.",
+      "question": "Makwanpur samma free delivery chha?",
+      "response": "Rs. 5000 mathi order gareko bhaye, Makwanpur samma delivery free chha."
+    },
+    {
+      "context": "DigitalDeals, Kathmandu-3, Naxal ma electronics showroom chha. Kathmandu, Lalitpur, ra Bhaktapur bhitra ko delivery free chha. Aba saman ko total Rs. 3000 mathi bhaye Dhulikhel ra Banepa samma pani delivery free available chha.",
+      "question": "Tapai Banepa samma delivery dinu huncha?",
+      "response": "Order Rs. 3000 mathi bhaye, Banepa samma free delivery chha."
+    },
+    {
+      "context": "ElectroZone, Dharan-12, Chatara Line ma electronics ko outlet chha. Dharan bhitra delivery charge lagdaina. Aba saman Rs. 3500 mathi bhaye Birtamod, Biratnagar, ra Itahari samma delivery free chha.",
+      "question": "Birtamod samma free delivery chha?",
+      "response": "Saman ko order Rs. 3500 mathi bhaye, Birtamod samma delivery free chha."
+    },
+    {
+      "context": "SmartHub, Pokhara-8, Lakeside ma store chha. Pokhara ko sabai ward ma free delivery available chha. Aba saman order gareko Rs. 2000 mathi bhaye Lekhnath samma delivery free huncha.",
+      "question": "Lekhnath samma free delivery dinu huncha?",
+      "response": "Order Rs. 2000 mathi bhaye, Lekhnath samma free delivery available chha."
+    },
+    {
+      "context": "QuickElectronics, Lalitpur-5, Pulchowk ma electronics store ho. Lalitpur ma delivery charge lagdaina. Aba saman ko amount Rs. 5000 mathi bhaye Bhaktapur ra Kathmandu samma free delivery dincha.",
+      "question": "Bhaktapur samma delivery free huncha?",
+      "response": "Saman order Rs. 5000 mathi bhaye, Bhaktapur samma free delivery huncha."
+    },
+    {
+      "context": "GadgetDeals, Biratnagar-14, Airport Road ma location chha. Biratnagar bhitra delivery free chha. Aba saman order Rs. 3000 mathi bhaye Dharan, Itahari, ra Damak samma free delivery available huncha. Heavy saman ko lagi flat Rs. 800 lagcha.",
+      "question": "Tapai Dharan samma free delivery dinu huncha?",
+      "response": "Hajur, saman order Rs. 3000 mathi bhaye Dharan samma delivery free available chha."
+    },
+    {
+      "context": "TechDeals, Kathmandu-7, Maitighar ma showroom chha. Kathmandu valley vitra sabai ward ma free delivery chha. Aba saman order gareko Rs. 4000 mathi bhaye Banepa ra Dhulikhel samma free delivery available chha.",
+      "question": "Banepa samma free delivery chha?",
+      "response": "Rs. 4000 mathi order gareko bhaye, Banepa samma delivery free huncha."
+    },
+    {
+      "context": "DigitalHub, Bharatpur-9, Lions Chowk ma electronics store chha. Bharatpur ma sabai ward ko delivery free chha. Aba saman order Rs. 4500 mathi bhaye Narayangadh, Mugling, ra Tandi samma free delivery dinchha.",
+      "question": "Mugling samma free delivery dinu huncha?",
+      "response": "Saman ko total Rs. 4500 mathi bhaye, Mugling samma delivery free chha."
+    },
+    {
+      "context": "ElectroNepal, Itahari-4, Duhabi Road ma showroom ho. Itahari bhitra ko delivery free chha. Aba saman order Rs. 3000 mathi bhaye Dharan, Birtamod, ra Biratnagar samma free delivery available chha.",
+      "question": "Tapai Birtamod samma free delivery dincha?",
+      "response": "Order Rs. 3000 mathi bhaye, Birtamod samma free delivery available chha."
+    },
+    {
+      "context": "GadgetMart, Pokhara-15, Prithvi Chowk ma center ho. Pokhara bhitra ko delivery charge lagdaina. Aba saman order Rs. 3500 mathi bhaye Baglung ra Lekhnath samma delivery free chha.",
+      "question": "Baglung samma delivery free chha?",
+      "response": "Saman order gareko Rs. 3500 mathi bhaye, Baglung samma free delivery available chha."
+    },
+    {
+      "context": "SmartTech, Dharan-10, Bhanu Chowk ma electronics store ho. Dharan ma delivery charge lagdaina. Aba saman order Rs. 2000 mathi bhaye Itahari ra Biratnagar samma pani delivery free chha.",
+      "question": "Tapai Itahari samma delivery dincha?",
+      "response": "Hajur, Rs. 2000 mathi order gareko bhaye Itahari samma free delivery available chha."
+    },
+    {
+      "context": "DigitalElectronics, Hetauda-9, Sahid Chowk ma location chha. Hetauda bhitra delivery free chha. Aba saman order gareko Rs. 4000 mathi bhaye Chitwan ra Narayangadh samma delivery charge lagdaina.",
+      "question": "Tapai Narayangadh samma delivery free dinu huncha?",
+      "response": "Order Rs. 4000 mathi bhaye, Narayangadh samma delivery free available chha."
+    },
+    {
+      "context": "ElectroNepal, Kathmandu-10, Putalisadak ma electronics store chha. Kathmandu, Lalitpur, ra Bhaktapur bhitra delivery charge lagdaina. Aba saman ko total Rs. 5000 mathi bhaye Banepa, Dhulikhel, ra Naubise samma free delivery available chha. Heavy saman courier dwara Nepal bhar pathauna milchha, but courier charge order ko weight anusar lagcha.",
+      "question": "Tapai Banepa samma free delivery dinu huncha?",
+      "response": "Hajur, Rs. 5000 mathi order gareko bhaye Banepa samma delivery free chha."
+    },
+    {
+      "context": "SmartBazaar, Biratnagar-9, Airport Chowk ma electronics ko outlet ho. Biratnagar ma delivery free chha. Aba saman ko order amount Rs. 4000 mathi bhaye Dharan ra Itahari samma delivery free dinchha. Damak samma delivery ko lagi extra charge lagcha.",
+      "question": "Damak samma free delivery chha?",
+      "response": "Damak samma free delivery chaina, tara Dharan ra Itahari samma free chha Rs. 4000 mathi order gareko bhaye."
+    },
+    {
+      "context": "TechNepal, Pokhara-12, New Road ma electronics showroom chha. Pokhara ko sabai ward bhitra delivery charge lagdaina. Aba saman ko total Rs. 3500 mathi bhaye Baglung ra Lekhnath samma free delivery available chha. Courier dwara Nepal bhar saman pathauna milchha.",
+      "question": "Baglung samma free delivery huncha?",
+      "response": "Baglung samma delivery free huncha, tara Rs. 3500 mathi order garnu parcha."
+    },
+    {
+      "context": "DigitalDeals, Dharan-7, Bhanu Chowk ma store ho. Dharan ma delivery charge lagdaina. Aba saman order gareko Rs. 3000 mathi bhaye Itahari ra Biratnagar samma pani free delivery available huncha. Courier sewa le Nepal bhar delivery garincha.",
+      "question": "Tapai Itahari samma delivery dincha?",
+      "response": "Hajur, Rs. 3000 mathi order gareko bhaye Itahari samma free delivery available chha."
+    },
+    {
+      "context": "ElectroDeals, Hetauda-8, Hupra Chowk ma electronics store chha. Hetauda ma delivery charge lagdaina. Aba saman ko order total Rs. 5000 mathi bhaye Bharatpur ra Chitwan samma pani free delivery huncha.",
+      "question": "Chitwan samma delivery free chha?",
+      "response": "Chitwan samma delivery free chha, tara Rs. 5000 mathi ko order hunu parcha."
+    },
+    {
+      "context": "SmartElectronics, Bharatpur-10, Lions Chowk ma electronics store ho. Bharatpur ma delivery free chha. Aba saman order gareko Rs. 4000 mathi bhaye Tandi ra Narayangadh samma pani free delivery huncha.",
+      "question": "Tapai Tandi samma delivery free dinu huncha?",
+      "response": "Hajur, Rs. 4000 mathi order gareko bhaye Tandi samma free delivery chha."
+    },
+    {
+      "context": "GadgetHub, Kathmandu-4, Chabahil ma store chha. Kathmandu valley vitra free delivery chha. Aba saman ko total Rs. 3000 mathi bhaye Banepa ra Dhulikhel samma pani delivery free dinchha.",
+      "question": "Kathmandu valley bhitra delivery charge lagcha?",
+      "response": "Kathmandu valley bhitra delivery charge lagdaina, sabai ward ma free delivery chha."
+    },
+    {
+      "context": "DigitalMart, Pokhara-5, Lakeside ma electronics ko outlet ho. Pokhara ma delivery charge lagdaina. Aba saman order gareko Rs. 3500 mathi bhaye Lekhnath ra Baglung samma delivery free chha.",
+      "question": "Lekhnath samma delivery free chha?",
+      "response": "Hajur, Rs. 3500 mathi order bhaye Lekhnath samma delivery free chha."
+    },
+    {
+      "context": "GadgetStore, Biratnagar-10, Bargachhi ma store chha. Biratnagar ma delivery charge lagdaina. Aba saman ko total Rs. 5000 mathi bhaye Dharan ra Itahari samma free delivery dinchha.",
+      "question": "Tapai Dharan samma delivery dincha?",
+      "response": "Dharan samma delivery free chha, tara Rs. 5000 mathi ko order bhaye matra."
+    },
+    {
+      "context": "eBazaar, Kathmandu-14, Kalanki ma electronics center chha. Kathmandu, Lalitpur, ra Bhaktapur bhitra free delivery available chha. Aba saman order gareko Rs. 4000 mathi bhaye Banepa, Dhulikhel, ra Naubise samma pani free delivery chha.",
+      "question": "Naubise samma free delivery available chha?",
+      "response": "Rs. 4000 mathi order gareko bhaye Naubise samma delivery free huncha."
+    },
+    {
+      "context": "QuickElectronics, Dharan-15, Chatara Road ma electronics showroom ho. Dharan ma delivery charge lagdaina. Aba saman order gareko Rs. 3000 mathi bhaye Biratnagar ra Birtamod samma delivery free available huncha.",
+      "question": "Biratnagar samma free delivery chha?",
+      "response": "Hajur, Rs. 3000 mathi order gareko bhaye Biratnagar samma delivery free chha."
+    },
+    {
+      "context": "TechNepal, Pokhara-3, Prithvi Chowk ma electronics store chha. Pokhara ko sabai ward ma delivery charge lagdaina. Aba saman order gareko Rs. 4500 mathi bhaye Baglung ra Lekhnath samma free delivery available chha.",
+      "question": "Baglung samma delivery dinu huncha?",
+      "response": "Rs. 4500 mathi order gareko bhaye Baglung samma free delivery available huncha."
+    },
+    {
+      "context": "DigitalMart, Bharatpur-8, Sahid Chowk ma electronics showroom ho. Bharatpur ma delivery charge lagdaina. Aba saman order gareko Rs. 3000 mathi bhaye Tandi ra Mugling samma pani free delivery chha.",
+      "question": "Tandi samma free delivery available chha?",
+      "response": "Hajur, Rs. 3000 mathi order gareko bhaye Tandi samma free delivery chha."
+    },
+    {
+      "context": "ElectroNepal, Kathmandu-16, Kuleshwor ma electronics center chha. Kathmandu valley vitra free delivery chha. Aba saman order gareko Rs. 5000 mathi bhaye Dhulikhel ra Banepa samma pani delivery free huncha.",
+      "question": "Banepa samma delivery free chha?",
+      "response": "Hajur, Rs. 5000 mathi ko order gareko bhaye Banepa samma delivery free chha."
+    },
+    {
+      "context": "SmartElectronics, Hetauda-10, Bhutandevi Chowk ma showroom ho. Hetauda ma delivery charge lagdaina. Aba saman order gareko Rs. 4000 mathi bhaye Bharatpur ra Chitwan samma pani free delivery huncha.",
+      "question": "Tapai Bharatpur samma free delivery dincha?",
+      "response": "Rs. 4000 mathi order gareko bhaye Bharatpur samma free delivery available chha."
+    },
+    {
+      "context": "TechGhar, Kathmandu-15, Swayambhu ma electronics store chha. Kathmandu valley (Kathmandu, Lalitpur, Bhaktapur) bhitra free delivery chha. Aba saman order gareko Rs. 4000 mathi bhaye Banepa ra Naubise samma delivery free dinchha. Heavy electronics saman Nepal bhar courier dwara pathauna milchha, tara courier charge saman ko weight anusar lagcha.",
+      "question": "Kathmandu valley bhitra delivery free chha?",
+      "response": "Hajur, Kathmandu valley bhitra delivery charge lagdaina."
+    },
+    {
+      "context": "ElectroBazaar, Pokhara-6, Lakeside ma electronics showroom ho. Pokhara city bhitra delivery charge lagdaina. Aba saman order ko total Rs. 3500 mathi bhaye Lekhnath ra Baglung samma delivery free available chha. Courier dwara saman Nepal bhar pathauna milchha.",
+      "question": "Lekhnath samma free delivery huncha?",
+      "response": "Rs. 3500 mathi ko order gareko bhaye Lekhnath samma free delivery available chha."
+    },
+    {
+      "context": "DigitalWorld, Dharan-14, Ghopa Camp ma electronics ko outlet ho. Dharan ma delivery charge lagdaina. Aba saman ko order Rs. 3000 mathi bhaye Itahari ra Biratnagar samma delivery free chha. Birtamod samma saman courier dwara pathauna milchha.",
+      "question": "Tapai Biratnagar samma delivery dinu huncha?",
+      "response": "Rs. 3000 mathi ko order bhaye Biratnagar samma delivery free chha."
+    },
+    {
+      "context": "SmartElectronics, Hetauda-4, Manakamana Chowk ma electronics store chha. Hetauda ma delivery charge lagdaina. Aba saman ko total Rs. 4000 mathi bhaye Bharatpur ra Narayangadh samma free delivery chha. Courier service le aru thau ma saman pathauna milchha.",
+      "question": "Bharatpur samma delivery charge lagcha?",
+      "response": "Bharatpur samma delivery free chha, tara Rs. 4000 mathi order garnu parcha."
+    },
+    {
+      "context": "eMartNepal, Biratnagar-8, Mills Area ma electronics showroom ho. Biratnagar ma free delivery available chha. Aba saman ko total Rs. 5000 mathi bhaye Dharan ra Itahari samma pani free delivery huncha. Heavy saman courier dwara Nepal bhar pathauna milchha.",
+      "question": "Itahari samma delivery free chha?",
+      "response": "Hajur, Rs. 5000 mathi order gareko bhaye Itahari samma delivery free chha."
+    },
+    {
+      "context": "TechBazaar, Bharatpur-9, Pulchowk ma electronics store chha. Bharatpur city ma delivery free chha. Aba saman ko order Rs. 3000 mathi bhaye Tandi ra Mugling samma pani free delivery available chha.",
+      "question": "Tandi samma delivery free chha?",
+      "response": "Rs. 3000 mathi ko order gareko bhaye Tandi samma free delivery chha."
+    },
+    {
+      "context": "DigitalShop, Kathmandu-10, Kalanki ma electronics showroom ho. Kathmandu, Lalitpur, ra Bhaktapur bhitra free delivery available chha. Aba saman ko order Rs. 5000 mathi bhaye Banepa ra Dhulikhel samma delivery free chha.",
+      "question": "Tapai Banepa samma free delivery dinu huncha?",
+      "response": "Hajur, Rs. 5000 mathi ko order gareko bhaye Banepa samma free delivery chha."
+    },
+    {
+      "context": "GadgetNepal, Pokhara-5, New Road ma electronics store ho. Pokhara ko sabai ward ma free delivery available chha. Aba saman ko order Rs. 3500 mathi bhaye Baglung ra Lekhnath samma free delivery chha. Courier dwara saman aru thau ma pathauna milchha.",
+      "question": "Baglung samma delivery charge lagcha?",
+      "response": "Baglung samma delivery free chha, tara Rs. 3500 mathi order garnu parcha."
+    },
+    {
+      "context": "eStore, Dharan-12, Buddha Chowk ma electronics outlet ho. Dharan ma delivery charge lagdaina. Aba saman ko order Rs. 3000 mathi bhaye Biratnagar ra Itahari samma free delivery huncha.",
+      "question": "Tapai Biratnagar samma delivery free dincha?",
+      "response": "Hajur, Rs. 3000 mathi ko order bhaye Biratnagar samma delivery free chha."
+    },
+    {
+      "context": "ElectroHub, Kathmandu-3, Naxal ma electronics store chha. Kathmandu valley bhitra delivery free chha. Aba saman ko total Rs. 4000 mathi bhaye Dhulikhel ra Banepa samma pani delivery free chha.",
+      "question": "Tapai Dhulikhel samma delivery dinu huncha?",
+      "response": "Hajur, Rs. 4000 mathi order gareko bhaye Dhulikhel samma delivery free chha."
+    },
+    {
+      "context": "TechWorld, Pokhara-7, Mahendrapul ma electronics outlet ho. Pokhara city ma sabai thau ma delivery free chha. Aba saman ko total Rs. 5000 mathi bhaye Lekhnath ra Baglung samma free delivery chha.",
+      "question": "Pokhara ma delivery charge lagcha?",
+      "response": "Pokhara ma delivery charge lagdaina, sabai ward ma free delivery available chha."
+    },
+    {
+      "context": "DigitalNepal, Biratnagar-6, Kanchanbari ma electronics store ho. Biratnagar ma delivery free chha. Aba saman ko order Rs. 4000 mathi bhaye Dharan ra Itahari samma pani free delivery available chha.",
+      "question": "Tapai Dharan samma free delivery dinu huncha?",
+      "response": "Rs. 4000 mathi order gareko bhaye Dharan samma delivery free chha."
+    },
+    {
+      "context": "ElectroStore, Bharatpur-3, Chaubiskothi ma electronics center chha. Bharatpur ma delivery charge lagdaina. Aba saman ko total Rs. 3500 mathi bhaye Narayangadh ra Tandi samma free delivery chha.",
+      "question": "Tapai Narayangadh samma free delivery dincha?",
+      "response": "Hajur, Rs. 3500 mathi ko order gareko bhaye Narayangadh samma delivery free chha."
+    },
+    {
+      "context": "TechNepal, Hetauda-9, Bhutandevi Chowk ma electronics showroom ho. Hetauda ma free delivery available chha. Aba saman ko order Rs. 5000 mathi bhaye Bharatpur ra Chitwan samma delivery free chha.",
+      "question": "Bharatpur samma delivery charge lagcha?",
+      "response": "Bharatpur samma delivery free chha, tara Rs. 5000 mathi ko order hunu parcha."
+    },
+    {
+      "context": "DigitalMart, Kathmandu-8, Maitighar ma electronics outlet ho. Kathmandu, Lalitpur, Bhaktapur bhitra delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi bhaye Dhulikhel ra Naubise samma free delivery chha.",
+      "question": "Tapai Naubise samma delivery free dincha?",
+      "response": "Hajur, Rs. 4000 mathi ko order gareko bhaye Naubise samma free delivery chha."
+    },
+    {
+      "context": "ElectroHub, Kathmandu-9, Kalimati ma hamro store chha. Kathmandu valley bhitra free delivery chha, jasma Kathmandu, Lalitpur, Bhaktapur sammalagcha. Aba Rs. 4000 mathi order gareko bhaye Dhulikhel ra Banepa samma delivery free huncha. Heavy saman courier service dwara purba, paschim, madhya sabai thau ma pathauna milchha, tara courier ko charge saman ko weight anusar lagcha.",
+      "question": "Hajur Dhulikhel samma delivery charge lagcha ki free chha?",
+      "response": "Dhulikhel samma delivery free chha, tara Rs. 4000 mathi order garnu parcha."
+    },
+    {
+      "context": "DigitalNepal Store, Pokhara-6, Lakeside ma electronics ra accessories ko outlet ho. Pokhara ma sabai ward haru ma free delivery chha. Aba Rs. 3000 mathi order gareko bhaye Lekhnath ra Baglung samma pani delivery free chha. Heavy saman courier dwara Nepal bhar pathauna milchha, tara courier charge lagcha.",
+      "question": "Tapai Lekhnath samma free delivery dinu huncha?",
+      "response": "Hajur, Rs. 3000 mathi ko order bhaye Lekhnath samma free delivery available chha."
+    },
+    {
+      "context": "TechMart, Dharan-5, Zero Point ma electronics ko badi vikalpa available chha. Dharan ko sabai area ma delivery charge lagdaina. Aba saman ko total Rs. 3500 mathi bhaye Itahari, Biratnagar, ra Birtamod samma pani delivery free chha. Courier dwara saman purba ko thau haru ma chaadai pathauna milchha.",
+      "question": "Biratnagar samma delivery free chha ki charge lagcha?",
+      "response": "Rs. 3500 mathi order bhaye Biratnagar samma free delivery chha."
+    },
+    {
+      "context": "eBazaar, Biratnagar-10, Airport Road ma hamro showroom chha. Biratnagar ma delivery charge lagdaina. Aba saman ko order Rs. 5000 mathi gareko bhaye Dharan ra Itahari samma free delivery huncha. Kathmandu ra Pokhara samma courier dwara saman pathauna milchha, tara charge saman anusar huncha.",
+      "question": "Tapaiharu Dharan samma delivery dincha ki free chha?",
+      "response": "Dharan samma delivery free chha, tara Rs. 5000 mathi ko order garnu parcha."
+    },
+    {
+      "context": "SmartElectronics, Bharatpur-7, Pulchowk ma electronics store ho. Bharatpur ma sabai ward haru ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi bhaye Tandi, Narayangadh, ra Chitwan samma free delivery available chha. Courier le Kathmandu ra purba thau samma saman pathauna milchha.",
+      "question": "Tapai Chitwan samma free delivery dinu huncha?",
+      "response": "Hajur, Rs. 4000 mathi ko order gareko bhaye Chitwan samma free delivery chha."
+    },
+    {
+      "context": "GadgetWorld, Kathmandu-5, Thamel ma electronics showroom chha. Kathmandu, Lalitpur, ra Bhaktapur ma free delivery chha. Aba saman ko order Rs. 3000 mathi bhaye Banepa ra Dhulikhel samma pani delivery free chha. Courier dwara saman aru thau ma pathauna milchha.",
+      "question": "Kathmandu vitra delivery free chha?",
+      "response": "Ho, Kathmandu vitra delivery charge lagdaina."
+    },
+    {
+      "context": "TechNepal, Hetauda-3, Bhutandevi Chowk ma electronics store chha. Hetauda city ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gareko bhaye Bharatpur ra Narayangadh samma pani free delivery available chha.",
+      "question": "Tapai Bharatpur samma free delivery dincha?",
+      "response": "Rs. 4000 mathi ko order gareko bhaye Bharatpur samma delivery free chha."
+    },
+    {
+      "context": "ElectroShop, Pokhara-4, Mahendrapul ma electronics ko outlet ho. Pokhara ma delivery charge lagdaina. Aba saman ko total Rs. 3500 mathi bhaye Lekhnath, Baglung, ra Kusma samma free delivery huncha.",
+      "question": "Kusma samma pani delivery charge lagdaina?",
+      "response": "Rs. 3500 mathi order gareko bhaye Kusma samma free delivery chha."
+    },
+    {
+      "context": "eMartNepal, Biratnagar-9, Traffic Chowk ma electronics ko showroom ho. Biratnagar ma delivery free chha. Aba saman ko order Rs. 3000 mathi gareko bhaye Itahari ra Dharan samma free delivery available chha.",
+      "question": "Itahari samma free delivery huncha?",
+      "response": "Hajur, Rs. 3000 mathi ko order gareko bhaye Itahari samma delivery free chha."
+    },
+    {
+      "context": "DigitalNepal, Kathmandu-10, New Baneshwor ma electronics ko showroom ho. Kathmandu, Lalitpur, ra Bhaktapur bhitra delivery free chha. Aba saman ko order Rs. 5000 mathi gareko bhaye Dhulikhel ra Naubise samma free delivery available chha.",
+      "question": "Naubise samma delivery charge lagcha?",
+      "response": "Naubise samma delivery free chha, tara Rs. 5000 mathi ko order hunu parcha."
+    },
+    {
+      "context": "TechBazaar, Bharatpur-2, Chaubiskothi ma electronics store chha. Bharatpur city ma delivery free chha. Aba saman ko order Rs. 4000 mathi gareko bhaye Tandi ra Chitwan samma delivery free huncha.",
+      "question": "Tandi samma pani free delivery available chha?",
+      "response": "Rs. 4000 mathi order gareko bhaye Tandi samma delivery free available chha."
+    },
+    {
+      "context": "ElectronicsStore, Dharan-4, Buddha Chowk ma electronics ko outlet chha. Dharan ma delivery charge lagdaina. Aba saman ko order Rs. 5000 mathi gareko bhaye Itahari ra Biratnagar samma delivery free chha.",
+      "question": "Tapaiharu le Itahari samma free delivery dinu huncha?",
+      "response": "Hajur, Rs. 5000 mathi order bhaye Itahari samma free delivery available chha."
+    },
+    {
+      "context": "DigitalHub, Kathmandu-6, Lazimpat ma electronics store ho. Kathmandu valley bhitra sabai ward ma delivery charge lagdaina. Aba saman ko order Rs. 3500 mathi bhaye Dhulikhel ra Banepa samma free delivery available chha.",
+      "question": "Banepa samma delivery free huncha?",
+      "response": "Hajur, Rs. 3500 mathi ko order gareko bhaye Banepa samma delivery free available chha."
+    },
+    {
+      "context": "TechHub, Pokhara-8, Prithvi Chowk ma electronics ko showroom chha. Pokhara city ma delivery free chha. Aba saman ko order Rs. 4000 mathi bhaye Lekhnath ra Baglung samma pani delivery free available chha.",
+      "question": "Baglung samma free delivery chha?",
+      "response": "Rs. 4000 mathi ko order gareko bhaye Baglung samma delivery free chha."
+    },
+    {
+      "context": "NepalGadgetStore, Kathmandu-7, Kalanki ma electronics ra accessories ko collection available chha. Kathmandu valley bhitra Kathmandu, Lalitpur, ra Bhaktapur ko delivery free chha. Aba saman ko order Rs. 4000 mathi gareko bhaye Banepa, Dhulikhel, ra Naubise samma pani delivery free huncha. Courier service dwara Nepal ko purba dekhi paschim samma delivery garna milchha, tara charge saman ko weight ra distance anusar huncha.",
+      "question": "Banepa samma free delivery dinu huncha ki charge lagcha?",
+      "response": "Hajur, Rs. 4000 mathi ko order gareko bhaye Banepa samma free delivery chha."
+    },
+    {
+      "context": "ElectroZone, Pokhara-12, Malepatan ma electronics ko showroom chha. Pokhara ma delivery free chha. Aba saman ko order Rs. 5000 mathi gareko bhaye Lekhnath, Kaski, ra Baglung samma pani delivery charge lagdaina. Kathmandu ma courier dwara saman pathauna milchha.",
+      "question": "Hajur Lekhnath samma delivery free dinu huncha?",
+      "response": "Rs. 5000 mathi ko order gareko bhaye Lekhnath samma free delivery chha."
+    },
+    {
+      "context": "GadgetHub, Dharan-6, Bhanu Chowk ma electronics ko badi vikalpa available chha. Dharan vitra free delivery chha. Aba saman ko order Rs. 3500 mathi gareko bhaye Itahari, Biratnagar, ra Birtamod samma free delivery available chha. Courier le saman Nepal bhar pathauna milchha.",
+      "question": "Tapaiharu Birtamod samma delivery dinu huncha?",
+      "response": "Hajur, Rs. 3500 mathi order gareko bhaye Birtamod samma free delivery chha."
+    },
+    {
+      "context": "TechWarehouse, Hetauda-5, Simrik Chowk ma electronics store ho. Hetauda city ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gareko bhaye Bharatpur ra Narayangadh samma pani delivery free chha. Courier service le Kathmandu ra Pokhara samma saman delivery garna milchha.",
+      "question": "Hetauda city vitra pani delivery free chha?",
+      "response": "Hajur, Hetauda city vitra delivery charge lagdaina."
+    },
+    {
+      "context": "eMartNepal, Biratnagar-11, Main Road ma electronics showroom chha. Biratnagar ma delivery charge lagdaina. Aba saman ko order Rs. 3000 mathi gareko bhaye Dharan ra Itahari samma free delivery available chha. Kathmandu samma courier dwara saman pathauna milchha.",
+      "question": "Itahari samma free delivery chha?",
+      "response": "Hajur, Rs. 3000 mathi order gareko bhaye Itahari samma free delivery available chha."
+    },
+    {
+      "context": "SmartTech, Bharatpur-3, Lions Chowk ma electronics store chha. Bharatpur city ma delivery free chha. Aba saman ko order Rs. 5000 mathi gareko bhaye Narayangadh, Tandi, ra Chitwan samma delivery free huncha. Courier le saman Nepal bhar delivery garna milchha.",
+      "question": "Tapai Chitwan samma delivery dincha?",
+      "response": "Hajur, Rs. 5000 mathi ko order gareko bhaye Chitwan samma delivery free chha."
+    },
+    {
+      "context": "DigitalNepal, Kathmandu-14, Kirtipur ma electronics showroom ho. Kathmandu, Lalitpur, ra Bhaktapur bhitra delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi bhaye Banepa, Dhulikhel, ra Panauti samma pani free delivery available chha.",
+      "question": "Tapaiharu Panauti samma delivery free dinu huncha?",
+      "response": "Rs. 4000 mathi ko order gareko bhaye Panauti samma delivery free available chha."
+    },
+    {
+      "context": "GadgetWorld, Pokhara-3, Prithvi Chowk ma electronics store chha. Pokhara city vitra delivery charge lagdaina. Aba saman ko order Rs. 5000 mathi gareko bhaye Lekhnath ra Baglung samma pani free delivery available chha. Kathmandu ma courier dwara saman pathauna milchha.",
+      "question": "Baglung samma delivery charge lagcha?",
+      "response": "Rs. 5000 mathi order gareko bhaye Baglung samma free delivery chha."
+    },
+    {
+      "context": "TechNepal, Dharan-1, Zero Point ma electronics showroom chha. Dharan ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gareko bhaye Itahari ra Biratnagar samma free delivery huncha.",
+      "question": "Biratnagar samma pani free delivery chha?",
+      "response": "Hajur, Rs. 4000 mathi ko order gareko bhaye Biratnagar samma delivery free chha."
+    },
+    {
+      "context": "ElectroHub, Kathmandu-2, New Road ma electronics ra accessories ko store chha. Kathmandu valley ko Kathmandu, Lalitpur, ra Bhaktapur bhitra delivery free chha. Aba saman ko order Rs. 4500 mathi gareko bhaye Banepa ra Dhulikhel samma pani free delivery available chha.",
+      "question": "Tapaiharu Dhulikhel samma free delivery dincha?",
+      "response": "Rs. 4500 mathi ko order gareko bhaye Dhulikhel samma delivery free available chha."
+    },
+    {
+      "context": "TechMart, Hetauda-4, Bhutandevi Chowk ma electronics store chha. Hetauda vitra delivery free chha. Aba saman ko order Rs. 5000 mathi gareko bhaye Bharatpur ra Narayangadh samma pani delivery charge lagdaina.",
+      "question": "Hajur Narayangadh samma free delivery dinu huncha?",
+      "response": "Hajur, Rs. 5000 mathi order bhaye Narayangadh samma free delivery available chha."
+    },
+    {
+      "context": "DigitalStore, Pokhara-7, Mahendrapul ma electronics showroom chha. Pokhara city vitra sabai ward ma free delivery chha. Aba saman ko order Rs. 4000 mathi gareko bhaye Lekhnath, Baglung, ra Kaski samma delivery charge lagdaina.",
+      "question": "Kaski samma pani free delivery available chha?",
+      "response": "Hajur, Rs. 4000 mathi ko order gareko bhaye Kaski samma delivery free chha."
+    },
+    {
+      "context": "eBazaar, Biratnagar-5, Airport Road ma electronics store chha. Biratnagar ma sabai ward ma delivery charge lagdaina. Aba saman ko order Rs. 3500 mathi gareko bhaye Itahari, Dharan, ra Birtamod samma free delivery huncha.",
+      "question": "Dharan samma delivery charge lagcha ki free chha?",
+      "response": "Hajur, Rs. 3500 mathi ko order gareko bhaye Dharan samma delivery free chha."
+    },
+    {
+      "context": "GadgetNepal, Kathmandu-11, Lazimpat ma electronics store chha. Kathmandu valley ko delivery Kathmandu, Lalitpur, ra Bhaktapur bhitra free chha. Aba saman ko order Rs. 3000 mathi gareko bhaye Banepa, Dhulikhel, ra Naubise samma pani delivery free available chha.",
+      "question": "Banepa samma delivery charge lagdaina?",
+      "response": "Rs. 3000 mathi ko order gareko bhaye Banepa samma delivery charge lagdaina."
+    },
+    {
+      "context": "NepalTechShop, Kathmandu-6, Bagbazar ma electronics ko wide range available chha. Kathmandu valley ko sabai area, jasle Kathmandu, Lalitpur, ra Bhaktapur sametcha, ma delivery charge lagdaina. Rs. 5000 mathi saman order gare Kathmandu bahira Banepa, Dhulikhel, ra Bhaktapur outskirts samma free delivery huncha. Courier service le Nepal bhar saman pathauna milchha, tara charge weight anusar lagcha.",
+      "question": "Hajurko Banepa samma delivery free chha?",
+      "response": "Rs. 5000 mathi ko order gare Banepa samma free delivery chha."
+    },
+    {
+      "context": "TechBazaar, Itahari-8, Jaycees Chowk ma electronics store chha. Itahari vitra ko delivery charge lagdaina. Rs. 3500 mathi ko saman order gareko bhaye Dharan, Biratnagar, ra Damak samma delivery free available chha. Courier dwara Nepal ko purba dekhi paschim samma delivery garna milchha.",
+      "question": "Tapaiharu Damak samma free delivery dinu huncha?",
+      "response": "Hajur, Rs. 3500 mathi ko order gare Damak samma free delivery available chha."
+    },
+    {
+      "context": "ElectroWorld, Pokhara-10, Lakeside ma electronics showroom chha. Pokhara ko sabai ward ma delivery free chha. Aba saman ko order Rs. 6000 mathi gare Lekhnath, Baglung, ra Kaski samma pani delivery charge lagdaina. Kathmandu samma courier dwara saman pathauna milchha.",
+      "question": "Baglung samma pani free delivery available chha?",
+      "response": "Rs. 6000 mathi ko order gare Baglung samma delivery charge lagdaina."
+    },
+    {
+      "context": "SmartGadgets, Dharan-15, Bhanu Chowk ma electronics ra accessories ko badi options available chha. Dharan vitra delivery free chha. Aba saman ko order Rs. 4000 mathi gareko bhaye Itahari, Biratnagar, ra Birtamod samma pani delivery free available chha.",
+      "question": "Tapaiharu le Biratnagar samma delivery charge lagdaina?",
+      "response": "Hajur, Rs. 4000 mathi ko order gareko bhaye Biratnagar samma delivery charge lagdaina."
+    },
+    {
+      "context": "DigitalNepalStore, Hetauda-3, Simrik Chowk ma electronics showroom chha. Hetauda city bhitra delivery charge lagdaina. Aba saman ko order Rs. 5000 mathi gare Bharatpur, Narayangadh, ra Tandi samma delivery free huncha. Courier le Nepal bhar saman pathauna milchha.",
+      "question": "Hajur Bharatpur samma delivery dinu huncha?",
+      "response": "Hajur, Rs. 5000 mathi ko order gare Bharatpur samma delivery free chha."
+    },
+    {
+      "context": "eMartNepal, Biratnagar-7, Main Road ma electronics showroom chha. Biratnagar vitra delivery charge lagdaina. Aba saman ko order Rs. 3000 mathi gare Dharan, Itahari, ra Birtamod samma free delivery available chha. Kathmandu samma courier dwara saman pathauna milchha.",
+      "question": "Birtamod samma delivery charge lagcha?",
+      "response": "Rs. 3000 mathi ko order gareko bhaye Birtamod samma delivery free chha."
+    },
+    {
+      "context": "TechShopNepal, Kathmandu-3, Chabahil ma electronics accessories ko wide collection available chha. Kathmandu valley bhitra delivery charge lagdaina. Aba saman ko order Rs. 4500 mathi gare Banepa, Dhulikhel, ra Kirtipur samma free delivery available chha.",
+      "question": "Hajurko Dhulikhel samma delivery free chha ki?",
+      "response": "Hajur, Rs. 4500 mathi ko order gare Dhulikhel samma delivery free chha."
+    },
+    {
+      "context": "GadgetHouse, Hetauda-6, Bhutandevi Chowk ma electronics showroom chha. Hetauda vitra delivery free chha. Aba saman ko order Rs. 3500 mathi gare Bharatpur, Narayangadh, ra Chitwan samma pani delivery charge lagdaina.",
+      "question": "Tapai Chitwan samma free delivery dincha?",
+      "response": "Hajur, Rs. 3500 mathi ko order gare Chitwan samma free delivery available chha."
+    },
+    {
+      "context": "DigitalStoreNepal, Kathmandu-11, Lazimpat ma electronics ra gadgets ko showroom chha. Kathmandu valley ma Kathmandu, Lalitpur, ra Bhaktapur ko delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gare Banepa ra Dhulikhel samma free delivery available chha.",
+      "question": "Banepa samma free delivery huncha?",
+      "response": "Hajur, Rs. 4000 mathi ko order gareko bhaye Banepa samma delivery free chha."
+    },
+    {
+      "context": "NepalTechZone, Pokhara-4, Prithvi Chowk ma electronics showroom chha. Pokhara ma sabai ward ko delivery charge lagdaina. Aba saman ko order Rs. 5500 mathi gare Lekhnath ra Baglung samma free delivery available chha.",
+      "question": "Lekhnath samma pani free delivery chha?",
+      "response": "Rs. 5500 mathi ko order gare Lekhnath samma free delivery available chha."
+    },
+    {
+      "context": "TechNepalStore, Biratnagar-3, Koshi Highway ma electronics ra accessories store chha. Biratnagar ko delivery sabai ward ma free chha. Aba saman ko order Rs. 3500 mathi gare Dharan, Itahari, ra Damak samma pani delivery charge lagdaina.",
+      "question": "Damak samma pani delivery charge lagdaina?",
+      "response": "Rs. 3500 mathi ko order gare Damak samma delivery charge lagdaina."
+    },
+    {
+      "context": "SmartMartNepal, Bharatpur-9, Lions Chowk ma electronics showroom chha. Bharatpur ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gare Narayangadh, Tandi, ra Chitwan outskirts samma delivery free available chha.",
+      "question": "Tapai Tandi samma delivery dincha?",
+      "response": "Hajur, Rs. 4000 mathi ko order gare Tandi samma delivery free chha."
+    },
+    {
+      "context": "eTechWorld, Kathmandu-8, Kalimati ma electronics showroom chha. Kathmandu valley ma Kathmandu, Lalitpur, ra Bhaktapur bhitra delivery charge lagdaina. Aba saman ko order Rs. 5000 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free available chha.",
+      "question": "Kirtipur samma free delivery chha ki charge lagcha?",
+      "response": "Rs. 5000 mathi ko order gare Kirtipur samma free delivery chha."
+    },
+    {
+      "context": "DigitalNepalMart, Dharan-12, Bhanuchowk ma electronics showroom chha. Dharan city ma delivery charge lagdaina. Aba saman ko order Rs. 3000 mathi gareko bhaye Itahari, Biratnagar, ra Damak samma delivery charge lagdaina.",
+      "question": "Biratnagar samma delivery free huncha?",
+      "response": "Hajur, Rs. 3000 mathi ko order gareko bhaye Biratnagar samma delivery free huncha."
+    },
+    {
+      "context": "SmartElectronics, Kathmandu-2, New Baneshwor ma electronics showroom chha. Kathmandu valley ko delivery Kathmandu, Lalitpur, ra Bhaktapur bhitra sabai free chha. Aba saman ko order Rs. 4000 mathi gare Banepa, Dhulikhel, ra Panauti samma delivery free chha.",
+      "question": "Hajur Panauti samma free delivery dinu huncha?",
+      "response": "Hajur, Rs. 4000 mathi ko order gare Panauti samma free delivery chha."
+    },
+    {
+      "context": "NepalTechShop, Kathmandu-6, Bagbazar ma electronics ko wide range available chha. Kathmandu valley ko sabai area ma delivery charge lagdaina. Tara, Pokhara, Hetauda ra other purba areas ma delivery available chhaina.",
+      "question": "Tapai Pokhara samma delivery garna saknu huncha?",
+      "response": "Hajur, Pokhara samma delivery available chhaina."
+    },
+    {
+      "context": "TechBazaar, Itahari-8, Jaycees Chowk ma electronics store chha. Itahari ra Dharan vitra free delivery available chha. Aba saman ko order Rs. 4000 mathi gare Biratnagar, Damak, ra Birtamod samma delivery garna sakinchha. Tara, Kathmandu ra Chitwan ma delivery garna milena.",
+      "question": "Kathmandu samma delivery garna milchha?",
+      "response": "Kathmandu samma delivery available chhaina."
+    },
+    {
+      "context": "ElectroWorld, Pokhara-10, Lakeside ma electronics showroom chha. Pokhara valley ko sabai ward ma free delivery chha. Lekhnath, Baglung ra Kaski samma pani delivery free available chha. Tara, Hetauda, Chitwan, ra Nepal ko purba ko kunai thau ma delivery garna milena.",
+      "question": "Tapai Hetauda samma delivery dinu huncha?",
+      "response": "Hetauda samma delivery available chhaina."
+    },
+    {
+      "context": "SmartGadgets, Dharan-15, Bhanu Chowk ma electronics ra accessories ko badi options available chha. Dharan vitra delivery charge lagdaina. Aba saman ko order Rs. 5000 mathi gareko bhaye Itahari, Biratnagar, ra Damak samma delivery free garna sakinchha. Tara, Pokhara, Chitwan ma delivery garna sakidaina.",
+      "question": "Chitwan samma delivery free chha?",
+      "response": "Chitwan samma delivery available chhaina."
+    },
+    {
+      "context": "DigitalNepalStore, Hetauda-3, Simrik Chowk ma electronics showroom chha. Hetauda city ma delivery charge lagdaina. Aba saman ko order Rs. 3500 mathi gareko bhaye Bharatpur, Narayangadh, ra Chitwan outskirts samma delivery garna milchha. Tara, Kathmandu ra pokhara ma delivery garna milena.",
+      "question": "Kathmandu samma delivery garna saknu huncha?",
+      "response": "Kathmandu samma delivery available chhaina."
+    },
+    {
+      "context": "eMartNepal, Biratnagar-7, Main Road ma electronics showroom chha. Biratnagar vitra delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gare Dharan, Itahari, ra Birtamod samma delivery free garna milchha. Tara, Pokhara ra Chitwan ma delivery available chhaina.",
+      "question": "Tapai Pokhara samma delivery garna saknu huncha?",
+      "response": "Pokhara samma delivery garna sakidaina."
+    },
+    {
+      "context": "TechShopNepal, Kathmandu-3, Chabahil ma electronics accessories ko wide collection available chha. Kathmandu ko sabai area ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gare Banepa, Dhulikhel, ra Kirtipur samma free delivery available chha. Tara, Banepa ra Dhulikhel bahira delivery garna sakidaina.",
+      "question": "Banepa ko baahira delivery garna milcha?",
+      "response": "Banepa ra Dhulikhel bahira delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetHouse, Hetauda-6, Bhutandevi Chowk ma electronics showroom chha. Hetauda city ma free delivery chha. Aba saman ko order Rs. 3500 mathi gare Bharatpur, Narayangadh, ra Chitwan outskirts samma delivery free available chha. Tara, Pokhara ra other kathmandu valley areas ma delivery garna sakidaina.",
+      "question": "Tapai Kathmandu valley ma delivery garna saknu huncha?",
+      "response": "Kathmandu valley ma delivery available chhaina."
+    },
+    {
+      "context": "DigitalStoreNepal, Kathmandu-11, Lazimpat ma electronics ra gadgets ko showroom chha. Kathmandu valley ma Kathmandu, Lalitpur, ra Bhaktapur ma delivery charge lagdaina. Aba saman ko order Rs. 5000 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free available chha. Tara, Pokhara, Chitwan ra purba ma delivery garna milchha.",
+      "question": "Pokhara samma delivery garna milchha?",
+      "response": "Pokhara samma delivery available chhaina."
+    },
+    {
+      "context": "NepalTechZone, Pokhara-4, Prithvi Chowk ma electronics showroom chha. Pokhara ma sabai ward ko delivery free chha. Lekhnath, Baglung ra Kaski samma pani delivery free available chha. Tara, Dharan, Biratnagar, ra purba ma delivery garna milena.",
+      "question": "Dharan samma delivery garna milchha?",
+      "response": "Dharan samma delivery garna milena."
+    },
+    {
+      "context": "TechNepalStore, Biratnagar-3, Koshi Highway ma electronics ra accessories store chha. Biratnagar ko delivery sabai ward ma free chha. Aba saman ko order Rs. 3500 mathi gare Dharan, Itahari, ra Damak samma delivery free available chha. Tara, Kathmandu ra Pokhara ma delivery garna sakidaina.",
+      "question": "Pokhara samma delivery garna milcha?",
+      "response": "Pokhara samma delivery available chhaina."
+    },
+    {
+      "context": "SmartElectronics, Kathmandu-2, New Baneshwor ma electronics showroom chha. Kathmandu valley ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gare Banepa, Dhulikhel, ra Panauti samma free delivery available chha. Tara, Pokhara ra other districts ma delivery garna sakidaina.",
+      "question": "Pokhara samma delivery garna sakidaina?",
+      "response": "Pokhara ra other districts ma delivery garna sakidaina."
+    },
+    {
+      "context": "DigitalNepalMart, Dharan-12, Bhanuchowk ma electronics showroom chha. Dharan city ma free delivery available chha. Aba saman ko order Rs. 3000 mathi gareko bhaye Itahari, Biratnagar, ra Damak samma delivery charge lagdaina. Tara, Hetauda, Pokhara, ra Chitwan ma delivery garna sakidaina.",
+      "question": "Hetauda samma delivery garna milchha?",
+      "response": "Hetauda samma delivery available chhaina."
+    },
+    {
+      "context": "SmartMartNepal, Bharatpur-9, Lions Chowk ma electronics showroom chha. Bharatpur ma delivery free chha. Aba saman ko order Rs. 4000 mathi gare Narayangadh, Tandi, ra Chitwan outskirts samma delivery free available chha. Tara, Pokhara, Kathmandu ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara ra Kathmandu ma delivery garna milena?",
+      "response": "Pokhara ra Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "eTechWorld, Kathmandu-8, Kalimati ma electronics showroom chha. Kathmandu valley ma Kathmandu, Lalitpur, ra Bhaktapur bhitra delivery free chha. Aba saman ko order Rs. 5000 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free available chha. Tara, Pokhara, Chitwan, ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara samma delivery garna milchha?",
+      "response": "Pokhara samma delivery available chhaina."
+    },
+    {
+      "context": "TechCityNepal, Kathmandu-5, Malla Chowk ma electronics showroom chha. Kathmandu valley ko sabai area ma free delivery available chha. Aba saman ko order Rs. 5000 mathi gare Dhulikhel, Banepa, ra Kirtipur samma delivery free garna sakinchha. Tara, Pokhara, Hetauda ra purba ko kunai thau ma delivery garna milena.",
+      "question": "Pokhara samma delivery garna sakidaina?",
+      "response": "Pokhara samma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetHub, Itahari-5, Bhanu Chowk ma electronics showroom chha. Itahari ra Dharan ma delivery free chha. Aba saman ko order Rs. 5000 mathi gareko bhaye Biratnagar, Birtamod, ra Damak samma delivery free garna sakinchha. Tara, Pokhara ra Chitwan ma delivery garna sakidaina.",
+      "question": "Chitwan ko baahira delivery garna milena?",
+      "response": "Chitwan ko baahira delivery available chhaina."
+    },
+    {
+      "context": "NepalTech, Kathmandu-12, Teku ma electronics showroom chha. Kathmandu valley ko sabai thau ma delivery free chha. Aba saman ko order Rs. 3000 mathi gare Itahari, Dharan, ra Biratnagar samma delivery free available chha. Tara, Pokhara ma delivery garna milena.",
+      "question": "Pokhara samma delivery garna milchha?",
+      "response": "Pokhara samma delivery garna sakidaina."
+    },
+    {
+      "context": "DigitalNepal, Pokhara-3, New Road ma electronics showroom chha. Pokhara valley ma delivery charge lagdaina. Aba saman ko order Rs. 3500 mathi gareko bhaye Lekhnath, Baglung, ra Kaski samma delivery free available chha. Tara, Biratnagar ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Kathmandu samma delivery garna saknu huncha?",
+      "response": "Kathmandu samma delivery garna sakidaina."
+    },
+    {
+      "context": "TechZone, Hetauda-2, Main Road ma electronics store chha. Hetauda ra surrounding area ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gareko bhaye, Bharatpur ra Chitwan outskirts samma free delivery available chha. Tara, Pokhara ma delivery garna sakidaina.",
+      "question": "Pokhara samma delivery garna sakchha?",
+      "response": "Pokhara samma delivery garna sakidaina."
+    },
+    {
+      "context": "SmartStore, Dharan-9, Bhanuchowk ma electronics showroom chha. Dharan vitra delivery charge lagdaina. Aba saman ko order Rs. 4500 mathi gareko bhaye, Itahari, Biratnagar, ra Damak samma free delivery available chha. Tara, Kathmandu ra Pokhara ma delivery garna sakidaina.",
+      "question": "Kathmandu ra Pokhara ma delivery garna milchha?",
+      "response": "Kathmandu ra Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetShop, Biratnagar-10, Bhanubhakta Chowk ma electronics showroom chha. Biratnagar ko sabai wards ma delivery free chha. Aba saman ko order Rs. 4000 mathi gare Itahari, Dharan, ra Birtamod samma delivery garna milchha. Tara, Pokhara ra Kathmandu ma delivery garna milena.",
+      "question": "Kathmandu ra Pokhara ko delivery garna milchha?",
+      "response": "Kathmandu ra Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "ElectroHub, Kathmandu-6, Durbar Marg ma electronics showroom chha. Kathmandu valley ko sabai area ma delivery free chha. Aba saman ko order Rs. 5000 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free garna sakinchha. Tara, Pokhara, Chitwan, ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara ra purba ko kunai thau ma delivery garna milchha?",
+      "response": "Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "NepalGadgetStore, Pokhara-7, Lakeside ma electronics showroom chha. Pokhara valley ko sabai wards ma delivery charge lagdaina. Aba saman ko order Rs. 3000 mathi gareko bhaye Lekhnath, Baglung, ra Kaski samma free delivery available chha. Tara, Dharan, Biratnagar, ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Dharan ra Biratnagar ma delivery garna milchha?",
+      "response": "Dharan ra Biratnagar ma delivery garna sakidaina."
+    },
+    {
+      "context": "SmartGadgetStore, Kathmandu-4, Basantapur ma electronics showroom chha. Kathmandu valley ko sabai area ma delivery charge lagdaina. Aba saman ko order Rs. 4500 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free available chha. Tara, Pokhara, Hetauda ra purba ko kunai thau ma delivery garna milena.",
+      "question": "Hetauda ra Pokhara ko delivery garna sakidaina?",
+      "response": "Hetauda ra Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechnoNepal, Dharan-3, Rampur Chowk ma electronics showroom chha. Dharan city ma delivery free chha. Aba saman ko order Rs. 3500 mathi gare Biratnagar, Itahari, ra Birtamod samma delivery free garna milchha. Tara, Pokhara ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Kathmandu ma delivery garna milchha?",
+      "response": "Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechMartNepal, Pokhara-5, Prithvi Chowk ma electronics showroom chha. Pokhara valley ko sabai ward ma free delivery available chha. Aba saman ko order Rs. 3000 mathi gare Lekhnath, Baglung, ra Kaski samma delivery free garna milchha. Tara, Chitwan ra Kathmandu ma delivery garna milena.",
+      "question": "Kathmandu ma delivery garna milchha?",
+      "response": "Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "ElectronicsWorld, Kathmandu-10, Jorpati ma electronics showroom chha. Kathmandu valley ko sabai area ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gare Itahari, Dharan, ra Birtamod samma free delivery garna milchha. Tara, Pokhara, Chitwan ma delivery garna sakidaina.",
+      "question": "Pokhara ra Chitwan ma delivery garna milchha?",
+      "response": "Pokhara ra Chitwan ma delivery garna sakidaina."
+    },
+    {
+      "context": "SmartTech, Itahari-8, Dhangadhi Chowk ma electronics showroom chha. Itahari vitra delivery free chha. Aba saman ko order Rs. 5000 mathi gare Biratnagar, Birtamod, ra Dharan samma delivery free garna milchha. Tara, Pokhara, Kathmandu ra Chitwan ma delivery garna milena.",
+      "question": "Pokhara, Kathmandu ra Chitwan ma delivery garna milchha?",
+      "response": "Pokhara, Kathmandu ra Chitwan ma delivery garna sakidaina."
+    },
+    {
+      "context": "ElectroMartNepal, Kathmandu-9, Sanepa ma electronics showroom chha. Kathmandu ko sabai ward ma free delivery available chha. Aba saman ko order Rs. 3500 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free available chha. Tara, Pokhara ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara ra purba ma delivery garna milchha?",
+      "response": "Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechWorld, Hetauda-1, Central Chowk ma electronics showroom chha. Hetauda city ma free delivery chha. Aba saman ko order Rs. 4000 mathi gare Bharatpur, Narayangadh, ra Chitwan outskirts samma delivery free garna milchha. Tara, Pokhara, Kathmandu ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara ra Kathmandu ma delivery garna sakidaina?",
+      "response": "Pokhara ra Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "DigitalGadgetStore, Dharan-4, Panchayat Chowk ma electronics showroom chha. Dharan vitra delivery charge lagdaina. Aba saman ko order Rs. 3000 mathi gare Itahari, Biratnagar, ra Damak samma free delivery available chha. Tara, Pokhara ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Pokhara ra Kathmandu ma delivery garna milena?",
+      "response": "Pokhara ra Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "NepalElectroMart, Kathmandu-3, Tripureshwor ma electronics showroom chha. Kathmandu valley ma sabai thau ma delivery free chha. Aba saman ko order Rs. 4500 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free garna sakinchha. Tara, Pokhara, Chitwan ma delivery garna milena.",
+      "question": "Pokhara ra Chitwan ma delivery garna milchha?",
+      "response": "Pokhara ra Chitwan ma delivery garna sakidaina."
+    },
+    {
+      "context": "SmartGadgetsNepal, Pokhara-2, Seti Chowk ma electronics showroom chha. Pokhara valley ko sabai ward ma free delivery available chha. Aba saman ko order Rs. 3000 mathi gare Lekhnath, Baglung, ra Kaski samma delivery free garna sakinchha. Tara, Biratnagar ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Kathmandu ra Biratnagar ma delivery garna milchha?",
+      "response": "Kathmandu ra Biratnagar ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechStoreNepal, Kathmandu-5, Tangal ma electronics showroom chha. Kathmandu ko sabai wards ma free delivery chha. Aba saman ko order Rs. 4000 mathi gare Itahari, Dharan, ra Birtamod samma delivery garna sakinchha. Tara, Pokhara ma delivery garna sakidaina.",
+      "question": "Pokhara ma delivery garna milchha?",
+      "response": "Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetWorld, Kathmandu-7, Koteshwor ma electronics showroom chha. Kathmandu valley ko sabai wards ma delivery free chha. Aba saman ko order Rs. 3500 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free garna sakinchha. Tara, Pokhara ra purba ko kunai thau ma delivery garna milena.",
+      "question": "Pokhara ra purba ma delivery garna sakidaina?",
+      "response": "Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetHub, Itahari-5, Bhanu Chowk ma electronics showroom chha. Itahari ra Dharan ma delivery free chha. Aba saman ko order Rs. 5000 mathi gareko bhaye Biratnagar, Birtamod, ra Damak samma delivery free garna sakinchha. Tara, Pokhara ra Chitwan ma delivery garna sakidaina.",
+      "question": "Chitwan ko baahira delivery garna milena?",
+      "response": "Chitwan ko baahira delivery available chhaina."
+    },
+    {
+      "context": "NepalTech, Kathmandu-12, Teku ma electronics showroom chha. Kathmandu valley ko sabai thau ma delivery free chha. Aba saman ko order Rs. 3000 mathi gare Itahari, Dharan, ra Biratnagar samma delivery free available chha. Tara, Pokhara ma delivery garna sakidaina.",
+      "question": "Pokhara samma delivery garna sakidaina?",
+      "response": "Pokhara samma delivery garna sakidaina."
+    },
+    {
+      "context": "DigitalNepal, Pokhara-3, New Road ma electronics showroom chha. Pokhara valley ma delivery charge lagdaina. Aba saman ko order Rs. 3500 mathi gareko bhaye Lekhnath, Baglung, ra Kaski samma delivery free available chha. Tara, Biratnagar ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Kathmandu samma delivery garna sakidaina?",
+      "response": "Kathmandu samma delivery garna sakidaina."
+    },
+    {
+      "context": "TechZone, Hetauda-2, Main Road ma electronics store chha. Hetauda ra surrounding area ma delivery charge lagdaina. Aba saman ko order Rs. 4000 mathi gareko bhaye, Bharatpur ra Chitwan outskirts samma free delivery available chha. Tara, Pokhara, Kathmandu ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara samma delivery garna sakidaina?",
+      "response": "Pokhara samma delivery garna sakidaina."
+    },
+    {
+      "context": "SmartStore, Dharan-9, Bhanuchowk ma electronics showroom chha. Dharan vitra delivery charge lagdaina. Aba saman ko order Rs. 4500 mathi gareko bhaye, Itahari, Biratnagar, ra Damak samma free delivery available chha. Tara, Kathmandu ra Pokhara ma delivery garna sakidaina.",
+      "question": "Kathmandu ra Pokhara ma delivery garna sakidaina?",
+      "response": "Kathmandu ra Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetShop, Biratnagar-10, Bhanubhakta Chowk ma electronics showroom chha. Biratnagar ko sabai wards ma delivery free chha. Aba saman ko order Rs. 4000 mathi gare Itahari, Dharan, ra Birtamod samma delivery free garna milchha. Tara, Pokhara ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Kathmandu ra Pokhara ma delivery garna sakidaina?",
+      "response": "Kathmandu ra Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "ElectroHub, Kathmandu-6, Durbar Marg ma electronics showroom chha. Kathmandu valley ko sabai area ma delivery free chha. Aba saman ko order Rs. 5000 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free garna sakinchha. Tara, Pokhara, Chitwan, ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara ra purba ko kunai thau ma delivery garna sakidaina?",
+      "response": "Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "NepalGadgetStore, Pokhara-7, Lakeside ma electronics showroom chha. Pokhara valley ko sabai wards ma free delivery available chha. Aba saman ko order Rs. 3000 mathi gare Lekhnath, Baglung, ra Kaski samma delivery free garna sakinchha. Tara, Dharan, Biratnagar, ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Dharan ra Biratnagar ma delivery garna sakidaina?",
+      "response": "Dharan ra Biratnagar ma delivery garna sakidaina."
+    },
+    {
+      "context": "SmartGadgetStore, Kathmandu-4, Basantapur ma electronics showroom chha. Kathmandu valley ko sabai area ma delivery charge lagdaina. Aba saman ko order Rs. 4500 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free available chha. Tara, Pokhara, Hetauda ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Hetauda ra Pokhara ko delivery garna sakidaina?",
+      "response": "Hetauda ra Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechWorld, Hetauda-1, Central Chowk ma electronics showroom chha. Hetauda city ma free delivery chha. Aba saman ko order Rs. 4000 mathi gare Bharatpur, Narayangadh, ra Chitwan outskirts samma delivery free garna milchha. Tara, Pokhara, Kathmandu ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara ra Kathmandu ma delivery garna sakidaina?",
+      "response": "Pokhara ra Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "DigitalGadgetStore, Dharan-4, Panchayat Chowk ma electronics showroom chha. Dharan vitra delivery charge lagdaina. Aba saman ko order Rs. 3000 mathi gare Itahari, Biratnagar, ra Damak samma free delivery available chha. Tara, Pokhara ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Pokhara ra Kathmandu ma delivery garna sakidaina?",
+      "response": "Pokhara ra Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "NepalElectroMart, Kathmandu-3, Tripureshwor ma electronics showroom chha. Kathmandu valley ko sabai area ma delivery free chha. Aba saman ko order Rs. 4500 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free garna sakinchha. Tara, Pokhara, Chitwan ma delivery garna milena.",
+      "question": "Pokhara ra Chitwan ma delivery garna sakidaina?",
+      "response": "Pokhara ra Chitwan ma delivery garna sakidaina."
+    },
+    {
+      "context": "SmartGadgetsNepal, Pokhara-2, Seti Chowk ma electronics showroom chha. Pokhara valley ko sabai ward ma free delivery available chha. Aba saman ko order Rs. 3000 mathi gare Lekhnath, Baglung, ra Kaski samma delivery free garna sakinchha. Tara, Biratnagar ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Kathmandu ra Biratnagar ma delivery garna sakidaina?",
+      "response": "Kathmandu ra Biratnagar ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechStoreNepal, Kathmandu-5, Tangal ma electronics showroom chha. Kathmandu ko sabai wards ma free delivery chha. Aba saman ko order Rs. 4000 mathi gare Itahari, Dharan, ra Birtamod samma delivery garna sakinchha. Tara, Pokhara ma delivery garna sakidaina.",
+      "question": "Pokhara ma delivery garna sakidaina?",
+      "response": "Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetWorld, Kathmandu-7, Koteshwor ma electronics showroom chha. Kathmandu valley ko sabai wards ma delivery free chha. Aba saman ko order Rs. 3500 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free garna sakinchha. Tara, Pokhara ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara ra purba ma delivery garna sakidaina?",
+      "response": "Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "ElectroMart, Kathmandu-8, Old Baneshwor ma electronics showroom chha. Kathmandu valley ma delivery free chha. Aba saman ko order Rs. 3000 mathi gare Itahari, Dharan, ra Birtamod samma free delivery garna sakinchha. Tara, Pokhara ra Chitwan ma delivery garna sakidaina.",
+      "question": "Pokhara ra Chitwan ma delivery garna sakidaina?",
+      "response": "Pokhara ra Chitwan ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechStoreNepal, Dharan-6, Itahari Chowk ma electronics showroom chha. Dharan ko sabai area ma delivery free chha. Aba saman ko order Rs. 5000 mathi gare Biratnagar, Birtamod, ra Damak samma free delivery available chha. Tara, Pokhara ra Kathmandu ma delivery garna sakidaina.",
+      "question": "Pokhara ra Kathmandu ma delivery garna sakidaina?",
+      "response": "Pokhara ra Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetStoreNepal, Kathmandu-10, Kalanki ma electronics showroom chha. Kathmandu valley ko sabai wards ma delivery free chha. Aba saman ko order Rs. 3500 mathi gare Banepa, Dhulikhel, ra Kirtipur samma delivery free available chha. Tara, Pokhara, Chitwan, ra purba ko kunai thau ma delivery garna sakidaina.",
+      "question": "Pokhara ra purba ma delivery garna sakidaina?",
+      "response": "Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "NepalGadgetWorld, Pokhara-8, Lakeside ma electronics showroom chha. Pokhara valley ko sabai thau ma free delivery available chha. Aba saman ko order Rs. 4000 mathi gareko bhaye Lekhnath, Baglung, ra Kaski samma free delivery garna sakinchha. Tara, Kathmandu ra Biratnagar ma delivery garna sakidaina.",
+      "question": "Kathmandu ra Biratnagar ma delivery garna sakidaina?",
+      "response": "Kathmandu ra Biratnagar ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechnoShop, Kathmandu-2, Thamel ma electronics showroom chha. Kathmandu valley ma delivery charge lagdaina. Aba saman ko order Rs. 5000 mathi gareko bhaye, Pokhara ra Chitwan ma delivery garna milena. Tara, Itahari ra Dharan ma delivery available chha.",
+      "question": "Pokhara ra Chitwan ma delivery garna sakidaina?",
+      "response": "Pokhara ra Chitwan ma delivery garna sakidaina."
+    },
+    {
+      "context": "Hamro electronics store, Kathmandu-3, Durbar Marg ma delivery garna sakinchha. Kathmandu valley ko sabai area ma free delivery available cha. If you order more than Rs. 3000, delivery is free in Pokhara, Chitwan, ra Biratnagar pani. Tara, purba ko karyalay ma delivery garna sakidaina.",
+      "question": "Pokhara ma delivery garna milcha ta?",
+      "response": "Pokhara ma delivery garna milcha, tara order Rs. 3000 mathi garna parcha."
+    },
+    {
+      "context": "SamanBazaar, Itahari-8, College Road ma electronics ra accessories ko delivery Itahari vitra matra free chha. Delivery charge lagne thau haru Dharan, Biratnagar ma ho.",
+      "question": "Dharan ma delivery charge lageko ho?",
+      "response": "Ho, Dharan ma delivery charge lageko ho."
+    },
+    {
+      "context": "Hami Kathmandu-4, Baneshwor ma electronics products haru sell garne store ho. Kathmandu valley ko sabai thau ma delivery free garna sakinchha. Aba, purba thau haru, Pokhara, ra Chitwan ma delivery garna sakidaina.",
+      "question": "Chitwan ma delivery garna sakidaina ra?",
+      "response": "Chitwan ma delivery garna sakidaina."
+    },
+    {
+      "context": "Our store in Pokhara, Lakeside ma delivery charge lagcha. Pokhara valley vitra delivery charge lagdaina. Order Rs. 5000 mathi gareko bhaye, delivery purba ra Kathmandu ma pani garna sakinchha.",
+      "question": "Pokhara vitra free delivery garna sakinchha ta?",
+      "response": "Ho, Pokhara valley vitra free delivery garna sakinchha."
+    },
+    {
+      "context": "ElectroMart, Kathmandu-8 ma electronics showroom chha. Kathmandu ra valley ma delivery free chha. Pokhara, Biratnagar, ra Dharan ma Rs. 3000 mathi order gare delivery free milcha.",
+      "question": "Biratnagar ma free delivery garna milcha ta?",
+      "response": "Ho, Biratnagar ma Rs. 3000 mathi gare delivery free milcha."
+    },
+    {
+      "context": "SmartTech, Hetauda-3, Main Road ma electronics store cha. Hetauda ra surrounding areas ma delivery free garna milcha. Tara, Pokhara, Kathmandu ra purba ma delivery garna sakidaina.",
+      "question": "Pokhara ra Kathmandu ma delivery garna sakidaina ta?",
+      "response": "Ho, Pokhara ra Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetStore, Biratnagar-9 ma electronics showroom cha. Biratnagar vitra delivery free cha. Aba saman ko order Rs. 4000 mathi gareko bhaye, Dharan, Itahari, ra Birtamod samma delivery free garna sakinchha. Pokhara, Kathmandu ma delivery garna sakidaina.",
+      "question": "Pokhara ra Kathmandu ma delivery garna sakidaina?",
+      "response": "Pokhara ra Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "DigitalNepal, Pokhara-6, Lakeside ma electronics ra accessories ko showroom cha. Pokhara ra surrounding area ma delivery free cha. Saman ko order Rs. 3500 mathi gare Itahari ra Dharan samma free delivery milcha.",
+      "question": "Itahari ra Dharan ma delivery free ho?",
+      "response": "Ho, Itahari ra Dharan ma delivery free ho."
+    },
+    {
+      "context": "SmartZone, Kathmandu-2, Thamel ma electronics showroom cha. Kathmandu valley ma delivery free garna sakinchha. Aba, purba ra Pokhara ma delivery garna sakidaina.",
+      "question": "Pokhara ma delivery garna milcha ta?",
+      "response": "Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetHub, Biratnagar-4 ma electronics showroom cha. Biratnagar vitra delivery free chha. Aba saman Rs. 3000 mathi gareko bhaye, Kathmandu, Pokhara, ra purba ma delivery garna sakinchha.",
+      "question": "Pokhara ma delivery free milcha ta?",
+      "response": "Pokhara ma delivery Rs. 3000 mathi gare delivery free garna milcha."
+    },
+    {
+      "context": "TechStore, Kathmandu-6 ma electronics showroom cha. Kathmandu ra valley ko sabai thau ma free delivery available cha. Purba ko karyalay ma delivery garna sakidaina.",
+      "question": "Purba ma delivery garna sakidaina ta?",
+      "response": "Ho, purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "SmartElectro, Pokhara-3, Lakeside ma electronics store cha. Pokhara ko sabai thau ma delivery free cha. Aba saman ko order Rs. 4500 mathi gareko bhaye, Biratnagar ra Dharan ma pani delivery free garna sakinchha.",
+      "question": "Biratnagar ma free delivery garna milcha ta?",
+      "response": "Ho, Biratnagar ma Rs. 4500 mathi gare free delivery garna milcha."
+    },
+    {
+      "context": "TechMart, Kathmandu-12, New Baneshwor ma electronics showroom cha. Kathmandu ra surrounding area ma delivery free garna sakinchha. Aba purba ra Pokhara ma delivery garna sakidaina.",
+      "question": "Pokhara ra purba ma delivery garna sakidaina?",
+      "response": "Ho, Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "DigitalGadgetStore, Itahari-10 ma electronics showroom cha. Itahari ra Dharan ma free delivery available cha. Tara, Pokhara, Kathmandu, ra Biratnagar ma delivery charge lageko cha.",
+      "question": "Kathmandu ra Pokhara ma delivery charge lagcha?",
+      "response": "Ho, Kathmandu ra Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStoreNepal, Kathmandu-1, Ason ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free chha. Aba saman ko order Rs. 3000 mathi gareko bhaye, Pokhara, Chitwan, ra Biratnagar ma delivery garna sakinchha.",
+      "question": "Biratnagar ma delivery garna sakinchha ta?",
+      "response": "Ho, Biratnagar ma Rs. 3000 mathi gare delivery garna sakinchha."
+    },
+    {
+      "context": "SmartShop, Pokhara-1, Lakeside ma electronics showroom cha. Pokhara valley ko sabai thau ma delivery free cha. Aba saman Rs. 3000 mathi gareko bhaye Kathmandu ra Biratnagar samma delivery garna milchha.",
+      "question": "Biratnagar samma delivery garna milcha ta?",
+      "response": "Ho, Biratnagar samma delivery garna milcha."
+    },
+    {
+      "context": "NepalTech, Kathmandu-15, Patan ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery available cha. Aba, Pokhara ra purba ko kunai area ma delivery garna sakidaina.",
+      "question": "Pokhara ra purba ma delivery garna sakidaina?",
+      "response": "Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechWorldNepal, Biratnagar-5, Bhanubhakta Chowk ma electronics showroom cha. Biratnagar vitra free delivery cha. Aba saman ko order Rs. 3500 mathi gare Itahari, Dharan, ra Birtamod samma free delivery garna sakinchha.",
+      "question": "Dharan ma free delivery garna sakinchha ta?",
+      "response": "Ho, Dharan ma free delivery garna sakinchha."
+    },
+    {
+      "context": "GadgetMart, Pokhara-4, Lakeside ma electronics showroom cha. Pokhara ko sabai wards ma delivery charge lagdaina. Aba saman ko order Rs. 5000 mathi gareko bhaye, Kathmandu, Biratnagar, ra purba ma free delivery garna sakinchha.",
+      "question": "Kathmandu ra Biratnagar ma delivery free ho?",
+      "response": "Ho, Kathmandu ra Biratnagar ma Rs. 5000 mathi gare delivery free ho."
+    },
+    {
+      "context": "TechStoreNepal, Hetauda-4, East Chowk ma electronics showroom cha. Hetauda ra surrounding areas ma free delivery available cha. Tara, Kathmandu, Pokhara ra purba ma delivery garna sakidaina.",
+      "question": "Pokhara ma delivery garna sakidaina?",
+      "response": "Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetHubNepal, Dharan-12, Kuleshwar ma electronics showroom cha. Dharan vitra free delivery chha. Aba saman ko order Rs. 4000 mathi gareko bhaye, Biratnagar, Itahari, ra Birtamod samma free delivery garna sakinchha.",
+      "question": "Birtamod ma delivery free ho?",
+      "response": "Ho, Birtamod ma free delivery garna sakinchha."
+    },
+    {
+      "context": "Hamro electronics store Kathmandu-3, Durbar Marg ma cha. Kathmandu valley ko sabai thau ma delivery free cha. Aba, Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha. Order Rs. 3000 mathi gareko bhaye, Pokhara ra Chitwan ma pani free delivery milcha.",
+      "question": "Pokhara ma delivery charge lagcha ra?",
+      "response": "Ho, Pokhara ma delivery charge lagcha, tara Rs. 3000 mathi gare free delivery milcha."
+    },
+    {
+      "context": "ElectroMart, Itahari-7 ma electronics showroom cha. Itahari ko sabai area ma delivery free cha. Aba, Pokhara ra Biratnagar ma delivery garna charge lagcha.",
+      "question": "Biratnagar ma delivery garna charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalGadget, Pokhara-5, Lakeside ma electronics store cha. Pokhara valley ko sabai wards ma delivery free cha. Aba saman Rs. 3500 mathi gareko bhaye, Kathmandu ra Biratnagar ma pani free delivery milcha.",
+      "question": "Kathmandu ma delivery garna charge lagcha?",
+      "response": "Kathmandu ma Rs. 3500 mathi gare delivery free garna sakinchha."
+    },
+    {
+      "context": "SmartTech, Biratnagar-9 ma electronics showroom cha. Biratnagar vitra free delivery garna sakinchha. Aba Pokhara, Kathmandu, ra purba ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery garna sakinchha ta?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "TechStoreNepal, Kathmandu-6, Baneshwor ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery available cha. Tara, Pokhara, Biratnagar, ra purba ma delivery garna sakidaina.",
+      "question": "Pokhara ma delivery garna milcha ra?",
+      "response": "Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "SmartShop, Hetauda-5, East Chowk ma electronics showroom cha. Hetauda ra surrounding areas ma delivery free cha. Pokhara, Kathmandu, ra purba ko karyalay ma delivery garna charge lagcha.",
+      "question": "Pokhara ra Kathmandu ma delivery charge lagcha?",
+      "response": "Ho, Pokhara ra Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStoreNepal, Dharan-6, Kuleshwar ma electronics showroom cha. Dharan vitra delivery free cha. Aba saman ko order Rs. 4000 mathi gareko bhaye, Biratnagar, Itahari, ra Birtamod samma free delivery garna sakinchha.",
+      "question": "Birtamod ma delivery garna sakinchha?",
+      "response": "Ho, Birtamod ma Rs. 4000 mathi gare free delivery garna sakinchha."
+    },
+    {
+      "context": "NepalGadget, Pokhara-2, Lakeside ma electronics store cha. Pokhara ko sabai wards ma delivery free cha. Aba saman Rs. 5000 mathi gareko bhaye Kathmandu, Biratnagar, ra Chitwan ma pani free delivery garna sakinchha.",
+      "question": "Kathmandu ma delivery garna milcha?",
+      "response": "Kathmandu ma Rs. 5000 mathi gare free delivery garna milcha."
+    },
+    {
+      "context": "GadgetMart, Kathmandu-15, New Baneshwor ma electronics showroom cha. Kathmandu valley ma delivery free garna sakinchha. Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Chitwan ma delivery garna sakinchha ta?",
+      "response": "Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "TechWorldNepal, Itahari-3, College Road ma electronics showroom cha. Itahari vitra delivery free cha. Pokhara ra Kathmandu ma delivery charge lagcha.",
+      "question": "Kathmandu ma delivery charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetShopNepal, Pokhara-4, Lakeside ma electronics showroom cha. Pokhara valley vitra delivery free garna sakinchha. Aba saman Rs. 3000 mathi gareko bhaye, Biratnagar, Kathmandu, ra Chitwan ma pani free delivery garna milcha.",
+      "question": "Biratnagar ma delivery garna sakinchha ta?",
+      "response": "Ho, Biratnagar ma Rs. 3000 mathi gare free delivery garna sakinchha."
+    },
+    {
+      "context": "SmartGadget, Kathmandu-8, Thamel ma electronics store cha. Kathmandu ra valley ko sabai wards ma free delivery available cha. Aba, Pokhara, Chitwan, ra purba ma delivery garna sakidaina.",
+      "question": "Pokhara ma delivery garna sakidaina?",
+      "response": "Ho, Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "DigitalHub, Kathmandu-3, Durbar Marg ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free garna sakinchha. Pokhara, Biratnagar, ra purba ma delivery garna sakidaina.",
+      "question": "Pokhara ra purba ma delivery garna milcha ra?",
+      "response": "Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "ElectroZone, Itahari-10 ma electronics showroom cha. Itahari vitra free delivery garna sakinchha. Aba, Pokhara, Kathmandu, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery charge lagcha ra?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartTechNepal, Kathmandu-2, Ason ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery available cha. Pokhara, Chitwan, ra purba ma delivery garna sakidaina.",
+      "question": "Chitwan ma delivery garna sakidaina?",
+      "response": "Chitwan ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechMartNepal, Pokhara-8 ma electronics showroom cha. Pokhara ko sabai wards ma free delivery available cha. Aba, Kathmandu ra purba ma delivery garna sakidaina.",
+      "question": "Kathmandu ma delivery garna sakidaina?",
+      "response": "Kathmandu ma delivery garna sakidaina."
+    },
+    {
+      "context": "DigitalStoreNepal, Biratnagar-5, Bhanubhakta Chowk ma electronics showroom cha. Biratnagar vitra delivery free cha. Aba saman Rs. 4500 mathi gareko bhaye, Pokhara, Kathmandu, ra purba ma free delivery garna sakinchha.",
+      "question": "Pokhara ma free delivery garna milcha ta?",
+      "response": "Pokhara ma Rs. 4500 mathi gare free delivery garna milcha."
+    },
+    {
+      "context": "TechNepal, Kathmandu-4, Patan ma electronics store cha. Kathmandu valley vitra free delivery cha. Pokhara ra purba ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery garna charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStore, Pokhara-1 ma electronics showroom cha. Pokhara ko sabai wards ma delivery free garna sakinchha. Aba saman Rs. 3000 mathi gareko bhaye, Kathmandu, Biratnagar, ra Chitwan ma free delivery garna milcha.",
+      "question": "Kathmandu ra Biratnagar ma delivery free ho?",
+      "response": "Ho, Kathmandu ra Biratnagar ma Rs. 3000 mathi gare free delivery garna milcha."
+    },
+    {
+      "context": "TechGadget, Dharan-4 ma electronics showroom cha. Dharan vitra free delivery garna sakinchha. Aba saman Rs. 3500 mathi gareko bhaye, Biratnagar, Itahari, ra Birtamod samma delivery free garna sakinchha.",
+      "question": "Birtamod ma delivery garna sakinchha?",
+      "response": "Ho, Birtamod ma Rs. 3500 mathi gare free delivery garna sakinchha."
+    },
+    {
+      "context": "DigitalElectro, Kathmandu-5, Bhaktapur ma electronics showroom cha. Kathmandu valley ma delivery free cha. Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Chitwan ma delivery charge lagcha ra?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetHouse, Kathmandu-3, New Road ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery available cha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery garna charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartHub, Biratnagar-7 ma electronics showroom cha. Biratnagar vitra free delivery garna sakinchha. Aba, Pokhara, Kathmandu, ra purba ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma delivery charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "TechShop, Itahari-2 ma electronics showroom cha. Itahari ko sabai wards ma free delivery available cha. Pokhara, Kathmandu, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Chitwan ma delivery garna sakinchha ra?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalMart, Pokhara-3, Pardi ma electronics showroom cha. Pokhara valley ko sabai wards ma delivery free cha. Kathmandu, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroStoreNepal, Kathmandu-9, Lazimpat ma electronics showroom cha. Kathmandu valley ma delivery free cha. Pokhara, Biratnagar, ra purba ma delivery garna sakidaina.",
+      "question": "Pokhara ma delivery garna sakinchha ta?",
+      "response": "Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "GadgetWorld, Kathmandu-6, Jamal ma electronics showroom cha. Kathmandu ra Pokhara ma delivery free cha. Aba, Chitwan, Biratnagar, ra purba ma delivery garna charge lagcha.",
+      "question": "Chitwan ma delivery garna charge lagcha?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalGizmo, Biratnagar-8, Babarmahal ma electronics showroom cha. Biratnagar ko sabai wards ma delivery free cha. Kathmandu, Pokhara, ra purba ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery garna charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "TechWave, Pokhara-4, Chhorepatan ma electronics showroom cha. Pokhara valley ma free delivery available cha. Kathmandu, Chitwan, ra Biratnagar ma delivery garna charge lagcha.",
+      "question": "Chitwan ma delivery garna charge lagcha?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroMart, Kathmandu-5, Kalanki ma electronics showroom cha. Kathmandu ko sabai wards ma free delivery available cha. Pokhara, Biratnagar, ra purba ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStore, Itahari-5, Bazar ma electronics showroom cha. Itahari ma free delivery available cha. Aba, Pokhara, Kathmandu, ra purba ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery garna charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "TechMartNepal, Pokhara-2, Mahendrapool ma electronics showroom cha. Pokhara ko sabai wards ma delivery free cha. Aba, Kathmandu, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Kathmandu ma delivery garna charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroGadget, Kathmandu-2, Thamel ma electronics showroom cha. Kathmandu valley ma delivery free cha. Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery charge lagcha ra?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "TechNepal, Pokhara-7, Bagar ma electronics showroom cha. Pokhara valley ma delivery free cha. Aba, Kathmandu, Biratnagar, ra purba ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma delivery charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartTech, Kathmandu-8, Pashupati ma electronics showroom cha. Kathmandu ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalShopNepal, Biratnagar-4, Koirala Chowk ma electronics showroom cha. Biratnagar vitra delivery free cha. Aba, Pokhara, Kathmandu, ra purba ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery garna charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetShopNepal, Kathmandu-4, Gyaneshwor ma electronics showroom cha. Kathmandu valley ma delivery free cha. Pokhara, Chitwan, ra Biratnagar ma delivery garna sakidaina.",
+      "question": "Pokhara ma delivery garna sakinchha?",
+      "response": "Pokhara ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechStoreNepal, Pokhara-1, Bhimkali Road ma electronics showroom cha. Pokhara ko sabai wards ma delivery free cha. Aba, Kathmandu, Biratnagar, ra purba ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroTechNepal, Kathmandu-7, Ratnapark ma electronics showroom cha. Kathmandu ko sabai wards ma free delivery available cha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Chitwan ma delivery charge lagcha?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetMartNepal, Itahari-3, Bhanu Chowk ma electronics showroom cha. Itahari ko sabai wards ma free delivery garna sakinchha. Pokhara, Kathmandu, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartGadgetNepal, Kathmandu-9, Kupondole ma electronics showroom cha. Kathmandu valley ma free delivery available cha. Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery garna charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "TechHut, Pokhara-6, Ramghat ma electronics showroom cha. Pokhara ko sabai wards ma delivery free cha. Aba, Kathmandu, Chitwan, ra Biratnagar ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma delivery charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalGizmos, Kathmandu-3, Boudha ma electronics showroom cha. Kathmandu valley ma delivery free cha. Pokhara, Chitwan, ra purba ma delivery garna sakidaina.",
+      "question": "Pokhara ra purba ma delivery garna sakinchha?",
+      "response": "Pokhara ra purba ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechStoreNepal, Kathmandu-1, Naxal ma electronics showroom cha. Kathmandu ko sabai wards ma free delivery garna sakinchha. Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetWorldNepal, Biratnagar-1, Pathari ma electronics showroom cha. Biratnagar vitra delivery free garna sakinchha. Pokhara, Kathmandu, ra purba ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery garna charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroHouseNepal, Kathmandu-6, Lagankhel ma electronics showroom cha. Kathmandu valley ma delivery free cha. Pokhara, Biratnagar, ra Chitwan ma delivery garna sakidaina.",
+      "question": "Biratnagar ma delivery garna sakinchha?",
+      "response": "Biratnagar ma delivery garna sakidaina."
+    },
+    {
+      "context": "TechBazaar, Kathmandu-5, Bhaktapur ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartElectro, Biratnagar-6, Narayan Chowk ma electronics showroom cha. Biratnagar ko sabai wards ma delivery free cha. Kathmandu, Pokhara, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma delivery garna charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalPro, Itahari-1, Bazar ma electronics showroom cha. Itahari vitra delivery free cha. Pokhara, Kathmandu, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery garna charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetWorks, Kathmandu-2, Tinkune ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Chitwan ma delivery charge lagcha?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "TechMartNepal, Pokhara-3, Pardi ma electronics showroom cha. Pokhara ma delivery free cha. Kathmandu, Biratnagar, ra purba ma delivery garna charge lagcha.",
+      "question": "Biratnagar ma delivery charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartShopNepal, Kathmandu-8, Patan ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroMartNepal, Biratnagar-9, Kanchanbari ma electronics showroom cha. Biratnagar vitra free delivery garna sakinchha. Aba, Kathmandu, Pokhara, ra purba ma delivery charge lagcha.",
+      "question": "Kathmandu ma delivery garna charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalHubNepal, Kathmandu-7, Kalanki ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free cha. Pokhara, Chitwan, ra Biratnagar ma delivery garna charge lagcha.",
+      "question": "Chitwan ma delivery garna charge lagcha?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetMartNepal, Pokhara-4, Lakeside ma electronics showroom cha. Pokhara ko sabai wards ma free delivery garna sakinchha. Kathmandu, Biratnagar, ra purba ma delivery charge lagcha.",
+      "question": "Pokhara ko sabai wards ma delivery free cha ra?",
+      "response": "Ho, Pokhara ma delivery free cha."
+    },
+    {
+      "context": "ElectroWorld, Itahari-4, Chandani Chowk ma electronics showroom cha. Itahari vitra delivery free cha. Pokhara, Kathmandu, ra Biratnagar ma delivery garna charge lagcha.",
+      "question": "Biratnagar ma delivery garna sakinchha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "TechShopNepal, Kathmandu-1, Chhetrapati ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Kathmandu ko sabai wards ma free delivery cha?",
+      "response": "Ho, Kathmandu valley ma delivery free cha."
+    },
+    {
+      "context": "SmartGadgetsNepal, Biratnagar-3, Hospital Road ma electronics showroom cha. Biratnagar vitra free delivery garna sakinchha. Aba, Kathmandu, Pokhara, ra purba ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery garna charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "TechWaveNepal, Kathmandu-6, Baneshwor ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroGadgetNepal, Pokhara-1, New Road ma electronics showroom cha. Pokhara vitra delivery free cha. Kathmandu, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Kathmandu ma delivery garna charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetHouseNepal, Kathmandu-3, Sanepa ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Chitwan ma delivery charge lagcha?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "TechShop, Kathmandu-4, Bhaktapur Road ma electronics showroom cha. Kathmandu ko sabai wards ma free delivery garna sakinchha. Aba, Pokhara, Chitwan, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroTech, Itahari-6, Bazar ma electronics showroom cha. Itahari vitra free delivery garna sakinchha. Pokhara, Kathmandu, ra Biratnagar ma delivery garna charge lagcha.",
+      "question": "Biratnagar ma delivery garna charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartTechNepal, Kathmandu-2, Tangal ma electronics showroom cha. Kathmandu ko sabai wards ma free delivery available cha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Kathmandu ma free delivery cha ra?",
+      "response": "Ho, Kathmandu valley ma free delivery garna sakinchha."
+    },
+    {
+      "context": "TechGadgetNepal, Kathmandu-9, Ratna Park ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free cha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Chitwan ma delivery garna charge lagcha?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalGizmosNepal, Biratnagar-2, Bhat Bhateni ma electronics showroom cha. Biratnagar vitra delivery free cha. Aba, Pokhara, Kathmandu, ra purba ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery garna charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStoreNepal, Kathmandu-5, Kupondole ma electronics showroom cha. Kathmandu valley ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Kathmandu ko sabai wards ma delivery free cha?",
+      "response": "Ho, Kathmandu valley ma free delivery garna sakinchha."
+    },
+    {
+      "context": "ElectroShopNepal, Pokhara-2, Lakeside ma electronics showroom cha. Pokhara vitra delivery free cha. Kathmandu, Biratnagar, ra purba ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma delivery charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartTech, Biratnagar-1, Sabai Chowk ma electronics showroom cha. Biratnagar vitra delivery free cha. Aba, Pokhara, Kathmandu, ra Chitwan ma delivery charge lagcha.",
+      "question": "Chitwan ma delivery charge lagcha?",
+      "response": "Ho, Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetHut, Kathmandu-4, Khichapokhari ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free cha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery garna charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "TechHouse, Kathmandu-3, Gongabu ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free cha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery charge lagcha?",
+      "response": "Ho, Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartGadgetStore, Pokhara-6, Pardi ma electronics showroom cha. Pokhara ko sabai wards ma delivery free cha. Aba, Kathmandu, Biratnagar, ra purba ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma delivery charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "TechShopNepal, Biratnagar-4, Batar Chowk ma electronics showroom cha. Biratnagar vitra delivery free cha. Pokhara, Kathmandu, ra Chitwan ma delivery charge lagcha.",
+      "question": "Kathmandu ma delivery garna charge lagcha?",
+      "response": "Ho, Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalMart, Kathmandu-2, Bhaktapur Road ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Chitwan, ra Biratnagar ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery charge lagcha?",
+      "response": "Ho, Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetHub, Kathmandu-2, New Road ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free cha. Pokhara, Chitwan, ra Biratnagar ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery garne ho?",
+      "response": "Pokhara ma delivery garna charge lagcha."
+    },
+    {
+      "context": "SmartTech, Pokhara-3, Lakeside ma electronics showroom cha. Pokhara ko sabai wards ma free delivery cha. Biratnagar, Kathmandu, ra Chitwan ma delivery charge lagcha.",
+      "question": "Biratnagar ma delivery garne cha ta?",
+      "response": "Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "TechShop, Biratnagar-5, Bhatbhateni ma electronics showroom cha. Biratnagar vitra free delivery garne cha. Kathmandu, Pokhara, ra Chitwan ma delivery charge lagcha.",
+      "question": "Biratnagar ko sabai wards ma free delivery cha?",
+      "response": "Biratnagar vitra matra free delivery garna sakinchha."
+    },
+    {
+      "context": "DigitalGizmos, Kathmandu-4, Bhaktapur Road ma electronics showroom cha. Kathmandu valley ma sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Kathmandu ko sabai wards ma delivery free cha?",
+      "response": "Kathmandu valley ma sabai wards ma free delivery garna sakinchha."
+    },
+    {
+      "context": "ElectroWorld, Pokhara-2, Pardi ma electronics showroom cha. Pokhara ko sabai wards ma free delivery garne cha. Biratnagar, Kathmandu, ra Chitwan ma delivery charge lagcha.",
+      "question": "Pokhara ko sabai wards ma delivery free cha?",
+      "response": "Pokhara vitra matra free delivery garna sakinchha."
+    },
+    {
+      "context": "GadgetWorld, Kathmandu-5, Kupondole ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Chitwan ma delivery garne cha ta?",
+      "response": "Chitwan ma delivery garna charge lagcha."
+    },
+    {
+      "context": "TechnoGizmos, Biratnagar-7, Kanchanbari ma electronics showroom cha. Biratnagar vitra free delivery garne cha. Pokhara, Kathmandu, ra Chitwan ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery garne cha?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartElectro, Kathmandu-9, Tinkune ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery cha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Biratnagar ma delivery garne cha?",
+      "response": "Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetBazaar, Itahari-4, Bazar ma electronics showroom cha. Itahari vitra matra free delivery garna sakinchha. Pokhara, Kathmandu, ra Biratnagar ma delivery charge lagcha.",
+      "question": "Itahari ma free delivery garne ho?",
+      "response": "Itahari vitra matra free delivery garna sakinchha."
+    },
+    {
+      "context": "DigitalStore, Kathmandu-3, Kalanki ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free cha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Chitwan ma delivery garne ho?",
+      "response": "Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "TechZone, Pokhara-5, New Road ma electronics showroom cha. Pokhara vitra free delivery garne cha. Kathmandu, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Kathmandu ma delivery garne ho?",
+      "response": "Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetShop, Kathmandu-6, Pashupati ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Biratnagar ma delivery garne cha?",
+      "response": "Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroMart, Pokhara-7, Chhetrapati ma electronics showroom cha. Pokhara vitra free delivery garne cha. Kathmandu, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Pokhara ko sabai wards ma delivery free cha?",
+      "response": "Pokhara vitra matra free delivery garna sakinchha."
+    },
+    {
+      "context": "SmartGadgetsNepal, Kathmandu-1, Sanepa ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free cha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Pokhara ma delivery garne cha?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalHubNepal, Biratnagar-6, Hospital Road ma electronics showroom cha. Biratnagar vitra free delivery garne cha. Pokhara, Kathmandu, ra Chitwan ma delivery charge lagcha.",
+      "question": "Chitwan ma delivery garne ho?",
+      "response": "Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroStoreNepal, Kathmandu-7, Patan ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma delivery garne ho?",
+      "response": "Kathmandu ma delivery free cha."
+    },
+    {
+      "context": "TechMart, Pokhara-8, Lakeside ma electronics showroom cha. Pokhara vitra free delivery garne cha. Kathmandu, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma delivery garne cha?",
+      "response": "Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "SmartShop, Kathmandu-9, Jorpati ma electronics showroom cha. Kathmandu valley ko sabai wards ma delivery free cha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Kathmandu ko sabai wards ma free delivery cha?",
+      "response": "Kathmandu valley ko sabai wards ma delivery free cha."
+    },
+    {
+      "context": "GadgetHubNepal, Biratnagar-3, Kanchanbari ma electronics showroom cha. Biratnagar vitra free delivery garne cha. Kathmandu, Pokhara, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Biratnagar ko sabai wards ma free delivery garne cha?",
+      "response": "Biratnagar vitra matra free delivery garna sakinchha."
+    },
+    {
+      "context": "ElectroMartNepal, Kathmandu-2, Chhetrapati ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery garne ho?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "TechGizmosNepal, Kathmandu-3, Boudha ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Chitwan ma delivery garne cha?",
+      "response": "Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStore, Biratnagar-2, Sabai Chowk ma electronics showroom cha. Biratnagar vitra free delivery garne cha. Kathmandu, Pokhara, ra Chitwan ma delivery charge lagcha.",
+      "question": "Pokhara ma delivery garne ho?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "DigitalGadgetNepal, Kathmandu-4, Patan ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garne cha. Pokhara, Biratnagar, ra Chitwan ma delivery charge lagcha.",
+      "question": "Kathmandu ma delivery garne ho?",
+      "response": "Kathmandu valley ma delivery free cha."
+    },
+    {
+      "context": "GadgetNepal, Kathmandu-1, Tinkune ma electronics showroom cha. Kathmandu valley ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Kathmandu valley ma delivery garne cha?",
+      "response": "Kathmandu valley ma delivery free cha."
+    },
+    {
+      "context": "TechBazaarNepal, Kathmandu-2, Maitighar ma electronics showroom cha. Kathmandu ko sabai wards ma free delivery garna sakinchha. Pokhara, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma free delivery garne cha?",
+      "response": "Kathmandu ma delivery free cha."
+    },
+    {
+      "context": "ElectroMart, Pokhara-6, Pardi ma electronics showroom cha. Pokhara vitra free delivery garne cha. Kathmandu, Biratnagar, ra Chitwan ma delivery garna charge lagcha.",
+      "question": "Kathmandu ma delivery garne ho?",
+      "response": "Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "TechHub Nepal, located at Lazimpat-1, Kathmandu, offers a wide range of electronics including smartphones, laptops, and accessories. We provide free delivery within Kathmandu valley to all our customers. For deliveries outside Kathmandu, such as Pokhara, Chitwan, and Biratnagar, additional delivery charges apply depending on the area and distance. You can check our website for specific charges for your location or contact customer service for more details.",
+      "question": "Pokhara ma delivery garne cha ta?",
+      "response": "Pokhara ma delivery garna charge lagcha."
+    },
+    {
+      "context": "GadgetWorld Nepal is based in the heart of Kathmandu, at New Road. We specialize in providing high-quality electronics and accessories. Our free delivery service is available only within Kathmandu valley. For areas outside Kathmandu, including Biratnagar, Pokhara, and Chitwan, we charge delivery fees which vary based on location and order size. You can also avail of free delivery on orders above NPR 5000 within Kathmandu valley.",
+      "question": "Kathmandu ko sabai wards ma free delivery cha?",
+      "response": "Kathmandu valley ko sabai wards ma free delivery garna sakinchha."
+    },
+    {
+      "context": "ElectroMart Nepal, located in Biratnagar-5, has been serving customers with top-notch electronics for years. We offer free delivery only within Biratnagar city. For deliveries to nearby areas like Dharan, Itahari, and other cities, delivery charges are applicable. The delivery charges depend on the product's weight and delivery area, and we always aim to offer the best possible price for delivery.",
+      "question": "Biratnagar vitra free delivery garne cha?",
+      "response": "Biratnagar vitra matra free delivery garna sakinchha."
+    },
+    {
+      "context": "SmartElectro Kathmandu, located in Bhaktapur Road, is your go-to destination for high-end electronics. Our store offers free delivery across the Kathmandu valley, including areas like Patan, Lalitpur, and Bhaktapur. If you're in Pokhara, Biratnagar, or Chitwan, you can still get your products delivered, but a delivery fee will be charged based on the location. We also offer discounts on delivery charges for bulk orders.",
+      "question": "Biratnagar ma delivery garne cha?",
+      "response": "Biratnagar ma delivery charge lagcha."
+    },
+    {
+      "context": "GizmoWorld Nepal, located in the bustling area of Pokhara, offers a variety of electronics such as smartphones, home appliances, and accessories. We offer free delivery only within Pokhara city limits. If you live outside Pokhara, like in Chitwan or Kathmandu, we provide delivery services but with a delivery fee. The cost depends on the type of product and the distance to be covered.",
+      "question": "Pokhara vitra free delivery garne cha?",
+      "response": "Pokhara vitra matra free delivery garna sakinchha."
+    },
+    {
+      "context": "DigitalGadgets Kathmandu, located in Durbar Marg, offers a wide variety of gadgets and electronics for customers in the Kathmandu valley. We are proud to offer free delivery within Kathmandu valley, including Patan, Bhaktapur, and Lalitpur. For orders outside the valley, such as Pokhara, Biratnagar, and Chitwan, we offer delivery but charge a fee. The fee is calculated based on your order and delivery location, with an option to check the exact cost online.",
+      "question": "Chitwan ma delivery garne ho?",
+      "response": "Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroStore, based in New Road, Kathmandu, offers free delivery to all customers in Kathmandu valley. For areas like Pokhara, Chitwan, and Biratnagar, we do provide delivery services, but there is a charge based on your location. If your order exceeds NPR 3000, you can avail of a discount on delivery charges within Kathmandu valley. Please check the product page for more details on delivery charges.",
+      "question": "Kathmandu ko sabai wards ma delivery free cha?",
+      "response": "Kathmandu valley ma sabai wards ma free delivery garna sakinchha."
+    },
+    {
+      "context": "TechNepal, located in Biratnagar-9, specializes in the latest electronics and gadgets. We provide free delivery only within Biratnagar. However, if you're located in other areas such as Itahari, Pokhara, or Kathmandu, we do offer delivery with a charge based on the distance and the size of your order. You can contact our customer service team for detailed delivery charges specific to your area.",
+      "question": "Pokhara ma delivery garna sakinchha?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetShop Kathmandu offers the best in electronic gadgets. Free delivery is available for customers within Kathmandu valley, including locations like Bhaktapur, Lalitpur, and Kirtipur. For deliveries outside Kathmandu, such as Pokhara and Biratnagar, a delivery fee will be added to your order. The fee is based on the product weight and your location, so please check with customer service for an accurate estimate.",
+      "question": "Kathmandu ma delivery garne cha?",
+      "response": "Kathmandu valley ma delivery free cha."
+    },
+    {
+      "context": "SmartTech, Kathmandu, provides a wide range of electronics, including gadgets, smartphones, and home appliances. We offer free delivery within Kathmandu valley, but for locations outside the valley, including Pokhara, Chitwan, and Biratnagar, there are charges. The exact cost depends on the area and order amount, with special offers available for large orders.",
+      "question": "Pokhara ma delivery garne ho?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroGizmo Nepal provides electronics to customers all over Nepal. We offer free delivery within Kathmandu valley, covering areas like Bhaktapur, Patan, and Lalitpur. For deliveries to other locations such as Pokhara, Biratnagar, and Chitwan, delivery charges apply. For purchases above NPR 3000, delivery charges are waived off in Kathmandu, but for other areas, a small fee still applies.",
+      "question": "Pokhara ma delivery garne cha?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetStore Kathmandu, located in the busy streets of Thamel, offers free delivery within Kathmandu valley. If you're ordering from other locations like Pokhara, Chitwan, or Biratnagar, a small charge is applied based on the delivery distance and size of the order. Our delivery system is quick, and we aim to deliver your products within 3-5 business days.",
+      "question": "Pokhara ma delivery garne cha?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "TechnoElectronics, based in Kathmandu, provides a range of electronics to customers across Nepal. We offer free delivery within Kathmandu valley, including areas like Bhaktapur, Patan, and Kirtipur. For areas like Pokhara, Biratnagar, and Chitwan, delivery charges apply depending on the order size and destination. You can also get free delivery in Kathmandu on orders above NPR 5000.",
+      "question": "Kathmandu ma delivery garne cha?",
+      "response": "Kathmandu ma delivery free cha."
+    },
+    {
+      "context": "ElectroShop Nepal, located in Pokhara, offers all types of electronics. Free delivery is available within Pokhara city. For locations outside Pokhara, such as Kathmandu, Biratnagar, and Chitwan, delivery charges are applied. We aim to provide fast and affordable delivery, ensuring that your electronics arrive in perfect condition.",
+      "question": "Kathmandu ma delivery garna sakinchha?",
+      "response": "Kathmandu ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetCentral Nepal provides state-of-the-art electronics for customers all over Nepal. We offer free delivery within Kathmandu valley, including areas such as Patan, Bhaktapur, and Kirtipur. For deliveries to other locations like Pokhara, Biratnagar, and Chitwan, a delivery fee will apply based on the location and order size.",
+      "question": "Pokhara ma delivery garne ho?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GizmoZone Kathmandu, located in Tinkune, is known for offering great deals on electronics. We offer free delivery across Kathmandu valley. If you're located outside the valley, such as in Biratnagar, Pokhara, or Chitwan, delivery charges will apply. You can check our website for a detailed breakdown of delivery fees for each area.",
+      "question": "Chitwan ma delivery garne cha?",
+      "response": "Chitwan ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetMax Kathmandu is your one-stop destination for all electronic products. We provide free delivery within Kathmandu valley. For areas outside Kathmandu, such as Pokhara, Biratnagar, and Chitwan, delivery charges are added to the order based on the location. Special offers are available on larger orders, including discounts on delivery charges.",
+      "question": "Kathmandu ko sabai wards ma free delivery cha?",
+      "response": "Kathmandu valley ma sabai wards ma free delivery garna sakinchha."
+    },
+    {
+      "context": "SmartShop Nepal, located in Lazimpat, offers high-quality electronics and gadgets. We provide free delivery within Kathmandu valley, including all major locations such as Bhaktapur, Lalitpur, and Kirtipur. If you're located outside the valley, such as in Pokhara or Biratnagar, delivery charges apply.",
+      "question": "Pokhara ma delivery garne cha?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "GadgetPoint Nepal, based in Biratnagar, provides free delivery only within Biratnagar city. For deliveries to other cities such as Kathmandu, Pokhara, and Chitwan, delivery charges apply. We provide affordable delivery options to ensure timely and safe arrival of your products.",
+      "question": "Pokhara ma delivery garne ho?",
+      "response": "Pokhara ma delivery charge lagcha."
+    },
+    {
+      "context": "ElectroStore Nepal, located in Patan, is offering the best electronics with free delivery within the Kathmandu valley. For areas outside the valley, including Pokhara, Chitwan, and Biratnagar, delivery charges apply depending on the location and size of the order. Please contact us for delivery estimates based on your location.",
+      "question": "Biratnagar ma delivery garne cha?",
+      "response": "Biratnagar ma delivery charge lagcha."
+    }
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

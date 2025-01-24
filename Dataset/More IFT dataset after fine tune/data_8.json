@@ -1,0 +1,2577 @@
+[
+    {
+        "question": "Mero order ko status k cha? Order ID: 12345",
+        "context": "Order ID: 12345, Status: Shipped, Estimated Delivery: 3-4 days, Shipping Address: Kathmandu, Nepal.",
+        "response": "Tapailo order ID: 12345 ko status 'Shipped' cha. Yahaa samma pugna 3-4 din lagn sakcha."
+    },
+    {
+        "question": "Yo product ko stock ma cha? Product ID: 67890",
+        "context": "Product ID: 67890, Name: Wireless Headphones, Stock: Available, Price: NPR 5,000.",
+        "response": "Product ID: 67890 ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Malai product return garna sakchu? Return policy k cha?",
+        "context": "Return Policy: Products can be returned within 30 days of purchase with a valid receipt. Refunds will be processed within 7 business days.",
+        "response": "Hajur, tapailai product receipt sanga 30 days bhitra return garna saknu huncha. Refund process 7 business days bhitra huncha."
+    },
+    {
+        "question": "Payment garna ko lagi kun kun method haru cha?",
+        "context": "Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, hamro website ma payment garna ko lagi Credit/Debit Card, Esewa, Khalti, ra Cash on Delivery haru upalabdh cha."
+    },
+    {
+        "question": "Kathmandu ma delivery garna kati din lagcha?",
+        "context": "Delivery Information: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days.",
+        "response": "Kathmandu bhitra delivery garna 1-2 din lagcha. Tapailo order aaja palta confirm gardinu huncha."
+    },
+    {
+        "question": "Mero order cancel garna sakchu? Order ID: 54321",
+        "context": "Order ID: 54321, Status: Processing, Cancellation Policy: Orders can be canceled before they are shipped.",
+        "response": "Hajur, tapailo order ID: 54321 cancel garna saknu huncha. Kripaya hamro customer care number: 01-2345678 ma samparka garnuhos."
+    },
+    {
+        "question": "Ahile kunai offer cha ki nai?",
+        "context": "Current Offers: 10% discount on all products with code SAVE10, Free shipping on orders above NPR 5,000.",
+        "response": "Hajur, ahile hamro website ma 10% discount chalirako cha. Code: SAVE10 use garnuhos. Sath ma NPR 5,000 mathi ko order ma free shipping pani cha."
+    },
+    {
+        "question": "Yo product ko specifications k k cha? Product ID: 11223",
+        "context": "Product ID: 11223, Name: Smartphone XYZ, Specifications: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera.",
+        "response": "Product ID: 11223 ko specifications yas prakar cha: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera. Dherai details ko lagi product page ma hernuhos."
+    },
+    {
+        "question": "Yo product ko warranty kati din ko cha?",
+        "context": "Product Warranty: 1 year manufacturer warranty. Warranty covers manufacturing defects only.",
+        "response": "Hajur, yas product ko warranty 1 year ko cha. Warranty manufacturing defects matra cover garcha."
+    },
+    {
+        "question": "Mero order confirm bhayo ki nai? Order ID: 98765",
+        "context": "Order ID: 98765, Status: Confirmed, Shipping Date: 2023-10-15, Delivery Date: 2023-10-18.",
+        "response": "Hajur, tapailo order ID: 98765 confirm bhaisakyo. Delivery ko lagi tayari garirako cha. Estimated delivery date 2023-10-18 ho."
+    },
+    {
+        "question": "Mero order ko status k cha? Order ID: 12345",
+        "context": "Order ID: 12345, Status: Shipped, Estimated Delivery: 3-4 days, Shipping Address: Kathmandu, Nepal.",
+        "response": "Tapailo order ID: 12345 ko status 'Shipped' cha. Yahaa samma pugna 3-4 din lagn sakcha."
+    },
+    {
+        "question": "Yo product ko stock ma cha? Product ID: 67890",
+        "context": "Product ID: 67890, Name: Wireless Headphones, Stock: Available, Price: NPR 5,000.",
+        "response": "Product ID: 67890 ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Malai product return garna sakchu? Return policy k cha?",
+        "context": "Return Policy: Products can be returned within 30 days of purchase with a valid receipt. Refunds will be processed within 7 business days.",
+        "response": "Hajur, tapailai product receipt sanga 30 days bhitra return garna saknu huncha. Refund process 7 business days bhitra huncha."
+    },
+    {
+        "question": "Payment garna ko lagi kun kun method haru cha?",
+        "context": "Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, hamro website ma payment garna ko lagi Credit/Debit Card, Esewa, Khalti, ra Cash on Delivery haru upalabdh cha."
+    },
+    {
+        "question": "Kathmandu ma delivery garna kati din lagcha?",
+        "context": "Delivery Information: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days.",
+        "response": "Kathmandu bhitra delivery garna 1-2 din lagcha. Tapailo order aaja palta confirm gardinu huncha."
+    },
+    {
+        "question": "Mero order cancel garna sakchu? Order ID: 54321",
+        "context": "Order ID: 54321, Status: Processing, Cancellation Policy: Orders can be canceled before they are shipped.",
+        "response": "Hajur, tapailo order ID: 54321 cancel garna saknu huncha. Kripaya hamro customer care number: 01-2345678 ma samparka garnuhos."
+    },
+    {
+        "question": "Ahile kunai offer cha ki nai?",
+        "context": "Current Offers: 10% discount on all products with code SAVE10, Free shipping on orders above NPR 5,000.",
+        "response": "Hajur, ahile hamro website ma 10% discount chalirako cha. Code: SAVE10 use garnuhos. Sath ma NPR 5,000 mathi ko order ma free shipping pani cha."
+    },
+    {
+        "question": "Yo product ko specifications k k cha? Product ID: 11223",
+        "context": "Product ID: 11223, Name: Smartphone XYZ, Specifications: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera.",
+        "response": "Product ID: 11223 ko specifications yas prakar cha: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera. Dherai details ko lagi product page ma hernuhos."
+    },
+    {
+        "question": "Yo product ko warranty kati din ko cha?",
+        "context": "Product Warranty: 1 year manufacturer warranty. Warranty covers manufacturing defects only.",
+        "response": "Hajur, yas product ko warranty 1 year ko cha. Warranty manufacturing defects matra cover garcha."
+    },
+    {
+        "question": "Mero order confirm bhayo ki nai? Order ID: 98765",
+        "context": "Order ID: 98765, Status: Confirmed, Shipping Date: 2023-10-15, Delivery Date: 2023-10-18.",
+        "response": "Hajur, tapailo order ID: 98765 confirm bhaisakyo. Delivery ko lagi tayari garirako cha. Estimated delivery date 2023-10-18 ho."
+    },
+    {
+        "question": "Malai product exchange garna sakcha?",
+        "context": "Exchange Policy: Products can be exchanged within 14 days of delivery if unused and in original packaging.",
+        "response": "Hajur, tapailai product delivery bhayeko 14 days bhitra exchange garna saknu huncha, yadi product unused ra original packaging ma cha bhane."
+    },
+    {
+        "question": "Mero order ma kunai problem cha. Order ID: 33445",
+        "context": "Order ID: 33445, Issue: Delayed delivery, Reason: Logistics delay, Expected Resolution: 2 more days.",
+        "response": "Hajur, tapailo order ID: 33445 ma logistics delay bhayeko le 2 din samma delivery huna sakcha. Hamile tapailai update gardai rahanchhau."
+    },
+    {
+        "question": "Yo product ko review k k cha? Product ID: 55667",
+        "context": "Product ID: 55667, Reviews: 4.5/5 stars, Positive Feedback: Great quality, Negative Feedback: Slightly expensive.",
+        "response": "Product ID: 55667 ko review 4.5/5 stars cha. Dherai le ramro quality bhaneko cha, tara kehi le ali mahango bhaneko cha."
+    },
+    {
+        "question": "Malai product ko manual chahiyo. Product ID: 77889",
+        "context": "Product ID: 77889, Manual: Available for download on the product page under 'Support' section.",
+        "response": "Hajur, product ID: 77889 ko manual product page ko 'Support' section bata download garna sakincha."
+    },
+    {
+        "question": "Mero order ma product missing cha. Order ID: 99001",
+        "context": "Order ID: 99001, Issue: Missing product, Resolution: Replacement will be shipped within 24 hours.",
+        "response": "Hajur, tapailo order ID: 99001 ma product missing bhayeko le replacement 24 hours bhitra ship huncha."
+    },
+    {
+        "question": "Malai product ko price ma discount cha ki nai?",
+        "context": "Discount Information: 10% discount on all products with code SAVE10, valid until 2023-12-31.",
+        "response": "Hajur, ahile 10% discount chalirako cha. Code: SAVE10 use garnuhos. Offer 2023-12-31 samma valid cha."
+    },
+    {
+        "question": "Mero order ma wrong product aayo. Order ID: 22334",
+        "context": "Order ID: 22334, Issue: Wrong product delivered, Resolution: Return the product for a replacement or refund.",
+        "response": "Hajur, tapailo order ID: 22334 ma wrong product deliver bhayeko le yaslai return garnuhos. Replacement ki refund garna sakchhau."
+    },
+    {
+        "question": "Malai product ko size change garna sakchu?",
+        "context": "Size Change Policy: Size can be changed within 7 days of delivery if the product is unused and in original packaging.",
+        "response": "Hajur, tapailai product delivery bhayeko 7 days bhitra size change garna saknu huncha, yadi product unused ra original packaging ma cha bhane."
+    },
+    {
+        "question": "Mero order ko tracking number k ho? Order ID: 44556",
+        "context": "Order ID: 44556, Tracking Number: TRK123456789, Shipping Carrier: Nepal Post.",
+        "response": "Tapailo order ID: 44556 ko tracking number TRK123456789 ho. Nepal Post bata ship bhayeko cha."
+    },
+    {
+        "question": "Malai product ko color change garna sakchu?",
+        "context": "Color Change Policy: Color can be changed within 7 days of delivery if the product is unused and in original packaging.",
+        "response": "Hajur, tapailai product delivery bhayeko 7 days bhitra color change garna saknu huncha, yadi product unused ra original packaging ma cha bhane."
+    },
+    {
+        "question": "Mero order ma product damage bhayo. Order ID: 66778",
+        "context": "Order ID: 66778, Issue: Damaged product, Resolution: Replacement will be shipped within 24 hours.",
+        "response": "Hajur, tapailo order ID: 66778 ma product damage bhayeko le replacement 24 hours bhitra ship huncha."
+    },
+    {
+        "question": "Malai product ko installation guide chahiyo.",
+        "context": "Installation Guide: Available for download on the product page under 'Support' section.",
+        "response": "Hajur, product ko installation guide product page ko 'Support' section bata download garna sakincha."
+    },
+    {
+        "question": "Mero order ma product wrong size ma aayo. Order ID: 88990",
+        "context": "Order ID: 88990, Issue: Wrong size delivered, Resolution: Return the product for a replacement or refund.",
+        "response": "Hajur, tapailo order ID: 88990 ma wrong size deliver bhayeko le yaslai return garnuhos. Replacement ki refund garna sakchhau."
+    },
+    {
+        "question": "Malai product ko delivery date change garna sakchu?",
+        "context": "Delivery Date Change Policy: Delivery date can be changed before the order is shipped.",
+        "response": "Hajur, tapailai order ship huna agadi delivery date change garna saknu huncha."
+    },
+    {
+        "question": "Mero order ma product missing cha. Order ID: 11223",
+        "context": "Order ID: 11223, Issue: Missing product, Resolution: Replacement will be shipped within 24 hours.",
+        "response": "Hajur, tapailo order ID: 11223 ma product missing bhayeko le replacement 24 hours bhitra ship huncha."
+    },
+    {
+        "question": "Malai product ko warranty claim garna sakchu?",
+        "context": "Warranty Claim Process: Contact customer care with the product receipt and warranty card.",
+        "response": "Hajur, tapailai product receipt ra warranty card sanga customer care ma samparka garnu parcha."
+    },
+    {
+        "question": "Mero order ma product wrong color ma aayo. Order ID: 33445",
+        "context": "Order ID: 33445, Issue: Wrong color delivered, Resolution: Return the product for a replacement or refund.",
+        "response": "Hajur, tapailo order ID: 33445 ma wrong color deliver bhayeko le yaslai return garnuhos. Replacement ki refund garna sakchhau."
+    },
+    {
+        "question": "Malai product ko delivery address change garna sakchu?",
+        "context": "Delivery Address Change Policy: Address can be changed before the order is shipped.",
+        "response": "Hajur, tapailai order ship huna agadi delivery address change garna saknu huncha."
+    },
+    {
+        "question": "Mero order ma product damage bhayo. Order ID: 55667",
+        "context": "Order ID: 55667, Issue: Damaged product, Resolution: Replacement will be shipped within 24 hours.",
+        "response": "Hajur, tapailo order ID: 55667 ma product damage bhayeko le replacement 24 hours bhitra ship huncha."
+    },
+    {
+        "question": "Malai product ko return pickup schedule garna sakchu?",
+        "context": "Return Pickup Policy: Pickup can be scheduled within 7 days of return request.",
+        "response": "Hajur, tapailai return request garisakepachi 7 days bhitra pickup schedule garna saknu huncha."
+    },
+    {
+        "question": "Mero order ma product wrong model ma aayo. Order ID: 77889",
+        "context": "Order ID: 77889, Issue: Wrong model delivered, Resolution: Return the product for a replacement or refund.",
+        "response": "Hajur, tapailo order ID: 77889 ma wrong model deliver bhayeko le yaslai return garnuhos. Replacement ki refund garna sakchhau."
+    },
+    {
+        "question": "Malai product ko delivery status k ho? Order ID: 99001",
+        "context": "Order ID: 99001, Status: Out for Delivery, Estimated Delivery: Today by 6 PM.",
+        "response": "Tapailo order ID: 99001 ahile out for delivery ma cha. Aaja 6 PM samma pugna sakcha."
+    },
+    {
+        "question": "Malai product ko refund status k ho? Order ID: 11223",
+        "context": "Order ID: 11223, Refund Status: Processed, Refund Amount: NPR 5,000, Refund Method: Original Payment Method.",
+        "response": "Tapailo order ID: 11223 ko refund process bhaisakyo. NPR 5,000 tapailo original payment method ma feri pathaidiye ko cha."
+    },
+    {
+        "question": "Mero order ma product missing cha. Order ID: 33445",
+        "context": "Order ID: 33445, Issue: Missing product, Resolution: Replacement will be shipped within 24 hours.",
+        "response": "Hajur, tapailo order ID: 33445 ma product missing bhayeko le replacement 24 hours bhitra ship huncha."
+    },
+    {
+        "question": "Malai product ko delivery time kati ho?",
+        "context": "Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days.",
+        "response": "Hajur, Kathmandu bhitra delivery garna 1-2 din lagcha, baira 3-5 din lagcha."
+    },
+    {
+        "question": "Mero order ma product wrong size ma aayo. Order ID: 55667",
+        "context": "Order ID: 55667, Issue: Wrong size delivered, Resolution: Return the product for a replacement or refund.",
+        "response": "Hajur, tapailo order ID: 55667 ma wrong size deliver bhayeko le yaslai return garnuhos. Replacement ki refund garna sakchhau."
+    },
+    {
+        "question": "Malai product ko installation service available cha?",
+        "context": "Installation Service: Available for selected products. Contact customer care for details.",
+        "response": "Hajur, kehi selected products ko lagi installation service upalabdh cha. Customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Mero order ma product damage bhayo. Order ID: 77889",
+        "context": "Order ID: 77889, Issue: Damaged product, Resolution: Replacement will be shipped within 24 hours.",
+        "response": "Hajur, tapailo order ID: 77889 ma product damage bhayeko le replacement 24 hours bhitra ship huncha."
+    },
+    {
+        "question": "Malai product ko return pickup schedule garna sakchu?",
+        "context": "Return Pickup Policy: Pickup can be scheduled within 7 days of return request.",
+        "response": "Hajur, tapailai return request garisakepachi 7 days bhitra pickup schedule garna saknu huncha."
+    },
+    {
+        "question": "Mero order ma product wrong model ma aayo. Order ID: 99001",
+        "context": "Order ID: 99001, Issue: Wrong model delivered, Resolution: Return the product for a replacement or refund.",
+        "response": "Hajur, tapailo order ID: 99001 ma wrong model deliver bhayeko le yaslai return garnuhos. Replacement ki refund garna sakchhau."
+    },
+    {
+        "question": "Malai product ko delivery status k ho? Order ID: 11223",
+        "context": "Order ID: 11223, Status: Out for Delivery, Estimated Delivery: Today by 6 PM.",
+        "response": "Tapailo order ID: 11223 ahile out for delivery ma cha. Aaja 6 PM samma pugna sakcha."
+    },
+    {
+        "question": "Malai product ko refund status k ho? Order ID: 33445",
+        "context": "Order ID: 33445, Refund Status: Processed, Refund Amount: NPR 5,000, Refund Method: Original Payment Method.",
+        "response": "Tapailo order ID: 33445 ko refund process bhaisakyo. NPR 5,000 tapailo original payment method ma feri pathaidiye ko cha."
+    },
+    {
+        "question": "Mero order ma product missing cha. Order ID: 55667",
+        "context": "Order ID: 55667, Issue: Missing product, Resolution: Replacement will be shipped within 24 hours.",
+        "response": "Hajur, tapaiko order ko replacement 24 hour ma hunxa shi"
+    },
+    {
+        "question": "Yo product ko stock ma cha? Product ID: 12345",
+        "context": "Product ID: 12345, Name: Smartphone XYZ, Stock: Available, Price: NPR 25,000.",
+        "response": "Hajur, product ID: 12345 ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Yo product ko price kati ho? Product ID: 67890",
+        "context": "Product ID: 67890, Name: Wireless Headphones, Price: NPR 5,000.",
+        "response": "Product ID: 67890 ko price NPR 5,000 ho."
+    },
+    {
+        "question": "Yo product ko specifications k k cha? Product ID: 11223",
+        "context": "Product ID: 11223, Specifications: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera.",
+        "response": "Product ID: 11223 ko specifications yas prakar cha: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera."
+    },
+    {
+        "question": "Yo product ko warranty kati din ko cha? Product ID: 33445",
+        "context": "Product ID: 33445, Warranty: 1 year manufacturer warranty.",
+        "response": "Hajur, product ID: 33445 ko warranty 1 year ko cha."
+    },
+    {
+        "question": "Yo product ko review k k cha? Product ID: 55667",
+        "context": "Product ID: 55667, Reviews: 4.5/5 stars, Positive Feedback: Great quality, Negative Feedback: Slightly expensive.",
+        "response": "Product ID: 55667 ko review 4.5/5 stars cha. Dherai le ramro quality bhaneko cha, tara kehi le ali mahango bhaneko cha."
+    },
+    {
+        "question": "Yo product ko color options k k cha? Product ID: 77889",
+        "context": "Product ID: 77889, Color Options: Black, White, Blue.",
+        "response": "Product ID: 77889 ko color options Black, White, ra Blue cha."
+    },
+    {
+        "question": "Yo product ko size options k k cha? Product ID: 99001",
+        "context": "Product ID: 99001, Size Options: Small, Medium, Large.",
+        "response": "Product ID: 99001 ko size options Small, Medium, ra Large cha."
+    },
+    {
+        "question": "Yo product ko delivery time kati ho? Product ID: 11223",
+        "context": "Product ID: 11223, Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days.",
+        "response": "Product ID: 11223 ko delivery time Kathmandu bhitra 1-2 din, baira 3-5 din lagcha."
+    },
+    {
+        "question": "Yo product ko discount cha ki nai? Product ID: 33445",
+        "context": "Product ID: 33445, Discount: 10% off with code SAVE10.",
+        "response": "Hajur, product ID: 33445 ma 10% discount cha. Code: SAVE10 use garnuhos."
+    },
+    {
+        "question": "Yo product ko installation guide available cha? Product ID: 55667",
+        "context": "Product ID: 55667, Installation Guide: Available for download on the product page.",
+        "response": "Hajur, product ID: 55667 ko installation guide product page bata download garna sakincha."
+    },
+    {
+        "question": "Yo product ko return policy k cha? Product ID: 77889",
+        "context": "Product ID: 77889, Return Policy: 30 days return with valid receipt.",
+        "response": "Hajur, product ID: 77889 ko return policy anusar 30 days bhitra receipt sanga return garna sakincha."
+    },
+    {
+        "question": "Yo product ko weight kati ho? Product ID: 99001",
+        "context": "Product ID: 99001, Weight: 1.5 kg.",
+        "response": "Product ID: 99001 ko weight 1.5 kg ho."
+    },
+    {
+        "question": "Yo product ko dimensions k k cha? Product ID: 11223",
+        "context": "Product ID: 11223, Dimensions: 15cm x 10cm x 5cm.",
+        "response": "Product ID: 11223 ko dimensions 15cm x 10cm x 5cm cha."
+    },
+    {
+        "question": "Yo product ko battery life kati ho? Product ID: 33445",
+        "context": "Product ID: 33445, Battery Life: 24 hours.",
+        "response": "Product ID: 33445 ko battery life 24 hours ho."
+    },
+    {
+        "question": "Yo product ko charging time kati ho? Product ID: 55667",
+        "context": "Product ID: 55667, Charging Time: 2 hours.",
+        "response": "Product ID: 55667 ko charging time 2 hours ho."
+    },
+    {
+        "question": "Yo product ko material k ho? Product ID: 77889",
+        "context": "Product ID: 77889, Material: Plastic and Metal.",
+        "response": "Product ID: 77889 plastic ra metal ko banaeko cha."
+    },
+    {
+        "question": "Yo product ko water-resistant ho? Product ID: 99001",
+        "context": "Product ID: 99001, Water-Resistant: Yes, IP67 rating.",
+        "response": "Hajur, product ID: 99001 water-resistant ho. IP67 rating cha."
+    },
+    {
+        "question": "Yo product ko warranty claim garna sakchu? Product ID: 11223",
+        "context": "Product ID: 11223, Warranty Claim: Contact customer care with receipt and warranty card.",
+        "response": "Hajur, product ID: 11223 ko warranty claim garna receipt ra warranty card sanga customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Yo product ko accessories k k cha? Product ID: 33445",
+        "context": "Product ID: 33445, Accessories: Charger, Earphones, User Manual.",
+        "response": "Product ID: 33445 sanga charger, earphones, ra user manual auncha."
+    },
+    {
+        "question": "Yo product ko compatible devices k k ho? Product ID: 55667",
+        "context": "Product ID: 55667, Compatible Devices: Android, iOS, Windows.",
+        "response": "Product ID: 55667 Android, iOS, ra Windows devices sanga compatible cha."
+    },
+    {
+        "question": "Yo product ko replacement policy k ho? Product ID: 77889",
+        "context": "Product ID: 77889, Replacement Policy: 14 days replacement for defective products.",
+        "response": "Hajur, product ID: 77889 ko replacement policy anusar defective products lai 14 days bhitra replace garna sakincha."
+    },
+    {
+        "question": "Yo product ko installation service available cha? Product ID: 99001",
+        "context": "Product ID: 99001, Installation Service: Available for an additional fee.",
+        "response": "Hajur, product ID: 99001 ko installation service additional fee tirera garna sakincha."
+    },
+    {
+        "question": "Yo product ko shipping charge kati ho? Product ID: 11223",
+        "context": "Product ID: 11223, Shipping Charge: Free for orders above NPR 5,000, NPR 200 for smaller orders.",
+        "response": "Product ID: 11223 ko shipping charge NPR 5,000 mathi ko order ma free ho, ali kam ma NPR 200 lincha."
+    },
+    {
+        "question": "Yo product ko cash on delivery available cha? Product ID: 33445",
+        "context": "Product ID: 33445, Cash on Delivery: Available.",
+        "response": "Hajur, product ID: 33445 ko cash on delivery available cha."
+    },
+    {
+        "question": "Yo product ko EMI option available cha? Product ID: 55667",
+        "context": "Product ID: 55667, EMI Option: Available for 3, 6, and 12 months.",
+        "response": "Hajur, product ID: 55667 ko EMI option 3, 6, ra 12 months ko lagi available cha."
+    },
+    {
+        "question": "Yo product ko best features k k ho? Product ID: 77889",
+        "context": "Product ID: 77889, Best Features: High-resolution display, Long battery life, Fast charging.",
+        "response": "Product ID: 77889 ko best features high-resolution display, long battery life, ra fast charging ho."
+    },
+    {
+        "question": "Yo product ko box content k k cha? Product ID: 99001",
+        "context": "Product ID: 99001, Box Content: Device, Charger, USB Cable, User Manual.",
+        "response": "Product ID: 99001 ko box ma device, charger, USB cable, ra user manual auncha."
+    },
+    {
+        "question": "Yo product ko return pickup available cha? Product ID: 11223",
+        "context": "Product ID: 11223, Return Pickup: Available within 7 days of return request.",
+        "response": "Hajur, product ID: 11223 ko return pickup return request garisakepachi 7 days bhitra available cha."
+    },
+    {
+        "question": "Yo product ko exchange policy k ho? Product ID: 33445",
+        "context": "Product ID: 33445, Exchange Policy: 14 days exchange for unused products.",
+        "response": "Hajur, product ID: 33445 ko exchange policy anusar unused products lai 14 days bhitra exchange garna sakincha."
+    },
+    {
+        "question": "Yo product ko customer care number k ho? Product ID: 55667",
+        "context": "Product ID: 55667, Customer Care: 01-2345678.",
+        "response": "Product ID: 55667 ko customer care number 01-2345678 ho."
+    },
+    {
+        "question": "Yo product ko user manual available cha? Product ID: 77889",
+        "context": "Product ID: 77889, User Manual: Available for download on the product page.",
+        "response": "Hajur, product ID: 77889 ko user manual product page bata download garna sakincha."
+    },
+    {
+        "question": "Yo product ko video demo available cha? Product ID: 99001",
+        "context": "Product ID: 99001, Video Demo: Available on the product page.",
+        "response": "Hajur, product ID: 99001 ko video demo product page ma herna sakincha."
+    },
+    {
+        "question": "Yo product ko rating kati ho? Product ID: 11223",
+        "context": "Product ID: 11223, Rating: 4.7/5 stars.",
+        "response": "Product ID: 11223 ko rating 4.7/5 stars cha."
+    },
+    {
+        "question": "Yo product ko best offer k ho? Product ID: 33445",
+        "context": "Product ID: 33445, Best Offer: 10% discount with code SAVE10.",
+        "response": "Hajur, product ID: 33445 ko best offer 10% discount ho. Code: SAVE10 use garnuhos."
+    },
+    {
+        "question": "Yo product ko compatible accessories k k ho? Product ID: 55667",
+        "context": "Product ID: 55667, Compatible Accessories: Case, Screen Protector, Stylus.",
+        "response": "Product ID: 55667 sanga compatible accessories case, screen protector, ra stylus ho."
+    },
+    {
+        "question": "Yo product ko international shipping available cha? Product ID: 77889",
+        "context": "Product ID: 77889, International Shipping: Available with additional charges.",
+        "response": "Hajur, product ID: 77889 ko international shipping additional charges tirera garna sakincha."
+    },
+    {
+        "question": "Yo product ko gift wrapping available cha? Product ID: 99001",
+        "context": "Product ID: 99001, Gift Wrapping: Available for NPR 200.",
+        "response": "Hajur, product ID: 99001 ko gift wrapping NPR 200 tirera garna sakincha."
+    },
+    {
+        "question": "Yo product ko best seller ho? Product ID: 11223",
+        "context": "Product ID: 11223, Best Seller: Yes, top-selling product in its category.",
+        "response": "Hajur, product ID: 11223 best seller ho. Yo category ko top-selling product ho."
+    },
+    {
+        "question": "Yo product ko latest version ho? Product ID: 33445",
+        "context": "Product ID: 33445, Latest Version: Yes, released in 2023.",
+        "response": "Hajur, product ID: 33445 latest version ho. Yo 2023 ma release bhayeko cha."
+    },
+    {
+        "question": "Yo product ko durability kati ho? Product ID: 55667",
+        "context": "Product ID: 55667, Durability: Designed to last for 5+ years with proper care.",
+        "response": "Product ID: 55667 ko durability 5+ years ko lagi ho, yadi ramro sanga use garyo bhane."
+    },
+    {
+        "question": "Yo product ko eco-friendly ho? Product ID: 77889",
+        "context": "Product ID: 77889, Eco-Friendly: Yes, made from recycled materials.",
+        "response": "Hajur, product ID: 77889 eco-friendly ho. Yo recycled materials bata banaeko cha."
+    },
+    {
+        "question": "Yo product ko maintenance cost kati ho? Product ID: 99001",
+        "context": "Product ID: 99001, Maintenance Cost: Minimal, only requires occasional cleaning.",
+        "response": "Product ID: 99001 ko maintenance cost minimal ho. Ali ali cleaning matra garnu parcha."
+    },
+    {
+        "question": "Yo product ko safety features k k ho? Product ID: 11223",
+        "context": "Product ID: 11223, Safety Features: Overheat protection, Child lock.",
+        "response": "Product ID: 11223 ko safety features overheat protection ra child lock ho."
+    },
+    {
+        "question": "Yo product ko energy efficiency kati ho? Product ID: 33445",
+        "context": "Product ID: 33445, Energy Efficiency: 5-star rating.",
+        "response": "Product ID: 33445 ko energy efficiency 5-star rating cha."
+    },
+    {
+        "question": "Yo product ko installation time kati ho? Product ID: 55667",
+        "context": "Product ID: 55667, Installation Time: 30 minutes.",
+        "response": "Product ID: 55667 ko installation time 30 minutes ho."
+    },
+    {
+        "question": "Yo product ko warranty extension available cha? Product ID: 77889",
+        "context": "Product ID: 77889, Warranty Extension: Available for an additional fee.",
+        "response": "Hajur, product ID: 77889 ko warranty extension additional fee tirera garna sakincha."
+    },
+    {
+        "question": "Yo product ko customer feedback k ho? Product ID: 99001",
+        "context": "Product ID: 99001, Customer Feedback: 90% positive reviews, praised for durability and performance.",
+        "response": "Product ID: 99001 ko customer feedback 90% positive cha. Dherai le durability ra performance ko barema ramro bhaneko cha."
+    },
+    {
+        "question": "Yo product ko stock ma cha? Product ID: 12345",
+        "context": "Product ID: 12345, Name: Smartphone XYZ, Stock: Available (Last Restocked: 2023-10-01), Price: NPR 25,000. Competitor Price: NPR 26,500 at Store A. Popularity: Top 10 best-selling smartphones in Nepal. Usage Tip: Use with a screen protector for better durability.",
+        "response": "Hajur, product ID: 12345 ahile stock ma cha. Yo NPR 25,000 ma upalabdh cha, jahile Store A ma NPR 26,500 ma bikri huncha. Yo Nepal ko top 10 best-selling smartphones ma parcha. Screen protector sanga use garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko price kati ho? Product ID: 67890",
+        "context": "Product ID: 67890, Name: Wireless Headphones, Price: NPR 5,000. Discount: 10% off with code SAVE10. Competitor Price: NPR 5,500 at Store B. Popularity: Over 1,000 units sold last month. Usage Tip: Use noise-cancellation mode for better audio quality.",
+        "response": "Product ID: 67890 ko price NPR 5,000 ho. Ahile 10% discount cha, code SAVE10 use garnuhos. Store B ma NPR 5,500 ma bikri huncha. Yo headphones le last month 1,000 vanda badi units becheko cha. Noise-cancellation mode use garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko specifications k k cha? Product ID: 11223",
+        "context": "Product ID: 11223, Specifications: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera. Battery: 5000mAh, Fast Charging: Yes. Competitor Comparison: Similar to Product ABC but with better battery life. Usage Tip: Use dark mode to save battery.",
+        "response": "Product ID: 11223 ko specifications yas prakar cha: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera. Yo sanga 5000mAh battery ra fast charging feature cha. Product ABC jastai cha tara yo ko battery life ramro cha. Battery bachauda dark mode use garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko warranty kati din ko cha? Product ID: 33445",
+        "context": "Product ID: 33445, Warranty: 1 year manufacturer warranty. Extended Warranty: Available for NPR 1,000. Competitor Warranty: 6 months at Store C. Usage Tip: Register warranty online for faster claims.",
+        "response": "Hajur, product ID: 33445 ko warranty 1 year ko cha. Extended warranty NPR 1,000 tirera garna sakincha. Store C ma 6 months ko warranty matra cha. Warranty claim garna sajilo hunako lagi online register garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko review k k cha? Product ID: 55667",
+        "context": "Product ID: 55667, Reviews: 4.5/5 stars (Based on 1,200 reviews). Positive Feedback: Great quality, long-lasting. Negative Feedback: Slightly expensive. Competitor Comparison: Better than Product XYZ in terms of durability. Usage Tip: Clean regularly for better performance.",
+        "response": "Product ID: 55667 ko review 4.5/5 stars cha (1,200 reviews anusar). Dherai le ramro quality ra durability ko barema ramro bhaneko cha, tara kehi le ali mahango bhaneko cha. Product XYZ bhanda durability ma ramro cha. Regular cleaning garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko color options k k cha? Product ID: 77889",
+        "context": "Product ID: 77889, Color Options: Black, White, Blue. Popularity: Black is the most sold color. Competitor Comparison: Store D offers only Black and White. Usage Tip: Use a protective case to maintain color quality.",
+        "response": "Product ID: 77889 ko color options Black, White, ra Blue cha. Black sabai bhanda badi bikri hune color ho. Store D ma Black ra White matra upalabdh cha. Color quality maintain garna protective case use garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko size options k k cha? Product ID: 99001",
+        "context": "Product ID: 99001, Size Options: Small, Medium, Large. Popularity: Medium is the most preferred size. Competitor Comparison: Store E offers only Small and Large. Usage Tip: Measure before purchasing for the best fit.",
+        "response": "Product ID: 99001 ko size options Small, Medium, ra Large cha. Medium sabai bhanda badi prefer gariyeko size ho. Store E ma Small ra Large matra upalabdh cha. Best fit ko lagi purchase garna agadi measure garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko delivery time kati ho? Product ID: 11223",
+        "context": "Product ID: 11223, Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days. Competitor Comparison: Store F offers same-day delivery in Kathmandu. Usage Tip: Track your order for real-time updates.",
+        "response": "Product ID: 11223 ko delivery time Kathmandu bhitra 1-2 din, baira 3-5 din lagcha. Store F le Kathmandu ma same-day delivery dincha. Real-time updates ko lagi order track garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko discount cha ki nai? Product ID: 33445",
+        "context": "Product ID: 33445, Discount: 10% off with code SAVE10. Competitor Comparison: Store G offers 15% off but with limited stock. Usage Tip: Use discount codes during checkout for savings.",
+        "response": "Hajur, product ID: 33445 ma 10% discount cha. Code: SAVE10 use garnuhos. Store G ma 15% discount cha tara stock limited cha. Savings ko lagi checkout garda discount codes use garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko installation guide available cha? Product ID: 55667",
+        "context": "Product ID: 55667, Installation Guide: Available for download on the product page. Video Tutorial: Also available on YouTube. Competitor Comparison: Store H provides in-person installation support. Usage Tip: Follow the step-by-step guide for easy installation.",
+        "response": "Hajur, product ID: 55667 ko installation guide product page bata download garna sakincha. YouTube ma video tutorial pani upalabdh cha. Store H le in-person installation support dincha. Easy installation ko lagi step-by-step guide follow garnu ramro huncha."
+    },
+    {
+        "question": "Yo product ko stock ma cha? Product ID: 12345",
+        "context": "Product ID: 12345, Name: Smartphone XYZ, Stock: Available (Last Restocked: 2023-10-01), Price: NPR 25,000. Competitor Price: NPR 26,500 at Store A. Popularity: Top 10 best-selling smartphones in Nepal. Usage Tip: Use with a screen protector for better durability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, product ID: 12345 ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Yo product ko price kati ho? Product ID: 67890",
+        "context": "Product ID: 67890, Name: Wireless Headphones, Price: NPR 5,000. Discount: 10% off with code SAVE10. Competitor Price: NPR 5,500 at Store B. Popularity: Over 1,000 units sold last month. Usage Tip: Use noise-cancellation mode for better audio quality. Warranty: 6 months. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Product ID: 67890 ko price NPR 5,000 ho. Ahile 10% discount pani cha, code SAVE10 use garnuhos."
+    },
+    {
+        "question": "Yo product ko specifications k k cha? Product ID: 11223",
+        "context": "Product ID: 11223, Specifications: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera. Battery: 5000mAh, Fast Charging: Yes. Competitor Comparison: Similar to Product ABC but with better battery life. Usage Tip: Use dark mode to save battery. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 11223 ko specifications yas prakar cha: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera. Yo sanga 5000mAh battery ra fast charging feature pani cha."
+    },
+    {
+        "question": "Yo product ko warranty kati din ko cha? Product ID: 33445",
+        "context": "Product ID: 33445, Warranty: 1 year manufacturer warranty. Extended Warranty: Available for NPR 1,000. Competitor Warranty: 6 months at Store C. Usage Tip: Register warranty online for faster claims. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Hajur, product ID: 33445 ko warranty 1 year ko cha. Extended warranty NPR 1,000 tirera garna sakincha."
+    },
+    {
+        "question": "Yo product ko review k k cha? Product ID: 55667",
+        "context": "Product ID: 55667, Reviews: 4.5/5 stars (Based on 1,200 reviews). Positive Feedback: Great quality, long-lasting. Negative Feedback: Slightly expensive. Competitor Comparison: Better than Product XYZ in terms of durability. Usage Tip: Clean regularly for better performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 55667 ko review 4.5/5 stars cha (1,200 reviews anusar). Dherai le ramro quality ra durability ko barema ramro bhaneko cha."
+    },
+    {
+        "question": "Yo product ko color options k k cha? Product ID: 77889",
+        "context": "Product ID: 77889, Color Options: Black, White, Blue. Popularity: Black is the most sold color. Competitor Comparison: Store D offers only Black and White. Usage Tip: Use a protective case to maintain color quality. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 77889 ko color options Black, White, ra Blue cha. Black sabai bhanda badi bikri hune color ho."
+    },
+    {
+        "question": "Yo product ko size options k k cha? Product ID: 99001",
+        "context": "Product ID: 99001, Size Options: Small, Medium, Large. Popularity: Medium is the most preferred size. Competitor Comparison: Store E offers only Small and Large. Usage Tip: Measure before purchasing for the best fit. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 99001 ko size options Small, Medium, ra Large cha. Medium sabai bhanda badi prefer gariyeko size ho."
+    },
+    {
+        "question": "Yo product ko delivery time kati ho? Product ID: 11223",
+        "context": "Product ID: 11223, Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days. Competitor Comparison: Store F offers same-day delivery in Kathmandu. Usage Tip: Track your order for real-time updates. Warranty: 1 year.",
+        "response": "Product ID: 11223 ko delivery time Kathmandu bhitra 1-2 din, baira 3-5 din lagcha."
+    },
+    {
+        "question": "Yo product ko discount cha ki nai? Product ID: 33445",
+        "context": "Product ID: 33445, Discount: 10% off with code SAVE10. Competitor Comparison: Store G offers 15% off but with limited stock. Usage Tip: Use discount codes during checkout for savings. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, product ID: 33445 ma 10% discount cha. Code: SAVE10 use garnuhos."
+    },
+    {
+        "question": "Yo product ko installation guide available cha? Product ID: 55667",
+        "context": "Product ID: 55667, Installation Guide: Available for download on the product page. Video Tutorial: Also available on YouTube. Competitor Comparison: Store H provides in-person installation support. Usage Tip: Follow the step-by-step guide for easy installation. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, product ID: 55667 ko installation guide product page bata download garna sakincha. YouTube ma video tutorial pani upalabdh cha."
+    },
+    {
+        "question": "Yo product ko weight kati ho? Product ID: 77889",
+        "context": "Product ID: 77889, Weight: 1.5 kg. Competitor Comparison: Similar products weigh around 1.7 kg. Usage Tip: Use a carrying case for portability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 77889 ko weight 1.5 kg ho."
+    },
+    {
+        "question": "Yo product ko dimensions k k cha? Product ID: 99001",
+        "context": "Product ID: 99001, Dimensions: 15cm x 10cm x 5cm. Competitor Comparison: Similar products have dimensions of 16cm x 11cm x 6cm. Usage Tip: Check the dimensions before purchasing to ensure it fits your space. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 99001 ko dimensions 15cm x 10cm x 5cm cha."
+    },
+    {
+        "question": "Yo product ko battery life kati ho? Product ID: 11223",
+        "context": "Product ID: 11223, Battery Life: 24 hours. Competitor Comparison: Similar products offer 20 hours of battery life. Usage Tip: Use power-saving mode to extend battery life. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 11223 ko battery life 24 hours ho."
+    },
+    {
+        "question": "Yo product ko charging time kati ho? Product ID: 33445",
+        "context": "Product ID: 33445, Charging Time: 2 hours. Competitor Comparison: Similar products take 2.5 hours to charge. Usage Tip: Use the provided charger for optimal charging speed. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 33445 ko charging time 2 hours ho."
+    },
+    {
+        "question": "Yo product ko material k ho? Product ID: 55667",
+        "context": "Product ID: 55667, Material: Plastic and Metal. Competitor Comparison: Similar products use only plastic. Usage Tip: Clean with a soft cloth to avoid scratches. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 55667 plastic ra metal ko banaeko cha."
+    },
+    {
+        "question": "Yo product ko water-resistant ho? Product ID: 77889",
+        "context": "Product ID: 77889, Water-Resistant: Yes, IP67 rating. Competitor Comparison: Similar products have an IP65 rating. Usage Tip: Avoid submerging in water for long periods. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, product ID: 77889 water-resistant ho. IP67 rating cha."
+    },
+    {
+        "question": "Yo product ko warranty claim garna sakchu? Product ID: 99001",
+        "context": "Product ID: 99001, Warranty Claim: Contact customer care with receipt and warranty card. Competitor Comparison: Store I offers online warranty claims. Usage Tip: Keep the receipt and warranty card safe. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, product ID: 99001 ko warranty claim garna receipt ra warranty card sanga customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Yo product ko accessories k k cha? Product ID: 11223",
+        "context": "Product ID: 11223, Accessories: Charger, Earphones, User Manual. Competitor Comparison: Similar products include a carrying case. Usage Tip: Use the provided accessories for optimal performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 11223 sanga charger, earphones, ra user manual auncha."
+    },
+    {
+        "question": "Yo product ko compatible devices k k ho? Product ID: 33445",
+        "context": "Product ID: 33445, Compatible Devices: Android, iOS, Windows. Competitor Comparison: Similar products are compatible only with Android and iOS. Usage Tip: Check compatibility before purchasing. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Product ID: 33445 Android, iOS, ra Windows devices sanga compatible cha."
+    },
+    {
+        "question": "Yo product ko replacement policy k ho? Product ID: 55667",
+        "context": "Product ID: 55667, Replacement Policy: 14 days replacement for defective products. Competitor Comparison: Store J offers 30 days replacement. Usage Tip: Test the product immediately after delivery. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, product ID: 55667 ko replacement policy anusar defective products lai 14 days bhitra replace garna sakincha."
+    },
+    {
+        "question": "Smartphone XYZ ko stock ma cha?",
+        "context": "Product Name: Smartphone XYZ, Stock: Available (Last Restocked: 2023-10-01), Price: NPR 25,000. Competitor Price: NPR 26,500 at Store A. Popularity: Top 10 best-selling smartphones in Nepal. Usage Tip: Use with a screen protector for better durability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Smartphone XYZ ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Wireless Headphones ko price kati ho?",
+        "context": "Product Name: Wireless Headphones, Price: NPR 5,000. Discount: 10% off with code SAVE10. Competitor Price: NPR 5,500 at Store B. Popularity: Over 1,000 units sold last month. Usage Tip: Use noise-cancellation mode for better audio quality. Warranty: 6 months. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Wireless Headphones ko price NPR 5,000 ho. Ahile 10% discount pani cha, code SAVE10 use garnuhos."
+    },
+    {
+        "question": "Smartphone ABC ko specifications k k cha?",
+        "context": "Product Name: Smartphone ABC, Specifications: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera. Battery: 5000mAh, Fast Charging: Yes. Competitor Comparison: Similar to Smartphone XYZ but with better battery life. Usage Tip: Use dark mode to save battery. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Smartphone ABC ko specifications yas prakar cha: 5.5-inch display, 64GB storage, 8GB RAM, 48MP camera. Yo sanga 5000mAh battery ra fast charging feature pani cha."
+    },
+    {
+        "question": "Laptop DEF ko warranty kati din ko cha?",
+        "context": "Product Name: Laptop DEF, Warranty: 1 year manufacturer warranty. Extended Warranty: Available for NPR 1,000. Competitor Warranty: 6 months at Store C. Usage Tip: Register warranty online for faster claims. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Hajur, Laptop DEF ko warranty 1 year ko cha. Extended warranty NPR 1,000 tirera garna sakincha."
+    },
+    {
+        "question": "Smartwatch GHI ko review k k cha?",
+        "context": "Product Name: Smartwatch GHI, Reviews: 4.5/5 stars (Based on 1,200 reviews). Positive Feedback: Great quality, long-lasting. Negative Feedback: Slightly expensive. Competitor Comparison: Better than Smartwatch JKL in terms of durability. Usage Tip: Clean regularly for better performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Smartwatch GHI ko review 4.5/5 stars cha (1,200 reviews anusar). Dherai le ramro quality ra durability ko barema ramro bhaneko cha."
+    },
+    {
+        "question": "Wireless Earbuds MNO ko color options k k cha?",
+        "context": "Product Name: Wireless Earbuds MNO, Color Options: Black, White, Blue. Popularity: Black is the most sold color. Competitor Comparison: Store D offers only Black and White. Usage Tip: Use a protective case to maintain color quality. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Wireless Earbuds MNO ko color options Black, White, ra Blue cha. Black sabai bhanda badi bikri hune color ho."
+    },
+    {
+        "question": "Backpack PQR ko size options k k cha?",
+        "context": "Product Name: Backpack PQR, Size Options: Small, Medium, Large. Popularity: Medium is the most preferred size. Competitor Comparison: Store E offers only Small and Large. Usage Tip: Measure before purchasing for the best fit. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Backpack PQR ko size options Small, Medium, ra Large cha. Medium sabai bhanda badi prefer gariyeko size ho."
+    },
+    {
+        "question": "Tablet STU ko delivery time kati ho?",
+        "context": "Product Name: Tablet STU, Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days. Competitor Comparison: Store F offers same-day delivery in Kathmandu. Usage Tip: Track your order for real-time updates. Warranty: 1 year.",
+        "response": "Tablet STU ko delivery time Kathmandu bhitra 1-2 din, baira 3-5 din lagcha."
+    },
+    {
+        "question": "Camera VWX ko discount cha ki nai?",
+        "context": "Product Name: Camera VWX, Discount: 10% off with code SAVE10. Competitor Comparison: Store G offers 15% off but with limited stock. Usage Tip: Use discount codes during checkout for savings. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Camera VWX ma 10% discount cha. Code: SAVE10 use garnuhos."
+    },
+    {
+        "question": "Printer YZA ko installation guide available cha?",
+        "context": "Product Name: Printer YZA, Installation Guide: Available for download on the product page. Video Tutorial: Also available on YouTube. Competitor Comparison: Store H provides in-person installation support. Usage Tip: Follow the step-by-step guide for easy installation. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Printer YZA ko installation guide product page bata download garna sakincha. YouTube ma video tutorial pani upalabdh cha."
+    },
+    {
+        "question": "Monitor BCD ko weight kati ho?",
+        "context": "Product Name: Monitor BCD, Weight: 1.5 kg. Competitor Comparison: Similar products weigh around 1.7 kg. Usage Tip: Use a carrying case for portability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Monitor BCD ko weight 1.5 kg ho."
+    },
+    {
+        "question": "Keyboard EFG ko dimensions k k cha?",
+        "context": "Product Name: Keyboard EFG, Dimensions: 15cm x 10cm x 5cm. Competitor Comparison: Similar products have dimensions of 16cm x 11cm x 6cm. Usage Tip: Check the dimensions before purchasing to ensure it fits your space. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Keyboard EFG ko dimensions 15cm x 10cm x 5cm cha."
+    },
+    {
+        "question": "Power Bank HIJ ko battery life kati ho?",
+        "context": "Product Name: Power Bank HIJ, Battery Life: 24 hours. Competitor Comparison: Similar products offer 20 hours of battery life. Usage Tip: Use power-saving mode to extend battery life. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Power Bank HIJ ko battery life 24 hours ho."
+    },
+    {
+        "question": "Speaker KLM ko charging time kati ho?",
+        "context": "Product Name: Speaker KLM, Charging Time: 2 hours. Competitor Comparison: Similar products take 2.5 hours to charge. Usage Tip: Use the provided charger for optimal charging speed. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Speaker KLM ko charging time 2 hours ho."
+    },
+    {
+        "question": "Headphones NOP ko material k ho?",
+        "context": "Product Name: Headphones NOP, Material: Plastic and Metal. Competitor Comparison: Similar products use only plastic. Usage Tip: Clean with a soft cloth to avoid scratches. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Headphones NOP plastic ra metal ko banaeko cha."
+    },
+    {
+        "question": "Smartwatch QRS ko water-resistant ho?",
+        "context": "Product Name: Smartwatch QRS, Water-Resistant: Yes, IP67 rating. Competitor Comparison: Similar products have an IP65 rating. Usage Tip: Avoid submerging in water for long periods. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Smartwatch QRS water-resistant ho. IP67 rating cha."
+    },
+    {
+        "question": "Laptop TUV ko warranty claim garna sakchu?",
+        "context": "Product Name: Laptop TUV, Warranty Claim: Contact customer care with receipt and warranty card. Competitor Comparison: Store I offers online warranty claims. Usage Tip: Keep the receipt and warranty card safe. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Laptop TUV ko warranty claim garna receipt ra warranty card sanga customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Printer WXY ko accessories k k cha?",
+        "context": "Product Name: Printer WXY, Accessories: Charger, Earphones, User Manual. Competitor Comparison: Similar products include a carrying case. Usage Tip: Use the provided accessories for optimal performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Printer WXY sanga charger, earphones, ra user manual auncha."
+    },
+    {
+        "question": "Monitor ZAB ko compatible devices k k ho?",
+        "context": "Product Name: Monitor ZAB, Compatible Devices: Android, iOS, Windows. Competitor Comparison: Similar products are compatible only with Android and iOS. Usage Tip: Check compatibility before purchasing. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Monitor ZAB Android, iOS, ra Windows devices sanga compatible cha."
+    },
+    {
+        "question": "Keyboard CDE ko replacement policy k ho?",
+        "context": "Product Name: Keyboard CDE, Replacement Policy: 14 days replacement for defective products. Competitor Comparison: Store J offers 30 days replacement. Usage Tip: Test the product immediately after delivery. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Keyboard CDE ko replacement policy anusar defective products lai 14 days bhitra replace garna sakincha."
+    },
+    {
+        "question": "Smartphone Alpha ko stock ma cha?",
+        "context": "Product Name: Smartphone Alpha, Stock: Available (Last Restocked: 2023-10-05), Price: NPR 30,000. Competitor Price: NPR 32,000 at Store X. Popularity: Top 5 best-selling smartphones in Nepal. Usage Tip: Use with a tempered glass screen protector for better durability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Smartphone Alpha ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Wireless Earbuds Beta ko price kati ho?",
+        "context": "Product Name: Wireless Earbuds Beta, Price: NPR 4,500. Discount: 15% off with code EARBUDS15. Competitor Price: NPR 5,000 at Store Y. Popularity: Over 2,000 units sold last month. Usage Tip: Use noise-cancellation mode for better audio quality. Warranty: 6 months. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Wireless Earbuds Beta ko price NPR 4,500 ho. Ahile 15% discount pani cha, code EARBUDS15 use garnuhos."
+    },
+    {
+        "question": "Laptop Gamma ko specifications k k cha?",
+        "context": "Product Name: Laptop Gamma, Specifications: 15.6-inch display, 512GB SSD, 16GB RAM, Intel i7 processor. Battery: 8 hours, Fast Charging: Yes. Competitor Comparison: Similar to Laptop Delta but with better storage. Usage Tip: Use a cooling pad for better performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop Gamma ko specifications yas prakar cha: 15.6-inch display, 512GB SSD, 16GB RAM, Intel i7 processor. Yo sanga 8 hours ko battery life ra fast charging feature pani cha."
+    },
+    {
+        "question": "Smartwatch Omega ko warranty kati din ko cha?",
+        "context": "Product Name: Smartwatch Omega, Warranty: 2 years manufacturer warranty. Extended Warranty: Available for NPR 1,500. Competitor Warranty: 1 year at Store Z. Usage Tip: Register warranty online for faster claims. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Hajur, Smartwatch Omega ko warranty 2 years ko cha. Extended warranty NPR 1,500 tirera garna sakincha."
+    },
+    {
+        "question": "Tablet Sigma ko review k k cha?",
+        "context": "Product Name: Tablet Sigma, Reviews: 4.7/5 stars (Based on 1,500 reviews). Positive Feedback: Great display, long battery life. Negative Feedback: Slightly heavy. Competitor Comparison: Better than Tablet Theta in terms of display quality. Usage Tip: Use a stand for better viewing angles. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Tablet Sigma ko review 4.7/5 stars cha (1,500 reviews anusar). Dherai le ramro display ra battery life ko barema ramro bhaneko cha."
+    },
+    {
+        "question": "Camera Zeta ko color options k k cha?",
+        "context": "Product Name: Camera Zeta, Color Options: Black, Silver, Red. Popularity: Black is the most sold color. Competitor Comparison: Store W offers only Black and Silver. Usage Tip: Use a protective case to maintain color quality. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Camera Zeta ko color options Black, Silver, ra Red cha. Black sabai bhanda badi bikri hune color ho."
+    },
+    {
+        "question": "Backpack Epsilon ko size options k k cha?",
+        "context": "Product Name: Backpack Epsilon, Size Options: Small, Medium, Large. Popularity: Large is the most preferred size. Competitor Comparison: Store V offers only Small and Medium. Usage Tip: Measure before purchasing for the best fit. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Backpack Epsilon ko size options Small, Medium, ra Large cha. Large sabai bhanda badi prefer gariyeko size ho."
+    },
+    {
+        "question": "Printer Theta ko delivery time kati ho?",
+        "context": "Product Name: Printer Theta, Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days. Competitor Comparison: Store U offers same-day delivery in Kathmandu. Usage Tip: Track your order for real-time updates. Warranty: 1 year.",
+        "response": "Printer Theta ko delivery time Kathmandu bhitra 1-2 din, baira 3-5 din lagcha."
+    },
+    {
+        "question": "Monitor Iota ko discount cha ki nai?",
+        "context": "Product Name: Monitor Iota, Discount: 12% off with code MONITOR12. Competitor Comparison: Store T offers 10% off but with limited stock. Usage Tip: Use discount codes during checkout for savings. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Monitor Iota ma 12% discount cha. Code: MONITOR12 use garnuhos."
+    },
+    {
+        "question": "Keyboard Kappa ko installation guide available cha?",
+        "context": "Product Name: Keyboard Kappa, Installation Guide: Available for download on the product page. Video Tutorial: Also available on YouTube. Competitor Comparison: Store S provides in-person installation support. Usage Tip: Follow the step-by-step guide for easy installation. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Keyboard Kappa ko installation guide product page bata download garna sakincha. YouTube ma video tutorial pani upalabdh cha."
+    },
+    {
+        "question": "Speaker Lambda ko weight kati ho?",
+        "context": "Product Name: Speaker Lambda, Weight: 2.2 kg. Competitor Comparison: Similar products weigh around 2.5 kg. Usage Tip: Use a carrying case for portability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Speaker Lambda ko weight 2.2 kg ho."
+    },
+    {
+        "question": "Power Bank Mu ko dimensions k k cha?",
+        "context": "Product Name: Power Bank Mu, Dimensions: 10cm x 5cm x 2cm. Competitor Comparison: Similar products have dimensions of 11cm x 6cm x 3cm. Usage Tip: Check the dimensions before purchasing to ensure it fits your bag. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Power Bank Mu ko dimensions 10cm x 5cm x 2cm cha."
+    },
+    {
+        "question": "Headphone Nu ko battery life kati ho?",
+        "context": "Product Name: Headphone Nu, Battery Life: 20 hours. Competitor Comparison: Similar products offer 18 hours of battery life. Usage Tip: Use power-saving mode to extend battery life. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Headphone Nu ko battery life 20 hours ho."
+    },
+    {
+        "question": "Smartwatch Xi ko charging time kati ho?",
+        "context": "Product Name: Smartwatch Xi, Charging Time: 1.5 hours. Competitor Comparison: Similar products take 2 hours to charge. Usage Tip: Use the provided charger for optimal charging speed. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Smartwatch Xi ko charging time 1.5 hours ho."
+    },
+    {
+        "question": "Laptop Omicron ko material k ho?",
+        "context": "Product Name: Laptop Omicron, Material: Aluminum and Plastic. Competitor Comparison: Similar products use only plastic. Usage Tip: Clean with a microfiber cloth to avoid scratches. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop Omicron aluminum ra plastic ko banaeko cha."
+    },
+    {
+        "question": "Tablet Pi ko water-resistant ho?",
+        "context": "Product Name: Tablet Pi, Water-Resistant: Yes, IP68 rating. Competitor Comparison: Similar products have an IP67 rating. Usage Tip: Avoid submerging in water for long periods. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Tablet Pi water-resistant ho. IP68 rating cha."
+    },
+    {
+        "question": "Printer Rho ko warranty claim garna sakchu?",
+        "context": "Product Name: Printer Rho, Warranty Claim: Contact customer care with receipt and warranty card. Competitor Comparison: Store R offers online warranty claims. Usage Tip: Keep the receipt and warranty card safe. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Printer Rho ko warranty claim garna receipt ra warranty card sanga customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Monitor Sigma ko accessories k k cha?",
+        "context": "Product Name: Monitor Sigma, Accessories: HDMI Cable, Power Adapter, User Manual. Competitor Comparison: Similar products include a VGA cable. Usage Tip: Use the provided accessories for optimal performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Monitor Sigma sanga HDMI cable, power adapter, ra user manual auncha."
+    },
+    {
+        "question": "Keyboard Tau ko compatible devices k k ho?",
+        "context": "Product Name: Keyboard Tau, Compatible Devices: Windows, macOS, Linux. Competitor Comparison: Similar products are compatible only with Windows and macOS. Usage Tip: Check compatibility before purchasing. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Keyboard Tau Windows, macOS, ra Linux devices sanga compatible cha."
+    },
+    {
+        "question": "Speaker Upsilon ko replacement policy k ho?",
+        "context": "Product Name: Speaker Upsilon, Replacement Policy: 14 days replacement for defective products. Competitor Comparison: Store Q offers 30 days replacement. Usage Tip: Test the product immediately after delivery. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Speaker Upsilon ko replacement policy anusar defective products lai 14 days bhitra replace garna sakincha."
+    },
+    {
+        "question": "Smartphone Delta ko stock ma cha?",
+        "context": "Product Name: Smartphone Delta, Stock: Available (Last Restocked: 2023-10-10), Price: NPR 28,000. Competitor Price: NPR 30,000 at Store X. Popularity: Top 3 best-selling smartphones in Nepal. Usage Tip: Use with a tempered glass screen protector for better durability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Smartphone Delta ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Wireless Earbuds Epsilon ko price kati ho?",
+        "context": "Product Name: Wireless Earbuds Epsilon, Price: NPR 3,800. Discount: 20% off with code EARBUDS20. Competitor Price: NPR 4,200 at Store Y. Popularity: Over 1,500 units sold last month. Usage Tip: Use noise-cancellation mode for better audio quality. Warranty: 6 months. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Wireless Earbuds Epsilon ko price NPR 3,800 ho. Ahile 20% discount pani cha, code EARBUDS20 use garnuhos."
+    },
+    {
+        "question": "Laptop Zeta ko specifications k k cha?",
+        "context": "Product Name: Laptop Zeta, Specifications: 14-inch display, 1TB SSD, 8GB RAM, AMD Ryzen 5 processor. Battery: 10 hours, Fast Charging: Yes. Competitor Comparison: Similar to Laptop Eta but with better storage. Usage Tip: Use a cooling pad for better performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop Zeta ko specifications yas prakar cha: 14-inch display, 1TB SSD, 8GB RAM, AMD Ryzen 5 processor. Yo sanga 10 hours ko battery life ra fast charging feature pani cha."
+    },
+    {
+        "question": "Smartwatch Theta ko warranty kati din ko cha?",
+        "context": "Product Name: Smartwatch Theta, Warranty: 2 years manufacturer warranty. Extended Warranty: Available for NPR 2,000. Competitor Warranty: 1 year at Store Z. Usage Tip: Register warranty online for faster claims. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Hajur, Smartwatch Theta ko warranty 2 years ko cha. Extended warranty NPR 2,000 tirera garna sakincha."
+    },
+    {
+        "question": "Tablet Iota ko review k k cha?",
+        "context": "Product Name: Tablet Iota, Reviews: 4.6/5 stars (Based on 1,800 reviews). Positive Feedback: Great display, long battery life. Negative Feedback: Slightly heavy. Competitor Comparison: Better than Tablet Kappa in terms of display quality. Usage Tip: Use a stand for better viewing angles. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Tablet Iota ko review 4.6/5 stars cha (1,800 reviews anusar). Dherai le ramro display ra battery life ko barema ramro bhaneko cha."
+    },
+    {
+        "question": "Camera Kappa ko color options k k cha?",
+        "context": "Product Name: Camera Kappa, Color Options: Black, Silver, Blue. Popularity: Black is the most sold color. Competitor Comparison: Store W offers only Black and Silver. Usage Tip: Use a protective case to maintain color quality. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Camera Kappa ko color options Black, Silver, ra Blue cha. Black sabai bhanda badi bikri hune color ho."
+    },
+    {
+        "question": "Backpack Lambda ko size options k k cha?",
+        "context": "Product Name: Backpack Lambda, Size Options: Small, Medium, Large. Popularity: Large is the most preferred size. Competitor Comparison: Store V offers only Small and Medium. Usage Tip: Measure before purchasing for the best fit. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Backpack Lambda ko size options Small, Medium, ra Large cha. Large sabai bhanda badi prefer gariyeko size ho."
+    },
+    {
+        "question": "Printer Mu ko delivery time kati ho?",
+        "context": "Product Name: Printer Mu, Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days. Competitor Comparison: Store U offers same-day delivery in Kathmandu. Usage Tip: Track your order for real-time updates. Warranty: 1 year.",
+        "response": "Printer Mu ko delivery time Kathmandu bhitra 1-2 din, baira 3-5 din lagcha."
+    },
+    {
+        "question": "Monitor Nu ko discount cha ki nai?",
+        "context": "Product Name: Monitor Nu, Discount: 15% off with code MONITOR15. Competitor Comparison: Store T offers 10% off but with limited stock. Usage Tip: Use discount codes during checkout for savings. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Monitor Nu ma 15% discount cha. Code: MONITOR15 use garnuhos."
+    },
+    {
+        "question": "Keyboard Xi ko installation guide available cha?",
+        "context": "Product Name: Keyboard Xi, Installation Guide: Available for download on the product page. Video Tutorial: Also available on YouTube. Competitor Comparison: Store S provides in-person installation support. Usage Tip: Follow the step-by-step guide for easy installation. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Keyboard Xi ko installation guide product page bata download garna sakincha. YouTube ma video tutorial pani upalabdh cha."
+    },
+    {
+        "question": "Speaker Omicron ko weight kati ho?",
+        "context": "Product Name: Speaker Omicron, Weight: 2.5 kg. Competitor Comparison: Similar products weigh around 2.8 kg. Usage Tip: Use a carrying case for portability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Speaker Omicron ko weight 2.5 kg ho."
+    },
+    {
+        "question": "Power Bank Pi ko dimensions k k cha?",
+        "context": "Product Name: Power Bank Pi, Dimensions: 12cm x 6cm x 3cm. Competitor Comparison: Similar products have dimensions of 13cm x 7cm x 4cm. Usage Tip: Check the dimensions before purchasing to ensure it fits your bag. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Power Bank Pi ko dimensions 12cm x 6cm x 3cm cha."
+    },
+    {
+        "question": "Headphone Rho ko battery life kati ho?",
+        "context": "Product Name: Headphone Rho, Battery Life: 18 hours. Competitor Comparison: Similar products offer 16 hours of battery life. Usage Tip: Use power-saving mode to extend battery life. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Headphone Rho ko battery life 18 hours ho."
+    },
+    {
+        "question": "Smartwatch Sigma ko charging time kati ho?",
+        "context": "Product Name: Smartwatch Sigma, Charging Time: 2 hours. Competitor Comparison: Similar products take 2.5 hours to charge. Usage Tip: Use the provided charger for optimal charging speed. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Smartwatch Sigma ko charging time 2 hours ho."
+    },
+    {
+        "question": "Laptop Tau ko material k ho?",
+        "context": "Product Name: Laptop Tau, Material: Aluminum and Plastic. Competitor Comparison: Similar products use only plastic. Usage Tip: Clean with a microfiber cloth to avoid scratches. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop Tau aluminum ra plastic ko banaeko cha."
+    },
+    {
+        "question": "Tablet Upsilon ko water-resistant ho?",
+        "context": "Product Name: Tablet Upsilon, Water-Resistant: Yes, IP68 rating. Competitor Comparison: Similar products have an IP67 rating. Usage Tip: Avoid submerging in water for long periods. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Tablet Upsilon water-resistant ho. IP68 rating cha."
+    },
+    {
+        "question": "Printer Phi ko warranty claim garna sakchu?",
+        "context": "Product Name: Printer Phi, Warranty Claim: Contact customer care with receipt and warranty card. Competitor Comparison: Store R offers online warranty claims. Usage Tip: Keep the receipt and warranty card safe. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Printer Phi ko warranty claim garna receipt ra warranty card sanga customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Monitor Chi ko accessories k k cha?",
+        "context": "Product Name: Monitor Chi, Accessories: HDMI Cable, Power Adapter, User Manual. Competitor Comparison: Similar products include a VGA cable. Usage Tip: Use the provided accessories for optimal performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Monitor Chi sanga HDMI cable, power adapter, ra user manual auncha."
+    },
+    {
+        "question": "Keyboard Psi ko compatible devices k k ho?",
+        "context": "Product Name: Keyboard Psi, Compatible Devices: Windows, macOS, Linux. Competitor Comparison: Similar products are compatible only with Windows and macOS. Usage Tip: Check compatibility before purchasing. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Keyboard Psi Windows, macOS, ra Linux devices sanga compatible cha."
+    },
+    {
+        "question": "Speaker Omega ko replacement policy k ho?",
+        "context": "Product Name: Speaker Omega, Replacement Policy: 14 days replacement for defective products. Competitor Comparison: Store Q offers 30 days replacement. Usage Tip: Test the product immediately after delivery. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Speaker Omega ko replacement policy anusar defective products lai 14 days bhitra replace garna sakincha."
+    },
+    {
+        "question": "Smartphone Nova ko stock ma cha?",
+        "context": "Product Name: Smartphone Nova, Stock: Available (Last Restocked: 2023-10-15), Price: NPR 35,000. Competitor Price: NPR 37,000 at Store X. Popularity: Top 5 best-selling smartphones in Nepal. Usage Tip: Use with a tempered glass screen protector for better durability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Smartphone Nova ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Wireless Earbuds Pulse ko price kati ho?",
+        "context": "Product Name: Wireless Earbuds Pulse, Price: NPR 4,000. Discount: 15% off with code PULSE15. Competitor Price: NPR 4,500 at Store Y. Popularity: Over 2,500 units sold last month. Usage Tip: Use noise-cancellation mode for better audio quality. Warranty: 6 months. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Wireless Earbuds Pulse ko price NPR 4,000 ho. Ahile 15% discount pani cha, code PULSE15 use garnuhos."
+    },
+    {
+        "question": "Laptop Zenith ko specifications k k cha?",
+        "context": "Product Name: Laptop Zenith, Specifications: 16-inch display, 1TB SSD, 16GB RAM, Intel i9 processor. Battery: 12 hours, Fast Charging: Yes. Competitor Comparison: Similar to Laptop Apex but with better performance. Usage Tip: Use a cooling pad for better performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop Zenith ko specifications yas prakar cha: 16-inch display, 1TB SSD, 16GB RAM, Intel i9 processor. Yo sanga 12 hours ko battery life ra fast charging feature pani cha."
+    },
+    {
+        "question": "Smartwatch Orbit ko warranty kati din ko cha?",
+        "context": "Product Name: Smartwatch Orbit, Warranty: 2 years manufacturer warranty. Extended Warranty: Available for NPR 2,500. Competitor Warranty: 1 year at Store Z. Usage Tip: Register warranty online for faster claims. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Hajur, Smartwatch Orbit ko warranty 2 years ko cha. Extended warranty NPR 2,500 tirera garna sakincha."
+    },
+    {
+        "question": "Tablet Horizon ko review k k cha?",
+        "context": "Product Name: Tablet Horizon, Reviews: 4.8/5 stars (Based on 2,000 reviews). Positive Feedback: Great display, long battery life. Negative Feedback: Slightly heavy. Competitor Comparison: Better than Tablet Vista in terms of display quality. Usage Tip: Use a stand for better viewing angles. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Tablet Horizon ko review 4.8/5 stars cha (2,000 reviews anusar). Dherai le ramro display ra battery life ko barema ramro bhaneko cha."
+    },
+    {
+        "question": "Camera Aurora ko color options k k cha?",
+        "context": "Product Name: Camera Aurora, Color Options: Black, Silver, Gold. Popularity: Black is the most sold color. Competitor Comparison: Store W offers only Black and Silver. Usage Tip: Use a protective case to maintain color quality. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Camera Aurora ko color options Black, Silver, ra Gold cha. Black sabai bhanda badi bikri hune color ho."
+    },
+    {
+        "question": "Backpack Voyager ko size options k k cha?",
+        "context": "Product Name: Backpack Voyager, Size Options: Small, Medium, Large. Popularity: Large is the most preferred size. Competitor Comparison: Store V offers only Small and Medium. Usage Tip: Measure before purchasing for the best fit. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Backpack Voyager ko size options Small, Medium, ra Large cha. Large sabai bhanda badi prefer gariyeko size ho."
+    },
+    {
+        "question": "Printer Nebula ko delivery time kati ho?",
+        "context": "Product Name: Printer Nebula, Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days. Competitor Comparison: Store U offers same-day delivery in Kathmandu. Usage Tip: Track your order for real-time updates. Warranty: 1 year.",
+        "response": "Printer Nebula ko delivery time Kathmandu bhitra 1-2 din, baira 3-5 din lagcha."
+    },
+    {
+        "question": "Monitor Stellar ko discount cha ki nai?",
+        "context": "Product Name: Monitor Stellar, Discount: 10% off with code STELLAR10. Competitor Comparison: Store T offers 5% off but with limited stock. Usage Tip: Use discount codes during checkout for savings. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Monitor Stellar ma 10% discount cha. Code: STELLAR10 use garnuhos."
+    },
+    {
+        "question": "Keyboard Infinity ko installation guide available cha?",
+        "context": "Product Name: Keyboard Infinity, Installation Guide: Available for download on the product page. Video Tutorial: Also available on YouTube. Competitor Comparison: Store S provides in-person installation support. Usage Tip: Follow the step-by-step guide for easy installation. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Keyboard Infinity ko installation guide product page bata download garna sakincha. YouTube ma video tutorial pani upalabdh cha."
+    },
+    {
+        "question": "Speaker Echo ko weight kati ho?",
+        "context": "Product Name: Speaker Echo, Weight: 2.3 kg. Competitor Comparison: Similar products weigh around 2.5 kg. Usage Tip: Use a carrying case for portability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Speaker Echo ko weight 2.3 kg ho."
+    },
+    {
+        "question": "Power Bank Nova ko dimensions k k cha?",
+        "context": "Product Name: Power Bank Nova, Dimensions: 11cm x 6cm x 2cm. Competitor Comparison: Similar products have dimensions of 12cm x 7cm x 3cm. Usage Tip: Check the dimensions before purchasing to ensure it fits your bag. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Power Bank Nova ko dimensions 11cm x 6cm x 2cm cha."
+    },
+    {
+        "question": "Headphone Pulse ko battery life kati ho?",
+        "context": "Product Name: Headphone Pulse, Battery Life: 20 hours. Competitor Comparison: Similar products offer 18 hours of battery life. Usage Tip: Use power-saving mode to extend battery life. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Headphone Pulse ko battery life 20 hours ho."
+    },
+    {
+        "question": "Smartwatch Orbit ko charging time kati ho?",
+        "context": "Product Name: Smartwatch Orbit, Charging Time: 1.5 hours. Competitor Comparison: Similar products take 2 hours to charge. Usage Tip: Use the provided charger for optimal charging speed. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Smartwatch Orbit ko charging time 1.5 hours ho."
+    },
+    {
+        "question": "Laptop Zenith ko material k ho?",
+        "context": "Product Name: Laptop Zenith, Material: Aluminum and Plastic. Competitor Comparison: Similar products use only plastic. Usage Tip: Clean with a microfiber cloth to avoid scratches. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop Zenith aluminum ra plastic ko banaeko cha."
+    },
+    {
+        "question": "Tablet Horizon ko water-resistant ho?",
+        "context": "Product Name: Tablet Horizon, Water-Resistant: Yes, IP68 rating. Competitor Comparison: Similar products have an IP67 rating. Usage Tip: Avoid submerging in water for long periods. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Tablet Horizon water-resistant ho. IP68 rating cha."
+    },
+    {
+        "question": "Printer Nebula ko warranty claim garna sakchu?",
+        "context": "Product Name: Printer Nebula, Warranty Claim: Contact customer care with receipt and warranty card. Competitor Comparison: Store R offers online warranty claims. Usage Tip: Keep the receipt and warranty card safe. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Printer Nebula ko warranty claim garna receipt ra warranty card sanga customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Monitor Stellar ko accessories k k cha?",
+        "context": "Product Name: Monitor Stellar, Accessories: HDMI Cable, Power Adapter, User Manual. Competitor Comparison: Similar products include a VGA cable. Usage Tip: Use the provided accessories for optimal performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Monitor Stellar sanga HDMI cable, power adapter, ra user manual auncha."
+    },
+    {
+        "question": "Keyboard Infinity ko compatible devices k k ho?",
+        "context": "Product Name: Keyboard Infinity, Compatible Devices: Windows, macOS, Linux. Competitor Comparison: Similar products are compatible only with Windows and macOS. Usage Tip: Check compatibility before purchasing. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Keyboard Infinity Windows, macOS, ra Linux devices sanga compatible cha."
+    },
+    {
+        "question": "Speaker Echo ko replacement policy k ho?",
+        "context": "Product Name: Speaker Echo, Replacement Policy: 14 days replacement for defective products. Competitor Comparison: Store Q offers 30 days replacement. Usage Tip: Test the product immediately after delivery. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Speaker Echo ko replacement policy anusar defective products lai 14 days bhitra replace garna sakincha."
+    },
+    {
+        "question": "Smartphone Galaxy X ko stock ma cha?",
+        "context": "Product Name: Smartphone Galaxy X, Stock: Available (Last Restocked: 2023-10-20), Price: NPR 40,000. Competitor Price: NPR 42,000 at Store X. Popularity: Top 3 best-selling smartphones in Nepal. Usage Tip: Use with a tempered glass screen protector for better durability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Smartphone Galaxy X ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Wireless Earbuds Sonic ko price kati ho?",
+        "context": "Product Name: Wireless Earbuds Sonic, Price: NPR 4,500. Discount: 10% off with code SONIC10. Competitor Price: NPR 5,000 at Store Y. Popularity: Over 3,000 units sold last month. Usage Tip: Use noise-cancellation mode for better audio quality. Warranty: 6 months. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Wireless Earbuds Sonic ko price NPR 4,500 ho. Ahile 10% discount pani cha, code SONIC10 use garnuhos."
+    },
+    {
+        "question": "Laptop ProBook ko specifications k k cha?",
+        "context": "Product Name: Laptop ProBook, Specifications: 15.6-inch display, 512GB SSD, 8GB RAM, Intel i5 processor. Battery: 8 hours, Fast Charging: Yes. Competitor Comparison: Similar to Laptop EliteBook but with better battery life. Usage Tip: Use a cooling pad for better performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop ProBook ko specifications yas prakar cha: 15.6-inch display, 512GB SSD, 8GB RAM, Intel i5 processor. Yo sanga 8 hours ko battery life ra fast charging feature pani cha."
+    },
+    {
+        "question": "Smartwatch FitPro ko warranty kati din ko cha?",
+        "context": "Product Name: Smartwatch FitPro, Warranty: 2 years manufacturer warranty. Extended Warranty: Available for NPR 2,000. Competitor Warranty: 1 year at Store Z. Usage Tip: Register warranty online for faster claims. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Hajur, Smartwatch FitPro ko warranty 2 years ko cha. Extended warranty NPR 2,000 tirera garna sakincha."
+    },
+    {
+        "question": "Tablet ViewPad ko review k k cha?",
+        "context": "Product Name: Tablet ViewPad, Reviews: 4.7/5 stars (Based on 2,500 reviews). Positive Feedback: Great display, long battery life. Negative Feedback: Slightly heavy. Competitor Comparison: Better than Tablet TabPlus in terms of display quality. Usage Tip: Use a stand for better viewing angles. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Tablet ViewPad ko review 4.7/5 stars cha (2,500 reviews anusar). Dherai le ramro display ra battery life ko barema ramro bhaneko cha."
+    },
+    {
+        "question": "Camera SnapShot ko color options k k cha?",
+        "context": "Product Name: Camera SnapShot, Color Options: Black, Silver, Red. Popularity: Black is the most sold color. Competitor Comparison: Store W offers only Black and Silver. Usage Tip: Use a protective case to maintain color quality. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Camera SnapShot ko color options Black, Silver, ra Red cha. Black sabai bhanda badi bikri hune color ho."
+    },
+    {
+        "question": "Backpack Trekker ko size options k k cha?",
+        "context": "Product Name: Backpack Trekker, Size Options: Small, Medium, Large. Popularity: Large is the most preferred size. Competitor Comparison: Store V offers only Small and Medium. Usage Tip: Measure before purchasing for the best fit. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Backpack Trekker ko size options Small, Medium, ra Large cha. Large sabai bhanda badi prefer gariyeko size ho."
+    },
+    {
+        "question": "Printer PrintMaster ko delivery time kati ho?",
+        "context": "Product Name: Printer PrintMaster, Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days. Competitor Comparison: Store U offers same-day delivery in Kathmandu. Usage Tip: Track your order for real-time updates. Warranty: 1 year.",
+        "response": "Printer PrintMaster ko delivery time Kathmandu bhitra 1-2 din, baira 3-5 din lagcha."
+    },
+    {
+        "question": "Monitor UltraView ko discount cha ki nai?",
+        "context": "Product Name: Monitor UltraView, Discount: 12% off with code ULTRA12. Competitor Comparison: Store T offers 10% off but with limited stock. Usage Tip: Use discount codes during checkout for savings. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Monitor UltraView ma 12% discount cha. Code: ULTRA12 use garnuhos."
+    },
+    {
+        "question": "Keyboard MechX ko installation guide available cha?",
+        "context": "Product Name: Keyboard MechX, Installation Guide: Available for download on the product page. Video Tutorial: Also available on YouTube. Competitor Comparison: Store S provides in-person installation support. Usage Tip: Follow the step-by-step guide for easy installation. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Keyboard MechX ko installation guide product page bata download garna sakincha. YouTube ma video tutorial pani upalabdh cha."
+    },
+    {
+        "question": "Speaker BoomBox ko weight kati ho?",
+        "context": "Product Name: Speaker BoomBox, Weight: 2.8 kg. Competitor Comparison: Similar products weigh around 3 kg. Usage Tip: Use a carrying case for portability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Speaker BoomBox ko weight 2.8 kg ho."
+    },
+    {
+        "question": "Power Bank PowerMax ko dimensions k k cha?",
+        "context": "Product Name: Power Bank PowerMax, Dimensions: 12cm x 7cm x 3cm. Competitor Comparison: Similar products have dimensions of 13cm x 8cm x 4cm. Usage Tip: Check the dimensions before purchasing to ensure it fits your bag. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Power Bank PowerMax ko dimensions 12cm x 7cm x 3cm cha."
+    },
+    {
+        "question": "Headphone SoundWave ko battery life kati ho?",
+        "context": "Product Name: Headphone SoundWave, Battery Life: 22 hours. Competitor Comparison: Similar products offer 20 hours of battery life. Usage Tip: Use power-saving mode to extend battery life. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Headphone SoundWave ko battery life 22 hours ho."
+    },
+    {
+        "question": "Smartwatch TimeX ko charging time kati ho?",
+        "context": "Product Name: Smartwatch TimeX, Charging Time: 1.5 hours. Competitor Comparison: Similar products take 2 hours to charge. Usage Tip: Use the provided charger for optimal charging speed. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Smartwatch TimeX ko charging time 1.5 hours ho."
+    },
+    {
+        "question": "Laptop FlexBook ko material k ho?",
+        "context": "Product Name: Laptop FlexBook, Material: Aluminum and Plastic. Competitor Comparison: Similar products use only plastic. Usage Tip: Clean with a microfiber cloth to avoid scratches. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop FlexBook aluminum ra plastic ko banaeko cha."
+    },
+    {
+        "question": "Tablet TabX ko water-resistant ho?",
+        "context": "Product Name: Tablet TabX, Water-Resistant: Yes, IP68 rating. Competitor Comparison: Similar products have an IP67 rating. Usage Tip: Avoid submerging in water for long periods. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Tablet TabX water-resistant ho. IP68 rating cha."
+    },
+    {
+        "question": "Printer PrintX ko warranty claim garna sakchu?",
+        "context": "Product Name: Printer PrintX, Warranty Claim: Contact customer care with receipt and warranty card. Competitor Comparison: Store R offers online warranty claims. Usage Tip: Keep the receipt and warranty card safe. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Printer PrintX ko warranty claim garna receipt ra warranty card sanga customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Monitor UltraX ko accessories k k cha?",
+        "context": "Product Name: Monitor UltraX, Accessories: HDMI Cable, Power Adapter, User Manual. Competitor Comparison: Similar products include a VGA cable. Usage Tip: Use the provided accessories for optimal performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Monitor UltraX sanga HDMI cable, power adapter, ra user manual auncha."
+    },
+    {
+        "question": "Keyboard MechPro ko compatible devices k k ho?",
+        "context": "Product Name: Keyboard MechPro, Compatible Devices: Windows, macOS, Linux. Competitor Comparison: Similar products are compatible only with Windows and macOS. Usage Tip: Check compatibility before purchasing. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Keyboard MechPro Windows, macOS, ra Linux devices sanga compatible cha."
+    },
+    {
+        "question": "Speaker SoundPro ko replacement policy k ho?",
+        "context": "Product Name: Speaker SoundPro, Replacement Policy: 14 days replacement for defective products. Competitor Comparison: Store Q offers 30 days replacement. Usage Tip: Test the product immediately after delivery. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Speaker SoundPro ko replacement policy anusar defective products lai 14 days bhitra replace garna sakincha."
+    },
+    {
+        "question": "Smartphone Nova Pro ko stock ma cha?",
+        "context": "Product Name: Smartphone Nova Pro, Stock: Available (Last Restocked: 2023-10-25), Price: NPR 45,000. Competitor Price: NPR 47,000 at Store X. Popularity: Top 5 best-selling smartphones in Nepal. Usage Tip: Use with a tempered glass screen protector for better durability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Smartphone Nova Pro ahile stock ma cha. Tapailai yaslai aaja nai order garnu huncha?"
+    },
+    {
+        "question": "Wireless Earbuds Sonic Pro ko price kati ho?",
+        "context": "Product Name: Wireless Earbuds Sonic Pro, Price: NPR 5,500. Discount: 10% off with code SONICPRO10. Competitor Price: NPR 6,000 at Store Y. Popularity: Over 3,500 units sold last month. Usage Tip: Use noise-cancellation mode for better audio quality. Warranty: 6 months. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Wireless Earbuds Sonic Pro ko price NPR 5,500 ho. Ahile 10% discount pani cha, code SONICPRO10 use garnuhos."
+    },
+    {
+        "question": "Laptop EliteBook Pro ko specifications k k cha?",
+        "context": "Product Name: Laptop EliteBook Pro, Specifications: 16-inch display, 1TB SSD, 16GB RAM, Intel i7 processor. Battery: 10 hours, Fast Charging: Yes. Competitor Comparison: Similar to Laptop ProBook but with better performance. Usage Tip: Use a cooling pad for better performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop EliteBook Pro ko specifications yas prakar cha: 16-inch display, 1TB SSD, 16GB RAM, Intel i7 processor. Yo sanga 10 hours ko battery life ra fast charging feature pani cha."
+    },
+    {
+        "question": "Smartwatch FitPro Max ko warranty kati din ko cha?",
+        "context": "Product Name: Smartwatch FitPro Max, Warranty: 2 years manufacturer warranty. Extended Warranty: Available for NPR 2,500. Competitor Warranty: 1 year at Store Z. Usage Tip: Register warranty online for faster claims. Delivery Time: 2-3 days in Kathmandu.",
+        "response": "Hajur, Smartwatch FitPro Max ko warranty 2 years ko cha. Extended warranty NPR 2,500 tirera garna sakincha."
+    },
+    {
+        "question": "Tablet ViewPad Pro ko review k k cha?",
+        "context": "Product Name: Tablet ViewPad Pro, Reviews: 4.8/5 stars (Based on 3,000 reviews). Positive Feedback: Great display, long battery life. Negative Feedback: Slightly heavy. Competitor Comparison: Better than Tablet TabPlus Pro in terms of display quality. Usage Tip: Use a stand for better viewing angles. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Tablet ViewPad Pro ko review 4.8/5 stars cha (3,000 reviews anusar). Dherai le ramro display ra battery life ko barema ramro bhaneko cha."
+    },
+    {
+        "question": "Camera SnapShot Pro ko color options k k cha?",
+        "context": "Product Name: Camera SnapShot Pro, Color Options: Black, Silver, Blue. Popularity: Black is the most sold color. Competitor Comparison: Store W offers only Black and Silver. Usage Tip: Use a protective case to maintain color quality. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Camera SnapShot Pro ko color options Black, Silver, ra Blue cha. Black sabai bhanda badi bikri hune color ho."
+    },
+    {
+        "question": "Backpack Trekker Pro ko size options k k cha?",
+        "context": "Product Name: Backpack Trekker Pro, Size Options: Small, Medium, Large. Popularity: Large is the most preferred size. Competitor Comparison: Store V offers only Small and Medium. Usage Tip: Measure before purchasing for the best fit. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Backpack Trekker Pro ko size options Small, Medium, ra Large cha. Large sabai bhanda badi prefer gariyeko size ho."
+    },
+    {
+        "question": "Printer PrintMaster Pro ko delivery time kati ho?",
+        "context": "Product Name: Printer PrintMaster Pro, Delivery Time: Kathmandu Valley - 1-2 days, Outside Kathmandu - 3-5 days. Competitor Comparison: Store U offers same-day delivery in Kathmandu. Usage Tip: Track your order for real-time updates. Warranty: 1 year.",
+        "response": "Printer PrintMaster Pro ko delivery time Kathmandu bhitra 1-2 din, baira 3-5 din lagcha."
+    },
+    {
+        "question": "Monitor UltraView Pro ko discount cha ki nai?",
+        "context": "Product Name: Monitor UltraView Pro, Discount: 15% off with code ULTRAPRO15. Competitor Comparison: Store T offers 10% off but with limited stock. Usage Tip: Use discount codes during checkout for savings. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Monitor UltraView Pro ma 15% discount cha. Code: ULTRAPRO15 use garnuhos."
+    },
+    {
+        "question": "Keyboard MechX Pro ko installation guide available cha?",
+        "context": "Product Name: Keyboard MechX Pro, Installation Guide: Available for download on the product page. Video Tutorial: Also available on YouTube. Competitor Comparison: Store S provides in-person installation support. Usage Tip: Follow the step-by-step guide for easy installation. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Keyboard MechX Pro ko installation guide product page bata download garna sakincha. YouTube ma video tutorial pani upalabdh cha."
+    },
+    {
+        "question": "Speaker BoomBox Pro ko weight kati ho?",
+        "context": "Product Name: Speaker BoomBox Pro, Weight: 3 kg. Competitor Comparison: Similar products weigh around 3.2 kg. Usage Tip: Use a carrying case for portability. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Speaker BoomBox Pro ko weight 3 kg ho."
+    },
+    {
+        "question": "Power Bank PowerMax Pro ko dimensions k k cha?",
+        "context": "Product Name: Power Bank PowerMax Pro, Dimensions: 13cm x 8cm x 4cm. Competitor Comparison: Similar products have dimensions of 14cm x 9cm x 5cm. Usage Tip: Check the dimensions before purchasing to ensure it fits your bag. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Power Bank PowerMax Pro ko dimensions 13cm x 8cm x 4cm cha."
+    },
+    {
+        "question": "Headphone SoundWave Pro ko battery life kati ho?",
+        "context": "Product Name: Headphone SoundWave Pro, Battery Life: 24 hours. Competitor Comparison: Similar products offer 22 hours of battery life. Usage Tip: Use power-saving mode to extend battery life. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Headphone SoundWave Pro ko battery life 24 hours ho."
+    },
+    {
+        "question": "Smartwatch TimeX Pro ko charging time kati ho?",
+        "context": "Product Name: Smartwatch TimeX Pro, Charging Time: 1.5 hours. Competitor Comparison: Similar products take 2 hours to charge. Usage Tip: Use the provided charger for optimal charging speed. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Smartwatch TimeX Pro ko charging time 1.5 hours ho."
+    },
+    {
+        "question": "Laptop FlexBook Pro ko material k ho?",
+        "context": "Product Name: Laptop FlexBook Pro, Material: Aluminum and Plastic. Competitor Comparison: Similar products use only plastic. Usage Tip: Clean with a microfiber cloth to avoid scratches. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Laptop FlexBook Pro aluminum ra plastic ko banaeko cha."
+    },
+    {
+        "question": "Tablet TabX Pro ko water-resistant ho?",
+        "context": "Product Name: Tablet TabX Pro, Water-Resistant: Yes, IP68 rating. Competitor Comparison: Similar products have an IP67 rating. Usage Tip: Avoid submerging in water for long periods. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Tablet TabX Pro water-resistant ho. IP68 rating cha."
+    },
+    {
+        "question": "Printer PrintX Pro ko warranty claim garna sakchu?",
+        "context": "Product Name: Printer PrintX Pro, Warranty Claim: Contact customer care with receipt and warranty card. Competitor Comparison: Store R offers online warranty claims. Usage Tip: Keep the receipt and warranty card safe. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Printer PrintX Pro ko warranty claim garna receipt ra warranty card sanga customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Monitor UltraX Pro ko accessories k k cha?",
+        "context": "Product Name: Monitor UltraX Pro, Accessories: HDMI Cable, Power Adapter, User Manual. Competitor Comparison: Similar products include a VGA cable. Usage Tip: Use the provided accessories for optimal performance. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Monitor UltraX Pro sanga HDMI cable, power adapter, ra user manual auncha."
+    },
+    {
+        "question": "Keyboard MechPro Max ko compatible devices k k ho?",
+        "context": "Product Name: Keyboard MechPro Max, Compatible Devices: Windows, macOS, Linux. Competitor Comparison: Similar products are compatible only with Windows and macOS. Usage Tip: Check compatibility before purchasing. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Keyboard MechPro Max Windows, macOS, ra Linux devices sanga compatible cha."
+    },
+    {
+        "question": "Speaker SoundPro Max ko replacement policy k ho?",
+        "context": "Product Name: Speaker SoundPro Max, Replacement Policy: 14 days replacement for defective products. Competitor Comparison: Store Q offers 30 days replacement. Usage Tip: Test the product immediately after delivery. Warranty: 1 year. Delivery Time: 1-2 days in Kathmandu.",
+        "response": "Hajur, Speaker SoundPro Max ko replacement policy anusar defective products lai 14 days bhitra replace garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi kun kun method haru cha?",
+        "context": "Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery. Discount: 10% off on online payments. Usage Tip: Use Esewa or Khalti for faster processing.",
+        "response": "Hajur, payment garna ko lagi Credit/Debit Card, Esewa, Khalti, ra Cash on Delivery haru upalabdh cha. Online payment ma 10% discount pani cha."
+    },
+    {
+        "question": "Esewa bata payment garna sakchu?",
+        "context": "Payment Methods: Esewa is available for all orders. Discount: 5% cashback on Esewa payments. Usage Tip: Ensure your Esewa wallet has sufficient balance.",
+        "response": "Hajur, tapailai Esewa bata payment garna sakincha. Esewa payment ma 5% cashback pani huncha."
+    },
+    {
+        "question": "Khalti bata payment garna milcha?",
+        "context": "Payment Methods: Khalti is available for all orders. Discount: 5% cashback on Khalti payments. Usage Tip: Ensure your Khalti wallet has sufficient balance.",
+        "response": "Hajur, tapailai Khalti bata payment garna sakincha. Khalti payment ma 5% cashback pani huncha."
+    },
+    {
+        "question": "Cash on delivery available cha?",
+        "context": "Payment Methods: Cash on Delivery is available for orders below NPR 10,000. Usage Tip: Keep exact change ready for faster delivery.",
+        "response": "Hajur, NPR 10,000 samma ko order ma Cash on Delivery available cha. Exact change rakhnu huncha."
+    },
+    {
+        "question": "Credit card bata payment garna sakchu?",
+        "context": "Payment Methods: Credit Card payments are accepted for all orders. Discount: 10% off on Credit Card payments. Usage Tip: Ensure your card is enabled for online transactions.",
+        "response": "Hajur, tapailai Credit Card bata payment garna sakincha. Credit Card payment ma 10% discount pani huncha."
+    },
+    {
+        "question": "Debit card bata payment garna milcha?",
+        "context": "Payment Methods: Debit Card payments are accepted for all orders. Discount: 10% off on Debit Card payments. Usage Tip: Ensure your card is enabled for online transactions.",
+        "response": "Hajur, tapailai Debit Card bata payment garna sakincha. Debit Card payment ma 10% discount pani huncha."
+    },
+    {
+        "question": "Mobile banking bata payment garna sakchu?",
+        "context": "Payment Methods: Mobile banking is not currently supported. Alternative Methods: Esewa, Khalti, or Credit/Debit Card. Usage Tip: Use Esewa or Khalti for mobile-based payments.",
+        "response": "Hajur, mobile banking bata payment garna mildaina. Tapailai Esewa, Khalti, ya Credit/Debit Card use garna sakincha."
+    },
+    {
+        "question": "Payment ma discount cha ki nai?",
+        "context": "Discounts: 10% off on Credit/Debit Card payments, 5% cashback on Esewa and Khalti payments. Usage Tip: Use online payment methods for discounts.",
+        "response": "Hajur, Credit/Debit Card payment ma 10% discount cha ra Esewa ra Khalti payment ma 5% cashback huncha."
+    },
+    {
+        "question": "Payment fail bhayo bhane ke garnu?",
+        "context": "Payment Failure: If payment fails, retry after 10 minutes or use an alternative payment method. Support: Contact customer care at 01-2345678 for assistance.",
+        "response": "Hajur, payment fail bhayo bhane 10 minutes pachi feri try garnuhos ya arko payment method use garnuhos. Sahayog ko lagi 01-2345678 ma samparka garnuhos."
+    },
+    {
+        "question": "Payment confirmation kasari pauchu?",
+        "context": "Payment Confirmation: Confirmation is sent via SMS and email after successful payment. Usage Tip: Check your spam folder if you don't receive the confirmation.",
+        "response": "Hajur, payment successful bhayo bhane SMS ra email bata confirmation paunuhuncha. Spam folder check garnu hola yadi confirmation paunuhunna bhane."
+    },
+    {
+        "question": "Payment refund kasari pauchu?",
+        "context": "Refund Process: Refunds are processed within 7 business days and credited to the original payment method. Usage Tip: Contact customer care for refund status.",
+        "response": "Hajur, refund 7 business days bhitra original payment method ma feri pathaidiye ko huncha. Refund status ko lagi customer care ma samparka garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi EMI option cha?",
+        "context": "EMI Options: Available for Credit Card payments on orders above NPR 20,000. Usage Tip: Check with your bank for EMI eligibility.",
+        "response": "Hajur, NPR 20,000 mathi ko order ma Credit Card bata EMI option available cha. Tapailo bank sanga EMI eligibility ko barema sodhnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi QR code use garna sakchu?",
+        "context": "QR Code Payment: Available for Esewa and Khalti. Usage Tip: Scan the QR code during checkout for faster payment.",
+        "response": "Hajur, tapailai Esewa ra Khalti ko QR code use garera payment garna sakincha. Checkout garda QR code scan garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi bank transfer garna sakchu?",
+        "context": "Bank Transfer: Not supported. Alternative Methods: Esewa, Khalti, or Credit/Debit Card. Usage Tip: Use Esewa or Khalti for mobile-based payments.",
+        "response": "Hajur, bank transfer bata payment garna mildaina. Tapailai Esewa, Khalti, ya Credit/Debit Card use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi cryptocurrency use garna sakchu?",
+        "context": "Cryptocurrency: Not supported. Alternative Methods: Esewa, Khalti, or Credit/Debit Card. Usage Tip: Use Esewa or Khalti for mobile-based payments.",
+        "response": "Hajur, cryptocurrency bata payment garna mildaina. Tapailai Esewa, Khalti, ya Credit/Debit Card use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi PayPal use garna sakchu?",
+        "context": "PayPal: Not supported. Alternative Methods: Esewa, Khalti, or Credit/Debit Card. Usage Tip: Use Esewa or Khalti for mobile-based payments.",
+        "response": "Hajur, PayPal bata payment garna mildaina. Tapailai Esewa, Khalti, ya Credit/Debit Card use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi installment ma tirna sakchu?",
+        "context": "Installment Payment: Available for Credit Card payments on orders above NPR 20,000. Usage Tip: Check with your bank for installment options.",
+        "response": "Hajur, NPR 20,000 mathi ko order ma Credit Card bata installment ma tirna sakincha. Tapailo bank sanga installment options ko barema sodhnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi wallet balance use garna sakchu?",
+        "context": "Wallet Balance: Esewa and Khalti wallet balances can be used for payment. Usage Tip: Ensure your wallet has sufficient balance.",
+        "response": "Hajur, tapailai Esewa ra Khalti ko wallet balance use garera payment garna sakincha. Wallet ma sufficient balance huna parcha."
+    },
+    {
+        "question": "Payment garna ko lagi international card use garna sakchu?",
+        "context": "International Cards: Accepted for all orders. Usage Tip: Ensure your card is enabled for international transactions.",
+        "response": "Hajur, tapailai international card bata payment garna sakincha. Card international transactions ko lagi enabled huna parcha."
+    },
+    {
+        "question": "Payment garna ko lagi voucher use garna sakchu?",
+        "context": "Voucher Usage: Accepted for all orders. Usage Tip: Enter the voucher code during checkout.",
+        "response": "Hajur, tapailai voucher code use garera payment garna sakincha. Checkout garda voucher code enter garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi gift card use garna sakchu?",
+        "context": "Gift Card Usage: Accepted for all orders. Usage Tip: Enter the gift card code during checkout.",
+        "response": "Hajur, tapailai gift card use garera payment garna sakincha. Checkout garda gift card code enter garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi reward points use garna sakchu?",
+        "context": "Reward Points: Accepted for all orders. Usage Tip: Redeem your reward points during checkout.",
+        "response": "Hajur, tapailai reward points use garera payment garna sakincha. Checkout garda reward points redeem garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi cashback kasari pauchu?",
+        "context": "Cashback: 5% cashback on Esewa and Khalti payments. Usage Tip: Use Esewa or Khalti for cashback.",
+        "response": "Hajur, Esewa ra Khalti bata payment garda 5% cashback paunuhuncha."
+    },
+    {
+        "question": "Payment garna ko lagi bank offer cha ki nai?",
+        "context": "Bank Offers: Check with your bank for ongoing offers. Usage Tip: Use Credit/Debit Card for bank-specific discounts.",
+        "response": "Hajur, tapailo bank ma ongoing offers cha ki nai check garnuhos. Credit/Debit Card use garda bank-specific discounts pauna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi mobile app bata garna sakchu?",
+        "context": "Mobile App Payment: Available through Esewa and Khalti apps. Usage Tip: Download the app for faster payments.",
+        "response": "Hajur, tapailai Esewa ra Khalti ko mobile app bata payment garna sakincha. App download garnu hola fast payment ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi scan and pay option cha?",
+        "context": "Scan and Pay: Available for Esewa and Khalti. Usage Tip: Scan the QR code during checkout for faster payment.",
+        "response": "Hajur, tapailai Esewa ra Khalti ko scan and pay option use garera payment garna sakincha. Checkout garda QR code scan garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi contactless payment option cha?",
+        "context": "Contactless Payment: Available for Credit/Debit Cards with NFC. Usage Tip: Ensure your card supports NFC.",
+        "response": "Hajur, tapailai NFC-supported Credit/Debit Card bata contactless payment garna sakincha. Card ma NFC support huna parcha."
+    },
+    {
+        "question": "Payment garna ko lagi UPI use garna sakchu?",
+        "context": "UPI Payment: Not supported. Alternative Methods: Esewa, Khalti, or Credit/Debit Card. Usage Tip: Use Esewa or Khalti for mobile-based payments.",
+        "response": "Hajur, UPI bata payment garna mildaina. Tapailai Esewa, Khalti, ya Credit/Debit Card use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi wallet recharge garnu parcha?",
+        "context": "Wallet Recharge: Required for Esewa and Khalti payments. Usage Tip: Recharge your wallet before making a payment.",
+        "response": "Hajur, Esewa ra Khalti bata payment garna wallet recharge garnu parcha. Payment garna agadi wallet recharge garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi multiple methods combine garna sakchu?",
+        "context": "Multiple Payment Methods: Not supported. Usage Tip: Use a single payment method for your order.",
+        "response": "Hajur, multiple payment methods combine garera payment garna mildaina. Ekai payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi partial payment option cha?",
+        "context": "Partial Payment: Not supported. Usage Tip: Pay the full amount using a single payment method.",
+        "response": "Hajur, partial payment garna mildaina. Full amount ekai payment method bata tirnu huncha."
+    },
+    {
+        "question": "Payment garna ko lagi payment link kasari pauchu?",
+        "context": "Payment Link: Sent via SMS and email after order confirmation. Usage Tip: Check your spam folder if you don't receive the link.",
+        "response": "Hajur, order confirm bhayo bhane SMS ra email bata payment link paunuhuncha. Spam folder check garnu hola yadi link paunuhunna bhane."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari pauchu?",
+        "context": "Payment Reminder: Sent via SMS and email 24 hours before payment due date. Usage Tip: Check your spam folder if you don't receive the reminder.",
+        "response": "Hajur, payment due date bata 24 hours agadi SMS ra email bata reminder paunuhuncha. Spam folder check garnu hola yadi reminder paunuhunna bhane."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari hernu?",
+        "context": "Payment History: Available in your account dashboard. Usage Tip: Log in to your account to view payment history.",
+        "response": "Hajur, tapailo account dashboard bata payment history herna sakincha. Account ma login garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari download garna sakchu?",
+        "context": "Payment Receipt: Available in your account dashboard. Usage Tip: Log in to your account to download the receipt.",
+        "response": "Hajur, tapailo account dashboard bata payment receipt download garna sakincha. Account ma login garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway secure cha?",
+        "context": "Payment Security: All payments are processed through secure gateways. Usage Tip: Look for the padlock icon in the browser for security.",
+        "response": "Hajur, sabai payments secure gateway bata process huncha. Browser ma padlock icon hernu hola security ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment error bhayo bhane ke garnu?",
+        "context": "Payment Error: Retry after 10 minutes or contact customer care at 01-2345678. Usage Tip: Ensure your payment method is valid.",
+        "response": "Hajur, payment error bhayo bhane 10 minutes pachi feri try garnuhos ya 01-2345678 ma customer care ma samparka garnuhos. Payment method valid huna parcha."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation SMS kasari pauchu?",
+        "context": "Payment Confirmation: Sent via SMS and email after successful payment. Usage Tip: Check your spam folder if you don't receive the SMS.",
+        "response": "Hajur, payment successful bhayo bhane SMS ra email bata confirmation paunuhuncha. Spam folder check garnu hola yadi SMS paunuhunna bhane."
+    },
+    {
+        "question": "Payment garna ko lagi payment due date kasari thaha pauchu?",
+        "context": "Payment Due Date: Mentioned in the order confirmation email. Usage Tip: Check your spam folder if you don't receive the email.",
+        "response": "Hajur, order confirmation email ma payment due date mention huncha. Spam folder check garnu hola yadi email paunuhunna bhane."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari garnu?",
+        "context": "Payment Retry: Retry after 10 minutes or use an alternative payment method. Usage Tip: Ensure your payment method is valid.",
+        "response": "Hajur, payment retry garnu bhayo bhane 10 minutes pachi feri try garnuhos ya arko payment method use garnuhos. Payment method valid huna parcha."
+    },
+    {
+        "question": "Payment garna ko lagi payment limit cha ki nai?",
+        "context": "Payment Limit: No limit for online payments. Cash on Delivery limit: NPR 10,000. Usage Tip: Use online payments for higher amounts.",
+        "response": "Hajur, online payment ko lagi limit chaina. Cash on Delivery ko limit NPR 10,000 ho. Badhi amount ko lagi online payment use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment currency kasari change garna sakchu?",
+        "context": "Currency Change: Not supported. All payments are in NPR. Usage Tip: Use a currency converter for reference.",
+        "response": "Hajur, payment currency change garna mildaina. Sabai payments NPR ma huncha. Currency converter use garnuhos reference ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari change garna sakchu?",
+        "context": "Payment Method Change: Not supported after order confirmation. Usage Tip: Choose the correct payment method during checkout.",
+        "response": "Hajur, order confirm bhayo bhane payment method change garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment plan kasari set garna sakchu?",
+        "context": "Payment Plan: Available for Credit Card payments on orders above NPR 20,000. Usage Tip: Check with your bank for payment plan options.",
+        "response": "Hajur, NPR 20,000 mathi ko order ma Credit Card bata payment plan set garna sakincha. Tapailo bank sanga payment plan options ko barema sodhnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Reminder Disable: Not supported. Usage Tip: Pay on time to avoid reminders.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Notification Management: Available in your account settings. Usage Tip: Log in to your account to manage notifications.",
+        "response": "Hajur, tapailo account settings bata payment notifications manage garna sakincha. Account ma login garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari resolve garna sakchu?",
+        "context": "Dispute Resolution: Contact customer care at 01-2345678. Usage Tip: Provide your order ID and payment details.",
+        "response": "Hajur, payment dispute resolve garna 01-2345678 ma customer care ma samparka garnuhos. Tapailo order ID ra payment details provide garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Refund Tracking: Available in your account dashboard. Usage Tip: Log in to your account to track refund status.",
+        "response": "Hajur, tapailo account dashboard bata refund status track garna sakincha. Account ma login garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Payment Confirmation: Sent via email after successful payment. Usage Tip: Check your spam folder if you don't receive the email.",
+        "response": "Hajur, payment successful bhayo bhane email bata confirmation paunuhuncha. Spam folder check garnu hola yadi email paunuhunna bhane."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit kati ho?",
+        "context": "Retry Limit: 3 attempts per payment method. Usage Tip: Use an alternative payment method after 3 failed attempts.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Gateway Down: Retry after some time or use an alternative payment method. Usage Tip: Check the website for updates.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Add Payment Method: Available in your account settings. Usage Tip: Log in to your account to add a new payment method.",
+        "response": "Hajur, tapailo account settings bata naya payment method add garna sakincha. Account ma login garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Remove Payment Method: Available in your account settings. Usage Tip: Log in to your account to remove a payment method.",
+        "response": "Hajur, tapailo account settings bata payment method remove garna sakincha. Account ma login garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi PayPal use garna sakchu?",
+        "context": "Payment Methods: PayPal is not supported. Alternative Methods: Esewa, Khalti, or Credit/Debit Card. Usage Tip: Use Esewa or Khalti for mobile-based payments.",
+        "response": "Hajur, PayPal bata payment garna mildaina. Tapailai Esewa, Khalti, ya Credit/Debit Card use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi cryptocurrency use garna sakchu?",
+        "context": "Payment Methods: Cryptocurrency is not supported. Alternative Methods: Esewa, Khalti, or Credit/Debit Card. Usage Tip: Use Esewa or Khalti for mobile-based payments.",
+        "response": "Hajur, cryptocurrency bata payment garna mildaina. Tapailai Esewa, Khalti, ya Credit/Debit Card use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi bank transfer garna sakchu?",
+        "context": "Payment Methods: Bank transfer is not supported. Alternative Methods: Esewa, Khalti, or Credit/Debit Card. Usage Tip: Use Esewa or Khalti for mobile-based payments.",
+        "response": "Hajur, bank transfer bata payment garna mildaina. Tapailai Esewa, Khalti, ya Credit/Debit Card use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi UPI use garna sakchu?",
+        "context": "Payment Methods: UPI is not supported. Alternative Methods: Esewa, Khalti, or Credit/Debit Card. Usage Tip: Use Esewa or Khalti for mobile-based payments.",
+        "response": "Hajur, UPI bata payment garna mildaina. Tapailai Esewa, Khalti, ya Credit/Debit Card use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi installment ma tirna sakchu?",
+        "context": "Payment Methods: Installment payment is only available for Credit Card payments on orders above NPR 20,000. Usage Tip: Check with your bank for installment options.",
+        "response": "Hajur, installment payment NPR 20,000 mathi ko order ma Credit Card bata matra available cha. Tapailo bank sanga installment options ko barema sodhnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi partial payment option cha?",
+        "context": "Payment Methods: Partial payment is not supported. Usage Tip: Pay the full amount using a single payment method.",
+        "response": "Hajur, partial payment garna mildaina. Full amount ekai payment method bata tirnu huncha."
+    },
+    {
+        "question": "Payment garna ko lagi multiple methods combine garna sakchu?",
+        "context": "Payment Methods: Combining multiple payment methods is not supported. Usage Tip: Use a single payment method for your order.",
+        "response": "Hajur, multiple payment methods combine garera payment garna mildaina. Ekai payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder disable garna sakchu?",
+        "context": "Payment Reminder: Reminders cannot be disabled. Usage Tip: Pay on time to avoid reminders.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment currency change garna sakchu?",
+        "context": "Payment Currency: All payments must be made in NPR. Currency change is not supported. Usage Tip: Use a currency converter for reference.",
+        "response": "Hajur, payment currency change garna mildaina. Sabai payments NPR ma huncha. Currency converter use garnuhos reference ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment method change garna sakchu?",
+        "context": "Payment Method Change: Payment method cannot be changed after order confirmation. Usage Tip: Choose the correct payment method during checkout.",
+        "response": "Hajur, order confirm bhayo bhane payment method change garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment plan set garna sakchu?",
+        "context": "Payment Plan: Payment plans are only available for Credit Card payments on orders above NPR 20,000. Usage Tip: Check with your bank for payment plan options.",
+        "response": "Hajur, payment plan NPR 20,000 mathi ko order ma Credit Card bata matra available cha. Tapailo bank sanga payment plan options ko barema sodhnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute resolve garna sakchu?",
+        "context": "Payment Dispute: Disputes cannot be resolved automatically. Contact customer care at 01-2345678 for assistance. Usage Tip: Provide your order ID and payment details.",
+        "response": "Hajur, payment dispute resolve garna 01-2345678 ma customer care ma samparka garnuhos. Tapailo order ID ra payment details provide garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit cha?",
+        "context": "Payment Retry Limit: 3 attempts per payment method. Usage Tip: Use an alternative payment method after 3 failed attempts.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Payment Gateway Down: Retry after some time or use an alternative payment method. Usage Tip: Check the website for updates.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Add Payment Method: Not supported. Usage Tip: Use the available payment methods during checkout.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Remove Payment Method: Not supported. Usage Tip: Use the available payment methods during checkout.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Payment Reminder: Reminders cannot be disabled. Usage Tip: Pay on time to avoid reminders.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Notification Management: Not supported. Usage Tip: Log in to your account to check notifications.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Refund Tracking: Not supported. Usage Tip: Contact customer care for refund status.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Payment Confirmation: Not sent automatically. Usage Tip: Check your account dashboard for payment confirmation.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit kati ho?",
+        "context": "Payment Retry Limit: 3 attempts per payment method. Usage Tip: Use an alternative payment method after 3 failed attempts.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Payment Gateway Down: Retry after some time or use an alternative payment method. Usage Tip: Check the website for updates.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Add Payment Method: Not supported. Usage Tip: Use the available payment methods during checkout.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Remove Payment Method: Not supported. Usage Tip: Use the available payment methods during checkout.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Payment Reminder: Reminders cannot be disabled. Usage Tip: Pay on time to avoid reminders.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Notification Management: Not supported. Usage Tip: Log in to your account to check notifications.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Refund Tracking: Not supported. Usage Tip: Contact customer care for refund status.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Payment Confirmation: Not sent automatically. Usage Tip: Check your account dashboard for payment confirmation.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit kati ho?",
+        "context": "Payment Retry Limit: 3 attempts per payment method. Usage Tip: Use an alternative payment method after 3 failed attempts.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Payment Gateway Down: Retry after some time or use an alternative payment method. Usage Tip: Check the website for updates.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Add Payment Method: Not supported. Usage Tip: Use the available payment methods during checkout.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Remove Payment Method: Not supported. Usage Tip: Use the available payment methods during checkout.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Payment Reminder: Reminders cannot be disabled. Usage Tip: Pay on time to avoid reminders.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Notification Management: Not supported. Usage Tip: Log in to your account to check notifications.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Refund Tracking: Not supported. Usage Tip: Contact customer care for refund status.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Payment Confirmation: Not sent automatically. Usage Tip: Check your account dashboard for payment confirmation.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit kati ho?",
+        "context": "Payment Retry Limit: 3 attempts per payment method. Usage Tip: Use an alternative payment method after 3 failed attempts.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Payment Gateway Down: Retry after some time or use an alternative payment method. Usage Tip: Check the website for updates.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Add Payment Method: Not supported. Usage Tip: Use the available payment methods during checkout.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Remove Payment Method: Not supported. Usage Tip: Use the available payment methods during checkout.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Payment Reminder: Reminders cannot be disabled. Usage Tip: Pay on time to avoid reminders.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Notification Management: Not supported. Usage Tip: Log in to your account to check notifications.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Refund Tracking: Not supported. Usage Tip: Contact customer care for refund status.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Payment Confirmation: Not sent automatically. Usage Tip: Check your account dashboard for payment confirmation.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi PayPal use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, PayPal bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi cryptocurrency use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, cryptocurrency bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi bank transfer garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, bank transfer bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi UPI use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, UPI bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi installment ma tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, installment ma payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi partial payment option cha?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, partial payment garna mildaina. Full amount ekai payment method bata tirnu huncha."
+    },
+    {
+        "question": "Payment garna ko lagi multiple methods combine garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, multiple payment methods combine garera payment garna mildaina. Ekai payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment currency change garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment currency change garna mildaina. Sabai payments NPR ma huncha."
+    },
+    {
+        "question": "Payment garna ko lagi payment method change garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, order confirm bhayo bhane payment method change garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment plan set garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment plan set garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute resolve garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute resolve garna 01-2345678 ma customer care ma samparka garnuhos. Tapailo order ID ra payment details provide garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit cha?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit kati ho?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit kati ho?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi PayPal use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, PayPal bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi cryptocurrency use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, cryptocurrency bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi bank transfer garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, bank transfer bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi UPI use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, UPI bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi installment ma tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, installment ma payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi partial payment option cha?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, partial payment garna mildaina. Full amount ekai payment method bata tirnu huncha."
+    },
+    {
+        "question": "Payment garna ko lagi multiple methods combine garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, multiple payment methods combine garera payment garna mildaina. Ekai payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment currency change garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment currency change garna mildaina. Sabai payments NPR ma huncha."
+    },
+    {
+        "question": "Payment garna ko lagi payment method change garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, order confirm bhayo bhane payment method change garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment plan set garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment plan set garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute resolve garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute resolve garna 01-2345678 ma customer care ma samparka garnuhos. Tapailo order ID ra payment details provide garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit cha?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit kati ho?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry limit kati ho?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry ko limit 3 attempts ho. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway down bhayo bhane ke garnu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway down bhayo bhane kehi samaya pachi feri try garnuhos ya arko payment method use garnuhos. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari add garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, naya payment method add garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari remove garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method remove garna mildaina. Checkout garda upalabdh payment methods use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder disable garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari manage garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment notifications manage garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, refund status track garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari pauchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi mobile banking use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, mobile banking bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi QR code scan garera tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, QR code scan garera payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi Google Pay use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, Google Pay bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi Apple Pay use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, Apple Pay bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi international payment method use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, international payment method bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi wallet balance combine garera tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, wallet balance combine garera payment garna mildaina. Ekai payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment link bata tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment link bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi payment voucher use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment voucher use garera payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi payment installment ma tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, installment ma payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi payment split garera tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment split garera tirna mildaina. Full amount ekai payment method bata tirnu huncha."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari customize garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder customize garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari off garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment notification off garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari cancel garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, refund cancel garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation SMS kasari pauchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation SMS automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry disable garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari check garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway check garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari update garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method update garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari export garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history export garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari print garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt print garna mildaina. Account dashboard bata receipt download garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari escalate garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute escalate garna mildaina. Customer care ma samparka garnuhos dispute resolve ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari resend garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email resend garna mildaina. Account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari enable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry enable garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari test garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway test garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari verify garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method verify garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari filter garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history filter garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari share garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt share garna mildaina. Account dashboard bata receipt download garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute track garna mildaina. Customer care ma samparka garnuhos dispute status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari customize garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email customize garna mildaina. Account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari limit garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry limit garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari monitor garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway monitor garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari authenticate garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method authenticate garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari sort garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history sort garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari download garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt download garna mildaina. Account dashboard bata receipt hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari resolve garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute resolve garna mildaina. Customer care ma samparka garnuhos dispute status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari resend garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email resend garna mildaina. Account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari enable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry enable garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari test garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway test garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari verify garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method verify garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari filter garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history filter garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari share garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt share garna mildaina. Account dashboard bata receipt download garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute track garna mildaina. Customer care ma samparka garnuhos dispute status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari customize garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email customize garna mildaina. Account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari limit garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry limit garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari monitor garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway monitor garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari authenticate garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method authenticate garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari sort garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history sort garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari download garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt download garna mildaina. Account dashboard bata receipt hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari resolve garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute resolve garna mildaina. Customer care ma samparka garnuhos dispute status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi mobile banking use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, mobile banking bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi QR code scan garera tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, QR code scan garera payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi Google Pay use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, Google Pay bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi Apple Pay use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, Apple Pay bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi international payment method use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, international payment method bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi wallet balance combine garera tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, wallet balance combine garera payment garna mildaina. Ekai payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment link bata tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment link bata payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi payment voucher use garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment voucher use garera payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi payment installment ma tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, installment ma payment garna mildaina. Tapailai Credit/Debit Card, Esewa, Khalti, ya Cash on Delivery use garna sakincha."
+    },
+    {
+        "question": "Payment garna ko lagi payment split garera tirna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment split garera tirna mildaina. Full amount ekai payment method bata tirnu huncha."
+    },
+    {
+        "question": "Payment garna ko lagi payment reminder kasari customize garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment reminder customize garna mildaina. Time ma tirnu hola reminder bata bachna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment notification kasari off garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment notification off garna mildaina. Account ma login garnuhos notifications herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment refund kasari cancel garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, refund cancel garna mildaina. Customer care ma samparka garnuhos refund status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation SMS kasari pauchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation SMS automatic pathaudaina. Tapailo account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari disable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry disable garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari check garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway check garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari update garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method update garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari export garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history export garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari print garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt print garna mildaina. Account dashboard bata receipt download garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari escalate garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute escalate garna mildaina. Customer care ma samparka garnuhos dispute resolve ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari resend garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email resend garna mildaina. Account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari enable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry enable garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari test garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway test garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari verify garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method verify garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari filter garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history filter garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari share garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt share garna mildaina. Account dashboard bata receipt download garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute track garna mildaina. Customer care ma samparka garnuhos dispute status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari customize garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email customize garna mildaina. Account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari limit garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry limit garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari monitor garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway monitor garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari authenticate garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method authenticate garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari sort garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history sort garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari download garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt download garna mildaina. Account dashboard bata receipt hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari resolve garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute resolve garna mildaina. Customer care ma samparka garnuhos dispute status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari resend garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email resend garna mildaina. Account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari enable garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry enable garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari test garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway test garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari verify garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method verify garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari filter garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history filter garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari share garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt share garna mildaina. Account dashboard bata receipt download garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari track garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute track garna mildaina. Customer care ma samparka garnuhos dispute status ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment confirmation email kasari customize garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment confirmation email customize garna mildaina. Account dashboard ma confirmation hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment retry kasari limit garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment retry limit garna mildaina. 3 choti fail bhayo bhane arko payment method use garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment gateway kasari monitor garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment gateway monitor garna mildaina. Website ma updates ko lagi hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment method kasari authenticate garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment method authenticate garna mildaina. Checkout garda sahi payment method select garnuhos."
+    },
+    {
+        "question": "Payment garna ko lagi payment history kasari sort garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment history sort garna mildaina. Account ma login garnuhos history herna ko lagi."
+    },
+    {
+        "question": "Payment garna ko lagi payment receipt kasari download garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment receipt download garna mildaina. Account dashboard bata receipt hernu hola."
+    },
+    {
+        "question": "Payment garna ko lagi payment dispute kasari resolve garna sakchu?",
+        "context": "Accepted Payment Methods: Credit/Debit Card, Esewa, Khalti, Cash on Delivery.",
+        "response": "Hajur, payment dispute resolve garna mildaina. Customer care ma samparka garnuhos dispute status ko lagi."
+    }
+]
