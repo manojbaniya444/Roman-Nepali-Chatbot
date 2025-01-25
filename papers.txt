@@ -7,3 +7,5 @@
 - HuggingFace
 - Cross language transfer
 - some other chatbots paper
+- Alpaca format prompt
+- some papers for Chatbot
