@@ -1,0 +1,32 @@
+Generate a dataset in Roman Nepali Language.
+
+I want to use this dataset for Fine Tuning LLM for ecommerce customer support chatbot with RAG use case.
+Generate in JSON format on different ecommerce inquiry like product inquiry,delivery options,payment methods,discounts etc.
+
+for example:
+{
+question: "Store ko location kaha xa?",
+context: "Hamro store ko name [XYZ] ho, hamro store XXX ma xa,...,
+response: "Hamro store XXX ma xa"
+}
+
+{
+question: "Redmi Note 9 ko price kati ho?",
+context: "Product Details: name: Redmi Note 9 pro , price: 10100 , stock: True, description: ..., ...",
+response: "Redmi Note 9 ko price Rs. 10100 ho"
+}
+
+{
+question: "Redmi Note 9 stock ma xa ki xaina or Redmi Note 9 pro available xa ?",
+context: "Product Details: name: Redmi Note 9 pro , price: 10100 , stock: True, description: ..., ...",
+response: "Redmi Note 9 pro stock ma available xa."
+}
+
+{
+question: "Redmi Note 9 stock ma xa ki xaina or Redmi Note 9 pro available xa ?",
+context: "Product Details: name: Redmi Note 9 pro , price: 10100 , stock: False, description: ..., ...",
+response: "Redmi Note 9 pro stock ma available xaina."
+}
+
+like this generate for all kinds of ecommerce data
+
