@@ -1,0 +1,546 @@
+[
+    {
+        "instruction": "Nepali ma namaste kasari bhaninchha?",
+        "output": "Nepali ma namaste lai 'Namaste' nai bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko capital k ho?",
+        "output": "Nepal ko capital Kathmandu ho."
+    },
+    {
+        "instruction": "Mero naam John ho. Mero parichaya dinus.",
+        "output": "Namaste John, tapai lai bhetera khusi lagyo. Ma tapaiko saathi hun."
+    },
+    {
+        "instruction": "Nepali ma 'thank you' kasari bhaninchha?",
+        "output": "Nepali ma 'thank you' lai 'Dhanyabad' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ma kati ota jilla chan?",
+        "output": "Nepal ma 77 ota jilla chan."
+    },
+    {
+        "instruction": "Mero ghar Pokhara ma cha. Pokhara ko barema kehi bhanus.",
+        "output": "Pokhara Nepal ko ek ramro turist sthal ho. Yo Phewa Tal, Begnas Tal, ra Machhapuchhre Himal ko najik bhayeko cha."
+    },
+    {
+        "instruction": "Nepali ma 'good morning' kasari bhaninchha?",
+        "output": "Nepali ma 'good morning' lai 'Subha prabhat' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko national flower k ho?",
+        "output": "Nepal ko national flower Rhododendron ho."
+    },
+    {
+        "instruction": "Mero lagi ek samayik suggest garnus.",
+        "output": "Tapai le harek din subha 5 baje uthne ra 30 minute exercise garne samayik palan garnuhos."
+    },
+    {
+        "instruction": "Nepali ma 'I love you' kasari bhaninchha?",
+        "output": "Nepali ma 'I love you' lai 'Ma timilai maya garchhu' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko national bird k ho?",
+        "output": "Nepal ko national bird Lophophorus ho."
+    },
+    {
+        "instruction": "Mero lagi ek sano kahani sunaunus.",
+        "output": "Ek choti ek gadiya ra ek kukur thie. Gadiya le kukur lai bhanthyo, 'Timro awaz dherai loud cha.' Kukur le jawaab diyo, 'Tara mero awaz nai mero pehchan ho.'"
+    },
+    {
+        "instruction": "Nepali ma 'how are you?' kasari bhaninchha?",
+        "output": "Nepali ma 'how are you?' lai 'Tapai lai kasto cha?' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko national animal k ho?",
+        "output": "Nepal ko national animal Cow ho."
+    },
+    {
+        "instruction": "Mero lagi ek recipe suggest garnus.",
+        "output": "Tapai le Dal Bhat banauna saknuhunchha. Chawal, dal, tarkari, ra achar ko combination ho. Yo Nepali ko traditional khana ho."
+    },
+    {
+        "instruction": "Nepali ma 'good night' kasari bhaninchha?",
+        "output": "Nepali ma 'good night' lai 'Subha ratri' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko highest mountain k ho?",
+        "output": "Nepal ko highest mountain Mount Everest ho."
+    },
+    {
+        "instruction": "Mero lagi ek prashna banaunus.",
+        "output": "Tapai ko man parne Nepali khana k ho?"
+    },
+    {
+        "instruction": "Nepali ma 'happy birthday' kasari bhaninchha?",
+        "output": "Nepali ma 'happy birthday' lai 'Janma din ko subhakamana' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko national color k ho?",
+        "output": "Nepal ko national color crimson red ra blue ho."
+    },
+    {
+        "instruction": "Nepali ma 'water' lai ke bhaninchha?",
+        "output": "Nepali ma 'water' lai 'pani' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko national game k ho?",
+        "output": "Nepal ko national game volleyball ho."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus.",
+        "output": "Himal ko mathi udne pakhi, Mero desh ko shaan ho. Dharti ko maato ma basne, Mero Nepali aan ho."
+    },
+    {
+        "instruction": "Nepali ma 'sun' lai ke bhaninchha?",
+        "output": "Nepali ma 'sun' lai 'surya' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ma sabai bhanda popular festival k ho?",
+        "output": "Nepal ma sabai bhanda popular festival Dashain ra Tihar ho."
+    },
+    {
+        "instruction": "Mero lagi ek joke sunaunus.",
+        "output": "Euta manche le arkai lai sodhyo, 'Nepal ma sabai bhanda sasto ke ho?' Arkale jawaab diyo, 'Hamro opinion!'"
+    },
+    {
+        "instruction": "Nepali ma 'moon' lai ke bhaninchha?",
+        "output": "Nepali ma 'moon' lai 'chandra' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda lamba nadi k ho?",
+        "output": "Nepal ko sabai bhanda lamba nadi Karnali ho."
+    },
+    {
+        "instruction": "Mero lagi ek motivational quote lekhnus.",
+        "output": "Je pani hunchha, ramrai hunchha. Bas tapai le afno uttam dine ho."
+    },
+    {
+        "instruction": "Nepali ma 'friend' lai ke bhaninchha?",
+        "output": "Nepali ma 'friend' lai 'sathi' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular dance k ho?",
+        "output": "Nepal ko sabai bhanda popular dance 'Maruni' ho."
+    },
+    {
+        "instruction": "Mero lagi ek riddle banaunus.",
+        "output": "Ma bhanda mitho, ma bhanda piro, ke ho ma? Jawaab: khursani."
+    },
+    {
+        "instruction": "Nepali ma 'mother' lai ke bhaninchha?",
+        "output": "Nepali ma 'mother' lai 'ama' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular geet k ho?",
+        "output": "Nepal ko sabai bhanda popular geet 'Resham Firiri' ho."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus.",
+        "output": "Ek choti ek boka ra ek kukur thie. Boka le kukur lai bhanthyo, 'Timro awaz dherai loud cha.' Kukur le jawaab diyo, 'Tara mero awaz nai mero pehchan ho.'"
+    },
+    {
+        "instruction": "Nepali ma 'father' lai ke bhaninchha?",
+        "output": "Nepali ma 'father' lai 'baba' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular temple k ho?",
+        "output": "Nepal ko sabai bhanda popular temple Pashupatinath Temple ho."
+    },
+    {
+        "instruction": "Mero lagi ek riddle solve garnus. Ma bhanda mitho, ma bhanda piro, ke ho ma?",
+        "output": "Jawaab: khursani."
+    },
+    {
+        "instruction": "Nepali ma 'sister' lai ke bhaninchha?",
+        "output": "Nepali ma 'sister' lai 'didi' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular lake k ho?",
+        "output": "Nepal ko sabai bhanda popular lake Phewa Lake ho."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus.",
+        "output": "Himal ko mathi udne pakhi, Mero desh ko shaan ho. Dharti ko maato ma basne, Mero Nepali aan ho."
+    },
+    {
+        "instruction": "Nepali ma 'brother' lai ke bhaninchha?",
+        "output": "Nepali ma 'brother' lai 'dai' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular mountain k ho?",
+        "output": "Nepal ko sabai bhanda popular mountain Mount Everest ho."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus.",
+        "output": "Ek choti ek boka ra ek kukur thie. Boka le kukur lai bhanthyo, 'Timro awaz dherai loud cha.' Kukur le jawaab diyo, 'Tara mero awaz nai mero pehchan ho.'"
+    },
+    {
+        "instruction": "Nepali ma 'grandmother' lai ke bhaninchha?",
+        "output": "Nepali ma 'grandmother' lai 'hajuraama' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular festival k ho?",
+        "output": "Nepal ko sabai bhanda popular festival Dashain ra Tihar ho."
+    },
+    {
+        "instruction": "Mero lagi ek motivational quote lekhnus.",
+        "output": "Je pani hunchha, ramrai hunchha. Bas tapai le afno uttam dine ho."
+    },
+    {
+        "instruction": "Nepali ma 'grandfather' lai ke bhaninchha?",
+        "output": "Nepali ma 'grandfather' lai 'hajurbuwa' bhaninchha."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular dance k ho?",
+        "output": "Nepal ko sabai bhanda popular dance 'Maruni' ho."
+    },
+    {
+        "instruction": "Mero lagi ek riddle banaunus.",
+        "output": "Ma bhanda mitho, ma bhanda piro, ke ho ma? Jawaab: khursani."
+    },
+    {
+        "instruction": "Nepali ma 'computer' lai ke bhaninchha?",
+        "output": "Nepali ma 'computer' lai 'sangadhan yantra' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek shopping list banaunus.",
+        "output": "1. Chamal, 2. Dal, 3. Tel, 4. Nun, 5. Tarkari, 6. Achar, 7. Phalphal."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular trekking route k ho?",
+        "output": "Nepal ko sabai bhanda popular trekking route Everest Base Camp Trek ho."
+    },
+    {
+        "instruction": "Mero lagi ek daily routine suggest garnus.",
+        "output": "Subha 6 baje uthne, yoga garni, 8 baje breakfast garni, kaam ma focus garni, beluka 5 baje walk garni, raati 10 baje sute."
+    },
+    {
+        "instruction": "Nepali ma 'smartphone' lai ke bhaninchha?",
+        "output": "Nepali ma 'smartphone' lai 'chalachal foon' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short dialogue lekhnus dui manche ko bich ma.",
+        "output": "Ram: K cha Sita? Sita: Thik cha, timi kasto chau? Ram: Ma pani thik chu. Aaja ko plan ke ho? Sita: Aaja ma park ma walk garna jane sochiraheko chu."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular dish k ho?",
+        "output": "Nepal ko sabai bhanda popular dish Dal Bhat ho."
+    },
+    {
+        "instruction": "Mero lagi ek travel plan banaunus Pokhara ko lagi.",
+        "output": "Day 1: Phewa Lake ma boat ride, Day 2: Sarangkot ma sunrise herne, Day 3: Davis Falls ra Gupteshwor Cave ghumne, Day 4: Begnas Lake ma relax garne."
+    },
+    {
+        "instruction": "Nepali ma 'internet' lai ke bhaninchha?",
+        "output": "Nepali ma 'internet' lai 'antarik sanchar' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek biralo ra ek kukur ko barema.",
+        "output": "Ek choti ek biralo ra ek kukur thie. Biralo le kukur lai bhanthyo, 'Timro awaz dherai loud cha.' Kukur le jawaab diyo, 'Tara mero awaz nai mero pehchan ho.'"
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular museum k ho?",
+        "output": "Nepal ko sabai bhanda popular museum National Museum of Nepal ho."
+    },
+    {
+        "instruction": "Mero lagi ek recipe banaunus momo ko.",
+        "output": "1. Pitho ma pani ra masu mix garni. 2. Pitho lai ball banayera belni. 3. Masu ko filling rakhera pitho lai fold garni. 4. Momo lai steam garni 10-15 minutes samma."
+    },
+    {
+        "instruction": "Nepali ma 'television' lai ke bhaninchha?",
+        "output": "Nepali ma 'television' lai 'durdarshan' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek budget plan banaunus monthly ko lagi.",
+        "output": "1. Khana: 20,000, 2. Rent: 15,000, 3. Transportation: 5,000, 4. Entertainment: 3,000, 5. Savings: 7,000."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular historical place k ho?",
+        "output": "Nepal ko sabai bhanda popular historical place Bhaktapur Durbar Square ho."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus monsoon ko barema.",
+        "output": "Barsha aayo, dharti hariyo, Hamro mann ko pankha pani kholiyo. Jharna ko awaz, badal ko saaz, Monsoon le hamro jindagi lai rangiyo."
+    },
+    {
+        "instruction": "Nepali ma 'bicycle' lai ke bhaninchha?",
+        "output": "Nepali ma 'bicycle' lai 'sawari' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek workout plan banaunus beginner ko lagi.",
+        "output": "1. 10 minutes warm-up, 2. 15 minutes cardio, 3. 10 minutes strength training, 4. 5 minutes cool-down."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular river k ho?",
+        "output": "Nepal ko sabai bhanda popular river Trishuli ho."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek himal ra ek pahad ko barema.",
+        "output": "Ek choti ek himal ra ek pahad thie. Himal le pahad lai bhanthyo, 'Ma timi bhanda agadi chu.' Pahad le jawaab diyo, 'Tara ma timi bhanda dherai stable chu.'"
+    },
+    {
+        "instruction": "Nepali ma 'airplane' lai ke bhaninchha?",
+        "output": "Nepali ma 'airplane' lai 'hawaijahaj' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek study schedule banaunus exam ko lagi.",
+        "output": "Subha 6-8: Math, 9-11: Science, 12-1: Break, 2-4: Nepali, 5-7: Social Studies."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular national park k ho?",
+        "output": "Nepal ko sabai bhanda popular national park Chitwan National Park ho."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus winter ko barema.",
+        "output": "Jado ko samaya, dhundho le dhakeko, Hamro mann ko agni le hami lai tateko. Sital hawa, garam chiya, Winter le hamro jindagi lai ramro banayo."
+    },
+    {
+        "instruction": "Nepali ma 'train' lai ke bhaninchha?",
+        "output": "Nepali ma 'train' lai 'relgadi' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek weekend plan banaunus family ko lagi.",
+        "output": "Subha picnic ma jane, beluka movie herne, raati family sanga game kheline."
+    },
+    {
+        "instruction": "Nepali ma 'rainbow' lai ke bhaninchha?",
+        "output": "Nepali ma 'rainbow' lai 'indreni' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek raja ra ek kisaan ko barema.",
+        "output": "Ek choti ek raja ra ek kisaan thie. Raja le kisaan lai sodhyo, 'Timile kati mehanat garnu hunchha?' Kisaan le jawaab diyo, 'Mehanat nai mero jindagi ho.'"
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular festival k ho?",
+        "output": "Nepal ko sabai bhanda popular festival Dashain ra Tihar ho."
+    },
+    {
+        "instruction": "Mero lagi ek healthy breakfast recipe banaunus.",
+        "output": "1. Oats ma pani halera boil garni. 2. Doodh ra honey mix garni. 3. Top ma fruits ra nuts chadera serve garni."
+    },
+    {
+        "instruction": "Nepali ma 'butterfly' lai ke bhaninchha?",
+        "output": "Nepali ma 'butterfly' lai 'putali' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus summer ko barema.",
+        "output": "Garmi ko gham, dharti lai tato, Hamro mann ko pankha le hami lai sato. Phulharu ko rang, jindagi ko sang, Summer le hamro jindagi lai ramro banayo."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular mountain k ho?",
+        "output": "Nepal ko sabai bhanda popular mountain Mount Everest ho."
+    },
+    {
+        "instruction": "Mero lagi ek travel plan banaunus Chitwan National Park ko lagi.",
+        "output": "Day 1: Elephant safari, Day 2: Jungle walk ra bird watching, Day 3: Tharu cultural program herne, Day 4: Canoe ride ra ghar feri."
+    },
+    {
+        "instruction": "Nepali ma 'camera' lai ke bhaninchha?",
+        "output": "Nepali ma 'camera' lai 'chitrakaar yantra' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek bagh ra ek bandar ko barema.",
+        "output": "Ek choti ek bagh ra ek bandar thie. Bagh le bandar lai bhanthyo, 'Timro jindagi dherai sajilo cha.' Bandar le jawaab diyo, 'Tara ma timi bhanda dherai khusi chu.'"
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular lake k ho?",
+        "output": "Nepal ko sabai bhanda popular lake Phewa Lake ho."
+    },
+    {
+        "instruction": "Mero lagi ek workout plan banaunus weight loss ko lagi.",
+        "output": "1. 20 minutes cardio, 2. 15 minutes strength training, 3. 10 minutes stretching, 4. 5 minutes cool-down."
+    },
+    {
+        "instruction": "Nepali ma 'guitar' lai ke bhaninchha?",
+        "output": "Nepali ma 'guitar' lai 'sitar' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus spring ko barema.",
+        "output": "Basant ko samaya, phulharu ko mela, Hamro mann ko pankha le hami lai ramro gela. Hariyo dharti, nilo akash, Spring le hamro jindagi lai rangiyo."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular temple k ho?",
+        "output": "Nepal ko sabai bhanda popular temple Pashupatinath Temple ho."
+    },
+    {
+        "instruction": "Mero lagi ek daily routine banaunus productive banauna.",
+        "output": "Subha 6 baje uthne, yoga garni, 8 baje breakfast garni, kaam ma focus garni, beluka 5 baje walk garni, raati 10 baje sute."
+    },
+    {
+        "instruction": "Nepali ma 'library' lai ke bhaninchha?",
+        "output": "Nepali ma 'library' lai 'pustakalaya' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek haati ra ek chiriya ko barema.",
+        "output": "Ek choti ek haati ra ek chiriya thie. Haati le chiriya lai bhanthyo, 'Timro awaz dherai melodious cha.' Chiriya le jawaab diyo, 'Tara ma timi bhanda dherai swatantra chu.'"
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular river k ho?",
+        "output": "Nepal ko sabai bhanda popular river Trishuli ho."
+    },
+    {
+        "instruction": "Mero lagi ek study plan banaunus exam ko lagi.",
+        "output": "Subha 6-8: Math, 9-11: Science, 12-1: Break, 2-4: Nepali, 5-7: Social Studies."
+    },
+    {
+        "instruction": "Nepali ma 'hospital' lai ke bhaninchha?",
+        "output": "Nepali ma 'hospital' lai 'aspatel' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus autumn ko barema.",
+        "output": "Sharad ko samaya, patjhar ko mela, Hamro mann ko pankha le hami lai ramro gela. Sital hawa, ramro mausam, Autumn le hamro jindagi lai rangiyo."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular national park k ho?",
+        "output": "Nepal ko sabai bhanda popular national park Chitwan National Park ho."
+    },
+    {
+        "instruction": "Mero lagi ek weekend plan banaunus friends ko lagi.",
+        "output": "Subha picnic ma jane, beluka movie herne, raati game kheline."
+    },
+    {
+        "instruction": "Nepali ma 'restaurant' lai ke bhaninchha?",
+        "output": "Nepali ma 'restaurant' lai 'bhojanalaya' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek bagh ra ek biralo ko barema.",
+        "output": "Ek choti ek bagh ra ek biralo thie. Bagh le biralo lai bhanthyo, 'Timro jindagi dherai sajilo cha.' Biralo le jawaab diyo, 'Tara ma timi bhanda dherai khusi chu.'"
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular historical place k ho?",
+        "output": "Nepal ko sabai bhanda popular historical place Bhaktapur Durbar Square ho."
+    },
+    {
+        "instruction": "Mero lagi ek travel plan banaunus Lumbini ko lagi.",
+        "output": "Day 1: Maya Devi Temple herne, Day 2: Monastic zone ghumne, Day 3: Lumbini Museum ra World Peace Pagoda ghumne."
+    },
+    {
+        "instruction": "Nepali ma 'school' lai ke bhaninchha?",
+        "output": "Nepali ma 'school' lai 'bidyalaya' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus monsoon ko barema.",
+        "output": "Barsha aayo, dharti hariyo, Hamro mann ko pankha pani kholiyo. Jharna ko awaz, badal ko saaz, Monsoon le hamro jindagi lai rangiyo."
+    },
+    {
+        "instruction": "Nepali ma 'rainbow' lai ke bhaninchha?",
+        "output": "Nepali ma 'rainbow' lai 'indreni' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek raja ra ek kisaan ko barema.",
+        "output": "Ek choti ek raja ra ek kisaan thie. Raja le kisaan lai sodhyo, 'Timile kati mehanat garnu hunchha?' Kisaan le jawaab diyo, 'Mehanat nai mero jindagi ho.'"
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular festival k ho?",
+        "output": "Nepal ko sabai bhanda popular festival Dashain ra Tihar ho."
+    },
+    {
+        "instruction": "Mero lagi ek healthy breakfast recipe banaunus.",
+        "output": "1. Oats ma pani halera boil garni. 2. Doodh ra honey mix garni. 3. Top ma fruits ra nuts chadera serve garni."
+    },
+    {
+        "instruction": "Nepali ma 'butterfly' lai ke bhaninchha?",
+        "output": "Nepali ma 'butterfly' lai 'putali' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus summer ko barema.",
+        "output": "Garmi ko gham, dharti lai tato, Hamro mann ko pankha le hami lai sato. Phulharu ko rang, jindagi ko sang, Summer le hamro jindagi lai ramro banayo."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular mountain k ho?",
+        "output": "Nepal ko sabai bhanda popular mountain Mount Everest ho."
+    },
+    {
+        "instruction": "Mero lagi ek travel plan banaunus Chitwan National Park ko lagi.",
+        "output": "Day 1: Elephant safari, Day 2: Jungle walk ra bird watching, Day 3: Tharu cultural program herne, Day 4: Canoe ride ra ghar feri."
+    },
+    {
+        "instruction": "Nepali ma 'camera' lai ke bhaninchha?",
+        "output": "Nepali ma 'camera' lai 'chitrakaar yantra' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek bagh ra ek bandar ko barema.",
+        "output": "Ek choti ek bagh ra ek bandar thie. Bagh le bandar lai bhanthyo, 'Timro jindagi dherai sajilo cha.' Bandar le jawaab diyo, 'Tara ma timi bhanda dherai khusi chu.'"
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular lake k ho?",
+        "output": "Nepal ko sabai bhanda popular lake Phewa Lake ho."
+    },
+    {
+        "instruction": "Mero lagi ek workout plan banaunus weight loss ko lagi.",
+        "output": "1. 20 minutes cardio, 2. 15 minutes strength training, 3. 10 minutes stretching, 4. 5 minutes cool-down."
+    },
+    {
+        "instruction": "Nepali ma 'guitar' lai ke bhaninchha?",
+        "output": "Nepali ma 'guitar' lai 'sitar' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus spring ko barema.",
+        "output": "Basant ko samaya, phulharu ko mela, Hamro mann ko pankha le hami lai ramro gela. Hariyo dharti, nilo akash, Spring le hamro jindagi lai rangiyo."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular temple k ho?",
+        "output": "Nepal ko sabai bhanda popular temple Pashupatinath Temple ho."
+    },
+    {
+        "instruction": "Mero lagi ek daily routine banaunus productive banauna.",
+        "output": "Subha 6 baje uthne, yoga garni, 8 baje breakfast garni, kaam ma focus garni, beluka 5 baje walk garni, raati 10 baje sute."
+    },
+    {
+        "instruction": "Nepali ma 'library' lai ke bhaninchha?",
+        "output": "Nepali ma 'library' lai 'pustakalaya' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek haati ra ek chiriya ko barema.",
+        "output": "Ek choti ek haati ra ek chiriya thie. Haati le chiriya lai bhanthyo, 'Timro awaz dherai melodious cha.' Chiriya le jawaab diyo, 'Tara ma timi bhanda dherai swatantra chu.'"
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular river k ho?",
+        "output": "Nepal ko sabai bhanda popular river Trishuli ho."
+    },
+    {
+        "instruction": "Mero lagi ek study plan banaunus exam ko lagi.",
+        "output": "Subha 6-8: Math, 9-11: Science, 12-1: Break, 2-4: Nepali, 5-7: Social Studies."
+    },
+    {
+        "instruction": "Nepali ma 'hospital' lai ke bhaninchha?",
+        "output": "Nepali ma 'hospital' lai 'aspatel' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus autumn ko barema.",
+        "output": "Sharad ko samaya, patjhar ko mela, Hamro mann ko pankha le hami lai ramro gela. Sital hawa, ramro mausam, Autumn le hamro jindagi lai rangiyo."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular national park k ho?",
+        "output": "Nepal ko sabai bhanda popular national park Chitwan National Park ho."
+    },
+    {
+        "instruction": "Mero lagi ek weekend plan banaunus friends ko lagi.",
+        "output": "Subha picnic ma jane, beluka movie herne, raati game kheline."
+    },
+    {
+        "instruction": "Nepali ma 'restaurant' lai ke bhaninchha?",
+        "output": "Nepali ma 'restaurant' lai 'bhojanalaya' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short story lekhnus ek bagh ra ek biralo ko barema.",
+        "output": "Ek choti ek bagh ra ek biralo thie. Bagh le biralo lai bhanthyo, 'Timro jindagi dherai sajilo cha.' Biralo le jawaab diyo, 'Tara ma timi bhanda dherai khusi chu.'"
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda popular historical place k ho?",
+        "output": "Nepal ko sabai bhanda popular historical place Bhaktapur Durbar Square ho."
+    },
+    {
+        "instruction": "Mero lagi ek travel plan banaunus Lumbini ko lagi.",
+        "output": "Day 1: Maya Devi Temple herne, Day 2: Monastic zone ghumne, Day 3: Lumbini Museum ra World Peace Pagoda ghumne."
+    },
+    {
+        "instruction": "Nepali ma 'school' lai ke bhaninchha?",
+        "output": "Nepali ma 'school' lai 'bidyalaya' bhaninchha."
+    },
+    {
+        "instruction": "Mero lagi ek short poem lekhnus monsoon ko barema.",
+        "output": "Barsha aayo, dharti hariyo, Hamro mann ko pankha pani kholiyo. Jharna ko awaz, badal ko saaz, Monsoon le hamro jindagi lai rangiyo."
+    }
+]

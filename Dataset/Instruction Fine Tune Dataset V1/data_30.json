@@ -1,0 +1,647 @@
+[
+    {
+        "id": 1,
+        "roman_nepali": "ke cha?",
+        "english": "What's up?"
+    },
+    {
+        "id": 2,
+        "roman_nepali": "khana khayo?",
+        "english": "Did you eat?"
+    },
+    {
+        "id": 3,
+        "roman_nepali": "k gardai chas?",
+        "english": "What are you doing?"
+    },
+    {
+        "id": 4,
+        "roman_nepali": "malai thaha chaina",
+        "english": "I don't know."
+    },
+    {
+        "id": 5,
+        "roman_nepali": "kura garna man cha",
+        "english": "I want to talk."
+    },
+    {
+        "id": 6,
+        "roman_nepali": "kati bajyo?",
+        "english": "What time is it?"
+    },
+    {
+        "id": 7,
+        "roman_nepali": "sabai thik cha",
+        "english": "Everything is fine."
+    },
+    {
+        "id": 8,
+        "roman_nepali": "aba ke garne?",
+        "english": "What to do now?"
+    },
+    {
+        "id": 9,
+        "roman_nepali": "ramailo gari hai!",
+        "english": "Have fun!"
+    },
+    {
+        "id": 10,
+        "roman_nepali": "ma aaudai chu",
+        "english": "I am coming."
+    },
+    {
+        "id": 11,
+        "roman_nepali": "tesai chill gara",
+        "english": "Just relax."
+    },
+    {
+        "id": 12,
+        "roman_nepali": "dhilo nagara",
+        "english": "Don't be late."
+    },
+    {
+        "id": 13,
+        "roman_nepali": "phone garera bhana",
+        "english": "Call and let me know."
+    },
+    {
+        "id": 14,
+        "roman_nepali": "ramro cha!",
+        "english": "It's good!"
+    },
+    {
+        "id": 15,
+        "roman_nepali": "kasto garo lagcha",
+        "english": "It feels so hard."
+    },
+    {
+        "id": 16,
+        "roman_nepali": "pachhi kura garam",
+        "english": "Let's talk later."
+    },
+    {
+        "id": 17,
+        "roman_nepali": "yo k ho?",
+        "english": "What is this?"
+    },
+    {
+        "id": 18,
+        "roman_nepali": "malai man parcha",
+        "english": "I like it."
+    },
+    {
+        "id": 19,
+        "roman_nepali": "dui minute ma aaudai chu",
+        "english": "I'll be there in two minutes."
+    },
+    {
+        "id": 20,
+        "roman_nepali": "ho ra?",
+        "english": "Is it?"
+    },
+    {
+        "id": 1,
+        "roman_nepali": "hijo raat ma chai dherai derai dherai barsha pachi purano sathi sanga bhete. dherai kura haru gariyo.",
+        "english": "Last night, I met an old friend after so many years. We talked about so many things."
+    },
+    {
+        "id": 2,
+        "roman_nepali": "aaja ma gharma chill garna khojda ni phone ma kaam le satayo.",
+        "english": "Today, I wanted to relax at home, but work calls kept bothering me."
+    },
+    {
+        "id": 3,
+        "roman_nepali": "kalpana gareko thiyo, tarika pani banako thiyo, tara sabai bigrera gayo. aba ke garne thaha chaina.",
+        "english": "I had imagined it, I had even made plans, but everything went wrong. Now, I don’t know what to do."
+    },
+    {
+        "id": 4,
+        "roman_nepali": "maile uslai aaja bihan sms pathaye, usko reply aayo ki aaidaina, thaha chaina.",
+        "english": "I sent her a text this morning. I don’t know if she’ll reply or not."
+    },
+    {
+        "id": 5,
+        "roman_nepali": "hijo ta yo manche le dherai ramailo garyo. jhanajhati sabailai hasayo.",
+        "english": "Yesterday, this guy was so funny. He made everyone laugh so much."
+    },
+    {
+        "id": 6,
+        "roman_nepali": "aba aaune mahina ta dherai busy huney jasto cha. sabai plan haru ekai choti parcha.",
+        "english": "Next month seems like it will be very busy. All the plans are happening at the same time."
+    },
+    {
+        "id": 7,
+        "roman_nepali": "timi sangai bhako bela dherai ramailo huncha. aba feri kaha ra kahile bheta hune thaha chaina.",
+        "english": "It’s always fun being with you. Now, I don’t know where or when we’ll meet again."
+    },
+    {
+        "id": 8,
+        "roman_nepali": "ghar bata nikliera belka samma ghuma ghuma gari thakau lagyo. aba sidhai sutne mood ma chu.",
+        "english": "I went out all day and wandered around till evening. Now I’m in the mood to go straight to bed."
+    },
+    {
+        "id": 9,
+        "roman_nepali": "bhancha ma purai disaster bho aaja. khana banako ni khana layak bhayena.",
+        "english": "Today was a complete disaster in the kitchen. The food I made wasn’t even edible."
+    },
+    {
+        "id": 10,
+        "roman_nepali": "malai chai aba euta ramro short trip ko dherai jarurat cha. dherai dherai stress cha.",
+        "english": "I really need a good short trip now. There’s just so much stress."
+    },
+    {
+        "id": 11,
+        "roman_nepali": "yo jindagi kasto ajib cha. manche haru badlincha, tarika haru badlincha, tara memories ta same rahanchan.",
+        "english": "Life is so strange. People change, ways change, but memories remain the same."
+    },
+    {
+        "id": 12,
+        "roman_nepali": "mero mobile ko battery ta sadai low huncha. aba ke buy garnu thik hola?",
+        "english": "My phone’s battery is always low. What should I buy now?"
+    },
+    {
+        "id": 13,
+        "roman_nepali": "kehi din hideko chaina. aba ta regular exercise suru garnu parcha jasto cha.",
+        "english": "I haven’t gone for a walk in days. I feel like I should start exercising regularly now."
+    },
+    {
+        "id": 14,
+        "roman_nepali": "hijo ta puro traffic ma atkiyo. kaam ma ni late bho. dherai frustrating din thiyo.",
+        "english": "Yesterday, I was completely stuck in traffic. I was late to work too. It was such a frustrating day."
+    },
+    {
+        "id": 15,
+        "roman_nepali": "tesai online browsing garna basda, dherai ramro ramro website ko information paaye.",
+        "english": "While randomly browsing online, I came across a lot of good websites with useful information."
+    },
+    {
+        "id": 16,
+        "roman_nepali": "sajha ko chai ekdam ramro scene thiyo. suryasta herda purai peaceful lagyo.",
+        "english": "The evening had such a beautiful view. Watching the sunset felt so peaceful."
+    },
+    {
+        "id": 17,
+        "roman_nepali": "hamro purano jagga bikri hune thiyo. tara aba ta tension badhi cha, kina ki deal confirm bhayena.",
+        "english": "Our old property was supposed to be sold. But now, there’s more tension because the deal hasn’t been confirmed."
+    },
+    {
+        "id": 18,
+        "roman_nepali": "maile Netflix ma naya series suru gare. suru ma ta ramro lagena, tara aba chai interesting lagcha.",
+        "english": "I started a new series on Netflix. Initially, I didn’t like it, but now it’s starting to get interesting."
+    },
+    {
+        "id": 19,
+        "roman_nepali": "maile aba budget calculation garnai parcha. aru jati ramailo gareni, yo kura ignore garna milena.",
+        "english": "I really need to do my budget calculations now. No matter how much fun I have, I can’t ignore this."
+    },
+    {
+        "id": 20,
+        "roman_nepali": "mero dost haru sangai ta aba hiking garna jane planning ma chu. ta ni aauney ho?",
+        "english": "I’m planning to go hiking with my friends now. Are you coming too?"
+    },
+    {
+        "id": 21,
+        "roman_nepali": "maile kalilo umar dekhi sangai padeko dost sanga aba ni regularly contact garna chhodya chu. aba ta usko khabar thaha nai hudaina.",
+        "english": "I have stopped regularly staying in touch with a friend I studied with since childhood. Now, I don't even know how they are doing."
+    },
+    {
+        "id": 22,
+        "roman_nepali": "aaja subha bihan ghar ma tea khadai ramailo music sune. ekdam peaceful feel bhayo.",
+        "english": "This morning, I had tea at home while listening to some cheerful music. It felt so peaceful."
+    },
+    {
+        "id": 23,
+        "roman_nepali": "pahila ta ma chai regularly jogging garthye. aba ta ek mahina bhayo exercise nai gareko chaina.",
+        "english": "I used to go jogging regularly. Now, it has been a month since I last exercised."
+    },
+    {
+        "id": 24,
+        "roman_nepali": "hamro purano ghar ko photo haru herera dherai nostalgia lagyo. tini din haru ko yaad dherai miss garchu.",
+        "english": "Looking at the old pictures of our house made me feel very nostalgic. I really miss those days."
+    },
+    {
+        "id": 25,
+        "roman_nepali": "aaja office ma ekdam thulo presentation thiyo. mero part ta ramro bhayo, tara pura team ko performance milera matra kaam huncha.",
+        "english": "Today, there was a big presentation at work. My part went well, but the entire team's performance needs to align for things to work out."
+    },
+    {
+        "id": 26,
+        "roman_nepali": "maile chai Netflix ko series suru gareko thiyo. suru ma boring lagyo, tara pachhi ekdam interesting bancha.",
+        "english": "I started a Netflix series. At first, it felt boring, but later it became very interesting."
+    },
+    {
+        "id": 27,
+        "roman_nepali": "yo barsha ma chai trekking ko plan jarur garne soch ma chu. aba chai pura planning start garna parcha.",
+        "english": "This year, I am definitely planning to go trekking. Now, I need to start planning everything."
+    },
+    {
+        "id": 28,
+        "roman_nepali": "malai chai aba purano jagga bikri garera naya thau ma gharmuni ko plan suru garna parcha.",
+        "english": "I now need to sell the old property and start planning to build a new house."
+    },
+    {
+        "id": 29,
+        "roman_nepali": "hijo ko meeting ta ekdam productive thiyo. sabai team members le aafno point clearly rakhe.",
+        "english": "Yesterday's meeting was very productive. All the team members presented their points clearly."
+    },
+    {
+        "id": 30,
+        "roman_nepali": "mero dost haru sangai aba summer ma short trip garne idea discuss gariyo. location ko ni finalize garna baki cha.",
+        "english": "I discussed the idea of a short trip with my friends for summer. We still need to finalize the location."
+    },
+    {
+        "id": 31,
+        "roman_nepali": "maile aba chai ghar ko renovation suru garna parcha jasto cha. kitchen ani living room dherai purano bhaisakyo.",
+        "english": "I think I need to start renovating the house now. The kitchen and living room have become very old."
+    },
+    {
+        "id": 32,
+        "roman_nepali": "aaja chai ekdam thakeko feel bhayo. aba chai rest garera energy recharge garna parcha.",
+        "english": "I felt very tired today. Now, I need to rest and recharge my energy."
+    },
+    {
+        "id": 33,
+        "roman_nepali": "maile naya camera kharid gare. aba chai photography ma interest lai seriously explore garna man cha.",
+        "english": "I bought a new camera. Now, I want to seriously explore my interest in photography."
+    },
+    {
+        "id": 34,
+        "roman_nepali": "hijo ko football match ekdam ramailo thiyo. aba agami mahina ko match lai live herne soch ma chu.",
+        "english": "Yesterday's football match was very exciting. Now, I am thinking of watching the next month's match live."
+    },
+    {
+        "id": 35,
+        "roman_nepali": "sathi haru sanga aba festival ko bela party garne plan discuss gariyo. dherai dherai ramailo huncha jasto cha.",
+        "english": "We discussed plans to have a party with friends during the festival. It seems like it's going to be so much fun."
+    },
+    {
+        "id": 36,
+        "roman_nepali": "yo lockdown ko samay ma chai online class ko experience ekdam naya ra challenging thiyo.",
+        "english": "During this lockdown, the experience of online classes was very new and challenging."
+    },
+    {
+        "id": 37,
+        "roman_nepali": "tara kalpana gareko jasto project ko result chai aaye po dherai ramailo huncha. aba hard work ma focus garnu parcha.",
+        "english": "But if the project turns out the way I imagined, it will be so satisfying. Now, I need to focus on hard work."
+    },
+    {
+        "id": 38,
+        "roman_nepali": "maile chai dherai samay pachi sathi haru sanga dinner ma bhaag liye. ekdam ramailo lagyo.",
+        "english": "After a long time, I joined my friends for dinner. It felt really good."
+    },
+    {
+        "id": 39,
+        "roman_nepali": "hijo bazaar ma ekdam traffic bhayo. aba ghumnu ho bhane dherai ramro time choose garna parcha.",
+        "english": "Yesterday, there was so much traffic in the market. Now, if we go out, we need to pick a better time."
+    },
+    {
+        "id": 40,
+        "roman_nepali": "merai choice ko movie sabai le man parcha bhanne ta sochte ko thiye. aba aaja raat movie night plan cha.",
+        "english": "I thought everyone would like the movie I chose. Now, we have a movie night planned for tonight."
+    },
+    {
+        "id": 41,
+        "roman_nepali": "mero bhai le aaja exam diyeko cha. usko preparation ramro cha, tara usle tension liyeko jasto lagcha.",
+        "english": "My younger brother had his exam today. He was well-prepared, but he seemed nervous."
+    },
+    {
+        "id": 42,
+        "roman_nepali": "hami aba dashain ko bela purano thau ma sabai sathi haru sanga bhetnu parcha bhanne discuss gareko thiyo.",
+        "english": "We were discussing meeting all our friends at our old place during Dashain."
+    },
+    {
+        "id": 43,
+        "roman_nepali": "padhai ko bela maile ekdam struggle gare. aba ta success ko feeling ekdam satisfying cha.",
+        "english": "I struggled a lot during my studies. Now, the feeling of success is very satisfying."
+    },
+    {
+        "id": 44,
+        "roman_nepali": "mero keti sathi le malai ekdam thoughtful gift diyin. ma dherai surprised bhae.",
+        "english": "My girlfriend gave me a very thoughtful gift. I was so surprised."
+    },
+    {
+        "id": 45,
+        "roman_nepali": "sanjha ko time ma chai family sanga khana khayera TV herna ekdam relaxing lagcha.",
+        "english": "In the evening, having dinner with family and watching TV feels very relaxing."
+    },
+    {
+        "id": 46,
+        "roman_nepali": "mero best friend le naye jagir start gareko cha. usko success le malai ekdam proud feel garayo.",
+        "english": "My best friend has started a new job. Her success made me feel so proud."
+    },
+    {
+        "id": 47,
+        "roman_nepali": "hijo ko baarish ma chai ma bhijeko thiye. aba ta sital sital feel garna milcha.",
+        "english": "Yesterday, I got drenched in the rain. Now, I can feel the coolness."
+    },
+    {
+        "id": 48,
+        "roman_nepali": "mero bike ko engine problem cha. aba chai mechanic ko time manage garna parcha.",
+        "english": "My bike has an engine problem. Now, I need to arrange a time with the mechanic."
+    },
+    {
+        "id": 49,
+        "roman_nepali": "ghar ko renovation ma chai kitchen ra dining area modern design ma change garna sochiraheko chu.",
+        "english": "For the house renovation, I am thinking of changing the kitchen and dining area to a modern design."
+    },
+    {
+        "id": 50,
+        "roman_nepali": "aaja boss le malai chai unexpected appreciation diyin. ma dherai motivated feel gariraheko chu.",
+        "english": "Today, my boss gave me unexpected appreciation. I feel very motivated."
+    },
+    {
+        "id": 51,
+        "roman_nepali": "mero sathi ko engagement party ma chai sabai jana ramailo garera dance gareko thiyo.",
+        "english": "At my friend's engagement party, everyone danced and had a great time."
+    },
+    {
+        "id": 52,
+        "roman_nepali": "hijo aaja ghar ko kam haru ekdam hectic cha. aba chai din ko ending relax ma garnu parcha.",
+        "english": "The household chores have been very hectic these days. Now, I need to end my day with some relaxation."
+    },
+    {
+        "id": 53,
+        "roman_nepali": "yo saal ma chai trekking ko route ekdam challenging choose gareko chu. excitement dherai cha.",
+        "english": "This year, I have chosen a very challenging trekking route. I am very excited."
+    },
+    {
+        "id": 54,
+        "roman_nepali": "maile chai pura mahina ma saving garera naya laptop kinne plan gareko chu.",
+        "english": "I have planned to save money throughout the month to buy a new laptop."
+    },
+    {
+        "id": 55,
+        "roman_nepali": "subha din ko start chai coffee sanga ekdam ramro huncha bhanne malai lagcha.",
+        "english": "I believe starting the day with coffee makes it so much better."
+    },
+    {
+        "id": 56,
+        "roman_nepali": "mero sathi le aba international university ma admission paako cha. usko excitement herera malai ni inspiration milcha.",
+        "english": "My friend has now been admitted to an international university. Seeing her excitement inspires me too."
+    },
+    {
+        "id": 57,
+        "roman_nepali": "hijo maile ekdam ramro book padheko thiyo. aba usko sequel ko wait garna parcha.",
+        "english": "Yesterday, I read a really good book. Now, I need to wait for its sequel."
+    },
+    {
+        "id": 58,
+        "roman_nepali": "aaja ma chai malai man parne dress lagayera outing gaye. ekdam confident feel bhayo.",
+        "english": "Today, I wore my favorite dress and went out. It made me feel so confident."
+    },
+    {
+        "id": 59,
+        "roman_nepali": "mero chhora le aaja school ma first prize jityo. ma ekdam proud ani happy feel gare.",
+        "english": "My son won first prize at school today. I felt so proud and happy."
+    },
+    {
+        "id": 60,
+        "roman_nepali": "aaja ekdam ramailo thiyo, tara aba sidhai sutnu parcha kina ki bholi dherai kaam cha.",
+        "english": "Today was so much fun, but now I need to go straight to bed because there's a lot of work tomorrow."
+    },
+    {
+        "id": 61,
+        "roman_nepali": "maile aaja office ma ekdam busy din bitaye. subha bihan ko meeting baata start gareko thiyo ani lunch time samma chai pura team le naye project ko barema brainstorming garna pareko thiyo. lunch ko bela ma chai ek choti bahira niskera ramailo fresh air liyera aune plan gareko thiyo, tara email ko notification le chai aba arko urgent kaam ma focus garnu parcha bhanera batayo. bholi aba yo pura presentation submit garna parcha, tesko lagi aba raat samma kaam garna parcha jasto cha.",
+        "english": "I had a very busy day at work today. It started with a morning meeting, and until lunchtime, the entire team had to brainstorm about the new project. During lunch, I planned to step outside for some fresh air, but an email notification reminded me of another urgent task that needed my attention. Tomorrow, I have to submit the entire presentation, so it seems like I'll have to work late into the night."
+    },
+    {
+        "id": 62,
+        "roman_nepali": "dashain ko din haru ekdam ramailo huncha, tara tesko lagi ekdam preparation garna parcha. yo barsha ta maile ghar ko decoration sanga sanga shopping ko responsibility liyo. subha bihan bhaneko market ma jana lai tyaar bhae, tara traffic le ta ek ghanta late bhaecha. market ma pugera sabai thau ma bheed thiyo, tesle chai pura shopping garna tin ghanta lagyo. aba ghar pugera ta decoration start garna parcha bhanera sochya thiyo, tara aba ta dinner ko time bhisakyo bhanera kaam pheri bholi samma tahela parcha jasto cha.",
+        "english": "The days of Dashain are very enjoyable, but they require a lot of preparation. This year, I took on the responsibility of both house decoration and shopping. I got ready early in the morning to go to the market, but traffic delayed me by an hour. When I reached the market, every shop was crowded, and it took me three hours to finish shopping. I thought I would start the decorations as soon as I got home, but by then, it was already time for dinner, so it seems like the work will have to be postponed until tomorrow."
+    },
+    {
+        "id": 63,
+        "roman_nepali": "mero sathi haru sanga aaja ekdam ramailo trip gayo. subha bihan 6 baje nai sabai jana gathering point ma bhetyo ani ta jaggako sunaulo view herna trekking start garna thalyo. trekking route chai ali challenging thiyo, tara sabai le ek arka lai encourage garera agadi badhe. charai tira harabhara jungle ani chiso hawa ko majja le pura din ekdam enjoyable bhae. lunch ma chai tala bagaune nadiko cheu basera ghar bata lyaeko khana khayo. aba ta aru din ni estai adventure plan garna inspiration milcha.",
+        "english": "I had a wonderful trip with my friends today. Everyone met at the gathering point at 6 in the morning, and we started trekking to enjoy the golden views of the hills. The trekking route was a bit challenging, but everyone encouraged each other to keep going. The lush green forests around us and the cool breeze made the whole day very enjoyable. For lunch, we sat near a flowing river and ate the food we had brought from home. Now, I feel inspired to plan more such adventures in the future."
+    },
+    {
+        "id": 64,
+        "roman_nepali": "mero nani le aaja school ma ekdam ramailo kura gareko thiyo. tesle chai aba usko class ma hune drawing competition ko barema excited bhaera sabai details share garna thalyo. yo competition usle pehla choti participate garna lageko ho bhanera usle jhan excitement sanga aafno plan share garna thalyo. sabai crayons ra colors organize garera raat samma practice garna ni shuru gareko cha. aba hami sabai le usko effort ko support garna uslai encouragement diyeko cha.",
+        "english": "My child shared something very exciting about school today. She was enthusiastically talking about the drawing competition that’s going to happen in her class. She is participating in such a competition for the first time and eagerly shared all her plans. She even started organizing all her crayons and colors and practiced until late at night. Now, the whole family is supporting her efforts by encouraging her."
+    },
+    {
+        "id": 65,
+        "roman_nepali": "pichhadi ko lockdown ko samay ma maile online class le kasari productive banne bhanne kura sikheko thiyo. pehla ta chai ekdam confusing ra challenging jasto lagcha thiyo, tara aba chai pura routine maintain garera assignments ani projects timely submit garna sakne bhayeko chu. mero classmate haru sanga video call ma collaboration garera kaam ekdam ramro gareko cha. aba ta yo experience le mero multitasking skills ni improve gareko jasto lagcha.",
+        "english": "During the last lockdown, I learned how to stay productive through online classes. Initially, it felt very confusing and challenging, but now I have managed to maintain a proper routine and submit assignments and projects on time. Collaborating with my classmates over video calls helped us complete our tasks efficiently. I feel like this experience has also improved my multitasking skills."
+    },
+    {
+        "id": 66,
+        "roman_nepali": "hijo raat ma chai ekdam ramailo dinner party ma gayeko thiyo. mero sathi ko naya apartment ma usle sabai sathi haru lai invite gareko thiyo. sabai jana ko presence le ta pura ambiance ekdam lively banayo. tesma chai usle ghar ma banako momo ra sadeko chicken serve gareko thiyo, jun sabai le ekdam man paryo. dinner pachi chai sabai jana le ekchoti game khelne plan gare ani raat samma stories share garera ramailo gare.",
+        "english": "Last night, I went to a very enjoyable dinner party. My friend had invited all of us to her new apartment. The presence of everyone made the atmosphere very lively. She served homemade momos and roasted chicken, which everyone loved. After dinner, we all planned to play some games and spent the night sharing stories and having fun."
+    },
+    {
+        "id": 67,
+        "roman_nepali": "yo saal ko exam preparation ekdam stressful lagyo, kina ki syllabus ekdam vast cha ra time ekdam kam. tara maile chai pura day-by-day schedule banayera prioritize garna start gare. sabai important topic pahila cover garera aba revision ma focus gari raheko chu. stress ko bela ma chai break liyera short walk ma janu ani pani dherai khanu le pura din fresh feel garna madat garcha jasto lagcha.",
+        "english": "This year's exam preparation felt very stressful because the syllabus is vast and there’s very little time. However, I started creating a day-by-day schedule to prioritize my tasks. I first covered all the important topics and am now focusing on revision. During moments of stress, taking short walks and drinking plenty of water has helped me feel refreshed throughout the day."
+    },
+    {
+        "id": 68,
+        "roman_nepali": "mero ghar ko chaimeki ko marriage ceremony ekdam grand thiyo. puro community le ek choti sanga aayera celebration gariyo. subha bihan dekhi mandap ko preparation ani guest haru ko swagat ma sabai busy bhae. lunch ma chai traditional nepali cuisine serve gare, jun sabai le dherai man paryo. bihan ko lagan pachi chai rat ma cultural program rakhera pura family haru le dance ani entertainment ko majja liye.",
+        "english": "My neighbor's marriage ceremony was very grand. The entire community came together to celebrate. From the morning, everyone was busy with the mandap preparations and welcoming the guests. For lunch, traditional Nepali cuisine was served, which everyone enjoyed. After the wedding rituals in the morning, a cultural program was organized at night, where the families danced and enjoyed the entertainment."
+    },
+    {
+        "id": 69,
+        "roman_nepali": "aaja mero din ekdam special thiyo, kina ki mero birthday celebration sabai unexpected surprises le bharipurna thiyo. bihan mero sathi haru ghar ma cake ra gift liera aaye ani surprise diya. maile ta sochna ni sakeko thiina ki aba lockdown ko karan sabai jana plan cancel garne cha. tara uniharu le chai pura planning garecha ra malai pure din ramailo banaye. dinner ko time ma chai mero family le ramro dinner banaera chaiyo moment lai ajhai special banaye.",
+        "english": "Today was a very special day because my birthday celebration was full of unexpected surprises. In the morning, my friends came to my house with a cake and gifts and gave me a surprise. I hadn't expected anything since I thought everyone would cancel plans due to the lockdown. But they planned everything and made my day so enjoyable. At dinner, my family cooked a delicious meal to make the moment even more special."
+    },
+    {
+        "id": 70,
+        "roman_nepali": "mero aama le mero lagi bacha dekhi nai ekdam mahanat garera sabai kura milaye. maile aaja office ma ekdam proud moment feel gare, kina ki maile ekdam important presentation diya ani sabai le appreciate gare. presentation diyepachi ma aama sanga kura garna ghar pugda, unko reaction herera malai ajhai motivation feel bhayo. yo life ma sabai kura unko inspiration bata sikheko jasto lagcha.",
+        "english": "My mother has worked so hard since my childhood to provide everything for me. Today at work, I felt a proud moment because I gave a very important presentation that everyone appreciated. After coming home and talking to my mother about it, her reaction made me feel even more motivated. It feels like I’ve learned everything in life from her inspiration."
+    },
+    {
+        "id": 71,
+        "roman_nepali": "dashain ko bela ghar ma ekdam lively vibe huncha. sabai jana purano kapda phalera naya kapda kincha ra ghar ko decoration ma involve huncha. yo barsha ta maile family sanga chai ghanta ko samay dinu parcha bhanera sochya, tara kaam ko karan ekdam limited time available cha. aba hami le puro celebration ka plan adjust garna parecha, tara aba yo family moments ekdam valuable feel bhayeko cha.",
+        "english": "During Dashain, the house feels very lively. Everyone throws away old clothes and buys new ones, getting involved in decorating the house. This year, I wanted to dedicate hours of time to my family, but work commitments have left me with limited time. We’ve had to adjust our celebration plans, but these family moments now feel even more valuable."
+    },
+    {
+        "id": 72,
+        "roman_nepali": "hijo raat ko bela ma mero room ma basera ekdam deep thoughts ma thie. maile chai padhai ko barema, career ko barema, ani mero future ko barema sochna thaleko thiyo. maile realize gare ki aba consistent effort garna parcha ra time ko ekdam utilize garna parcha bhanne. yo realization le malai positive path ma agadi badhne lagi ekdam inspiration diyeko jasto lagcha.",
+        "english": "Last night, I was sitting in my room, lost in deep thoughts. I started thinking about my studies, career, and future. I realized that I need to put in consistent effort and utilize my time effectively. This realization feels like it has inspired me to move forward on a positive path."
+    },
+    {
+        "id": 73,
+        "roman_nepali": "mero sathi ko naya business start hune news sune pachi malai ekdam inspiration feel bhayo. usle chai lockdown ko bela sanga dherai challenges face garera yo plan banayeko thiyo. maile ni usko yo courage dekhera aba aafno passion ko barema serious hunu parcha bhanera sochya. usko hard work ra positivity le malai aba agadi badhna ra naya kura seekhna jhan motivation diyeko cha.",
+        "english": "After hearing the news about my friend starting a new business, I felt really inspired. She had faced many challenges during the lockdown to come up with this plan. Seeing her courage, I decided to take my own passions more seriously. Her hard work and positivity have motivated me to move forward and learn new things."
+    },
+    {
+        "id": 74,
+        "roman_nepali": "yo semester ekdam challenging lagyo, kina ki sabai assignments ani exams ko deadline ekdam overlapping thiyo. tara maile chai prioritize garera time table banayera sabai kura complete gare. maile chai ekdam deep analysis garna parcha bhanera research papers ani online resources padhnu parcha thiyo. aba ta yo semester ko end ma chai aba ramailo holidays enjoy garna milcha bhanera expect gardai chu.",
+        "english": "This semester felt very challenging because all the assignment and exam deadlines were overlapping. However, I managed to prioritize and create a timetable to complete everything. I had to do a lot of in-depth analysis by reading research papers and online resources. Now that the semester is ending, I am looking forward to enjoying the holidays."
+    },
+    {
+        "id": 75,
+        "roman_nepali": "mero nani ko aaja first day of school thiyo. subha bihan usle ta ekdam excitement sanga uniform lagaera tyaar bhaecha. tara school ko gate ma pugda usle thulo bheed dekhera alik nervous bhae jasto lagcha. aba maile chai uslai calm garna alik time lagaune parcha bhanera gate bhitra samma satha gaye. aba ta usko feedback le maile bujhe ki usle pura day ramailo garera sabai kura sikna suru gareko cha.",
+        "english": "Today was my child's first day of school. In the morning, she was very excited and got ready in her uniform. But when we reached the school gate and saw the big crowd, she seemed a bit nervous. I spent some time calming her down and walked with her inside the gate. By the end of the day, her feedback made me realize that she had enjoyed herself and started learning many things."
+    },
+    {
+        "id": 76,
+        "roman_nepali": "aaja hiking ko bela ma ekdam adventurous experience bhayo. trail ekdam steep ani slippery thiyo, tara team le chai ek arka ko support garera agadi badhne motivation diyera pura hike complete gare. aba bhaneko view point ma pugera ko scene ta ekdam breathtaking thiyo. sabaiko group photo le chai pura trip lai memory ma change gareko cha. aba aba dherai outdoor adventure explore garna ichha feel bhaecha.",
+        "english": "Today’s hiking experience was very adventurous. The trail was very steep and slippery, but the team supported and motivated each other to complete the hike. When we finally reached the viewpoint, the scenery was absolutely breathtaking. The group photo made the entire trip a cherished memory. Now, I feel more inclined to explore more outdoor adventures."
+    },
+    {
+        "id": 77,
+        "roman_nepali": "bazar jane bela ma maile unexpected traffic jam le ekdam frustrated feel gare. aba chai mero pura schedule derai late bhayo ra sabai kaam adjust garna parcha. tara aba maile chai calm ra positive mindset le agadi plan banayera priority ma important kaam haru padhna suru gareko chu. yo lesson le maile ta unexpected situation ma focus haraundaina bhanne sikne opportunity diyeko cha.",
+        "english": "While going to the market, I felt very frustrated because of an unexpected traffic jam. My entire schedule got delayed, and I had to adjust all my tasks. However, I started planning ahead with a calm and positive mindset, focusing on the important tasks first. This situation taught me to not lose focus in unexpected circumstances."
+    },
+    {
+        "id": 78,
+        "roman_nepali": "yo weekend ma ma ghar ma basera pura relaxation plan gareko thiyo. pura din ko kaam bata break liyera chai maile chai chai book padhne ani chaiyo series herne sochya. bihan ko coffee ko majja le chai pure day positive vibes start gare ani aba aba outdoor jana ko ichha na garera pure weekend lazy ani peaceful banaye.",
+        "english": "This weekend, I planned to stay home and completely relax. I decided to take a break from all the work and spend the day reading books and watching my favorite series. The morning coffee set a positive vibe for the entire day, and instead of going outdoors, I made the weekend lazy yet peaceful."
+    },
+    {
+        "id": 79,
+        "roman_nepali": "hijo ko raat ko bela ma chai ekdam ramailo family dinner organize gareko thiyo. sabai jana sathi ra family member haru ek choti jamma bhaera khana khane plan banayo. maile pura din kitchen ma basera mero favorite momo ani noodles banaye. dinner suru hunu agadi ta sabai jana le pura time games khelera ra stories share garera ramailo gare. aba yo bela ko memory chai puro life samma yaad rahane jasto lagcha.",
+        "english": "Last night, I organized a very enjoyable family dinner. All my friends and family members gathered together to eat. I spent the whole day in the kitchen making my favorite momos and noodles. Before dinner started, everyone had fun playing games and sharing stories. This moment feels like a memory that will stay with me for a lifetime."
+    },
+    {
+        "id": 80,
+        "roman_nepali": "aaja maile ekdam interesting documentary herne chance paaye. documentary le chai climate change ko barema ekdam detailed ra informative kura haru share gareko thiyo. maile realize gare ki aba small changes jasari plastic use reduce garna ra water conservation garna parcha bhanne. yo realization le chai mero daily habits ma ekdam positive impact garne jasto lagcha ani aba aroo sathi haru sanga pani yo kura share garna ichha cha.",
+        "english": "Today, I had the chance to watch a very interesting documentary. It shared detailed and informative insights about climate change. I realized that small changes, like reducing plastic use and conserving water, are necessary. This realization feels like it will bring a positive impact to my daily habits, and now I want to share this knowledge with my friends as well."
+    },
+    {
+        "id": 81,
+        "roman_nepali": "yo saal maile mero health ko barema serious hunu parcha bhanera decide gare. subha bihan uta jogging garna start gareko chu ani raat ko bela healthy dinner khanu ko lagi time set gareko chu. gym ma regularly janey habit develop garna ni suru gareko chu. maile chai lockdown ko bela mero health decline huda kheri aba consistency ko value sikhe jasto lagcha.",
+        "english": "This year, I decided to take my health seriously. I started jogging in the morning and set a routine to have a healthy dinner in the evening. I’ve also started developing a habit of going to the gym regularly. During the lockdown, when my health declined, I realized the importance of consistency."
+    },
+    {
+        "id": 82,
+        "roman_nepali": "mero chhori ko aaja school ma ekdam special event thiyo, jun ma usle cultural dance perform gareko thiyo. maile ta suru ma uslai nervous bhae jasto lageko thiyo, tara stage ma usko confidence dekhera malai ekdam proud feel bhayo. usko teacher haru le pani usko performance ko barema positive feedback diyera ma pani khushi bhaye. aba yo moment le chai mero lagi ekdam unforgettable memory banaye.",
+        "english": "Today, my daughter had a very special event at school where she performed a cultural dance. Initially, I thought she was nervous, but seeing her confidence on stage made me feel so proud. Her teachers also gave positive feedback about her performance, which made me even happier. This moment has become an unforgettable memory for me."
+    },
+    {
+        "id": 83,
+        "roman_nepali": "maile mero sathi sanga ekdam exciting road trip plan gareko thiyo. subha bihan ta pura car ma music bajayera ramailo start bhae. hami chai bato ma park ma stop garera breakfast enjoy gareko ani charai tira nature ko beauty capture garna photos leko thiyo. aba aba yo trip le chai pura stress hataera fresh feel garne experience diyeko jasto lagcha.",
+        "english": "I planned a very exciting road trip with my friend. The morning started with music playing in the car, setting a fun mood. We stopped at a park along the way to enjoy breakfast and took photos to capture the beauty of nature around us. This trip felt like it took away all the stress and gave me a refreshing experience."
+    },
+    {
+        "id": 84,
+        "roman_nepali": "mero company ko naya project ko presentation final hone bela ma ekdam nervously prepared gareko thiyo. maile chai pura details le technical slide haru prepare gare ani chaiyo documents ready gare. presentation pachi chai boss ko positive response ani client ko appreciation le malai aba ajhai hard work garna encouragement diyeko cha. aba aba aafno kaam ma confidence badhera pura dedication le agadi jane plan cha.",
+        "english": "When it was time to finalize the presentation for my company’s new project, I prepared everything very nervously. I created detailed technical slides and got all the required documents ready. After the presentation, my boss’s positive response and the client’s appreciation encouraged me to work even harder. Now, I feel more confident in my work and plan to move forward with full dedication."
+    },
+    {
+        "id": 85,
+        "roman_nepali": "yo winter vacation ko plan ekdam ramailo banaune sochya thiyo. ma sathi haru sanga pahad ma snow trekking garna plan banaye ani chaiyo equipment kinne ready gare. pahad ma pugda chai snowfall ko experience ekdam magical lagcha bhanne ta sochnu bhaekai thiyo. aba aba hami sabai jana le chai evening ma campfire garera stories share garera raat ko moment ramailo banaye.",
+        "english": "I had planned to make this winter vacation very enjoyable. I planned a snow trekking trip with friends and got all the necessary equipment ready. Experiencing snowfall in the mountains felt just as magical as I had imagined. In the evening, we all sat around a campfire, sharing stories and making the night memorable."
+    },
+    {
+        "id": 86,
+        "roman_nepali": "aaja maile mero ghar ko garden ma pura time spend gareko thiyo. maile chai old plants lai trim garera naya flowers ko seed plant garne kaam suru gare. gardening le chai ekdam peaceful ra stress-free feel garna madat garcha bhanne realization bhaecha. aba aba yo hobby lai regular routine ma include garera ajhai ramailo moments capture garna sochya chu.",
+        "english": "Today, I spent my entire day in the garden at home. I started trimming the old plants and planting new flower seeds. Gardening gave me a sense of peace and helped me feel stress-free. Now, I plan to include this hobby in my regular routine and capture even more enjoyable moments."
+    },
+    {
+        "id": 87,
+        "roman_nepali": "mero last exam pachi ko break ekdam productive banaye. maile chai padhai ko satta aafno passion project ma time dedicate gare. maile chai photography explore garna start gare ani puro city ma naya thau discover garera photos capture gare. aba aba yo time le malai passion ma focus garera aba skill develop garna motivation diyeko cha.",
+        "english": "After my last exam, I made my break very productive. Instead of studying, I dedicated time to my passion project. I started exploring photography and discovered new places in the city to capture photos. This time has motivated me to focus on my passion and develop my skills further."
+    },
+    {
+        "id": 88,
+        "roman_nepali": "mero keta sathi le aaja malai unexpected proposal diyera surprise gareko thiyo. ma ta pura restaurant ma lunch garna busy thie, tara usle chocolate, flowers, ani ekdam sweet letter sanga aayera propose gareko. usko yo gesture le malai ekdam emotional ani khushi feel garayo. aba aba yo moment le chai mero lagi life ko ekdam special yaad banaye.",
+        "english": "Today, my boyfriend gave me an unexpected proposal that completely surprised me. I was busy having lunch at a restaurant when he came with chocolates, flowers, and a very sweet letter to propose. His gesture made me feel so emotional and happy. This moment has become one of the most special memories of my life."
+    },
+    {
+        "id": 89,
+        "roman_nepali": "hijo maile mero purano school visit gare. maile mero favorite teacher sanga ta dherai ramailo kura garna paye, tara aba purano classroom herda ekdam nostalgic feel bhayo. maile aafno sathi haru sanga jok gareko thau, khana khane break time ma khelekai field ani mero presentation practice gareko hall herera pura childhood memory flash bhae. aba aba maile realize gare ki yo school le mero character build garna kasto role khelecha.",
+        "english": "Yesterday, I visited my old school. I got to talk to my favorite teacher, which was a lot of fun, but seeing my old classroom made me feel very nostalgic. The spots where I joked with my friends, the field where we played during break time, and the hall where I practiced my presentations brought back a flood of childhood memories. I realized how much this school shaped my character."
+    },
+    {
+        "id": 90,
+        "roman_nepali": "aaja mero laptop ekdam unexpected problem aayo. maile ta office ko ekdam important file submit garna pareko thiyo, tara aba laptop hang bhayera pura stress ma pare. technical help ko lagi maile sathi lai bolaye, tara aba last moment ma ta mero backup files save gareko yaad aayo ani pura kaam timely submit garna sakiyo. aba aba yo lesson le malai ta always prepared rahna sikayo.",
+        "english": "Today, my laptop had an unexpected problem. I had an important office file to submit, but the laptop froze, and I was completely stressed. I called a friend for technical help, but at the last moment, I remembered my backup files and was able to submit my work on time. This experience taught me to always be prepared."
+    },
+    {
+        "id": 91,
+        "roman_nepali": "aaja subha mero pet dog Rocky ko birthday celebrate gareko thiyo. usko lagi special dog cake order gare ani pura decorations ko lagi balloons ra streamers le ghar ramailo banaye. Rocky ta pura excitement ma thiyo, tara sabai guest haru le chai usko cute tricks herera ekdam ramailo lagyo. aba aba malai aafno pet ko lagi aroo ramailo moments create garna motivation feel bhayo.",
+        "english": "Today, we celebrated my pet dog Rocky's birthday. We ordered a special dog cake for him and decorated the house with balloons and streamers. Rocky was so excited, and all the guests enjoyed watching his cute tricks. Now, I feel motivated to create more enjoyable moments for my pet."
+    },
+    {
+        "id": 92,
+        "roman_nepali": "mero bhai le aaja final football match khelera ghar aayo. maile ta usko game live herna janey sochya thiyo, tara kaam ko karan busy bhae. aba ghar aayera usle pura match ko details share garera usko team ko jeet ko moment explain garda malai ni ekdam proud feel bhayo. aba aba usko passion le ta malai pani sports activities ma interest develop garna inspire garecha.",
+        "english": "My younger brother came home today after playing his final football match. I had planned to watch his game live, but I got busy with work. When he came home and shared all the match details and explained the winning moment of his team, I felt so proud. His passion has inspired me to develop an interest in sports activities as well."
+    },
+    {
+        "id": 93,
+        "roman_nepali": "yo din ta ekdam special thiyo kina ki maile mero purano friend sanga almost 5 barsa pachi meet gare. hamile ta ekdam ramailo memories share garera pura lunch time bitae ani aba chai naya plan haru banayera regularly contact ma rahne sochya. aba aba yo meeting le ta malai purano connections ko value realize garna madat garecha.",
+        "english": "This day was very special because I met my old friend after almost 5 years. We spent the whole lunch time sharing fun memories and made plans to stay in regular contact moving forward. This meeting made me realize the value of old connections."
+    },
+    {
+        "id": 94,
+        "roman_nepali": "hijo ko raat cha ekdam memorable bhayo kina ki maile ta first time sky full of stars dekhe. aba ta hamro group le chai camping trip ko idea garera ekdam remote location select gareko thiyo. sabai jana sleeping bag ma basera stories share gardai sky ma shooting stars dekhda ekdam magical lagyo. yo experience ta aba mero life ko sabai ramro adventure moment jasto feel bhayo.",
+        "english": "Last night was very memorable because I saw a sky full of stars for the first time. Our group had planned a camping trip and selected a very remote location. Sitting in sleeping bags, sharing stories, and watching shooting stars in the sky felt magical. This experience now feels like one of the best adventure moments of my life."
+    },
+    {
+        "id": 95,
+        "roman_nepali": "maile mero kaam ko stress manage garna aaja yoga class join gare. first time ta ekdam challenging lagyo, kina ki breathing exercise ani stretches perfect garna sakiyena. aba instructor ko guidance le chai relax feel hunu suru bhayo ani aba aroo classes attend garera consistency le pura routine develop garna motivation feel bhayo.",
+        "english": "To manage work stress, I joined a yoga class today. It felt very challenging at first because I couldn’t perfect the breathing exercises and stretches. With the instructor’s guidance, I started to feel relaxed, and now I’m motivated to attend more classes and build a consistent routine."
+    },
+    {
+        "id": 96,
+        "roman_nepali": "aaja maile mero nani sanga pura din indoor games khelera ramailo gare. aba ta usle ta ludo, carrom board, ra uno jasto game ma continuously jitera pura excitement le bharyo. usko smile herera pura stress ta remove bhae jasto lagcha ani aba aba maile realize gare ki time spent with family ekdam important cha.",
+        "english": "Today, I spent the whole day playing indoor games with my child. She kept winning games like Ludo, Carrom Board, and Uno, which filled her with so much excitement. Watching her smile felt like all my stress vanished, and I realized how important it is to spend time with family."
+    },
+    {
+        "id": 97,
+        "roman_nepali": "yo winter ma ta hiking plan ekdam unique experience diyeko cha. trail ma ta hami le purai snow cover hune bela walk gare ani chilling weather ma chai hot chocolate le chaiyo energy diye. aba aba yo adventure ma chai mero friends haru ko support ani teamwork le puro hiking ekdam enjoyable banayo.",
+        "english": "This winter’s hiking plan gave us a very unique experience. We walked on trails completely covered in snow, and the hot chocolate during the chilly weather gave us the energy we needed. The support and teamwork of my friends made the entire hike incredibly enjoyable."
+    },
+    {
+        "id": 98,
+        "roman_nepali": "mero aaja ekdam important meeting thiyo, jasma maile purai team lead garna pareko thiyo. maile chaiyo presentation ko lagi purai practice gare ani sabai questions handle garna tayar bhae. meeting ko end ma sabai le chai malai appreciate gardai positive feedback diye, jun le malai aba aroo professional challenges le handle garna self-confidence diyeko cha.",
+        "english": "I had a very important meeting today where I had to lead the entire team. I practiced thoroughly for my presentation and prepared to handle all questions. By the end of the meeting, everyone appreciated me and gave positive feedback, which has boosted my self-confidence to handle more professional challenges."
+    },
+    {
+        "id": 99,
+        "roman_nepali": "aaja maile pura afternoon mero nani sanga park ma bitae. hamro favorite park ma aba ekdam ramailo playground banaisakeko rahecha, ani nani le chai pura slide ani swing ma khelera pura energy spend garera ramailo garna payo. ma chai usko khushi herera ekdam relax feel gare ani sochi ki aba aba hamro weekends ma park ko visit regular banau chu.",
+        "english": "Today, I spent the entire afternoon with my child at the park. Our favorite park now has a new and fun playground, and my child enjoyed playing on the slides and swings, spending all their energy having fun. Watching them happy made me feel so relaxed, and I decided to make park visits a regular part of our weekends."
+    },
+    {
+        "id": 100,
+        "roman_nepali": "mero cousin le aaja surprise cooking session organize gare. usle chai naya recipe try garera momo banayo, jun ekdam tasty lagyo. maile chai uslai help garera kitchen clean garna ni enjoy gare. aba aba yo moment le chai malai realize garayo ki family sanga simple activity garna ni kasto special feel huncha.",
+        "english": "My cousin organized a surprise cooking session today. They tried a new recipe to make momos, which turned out to be very tasty. I enjoyed helping them clean up the kitchen afterward. This moment made me realize how special simple activities with family can feel."
+    },
+    {
+        "id": 101,
+        "roman_nepali": "yo morning ma ekdam unexpected thiyo, kina ki mero college ko ekdam purano friend le malai call gareko thiyo. usle chai mero life ko recent updates puchcha bhanera ramailo gaph suru gare. aba aba yo phone call le malai realize garayo ki purano friends ko connection rekhaune le kasto khushi diyera aafno din bright banauchha.",
+        "english": "This morning was very unexpected because an old friend from college called me. They started a fun conversation by asking about the recent updates in my life. This phone call made me realize how maintaining connections with old friends can bring so much happiness and brighten your day."
+    },
+    {
+        "id": 102,
+        "roman_nepali": "aaja subha mero class ma ekdam unique group activity organize gare. aba sabai students le chai team ma kaam garera ek short drama prepare garna pareko thiyo. maile chai purai story writing ko part handle gare ani hamro team le chai pura drama perform garera ekdam ramailo garna payo. aba aba teacher le chai hami sabai lai appreciate garera khushi banaidiyo.",
+        "english": "This morning, my class organized a very unique group activity. All the students had to work in teams to prepare a short drama. I handled the story-writing part, and our team had so much fun performing the drama. Our teacher appreciated everyone, which made us all very happy."
+    },
+    {
+        "id": 103,
+        "roman_nepali": "mero daaju le aaja naya bike kinera ghar lyaune plan gareko thiyo. aba hamile ta bike ko purai color ani design herera ekdam discuss garera decision banako thiyo. jab bike ghar ma aayo, sabai jana excited bhaera usko test ride herda ekdam ramailo lagyo. aba aba yo day mero daaju ko special moment ko lagi memorable bancha jasto lagcha.",
+        "english": "Today, my elder brother planned to bring home a new bike. We had discussed and decided on the color and design beforehand. When the bike arrived, everyone was excited, and it was so much fun watching him take it for a test ride. This day feels like it will always be memorable for my brother’s special moment."
+    },
+    {
+        "id": 104,
+        "roman_nepali": "hijo raat ko bela maile ekdam unique thiyo. maile ta terrace ma basera chai pura city lights herne plan banako thiyo. aba ta weather pani thikai thiyo, ani pura city ko light reflection herda ekdam peaceful feel bhayo. aba aba yo moment le malai realize garayo ki simple surroundings ko beauty appreciate garna parcha.",
+        "english": "Last night was quite unique. I planned to sit on the terrace and watch the city lights. The weather was perfect, and seeing the light reflections of the city felt incredibly peaceful. This moment made me realize the importance of appreciating the beauty in simple surroundings."
+    },
+    {
+        "id": 105,
+        "roman_nepali": "yo tihar ma maile mero ghar ekdam ramailo tarikale decorate gareko thiyo. aba maile diyas ani lights lagayera pura environment festive banaye. nani haru le pani rangoli banayera ghar ko porch ekdam colorful banaye. aba aba yo festival le sabai jana ko mood positive banayera ekdam family time enjoy garna diyeko jasto lagcha.",
+        "english": "This Tihar, I decorated my house in a very joyful way. I used diyas and lights to create a festive environment. The kids also made a rangoli that made the porch look so colorful. This festival brought such a positive mood to everyone and made us enjoy quality family time together."
+    },
+    {
+        "id": 106,
+        "roman_nepali": "aaja maile ekdam interesting book start gare. aba book le chai ekdam unique perspective ma life ko priorities bare kura gardacha. maile ta almost half finish garera purai time imagination ma bitae. aba aba malai ta aroo naya topics explore garne curiosity badhiraheko cha.",
+        "english": "Today, I started reading a very interesting book. The book talks about life priorities from a unique perspective. I spent most of my time imagining as I finished almost half of it. Now, I feel my curiosity to explore new topics is increasing more and more."
+    },
+    {
+        "id": 107,
+        "roman_nepali": "aaja ghar ma ekdam ramailo atmosphere thiyo. aba ta hami sabai jana purai lunch ko lagi family recipe try garna busy thiyau. mero mom le chai pura recipe ko guide diyo ani maile chaiyo ingredients prepare gare. aba aba yo time le malai family sanga ko collaboration ma kitna ramailo huncha bhanera sikayo.",
+        "english": "Today, the atmosphere at home was very cheerful. We were all busy trying a family recipe for lunch. My mom guided us through the recipe while I prepared the ingredients. This time taught me how enjoyable it can be to collaborate with family."
+    },
+    {
+        "id": 108,
+        "roman_nepali": "mero nani ko aaja first painting competition thiyo. usle chaiyo favorite sunset ko scene paint gare ani pura time usko focus dekhda malai proud feel bhayo. aba usko artwork lai chai judges le praise gardai ek small prize diye. aba aba maile realize gare ki nani haru ko passion encourage garna kasto important cha.",
+        "english": "Today, my child had their first painting competition. They painted their favorite sunset scene, and seeing their focus throughout made me feel so proud. The judges praised their artwork and even gave a small prize. This made me realize how important it is to encourage children’s passions."
+    },
+    {
+        "id": 109,
+        "roman_nepali": "aaja ma office pachi ekdam tired bhae jasto lagyo. aba maile chaiyo dinner ko lagi simple soup banayera sofa ma relax garna thale. aba aba maile feel gare ki self-care ko lagi aba din ko end ma ramailo relaxation important huncha.",
+        "english": "After work today, I felt extremely tired. So, I made a simple soup for dinner and started relaxing on the sofa. This made me realize how important it is to have a moment of relaxation at the end of the day for self-care."
+    }
+]

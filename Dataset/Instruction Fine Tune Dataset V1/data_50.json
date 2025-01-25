@@ -1,0 +1,1122 @@
+[
+    {
+        "question": "Kasto cha character Alex ko soch jasari explain gareko cha?",
+        "context": "Alex ek adventurous karakter ho jasle hamesha daring decisions liyo. Usko soch ekdam logical ra practical thiyo, tara kabhi kabhi emotional bhi. Usle bigrisakne paristiti haru ramrari samhalcha.",
+        "response": "Alex ko soch logical ho tara usle emotions pani dikkat huna dindaina. Usle practical ra emotional balance ramrari gareko cha."
+    },
+    {
+        "question": "Kina Alex le usko adventure thaleko bhaneko cha?",
+        "context": "Alex ko life ekdam normal thiyo tara usle adventure ma jana decide garyo afno real potential khojne. Uska purana incidents le uslai inspire gare adventure ko lagi.",
+        "response": "Usle afno potential khojna adventure start gareko thiyo. Uska purana experiences le thulo role kheleko thiyo."
+    },
+    {
+        "question": "Character Maya ko role ke ho story ma?",
+        "context": "Maya Alex ki childhood friend ho jasle uska sapna haru ma support garne try garchin. Usko role story ma ek supportive friend ra kabhi kabhi Alex ko moral compass ko rup ma cha.",
+        "response": "Maya Alex ki supportive friend ho ra uslai right decisions lina help garchin."
+    },
+    {
+        "question": "Alex le toughest decision kasto lina parcha story ma?",
+        "context": "Ek phase ma Alex le apno adventure chhodera afno family ko problem solve garna back auna parcha. Yo uska lagi ekdam tough decision thiyo kinaki usle afno sapana sacrifice garna parcha.",
+        "response": "Alex le family ko problem ko lagi apno sapana sacrifice garne decision liyo, jun uska lagi dherai muskil thiyo."
+    },
+    {
+        "question": "Story ko main theme k cha?",
+        "context": "Story ko main theme self-discovery ra courage ho. Alex ko journey uska afno weaknesses ra strengths bujne ra challenge haru face garne baare ho.",
+        "response": "Story self-discovery ra courage ko barema ho, Alex ko afno journey ko process ma."
+    },
+    {
+        "question": "Alex ko age kati cha?",
+        "context": "Alex ek 25 barsa ko yuva ho jasle adventure ko lagi afno ghar chhodcha.",
+        "response": "Alex 25 barsa ko cha."
+    },
+    {
+        "question": "Alex ko sabse thulo sapana ke ho?",
+        "context": "Alex ko sabse thulo sapana ek din duniya ko sabse dangerous peak climb garne ho.",
+        "response": "Alex ko sabse thulo sapana sabse dangerous peak climb garne ho."
+    },
+    {
+        "question": "Maya ko profession ke ho?",
+        "context": "Maya ek wildlife photographer ho jasle jungle ma ghumera rare animals ko photo khichcha.",
+        "response": "Maya ek wildlife photographer ho."
+    },
+    {
+        "question": "Story ko background kaha set cha?",
+        "context": "Yo story ek remote mountain village ma set cha jaha log haru adventure ko shuruwat garne dream rakchhan.",
+        "response": "Story ek remote mountain village ma set cha."
+    },
+    {
+        "question": "Alex le adventure shuru garna kasaiko help lincha?",
+        "context": "Alex le Maya ko help lincha adventure ko planning garna ra equipment arrange garna.",
+        "response": "Alex le Maya ko help lincha."
+    },
+    {
+        "question": "Story ma conflict kasari aayo?",
+        "context": "Story ma conflict tyeti bela aayo jaba Alex ko team ma ek betrayal garyo jun le sabai plan bigaryo.",
+        "response": "Conflict betrayal ko karan aayo."
+    },
+    {
+        "question": "Alex ko mentor ko naam ke ho?",
+        "context": "Alex ko mentor ko naam Robert ho, jun ek experienced mountaineer ho.",
+        "response": "Alex ko mentor ko naam Robert ho."
+    },
+    {
+        "question": "Climbing ko sabse bada challenge ke thiyo?",
+        "context": "Climbing ko sabse bada challenge extreme weather condition ra food shortage thiyo.",
+        "response": "Extreme weather ra food shortage sabse bada challenge thiyo."
+    },
+    {
+        "question": "Maya le Alex lai last moment ma k bhanin?",
+        "context": "Maya le Alex lai bhanin, 'Afno dream pura garna kahile bhi na chhoda, no matter what happens.'",
+        "response": "Maya le Alex lai bhanin, 'Afno dream pura garna kahile na chhoda.'"
+    },
+    {
+        "question": "Alex le last scene ma ke garcha?",
+        "context": "Alex le last scene ma mountain ko top ma pugi ek flag hoist garcha jun usko victory ko symbol ho.",
+        "response": "Alex le top ma flag hoist garcha."
+    },
+    {
+        "question": "Hamro company ko interest rate saving account ko lagi kati cha?",
+        "context": "Our company offers a 4.5% annual interest rate on savings accounts. This rate is applicable to all customers with no minimum balance requirement.",
+        "response": "Hamro company ko saving account ko interest rate 4.5% cha."
+    },
+    {
+        "question": "Loan apply garna minimum requirement ke ho?",
+        "context": "To apply for a loan, customers must provide valid ID proof, income statements for the last 6 months, and have a minimum credit score of 700. Additional documents may be required based on the loan type.",
+        "response": "Loan apply garna ID proof, 6 mahina ko income statement, ra minimum 700 ko credit score cha."
+    },
+    {
+        "question": "Customer service ko timing kati ho?",
+        "context": "Our customer service is available from 9 AM to 6 PM on weekdays and from 10 AM to 2 PM on Saturdays. We remain closed on Sundays and public holidays.",
+        "response": "Customer service timing weekdays ma 9 AM to 6 PM ra Saturdays ma 10 AM to 2 PM ho."
+    },
+    {
+        "question": "Credit card late payment ko penalty kati ho?",
+        "context": "The penalty for late payment on credit cards is 2% of the outstanding amount, with a minimum penalty of NPR 500.",
+        "response": "Credit card late payment penalty 2% ho minimum NPR 500 ko sath."
+    },
+    {
+        "question": "Fixed deposit ma maximum tenure kati ho?",
+        "context": "Our fixed deposit schemes offer a maximum tenure of 10 years, with flexible interest payout options.",
+        "response": "Fixed deposit ma maximum tenure 10 barsa ho."
+    },
+    {
+        "question": "Hamro company online transaction ko charge kati cha?",
+        "context": "For online transactions, the company charges NPR 15 per transaction for amounts below NPR 10,000. For amounts above NPR 10,000, there are no charges.",
+        "response": "Online transaction ma NPR 10,000 tala NPR 15 charge huncha, usko mathi charge hudaina."
+    },
+    {
+        "question": "Loan approval process kati din lagcha?",
+        "context": "The loan approval process typically takes 5-7 working days after all required documents are submitted.",
+        "response": "Loan approval process 5-7 working days lagcha."
+    },
+    {
+        "question": "Hamro mobile banking app ko naam ke ho?",
+        "context": "The official mobile banking app of our company is called 'FinancePlus App'. It provides all essential banking services on the go.",
+        "response": "Hamro mobile banking app ko naam 'FinancePlus App' ho."
+    },
+    {
+        "question": "Company ko head office kaha cha?",
+        "context": "Our company's head office is located in Kathmandu, Nepal, at New Baneshwor, near the International Convention Center.",
+        "response": "Hamro head office Kathmandu ko New Baneshwor ma cha."
+    },
+    {
+        "question": "Current account kholda minimum balance kati hunuparcha?",
+        "context": "To open a current account, customers must maintain a minimum balance of NPR 5,000 at all times.",
+        "response": "Current account ma minimum balance NPR 5,000 hunuparcha."
+    },
+    {
+        "question": "Saving account ko interest rate kati cha?",
+        "context": "Hamro finance company le savings account ko lagi annual interest rate 4.5% rakheko cha. Yo rate sabai customers ko lagi applicable cha, jasma minimum balance maintain garna parcha NPR 1,000. Interest har mahina compound huncha ra yearly payout huncha. Special senior citizen accounts ma 0.5% extra interest pani offer huncha.",
+        "response": "Saving account ko interest rate 4.5% cha, tara senior citizens ko lagi 0.5% badhi cha."
+    },
+    {
+        "question": "Loan apply garna requirement ke ho?",
+        "context": "Loan apply garna ko lagi tapain le nimnalikhit documents dinuparcha:\n1. Valid ID proof (citizenship, passport, ya driving license).\n2. Recent 6 mahina ko income statement.\n3. Minimum 700 ko credit score.\n4. Loan purpose explain garne ek short letter.\nHamro loan approval process 7-10 working days lagcha. Aaba digital submission process le yo process ma ajhai sahaj banako cha.",
+        "response": "Loan apply garna ID proof, 6 mahina ko income statement, 700 ko credit score, ra loan purpose ko letter dinuparcha."
+    },
+    {
+        "question": "Online transaction ko charges kati huncha?",
+        "context": "Hamro company ko online transaction charges nimnalikhit anusar cha:\n- NPR 10,000 samma ko transaction ma NPR 15 per transaction.\n- NPR 10,000 mathi ko transaction ma charge lagdaina.\nYo charge hamro digital services ko operation maintain garna ho ra yo transparent system ma chalanchha.",
+        "response": "Online transaction ko charges NPR 10,000 tala NPR 15 cha, tara NPR 10,000 mathi charge lagdaina."
+    },
+    {
+        "question": "Fixed deposit ko benefits ke ke huncha?",
+        "context": "Fixed deposit ma invest garne customers le nimnalikhit benefits payauncha:\n1. Annual interest rate up to 7% (tenure anusar farak parcha).\n2. Monthly, quarterly, ya yearly interest payout options.\n3. Loan against fixed deposit ko suvidha available cha.\n4. Maximum tenure 10 barsa samma cha.\n5. Senior citizens ko lagi additional 0.5% interest.\nHamro FD scheme ma lock-in period 6 mahina ko huncha, jasle early withdrawal ma penalty lagcha.",
+        "response": "Fixed deposit ko benefits ma 7% samma ko interest rate, monthly ya yearly payout, ra loan against FD ko option sammalit cha."
+    },
+    {
+        "question": "Customer support ko timing kasto cha?",
+        "context": "Hamro customer support ko timing weekdays ma 9 AM dekhi 6 PM samma cha. Saturdays ma yo timing 10 AM dekhi 2 PM samma ho. Sundays ra public holidays ma support available hudaina. Tapain hamro toll-free number ya email id bata pani contact garna saknuhunchha.",
+        "response": "Customer support weekdays ma 9 AM dekhi 6 PM samma, Saturdays ma 10 AM dekhi 2 PM samma available cha."
+    },
+    {
+        "question": "Credit card ko late payment penalty kati cha?",
+        "context": "Hamro credit card services ma timely payment mandatory cha. Late payment penalty nimnalikhit anusar cha:\n- Outstanding amount ko 2%.\n- Minimum penalty NPR 500.\nAdditional charges jaise interest on overdue amount pani applicable huncha, jun outstanding amount anusar farak parcha.",
+        "response": "Credit card ko late payment penalty 2% ho, minimum NPR 500."
+    },
+    {
+        "question": "Loan approval ma kati din lagcha?",
+        "context": "Loan approval process nimnalikhit anusar huncha:\n1. Required documents verify garna 2-3 din lagcha.\n2. Credit history check garna 1-2 din lagcha.\n3. Overall loan review ra approval process 7-10 working days lagcha.\nOnline submission process ko karan dherai customers ko loan faster approve hune gareko cha.",
+        "response": "Loan approval process ma 7-10 working days lagcha."
+    },
+    {
+        "question": "Hamro mobile banking app ko features ke ke cha?",
+        "context": "Hamro official mobile banking app 'FinancePlus App' ho, jasle nimnalikhit features provide garcha:\n1. Online fund transfer.\n2. Bill payments jasari electricity, water, ra internet bills.\n3. Account balance ra transaction history check garna milcha.\n4. Fixed deposit ra recurring deposit create garna milcha.\n5. Secure login with biometric options.\n6. 24/7 customer service chat integration.\nHamro app Android ra iOS duba platform ma available cha.",
+        "response": "Hamro FinancePlus App ma fund transfer, bill payments, ra biometric secure login ko features cha."
+    },
+    {
+        "question": "Current account ma minimum balance kati hunuparcha?",
+        "context": "Current account ma tapain le NPR 5,000 ko minimum balance maintain garnuparcha. Yo balance maintain nagareko condition ma monthly penalty NPR 100 lagcha. Business purpose ko account ma yesto minimum balance high demand users ko lagi zaruri huncha.",
+        "response": "Current account ma minimum balance NPR 5,000 hunuparcha."
+    },
+    {
+        "question": "Hamro investment plan ma risk level kasto cha?",
+        "context": "Hamro company le diverse investment plans offer garcha, jasle risk level anusar divide gareko cha:\n1. Low-risk plans: Fixed deposits, bonds.\n2. Medium-risk plans: Balanced mutual funds.\n3. High-risk plans: Equity mutual funds ra direct stock investments.\nSabai plans customize garna milcha customers ko financial goals anusar, ra financial advisors le guide garcha.",
+        "response": "Hamro investment plans ma low-risk, medium-risk, ra high-risk options cha, sabai customize garna milcha."
+    },
+    {
+        "question": "Account recovery process ke ho?",
+        "context": "Forgot password ya account locked bhayema, recovery process nimnalikhit cha:\n1. Mobile banking app ko 'Forgot Password' option use garnuhos.\n2. Registered mobile number ma OTP receive huncha.\n3. OTP verify garepachhi, naya password set garnuhos.\n4. Additional security questions ko answer dina parcha, jasle account unlock garna madat garcha.\nProblem solve nagareko condition ma customer service contact garnuhos.",
+        "response": "Account recovery ko lagi OTP verify garera naya password set garna milcha, ya customer service contact garnuhos."
+    },
+    {
+        "question": "Corporate banking services ma ke cha?",
+        "context": "Hamro corporate banking services nimnalikhit suvidha provide garcha:\n1. Bulk salary processing.\n2. Working capital loans.\n3. Trade finance (Letter of Credit, Bank Guarantee).\n4. Dedicated relationship managers for business accounts.\n5. Corporate fixed deposits with higher interest rates.\nYo sabai services large ra medium enterprises ko banking needs pura garna baneko ho.",
+        "response": "Corporate banking ma bulk salary processing, working capital loans, ra trade finance services cha."
+    },
+    {
+        "question": "Customer complaint kasari file garna sakcha?",
+        "context": "Customers le complaint file garna nimnalikhit madhyam haru use garna sakcha:\n1. Toll-free number ma call garera.\n2. Official email address ma complaint send garera.\n3. Hamro mobile app ya website ko 'Customer Support' section use garera.\nComplaint file garisakepachhi, 2-3 working days ma response provide garincha. Complaint tracking number pani milcha.",
+        "response": "Complaint toll-free number, email, ya mobile app bata file garna milcha."
+    },
+    {
+        "question": "Home loan ko interest rate kati cha?",
+        "context": "Hamro home loan interest rate starting 7.5% annual cha. Interest rate customer ko credit score, income level, ra loan tenure anusar vary garcha. Home loan ko tenure maximum 20 barsa samma cha. Early repayment ko lagi no prepayment charges applicable cha.",
+        "response": "Home loan ko interest rate 7.5% bata suru huncha."
+    },
+    {
+        "question": "Recurring deposit ko features ke ke cha?",
+        "context": "Recurring deposit ko features nimnalikhit cha:\n1. Minimum monthly deposit NPR 500.\n2. Tenure 1 barsha dekhi 5 barsha samma cha.\n3. Annual interest rate up to 6.5%.\n4. Premature withdrawal penalty NPR 200 or 1% interest deduction (junj sukai kam ho).\n5. Flexibility to increase monthly deposit amount during tenure.",
+        "response": "Recurring deposit ma monthly NPR 500 minimum deposit, 6.5% samma interest, ra premature withdrawal penalty cha."
+    },
+    {
+        "question": "International transaction ko charges kati huncha?",
+        "context": "Hamro debit ra credit card international transactions ko lagi:\n1. 2% foreign exchange conversion fee.\n2. NPR 500 flat fee per transaction.\n3. International usage ko lagi prior activation zaruri cha.\nCustomers le mobile app ya customer service contact garera international transaction activate garna sakchhan.",
+        "response": "International transaction ma 2% forex conversion fee ra NPR 500 flat fee lagcha."
+    },
+    {
+        "question": "Health insurance ko premium payment kasari garna milcha?",
+        "context": "Hamro health insurance premium nimnalikhit madhyam le payment garna milcha:\n1. Mobile banking app.\n2. Net banking.\n3. Auto-debit from savings account.\n4. Cheque deposit nearest branch ma.\nCustomers le auto-debit option ma yearly schedule set garna sakchhan, jasle timely payment ensure garcha.",
+        "response": "Health insurance premium mobile banking, net banking, auto-debit, ya cheque bata payment garna milcha."
+    },
+    {
+        "question": "Business loan ko processing fee kati cha?",
+        "context": "Hamro business loan processing fee total loan amount ko 1% ho. Minimum processing fee NPR 5,000 lagcha ra maximum fee NPR 50,000 ho. Processing fee refundable hudaina, ra yo loan approval ko process ma deduct garincha.",
+        "response": "Business loan ko processing fee loan amount ko 1% ho, minimum NPR 5,000 ra maximum NPR 50,000 cha."
+    },
+    {
+        "question": "Hamro rewards program ko benefits ke ho?",
+        "context": "Hamro rewards program ma customers le nimnalikhit benefits paunchhan:\n1. Debit/credit card usage bata reward points earn huncha.\n2. Points ko redemption shopping vouchers, travel discounts, ra cashback ma garna milcha.\n3. Bonus points first transaction ma earn garna milcha.\n4. Reward points ko validity 2 barsa samma huncha.\nYo program loyalty badhauna design gareko ho.",
+        "response": "Rewards program ma points earn garera vouchers, travel discounts, ra cashback ko lagi redeem garna milcha."
+    },
+    {
+        "question": "EMI calculate garna kasari garna milcha?",
+        "context": "Hamro company ko website ma EMI calculator tool cha, jasle loan amount, interest rate, ra tenure input garepachhi monthly EMI calculate garna madat garcha. Mobile app ko 'Loan Services' section ma pani yo tool available cha. Manual calculation formula: EMI = [P x R x (1+R)^N] / [(1+R)^N - 1], jaha P principal amount ho, R monthly interest rate ho, ra N number of months ho.",
+        "response": "EMI calculate garna hamro website ko calculator tool ya mobile app use garna milcha."
+    },
+    {
+        "question": "Fraud report garna kasari garna milcha?",
+        "context": "Fraud ya unauthorized transactions report garna nimnalikhit madhyam use garnuhos:\n1. Toll-free helpline: Immediate fraud report garna.\n2. Mobile app ko 'Report Fraud' section.\n3. Nearest branch ma visit garera complaint file garna.\nReport file garisakepachhi, investigation team le 3-5 working days ma update provide garcha.",
+        "response": "Fraud report garna toll-free number, mobile app, ya branch visit garna milcha."
+    },
+    {
+        "question": "Savings account upgrade garna ke garnuparcha?",
+        "context": "Savings account upgrade garna nimnalikhit steps cha:\n1. Existing account ma balance NPR 50,000 minimum maintain garnuhos.\n2. Upgrade form fill garna parcha.\n3. Identity verification ko lagi citizenship ya passport submit garnuhos.\nUpgrade garisakepachhi, higher withdrawal limit ra premium features jastai free chequebook ko suvidha pauna milcha.",
+        "response": "Savings account upgrade garna balance NPR 50,000 maintain garera upgrade form fill garna parcha."
+    },
+    {
+        "question": "Employees ko lagi financial benefits ke cha?",
+        "context": "Hamro employees ko lagi nimnalikhit financial benefits cha:\n1. Subsidized loans.\n2. Free health insurance.\n3. Yearly performance bonus.\n4. Retirement fund contribution company ko taraf bata.\n5. Educational reimbursement ko lagi allowance.\nYo benefits package employee welfare ko lagi design gareko ho.",
+        "response": "Employees ko lagi subsidized loans, free health insurance, ra performance bonus cha."
+    },
+    {
+        "question": "Term insurance policy ko benefits ke cha?",
+        "context": "Hamro term insurance policy ma nimnalikhit benefits cha:\n1. Low premium rates with high coverage.\n2. Tax benefits premium payment ma.\n3. Coverage up to NPR 1 crore.\n4. Add-on riders jasari accidental death ya critical illness cover.\nPolicy ko tenure 5 barsha dekhi 30 barsha samma cha, customers ko age ra financial goals anusar.",
+        "response": "Term insurance ma low premium, high coverage, ra tax benefits cha."
+    },
+    {
+        "question": "International debit card activation kasari garna milcha?",
+        "context": "International debit card activation ko lagi nimnalikhit steps follow garnuhos:\n1. Mobile banking app ko 'Card Services' section ma activate option select garnuhos.\n2. Registered mobile number ma OTP verify garnuhos.\n3. Activation confirmation message pauna 24 hours lagcha.\nActivation successful bhayepachhi, tapainko card online ra foreign POS machines ma use garna milcha.",
+        "response": "International debit card activate garna mobile banking app use garera OTP verify garnuparcha."
+    },
+    {
+        "question": "Fixed deposit premature withdrawal penalty kati cha?",
+        "context": "Fixed deposit ko premature withdrawal penalty nimnalikhit anusar cha:\n1. Tenure complete nagarema interest rate 1% deduction huncha.\n2. Minimum penalty NPR 500 lagcha.\nPenalty deduction ko karan yo policy customer contract ma clearly mention gareko cha.",
+        "response": "FD premature withdrawal ma interest rate 1% deduction ra minimum NPR 500 penalty cha."
+    },
+    {
+        "question": "Forex services ma exchange rate kasto cha?",
+        "context": "Hamro forex services le real-time exchange rate offer garcha, jun international markets ko fluctuation anusar update huncha. Major currencies jasari USD, EUR, GBP ko lagi competitive rates available cha. Exchange rate live updates hamro website ra mobile app ma available huncha.",
+        "response": "Forex services ma real-time exchange rates offer garcha."
+    },
+    {
+        "question": "Health insurance renewal kasari garna milcha?",
+        "context": "Health insurance renewal ko lagi nimnalikhit process follow garnuhos:\n1. Renewal notice insurance expiry date bhanda 30 din pahile paunuhuncha.\n2. Mobile banking app ya website ko 'Insurance Renewal' section ma login garnuhos.\n3. Renewal premium payment online garnuhos.\n4. Confirmation email ya SMS pauna lagbhag 24 hours lagcha.",
+        "response": "Health insurance renewal ko lagi mobile app ya website use garera premium payment garnuparcha."
+    },
+    {
+        "question": "Recurring deposit ma premature withdrawal garna milcha?",
+        "context": "Recurring deposit premature withdrawal garna milcha tara penalty lagcha:\n1. Accrued interest amount ma 1% deduction huncha.\n2. Minimum withdrawal penalty NPR 200.\nCustomers le RD premature withdrawal ko lagi branch visit garera request garnuparcha, ra process 2-3 working days ma complete huncha.",
+        "response": "Recurring deposit premature withdrawal ma 1% interest deduction ra NPR 200 penalty lagcha."
+    },
+    {
+        "question": "New account kholna ke chahinchha?",
+        "context": "New savings ya current account kholna ko lagi nimnalikhit documents chahinchha:\n1. Valid ID proof: Citizenship, passport, ya driving license.\n2. Address proof: Utility bill ya voter ID.\n3. 2 recent passport size photos.\n4. Minimum initial deposit NPR 1,000.\nBranch visit garera form fill up garna parcha, ya online process pani available cha hamro website ra mobile app ma.",
+        "response": "New account kholna ID proof, address proof, photo, ra NPR 1,000 ko initial deposit chahinchha."
+    },
+    {
+        "question": "Overdraft facility kasari avail garna milcha?",
+        "context": "Hamro overdraft facility active garna ko lagi:\n1. Savings ya current account ma request submit garnuhos.\n2. Minimum balance maintain cha bhane eligible hunuhuncha.\n3. Approval process ma account transaction history ra credit score check garincha.\n4. Overdraft ko interest rate 9.5% annual cha, ra repayment timeline flexible huncha.\nRequest approve bhayepachhi, 2 working days ma facility activate huncha.",
+        "response": "Overdraft facility ko lagi request submit garera, minimum balance maintain garnuparcha."
+    },
+    {
+        "question": "Tax filing service ko cost kati cha?",
+        "context": "Hamro tax filing service individual customers ko lagi NPR 2,500 dekhi start huncha. Businesses ko lagi basic package NPR 10,000 cha, ra advanced packages additional consultation charges anusar vary garcha. Tax filing process ko lagi sabai financial documents online submit garna milcha.",
+        "response": "Tax filing service individual ko lagi NPR 2,500 ra business ko lagi NPR 10,000 bata suru huncha."
+    },
+    {
+        "question": "Financial literacy program kasari join garna milcha?",
+        "context": "Hamro company le regular financial literacy programs organize garcha, jasle customers lai saving, investment, ra budgeting sikcha. Program join garna ko lagi:\n1. Mobile app ma 'Events' section ma registration garna saknuhuncha.\n2. Branch visit garera registration form fill garnuhos.\n3. Participation free cha, ra sabai age groups ko lagi open cha.\nProgram har mahina online ra physical format ma conduct huncha.",
+        "response": "Financial literacy program join garna mobile app ya branch ma registration garnuparcha."
+    },
+    {
+        "question": "Loan tenure extend garna milcha?",
+        "context": "Loan tenure extend garna ko lagi:\n1. Loan account statement ra repayment history review huncha.\n2. Branch ma tenure extension request submit garnuhos.\n3. Extension approve bhayepachhi, new EMI calculation provide garincha.\nExtension fee lagcha, jun loan amount ko 0.5% ho.\nProcess complete hunalai 3-5 working days lagcha.",
+        "response": "Loan tenure extend garna request submit garera, extension fee 0.5% dina parcha."
+    },
+    {
+        "question": "Education loan ko details dinuhos.",
+        "context": "Education loan ko lagi hamro company le nimnalikhit provisions provide garcha:\n1. Maximum loan amount NPR 50 lakh.\n2. Interest rate 8.5% annual cha.\n3. Loan repayment period maximum 15 barsa samma cha.\n4. Required documents: Admission letter, cost breakdown, ra co-signer ko ID proof.\nLoan approval ma 7-10 working days lagcha.",
+        "response": "Education loan ko maximum amount NPR 50 lakh, interest rate 8.5%, ra repayment period 15 barsa samma cha."
+    },
+    {
+        "question": "Chequebook kasari request garna milcha?",
+        "context": "Chequebook request garna ko lagi nimnalikhit steps follow garnuhos:\n1. Mobile app ya website ma login garera 'Request Chequebook' option ma click garnuhos.\n2. Required details fill up garera submit garnuhos.\n3. Branch ma visit garera physical request form fill garna pani milcha.\nChequebook delivery registered address ma 5-7 working days ma huncha.",
+        "response": "Chequebook request mobile app ya branch ma form fill garera garna milcha."
+    },
+    {
+        "question": "Gold loan ko interest rate kati cha?",
+        "context": "Hamro gold loan interest rate 7% annual cha. Loan amount customer ko pledged gold ko value ko 75% samma provide garincha. Loan repayment ma monthly ya lump sum options available cha. Processing fee NPR 2,000 fixed cha, ra loan approval ekai din ma complete huncha.",
+        "response": "Gold loan ko interest rate 7% cha, ra processing fee NPR 2,000 cha."
+    },
+    {
+        "question": "Joint account kholna ke chahinchha?",
+        "context": "Joint account kholna ko lagi nimnalikhit documents chahinchha:\n1. Sabai account holders ko valid ID proof.\n2. Address proof: Utility bill ya voter ID.\n3. Passport size photos of all holders.\n4. Initial deposit NPR 2,000 minimum.\nJoint account form ma sabai account holders ko signature zaruri huncha.",
+        "response": "Joint account kholna ID proof, address proof, photo, ra NPR 2,000 initial deposit chahinchha."
+    },
+    {
+        "question": "Mobile banking ko registration process kasari ho?",
+        "context": "Mobile banking registration ko lagi nimnalikhit steps cha:\n1. Bank ma visit garera mobile banking registration form fill up garnuhos.\n2. Valid mobile number provide garera activation code paunuhos.\n3. Activation code use garera app ma login garnuhos.\n4. First-time login ma password set garna milcha.\nMobile banking active bhayepachhi, funds transfer, bill payment, ra account details herna milcha.",
+        "response": "Mobile banking registration bank visit garera form fill up ra activation code use garera garnuparcha."
+    },
+    {
+        "question": "Retirement planning ko lagi k k options available cha?",
+        "context": "Hamro retirement planning ko lagi nimnalikhit options cha:\n1. Pension funds: Regular income post-retirement ko lagi.\n2. Fixed deposits: Low-risk investment with steady returns.\n3. Mutual funds: Balanced risk options long-term growth ko lagi.\n4. Life insurance with retirement benefits.\nFinancial advisors ko help le customers ko goals anusar plan customize garna milcha.",
+        "response": "Retirement planning ko lagi pension funds, fixed deposits, ra mutual funds jaise options available cha."
+    },
+    {
+        "question": "Loan prepayment kasari garna milcha?",
+        "context": "Loan prepayment ko lagi nimnalikhit steps cha:\n1. Nearest branch ma visit garera prepayment request submit garnuhos.\n2. Outstanding loan amount calculate garera payment amount inform garincha.\n3. Prepayment penalty lagna sakcha, jun loan agreement ma specified cha.\n4. Payment garepachhi prepayment confirmation letter provide garincha.",
+        "response": "Loan prepayment ko lagi branch visit garera request submit garna parcha."
+    },
+    {
+        "question": "Credit card limit increase garna k garna parcha?",
+        "context": "Credit card limit increase garna nimnalikhit requirements fulfill garnuhos:\n1. Last 6 mahina ko transaction history positive hunu parcha.\n2. Salary slip ya income proof submit garnuhos.\n3. Limit increase request mobile app ya branch visit garera submit garna sakchhan.\n4. Approval process ma 3-5 working days lagcha.",
+        "response": "Credit card limit increase garna income proof submit garera request garnuparcha."
+    },
+    {
+        "question": "Service delay ko complaint kasari file garna milcha?",
+        "context": "Service delay ko complaint file garna nimnalikhit process cha:\n1. Mobile app ya website ma 'Customer Support' section ma complaint submit garnuhos.\n2. Toll-free number ma call garera complaint register garnuhos.\n3. Complaint tracking ID provide garincha, jun use garera status herna milcha.\nComplaint resolve hunalai maximum 7 working days lagcha.",
+        "response": "Service delay ko complaint mobile app, website, ya toll-free number bata file garna milcha."
+    },
+    {
+        "question": "Investment portfolio manage kasari garna milcha?",
+        "context": "Hamro investment portfolio management services le nimnalikhit madat garcha:\n1. Personalized risk assessment.\n2. Regular portfolio review ra rebalancing.\n3. Investment recommendations mutual funds, stocks, ra bonds ko lagi.\n4. Dedicated financial advisor assign garincha.\nCustomers le online dashboard bata portfolio performance track garna sakchhan.",
+        "response": "Investment portfolio manage garna personalized assessment ra financial advisor ko help milcha."
+    },
+    {
+        "question": "Balance transfer ko facility kati interest rate ma available cha?",
+        "context": "Hamro balance transfer facility ko lagi:\n1. Introductory interest rate 0% for 3 months.\n2. After 3 months, 9.99% annual rate lagcha.\n3. Processing fee NPR 500 fixed cha.\nBalance transfer ko eligibility credit card ko repayment history anusar decide huncha.",
+        "response": "Balance transfer ma 0% interest 3 mahina samma, ra processing fee NPR 500 cha."
+    },
+    {
+        "question": "Loan default bhaye pachi k huncha?",
+        "context": "Loan default bhaye pachi nimnalikhit actions huncha:\n1. Late payment penalty charge huncha.\n2. Credit score significantly impact huncha.\n3. Repeated default case ma legal notice issue huncha.\nCustomers le immediately branch visit garera repayment options discuss garna parcha to avoid further actions.",
+        "response": "Loan default bhaye pachi penalty, credit score impact, ra legal notice issue huncha."
+    },
+    {
+        "question": "Recurring deposit auto-renewal kasto cha?",
+        "context": "Recurring deposit auto-renewal feature enable garepachhi:\n1. Maturity ma deposit principal amount ra accrued interest automatically renew huncha.\n2. Renewal ma same tenure ra interest rate applicable huncha unless revised rates available huncha.\n3. Auto-renewal disable garna mobile app ya branch visit garna parcha.\nNotification renewal complete bhayepachhi SMS ya email bata aauxa.",
+        "response": "Recurring deposit auto-renewal ma principal ra interest automatically renew huncha."
+    },
+    {
+        "question": "Account close garna kasari garna milcha?",
+        "context": "Account close garna nimnalikhit steps cha:\n1. Branch visit garera account closure form fill garnuhos.\n2. All outstanding dues clear garnuparcha.\n3. Account close garepachhi balance cheque ya cash ma provide garincha.\n4. Closure confirmation letter branch bata 3-5 days ma receive huncha.",
+        "response": "Account close garna branch ma form fill garnuparcha ra dues clear garnuparcha."
+    },
+    {
+        "question": "Credit card ka fraud transactions ko liability kasto cha?",
+        "context": "Fraud transactions report garepachhi nimnalikhit policy applicable huncha:\n1. Report within 48 hours garema customer ko liability NPR 0 huncha.\n2. Delay garema maximum liability NPR 10,000 samma huncha.\n3. Fraud investigation complete bhayepachhi refund process start huncha, jasma 7-10 working days lagcha.",
+        "response": "Fraud report 48 ghanta bhitra gare liability NPR 0 huncha, delay bhaye maximum NPR 10,000 samma huncha."
+    },
+    {
+        "question": "Small business loan ko process kasari huncha?",
+        "context": "Hamro small business loan ko process nimnalikhit anusar huncha:\n1. Application form fill up garnuhos, jun online ya branch ma available cha.\n2. Business registration document, income proof, ra bank statement submit garnuhos.\n3. Loan amount maximum NPR 25 lakh samma cha, interest rate 10% annual ho.\n4. Approval process ma 7-10 working days lagcha.\nLoan approve bhayepachhi, fund directly business account ma deposit huncha.",
+        "response": "Small business loan ko lagi application form fill up ra required documents submit garnuparcha."
+    },
+    {
+        "question": "Mobile wallet ma refund request kasari garna milcha?",
+        "context": "Mobile wallet refund request nimnalikhit steps follow garera garna milcha:\n1. Mobile app ko 'Transaction History' section ma refund request option select garnuhos.\n2. Required details, jasari transaction ID, ra amount, fill up garera submit garnuhos.\n3. Refund process ma 3-5 working days lagcha.\nTransaction review complete bhayepachhi, wallet balance ma refund credit huncha.",
+        "response": "Mobile wallet refund ko lagi transaction history bata refund request submit garna milcha."
+    },
+    {
+        "question": "Overdraft recovery ko lagi k garna parcha?",
+        "context": "Overdraft recovery ko lagi:\n1. Outstanding overdraft amount pay garna nearest branch visit garnuhos.\n2. Online banking ko 'Overdraft Services' section use garera repayment garnuhos.\n3. Recovery process ma late payment penalty 1% lagna sakcha.\nRepayment complete garepachhi, overdraft account normal state ma aauncha.",
+        "response": "Overdraft recovery ko lagi branch visit garera ya online banking use garera payment garnuparcha."
+    },
+    {
+        "question": "Investment strategy customize garna kasari garna milcha?",
+        "context": "Investment strategy customize garna ko lagi nimnalikhit steps cha:\n1. Mobile app ko 'Investment Planner' tool ma login garnuhos.\n2. Risk profile assessment complete garnuhos.\n3. Recommended mutual funds, stocks, ra fixed income plans ma allocation customize garnuhos.\n4. Regularly portfolio performance track garna financial advisor ko madat linu sakchha.",
+        "response": "Investment strategy customize garna risk profile assess garera tool ya advisor ko madat linuparcha."
+    },
+    {
+        "question": "Cheque dishonor bhayo bhane aba ke garna parcha?",
+        "context": "Cheque dishonor bhayo bhane:\n1. Cheque bounce ko karan (e.g., insufficient funds) bank le notify garcha.\n2. Issuer le immediately required fund account ma deposit garera cheque reissue garnuparcha.\n3. Bounce charge NPR 1,000 applicable huncha.\nLegal implications avoid garna timely resolution zaruri cha.",
+        "response": "Cheque dishonor bhaye pachhi required fund deposit garera cheque reissue garnuparcha."
+    },
+    {
+        "question": "Fixed deposit maturity pachi amount kasari claim garna milcha?",
+        "context": "Fixed deposit maturity pachi amount claim garna nimnalikhit steps cha:\n1. Branch visit garera FD certificate ra valid ID proof submit garnuhos.\n2. Mobile app ko 'Fixed Deposit' section bata withdrawal request garnuhos.\n3. Amount withdrawal ko lagi 1-2 working days lagcha.\nMatured amount ko direct credit account ma garna pani milcha.",
+        "response": "FD maturity pachi branch ma ID proof submit garera ya mobile app use garera amount claim garna milcha."
+    },
+    {
+        "question": "Account statement kasari download garna milcha?",
+        "context": "Account statement download garna ko lagi nimnalikhit steps cha:\n1. Mobile app ya website ma login garnuhos.\n2. 'Account Services' section ma 'Download Statement' option select garnuhos.\n3. Statement period (monthly, quarterly, annual) specify garnuhos.\n4. PDF format ma statement download huncha.",
+        "response": "Account statement download mobile app ko 'Download Statement' option bata garna milcha."
+    },
+    {
+        "question": "Personal loan balance check garna kasari garna milcha?",
+        "context": "Personal loan balance check garna ko lagi nimnalikhit methods use garna milcha:\n1. Mobile app ma login garera 'Loan Details' section ma balance herna milcha.\n2. Toll-free number ma call garera balance inquiry garnuhos.\n3. Nearest branch ma visit garera loan statement print garna milcha.",
+        "response": "Personal loan balance mobile app, toll-free number, ya branch visit garera check garna milcha."
+    },
+    {
+        "question": "Tax saver FD ko features k k cha?",
+        "context": "Tax saver FD ko nimnalikhit features cha:\n1. Lock-in period 5 barsa.\n2. Maximum deposit limit NPR 1.5 lakh per year.\n3. Tax deduction as per Income Tax Act section 80C.\n4. Fixed interest rate, jun tenure anusar vary garcha.\nPremature withdrawal allowed chaina due to tax-saving benefits.",
+        "response": "Tax saver FD ko lock-in period 5 barsa ho, ra NPR 1.5 lakh samma tax deduction milcha."
+    },
+    {
+        "question": "Forex card recharge kasari garna milcha?",
+        "context": "Forex card recharge garna ko lagi:\n1. Nearest branch ma visit garera recharge request form fill garnuhos.\n2. Required recharge amount bank account ma deposit garnuhos.\n3. Recharge process ma 24 hours lagcha.\nMobile app bata 'Forex Services' section use garera recharge online garnu pani milcha.",
+        "response": "Forex card recharge branch visit ya mobile app ko 'Forex Services' section use garera garna milcha."
+    },
+    {
+        "question": "Mobile banking ma login garna problem aayo, k garne?",
+        "context": "Mobile banking login ma problem aayo bhane:\n1. Username ra password check garnuhos, correct cha bhane re-enter garnuhos.\n2. Password reset garna 'Forgot Password' option use garna saknuhos.\n3. App update garera try garnuhos, ya app uninstall garera reinstall garera login garna milcha.\n4. Internet connection check garnuhos, strong connection hunu parcha.\nAgar problem solve nai hudaina bhane, customer support ma contact garnuhos.",
+        "response": "Mobile banking ma login garna problem bhaye password reset ya app reinstall garna saknuhos."
+    },
+    {
+        "question": "Loan ko eligibility check kasari garne?",
+        "context": "Loan ko eligibility check garna ko lagi:\n1. Online application form fill garnuhos.\n2. Minimum age 21 barsa ra maximum 60 barsa bhayeko hunuparcha.\n3. Minimum monthly income NPR 25,000 hunuparcha.\n4. Credit score 650 or above huna parcha.\n5. Required documents: Identity proof, address proof, ra income proof.\nEligibility result 1-2 din ma mail ya SMS bata notify garincha.",
+        "response": "Loan ko eligibility check garna form fill garera documents submit garnuparcha."
+    },
+    {
+        "question": "New investment opportunities k k cha?",
+        "context": "Hamro company le nimnalikhit new investment opportunities provide garcha:\n1. Mutual Funds: Equity, debt, ra hybrid funds available cha.\n2. Government Bonds: Low-risk investment options.\n3. Real Estate Investment Trusts (REITs): Property market ma invest garne option.\n4. High-interest Fixed Deposits: Long-term savings with attractive rates.\n5. Stock Market: Online trading platform le easy access garne.\nInvestment advisors ko help le custom plan banauna milcha.",
+        "response": "New investment options mutual funds, bonds, REITs, fixed deposits, ra stock market trading cha."
+    },
+    {
+        "question": "Loan ko documentation ke ke cha?",
+        "context": "Loan ko documentation ko lagi nimnalikhit documents required huncha:\n1. Valid ID proof: Citizenship, passport, ya driving license.\n2. Address proof: Utility bills, voter ID, ya rental agreement.\n3. Latest salary slip, bank statement, ya income tax return.\n4. Loan application form fill garera, signature submit garnuhos.\n5. Business loan ko lagi: Business registration, profit & loss statement.\nDocuments submit garera approval process start garincha.",
+        "response": "Loan ko documentation ma ID proof, address proof, salary slip, ra application form chahinchha."
+    },
+    {
+        "question": "Special offers kasari avail garna milcha?",
+        "context": "Hamro company le seasonal special offers ko lagi nimnalikhit steps follow garna milcha:\n1. Mobile app ya website ko 'Special Offers' section ma januhos.\n2. Eligible products ko list herera, offer details padhnu hos.\n3. Online ya branch ma eligible offer apply garera, discount ya cashback paunuhos.\n4. Limited time offer ho, so jaldi avail garna parcha.",
+        "response": "Special offers avail garna app ya website ma eligible offer select garera apply garna parcha."
+    },
+    {
+        "question": "Loan pre-closure process kasari ho?",
+        "context": "Loan pre-closure process ko lagi:\n1. Outstanding loan amount clear garna parcha.\n2. Pre-closure request form fill garera, branch ma submit garnuhos.\n3. Pre-closure penalty charge lagcha, jo loan agreement ma specified cha.\n4. Loan pre-closure garera final statement receive garincha, jun 3-5 din ma process huncha.",
+        "response": "Loan pre-closure ko lagi branch visit garera pre-closure request form submit garnuparcha."
+    },
+    {
+        "question": "EMI calculation kasari garna milcha?",
+        "context": "EMI calculation garna ko lagi hamro online EMI calculator use garna milcha:\n1. Loan amount, tenure, ra interest rate input garnuhos.\n2. EMI calculator apne loan ko monthly EMI calculate garincha.\n3. EMI amount ko calculation monthly, quarterly, ra yearly basis ma herna milcha.\n4. EMI fixed rate ya floating rate ko anusar calculate garna milcha.",
+        "response": "EMI calculate garna online EMI calculator ma loan amount, tenure, ra interest rate input garna parcha."
+    },
+    {
+        "question": "Savings account ko interest rate kati cha?",
+        "context": "Hamro savings account ko interest rate nimnalikhit anusar cha:\n1. Monthly balance NPR 10,000 ra upar: 4% annual interest.\n2. Monthly balance NPR 5,000-10,000: 3.5% annual interest.\n3. Below NPR 5,000 balance: 3% annual interest.\nInterest quarterly basis ma account ma credit garincha.",
+        "response": "Savings account ko interest rate 3% dekhi 4% samma cha, balance anusar."
+    },
+    {
+        "question": "Loan repayment garna kasari garne?",
+        "context": "Loan repayment garna ko lagi:\n1. Mobile app ya website ma login garera EMI payment schedule check garna saknuhuncha.\n2. Nearest branch visit garera EMI payment garna milcha.\n3. Online banking, mobile wallet, ya cheque payment options available cha.\n4. Late payment penalty cha, so timely payment garna zaruri cha.",
+        "response": "Loan repayment online, branch visit, ya mobile wallet bata garna milcha."
+    },
+    {
+        "question": "Fixed Deposit interest rates update kahile garincha?",
+        "context": "Hamro Fixed Deposit interest rates market conditions anusar regularly update garincha. Typically:\n1. Rate updates quarter ma garincha.\n2. Latest interest rates hamro website, mobile app, ra branch ma available garincha.\n3. Rate increase ya decrease market interest rates anusar garincha.\n4. New rate apply garna FD renewal garna parcha.",
+        "response": "Fixed Deposit interest rates quarterly update garincha, ra website ma available cha."
+    },
+    {
+        "question": "Overdraft facility ko interest rate kati cha?",
+        "context": "Hamro overdraft facility ko interest rate 12% annual cha. Overdraft ko maximum limit customer ko credit profile anusar decide garincha.\n1. Overdraft repay garna flexible EMI option available cha.\n2. Interest calculation daily balance basis ma garincha.\n3. Processing fee NPR 1,000 fixed cha.\n4. Interest calculate garera monthly statement branch ya mobile app bata access garna saknuhuncha.",
+        "response": "Overdraft facility ko interest rate 12% annual cha, ra processing fee NPR 1,000 cha."
+    },
+    {
+        "question": "Digital banking ma k k services available cha?",
+        "context": "Hamro digital banking platform ma nimnalikhit services available cha:\n1. Fund transfer: Local ra international transfers garna saknuhos.\n2. Bill payment: Utility bills, loan payments, ra insurance premium pay garna milcha.\n3. Account management: Balance check, mini statement, ra statement download garna milcha.\n4. Loan application: Instant personal loan ya credit card application garna saknuhos.\n5. Mobile wallet integration: Easy access to mobile wallet funds.\n6. Investment services: Mutual fund purchase, portfolio management.",
+        "response": "Digital banking ma fund transfer, bill payment, loan application, ra investment services available cha."
+    },
+    {
+        "question": "Account upgrade kasari garna milcha?",
+        "context": "Account upgrade garna ko lagi nimnalikhit steps follow garnuhos:\n1. Nearest branch visit garera request form fill garnuhos.\n2. Required documents: Identity proof, address proof, ra recent photo.\n3. Existing account ko details review garera upgrade option choose garincha.\n4. Upgrade processing time 2-3 working days lagcha.\n5. Online banking ya mobile app bata bhi request garna milcha.",
+        "response": "Account upgrade garna branch visit garera form fill garna parcha, ya online request garna milcha."
+    },
+    {
+        "question": "Loan interest rates kati cha?",
+        "context": "Hamro loan interest rates nimnalikhit cha:\n1. Personal loan: 12% annual fixed rate.\n2. Home loan: 8.5% annual fixed rate.\n3. Auto loan: 10% annual fixed rate.\n4. Education loan: 9% annual fixed rate.\n5. Business loan: 11% annual rate.\nInterest rates vary garna sakcha based on tenure, loan amount, ra customer profile.",
+        "response": "Loan interest rates personal loan ma 12%, home loan ma 8.5%, auto loan ma 10%, ra education loan ma 9% cha."
+    },
+    {
+        "question": "Emergency fund account kasari open garna milcha?",
+        "context": "Emergency fund account open garna ko lagi nimnalikhit steps follow garnuhos:\n1. Account opening form fill garera branch ya mobile app ma submit garnuhos.\n2. Minimum balance NPR 5,000 deposit garna parcha.\n3. Emergency fund account le flexible withdrawal facility ra low-risk investment options provide garincha.\n4. Account ko benefits ma higher interest rate ra tax exemptions cha.\n5. Account activation 1-2 din ma garincha.",
+        "response": "Emergency fund account open garna minimum NPR 5,000 deposit garera branch ya app bata request garnuparcha."
+    },
+    {
+        "question": "Fixed deposit ko maturity amount kasari calculate garne?",
+        "context": "Fixed deposit ko maturity amount calculate garna ko lagi nimnalikhit factors cha:\n1. Deposit amount: Initial investment.\n2. Interest rate: FD ko applicable interest rate.\n3. Tenure: FD ko maturity period.\n4. Compound interest: Interest quarterly compound garincha.\n5. Maturity amount formula: Maturity amount = Principal * (1 + Interest rate/4)^(4 * Tenure).\nOnline FD calculator ya mobile app bata maturity amount calculate garna milcha.",
+        "response": "Fixed deposit ko maturity amount calculate garna deposit amount, interest rate, ra tenure ko details use garera online calculator use garna milcha."
+    },
+    {
+        "question": "Investment returns kasari monitor garne?",
+        "context": "Investment returns monitor garna ko lagi nimnalikhit methods cha:\n1. Mobile app ko 'Investment Dashboard' use garera portfolio track garnuhos.\n2. Monthly or quarterly statements herera performance evaluate garna milcha.\n3. Financial advisor ko help le portfolio review garna saknuhos.\n4. Market trends ra stock performance ko analysis garna.\n5. Mutual funds ko NAV (Net Asset Value) regularly check garna milcha.",
+        "response": "Investment returns track garna mobile app ko dashboard ya portfolio statements herera milcha."
+    },
+    {
+        "question": "Loan ko EMI kaise calculate garna milcha?",
+        "context": "Loan EMI calculate garna ko lagi nimnalikhit formula cha:\n1. EMI = [P * R * (1 + R)^N] / [(1 + R)^N - 1], jaha P = loan principal, R = monthly interest rate, N = number of months.\n2. EMI calculator use garera, online ya mobile app bata monthly EMI calculate garna saknuhos.\n3. Loan repayment tenure, interest rate, ra loan amount input garera EMI calculate garincha.",
+        "response": "Loan ko EMI calculate garna online EMI calculator ya mobile app bata principal, interest rate, ra tenure input garera garna milcha."
+    },
+    {
+        "question": "Loan ko processing fee kati cha?",
+        "context": "Loan processing fee ko lagi nimnalikhit charge applicable cha:\n1. Personal loan: 2% of the loan amount.\n2. Home loan: 1% of the loan amount.\n3. Education loan: 1.5% of the loan amount.\n4. Business loan: 2.5% of the loan amount.\n5. Processing fee loan amount bata deduct garincha, ra refundable chaina.",
+        "response": "Loan processing fee personal loan ma 2%, home loan ma 1%, ra education loan ma 1.5% cha."
+    },
+    {
+        "question": "Credit card ko bill payment kasari garne?",
+        "context": "Credit card bill payment garna ko lagi nimnalikhit options available cha:\n1. Mobile app ya website bata online payment garna milcha.\n2. Bank branch ma cash ya cheque payment garera bill clear garna saknuhos.\n3. Credit card ko automatic bill payment setup garna milcha, jasma har mahina automatic deduction hunchha.\n4. Minimum payment, full payment, ya EMI option choose garna saknuhos.",
+        "response": "Credit card bill payment online app, branch, ya automatic deduction setup bata garna milcha."
+    },
+    {
+        "question": "Loan prepayment ko penalty kati cha?",
+        "context": "Loan prepayment ko penalty ko rate loan type anusar vary garincha:\n1. Personal loan: 2% of the remaining loan balance.\n2. Home loan: 1.5% of the remaining loan balance.\n3. Business loan: 3% of the remaining loan balance.\n4. Prepayment penalty loan agreement ma clearly mentioned cha.\nPrepayment penalty calculate garera amount settle garincha.",
+        "response": "Loan prepayment ko penalty personal loan ma 2%, home loan ma 1.5%, ra business loan ma 3% cha."
+    },
+    {
+        "question": "Bank ma joint account kasari open garne?",
+        "context": "Bank ma joint account open garna ko lagi nimnalikhit steps follow garnuhos:\n1. Dono account holders le branch visit garera form fill garnuhos.\n2. Required documents: Identity proof, address proof, ra photographs.\n3. Joint account ko types: Either or survivor, Jointly operated.\n4. Minimum deposit amount NPR 1,000 parcha.\n5. Account opening 1-2 din ma process garincha.",
+        "response": "Joint account open garna dono account holders le branch visit garera form fill garera documents submit garnuparcha."
+    },
+    {
+        "question": "Insurance ko policy renew kasari garne?",
+        "context": "Insurance policy renew garna ko lagi nimnalikhit steps follow garnuhos:\n1. Insurance provider ko website ya mobile app ma login garera 'Renew Policy' option select garnuhos.\n2. Policy details verify garera, renewal payment options select garnuhos.\n3. Payment through net banking, credit/debit card ya mobile wallet garna saknuhos.\n4. Renewal process 1-2 din ma complete garincha, ra renewal confirmation SMS ya email bata paunuhos.\n5. Agent ko through bhi policy renew garna milcha.",
+        "response": "Insurance policy renew garna online ya agent ko madhyam bata payment garera renew garna saknuhos."
+    },
+    {
+        "question": "Credit card ko late fee kati cha?",
+        "context": "Credit card late fee ko lagi nimnalikhit charges applicable cha:\n1. Payment due date pachi 1-2 din bhitra payment garna: NPR 500 late fee.\n2. Payment due date pachi 3-5 din bhitra payment garna: NPR 1,000 late fee.\n3. Due date pachi 5 din bhayepachi, credit card block garincha ra penalty lagcha.\n4. Credit card statement ma late fee ko charges clearly mentioned hunchha.\n5. Timely payment ko lagi automatic payment setup garna saknuhos.",
+        "response": "Credit card late fee NPR 500 dekhi 1,000 samma ho depending on payment delay."
+    },
+    {
+        "question": "Loan disbursement ko process kasari cha?",
+        "context": "Loan disbursement ko process ko lagi nimnalikhit steps cha:\n1. Loan approval bhaye pachi, loan agreement sign garnuhos.\n2. Required documents verify garera final approval process garincha.\n3. Loan disbursement amount bank account ma transfer garincha.\n4. Disbursement timeline 3-5 din bhitra garincha, depending on the loan type.\n5. EMI schedule ya repayment options finalize garincha.",
+        "response": "Loan disbursement approved loan agreement sign garera, bank account ma transfer garincha."
+    },
+    {
+        "question": "Account ko maintenance charge kati cha?",
+        "context": "Hamro bank ma account maintenance charge anusar:\n1. Regular savings account: NPR 200 monthly charge.\n2. Premium savings account: NPR 400 monthly charge.\n3. Current account: NPR 500 monthly charge.\n4. Balance check: Free ho, if balance is above minimum threshold.\n5. Low balance penalty applicable cha agar balance NPR 5,000 bhanda kam cha.\n6. Charges apply garne period every month end ma calculate garincha.",
+        "response": "Account maintenance charge savings account ma NPR 200, premium account ma NPR 400 cha."
+    },
+    {
+        "question": "Tax deduction certificate kasari prapt garne?",
+        "context": "Tax deduction certificate ko lagi nimnalikhit process cha:\n1. Tax-deducted-at-source (TDS) certificate ko lagi, employer ya bank ko through request garnuhos.\n2. Certificate online banking ya mobile app bata download garna milcha.\n3. Tax calculation ko lagi financial year ko statement herna parcha.\n4. Tax deduction certificate official tax filing ma submit garna saknuhos.\n5. Annual return file garna pachi certificate automatically generate garincha.",
+        "response": "Tax deduction certificate online banking ya employer bata download garna milcha."
+    },
+    {
+        "question": "Interest rate hike ko impact k ho?",
+        "context": "Interest rate hike ko impact:\n1. Loan repayment amount badhcha, particularly variable interest rate loans ma.\n2. Fixed deposit interest rates ma increment huncha, jo long-term savings ko lagi beneficial cha.\n3. Saving account interest rate ma thoda badhat garincha.\n4. Home loan ko EMI ma badhat garna sakcha, agar floating interest rate ho.\n5. Investment options ma mutual funds ya stocks ko performance effect garna sakcha.",
+        "response": "Interest rate hike le loan repayment badhcha, savings ma thoda fayda cha, ra fixed deposit ko interest rate increase hunchha."
+    },
+    {
+        "question": "Mortgage loan ko EMI kasari calculate garne?",
+        "context": "Mortgage loan EMI calculate garna ko lagi nimnalikhit formula cha:\n1. EMI = P * R * (1 + R)^N / [(1 + R)^N - 1], jaha P = loan amount, R = monthly interest rate, N = number of payments.\n2. EMI calculator use garera, online platform bata easily calculate garna saknuhos.\n3. Loan principal amount, tenure, ra interest rate ko details input garera EMI calculate garincha.",
+        "response": "Mortgage loan EMI calculate garna online EMI calculator ma loan amount, interest rate, ra tenure input garera garna milcha."
+    },
+    {
+        "question": "Debit card ko PIN change kasari garne?",
+        "context": "Debit card PIN change garna ko lagi nimnalikhit steps follow garnuhos:\n1. ATM ya bank branch visit garera PIN change option select garnuhos.\n2. OTP verify garera, naya PIN enter garnuhos.\n3. Online banking ya mobile app bata bhi PIN change garna milcha.\n4. PIN change confirm garera, naya PIN securely store garera rakhnuhos.",
+        "response": "Debit card PIN change ATM ya mobile app bata garna milcha, OTP verify garera."
+    },
+    {
+        "question": "Auto loan ko repayment kasari garne?",
+        "context": "Auto loan ko repayment garna ko lagi nimnalikhit options cha:\n1. EMI payments automatically bank account bata deduct garincha, agar auto-debit activated cha.\n2. Mobile banking ya online banking bata EMI payment garna saknuhos.\n3. Cash ya cheque payment branch ma submit garera EMI clear garna milcha.\n4. Loan statement ya repayment schedule regularly track garna milcha.",
+        "response": "Auto loan repayment online banking, mobile app, ya branch visit garera garna milcha."
+    },
+    {
+        "question": "Fixed deposit ko early withdrawal kasari garne?",
+        "context": "Fixed deposit ko early withdrawal garna ko lagi nimnalikhit process cha:\n1. Fixed deposit ko maturity date bhanda paila, premature withdrawal request garnuhos.\n2. Withdrawal ko lagi bank ma visit garera request form fill garnuhos.\n3. Premature withdrawal fee lagcha, jo fixed deposit agreement ma specified cha.\n4. Partial withdrawal bhi garna saknuhos, certain conditions anusar.\n5. Amount within 24 hours ma account ma transfer garincha.",
+        "response": "Fixed deposit ko early withdrawal bank visit garera request form fill garera garna saknuhos."
+    },
+    {
+        "question": "Naya credit card ko benefits ke ke cha?",
+        "context": "Naya credit card ko benefits ma nimnalikhit features cha:\n1. Reward points: Purchases ma reward points accumulate garincha, jasko use shopping ya bill payment ma garna saknuhos.\n2. Cashback offers: Specific categories ma, jaise fuel, groceries, shopping ma cashback milcha.\n3. Travel benefits: Lounge access, air miles, ra travel insurance provide garincha.\n4. EMI conversion: Large purchases ko lagi easy EMI conversion option available cha.\n5. Interest-free period: 45 days ko interest-free period milcha if full payment timely garincha.",
+        "response": "Naya credit card ma reward points, cashback, travel benefits, ra EMI conversion options cha."
+    },
+    {
+        "question": "Personal loan ko prepayment kasari garne?",
+        "context": "Personal loan ko prepayment garna ko lagi nimnalikhit steps follow garnuhos:\n1. Prepayment request garna ko lagi nearest branch visit garnuhos.\n2. Required documents: Loan account number, ID proof, and signature.\n3. Prepayment penalty applicable huna sakcha, jo loan agreement ma specify garincha.\n4. Remaining loan balance ko payment garera, loan account close garincha.\n5. Prepayment amount bank account bata transfer garincha.\n6. Online banking ya mobile app bata bhi prepayment garna milcha, penalty details check garera.",
+        "response": "Personal loan prepayment nearest branch ya mobile app bata garna milcha. Prepayment penalty applicable cha."
+    },
+    {
+        "question": "Bank ma savings account ko balance kasari check garne?",
+        "context": "Savings account ko balance check garna ko lagi nimnalikhit methods cha:\n1. Mobile banking app: 'Balance Enquiry' option bata balance check garna milcha.\n2. ATM visit garera 'Balance Inquiry' option select garera balance dekhna saknuhos.\n3. Bank statement download garera account balance herna saknuhos.\n4. Call center ko through bhi balance check garna milcha.\n5. Regular SMS alerts sign up garera balance updates paunuhos.",
+        "response": "Savings account ko balance mobile app, ATM, bank statement, ya call center bata check garna milcha."
+    },
+    {
+        "question": "Investment portfolio review kasari garne?",
+        "context": "Investment portfolio review garna ko lagi nimnalikhit steps cha:\n1. Portfolio ko total value, returns, ra risk assess garne.\n2. Stocks, mutual funds, ra bonds ko performance track garne.\n3. Monthly ya quarterly reports download garera performance analyze garne.\n4. Financial advisor ko through portfolio review garna milcha.\n5. Rebalancing or diversification garne zarurat cha bhane, investment ko distribution update garne.",
+        "response": "Investment portfolio review garna reports, performance analysis, ra financial advisor ko madad le garna milcha."
+    },
+    {
+        "question": "Mobile banking ko security features ke ke cha?",
+        "context": "Mobile banking ko security features ma nimnalikhit options cha:\n1. Two-factor authentication (2FA): Login ko bela OTP ya biometric verification use garne.\n2. Transaction alerts: Har transaction ko confirmation SMS ya email bata milcha.\n3. Encryption: Mobile app ko data transfer encrypted hunchha.\n4. App lock: App open garna ko lagi password ya fingerprint authentication set garna milcha.\n5. Remote logout: Suspicious activity bhaye mobile app bata session terminate garna milcha.",
+        "response": "Mobile banking ma 2FA, transaction alerts, encryption, app lock, ra remote logout jaise security features cha."
+    },
+    {
+        "question": "Credit card limit kasari increase garne?",
+        "context": "Credit card limit increase garna ko lagi nimnalikhit options cha:\n1. Credit card company ko customer service ko through request garne.\n2. Current credit utilization ra payment history review garera limit increase request garna milcha.\n3. Income verification garera, income certificate provide garna parcha.\n4. Agar account regular pay garne ho bhane, bank le limit automatically increase garna sakcha.\n5. New credit card application ko through bhi limit increase garna saknuhos.",
+        "response": "Credit card limit increase garna customer service ma request garera, income verification ra payment history submit garera garna milcha."
+    },
+    {
+        "question": "Bank ma cheque deposit kasari garne?",
+        "context": "Cheque deposit garna ko lagi nimnalikhit steps cha:\n1. Deposit slip fill garera, cheque ko details, account number, ra deposit amount mention garera branch ma submit garnuhos.\n2. ATM ma bhi cheque deposit garna saknuhos, cheque deposit machine use garera.\n3. Mobile banking app ko through bhi cheque deposit garna saknuhos, cheque ko photo upload garera.\n4. Confirmation receipt paunuhos, jo cheque deposit successful bhayeko confirm garne cha.",
+        "response": "Cheque deposit branch, ATM, ya mobile app ko through garna milcha, deposit slip ya receipt paunuhos."
+    },
+    {
+        "question": "Fixed deposit ko renewal kasari garne?",
+        "context": "Fixed deposit ko renewal garna ko lagi nimnalikhit process cha:\n1. Maturity date pachi renewal request garna parcha.\n2. Fixed deposit amount ko automatically renewal garna saknuhos, ya customer ko option cha renewal.\n3. Interest rate review garera, naya tenure select garna milcha.\n4. Renewal request form fill garera branch ma submit garna parcha.\n5. Online banking ya mobile app bata bhi fixed deposit renew garna milcha.",
+        "response": "Fixed deposit renewal bank visit ya mobile app bata garna milcha, tenure ra interest rate select garera."
+    },
+    {
+        "question": "Business loan ko eligibility criteria ke cha?",
+        "context": "Business loan ko eligibility criteria nimnalikhit cha:\n1. Business ko minimum 2 years ko operation experience huna parcha.\n2. Business financials like balance sheet, P&L statement, ra income tax returns ko review garincha.\n3. Business ko monthly revenue minimum NPR 1,00,000 huna parcha.\n4. Business owner ko personal credit score thik huna parcha.\n5. Collateral security provide garne zarurat cha.\n6. Loan repayment capacity ko evaluation garincha.",
+        "response": "Business loan ko eligibility 2 years ko operation, minimum monthly revenue, ra collateral security require garincha."
+    },
+    {
+        "question": "Emergency fund kasari build garne?",
+        "context": "Emergency fund build garna ko lagi nimnalikhit steps follow garnuhos:\n1. Monthly income ko 3-6 mahina ko expenses ko amount set garera target fund rakhnuhos.\n2. Automatic savings plan set garera, monthly deposit garne.\n3. Low-risk investment options like short-term bonds ya fixed deposits ma fund invest garne.\n4. Emergency fund account ma separate balance maintain garne.\n5. Fund only emergency situations ma use garne, jaise medical emergencies, job loss, etc.",
+        "response": "Emergency fund build garna monthly savings plan set garera, low-risk investment options ma fund rakhera build garna saknuhos."
+    },
+    {
+        "question": "ATM transaction ko limit kati cha?",
+        "context": "ATM transaction ko limit bank ko policy anusar alag-alag huna sakcha, tara generally: \n1. Cash withdrawal daily limit NPR 50,000 - 100,000 hunchha.\n2. Balance inquiry limit NPR 5,000 - 10,000 hunchha.\n3. Fund transfer ko limit NPR 25,000 - 50,000 hunchha.\n4. Transaction fees applicable huna sakcha if limit exceed garincha.\n5. ATM transaction limit customize garna ko lagi request garna saknuhos.",
+        "response": "ATM transaction ko limit generally NPR 50,000 - 100,000 cash withdrawal ko lagi cha."
+    },
+    {
+        "question": "Bank fraud ko prevention kasari garne?",
+        "context": "Bank fraud ko prevention ko lagi nimnalikhit tips follow garnuhos:\n1. Strong password ra 2-factor authentication (2FA) use garne.\n2. ATM ra debit/credit card ko PIN ko safety maintain garne, ya public places ma use nagarne.\n3. Phishing emails ra suspicious calls bata bachne, personal information share nagarne.\n4. Regular bank statement ra transactions review garne.\n5. Bank ko fraud prevention helpline ma contact garne if suspicious activity dekhnuhos.",
+        "response": "Bank fraud ko prevention ko lagi 2FA, strong passwords, suspicious activity ko alert, ra regular statement review garne."
+    },
+    {
+        "question": "Home loan ko EMI kasari adjust garne?",
+        "context": "Home loan ko EMI adjust garna ko lagi nimnalikhit options cha:\n1. EMI restructuring request garnuhos, jo bank ko customer service ko through garincha.\n2. Loan tenure extension ko through EMI amount kam garna milcha.\n3. Partial prepayment garera, EMI ko amount kam garna saknuhos.\n4. Interest rate adjustment ko request garna saknuhos, jo floating interest rate loan ma garincha.\n5. Online banking ya mobile app ko through EMI adjustment request garna milcha.",
+        "response": "Home loan EMI adjust garna loan tenure extension, partial prepayment ya interest rate adjustment request garera garna saknuhos."
+    },
+    {
+        "question": "Naya credit card ko annual fee kati cha?",
+        "context": "Naya credit card ko annual fee bank ko policy anusar vary garna sakcha, tara generally:\n1. Basic credit card ko annual fee NPR 1,000 - 2,000 hunchha.\n2. Premium credit card ko annual fee NPR 5,000 - 10,000 hunchha, depending on benefits like lounge access and rewards.\n3. Waiver options: Agar aapko annual spending certain amount purna garne ho bhane, annual fee waive garna milcha.\n4. Fee structure ko detailed information credit card agreement ma cha.",
+        "response": "Naya credit card ko annual fee NPR 1,000 - 10,000 hunchha, depending on type of card ra benefits."
+    },
+    {
+        "question": "Fixed deposit ko interest payout kasari garne?",
+        "context": "Fixed deposit ko interest payout ko options cha:\n1. Interest payout monthly: EMI-like monthly payments garincha.\n2. Quarterly interest payout: Interest har 3 mahina ma payout garincha.\n3. Cumulative interest payout: Fixed deposit ko interest maturity date ma principal amount sanga payout garincha.\n4. Payout option select garna ko lagi, fixed deposit open garnu parcha.\n5. Online banking ya mobile app ko through bhi interest payout option select garna milcha.",
+        "response": "Fixed deposit ko interest monthly, quarterly ya cumulative basis ma payout garna milcha."
+    },
+    {
+        "question": "Student loan ko eligibility ke ke cha?",
+        "context": "Student loan ko eligibility ko lagi nimnalikhit criteria cha:\n1. Applicant ko minimum age 18 years huna parcha, maximum 35 years.\n2. Student ko admission confirmation letter ya university ko acceptance letter required cha.\n3. Loan amount dependent cha, course fees ra university ko location ko anusar.\n4. Guarantor ko zarurat parcha, agar student ko income source na cha bhane.\n5. Good academic performance ko proof bhi provide garna saknuhos.",
+        "response": "Student loan ko eligibility ko lagi, applicant ko age, admission letter, ra guarantor ko requirement cha."
+    },
+    {
+        "question": "EMI loan ko moratorium period ke ho?",
+        "context": "EMI loan ko moratorium period ko lagi nimnalikhit guidelines cha:\n1. Moratorium period bhitra loan ko EMI ko payment delay garna saknuhos.\n2. Generally, 3-6 mahina ko moratorium period hunchha, jo repayment schedule ko starting ma diya janchha.\n3. Interest accumulation during moratorium period garincha.\n4. Moratorium period pachi, loan repayment normal EMI structure ko anusar start garincha.\n5. Special cases, jaise natural disaster ya emergency situations, ko lagi moratorium period extend garincha.",
+        "response": "EMI loan ko moratorium period ko through loan repayment delay garna saknuhos, tara interest accumulate hunchha."
+    },
+    {
+        "question": "Business loan ko interest rate kati cha?",
+        "context": "Business loan ko interest rate ko lagi nimnalikhit factors impact garincha:\n1. Loan amount: Larger loans ko interest rate thoda kam huna sakcha.\n2. Loan tenure: Longer tenures ko interest rate higher huna sakcha.\n3. Business ko credit rating: High credit score le low interest rate milcha.\n4. Generally, business loan ko interest rate 9% - 18% annual range ma hunchha.\n5. Collateral security provide garna saknuhos bhane, interest rate kam huna sakcha.",
+        "response": "Business loan ko interest rate generally 9% - 18% annual hunchha, depending on loan amount, tenure, ra credit rating."
+    },
+    {
+        "question": "Digital wallet ko balance kasari check garne?",
+        "context": "Digital wallet ko balance check garna ko lagi nimnalikhit options cha:\n1. Mobile wallet app open garera 'Balance Inquiry' option select garera balance check garna milcha.\n2. Transaction history check garera, balance ko latest update herna saknuhos.\n3. SMS alerts: Digital wallet ko transaction ra balance updates ko lagi SMS alerts enable garna saknuhos.\n4. Wallet ko website ya mobile banking ko through bhi balance check garna saknuhos.",
+        "response": "Digital wallet ko balance mobile app, SMS alerts, ya website ko through check garna milcha."
+    },
+    {
+        "question": "Cheque book order kasari garne?",
+        "context": "Cheque book order garna ko lagi nimnalikhit steps follow garnuhos:\n1. Bank ko mobile app ya internet banking ko through cheque book request option select garera order garna milcha.\n2. Branch visit garera cheque book request form fill garera order garna saknuhos.\n3. Required details: Account number, address confirmation, and signature verification.\n4. Cheque book delivery 7-10 din bhitra home address ma garincha.\n5. Bank ko customer service hotline ko through bhi cheque book order garna saknuhos.",
+        "response": "Cheque book order mobile app, internet banking, ya branch visit garera garna milcha."
+    },
+    {
+        "question": "Mutual fund ma investment kasari garne?",
+        "context": "Mutual fund ma investment garna ko lagi nimnalikhit steps cha:\n1. Investment platform ya broker select garera mutual fund investment plan choose garna saknuhos.\n2. Risk profile assessment garera, suitable mutual fund select garna milcha.\n3. SIP (Systematic Investment Plan) ya lump sum investment options ma garna saknuhos.\n4. KYC verification complete garera, required documents submit garna parcha.\n5. Regular contribution ya lump sum payment garera investment start garincha.",
+        "response": "Mutual fund ma investment SIP ya lump sum options ko through, platform select garera garna milcha."
+    },
+    {
+        "question": "Tax refund ko process kasari garne?",
+        "context": "Tax refund process ko lagi nimnalikhit steps cha:\n1. Income tax return file garera, tax payment ko details mention garne.\n2. Refund request section ma, tax paid amount ko excess mention garera refund claim garne.\n3. Refund ko request online, IT department website ya e-filing portal ko through submit garna milcha.\n4. Refund amount bank account ma direct transfer garincha.\n5. Refund processing time generally 30-45 din lagcha.",
+        "response": "Tax refund e-filing portal ya income tax return ko through apply garera, bank account ma transfer garincha."
+    },
+    {
+        "question": "Auto loan ko processing fee kati cha?",
+        "context": "Auto loan ko processing fee ko lagi nimnalikhit details cha:\n1. Processing fee generally loan amount ko 1% - 3% hunchha.\n2. Fee structure ko details loan application process ma mention garincha.\n3. Special offers ko through, processing fee waiver ya discount garna milcha.\n4. Processing fee loan disbursal bhayepachi pay garincha.\n5. Additional charges: Documentation fees ra verification charges bhi applicable huna sakcha.",
+        "response": "Auto loan ko processing fee 1% - 3% hunchha, ra special offers ma discount ya waiver milcha."
+    },
+    {
+        "question": "Online banking ma fund transfer kasari garne?",
+        "context": "Online banking ma fund transfer garna ko lagi nimnalikhit steps follow garnuhos:\n1. Login garera, 'Fund Transfer' option select garnuhos.\n2. Sender ra receiver ko account details, jaise account number, IFSC code, ra branch location enter garera transfer ko amount specify garne.\n3. Transaction type select garera (NEFT, RTGS, IMPS) transfer method choose garne.\n4. OTP verify garera, transfer confirm garne.\n5. Transfer confirmation SMS ya email alert receive garne.",
+        "response": "Online banking ma fund transfer garna ko lagi, account details enter garera, transfer method select garera OTP verify garera transfer garna milcha."
+    },
+    {
+        "question": "Home loan ko eligibility criteria ke ke cha?",
+        "context": "Home loan ko eligibility criteria ko lagi nimnalikhit points cha:\n1. Applicant ko minimum age 21 years huna parcha, maximum 65 years.\n2. Regular monthly income ko proof: Salary slip ya income tax returns.\n3. Loan amount ko eligibility, applicant ko income, job stability, ra credit score anusar determine garincha.\n4. Collateral security: Property ko legal documents ko verification garincha.\n5. EMI repayment capacity: Monthly EMI ko 50% tak applicant ko income se kam huna parcha.",
+        "response": "Home loan ko eligibility ko lagi, applicant ko age, income, credit score, ra property collateral requirement cha."
+    },
+    {
+        "question": "Personal loan ko interest rate kati cha?",
+        "context": "Personal loan ko interest rate ko lagi nimnalikhit factors affect garincha:\n1. Loan amount: Chhoto loan amount ko interest rate thodo high huna sakcha.\n2. Loan tenure: Longer tenure ko interest rate higher huna sakcha.\n3. Credit score: Higher credit score ko case ma low interest rate milcha.\n4. Generally, personal loan ko interest rate 11% - 22% annual hunchha.\n5. Special offers: Promotional periods ma interest rate kam huna sakcha.",
+        "response": "Personal loan ko interest rate generally 11% - 22% annual hunchha, depending on loan amount, tenure, ra credit score."
+    },
+    {
+        "question": "Bank ma fixed deposit ko maturity amount kasari calculate garne?",
+        "context": "Fixed deposit ko maturity amount calculate garna ko lagi, nimnalikhit formula cha:\n1. Principal amount ra interest rate ko adhar ma, total maturity amount calculate garincha.\n2. Maturity value = Principal + (Principal x Interest Rate x Tenure).\n3. Interest calculation ma compounded interest apply garincha, jo quarterly ya yearly huna sakcha.\n4. Online FD calculator ko through bhi maturity amount easily calculate garna saknuhos.",
+        "response": "Fixed deposit ko maturity amount principal ra interest rate ko adhar ma, compounded interest calculation ko through calculate garincha."
+    },
+    {
+        "question": "Loan application ko status kasari check garne?",
+        "context": "Loan application status check garna ko lagi nimnalikhit methods cha:\n1. Loan application number ko through bank website ya mobile app ma login garera status check garna milcha.\n2. Bank ko customer service ko through loan application status enquiry garna saknuhos.\n3. Email ya SMS alerts ko through bhi loan approval ya rejection status receive garna milcha.\n4. Loan officer ko direct contact ma janera bhi status puchna saknuhos.",
+        "response": "Loan application ko status bank app, website, customer service, ya email/SMS alerts ko through check garna milcha."
+    },
+    {
+        "question": "ATM card ko PIN kasari reset garne?",
+        "context": "ATM card ko PIN reset garna ko lagi nimnalikhit steps follow garnuhos:\n1. Nearest ATM visit garera, 'PIN Reset' option select garnuhos.\n2. Old PIN enter garera, new PIN set garne.\n3. Mobile banking app ko through bhi PIN reset request garna saknuhos.\n4. Bank ko customer service hotline ko through PIN reset request garna saknuhos.\n5. PIN reset confirmation SMS ya email paunuhos.",
+        "response": "ATM card ko PIN reset ATM, mobile app, ya customer service ko through garna milcha."
+    },
+    {
+        "question": "Bank ma savings account ko maintenance fee kati cha?",
+        "context": "Savings account ko maintenance fee ko lagi nimnalikhit details cha:\n1. Basic savings account ko monthly maintenance fee NPR 100 - 200 huna sakcha.\n2. Minimum balance requirement fulfill nagarema fee applicable hunchha.\n3. Premium accounts ko maintenance fee generally NPR 500 - 1,000 huna sakcha.\n4. Online banking ya mobile banking ko through minimum balance ko monitoring garera fee avoid garna saknuhos.",
+        "response": "Savings account ko maintenance fee generally NPR 100 - 1,000 hunchha, depending on account type ra balance requirements."
+    },
+    {
+        "question": "Joint account ko signatories kasari manage garne?",
+        "context": "Joint account ko signatories manage garna ko lagi nimnalikhit options cha:\n1. Account ko opening samay ma, two or more signatories define garincha.\n2. Account holder le bank ma request garera, additional signatories add ya remove garna saknuhos.\n3. Signatories ko rights define garna saknuhos: Either-or (either of the signatories can operate) ya Both-to-sign (both must sign). \n4. Account modification ko lagi, joint account holders ko written consent required cha.",
+        "response": "Joint account ko signatories ko modification account holders ko written consent ra bank request ko through garna milcha."
+    },
+    {
+        "question": "Business loan ko repayment period kati cha?",
+        "context": "Business loan ko repayment period ko lagi nimnalikhit options cha:\n1. Short-term business loan ko repayment period generally 1 - 3 years hunchha.\n2. Long-term business loan ko repayment period 5 - 7 years tak huna sakcha.\n3. Flexible repayment options: EMI ya bullet repayment structure.\n4. Business ko revenue anusar repayment terms customize garincha.\n5. Loan repayment schedule bank ko loan agreement ko through clearly define garincha.",
+        "response": "Business loan ko repayment period generally 1 - 7 years hunchha, depending on loan amount ra revenue capacity."
+    },
+    {
+        "question": "Mobile banking ko features ke ke cha?",
+        "context": "Mobile banking ko features ma nimnalikhit options cha:\n1. Fund transfer: IMPS, NEFT, RTGS jasto transaction options.\n2. Bill payments: Utilities, mobile recharges, and loan EMI payments.\n3. Investment management: Mutual fund purchases, SIP contributions, FD renewals.\n4. Account services: Account balance, mini statement, and cheque book requests.\n5. Security: 2FA, biometric login, and transaction alerts.",
+        "response": "Mobile banking ko through fund transfer, bill payments, investment management, account services, ra security features available cha."
+    },
+    {
+        "question": "Gold loan ko interest rate kati cha?",
+        "context": "Gold loan ko interest rate ko lagi nimnalikhit factors cha:\n1. Loan amount: Gold value ra loan-to-value ratio anusar interest rate determine garincha.\n2. Loan tenure: Shorter tenure ma interest rate generally lower huna sakcha.\n3. Gold quality: Pure gold ko rate thoda better huna sakcha.\n4. Generally, gold loan ko interest rate 10% - 24% annual hunchha.\n5. Special offers: Seasonal promotions ya festive periods ma interest rate discount garna sakcha.",
+        "response": "Gold loan ko interest rate generally 10% - 24% annual hunchha, depending on gold value, loan amount, ra tenure."
+    },
+    {
+        "question": "Car loan ko eligibility criteria ke ke cha?",
+        "context": "Car loan ko eligibility ko lagi nimnalikhit factors cha:\n1. Applicant ko minimum age 21 years ra maximum age 60 years.\n2. Regular income ko proof, jaise salary slip ya self-employment proof.\n3. Loan amount ko eligibility applicant ko income, credit score, ra existing liabilities anusar determine garincha.\n4. Vehicle ko model, age, ra condition bhi loan approval ko factors hunchha.\n5. Minimum 1 year ko job stability ya business experience ko requirement cha.",
+        "response": "Car loan ko eligibility ko lagi applicant ko age, income, credit score, ra vehicle ko condition ko assessment garincha."
+    },
+    {
+        "question": "Naya credit card ma reward points kasari earn garne?",
+        "context": "Naya credit card ko reward points earn garna ko lagi nimnalikhit options cha:\n1. Credit card ko regular spending ma reward points earn garincha.\n2. Specific categories ma (travel, dining, shopping) higher reward points milne cha.\n3. Signup bonuses: Naya credit card le first purchase ya minimum spend ma reward points offer garincha.\n4. Reward points ko redemption ko lagi, online shopping, flight booking ya gift vouchers ko through garna saknuhos.\n5. Monthly/annual spending threshold purna garera bonus reward points milcha.",
+        "response": "Credit card ma regular spending, specific categories ma purchases, ra signup bonuses ko through reward points earn garna milcha."
+    },
+    {
+        "question": "Naya account open garne process ke ho?",
+        "context": "Naya account open garne process ko lagi nimnalikhit steps cha:\n1. Bank branch ma visit garera ya online portal ko through account open request garna saknuhos.\n2. Required documents: Proof of identity (KYC), address proof, passport-size photo.\n3. Minimum balance deposit: Savings or current account ma minimum balance deposit garna parcha.\n4. Account type selection: Savings, current, or salary account ko selection garna parcha.\n5. Account opening confirmation SMS ya email paunuhos.",
+        "response": "Naya account open garna ko lagi, documents submit garera minimum balance deposit garera bank branch ya online through request garna milcha."
+    },
+    {
+        "question": "EMI loan ko prepayment kasari garne?",
+        "context": "EMI loan ko prepayment ko lagi nimnalikhit steps cha:\n1. Loan account ko outstanding amount ko calculation garera, prepayment request form submit garna parcha.\n2. Bank ko customer service ko through bhi prepayment request garna milcha.\n3. Partial prepayment ya full prepayment options available hunchha.\n4. Prepayment charges: Early closure fee ya processing charges applicable huna sakcha.\n5. Prepayment ko baad EMI amount ya loan tenure reduce garna milcha, loan agreement anusar.",
+        "response": "EMI loan ko prepayment partial ya full garna saknuhos, tara prepayment charges ko barema janakari customer service ya loan agreement ma check garera garna milcha."
+    },
+    {
+        "question": "Mobile wallet ko transfer limits kati cha?",
+        "context": "Mobile wallet ma transfer limits ko lagi nimnalikhit guidelines cha:\n1. KYC verification purna garepachi, wallet ma daily transfer limit NPR 50,000 - 100,000 huna sakcha.\n2. Without KYC, wallet ko transfer limit daily NPR 10,000 - 20,000 tak hunchha.\n3. Wallet ko account type (basic or premium) ko adhar ma transfer limits vary garincha.\n4. Bank account linked wallet ma, transfer limit higher huna sakcha.\n5. Digital wallet ko terms and conditions herera, specific transfer limits ko barema janakari lina milcha.",
+        "response": "Mobile wallet ko transfer limits KYC verification, account type, ra linked bank account ko adhar ma differ garincha, generally NPR 50,000 - 100,000 daily limit hunchha."
+    },
+    {
+        "question": "Insurance policy ko premium kasari pay garne?",
+        "context": "Insurance policy ko premium pay garna ko lagi nimnalikhit methods cha:\n1. Online payment: Insurance company ko website ya mobile app ko through premium payment garna milcha.\n2. Bank transfer: Direct bank transfer ya NEFT/RTGS ko through bhi premium pay garna saknuhos.\n3. Credit/Debit card: Card details enter garera premium amount pay garna milcha.\n4. EMI option: Some policies offer EMI-based premium payment, which can be selected during policy purchase.\n5. Post office ya branch visit garera bhi premium payment garna saknuhos.",
+        "response": "Insurance premium online, bank transfer, card payment, ya EMI option ko through pay garna milcha."
+    },
+    {
+        "question": "FD ko interest rate kasari check garne?",
+        "context": "Fixed deposit ko interest rate check garna ko lagi nimnalikhit methods cha:\n1. Bank ko website ya mobile app ko through FD interest rate ko details dekhna milcha.\n2. FD interest rate ko information bank branch visit garera bhi puchna saknuhos.\n3. Online FD calculators ko through current interest rates ko comparison garna milcha.\n4. Interest rate generally tenure ra deposit amount ko adhar ma vary garincha.\n5. Fixed deposit ko interest rates ko regular updates bank ko official channels ma publish garincha.",
+        "response": "FD interest rate bank website, branch, ya online FD calculators ko through check garna milcha."
+    },
+    {
+        "question": "Recurring deposit ko minimum deposit kati cha?",
+        "context": "Recurring deposit ko minimum deposit ko lagi nimnalikhit details cha:\n1. Minimum deposit amount generally NPR 500 - 1,000 per month hunchha.\n2. Deposit amount ko flexibility: Monthly deposit amount ko range bank ko policy anusar vary garincha.\n3. Tenure selection: 6 months - 10 years tak ko tenure options available hunchha.\n4. Higher deposit amount le better returns offer garna sakcha.\n5. Interest rates bhi tenure ra deposit amount anusar vary garincha.",
+        "response": "Recurring deposit ko minimum deposit amount NPR 500 - 1,000 per month hunchha, tenure options 6 mahina dekhi 10 barsa samma available hunchha."
+    },
+    {
+        "question": "Bank ko loan pre-closure charge kati cha?",
+        "context": "Loan pre-closure charge ko lagi nimnalikhit details cha:\n1. Pre-closure charge generally loan amount ko 2% - 4% hunchha.\n2. Charges vary garincha, depending on loan type (home loan, personal loan, etc.) ra tenure.\n3. Pre-closure charges loan agreement ma clearly mentioned garincha.\n4. Some banks offer no pre-closure charges for floating interest rate loans.\n5. Pre-closure ko baad remaining balance account clear garera loan closure confirm garincha.",
+        "response": "Loan pre-closure charge generally 2% - 4% hunchha, jo loan type ra agreement ko adhar ma vary garincha."
+    },
+    {
+        "question": "Mutual fund ko SIP ko minimum contribution kati cha?",
+        "context": "Mutual fund SIP ko minimum contribution ko lagi nimnalikhit guidelines cha:\n1. Generally, minimum SIP contribution NPR 500 - 1,000 per month hunchha.\n2. SIP ko amount gradually increase garna milcha based on personal financial capacity.\n3. SIP contributions flexible hunchha, monthly, quarterly ya yearly basis ma set garna saknuhos.\n4. Some mutual funds offer minimum SIP amount ko flexibility during initial months.\n5. SIP ko through, long-term wealth accumulation ra regular investments garna saknuhos.",
+        "response": "Mutual fund SIP ko minimum contribution NPR 500 - 1,000 per month hunchha, ra flexible SIP amounts set garna milcha."
+    },
+    {
+        "question": "Credit card ko late payment fee kati cha?",
+        "context": "Credit card ko late payment fee ko lagi nimnalikhit guidelines cha:\n1. Credit card bill time ma pay nagarema, generally NPR 500 - 1,500 ko late payment fee lagcha.\n2. Fee amount card type, outstanding balance, ra delay period ko adhar ma vary garincha.\n3. Some cards le first-time late payment ma milda warning dekhaucha.\n4. Late payment ko baad, interest bhi extra lagcha, jo outstanding balance ko 3% - 5% huna sakcha.\n5. Time ma payment garema fee ra interest avoid garna saknuhos.",
+        "response": "Credit card ko late payment fee generally NPR 500 - 1,500 hunchha, ra late payment ko period anusar extra interest pani lagcha."
+    },
+    {
+        "question": "Home loan ko prepayment ko process kasari garne?",
+        "context": "Home loan ko prepayment garna ko lagi nimnalikhit process cha:\n1. Prepayment form ko through loan provider ko branch ma request garna parcha.\n2. Full or partial prepayment garna saknuhos, ra outstanding balance clear garna milcha.\n3. Prepayment charge applicable huna sakcha, generally loan type anusar 2% - 3% lagcha.\n4. Prepayment ko baad, EMI ya loan tenure reduce garincha.\n5. Prepayment ko confirmation SMS ya email paunuhos.",
+        "response": "Home loan ko prepayment garna ko lagi, prepayment form submit garera outstanding balance clear garna milcha, tara charge applicable huna sakcha."
+    },
+    {
+        "question": "SIP ko benefits ke ke cha?",
+        "context": "Systematic Investment Plan (SIP) ko benefits ko lagi nimnalikhit points cha:\n1. Regular investments: SIP monthly contribution ko through regular investment garna milcha.\n2. Rupee cost averaging: Market fluctuations ko during, average cost ma units purchase garna saknuhos.\n3. Compounding growth: Long-term investment ma compound interest le higher returns milcha.\n4. Flexibility: SIP amount flexible garera monthly increase ya decrease garna milcha.\n5. Tax benefits: Some SIPs under 80C provide tax deductions.",
+        "response": "SIP ko through regular investment, rupee cost averaging, ra compounding growth jasto benefits paunuhos, plus tax benefits pani milcha."
+    },
+    {
+        "question": "Account ko joint holder kasari add garne?",
+        "context": "Account ko joint holder add garna ko lagi nimnalikhit process cha:\n1. Bank ko branch ma visit garera, joint holder add garne form fill garna parcha.\n2. Required documents: Both account holders ko KYC documents, ID proofs, passport-size photo.\n3. Account type select garera, either-or or both-to-sign options choose garna milcha.\n4. Bank ko verification process pachi, joint holder successfully add garincha.\n5. Confirmation ko baad, new account holder le bhi account operate garna saknuhos.",
+        "response": "Joint holder add garna ko lagi, form fill garera documents submit garera bank branch visit garera request garna milcha."
+    },
+    {
+        "question": "Fixed deposit ko interest rate kasari calculate garne?",
+        "context": "Fixed deposit ko interest rate calculate garna ko lagi nimnalikhit steps cha:\n1. Principal amount ra tenure anusar interest rate decide garincha.\n2. Interest calculation ma, annual rate ko adhar ma, compounded interest ko formula apply garincha.\n3. FD calculator ko through, total maturity amount calculate garna saknuhos.\n4. Interest rate ko basis ma, higher tenure ra higher amount ko FD le better returns dekhaucha.\n5. FD interest generally quarterly ya yearly compounded hunchha.",
+        "response": "Fixed deposit ko interest rate principal amount, tenure, ra compounding frequency ko adhar ma calculate garincha."
+    },
+    {
+        "question": "Mobile banking app ko security kasari protect garne?",
+        "context": "Mobile banking app ko security protect garna ko lagi nimnalikhit steps cha:\n1. Strong password ya PIN set garne, ra OTP verification enable garne.\n2. Biometric login (fingerprint ya face recognition) enable garera security enhance garna milcha.\n3. Regularly update garera app ko latest version use garne.\n4. Public Wi-Fi ma banking transactions avoid garne.\n5. Transaction alerts ko through activity monitor garne, ra suspicious activity paaye alert garne.",
+        "response": "Mobile banking app ko security strong passwords, biometric login, ra regular updates ko through protect garna saknuhos."
+    },
+    {
+        "question": "Business loan ko interest rate kati cha?",
+        "context": "Business loan ko interest rate ko lagi nimnalikhit factors cha:\n1. Loan amount: Higher loan amount ko interest rate generally kam hunchha.\n2. Credit score: Higher credit score ko case ma low interest rate milcha.\n3. Loan tenure: Long tenure ma interest rate generally higher huna sakcha.\n4. Industry type: Business ko nature anusar bhi interest rate vary garincha.\n5. Generally, business loan ko interest rate 10% - 18% annual hunchha.",
+        "response": "Business loan ko interest rate generally 10% - 18% hunchha, depending on loan amount, credit score, ra tenure."
+    },
+    {
+        "question": "Insurance claim ko process kasari garne?",
+        "context": "Insurance claim ko process ko lagi nimnalikhit steps cha:\n1. Claim form fill garera, required documents jaise medical reports, policy documents, ID proof submit garne.\n2. Insurance provider ko customer service ko through claim initiation garna milcha.\n3. Claim ko investigation pachi, claim amount approval ya rejection garincha.\n4. If approved, claim amount direct account ya cheque ma transfer garincha.\n5. Processing time varies, generally 7 - 15 days between claim submission and approval.",
+        "response": "Insurance claim ko process form fill garera documents submit garne, ra approval ko baad amount transfer garna milcha."
+    },
+    {
+        "question": "Business ko GST registration kasari garne?",
+        "context": "Business ko GST registration garna ko lagi nimnalikhit steps cha:\n1. GST portal ma login garera, registration form fill garne.\n2. Required documents: PAN card, business address proof, bank account details, business nature ko details.\n3. GSTIN receive garne pachi, regular GST filings ko liye ready garne.\n4. GST return filing monthly or quarterly basis ma garne parcha.\n5. GST registration ko baad, tax invoices generate garna milcha, ra tax compliance follow garna parcha.",
+        "response": "GST registration garna ko lagi, online portal ma form fill garera documents submit garera GSTIN receive garna milcha."
+    },
+    {
+        "question": "Credit score kasari improve garne?",
+        "context": "Credit score improve garna ko lagi nimnalikhit steps cha:\n1. Time ma EMI payment garne ra credit card bills clear garne.\n2. Credit utilization ratio 30% tak rakhne.\n3. Multiple loan applications ko avoid garne, ra ekota loan ya credit card manage garne.\n4. Regularly credit report check garera errors correct garne.\n5. Old debts ya outstanding balances clear garne.",
+        "response": "Credit score improve garna ko lagi, EMI payments time ma garne, credit utilization low rakhe ra credit report errors check garne zaruri cha."
+    },
+    {
+        "question": "Loan ko disbursement ko process kati dinma garincha?",
+        "context": "Loan ko disbursement ko process ko lagi nimnalikhit steps cha:\n1. Loan application ko approval ko baad, documentation verification garincha.\n2. Required documents submit garera, loan agreement sign garne.\n3. Bank ko internal processing complete garera, funds disburse garincha.\n4. Disbursement process generally 7-10 din ko andar garincha, loan type anusar.\n5. Disbursed amount ko payment applicant ko bank account ma directly transfer garincha.",
+        "response": "Loan ko disbursement process generally 7-10 din ma complete garincha, jo documents verification ra loan approval ko baad garincha."
+    },
+    {
+        "question": "Gold loan ko interest rate kati cha?",
+        "context": "Gold loan ko interest rate ko lagi nimnalikhit factors cha:\n1. Interest rate generally 10% - 18% annual hunchha, depending on loan amount ra tenure.\n2. Gold quality ra weight ko adhar ma loan amount determine garincha.\n3. Short-term loans ko interest rate generally kam hunchha.\n4. Loan repayment terms flexible hunchha: EMI ya lump sum payment option available hunchha.\n5. Some institutions provide gold loan with low interest rates during promotional periods.",
+        "response": "Gold loan ko interest rate generally 10% - 18% hunchha, jo loan amount, gold quality ra tenure ko adhar ma vary garincha."
+    },
+    {
+        "question": "Saving account ko interest rate kasari calculate garincha?",
+        "context": "Saving account ko interest rate calculate garna ko lagi nimnalikhit factors cha:\n1. Interest rate generally annual 3% - 5% hunchha, depending on bank ko policy.\n2. Interest daily balance ko adhar ma calculate garincha.\n3. Interest compounded quarterly ya annually garincha.\n4. Higher balance le higher interest earn garna madat garne cha.\n5. Some banks provide higher interest rates for senior citizens or long-term deposits.",
+        "response": "Saving account ko interest rate daily balance ko adhar ma calculate garincha, ra generally quarterly ya annually compounded hunchha."
+    },
+    {
+        "question": "Personal loan ko eligibility criteria ke cha?",
+        "context": "Personal loan ko eligibility criteria ko lagi nimnalikhit points cha:\n1. Minimum age 21 years ra maximum age 60 years ko ho.\n2. Regular monthly income, job stability ya self-employment ko proof.\n3. Minimum 6 months ko work experience ya business continuity.\n4. Credit score 650 ya usko mathi huna parcha.\n5. Existing financial obligations (loan repayments) ko assessment pani garincha.",
+        "response": "Personal loan ko eligibility criteria ma, age, income, job stability, ra credit score ko assessment garincha."
+    },
+    {
+        "question": "Credit card ko balance transfer kasari garne?",
+        "context": "Credit card balance transfer ko process ko lagi nimnalikhit steps cha:\n1. Bank ya credit card provider ko through balance transfer offer check garne.\n2. Balance transfer ko request form fill garera, required details (existing credit card details, amount) submit garne.\n3. Transferred amount ko applicable interest rate ra charges ko barema janakari linu parcha.\n4. Balance transfer ko baad, old card ko balance clear garincha.\n5. Transfer amount ko repayment ko liye, new card ma EMI ya interest rate apply garincha.",
+        "response": "Credit card balance transfer garna ko lagi, balance transfer request form fill garera, old card ko balance transfer garna saknuhos."
+    },
+    {
+        "question": "Fixed deposit ma premature withdrawal garna kasari garincha?",
+        "context": "Fixed deposit ma premature withdrawal ko process ko lagi nimnalikhit steps cha:\n1. FD ko premature withdrawal request bank branch ko through garne.\n2. Early withdrawal fee ko barema janakari linu parcha, jo generally FD interest rate ko 1% - 2% lower hunchha.\n3. Required documents: FD receipt, ID proof, bank account details.\n4. FD ko remaining interest ko calculation, premature withdrawal ma kam interest mileko huna sakcha.\n5. Premature withdrawal baad, disbursed amount applicant ko bank account ma transfer garincha.",
+        "response": "Fixed deposit ko premature withdrawal ko lagi, FD request form fill garera, bank branch ma visit garera amount withdraw garna saknuhos."
+    },
+    {
+        "question": "Loan application ko status kasari check garne?",
+        "context": "Loan application ko status check garne ko lagi nimnalikhit methods cha:\n1. Bank ko website ya mobile app ko through loan status check garna milcha.\n2. Loan application reference number ya account number ko through status track garna milcha.\n3. Customer service ko through loan status ko update puchna saknuhos.\n4. Email ya SMS alert ko through loan approval ya rejection ko information milne cha.\n5. Branch visit garera bhi application status ko inquiry garna saknuhos.",
+        "response": "Loan application ko status bank website, mobile app, ya customer service ko through check garna saknuhos."
+    },
+    {
+        "question": "Naya cheque book kasari apply garne?",
+        "context": "Naya cheque book apply garne ko lagi nimnalikhit process cha:\n1. Bank ko website ya mobile app ko through online cheque book request garna saknuhos.\n2. Bank branch visit garera, cheque book request form fill garne.\n3. Required details: Account number, ID proof.\n4. Naya cheque book 7-10 dinma applicant ko registered address ma deliver garincha.\n5. Cheque book ko delivery confirmation SMS ya email paunuhos.",
+        "response": "Naya cheque book online request form fill garera, bank branch ma visit garera ya mobile app ko through apply garna milcha."
+    },
+    {
+        "question": "Loan ko EMI calculator kasari use garne?",
+        "context": "Loan ko EMI calculator ko through EMI calculate garna ko lagi nimnalikhit steps cha:\n1. Loan amount, tenure, ra interest rate enter garne.\n2. EMI calculator automatically, monthly EMI amount ko calculation garincha.\n3. EMI ko calculation ma, principal ra interest breakdown pani dekhna milcha.\n4. Loan EMI ko amount, monthly budget ko anusar adjust garna saknuhos.\n5. EMI ko calculation online tool ya mobile app ko through easy garna milcha.",
+        "response": "Loan EMI calculator ko through, loan amount, tenure, ra interest rate enter garera monthly EMI calculate garna milcha."
+    },
+    {
+        "question": "Tax saving schemes ko barema ke ke jancha?",
+        "context": "Tax saving schemes ko barema nimnalikhit details cha:\n1. Section 80C: PPF, ELSS, NSC, LIC premiums jasta investments tax deduction ma aaunchha.\n2. Section 80D: Health insurance premiums ko tax benefit milcha.\n3. Section 80E: Education loan ko interest payment ko tax deduction milcha.\n4. Section 24(b): Home loan interest payment ko tax deduction milcha.\n5. Some schemes le long-term investments ko through higher returns bhi offer garincha.",
+        "response": "Tax saving schemes jaise PPF, ELSS, ra health insurance premiums ko through tax deductions pauna saknuhos."
+    },
+    {
+        "question": "Digital banking ma account ko security kasari protect garne?",
+        "context": "Digital banking ma account ko security ko lagi nimnalikhit steps cha:\n1. Strong password ra 2-factor authentication (2FA) enable garne.\n2. Mobile banking app ko latest version use garne ra regular updates garne.\n3. Secure network (private Wi-Fi) ma transaction garne, public Wi-Fi avoid garne.\n4. Suspicious activity ko case ma, account immediately block garne ya report garne.\n5. Bank ko customer support ko through account ko security alert set garne.",
+        "response": "Digital banking account ko security strong password, 2FA, regular app updates, ra secure network ko through protect garna milcha."
+    },
+    {
+        "question": "FD ko interest payment kasari garincha?",
+        "context": "Fixed Deposit (FD) ko interest payment ko process ko lagi nimnalikhit steps cha:\n1. FD ko interest monthly, quarterly, ya yearly basis ma pay garincha, jo investor ko preference anusar hunchha.\n2. If monthly interest, it will be credited directly to the linked bank account.\n3. If quarterly ya yearly interest, cheque ya direct transfer method through payment hunchha.\n4. FD ko interest automatically calculate garincha, ra bank statement ma mention garincha.\n5. Premature withdrawal ma, FD ko interest kam huna sakcha, based on tenure.",
+        "response": "FD ko interest generally monthly ya quarterly basis ma linked account ma transfer garincha. Premature withdrawal ma, interest kam huna sakcha."
+    },
+    {
+        "question": "Education loan ko repayment ko option haru ke ke cha?",
+        "context": "Education loan ko repayment ko options ko lagi nimnalikhit details cha:\n1. EMI based repayment: Fixed monthly installments ko through loan repayment garincha.\n2. Interest-only repayment: Loan disbursement ko time ma, keval interest payment garna saknuhos.\n3. Moratorium period: Education loan ko case ma, study ko duration pachi repayment start garna milcha.\n4. Prepayment option: Loan ko full ya partial amount ko prepayment garna saknuhos, without penalty in most cases.\n5. Flexible EMI terms: Some banks le flexible EMI terms ra extended tenure options provide garincha.",
+        "response": "Education loan ko repayment ko liye, EMI-based, interest-only, ya moratorium period ko options available cha."
+    },
+    {
+        "question": "Mutual fund ko SIP me kis type ko risk involve cha?",
+        "context": "Mutual Fund ko SIP (Systematic Investment Plan) me risk ko barema nimnalikhit information cha:\n1. Equity mutual funds me high risk hunchha, as stock market fluctuation affects returns.\n2. Debt mutual funds me low risk hunchha, but lower returns milcha compared to equities.\n3. Hybrid funds me moderate risk hunchha, as they invest in both equity and debt.\n4. SIP ko through, regular investments garera risk ko impact reduce garna saknuhos due to rupee cost averaging.\n5. SIP long-term investment ko liye beneficial hunchha, as market volatility se minimize garne milcha.",
+        "response": "Mutual fund ko SIP me equity funds le high risk ra return milcha, debt funds le low risk ra moderate return provide garincha."
+    },
+    {
+        "question": "Business ko GST return kasari file garne?",
+        "context": "Business ko GST return filing ko process ko liye nimnalikhit steps cha:\n1. GST portal ma login garera, GSTIN number ko through return filing garne.\n2. Monthly ya quarterly GST return file garna parcha, depending on business turnover.\n3. GST invoices, purchase, sales, tax paid ko details submit garne.\n4. GST return ko due date ko andar filing garne, otherwise penalty charge huna sakcha.\n5. GST return file garne pachi, acknowledgement receipt milne cha jo filing successful hunchha.",
+        "response": "Business ko GST return GST portal ma login garera, sales, purchase, ra tax details submit garera file garna milcha."
+    },
+    {
+        "question": "Bank loan ko approval ko liye kasari prepare garne?",
+        "context": "Bank loan ko approval ko liye nimnalikhit preparation tips cha:\n1. Required documents: Identity proof, address proof, income proof, business documents (if applicable) ready garne.\n2. Credit score ko importance: Credit score minimum 650 ya usko mathi huna parcha.\n3. Loan repayment capacity assess garne: Monthly income ra existing obligations ko base ma.\n4. Business ya employment stability ko proof dikhau.\n5. Loan type ko understanding: Loan ko terms, interest rates, ra repayment options ko barema clear huna parcha.",
+        "response": "Bank loan ko approval ko liye, required documents ready garera, credit score improve garne, ra income stability ko proof dikhau."
+    },
+    {
+        "question": "Personal loan ko processing fee kati cha?",
+        "context": "Personal loan ko processing fee ko barema nimnalikhit information cha:\n1. Processing fee typically 1% - 2% of the loan amount hunchha.\n2. Some banks provide processing fee waivers during special offers or for specific customer segments.\n3. Processing fee ko calculation loan amount anusar vary garincha.\n4. Fee is deducted from the loan amount at the time of disbursement.\n5. Higher loan amounts le generally higher processing fee involve garincha.",
+        "response": "Personal loan ko processing fee generally 1% - 2% hunchha, jo loan amount ko basis ma calculate garincha."
+    },
+    {
+        "question": "Naya bank account kasari open garne?",
+        "context": "Naya bank account open garna ko lagi nimnalikhit steps cha:\n1. Required documents: KYC (Know Your Customer) documents, ID proof, address proof, photograph.\n2. Visit bank branch ya online application form fill garera account open garna saknuhos.\n3. Account type select garne: Saving, current, ya fixed deposit account.\n4. Initial deposit amount ko barema janakari linu parcha.\n5. Account opening confirmation ko baad, account number ya passbook receive garincha.",
+        "response": "Naya bank account open garna ko lagi, KYC documents ra initial deposit ko through bank branch ya online apply garna milcha."
+    },
+    {
+        "question": "Car loan ko eligibility criteria ke cha?",
+        "context": "Car loan ko eligibility criteria ko barema nimnalikhit details cha:\n1. Minimum age 21 years ra maximum age 65 years ko ho.\n2. Regular monthly income or business continuity ko proof.\n3. At least 1 year ko work experience or 2 years ko business operation.\n4. Credit score minimum 650 huna parcha.\n5. Vehicle ko down payment, loan amount, ra tenure ko basis ma eligibility assessment garincha.",
+        "response": "Car loan ko eligibility criteria ma, age, income, job stability, ra credit score ko assessment garincha."
+    },
+    {
+        "question": "Term insurance ko benefits ke ke cha?",
+        "context": "Term insurance ko benefits ko barema nimnalikhit information cha:\n1. Pure life cover: Term insurance le risk ko case ma family ko financial protection provide garincha.\n2. Lower premium: Term insurance ko premium generally affordable hunchha compared to other insurance types.\n3. Flexibility: Premium payment ko frequency (monthly, quarterly, annually) choose garna milcha.\n4. Tax benefits: Term insurance premiums under section 80C tax deduction ma aauchha.\n5. Pure risk coverage le, no maturity benefit milcha, only death benefits milcha.",
+        "response": "Term insurance le family ko financial protection, lower premium, ra tax benefits provide garincha, tara maturity benefits hudaina."
+    },
+    {
+        "question": "Naya debit card ko PIN kasari set garne?",
+        "context": "Naya debit card ko PIN set garne ko liye nimnalikhit process cha:\n1. ATM ya bank branch ma PIN set garna ko liye, card ko through PIN change request garne.\n2. ATM machine ma card insert garera, PIN change option choose garne.\n3. New PIN enter garera, confirm garne.\n4. PIN ko security ko liye, strong PIN rakhna zaruri cha.\n5. Debit card ko PIN reset garne option bank ke mobile app ko through pani available garincha.",
+        "response": "Naya debit card ko PIN ATM ya bank branch ma set garna milcha, ya mobile app ko through PIN change garna milcha."
+    },
+    {
+        "question": "Fixed deposit ko interest rate kati cha?",
+        "context": "Fixed Deposit ko interest rate ko barema nimnalikhit information cha:\n1. Fixed deposit ko interest rate generally 5% - 7% annual hunchha, depending on tenure ra bank ko policy.\n2. Long-term FD ko interest rate thap huna sakcha.\n3. Senior citizens lai thap interest rate provide garincha, jo around 0.5% extra hunchha.\n4. Interest rate inflation ko impact dekhincha, ta ki market conditions anusar adjust hunchha.\n5. FD ko interest payment quarterly ya annually garincha.",
+        "response": "Fixed deposit ko interest rate generally 5% - 7% annual hunchha, ra long-term FD ko rate thap huna sakcha."
+    },
+    {
+        "question": "Business ko loan approval ko liye kun document haru chahinchha?",
+        "context": "Business loan ko approval ko liye nimnalikhit documents chahinchha:\n1. Business ko registration details (pan card, GSTIN, etc.)\n2. Financial statements (profit and loss statement, balance sheet)\n3. Income tax returns (last 2-3 years)\n4. Bank statements (6 months)\n5. Collateral documents (if any)\n6. Business plan ya project report (if applicable).\n7. Ownership proof of business property.",
+        "response": "Business loan ko approval ko liye, registration details, financial statements, income tax returns, bank statements, ra collateral documents chahinchha."
+    },
+    {
+        "question": "Bank account ko statement online kasari download garne?",
+        "context": "Bank account ko statement download garna ko liye nimnalikhit steps cha:\n1. Bank ko official website ya mobile app ma login garne.\n2. 'Account Statement' ya 'Passbook' option ma janey.\n3. Date range specify garera, statement download garna milcha.\n4. Statement PDF format ma download garincha.\n5. Email ya SMS alert ko through statement ko copy pani pauna saknuhos.",
+        "response": "Bank statement online download garna ko liye, bank ko website ya mobile app ma login garera, 'Account Statement' option select garera PDF format ma download garna milcha."
+    },
+    {
+        "question": "EMI payment ko liye late fee kati cha?",
+        "context": "EMI payment ma late fee ko barema nimnalikhit information cha:\n1. EMI payment ko liye late fee, overdue amount ko 1% - 3% huna sakcha, depending on loan provider.\n2. Fee ko calculation, loan provider ko terms and conditions ko anusar vary garincha.\n3. Late fee ko alawa, interest rate ko penalty ko option bhi huna sakcha.\n4. Late payment ko wajah le, loan ko tenure extend garna sakcha.\n5. EMI payment ko timely settlement ko liye auto-debit options ko madhyam le payment garne sujhav garincha.",
+        "response": "EMI payment ko liye late fee, overdue amount ko 1% - 3% huna sakcha, jo loan provider ko terms anusar vary garincha."
+    },
+    {
+        "question": "Personal loan ko repayment schedule kasto hunchha?",
+        "context": "Personal loan ko repayment schedule ko barema nimnalikhit details cha:\n1. Repayment generally monthly EMI (Equated Monthly Installment) ko roop ma hunchha.\n2. EMI ko calculation loan amount, tenure, ra interest rate ko base ma hunchha.\n3. EMI ko payments fixed hunchha, barambarai monthly interval ma.\n4. Some banks offer flexible EMI options depending on customer preferences.\n5. Repayment schedule ko total loan term, 12 months se 60 months samma huna sakcha.",
+        "response": "Personal loan ko repayment schedule generally monthly EMI hunchha, jo loan amount, tenure, ra interest rate anusar fixed hunchha."
+    },
+    {
+        "question": "Home loan ko prepayment option kasari use garne?",
+        "context": "Home loan ko prepayment option ko barema nimnalikhit steps cha:\n1. Prepayment option ko through, full ya partial payment garera principal ko outstanding amount reduce garna saknuhos.\n2. Prepayment ko time ma, kuch banks prepayment penalty charge garincha, ya kuch banks le penalty free options provide garincha.\n3. Prepayment payment EMI ko amount ra tenure dono ko impact garne cha.\n4. Prepayment ko option generally loan agreement ma mention garincha.\n5. Customer ko convenience ko liye online ya offline prepayment methods available hunchha.",
+        "response": "Home loan ko prepayment ko liye, full ya partial payment garera outstanding principal reduce garna milcha, parinaam swarup, EMI amount ya tenure adjust huna sakcha."
+    },
+    {
+        "question": "Pension scheme ko barema thap janakari cha?",
+        "context": "Pension scheme ko barema nimnalikhit details cha:\n1. Pension schemes ko goal cha retirement ke baad regular income provide garne.\n2. Public Provident Fund (PPF), Employees' Provident Fund (EPF), National Pension Scheme (NPS) jasta options available hunchha.\n3. Tax benefits: Section 80C ra 80CCD ke through pension schemes ma investment ko tax benefit milcha.\n4. Fixed return ya market-linked return schemes available hunchha.\n5. Pension schemes ko liye long-term investment ko through financial security set up garna saknuhos.",
+        "response": "Pension schemes jaise PPF, EPF, ra NPS ko through, retirement ke baad regular income secure garna milcha, ra tax benefits bhi milcha."
+    },
+    {
+        "question": "Credit score kasari improve garne?",
+        "context": "Credit score improve garne ko liye nimnalikhit tips cha:\n1. Timely EMI payments garne, ra credit card dues clear garne.\n2. Credit utilization ko limit maintain garne: Total available credit ko 30% se jyada na use garne.\n3. Credit report ko regularly check garne, ra any discrepancies ko correction garne.\n4. Excessive loans ko avoid garne ra credit inquiries limit garne.\n5. Long-term credit history maintain garne le credit score ko improvement garne sakcha.",
+        "response": "Credit score improve garna ko liye, timely payments, credit utilization limit maintain garne, ra credit report ko regular monitoring garne zaruri cha."
+    },
+    {
+        "question": "Health insurance ko claim process kasari garincha?",
+        "context": "Health insurance claim ko process ko liye nimnalikhit steps cha:\n1. Hospitalization ya treatment ke baad, claim form fill garne.\n2. Required documents: Medical bills, discharge summary, diagnosis reports.\n3. Claim form, medical documents ko through insurance company ko processing submit garne.\n4. Insurance company claim verification garera, eligible amount approve garne.\n5. Direct settlement ko option available cha, jo insurance company aur hospital ke beech coordinate garera claim settle garincha.",
+        "response": "Health insurance claim process ko liye, claim form fill garera, medical bills ra diagnosis reports submit garne ra claim process ko approval paune."
+    },
+    {
+        "question": "Credit card ko annual fee kati cha?",
+        "context": "Credit card ko annual fee ko barema nimnalikhit information cha:\n1. Credit card annual fee generally 500 rupees se lekar 5000 rupees taka huna sakcha.\n2. Fee ko amount card type (basic, premium, platinum) anusar vary garincha.\n3. Some credit cards offer first-year fee waivers.\n4. Annual fee ko alawa, additional fees jaise late payment, foreign transaction charges, etc. pani huna sakcha.\n5. Customers ko loyalty programs ke through bhi fee waivers ya reductions available garincha.",
+        "response": "Credit card ko annual fee generally 500 rupees se 5000 rupees hunchha, depending on card type ra offer."
+    },
+    {
+        "question": "Mobile banking app ma money transfer kasari garincha?",
+        "context": "Mobile banking app ko through money transfer ko liye nimnalikhit steps cha:\n1. Mobile banking app ma login garne ra transfer option select garne.\n2. Beneficiary details (name, account number, IFSC code) enter garne.\n3. Amount ko specification garne ra transfer method select garne: IMPS, NEFT, RTGS.\n4. Transaction ko details confirm garera, OTP enter garne.\n5. Transfer successful huney baad, transaction receipt ya confirmation SMS milne cha.",
+        "response": "Mobile banking app ma money transfer garna ko liye, beneficiary details enter garera, amount confirm garne ra OTP enter garne parcha."
+    },
+    {
+        "question": "Bank ko loan approval ko liye minimum salary kati cha?",
+        "context": "Bank ko loan approval ko liye minimum salary ko barema nimnalikhit details cha:\n1. Personal loan ko liye, minimum salary generally 20,000 - 25,000 per month huna parcha.\n2. Home loan ko liye, salary 30,000 - 40,000 per month huna zaruri cha, depending on city and bank.\n3. Business loan ko liye, stable income ra business turnover ko proof zaruri cha.\n4. Some banks provide loan even with lower salaries if co-applicant ya guarantor cha.\n5. Loan amount, repayment capacity, ra credit score ko bhi evaluation hunchha loan approval ma.",
+        "response": "Loan approval ko liye, personal loan ma minimum salary 20,000 - 25,000, home loan ma 30,000 - 40,000, depending on bank ko terms."
+    },
+    {
+        "question": "Auto loan ko tenure kati samma huna sakcha?",
+        "context": "Auto loan ko tenure ko barema nimnalikhit information cha:\n1. Auto loan ko tenure generally 1 saal se lekar 7 saal samma huna sakcha.\n2. Loan amount, car model, aur down payment ko basis ma tenure decide hunchha.\n3. Longer tenure ko option le EMI ko amount kam garna sakcha, but interest overall higher hunchha.\n4. Shorter tenure ko option le higher EMI hunchha, but interest kam huna sakcha.\n5. Some banks le flexible loan terms provide garincha, jo customer ko requirement anusar adjust garincha.",
+        "response": "Auto loan ko tenure generally 1 saal se lekar 7 saal samma huna sakcha, jo car price aur loan amount ko anusar vary garincha."
+    },
+    {
+        "question": "Pension ko amount kasari calculate garincha?",
+        "context": "Pension amount ko calculation ko barema nimnalikhit steps cha:\n1. Pension calculation ko liye, monthly contribution, years of service, ra last drawn salary ko factors hunchha.\n2. Government pension schemes ma, average salary ko 50% ko base ma pension milcha.\n3. Provident Fund (PF) ko contribution, employee ra employer ko part ko basis ma calculate hunchha.\n4. National Pension Scheme (NPS) ko case ma, market-linked returns hunchha, jo invested amount aur market performance par depend garincha.\n5. Pension ko amount fixed ra regular hunchha, jo retire hone baad monthly basis ma milne cha.",
+        "response": "Pension amount ko calculation, monthly contribution, service years, ra last drawn salary ko anusar hunchha. Government schemes ma, 50% of last salary pension milcha."
+    },
+    {
+        "question": "Car insurance ko claim kasari garincha?",
+        "context": "Car insurance claim ko process ko barema nimnalikhit details cha:\n1. Accident ya damage ke baad, immediately insurance company ko customer service ma contact garne.\n2. Police report ya FIR, damage report, aur photographs ko documents submit garne.\n3. Insurance claim form fill garera, documents ko sath insurance provider ko office ya online submit garne.\n4. Insurance company damage assessment karne cha, ra eligible amount approve garne.\n5. Claim settlement cashless ya reimbursement method ma huna sakcha, depending on policy terms.",
+        "response": "Car insurance claim garna ko liye, accident report, FIR, damage report, aur photographs submit garne parcha, ra insurance company assessment pachi claim approve hunchha."
+    },
+    {
+        "question": "Investment ko liye SIP ra lump sum ma ke difference cha?",
+        "context": "SIP ra lump sum investment ko barema nimnalikhit information cha:\n1. SIP (Systematic Investment Plan) me, regularly small amounts invest garincha, jo long-term savings ke liye ideal hunchha.\n2. Lump sum investment ma ek raat me, ek bari amount invest garincha, jo short-term goals ke liye suitable hunchha.\n3. SIP ko through, market volatility ko impact reduce garna saknuhos due to rupee cost averaging.\n4. Lump sum investment le, short-term return ko liye better huna sakcha, but high market risk associated cha.\n5. SIP generally low-risk aur steady returns provide garincha over the long term.",
+        "response": "SIP ma regularly small amounts invest garincha, jo long-term goals ko liye suitable cha, jabki lump sum ek baar me large amount invest garne ho."
+    },
+    {
+        "question": "Bank account ma cheque bounce ho bhane ke garne?",
+        "context": "Cheque bounce huney case ma nimnalikhit actions garincha:\n1. Cheque bounce bhaye, account holder ko account se penalty fee charge garincha.\n2. Sufficient balance na huna, ya incorrect details cheque ma likhna se bounce ho sakcha.\n3. Bank ko customer service se contact garera, issue ko clarification pauna zaruri cha.\n4. If it's a mistake, customer ko payment ko alternative option provide garne.\n5. Repeat cheque bounce hone case ma, bank account ko closure ya blacklisting huna sakcha.",
+        "response": "Cheque bounce bhaye, penalty fee charge hunchha. Customer ko alternative payment options ko liye bank ko customer service ma contact garne parcha."
+    },
+    {
+        "question": "Naya mobile banking app kasari activate garne?",
+        "context": "Mobile banking app ko activation ko liye nimnalikhit steps cha:\n1. Bank ko official mobile app download garne.\n2. App open garera, 'Activate' ya 'Register' option select garne.\n3. Customer ID ra registered mobile number enter garera OTP verify garne.\n4. New password set garera, app login garne.\n5. Transaction ko liye security measures jaise PIN ya fingerprint authentication setup garna milcha.",
+        "response": "Mobile banking app activate garna ko liye, customer ID ra registered mobile number enter garera OTP verify garne ra new password set garne parcha."
+    },
+    {
+        "question": "Gold loan ko interest rate kati cha?",
+        "context": "Gold loan ko interest rate ko barema nimnalikhit information cha:\n1. Gold loan ko interest rate generally 7% se 15% tak vary garincha, depending on loan amount ra bank policy.\n2. Smaller loan amounts ko liye, higher interest rate applicable huna sakcha.\n3. Interest rate ko calculation monthly or yearly basis ma hunchha.\n4. Gold quality aur weight bhi loan amount determine karne ma impact garincha.\n5. Some banks offer low interest rates during special promotions.",
+        "response": "Gold loan ko interest rate generally 7% se 15% hunchha, jo loan amount ra bank ko terms anusar vary garincha."
+    },
+    {
+        "question": "Fixed deposit ma premature withdrawal garne parcha bhane ke hunchha?",
+        "context": "Fixed deposit premature withdrawal ko barema nimnalikhit details cha:\n1. Premature withdrawal ma, bank ko penalty charges applicable hunchha.\n2. Fixed deposit ko interest rate premature withdrawal ma kam huna sakcha, depending on deposit tenure.\n3. Some banks offer partial withdrawal without penalty after a specific lock-in period.\n4. Premature withdrawal le original maturity amount se kam milne cha.\n5. Customer ko requirement anusar, premature withdrawal ko process bank branch ya mobile banking se complete garincha.",
+        "response": "Fixed deposit ko premature withdrawal ma, penalty charges lagcha, ra interest rate kam huna sakcha based on tenure."
+    },
+    {
+        "question": "Business ko GST registration ko liye kun document chahinchha?",
+        "context": "GST registration ko liye required documents ko barema nimnalikhit information cha:\n1. PAN card copy, identity proof, ra address proof chahinchha.\n2. Business ko registration certificate (Company, LLP, proprietorship).\n3. Bank account details (cancelled cheque).\n4. GSTIN of business location.\n5. Business ko turnover ko proof ya expected turnover ko estimation.\n6. Rental agreement for business premises, agar business rented cha.",
+        "response": "GST registration ko liye, PAN card, identity proof, business registration certificate, bank details, aur expected turnover ko proof chahinchha."
+    },
+    {
+        "question": "Credit card ko interest rate kati cha?",
+        "context": "Credit card ko interest rate ko barema nimnalikhit details cha:\n1. Credit card ko interest rate generally 12% se lekar 36% annual hunchha, depending on card type.\n2. If full payment not paid on time, interest on outstanding balance is charged.\n3. Some cards offer low or 0% interest rates during initial months for balance transfer.\n4. Late payment penalties bhi lagne sakcha, jo 1% - 2% of outstanding balance huna sakcha.\n5. Credit card ko EMI option se, fixed interest rate applicable hunchha.",
+        "response": "Credit card ko interest rate generally 12% se 36% annual hunchha, depending on card type and outstanding balance."
+    },
+    {
+        "question": "Credit card ko annual fee cancel garna kasari garne?",
+        "context": "Credit card ko annual fee cancel garne ko barema nimnalikhit information cha:\n1. Some credit cards offer annual fee waivers based on certain conditions, jasta ki spending threshold fulfill garne.\n2. Bank ko customer service se contact garera, fee waiver request garna saknuhos.\n3. Loyalty programs ko through bhi fee waive garna sakcha.\n4. Agar card ko usage low cha bhane, bank le fee waiver ko offer garna sakcha.\n5. Sometimes, card upgrade garera fee waiver benefit milcha.\n6. Waiver request ko approval bank ko discretion ma hunchha.",
+        "response": "Credit card ko annual fee cancel garna ko liye, spending threshold ya loyalty programs ko through fee waiver request garna saknuhos, ya customer service se contact garne."
+    },
+    {
+        "question": "Personal loan ko EMI ko calculation kasari garincha?",
+        "context": "Personal loan ko EMI calculation ko barema nimnalikhit steps cha:\n1. EMI ko calculation loan amount, interest rate, ra tenure ko basis ma garincha.\n2. EMI = [P * r * (1 + r)^n] / [(1 + r)^n - 1] formula le calculate garincha, jaha P ho loan amount, r ho monthly interest rate, ra n ho loan tenure.\n3. EMI ko amount fixed hunchha, jo monthly basis ma pay garincha.\n4. Online EMI calculators pani available hunchha, jaha customer apna loan details enter garera EMI calculate garna saknuhos.\n5. Longer tenure le EMI kam garincha, but total interest jyada huna sakcha.",
+        "response": "Personal loan ko EMI calculation formula le garincha: EMI = [P * r * (1 + r)^n] / [(1 + r)^n - 1], jaha P ho loan amount, r ho monthly interest rate, ra n ho tenure."
+    },
+    {
+        "question": "Home loan ko prepayment ko charges kati cha?",
+        "context": "Home loan ko prepayment charges ko barema nimnalikhit details cha:\n1. Prepayment charges vary garincha, depending on loan provider ko terms.\n2. Generally, banks prepayment charges ko roop ma 1% - 3% charge garincha.\n3. If prepayment after initial lock-in period garincha, charges low huna sakcha.\n4. Some banks offer prepayment free options if a certain number of EMI paid already.\n5. Prepayment ko charges ko alawa, loan balance ko reset ya modification bhi ho sakcha.",
+        "response": "Home loan ko prepayment charges generally 1% - 3% hunchha, depending on loan provider ko terms, ra lock-in period anusar charges adjust huna sakcha."
+    },
+    {
+        "question": "Mutual funds ma SIP ko return kati cha?",
+        "context": "Mutual funds ma SIP (Systematic Investment Plan) ko returns ko barema nimnalikhit information cha:\n1. SIP returns vary garincha based on market conditions, fund performance, ra investment period.\n2. Long-term SIP ko returns generally higher hunchha due to compounding.\n3. Average annual return 12% se 18% tak huna sakcha, depending on equity mutual funds.\n4. Fixed income funds ko returns comparatively low hunchha.\n5. SIP ma investment ka impact inflation ko impact parne cha, jo return adjust garna sakcha.",
+        "response": "Mutual funds ma SIP ko returns generally 12% se 18% tak huna sakcha, jo market conditions aur fund performance par depend garincha."
+    },
+    {
+        "question": "Fixed deposit ma interest payment kasari garincha?",
+        "context": "Fixed deposit ko interest payment ko barema nimnalikhit details cha:\n1. Fixed deposit ko interest payment generally quarterly, half-yearly, ya annually garincha.\n2. Some banks offer monthly interest payment options bhi huna sakcha.\n3. Interest ko amount customer ko account ma directly deposit garincha, ya cheque form ma provide garincha.\n4. Interest ko payment taxable hunchha, depending on income tax slab.\n5. FD maturity ke baad, principal aur interest sum ek saath withdraw garna saknuhos.",
+        "response": "Fixed deposit ko interest payment generally quarterly, half-yearly, ya annually garincha, depending on bank terms."
+    },
+    {
+        "question": "Business loan ko liye collateral chahinchha?",
+        "context": "Business loan ko liye collateral requirements ko barema nimnalikhit information cha:\n1. Business loan ko liye collateral provide garna zaruri huna sakcha, depending on loan amount ra type.\n2. Banks generally tangible assets, jaise property, machinery, ya stock ko collateral accept garincha.\n3. Some small business loans without collateral bhi available hunchha, but higher interest rate charge garincha.\n4. Collateral ko value loan amount ko anusar assess garincha.\n5. Personal guarantee ya co-signer ko option bhi available huna sakcha for unsecured loans.",
+        "response": "Business loan ko liye collateral zaruri huna sakcha, depending on loan amount, ya collateral ko value aur loan type par depend garincha."
+    },
+    {
+        "question": "Bank account ko minimum balance kati cha?",
+        "context": "Bank account ko minimum balance ko barema nimnalikhit details cha:\n1. Minimum balance required varies between banks and account types.\n2. Savings accounts ma generally minimum balance 1000 - 5000 rupees huna sakcha.\n3. Premium or higher interest savings accounts ma minimum balance 10,000 se 25,000 rupees tak huna sakcha.\n4. If minimum balance maintain garne saknuhos, account ma penalty charge garincha.\n5. Zero balance accounts bhi available huna sakcha, but they come with limited features.",
+        "response": "Bank account ko minimum balance generally 1000 - 5000 rupees huna sakcha, depending on bank aur account type."
+    },
+    {
+        "question": "Car loan ko interest rate kati cha?",
+        "context": "Car loan ko interest rate ko barema nimnalikhit information cha:\n1. Car loan ko interest rate generally 9% se 15% annual hunchha, depending on loan provider aur car model.\n2. Loan tenure ko length, down payment, aur credit score ko bhi impact hunchha.\n3. Some banks offer lower interest rates for specific car models or during festive promotions.\n4. Fixed interest rate ya floating interest rate option huna sakcha.\n5. Higher loan amount ya longer tenure le interest rate ko increase karna sakcha.",
+        "response": "Car loan ko interest rate generally 9% se 15% tak huna sakcha, jo loan amount, tenure, ra credit score ko basis ma vary garincha."
+    },
+    {
+        "question": "Gold loan ko eligibility kasari check garne?",
+        "context": "Gold loan ko eligibility ko barema nimnalikhit details cha:\n1. Gold loan ko eligibility ko liye, customer ko age, income, ra gold collateral ko weight aur purity check garincha.\n2. Gold weight generally 10 grams se lekar 50 grams ya usse jyada ho sakcha.\n3. Gold ko purity 18 karat se lekar 24 karat tak huna zaruri cha.\n4. Collateral ko valuation bank ko internal policies anusar huna sakcha.\n5. Loan amount generally 60% se 75% of gold valuation huna sakcha.",
+        "response": "Gold loan ko eligibility check garne ko liye, gold ko weight aur purity, ra customer ko income aur age ko assessment garincha."
+    },
+    {
+        "question": "Loan ko pre-closure charges kati cha?",
+        "context": "Loan pre-closure charges ko barema nimnalikhit details cha:\n1. Pre-closure charges generally 1% se 3% huna sakcha, depending on loan provider.\n2. Home loan ya personal loan pre-closure charges usually higher hunchha.\n3. Pre-closure after initial lock-in period ma, charges kam huna sakcha.\n4. Some banks offer pre-closure without penalty if certain conditions are met.\n5. Pre-closure ko process generally online ya branch se garincha, with all necessary documentation.",
+        "response": "Loan pre-closure charges generally 1% se 3% huna sakcha, depending on loan type aur bank ko terms."
+    },
+    {
+        "question": "Cheque ko clearing time kati cha?",
+        "context": "Cheque clearing time ko barema nimnalikhit details cha:\n1. Local cheques ko clearing generally 1-2 working days ma hunchha.\n2. Outstation cheques ko clearing time 3-7 working days tak huna sakcha.\n3. Banks ko clearing cycle ko anusar cheque clear hunchha.\n4. Some banks offer instant cheque clearing services, depending on the account type.\n5. Bank account mein sufficient funds honi par, cheque clearing process tezi se hota hai.",
+        "response": "Cheque clearing generally 1-2 working days for local cheques, aur 3-7 days for outstation cheques hunchha."
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "category": "Science",
+        "question": "Bigyan le jivan ma ke-kasta suvidha lyaeko chha?",
+        "answer": "Bigyan le aadhunik suvidha jastai bijuli, internet, mobile, tatha rog ko upachar ma pragati lyaera jivan sajilo banayeko chha."
+    },
+    {
+        "category": "Technology",
+        "question": "Artificial Intelligence (AI) le aajako sansar ma kasto prabhav pariraheko chha?",
+        "answer": "AI le automation bata productivity badhaune, health care ma diagnosis sajilo banaucha, ra data analysis ma madat garcha."
+    },
+    {
+        "category": "Sports",
+        "question": "Nepal ma cricket ko bikash kasari bhairaheko chha?",
+        "answer": "Nepal ma cricket ko bikash naya talent haru ko udai, ICC support, ra local leagues ko madhyam bata bhairaheko chha."
+    },
+    {
+        "category": "Health",
+        "question": "Swasthya lai sustha rakhna ko lagi ke-kasta upaya apnau parcha?",
+        "answer": "Swasthya lai sustha rakhna lagi santulit aahar, niyamit exercise, ramro nidra, ra stress management jaruri chha."
+    },
+    {
+        "category": "Economy",
+        "question": "Nepal ko arthik bikash ma tourism le kasto yogdan diiraheko chha?",
+        "answer": "Tourism le rojgar ko avasar, GDP ma yogdan, ra Nepal ko sanskriti ra prakriti ko prachaar garera arthik bikash ma madat gardaichha."
+    },
+    {
+        "category": "History",
+        "question": "Prithvi Narayan Shah ko yogdan Nepalko itihas ma kasto chha?",
+        "answer": "Prithvi Narayan Shah le ekikrit Nepal banayera deshko suraksha ra samriddhi ko aadhar banayeka thiye."
+    },
+    {
+        "category": "Geography",
+        "question": "Himalaya parbat Nepalko geography ma kina important chha?",
+        "answer": "Himalaya parbat Nepal ko prakritik sundarta, jalashrot, tourism, ra biodiversity ko mul aadhar ho."
+    },
+    {
+        "category": "Medicine",
+        "question": "Ayurveda chikitsa kina mahatwapurna chha?",
+        "answer": "Ayurveda chikitsa prakritik jadi-buti ra upachar ma aadharit bhayera rog lai jad ro bata nikko garna sahayak chha."
+    },
+    {
+        "category": "Psychology",
+        "question": "Manav manasikta ko bikash ma parivar ko kasto bhumika huncha?",
+        "answer": "Parivar le support, sikai, ra sanskar diyera manav manasikta ko bikash ma mahatwapurna bhumika kheldaichha."
+    },
+    {
+        "category": "Agriculture",
+        "question": "Nepal ma organic krishi kasari sambhab chha?",
+        "answer": "Organic krishi ma jaivik mal, pesticide ko thau ma prakritik tarika apnayera, demand badhaune ra export prabardhan garna sakinchha."
+    },
+    {
+        "category": "Development",
+        "question": "Saksharata dar badhaune upaya haru ke-ke hun?",
+        "answer": "Saksharata dar badhauna sikai abhiyaan, online sikai, bidhyalaya ko reach badhaune ra rojgar sanga jodne kura jaruri chha."
+    },
+    {
+        "category": "Science",
+        "question": "DNA ko abiskar le medical science ma kasto sudhar lyaeko chha?",
+        "answer": "DNA ko abiskar le genetic diseases ko upachar, forensic science, ra biotechnology ma mahatwapurna sudhar lyaeko chha."
+    },
+    {
+        "category": "Technology",
+        "question": "Blockchain technology le arthik kshetra ma ke paribartan lyauna sakchha?",
+        "answer": "Blockchain le financial transactions surakshit, transparent, ra decentralized banayera arthik kshetra ma paribartan garna sakchha."
+    },
+    {
+        "category": "Sports",
+        "question": "Olympics khel le sansar ma shanti ra ekta badhaune kasto bhumika kheldaichha?",
+        "answer": "Olympics le bhibhin deshharu ka khiladi haru ekai manch ma lyaera shanti ra ekta ko sandesh diiraheko chha."
+    },
+    {
+        "category": "Health",
+        "question": "Mental health ka laakshan haru ke hun?",
+        "answer": "Mental health ko samasya haru ma chinta, depression, asamarthata ko bhawana, ra samajik samparka bata hatne jasta laakshan dekhinchha."
+    },
+    {
+        "category": "Economy",
+        "question": "Foreign remittance le Nepali arthavyawastha ma kasto prabhav parcha?",
+        "answer": "Foreign remittance le GDP ma yogdan garcha, garibi ghatauchha, tara manpower ko bahiriyeko samasya pani dekhinchha."
+    },
+    {
+        "category": "History",
+        "question": "Nepal unification process ma Prithvi Narayan Shah ko kasto karyakusalta thiyo?",
+        "answer": "Prithvi Narayan Shah ko karyakusalta ma strategic planning, diplomacy, ra unity ko abadharan ma bal diyeko thiyo."
+    },
+    {
+        "category": "Geography",
+        "question": "Nepalko jalashrot bikash kasari garna sakinchha?",
+        "answer": "Jalashrot ko sudhar ko lagi hydropower project, pani puryaune neeti, ra environmental conservation ko zarurat chha."
+    },
+    {
+        "category": "Medicine",
+        "question": "Antibiotics ko durupyog bata ke-kasta samasya haru dekhinchha?",
+        "answer": "Antibiotics ko durupyog le drug resistance, rog ko jaati badhaune, ra swasthya ko lagi jokhim banna sakchha."
+    },
+    {
+        "category": "Psychology",
+        "question": "Stress management ma mindfulness ko kasto bhumika huncha?",
+        "answer": "Mindfulness le vyakti lai 'present moment' ma rakhne, anxiety kam garne, ra manasik sukh-bhavana badhauna madat garcha."
+    },
+    {
+        "category": "Agriculture",
+        "question": "Krishi ma naya technology apnaune upaya haru ke-ke hun?",
+        "answer": "Naya technology jastai drone, smart irrigation, ra improved seeds apnayera productivity badhauna sakinchha."
+    },
+    {
+        "category": "Development",
+        "question": "Paryatakko sankhya badhaune lagi Nepal le ke-kasta kadam apnau parcha?",
+        "answer": "Nepal le infrastructure sudhar, safety badhaune, ra cultural heritage ko prachaar garna parcha."
+    },
+    {
+        "category": "Science",
+        "question": "Space exploration le hamro future ma ke changes lyauna sakcha?",
+        "answer": "Space exploration le new resources discover garna, science ma advancement garna, ra human settlement expand garna madat garna sakcha."
+    },
+    {
+        "category": "Technology",
+        "question": "Social media le hamro daily life ma kasto effect parcha?",
+        "answer": "Social media le communication sajilo banaucha, tara time management ra privacy ma negative impact pani parcha."
+    },
+    {
+        "category": "Sports",
+        "question": "Football khelna ko physical benefits haru ke-ke hun?",
+        "answer": "Football le stamina increase garna, muscles strengthen garna, ra team spirit build garna madat garcha."
+    },
+    {
+        "category": "Health",
+        "question": "Healthy diet ma ke-ke include garna parcha?",
+        "answer": "Healthy diet ma proteins, vitamins, minerals, fruits, vegetables, ra pani sufficient matra ma hunu parcha."
+    },
+    {
+        "category": "Economy",
+        "question": "Digital payment systems le economy ma kasto impact lyaunchha?",
+        "answer": "Digital payment le transactions fast ra secure banaucha, tara cyber security risks pani huncha."
+    },
+    {
+        "category": "History",
+        "question": "Industrial Revolution le world economy ma kasto change lyaeko thiyo?",
+        "answer": "Industrial Revolution le mass production suru garera industries lai grow garna, jobs create garna, ra trade expand garna madat gareko thiyo."
+    },
+    {
+        "category": "Geography",
+        "question": "Climate change le Nepal ma kasto asar parcha?",
+        "answer": "Climate change le glacier pighlaune, agriculture disrupt garna, ra biodiversity lai threaten garna sakcha."
+    },
+    {
+        "category": "Medicine",
+        "question": "Vaccines kina important hun?",
+        "answer": "Vaccines le serious diseases prevent garna ra immunity system strong banaucha."
+    },
+    {
+        "category": "Psychology",
+        "question": "Positive thinking le mental health ma kasto effect parcha?",
+        "answer": "Positive thinking le stress reduce garna, emotional stability badhauna, ra productivity improve garna madat garcha."
+    },
+    {
+        "category": "Agriculture",
+        "question": "Smart farming technology le farmers lai kasari help garcha?",
+        "answer": "Smart farming le productivity increase garna, irrigation efficient banaucha, ra cost reduce garna help garcha."
+    },
+    {
+        "category": "Development",
+        "question": "Digital literacy badhauna government le kasto steps lina sakcha?",
+        "answer": "Government le free training programs, online courses, ra affordable internet provide garna sakcha."
+    },
+    {
+        "category": "Science",
+        "question": "Renewable energy sources ko importance kina badhiraheko chha?",
+        "answer": "Renewable energy sources sustainable huncha ra environment friendly pani, fossil fuels ko alternatives provide garna sakcha."
+    },
+    {
+        "category": "Technology",
+        "question": "Mobile apps le hamro jindagi ma ke-kasto convenience lyaeko chha?",
+        "answer": "Mobile apps le communication, shopping, banking, ra learning sajilo banayeko chha."
+    },
+    {
+        "category": "Sports",
+        "question": "Olympics games le global unity ma kasto role kheldaichha?",
+        "answer": "Olympics le different cultures lai ekai platform ma lyaera unity promote garcha."
+    },
+    {
+        "category": "Health",
+        "question": "Yoga practice garna le ke benefits huncha?",
+        "answer": "Yoga le stress kam garna, flexibility badhauna, ra mental clarity improve garna help garcha."
+    },
+    {
+        "category": "Economy",
+        "question": "Startups ko growth le Nepal ma jobs create garna kasari madat garcha?",
+        "answer": "Startups le innovation ko through new opportunities create garna ra unemployment rate reduce garna madat garcha."
+    },
+    {
+        "category": "History",
+        "question": "World War II ko impact ajha samma kasari dekhinchha?",
+        "answer": "World War II le geopolitics change gareko, UN establish gareko, ra world economy restructure gareko dekhinchha."
+    },
+    {
+        "category": "Geography",
+        "question": "Nepal ma river systems le agriculture ma kasari help garcha?",
+        "answer": "Nepal ma river systems irrigation provide garna, electricity generate garna, ra drinking water supply garna madat garcha."
+    },
+    {
+        "category": "Medicine",
+        "question": "Telemedicine le health services ma kasto impact parcha?",
+        "answer": "Telemedicine le remote areas ma health access improve garna ra doctor consultation sajilo banaucha."
+    },
+    {
+        "category": "Psychology",
+        "question": "Meditation le emotional balance ma kasto madat garcha?",
+        "answer": "Meditation le anxiety reduce garna, focus improve garna, ra emotional stability maintain garna madat garcha."
+    },
+    {
+        "category": "Agriculture",
+        "question": "Organic farming le long-term productivity ma kasto impact garcha?",
+        "answer": "Organic farming le soil fertility maintain garna, pollution reduce garna, ra sustainable agriculture ko base provide garcha."
+    },
+    {
+        "category": "Development",
+        "question": "Urban planning le smart cities develop garna kasari help garcha?",
+        "answer": "Urban planning le infrastructure efficient banaucha, environment conserve garcha, ra citizen facilities improve garcha."
+    },
+    {
+        "category": "Education",
+        "question": "Online learning le students ko academic growth ma kasto impact parcha?",
+        "answer": "Online learning le flexible timing ko karan students lai independent study garna encourage garcha. Tara, consistent internet connectivity ko problem ra lack of interaction le students ko learning experience ma compromise garna sakcha."
+    },
+    {
+        "category": "Environment",
+        "question": "Deforestation le Nepal ko ecosystem ma ke asar parcha?",
+        "answer": "Deforestation le landslides, floods, ra wildlife habitat loss garna sakcha. Yasko karan ecosystem imbalance huncha, jasko direct impact climate change ra local livelihoods ma parcha."
+    },
+    {
+        "category": "Space",
+        "question": "Mars ma human settlement ko lagi kasto challenges huncha?",
+        "answer": "Mars ma human settlement ko challenges ma extreme weather, oxygen ko kami, ra food production ko problem parcha. Reliable technology, closed-loop life support system, ra long-term planning essential huncha."
+    },
+    {
+        "category": "Travel",
+        "question": "Nepal ma adventure tourism develop garna ke-kasta potential chhan?",
+        "answer": "Nepal ma Himalayas, trekking routes, rafting, bungee jumping, ra paragliding jasta options ko karan adventure tourism ko great potential chha. Infrastructure development ra global promotion le yasko demand badhauna sakcha."
+    },
+    {
+        "category": "Entertainment",
+        "question": "Streaming platforms le entertainment industry ma ke changes lyaeko chha?",
+        "answer": "Streaming platforms le audience lai on-demand content provide garera traditional TV systems lai replace gareko chha. Individual creators ko reach badhcha ra content diversity pani increase huncha."
+    },
+    {
+        "category": "Technology",
+        "question": "ChatGPT jasto AI tools le education sector ma kasari madat garcha?",
+        "answer": "ChatGPT le students ko questions ko instant answers dincha, assignments ma madat garcha, ra personalized learning experience create garcha. Tara, yasto tools misuse garna le plagiarism ko issue pani huncha."
+    },
+    {
+        "category": "Fashion",
+        "question": "Fast fashion le environment ma kasto negative impact parcha?",
+        "answer": "Fast fashion le excessive water consumption, non-biodegradable waste, ra pollution badhauna madat garcha. Ethical fashion ko adoption le yesto impact reduce garna sakcha."
+    },
+    {
+        "category": "Business",
+        "question": "Small businesses ko growth ma digital marketing kasari effective huncha?",
+        "answer": "Digital marketing le low budget ma specific audience lai target garna madat garcha. Social media campaigns, SEO, ra email marketing le brand awareness ra sales badhauna sakcha."
+    },
+    {
+        "category": "Culture",
+        "question": "Nepali folk music le hamro society ma kasto importance chha?",
+        "answer": "Nepali folk music le hamro sanskriti, itihas, ra values lai represent garcha. Yasko madhyam bata rural communities ko story share huncha ra hamro identity preserve huncha."
+    },
+    {
+        "category": "Parenting",
+        "question": "Early childhood education ko importance kina chha?",
+        "answer": "Early childhood education le foundational skills development, social interaction improve garna, ra future academic success ko lagi strong base create garcha."
+    },
+    {
+        "category": "Economy",
+        "question": "Cryptocurrency adoption le Nepal ma kasto impact parna sakcha?",
+        "answer": "Cryptocurrency le secure transactions ra financial inclusion promote garna sakcha, tara legal framework ko kami le misuse ko risk badhcha."
+    },
+    {
+        "category": "Politics",
+        "question": "Youth involvement le Nepali politics ma kasto sudhar lyauna sakcha?",
+        "answer": "Youth involvement le naya ideas, transparency, ra accountability promote garcha. Digital campaigns ra policy reforms le political system modernize huncha."
+    },
+    {
+        "category": "Health",
+        "question": "COVID-19 le hamro health system ma ke-kasta sudhar garna sikaeko chha?",
+        "answer": "COVID-19 le telemedicine, emergency preparedness, ra local health resources strengthen garna parcha bhanne sikaeko chha. Vaccination campaigns ko importance pani highlight gareko chha."
+    },
+    {
+        "category": "Environment",
+        "question": "Plastic ko overuse le nature ma kasto long-term damage garcha?",
+        "answer": "Plastic le marine life lai harm garcha, soil fertility reduce garcha, ra human health ma microplastics bata problem create garcha. Alternatives jastai biodegradable materials use garna parcha."
+    },
+    {
+        "category": "Education",
+        "question": "Skill-based education kina important chha?",
+        "answer": "Skill-based education le practical knowledge provide garcha, jasko karan graduates employment ko lagi ready huncha. Traditional theory-based education ko limitations yasko through reduce huncha."
+    },
+    {
+        "category": "Psychology",
+        "question": "Social media overuse le mental health ma kasto prabhav garcha?",
+        "answer": "Social media overuse le anxiety, depression, ra self-esteem issues create garna sakcha. Digital detox ra time management le yesto impacts kam garna madat garcha."
+    },
+    {
+        "category": "Technology",
+        "question": "Cybersecurity ko importance kina badhiraheko chha?",
+        "answer": "Cybersecurity le sensitive data lai hackers bata protect garcha, financial frauds stop garcha, ra digital systems ko trust badhauna madat garcha."
+    },
+    {
+        "category": "Sports",
+        "question": "Women's participation le sports ma ke changes lyaeko chha?",
+        "answer": "Women's participation le equality promote garcha, new talents explore garcha, ra society ma gender stereotypes break garna madat garcha."
+    },
+    {
+        "category": "Development",
+        "question": "Sustainable development projects le Nepal ko future ma ke-kasta impact parna sakcha?",
+        "answer": "Sustainable development le resources conserve garna, green jobs create garna, ra long-term economic growth lai support garna sakcha."
+    },
+    {
+        "category": "Innovation",
+        "question": "Artificial Intelligence le startups ko innovation ma kasari help garcha?",
+        "answer": "AI le data-driven decision making lai enhance garna, customer experience personalize garna, ra cost optimization ma startups lai madat garcha."
+    },
+    {
+        "category": "Food and Nutrition",
+        "question": "Junk food khana le hamro health ma kasto impact parcha?",
+        "answer": "Junk food le high calories ko karan weight gain garna sakcha, ra essential nutrients ko kami le energy level low huncha. Regular junk food consumption le heart disease ra diabetes ko risk pani badhauna sakcha."
+    },
+    {
+        "category": "Transport",
+        "question": "Electric vehicles (EVs) use garna le environment ma ke benefits chhan?",
+        "answer": "EVs le carbon emissions kam garcha, fossil fuel consumption reduce garcha, ra noise pollution control garna madat garcha. Long-term ma fuel cost pani save huncha."
+    },
+    {
+        "category": "Climate Action",
+        "question": "Global warming control garna ke major steps linu parcha?",
+        "answer": "Global warming control garna renewable energy sources adopt garna, deforestation stop garna, ra carbon footprint minimize garna parcha. Policy-level reforms ra individual contributions essential huncha."
+    },
+    {
+        "category": "Artificial Intelligence",
+        "question": "AI tools le creative industries ma kasari madat garcha?",
+        "answer": "AI tools le content creation automate garna, personalized designs banaucha, ra repetitive tasks streamline garcha. Creative process efficient huncha, tara originality ko challenge pani huncha."
+    },
+    {
+        "category": "Relationships",
+        "question": "Effective communication le relationships ma kasto role kheldaichha?",
+        "answer": "Effective communication le misunderstandings clear garna, trust build garna, ra emotional connection strong banaucha. Open conversations le long-term relationship healthy huncha."
+    },
+    {
+        "category": "Wildlife",
+        "question": "Endangered species lai conserve garna kasari madat garna sakcha?",
+        "answer": "Endangered species conserve garna protected areas establish garna, anti-poaching laws implement garna, ra community awareness programs suru garna parcha."
+    },
+    {
+        "category": "Career",
+        "question": "Remote work le professional life ma ke benefits ra challenges chhan?",
+        "answer": "Remote work le commute time save garcha, flexible schedule provide garcha, ra productivity increase garcha. Tara, isolation ra work-life balance maintain garna garo huncha."
+    },
+    {
+        "category": "Youth",
+        "question": "Youth entrepreneurship le economy ma kasto prabhav parcha?",
+        "answer": "Youth entrepreneurship le innovation promote garna, jobs create garna, ra economic growth fast garna madat garcha. Young entrepreneurs ko fresh ideas economy lai competitive banaucha."
+    },
+    {
+        "category": "Philosophy",
+        "question": "Minimalist lifestyle follow garna le kasto benefits huncha?",
+        "answer": "Minimalist lifestyle le unnecessary stress kam garcha, financial savings badhauna, ra environment-friendly lifestyle adopt garna encourage garcha."
+    },
+    {
+        "category": "Space Exploration",
+        "question": "Moon base establish garna le human civilization ko lagi ke significance chha?",
+        "answer": "Moon base le scientific research lai advance garna, space resources exploit garna, ra Mars exploration ko lagi stepping stone provide garcha."
+    },
+    {
+        "category": "Agriculture",
+        "question": "Precision farming le traditional farming compare gardaa kasto efficient huncha?",
+        "answer": "Precision farming le sensors, drones, ra data analytics use garera water, fertilizers, ra pesticides ko efficient use garna madat garcha. Yasko karan productivity increase huncha ra cost reduce huncha."
+    },
+    {
+        "category": "Mental Health",
+        "question": "Stress management ko lagi mindfulness kasari effective huncha?",
+        "answer": "Mindfulness le present moment ma focus garna help garcha, jasko karan anxiety reduce huncha ra emotional balance maintain garna madat garcha."
+    },
+    {
+        "category": "Economy",
+        "question": "Tourism sector le Nepal ko economy ma kasto role kheldaichha?",
+        "answer": "Tourism sector le foreign currency earn garna, local jobs create garna, ra infrastructure development lai boost garna significant role kheldaichha."
+    },
+    {
+        "category": "Digital Security",
+        "question": "Strong passwords create garna ke-kasta tips follow garna parcha?",
+        "answer": "Strong passwords ko lagi alphanumeric combination, special characters, ra long length use garna parcha. Frequent password changes ra multi-factor authentication use garna essential huncha."
+    },
+    {
+        "category": "Energy",
+        "question": "Solar energy ko adoption Nepal ma kina important chha?",
+        "answer": "Nepal ma abundant sunlight availability ko karan solar energy reliable alternative huncha. Electricity supply consistent garna ra import dependency kam garna yasko use important chha."
+    },
+    {
+        "category": "Human Rights",
+        "question": "Education as a fundamental right kina important chha?",
+        "answer": "Education le individual empowerment garcha, inequality reduce garcha, ra economic development ko foundation provide garcha. Yasko bina sustainable progress sambhab chhaina."
+    },
+    {
+        "category": "Parenting",
+        "question": "Digital devices ko overuse le bachcha haruma kasto problem create garcha?",
+        "answer": "Digital devices ko overuse le physical activity kam hune, sleep cycle disrupt garne, ra attention span kam hune problem create garcha. Parental supervision ra time limit essential huncha."
+    },
+    {
+        "category": "Ethics",
+        "question": "Data privacy ethical practices ma kina prioritize garna parcha?",
+        "answer": "Data privacy le individuals ko personal information protect garcha ra misuse prevent garna madat garcha. Ethical practices le digital trust build garna madat garcha."
+    },
+    {
+        "category": "Leadership",
+        "question": "Empathy ek leader ko lagi kina necessary quality ho?",
+        "answer": "Empathy le leader lai team ko needs understand garna ra better decision-making garna madat garcha. Yasko karan organizational growth ra positive work environment bancha."
+    },
+    {
+        "category": "Social Issues",
+        "question": "Gender equality promote garna society le ke step linu parcha?",
+        "answer": "Gender equality promote garna education accessible banaucha, workplace ma equal opportunities dincha, ra social awareness badhauna campaigns suru garna parcha."
+    },
+    {
+        "category": "Artificial Intelligence",
+        "question": "Chatbots le customer service industry ma kasto revolution lyaeko chha?",
+        "answer": "Chatbots le 24/7 availability, instant response, ra personalized service deliver garera customer experience enhance gareko chha. Yasto tools le cost reduce garcha, tara complex problems ko lagi human intervention chai parcha."
+    },
+    {
+        "category": "Education",
+        "question": "STEM education kina future jobs ko lagi critical huncha?",
+        "answer": "STEM education le students lai problem-solving, critical thinking, ra technology-related skills sikna madat garcha. Future jobs ko demand AI, robotics, ra data science jasta fields ma badhi chha, jasle STEM lai vital banaucha."
+    },
+    {
+        "category": "Economy",
+        "question": "Inflation le household budgeting ma kasto impact parcha?",
+        "answer": "Inflation le goods ra services ko price badhaune hunale household expenses increase huncha. Yasko karan savings kam huncha ra long-term financial planning ma problem create garcha."
+    },
+    {
+        "category": "Social Media",
+        "question": "Social media influencers le consumer behavior ma kasto prabhav parcha?",
+        "answer": "Social media influencers le product recommendations ra reviews bata buying decisions lai influence garcha. Yesto influence le trust build garna sakcha, tara fake promotions le trust harm pani garcha."
+    },
+    {
+        "category": "Technology",
+        "question": "Blockchain technology le banking sector ma kasto changes lyauna sakcha?",
+        "answer": "Blockchain le secure transactions, transparency, ra faster cross-border payments enable garcha. Yasko karan traditional banking processes efficient ra cost-effective huncha."
+    },
+    {
+        "category": "Health",
+        "question": "Regular exercise le mental health ma kasto positive impact garcha?",
+        "answer": "Regular exercise le endorphins release garcha, jasko karan stress reduce huncha ra mood improve huncha. Yasko karan depression ra anxiety manage garna madat milcha."
+    },
+    {
+        "category": "Environment",
+        "question": "Nepal ma community forestry le biodiversity conservation ma kasto role kheldaichha?",
+        "answer": "Community forestry le local communities lai forest management ma involve garera deforestation reduce garna ra biodiversity conserve garna madat garcha. Yasto approach sustainable development ko example ho."
+    },
+    {
+        "category": "Space Exploration",
+        "question": "Space tourism ko development le scientific research ma ke benefit dina sakcha?",
+        "answer": "Space tourism le private funding increase garera advanced technology development support garcha. Yasko karan microgravity research ra space exploration ko opportunities badhcha."
+    },
+    {
+        "category": "Culture",
+        "question": "Cultural festivals le tourism industry ma kasto contribution garcha?",
+        "answer": "Cultural festivals le international tourists attract garna ra local economy boost garna madat garcha. Festivals le cultural identity preserve garna pani madat garcha."
+    },
+    {
+        "category": "Psychology",
+        "question": "Gratitude practice garnale mental health ma kasto improvement huncha?",
+        "answer": "Gratitude practice garnale positive emotions increase garcha, relationships strengthen garcha, ra stress ko level reduce garcha. Regular gratitude journaling le life satisfaction badhauna madat garcha."
+    },
+    {
+        "category": "Sports",
+        "question": "Sportsmanship le personal development ma kasto role kheldaichha?",
+        "answer": "Sportsmanship le discipline, teamwork, ra resilience sikna madat garcha. Yasto values le individual lai personal ra professional life ma pani successful banaucha."
+    },
+    {
+        "category": "Career",
+        "question": "Networking le career growth ma kina important chha?",
+        "answer": "Networking le new opportunities explore garna, mentorship find garna, ra professional skills enhance garna madat garcha. Yasko karan career progression fast huncha."
+    },
+    {
+        "category": "Medicine",
+        "question": "Telemedicine le rural areas ma healthcare access kasari improve garcha?",
+        "answer": "Telemedicine le doctors ra patients lai remote areas bata connect garna madat garcha. Basic consultation, diagnosis, ra follow-up treatment easily accessible huncha."
+    },
+    {
+        "category": "Parenting",
+        "question": "Positive reinforcement le bachha ko behavior development ma kasto effect dincha?",
+        "answer": "Positive reinforcement le good behavior encourage garcha ra confidence build garcha. Rewards ra appreciation bata long-term ma healthy habits develop huncha."
+    },
+    {
+        "category": "Economy",
+        "question": "Remittance le Nepal ko economy ma kasto role kheldaichha?",
+        "answer": "Remittance le national GDP ma major contribution garcha. Household income badhaune ra rural economy uplift garna remittance ekdamai important chha."
+    },
+    {
+        "category": "Environment",
+        "question": "Eco-friendly products ko adoption le kasto impact parcha?",
+        "answer": "Eco-friendly products le pollution reduce garna, natural resources conserve garna, ra sustainable consumption promote garna madat garcha. Long-term ma environment sustainable huncha."
+    },
+    {
+        "category": "Technology",
+        "question": "Quantum computing le traditional computing ma kasto difference create garcha?",
+        "answer": "Quantum computing le complex calculations exponentially fast solve garcha. Yasko karan cryptography, AI, ra drug discovery jasta fields ma breakthrough possible huncha."
+    },
+    {
+        "category": "Agriculture",
+        "question": "Organic farming le farmer ko income ra environment ma ke impact parcha?",
+        "answer": "Organic farming le pesticide-free produce sell garera farmer ko income badhauna madat garcha. Environment friendly huna le soil health improve garcha ra biodiversity protect huncha."
+    },
+    {
+        "category": "Ethics",
+        "question": "AI ethics ko practice le technology ma kasto changes lyauna sakcha?",
+        "answer": "AI ethics le unbiased algorithms develop garna, data privacy protect garna, ra human rights ko respect ensure garna madat garcha. Yasko karan AI adoption ma trust badhcha."
+    },
+    {
+        "category": "Health",
+        "question": "Meditation le stress management ma kina effective chha?",
+        "answer": "Meditation le mind lai calm garna ra stress hormones reduce garna madat garcha. Daily practice le mental clarity badhcha ra emotional well-being improve huncha."
+    },
+    {
+        "category": "Environment",
+        "question": "Plastic pollution control garna ke-kasta initiatives linu parcha?",
+        "answer": "Plastic pollution control garna reusable products ko use badhaune, single-use plastics ban garne, ra recycling programs lai promote garna parcha. Awareness campaigns le public education ma madat garcha."
+    },
+    {
+        "category": "Education",
+        "question": "Online education le traditional classroom education ma ke difference lyauna sakcha?",
+        "answer": "Online education le flexibility ra accessibility provide garcha, jasko karan rural areas ma pani education accessible huncha. Tara, lack of physical interaction learning experience ma effect garna sakcha."
+    },
+    {
+        "category": "Technology",
+        "question": "Wearable devices le health monitoring ma kasto madat garcha?",
+        "answer": "Wearable devices le heart rate, sleep patterns, ra physical activity track garna madat garcha. Early detection ko lagi yesto devices le real-time data provide garcha."
+    },
+    {
+        "category": "Society",
+        "question": "Volunteering ko practice le community development ma kasto role kheldaichha?",
+        "answer": "Volunteering le local problems solve garna manpower provide garcha ra community spirit develop garcha. Yasto efforts le long-term development projects lai support garcha."
+    },
+    {
+        "category": "Health",
+        "question": "Balanced diet follow garnale immunity system ma ke effect parcha?",
+        "answer": "Balanced diet le vitamins, minerals, ra antioxidants ko proper intake ensure garcha, jasko karan immunity system strong huncha. Junk food avoid garnale body infections lai better fight garna sakcha."
+    },
+    {
+        "category": "Economy",
+        "question": "Digital payments le financial inclusion ma kasto madat garcha?",
+        "answer": "Digital payments le rural areas ma financial services accessible banaucha ra cashless transactions ko trend badhauna madat garcha. Yasko karan economy more inclusive huncha."
+    },
+    {
+        "category": "Science",
+        "question": "Stem cell research le medical science ma kasto advancement lyauna sakcha?",
+        "answer": "Stem cell research le damaged tissues repair garna ra genetic disorders ko treatment develop garna madat garcha. Yasko potential le regenerative medicine ko scope expand garcha."
+    },
+    {
+        "category": "Parenting",
+        "question": "Early childhood education kina critical huncha?",
+        "answer": "Early childhood education le foundational skills, social behavior, ra emotional development foster garcha. Yasto education le lifelong learning ko base prepare garcha."
+    },
+    {
+        "category": "Space Exploration",
+        "question": "Mars colonization ko lagi ke-kasta challenges solve garna parcha?",
+        "answer": "Mars colonization ko lagi sustainable life-support systems develop garna, radiation protection ensure garna, ra food production ko reliable method create garna parcha."
+    },
+    {
+        "category": "History",
+        "question": "Industrial Revolution le global society ma ke impact gareko thiyo?",
+        "answer": "Industrial Revolution le mass production introduce garna, technology advance garna, ra urbanization badhauna madat gareko thiyo. Tara, yasko karan labor exploitation ra pollution pani badheka thiyo."
+    },
+    {
+        "category": "Agriculture",
+        "question": "Hydroponics farming le traditional farming compare garera ke benefits dincha?",
+        "answer": "Hydroponics le water efficiency badhaune, pesticide use reduce garna, ra urban areas ma farming possible banaucha. Limited land ma high yield possible huncha."
+    },
+    {
+        "category": "Psychology",
+        "question": "Cognitive Behavioral Therapy (CBT) ko effectiveness kina badhi chha?",
+        "answer": "CBT le negative thought patterns identify garna ra positive behavioral changes promote garna madat garcha. Anxiety, depression, ra stress jasta issues ma yasko result effective huncha."
+    },
+    {
+        "category": "Youth",
+        "question": "Skill-based education le youth employment ma kasto role kheldaichha?",
+        "answer": "Skill-based education le practical knowledge provide garcha ra industry demands fulfill garna ready garna madat garcha. Yasto approach le unemployment rate reduce garna sakcha."
+    },
+    {
+        "category": "Tourism",
+        "question": "Adventure tourism le Nepal ko economy ma ke contribution garcha?",
+        "answer": "Adventure tourism le international visitors attract garna ra rural areas ma employment opportunities create garna madat garcha. Rafting, trekking, ra paragliding le economy boost garcha."
+    },
+    {
+        "category": "Energy",
+        "question": "Wind energy utilize garna ko lagi Nepal ma ke potential chha?",
+        "answer": "Nepal ko hilly areas ra high-altitude regions wind energy ko lagi suitable chhan. Renewable energy diversify garna wind turbines deploy garna sakinchha."
+    },
+    {
+        "category": "Environment",
+        "question": "Climate change ko effect minimize garna ke individual actions linu sakinchha?",
+        "answer": "Climate change minimize garna waste reduce garna, public transport use garna, ra renewable energy adopt garna sakinchha. Individual efforts le cumulative impact dincha."
+    },
+    {
+        "category": "Health",
+        "question": "Yoga practice garnale body ra mind ma kasto balance dincha?",
+        "answer": "Yoga le flexibility increase garna, blood circulation improve garna, ra stress reduce garna madat garcha. Yasko regular practice le mental clarity badhauna sakcha."
+    },
+    {
+        "category": "Digital Literacy",
+        "question": "Digital literacy ko importance modern workforce ma kina critical chha?",
+        "answer": "Digital literacy le computer skills, online tools, ra data handling sikna madat garcha. Modern jobs ma yesto skills necessary huncha productivity badhauna."
+    },
+    {
+        "category": "Technology",
+        "question": "Cloud computing le businesses ma ke-kasta advantages dincha?",
+        "answer": "Cloud computing le data storage cost reduce garna, scalability ensure garna, ra remote collaboration ko lagi platform provide garcha. Business operations more flexible huncha."
+    },
+    {
+        "category": "Philosophy",
+        "question": "Work-life balance maintain garna ke major factors important chhan?",
+        "answer": "Work-life balance maintain garna time management, clear boundaries set garna, ra personal time prioritize garna important chha. Yasko karan burnout avoid huncha ra productivity badhcha."
+    },
+    {
+        "category": "Startups",
+        "question": "Nepal ma startups successful hunalai ke-kasta factors lai focus garna parcha?",
+        "answer": "Startups successful hunalai market research, customer needs ko clear understanding, ra financial planning critical chha. Networking, investor relationships, ra digital marketing ko use le pani growth accelerate garna madat garcha."
+    },
+    {
+        "category": "Economy",
+        "question": "Nepal ma tourism sector le export earnings ma ke impact dincha?",
+        "answer": "Tourism sector le foreign exchange earn garna major role kheldaichha. Trekkers, cultural tourists, ra adventure enthusiasts le local businesses lai boost garera economy contribute garcha."
+    },
+    {
+        "category": "Mental Health",
+        "question": "Stress management garna mindfulness practice kasari effective huncha?",
+        "answer": "Mindfulness practice le present moment ma focus garna sikaucha, jasle stress reduce garna ra emotional balance maintain garna madat garcha. Regular practice le mental clarity pani improve garcha."
+    },
+    {
+        "category": "Science",
+        "question": "Genetic engineering le agriculture field ma ke-kasta improvements lyauna sakcha?",
+        "answer": "Genetic engineering le pest-resistant crops develop garna, drought-tolerant plants create garna, ra yield increase garna madat garcha. Yasko karan food security ma significant impact parcha."
+    },
+    {
+        "category": "Education",
+        "question": "Experiential learning kina students ko understanding enhance garcha?",
+        "answer": "Experiential learning le practical exposure dincha, jasle theory lai real-world application ma connect garna madat garcha. Yasto approach le retention ra problem-solving skills badhcha."
+    },
+    {
+        "category": "Environment",
+        "question": "Deforestation control garna sustainable logging kasari helpful huncha?",
+        "answer": "Sustainable logging le selective tree harvesting garera forest ko regeneration ensure garcha. Yasko karan environment ko balance maintain huncha ra biodiversity conserve garcha."
+    },
+    {
+        "category": "Technology",
+        "question": "Artificial Intelligence le healthcare field ma ke-kasta transformation lyauna sakcha?",
+        "answer": "AI le accurate diagnosis, personalized treatment plans, ra drug discovery ma speed badhauna madat garcha. Virtual assistants le patient care ko efficiency badhauna sakcha."
+    },
+    {
+        "category": "Geography",
+        "question": "Nepal ko diverse climate le agriculture ma ke impact garcha?",
+        "answer": "Nepal ko diverse climate le multiple crops grow garna suitable environment dincha. High-altitude ma potato ra barley, while lower plains ma rice ra sugarcane cultivation possible chha."
+    },
+    {
+        "category": "Health",
+        "question": "Water intake ko importance body ko proper functioning ko lagi kina critical huncha?",
+        "answer": "Water intake le digestion, toxin removal, ra joint lubrication ma madat garcha. Dehydration avoid garna adequate water le body balance maintain garcha."
+    },
+    {
+        "category": "Career Development",
+        "question": "Leadership skills develop garna ke-kasta activities involve garnu parcha?",
+        "answer": "Leadership skills develop garna decision-making, team management, ra communication skills ma focus garnu parcha. Volunteering, mentorship, ra project management ma involve hune effective approach ho."
+    },
+    {
+        "category": "Medicine",
+        "question": "Vaccination programs le public health ma ke-kasta benefits dincha?",
+        "answer": "Vaccination programs le life-threatening diseases prevent garna, herd immunity build garna, ra healthcare costs reduce garna madat garcha. Long-term ma epidemics control ma yasko role significant chha."
+    },
+    {
+        "category": "Social Issues",
+        "question": "Gender equality achieve garna ke major barriers chhan?",
+        "answer": "Gender equality achieve garna social norms, unequal pay, ra limited representation policy-making ma barriers chhan. Awareness campaigns ra legal reforms le yesto challenges tackle garna madat garcha."
+    },
+    {
+        "category": "Entrepreneurship",
+        "question": "Nepal ma local products export ko potential maximize garna ke garnu parcha?",
+        "answer": "Local products export maximize garna branding, quality control, ra international market ko access ensure garnu parcha. Handicrafts, organic goods, ra tea jasta items high demand ma chhan."
+    },
+    {
+        "category": "Space Exploration",
+        "question": "Nepal ma space science research expand garna ke garnu parcha?",
+        "answer": "Space science expand garna educational programs promote garna, international collaboration establish garna, ra satellite technology ko knowledge transfer garna parcha."
+    },
+    {
+        "category": "Sports",
+        "question": "Sports infrastructure develop garna Nepal ma ke challenges chhan?",
+        "answer": "Sports infrastructure develop garna funding, land allocation, ra skilled trainers ko kami jasta challenges chhan. Government ra private sector ko collaboration le yesto gaps fill garna sakcha."
+    },
+    {
+        "category": "Technology",
+        "question": "Data privacy maintain garna individuals le ke-kasta steps linu parcha?",
+        "answer": "Data privacy maintain garna strong passwords use garna, two-factor authentication enable garna, ra personal data unauthorized sites ma share nagarna parcha."
+    },
+    {
+        "category": "Environment",
+        "question": "Eco-tourism promote garna Nepal ma ke opportunities chhan?",
+        "answer": "Nepal ko natural beauty, trekking trails, ra wildlife reserves eco-tourism ko lagi perfect chhan. Community-based tourism le sustainability ra local economy lai support garna sakcha."
+    },
+    {
+        "category": "Psychology",
+        "question": "Procrastination overcome garna effective techniques kasto huncha?",
+        "answer": "Procrastination overcome garna time-blocking method use garna, realistic goals set garna, ra distractions minimize garna helpful huncha. Positive reinforcement le motivation maintain garna madat garcha."
+    },
+    {
+        "category": "Culture",
+        "question": "Cultural heritage sites protect garna Nepal ma ke steps linu parcha?",
+        "answer": "Heritage sites protect garna awareness programs, strict regulations, ra community involvement essential chha. Sustainable tourism practices le pani preservation ma madat garcha."
+    },
+    {
+        "category": "Health",
+        "question": "Mental health awareness badhauna community level ma ke initiatives linu sakcha?",
+        "answer": "Mental health awareness badhauna workshops organize garna, free counseling services provide garna, ra stigma reduce garna campaigns lanch garnu sakcha."
+    }
+]

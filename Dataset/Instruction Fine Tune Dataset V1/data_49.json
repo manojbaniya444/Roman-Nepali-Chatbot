@@ -1,0 +1,422 @@
+[
+    {
+        "question": "Pokhara ma kasto mausam huncha?",
+        "context": "Pokhara ma dherai jaso mausam sital huncha. Yaha parvat haru ko karan hawapani dherai swachchha cha ra yaha ko phoolbari pani dherai ramro cha.",
+        "answer": "Pokhara ma dherai jaso mausam sital huncha."
+    },
+    {
+        "question": "Nepal ko rajdhani k ho?",
+        "context": "Nepal ko rajdhani Kathmandu ho. Kathmandu ma dherai purano itihasik darbar haru ra mandir haru chan. Yaha ko darbar marg dherai ramro shopping area pani ho.",
+        "answer": "Nepal ko rajdhani Kathmandu ho."
+    },
+    {
+        "question": "Lumbini kina prasiddha cha?",
+        "context": "Lumbini Gautam Buddha ko janma sthal ho. Yaha dherai mandir haru ra itihasik sthaniya thau haru chan, jasle sanskritik mahatwa dincha.",
+        "answer": "Lumbini Gautam Buddha ko janma sthal ho."
+    },
+    {
+        "question": "Chitwan ma kun kura chaheko cha?",
+        "context": "Chitwan ma dherai jaso Chitwan National Park prasiddha cha. Yaha rhino, tiger jasta ban-jantu haru dekhna sakincha ra jungle safari ko majja lina milcha.",
+        "answer": "Chitwan ma dherai jaso Chitwan National Park prasiddha cha."
+    },
+    {
+        "question": "Sagarmatha ko uchai kati cha?",
+        "context": "Sagarmatha ko uchai 8,848 meter ho, jun sansar ko sab bhanda aglo parvat ho. Yaha dherai mountaineer haru charan garna aunchan.",
+        "answer": "Sagarmatha ko uchai 8,848 meter ho."
+    },
+    {
+        "question": "Mero order confirm bha cha ki chaina?",
+        "context": "Namaste! Hami yo samayama order confirm garna ko lagi SMS ra email pathaunchaun. Tapai ko order confirm huney bela email ma confirmation details aunecha. Kasai karan le email chaina bhane, tapai hamro customer support ma call garna saknuhunchha. Aba ta app ma login garera 'My Orders' section ma pani order status check garna milcha. Tyaha pending, confirmed, ra dispatched sabai details dekhincha.",
+        "answer": "Tapai app ko 'My Orders' section ma login garera order status check garna saknuhunchha."
+    },
+    {
+        "question": "Return policy kasto cha?",
+        "context": "Hami afno customer haru ko santushti ko lagi 7 din return policy dina kaam garchau. Tapai ko product damaged ya incorrect cha bhane, tapai le hamro app ya website ma 'Return/Replace' request dinu parcha. Hamra delivery team le product collect garera check garcha ra refund ya replacement ko process thali garcha. Refund directly tapai ko payment method ma 5-7 working days ma auncha.",
+        "answer": "Hamro 7 din ko return policy cha jun damaged ya incorrect product ko lagi lagu huncha."
+    },
+    {
+        "question": "Delivery aba kati din ma huncha?",
+        "context": "Tapai ko location anusar delivery ko samay farak huncha. Kathmandu valley vitra ko delivery hami 2-3 din ma garchaun. Bahira ko major cities ma 5-7 din lagna sakcha. Rural area ma delivery thap 2-3 din late huncha. Tapai le app ma tracking ID ko sahayata le apno parcel ko real-time status herna saknuhunchha.",
+        "answer": "Kathmandu vitra delivery 2-3 din ma huncha, bahira major cities ma 5-7 din lagcha."
+    },
+    {
+        "question": "Mero account unlock garna kasari garne?",
+        "context": "Aakarshit ko account unlock garna hamro password recovery process follow garnu parcha. Sabai bhanda pahila 'Forgot Password' ma click garnu hos ani email ya phone number verify garera OTP enter garnu hos. Naya password set garera login garna milcha. Tapai le account ma problem cha bhane hamro support team lai 24/7 contact garna saknuhunchha. Email support chaheko bela: support@hamrostore.com.",
+        "answer": "Forgot Password option ma click garera OTP verify garera naya password set garna saknuhunchha."
+    },
+    {
+        "question": "Refund kati bela samma aaucha?",
+        "context": "Tapai ko refund hamro taraf bata process bhaepachi tapai ko original payment method ma 5-7 working days ma deposit huncha. Payment method bank transfer ya e-wallet ho bhane yo samay thap 1-2 din lagna sakcha. Hami le tapai lai process complete bhaepachi email ya SMS ma notification pathaunecha. Bank delay ko karan le refund ali dhilo huncha bhane, hami lai contact garna saknuhunchha.",
+        "answer": "Refund process complete bhaepachi 5-7 working days ma tapai ko payment method ma aaucha."
+    },
+    {
+        "question": "Stock ma invest garna kasari thalni?",
+        "context": "Namaste! Stock ma invest garna ko lagi tapai le hamro platform ma account create garnu parcha. Account create garepachi KYC verify garera apno bank account link garna milcha. Jaba KYC verify huncha, tapai buy ra sell ko option dekhnuhunecha. Stock market basics sikna ko lagi hamro app ko 'Learn to Trade' section ma free tutorials ra live webinars available cha. Tapai le yaha dekhaeko information le sikera suru garna saknuhunchha.",
+        "answer": "Hamro platform ma account create garera KYC verify gari bank link garera stock ma invest garna thalna saknuhunchha."
+    },
+    {
+        "question": "Trading account ko charges k k huncha?",
+        "context": "Hamro trading platform le minimal charges rakheko cha. Tapai le account kholda yearly maintenance charge lagcha, jun Rs. 500 cha. Buy ya sell garna brokerage charges 0.25% lagcha. Additional GST ra SEBI turnover charges pani applicable cha. Account charges ko detail 'Fee Structure' section ma full list herna saknuhunchha.",
+        "answer": "Yearly maintenance charge Rs. 500, brokerage charge 0.25%, GST ra SEBI charges lagcha."
+    },
+    {
+        "question": "Mero withdrawal kati din ma process huncha?",
+        "context": "Tapai le trading account ma withdrawal request halepachi, yo process 1-2 working days ma complete huncha. Tapai ko bank account ma withdrawal direct deposit huncha. Kasai karan le late bhayo bhane, bank ya technical issue hunu sakcha. Aba withdrawal tracking ko lagi 'Transaction History' section ma check garna saknuhunchha. Hamro support team 24/7 ready cha yedi additional help chaheko cha bhane.",
+        "answer": "Withdrawal request 1-2 working days ma process huncha."
+    },
+    {
+        "question": "Intraday trading kasari garne?",
+        "context": "Intraday trading garna ko lagi tapai le market khulda buy/sell order halnu parcha ra market band bhanda agadi trade close garna parcha. Tapai le hamro platform ma intraday margin features ko upayog garera thap leverage lina saknuhunchha. Yedi trade close garna bhulnu bhayo bhane, system le automatic close garcha. Intraday trade ma high risk cha, tesko lagi hamro 'Risk Management' guide pani available cha.",
+        "answer": "Market khulda buy/sell garera band bhanda agadi close garna parcha."
+    },
+    {
+        "question": "Portfolio balance kasari check garne?",
+        "context": "Portfolio balance check garna ko lagi hamro app ya web platform ma login garera 'Portfolio' section ma januhos. Yaha tapai ko holdings, unrealized profit/loss, ra net investment balance dekhincha. Tapai le yesto details live update ma herna saknuhunchha. Yedi issue cha bhane hamro support lai email garnuhos: support@tradinghelp.com.",
+        "answer": "App ma 'Portfolio' section ma login garera balance ra details check garna saknuhunchha."
+    },
+    {
+        "question": "Demat account open garna ko lagi ke chahinchha?",
+        "context": "Namaste! Demat account kholna ko lagi sabai bhanda pahila tapai le online ya offline application form fill garnu parcha. Online form ma tapai ko naam, email, phone number, ra PAN card ko detail input garna parcha. Aba KYC verify garna ko lagi tapai ko Aadhaar card, PAN card, ra bank statement ko scan copy upload garnu parcha. Tapai ko signature ko digital photo ra selfie pani chahinchha. Verification process 24-48 ghanta lagcha, ra account active bhaepachi tapai email ko madhyam bata login details dinu huncha. Aba trading suru garna bank account link garna parcha. Yedi kunai problem aauncha bhane hamro customer care 24/7 support dincha.",
+        "answer": "Demat account kholna Aadhaar card, PAN card, bank statement, signature ko digital copy, ra selfie chahinchha. Verification 24-48 ghanta lagcha."
+    },
+    {
+        "question": "Trading platform ma order kasari place garne?",
+        "context": "Hamro trading platform ma order place garna ko lagi, tapai le sabai bhanda pahila app ya website ma login garna parcha. Aba dashboard ma 'Market Watch' section open garnu hos ra yaha tapai le stock ya commodity ko live price dekhna saknuhunchha. Tapai le jun stock ma invest garna cha huncha tyo select garera 'Buy' ya 'Sell' button click garnu parcha. Aba quantity enter garera, order type (Market ya Limit) ra validity (Day ya IOC) select garnu hos. Aba confirm click garepachi order place huncha. Active orders ra executed orders ko details dashboard ma 'Order Book' ma dekhna sakincha. Kasai problem cha bhane hamro helpline ma call garna saknuhunchha.",
+        "answer": "Dashboard ko 'Market Watch' ma stock select garera 'Buy' ya 'Sell' click gari order place garna saknuhunchha."
+    },
+    {
+        "question": "Trading account ma funds kasari deposit garne?",
+        "context": "Trading account ma funds deposit garna ko lagi, sabai bhanda pahila app ya website ma login garnu hos. Tapai ko dashboard ma 'Funds' section ma januhos ra 'Add Funds' button click garnu hos. Aba tapai ko linked bank account automatic show huncha. Aba deposit garna chahane amount type garnu hos ani preferred payment method (UPI, Net Banking, Debit Card) select garnu hos. Aba next ma click garepachi tapai lai bank gateway ma redirect garcha ra tapai ko payment complete bhaepachi fund real-time ma trading account ma reflect huncha. Yedi fund reflect garna ali time lagcha bhane, tapai ko transaction ID use garera customer support lai contact garna saknuhunchha.",
+        "answer": "App ko 'Funds' section ma 'Add Funds' click gari UPI, Net Banking, ya Debit Card le funds deposit garna saknuhunchha."
+    },
+    {
+        "question": "Risk management kasari garne trading ma?",
+        "context": "Trading ma risk management dherai important cha, kina bhane market volatile huncha. Tapai le stop-loss order set garna parcha jasle market price unexpected direction ma gayo bhane tapai ko loss limited huncha. Aba position sizing pani important cha, jasma tapai ko ekta trade ma investment total portfolio ko 1-2% ma rakha janchha. Diversification pani garnu parcha, jasma multiple stocks ya sectors ma invest garna saknuhunchha. Aba leverage wisely use garnu parcha, kina bhane yo profit badhaune sakcha tara loss pani dherai huncha. Tapai le hamro app ko 'Risk Management Guide' herera aru details sikna saknuhunchha.",
+        "answer": "Stop-loss order set garera, position sizing, diversification, ra leverage wisely use garera risk manage garna saknuhunchha."
+    },
+    {
+        "question": "IPO ma apply kasari garne?",
+        "context": "IPO ma apply garna ko lagi, tapai ko Demat account ra UPI ID active hunu parcha. Hamro platform ma login garera 'IPO' section ma januhos ra available IPOs ko list check garnu hos. Tapai le interested IPO select garera 'Apply' button click garnu parcha. Aba tapai ko bid quantity ra price enter garera confirm garnu hos. Aba UPI ID enter garera payment request accept garnu hos. IPO closing date pachi allotment status app ya website ma check garna saknuhunchha. Allot bhaepachi shares tapai ko Demat account ma automatic reflect huncha. Yedi tapai ko bid reject bhayo bhane refund 3-4 working days ma aaucha.",
+        "answer": "Login garera 'IPO' section ma janera bid quantity, price enter garera UPI ID use gari apply garna saknuhunchha."
+    },
+    {
+        "question": "Mero account inactive cha, activate kasari garne?",
+        "context": "Namaste! Tapai ko trading account inactive hunu ko karan dherai jaso prolonged inactivity ya KYC update ko requirement huncha. Account activate garna ko lagi tapai le hamro app ya website ma login garera 'Reactivate Account' option ma januhos. Aba yaha tapai le missing details jasto ki updated Aadhaar card ya PAN card upload garnu parcha. Kati bela bank statement pani chahinchha jun recent 3 mahina ko huncha. Aba reactivation request submit garepachi hamro team le 24-48 ghanta ma account verify garcha. Verification complete bhaepachi email ma confirmation pathaunecha. Yedi kunai problem aayo bhane, 24/7 customer support helpline ma call garna saknuhunchha.",
+        "answer": "App ya website ma 'Reactivate Account' option ma login garera missing KYC details upload garnu hos."
+    },
+    {
+        "question": "Margin trading kasari garne?",
+        "context": "Margin trading garna ko lagi tapai ko account ma margin facility enable hunu parcha. Hamro platform ma login garera 'Margin Trading' section ma januhos ra enable button click garnu hos. Aba tapai le required documents, jasto ki salary slip ya ITR (Income Tax Return) upload garnu parcha. Verification process complete bhaepachi tapai ko account ma margin facility activate huncha. Aba tapai le leverage use garera stock buy ya short sell garna saknuhunchha. Margin trading high risk cha, so hamro platform ma 'Risk Calculator' tool use garera apno position calculate garna saknuhunchha.",
+        "answer": "Account ma margin facility enable gari documents jasto ki salary slip ya ITR upload garera activate garna saknuhunchha."
+    },
+    {
+        "question": "Dividend payment kasari aaucha?",
+        "context": "Tapai ko Demat account ma rakheko shares ko dividend directly tapai ko registered bank account ma transfer huncha. Dividend ko payment date company le declare gareko date ma huncha. Aba company le dividend payment process garda 7-10 working days lagcha. Tapai ko dividend receipt email ma pathaune garincha. Aba dividend missing cha bhane, tapai le company ko RTA (Registrar and Transfer Agent) ma contact garna saknuhunchha. Hamro platform ma 'Corporate Actions' section ma dividend history ra details herna milcha.",
+        "answer": "Dividend registered bank account ma 7-10 working days ma transfer huncha ra receipt email ma aaucha."
+    },
+    {
+        "question": "Stop-loss order set garna ko fayda k ho?",
+        "context": "Stop-loss order set garna ko fayda yo ho ki yo tapai ko losses control garna madat garcha. Tapai le stock ko price ek certain limit tala jada automatic sell garna stop-loss set garna saknuhunchha. Example ko lagi, yedi tapai le Rs. 100 ma stock buy garnu bhaeko cha ra Rs. 90 ma stop-loss rakhnu bhaeko cha bhane, stock ko price Rs. 90 tala jada automatic sell huncha. Aba market ma volatility le loss minimize huncha. Stop-loss set garna ko lagi hamro app ma 'Orders' section ma janera stop-loss option select garna saknuhunchha.",
+        "answer": "Stop-loss order le losses control garna madat garcha ra market volatility ma tapai ko risk minimize huncha."
+    },
+    {
+        "question": "Futures trading ma expiry date bhanda agadi trade close garna milcha?",
+        "context": "Ho, tapai le futures trading ma expiry date bhanda agadi trade close garna saknuhunchha. Aba tapai le hamro app ya platform ma 'Open Positions' section ma janera close position button click garna parcha. Futures contracts ko expiry date samma hold garna ni milcha tara close garera profit/loss book garna pani milcha. Tapai ko margin account sufficient cha bhane rollover option use garera agla expiry ma contract lejana pani milcha. Aba tapai le rollover cost ra brokerage charges ko details 'Fee Structure' section ma check garna saknuhunchha.",
+        "answer": "Futures contracts expiry date bhanda agadi 'Open Positions' ma close garera profit/loss book garna saknuhunchha."
+    },
+    {
+        "question": "Multiple watchlist kasari banaucha?",
+        "context": "Hamro trading platform ma tapai le multiple watchlist banayera tapai ka favorite stocks ya commodities track garna saknuhunchha. Aba tapai ko dashboard ma 'Watchlist' section open garera 'Create New Watchlist' button click garnu hos. Aba watchlist ko naam enter garnu hos (e.g., Tech Stocks, High Dividend Stocks) ra stock symbol ya company naam add garnu hos. Tapai le ek wata watchlist ma 50 sama stocks add garna saknuhunchha. Aba watchlist real-time update huncha ra tapai le price movements track garna milcha. Kasai problem bhaye, email garera help magna saknuhunchha.",
+        "answer": "Dashboard ma 'Create New Watchlist' click garera naam enter gari stock symbols add garera watchlist banaucha."
+    },
+    {
+        "question": "ETF ma invest garna ko lagi ke garnu parcha?",
+        "context": "ETF ma invest garna ko lagi tapai le apno trading account active hunu parcha. Aba hamro app ma login garera 'ETF' section ma available funds check garnu hos. ETF select garepachi tapai ko required quantity enter garera 'Buy' order place garnu parcha. ETF ko NAV (Net Asset Value) update huncha market ma real-time basis ma, ani same-day settlement process huncha. Aba long-term investing ko lagi ETF dherai ramro option ho kina bhane low expense ratio huncha ra diversification milcha. Hamro platform ma 'Learn about ETFs' section ma additional guides pani available cha.",
+        "answer": "Trading account active rakhera 'ETF' section ma quantity select garera buy order place garna parcha."
+    },
+    {
+        "question": "Portfolio rebalance kasari garne?",
+        "context": "Portfolio rebalance garna ko lagi tapai le sabai bhanda pahila apno current portfolio analyze garnu parcha. Dashboard ma 'Portfolio Analysis' section open garera stocks, mutual funds, ETFs ko allocation check garnu hos. Aba tapai le apno target allocation decide garna parcha, jasto ki 60% equity, 30% debt, 10% cash. Yedi current allocation mismatch cha bhane, over-allocated stocks sell garera under-allocated category ma invest garna saknuhunchha. Rebalancing ma tapai le market conditions pani consider garna parcha, jasto ki rising interest rate ma debt allocation badhaune. Hamro platform ma automatic rebalancing tool pani available cha, jasma tapai ko risk profile analyze garera suggestion dincha.",
+        "answer": "Portfolio rebalance garna current allocation analyze garera over-allocated stocks sell gari under-allocated ma invest garna parcha."
+    },
+    {
+        "question": "Bank mandate update kasari garne?",
+        "context": "Bank mandate update garna ko lagi, sabai bhanda pahila hamro platform ma login garnu hos. Aba 'Profile Settings' ma janera 'Bank Details' option select garnu hos. Tapai le updated bank account details jasto ki account number, IFSC code, ra bank statement upload garnu parcha. Aba OTP verify garera request submit garnu hos. Hamro backend team le updated details verify garera 1-2 working days ma approval dincha. Verification complete bhaepachi, updated bank details tapai ko account ma reflect huncha. Aba withdrawal ya fund transfer ma updated account use huncha.",
+        "answer": "Login gari 'Bank Details' section ma updated details upload garera OTP verify garna parcha."
+    },
+    {
+        "question": "Tax statements kasari download garne?",
+        "context": "Hamro platform le yearly tax filing ko lagi tax statement generate garne feature provide garcha. Aba tapai le app ya website ma login garera 'Reports' section ma januhos. Aba 'Tax Statements' option ma click garera required financial year select garnu hos. Tapai le realized profit/loss, dividend income, ra brokerage charges ko breakdown dekhnuhunchha. PDF format ma report download garna option cha, jun IRL ya tax advisor sanga share garna milcha. Yedi tax statement ma mismatch cha bhane, hamro support team lai immediately contact garnu hos.",
+        "answer": "App ko 'Reports' section ma janera 'Tax Statements' select gari required financial year ko report download garna saknuhunchha."
+    },
+    {
+        "question": "Trailing stop-loss kasari use garne?",
+        "context": "Trailing stop-loss ek dynamic order ho jun tapai le profit secure garna set garna saknuhunchha. Aba trailing stop-loss set garna ko lagi, 'Orders' section ma januhos ra stop-loss order type select garnu hos. Aba tapai le fixed stop-loss ko satta trail amount define garnu parcha (e.g., Rs. 10). Jab market price increase huncha, trailing stop-loss automatically adjust hunecha, tara price decrease huda initial stop-loss ko level ma sell hunecha. Example ko lagi, stock price Rs. 100 ma cha ra trailing stop-loss Rs. 10 define cha bhane, price Rs. 120 pugda stop-loss Rs. 110 ma adjust huncha.",
+        "answer": "Orders section ma trailing stop-loss set gari trail amount define garera automatic stop-loss adjust garna saknuhunchha."
+    },
+    {
+        "question": "Real-time market alerts kasari setup garne?",
+        "context": "Real-time market alerts setup garna ko lagi hamro platform ma 'Alerts' section open garnu hos. Aba tapai le stock ya index select garera price level, volume, ya percentage change ko basis ma alert condition set garna saknuhunchha. Example ko lagi, yedi tapai le XYZ stock ko price Rs. 500 cross garna lageko cha bhane alert set garera notification le news update pahunuhunchha. Aba alert SMS, email, ya push notification ko madhyam bata receive huncha. Alert history 'Alerts Dashboard' ma pani dekhna milcha.",
+        "answer": "Alerts section ma stock select garera price ya volume ko basis ma alert condition set garna saknuhunchha."
+    },
+    {
+        "question": "Fractional shares ma invest kasari garne?",
+        "context": "Hamro platform fractional share investing support garcha, jasle tapai le full share purchase nagari partial ownership lina madat garcha. Aba app ma login garera 'Fractional Shares' section open garnu hos. Aba tapai le stock select garera invest garna chahane amount (e.g., Rs. 500) type garnu hos. Aba system le proportional share calculate garera tapai ko portfolio ma add garcha. Fractional shares long-term investors ko lagi ramro option ho, kina bhane kam investment ma premium stocks ko exposure milcha.",
+        "answer": "Fractional Shares section ma stock select gari desired amount type garera partial ownership invest garna saknuhunchha."
+    },
+    {
+        "question": "Mutual fund SIP setup kasari garne?",
+        "context": "Mutual fund SIP setup garna ko lagi tapai le 'Mutual Funds' section ma janera desired fund select garna parcha. Aba 'Start SIP' button ma click garera monthly investment amount enter garnu hos (minimum Rs. 500). Aba tapai le preferred debit date ra duration define garera bank mandate setup garnu parcha. SIP setup complete bhaepachi tapai ko registered bank account bata automatic debit huncha. SIP ko performance track garna ko lagi app ma 'SIP Tracker' feature use garna milcha.",
+        "answer": "Mutual Funds section ma fund select gari amount ra debit date define garera SIP setup garna saknuhunchha."
+    },
+    {
+        "question": "Penny stocks ma invest kasari garne?",
+        "context": "Penny stocks ma invest garnu risky huncha tara high reward pani possible cha. Aba hamro platform ma login garera 'Penny Stocks' section ma jana saknuhunchha. Yaha tapai le low price stocks ko list herna saknuhunchha. Aba tapai le research garnu parcha jasto ki company ko financials, debt, ra market trends. Yedi tapai beginner ho bhane, penny stocks ma small allocation garera start garnu hos, kina bhane high volatility ko karan risk dherai cha. Penny stocks ma invest garna ko lagi 'Learn' section ma risk management guides pani available cha.",
+        "answer": "Penny Stocks section ma research garera small allocation le start garnu parcha high risk lai manage garna."
+    },
+    {
+        "question": "Trading platform ma price chart kasari analyze garne?",
+        "context": "Price chart analyze garna ko lagi hamro platform ma login garera 'Charting Tools' section ma januhos. Aba tapai le desired stock ya index ko chart select garna saknuhunchha. Yaha tapai le candlestick, line, ya bar chart visualization choose garna milcha. Aba technical indicators jasto ki Moving Averages, RSI (Relative Strength Index), ra Bollinger Bands add garera trend analyze garna saknuhunchha. Multiple timeframe (e.g., 1-day, 1-hour, 5-minute) pani analyze garna option cha. Yedi tapai beginner hunuhuncha bhane, hamro 'Charting Tutorials' herera indicators ko significance sikna saknuhunchha.",
+        "answer": "Charting Tools section ma stock ko chart select garera candlestick visualization ra indicators add garera analyze garna milcha."
+    },
+    {
+        "question": "Pre-market orders kasari place garne?",
+        "context": "Pre-market orders place garna ko lagi tapai ko trading account active hunu parcha. Pre-market timing subha 9:00-9:15 ho, jun samay ma tapai le order place garera early execution ko chance badhauna saknuhunchha. Aba hamro platform ma login garera 'Orders' section ma januhos. Aba stock select garera 'Pre-Market Order' option choose garnu hos. Quantity ra price specify garera confirm click garnu hos. Yedi pre-market session ma order execute huncha bhane, tapai ko confirmation notification aaucha. Yedi execute huna sakena bhane, tyo order main market session ma carry forward huncha.",
+        "answer": "Orders section ma stock select gari 'Pre-Market Order' option choose garera early execution ko lagi order place garna milcha."
+    },
+    {
+        "question": "Trading limits increase kasari garne?",
+        "context": "Trading limits increase garna ko lagi sabai bhanda pahila tapai ko account ma sufficient margin balance hunu parcha. Hamro app ya website ma login garera 'Profile' section ma januhos ra 'Increase Trading Limits' option select garnu hos. Aba required documents jasto ki bank statement, ITR, ya salary slip upload garnu hos. Aba request submit garepachi, hamro verification team le 1-2 working days ma process complete garcha. Approval bhaepachi tapai ko updated trading limit 'Dashboard' ma dekhna milcha.",
+        "answer": "Profile section ma janera 'Increase Trading Limits' ma required documents upload gari request submit garna parcha."
+    },
+    {
+        "question": "Short selling kasari garne?",
+        "context": "Short selling tab hunchha jab tapai le stock ko price girne prediction garchu ra stock sell garera later ma lower price ma buyback garchu. Hamro platform ma short sell garna ko lagi 'Orders' section ma januhos. Aba stock select garera 'Sell' order type choose garnu hos. Aba quantity ra price enter garera confirm click garnu hos. Short selling intraday basis ma huncha ra end of day samma position close garnu parcha. Yedi tapai beginner hunuhuncha bhane, risk management tools use garna advice garincha.",
+        "answer": "Orders section ma stock select garera 'Sell' option choose gari intraday basis ma short selling garna saknuhunchha."
+    },
+    {
+        "question": "Algo trading setup kasari garne?",
+        "context": "Algo trading setup garna ko lagi, sabai bhanda pahila tapai ko account ma algo facility enable hunu parcha. Hamro platform ma login garera 'Algo Trading' section ma januhos. Aba pre-defined strategies jasto ki Moving Average Crossover ya RSI-based strategies select garna saknuhunchha. Aba tapai le stock symbol, quantity, ra trigger conditions define garna parcha. Aba algo backtest option use garera historical data ma strategy test garna saknuhunchha. Backtest satisfactory cha bhane 'Deploy Algo' click gari live market ma activate garna milcha.",
+        "answer": "Algo Trading section ma strategy select gari trigger conditions define garera live market ma algo deploy garna saknuhunchha."
+    },
+    {
+        "question": "Mutual fund redemption kasari garne?",
+        "context": "Mutual fund redeem garna ko lagi hamro app ya website ma login garera 'Mutual Funds' section ma januhos. Aba tapai ko active investments ko list open huncha. Aba tapai le redeem garna chahane fund select garera 'Redeem' button click garnu hos. Aba redemption amount ya full redemption ko option select garera confirm click garnu hos. Redemption request process huna 1-3 working days lagcha. Amount directly tapai ko registered bank account ma transfer huncha. Process ko status 'Transaction History' section ma pani herna milcha.",
+        "answer": "Mutual Funds section ma redeem option click gari amount ya full redemption select garera request submit garna parcha."
+    },
+    {
+        "question": "IPO allotment status kasari check garne?",
+        "context": "IPO allotment status check garna ko lagi tapai le hamro app ya website ma login garnu parcha. Aba 'IPO' section ma januhos ra 'Allotment Status' button click garnu hos. Aba tapai le IPO application ID ya PAN number enter garera status check garna saknuhunchha. Aba allot bhaeko cha bhane, shares apno Demat account ma reflect huncha. Yedi allot huna sakena bhane refund 3-4 working days ma bank account ma aaucha. Hamro 'IPO Tracker' ma IPO related updates regularly herna saknuhunchha.",
+        "answer": "IPO section ma allotment status check garera application ID ya PAN number use garna milcha."
+    },
+    {
+        "question": "Currency trading ma start kasari garne?",
+        "context": "Currency trading start garna ko lagi tapai ko account ma currency trading enabled hunu parcha. Hamro platform ma login garera 'Currency Trading' section ma januhos. Aba tapai le currency pairs jasto ki USD/INR, EUR/INR select garera price movement analyze garna saknuhunchha. 'Buy' ya 'Sell' order place garera trade suru garnu hos. Currency market highly volatile huncha, so leverage wisely use garnu ra stop-loss set garnu mandatory cha. Tapai beginner ho bhane, 'Learn Currency Trading' section ma guides herera start garnu hos.",
+        "answer": "Currency Trading section ma currency pair select gari price analyze garera 'Buy' ya 'Sell' order place garna parcha."
+    },
+    {
+        "question": "ETF ma invest kasari suru garne?",
+        "context": "ETF (Exchange Traded Fund) ma invest garna ko lagi sabai bhanda pahila ETF ko type (equity, debt, ya sector-specific) select garna parcha. Hamro platform ma login garera 'ETF Marketplace' ma januhos. Aba ETF list ma janera expense ratio, past performance, ra underlying assets check garnu hos. Aba desired ETF select garera quantity ra price define gari 'Buy' button click garnu hos. ETF ko units tapai ko Demat account ma reflect huncha. ETF low-cost investment option ho, suitable for diversification.",
+        "answer": "ETF Marketplace ma ETF select garera expense ratio check gari 'Buy' click garera invest garna saknuhunchha."
+    },
+    {
+        "question": "Recurring deposit scheme trading account ma kasari link garne?",
+        "context": "Recurring deposit (RD) scheme trading account ma link garna ko lagi hamro platform ma login garera 'Banking Services' section ma januhos. Aba 'Link RD' option select garera apno RD account number, bank IFSC code, ra account holder name enter garnu hos. OTP verify garera request submit garnu hos. RD link complete bhaepachi, tapai le regular RD payments ko status trading dashboard bata track garna saknuhunchha. Fund transfer ya RD modifications RD-linked bank account bata directly garna saknuhunchha.",
+        "answer": "Banking Services section ma RD account link garera OTP verify garna parcha."
+    },
+    {
+        "question": "Commodity trading kasari start garne?",
+        "context": "Commodity trading suru garna ko lagi tapai ko trading account commodity trading ko lagi activate hunu parcha. Hamro platform ma 'Commodities' section open garnu hos. Aba tapai le metals (gold, silver), energy (crude oil), ya agri-commodities (wheat, cotton) ma trade garna saknuhunchha. Price analyze garna 'Commodity Charts' ma janera trends herna saknuhunchha. 'Buy' ya 'Sell' order place garera leverage use garna milcha, tara leverage misuse nagarnu hos. Stop-loss rakhera risk minimize garna advice cha.",
+        "answer": "Commodities section ma preferred commodity select garera order place garera trading start garna saknuhunchha."
+    },
+    {
+        "question": "GTT order setup kasari garne?",
+        "context": "GTT (Good Till Triggered) order setup garna ko lagi tapai ko account ma GTT feature enable hunu parcha. Aba hamro platform ma login garera 'Orders' section ma januhos. Aba stock ya ETF select garera 'Set GTT' option click garnu hos. Aba desired trigger price ra order price define garera submit garnu hos. Triggered huda automatic execution huncha, tapaiko predefined conditions anusar. GTT long-term investors ko lagi suitable cha, jasma tapai le market monitoring nagari predefined price ma trade execute garna saknuhunchha.",
+        "answer": "Orders section ma stock select gari trigger ra order price set garera GTT order setup garna saknuhunchha."
+    },
+    {
+        "question": "Index funds ko benefit ke ho?",
+        "context": "Index funds low-cost investment options ho, jun major indices jasto ki Nifty 50 ya Sensex ko performance track garcha. Index fund ma invest garna sabai bhanda pahila fund performance, expense ratio, ra tracking error analyze garnu hos. Hamro platform ma 'Mutual Funds' section ma index fund options available cha. Index funds passive investment ho, jasma fund manager ko active role hudaina, tesaile cost kam huncha. Long-term ko lagi, yesto funds consistent returns provide garcha.",
+        "answer": "Index funds low-cost ra passive ho, jun indices ko performance track garera long-term ko lagi suitable huncha."
+    },
+    {
+        "question": "Demat account ko charges kasari check garne?",
+        "context": "Demat account ko charges jasto ki account maintenance fee, transaction charges, ra pledge charges herna ko lagi hamro platform ma login garera 'Fee Structure' section open garnu hos. Aba tapai le charges ko breakdown PDF format ma download garna saknuhunchha. Monthly ya yearly charges ko summary apno email ma receive garna ko lagi subscription enable garna parcha. Yedi charge ko barema detailed explanation chahinchha bhane support team sanga contact garna saknuhunchha.",
+        "answer": "Fee Structure section ma charges breakdown check garera PDF download garna milcha."
+    },
+    {
+        "question": "Dividend income kasari check garne?",
+        "context": "Dividend income check garna ko lagi, sabai bhanda pahila apno portfolio ma dividend-paying stocks cha ki check garnu hos. Aba hamro platform ma 'Portfolio Insights' section open garnu hos. Aba tapai le 'Dividend Summary' ko option dekhnuhunchha, jasma received dividends, upcoming payments, ra payout date ko details huncha. Aba PDF report download garera tax filing ma use garna saknuhunchha. Missed ya delayed dividend payment ko barema issuer company ko registrar contact garna parcha.",
+        "answer": "Portfolio Insights section ma Dividend Summary check garera received dividends ko details herna saknuhunchha."
+    },
+    {
+        "question": "Stock splits ko impact portfolio ma kasari huncha?",
+        "context": "Stock split huda company le apno shares smaller units ma divide garcha, jasle current shareholders ko total value ma change gardaina tara share quantity increase huncha. Example ko lagi, 2:1 split ma tapai ko 10 shares automatically 20 shares huncha. Split pachi stock price proportionally reduce huncha, tara tapai ko overall investment value same huncha. Portfolio ma split adjust huncha ra updated holdings 'Portfolio Summary' section ma reflect huncha.",
+        "answer": "Stock split le share quantity badhaune tara investment value same rakhne effect portfolio ma huncha."
+    },
+    {
+        "question": "Margin call aaye pachhi ke garne?",
+        "context": "Margin call auda, tapai ko portfolio ko value required margin level banda talo gayo bhanne indication huncha. Aba margin call address garna ko lagi additional funds deposit garnu parcha ya loss-making positions close garna parcha. Hamro platform ma 'Margin Management' section open garera real-time margin status track garna saknuhunchha. Aba notification ko madhyam bata margin shortfall ko details padhnu hos ra immediate action linu hos. Action nalieko condition ma broker le automatic position close garna sakcha.",
+        "answer": "Margin call address garna funds deposit garnu ya positions close garna parcha ra Margin Management section ma status track garnu parcha."
+    },
+    {
+        "question": "SIP pause kasari garne?",
+        "context": "SIP pause garna ko lagi sabai bhanda pahila 'Mutual Funds' section ma apno active SIPs ko list open garnu hos. Aba SIP select garera 'Pause SIP' button click garnu hos. Pause period select garera request submit garnu hos. Pause period samapti pachi SIP automatically resume huncha. Aba yedi SIP permanently stop garna parcha bhane 'Stop SIP' option use garna saknuhunchha. Pause request processing 2-3 working days lagna sakcha.",
+        "answer": "Mutual Funds section ma SIP select gari 'Pause SIP' option ma request submit garera temporary stop garna saknuhunchha."
+    },
+    {
+        "question": "Internet speed slow bhaeko cha, kasari resolve garne?",
+        "context": "Internet speed slow hunu ko karan multiple factors huncha jasto ki device ma background apps run garnu, router placement, ya service provider ko temporary issue. Aba sabai bhanda pahila device restart garnu hos. Aba hamro app ya website ma login garera 'Speed Test' option use garera current speed check garnu hos. Yedi speed expected range ma chaina bhane, 'Raise Issue' button click garera complaint submit garnu hos. Complaint submit garepachi, technician team le router settings ya network upgrades verify garera 24-48 ghanta vitra resolve garcha.",
+        "answer": "Speed Test garera complaint raise garnu hos, technician team le 24-48 ghanta ma resolve garcha."
+    },
+    {
+        "question": "Travel itinerary ma changes garna parcha, kasari garne?",
+        "context": "Travel itinerary change garna, sabai bhanda pahila hamro app ya website ma login garnu hos. Aba 'My Bookings' section open garera apno booking select garnu hos. Aba 'Modify Booking' option click garnu hos ra desired changes jasto ki travel date, time, ya seat preference select garnu hos. Additional charges apply hunecha bhane payment process complete garnu hos. Changes confirm bhaepachi updated itinerary email ma receive huncha. Yedi additional assistance chahinchha bhane 24/7 helpline contact garna saknuhunchha.",
+        "answer": "My Bookings section ma Modify Booking select garera itinerary changes garna saknuhunchha."
+    },
+    {
+        "question": "Bank account ko password reset kasari garne?",
+        "context": "Bank account ko password reset garna ko lagi, tapai le hamro official website ya mobile app open garera 'Forgot Password' option click garnu parcha. Aba apno registered mobile number enter garera OTP verify garnu hos. Aba security questions ko answer garera naya password set garnu hos. Password reset confirm hunecha ra tapai le updated credentials use garera account access garna saknuhunchha. Yedi issue encounter huncha bhane nearest branch visit garna saknuhunchha.",
+        "answer": "Forgot Password option ma OTP verify ra security questions answer garera naya password set garna parcha."
+    },
+    {
+        "question": "Health insurance claim kasari file garne?",
+        "context": "Health insurance claim file garna ko lagi, sabai bhanda pahila apno insurance provider ko app ya website login garnu hos. Aba 'Claims' section ma janera 'File a Claim' button click garnu hos. Aba treatment ko details jasto ki hospital name, diagnosis, ra estimated expense enter garnu hos. Required documents jasto ki hospital bill, discharge summary, ra doctor prescription upload garnu hos. Claim file garepachi 7-10 working days ma status email ya SMS bata inform huncha. Emergency case ma toll-free number contact garna saknuhunchha.",
+        "answer": "Claims section ma treatment details ra documents upload garera claim file garna parcha."
+    },
+    {
+        "question": "Mobile number port kasari garne?",
+        "context": "Mobile number port garna ko lagi, sabai bhanda pahila current provider ko customer care ma 'PORT' type garera SMS send garnu hos (e.g., 1900 number ma). Aba porting code receive huncha. Aba naya provider ko store ma gaera port request form fill garnu hos ra porting code mention garnu hos. Required documents jasto ki ID proof ra address proof submit garnu hos. Aba naya SIM card 2-3 days ma activate huncha, ra purano provider ko service automatically terminate huncha.",
+        "answer": "PORT code obtain gari naya provider ko store ma port request submit garna parcha."
+    },
+    {
+        "question": "Flight delay bhae pachi refund kasari claim garne?",
+        "context": "Flight delay refund claim garna, sabai bhanda pahila hamro app ya website ma 'Customer Support' section ma januhos. Aba 'File a Refund' option click garera flight details jasto ki booking ID ra delay ko duration enter garnu hos. Refund eligibility check garera required documents jasto ki e-ticket ra delay confirmation email upload garnu hos. Claim verify garepachi amount 7 working days vitra apno original payment method ma refund huncha.",
+        "answer": "Customer Support section ma refund request file gari required documents upload garna parcha."
+    },
+    {
+        "question": "Doctor appointment reschedule kasari garne?",
+        "context": "Doctor appointment reschedule garna ko lagi hamro healthcare app ya website ma login garnu hos. Aba 'My Appointments' section open garera reschedule garna chahane appointment select garnu hos. Aba naya date ra time slot choose garera confirm click garnu hos. Confirmation email ya SMS ma updated details aaucha. Emergency case ma directly clinic ya hospital contact garna saknuhunchha.",
+        "answer": "My Appointments section ma naya date ra time select garera reschedule garna saknuhunchha."
+    },
+    {
+        "question": "Streaming subscription cancel kasari garne?",
+        "context": "Streaming subscription cancel garna ko lagi apno account ma login garera 'Subscription' section open garnu hos. Aba active plan ko details open garera 'Cancel Subscription' option click garnu hos. Cancellation confirm bhaepachi, tapai ko subscription billing cycle samma active huncha ra renewal automatic stop huncha. Tapai le subscription status 'My Account' section ma check garna saknuhunchha.",
+        "answer": "Subscription section ma Cancel Subscription click garera billing cycle pachi renewal stop huncha."
+    },
+    {
+        "question": "Electricity bill ko due payment kasari garne?",
+        "context": "Electricity bill ko due payment garna hamro app ya website ma 'Bill Payments' section open garnu hos. Aba tapai ko electricity provider select garera consumer number ya account ID enter garnu hos. Due amount verify garera preferred payment method select garera pay click garnu hos. Payment confirm bhaepachi receipt email ma receive huncha. Late payment avoid garna auto-payment enable garna saknuhunchha.",
+        "answer": "Bill Payments section ma consumer number enter gari payment confirm garna parcha."
+    },
+    {
+        "question": "Courier package ko location kasari track garne?",
+        "context": "Courier package track garna, sabai bhanda pahila hamro courier tracking website ya app open garnu hos. Aba apno tracking ID enter garera package ko current status ra estimated delivery date herna saknuhunchha. Yedi package delayed cha bhane 'Contact Support' option use garera query raise garna saknuhunchha. Real-time updates ko lagi notifications enable garna milcha.",
+        "answer": "Tracking ID enter garera package ko status ra estimated delivery herna milcha."
+    },
+    {
+        "question": "Apno home loan statement online kasari download garne?",
+        "context": "Home loan ko statement online download garna, sabai bhanda pahila hamro bank ko net banking ya mobile app login garnu hos. Aba 'Loan Services' section ma janera apno active loan select garnu hos. Aba 'Download Statement' option click garera time period jasto ki last 6 months ya full loan tenure select garera PDF download garnu hos. Yedi email ko requirement cha bhane, 'Request Statement via Email' button press garnu hos.",
+        "answer": "Loan Services section ma Download Statement click garera required statement PDF ma download garna saknuhunchha."
+    },
+    {
+        "question": "Gym membership freeze kasari garne?",
+        "context": "Gym membership freeze garna ko lagi apno gym ko app ya customer portal ma login garnu hos. Aba 'Membership Management' section ma janera 'Freeze Membership' option select garnu hos. Freeze duration (e.g., 1-3 months) select garera request submit garnu hos. Freeze ko confirmation email ya SMS ma aaucha. Yedi portal ma access chaina bhane, gym ko front desk ma visit garera manual request submit garna saknuhunchha.",
+        "answer": "Membership Management section ma freeze duration select garera membership freeze garna saknuhunchha."
+    },
+    {
+        "question": "Vehicle insurance renewal kasari garne?",
+        "context": "Vehicle insurance renewal garna, sabai bhanda pahila hamro insurance app ya website ma login garera 'Renew Policy' section ma januhos. Aba vehicle details jasto ki registration number ra existing policy number verify garera renewal premium calculate garnu hos. Optional add-ons jasto ki zero depreciation ya roadside assistance select garera payment complete garnu hos. Policy renewal ko soft copy email ma receive huncha ra download pani garna milcha.",
+        "answer": "Renew Policy section ma vehicle details verify garera payment complete garna saknuhunchha."
+    },
+    {
+        "question": "Gift card balance kasari check garne?",
+        "context": "Gift card ko balance check garna, hamro app ya website ma 'Gift Card Services' section ma januhos. Aba gift card number ra PIN enter garera balance details check garnu hos. Balance insufficient cha bhane, tapai le recharge ya top-up garna saknuhunchha. Yedi card expired cha bhane, customer care sanga contact garera renewal options ko barema bujhnu hos.",
+        "answer": "Gift Card Services section ma card number ra PIN enter garera balance check garna saknuhunchha."
+    },
+    {
+        "question": "Hotel booking ko cancellation refund kasari claim garne?",
+        "context": "Hotel booking ko cancellation refund claim garna, sabai bhanda pahila hamro app ya website login garera 'My Bookings' section ma januhos. Aba cancelled booking ko details ma janera 'Claim Refund' button click garnu hos. Refund ko status email ya SMS ma receive huncha ra refund amount 7-10 working days vitra tapai ko account ma deposit huncha. Full refund ko lagi cancellation policy ko terms check garna parcha.",
+        "answer": "My Bookings section ma Claim Refund button click garera refund process start garna parcha."
+    },
+    {
+        "question": "Pet insurance claim kasari file garne?",
+        "context": "Pet insurance claim file garna ko lagi hamro platform ma login garera 'Claims Section' ma januhos. Aba pet ko treatment details, vet bill, ra prescription upload garnu hos. Claim form fill garera pet insurance ID attach garnu hos. Claim verification pachi reimbursement amount 7-14 working days ma transfer huncha. Emergency vet visit ma, toll-free helpline contact garera pre-authorization request submit garna saknuhunchha.",
+        "answer": "Claims Section ma treatment details ra vet bill upload garera claim process suru huncha."
+    },
+    {
+        "question": "Apno water purifier service kasari book garne?",
+        "context": "Water purifier ko service book garna ko lagi, hamro app ya website login garera 'Service Request' section open garnu hos. Aba apno purifier ko model select garera preferred service date ra time choose garera request submit garnu hos. Technician visit ko confirmation SMS ya email ma receive huncha. Regular maintenance ko lagi AMC (Annual Maintenance Contract) plan activate garna saknuhunchha.",
+        "answer": "Service Request section ma model select gari date ra time define garera service book garna saknuhunchha."
+    },
+    {
+        "question": "Lost debit card block kasari garne?",
+        "context": "Lost debit card block garna sabai bhanda pahila hamro mobile app ya website login garera 'Card Services' section open garnu hos. Aba lost card ko details select garera 'Block Card' button click garnu hos. OTP verify garepachi card immediately block huncha. Naya card order garna ko lagi 'Request New Card' option use garna saknuhunchha. Emergency case ma toll-free helpline contact garna saknuhunchha.",
+        "answer": "Card Services section ma Block Card button click garera card immediately block garna saknuhunchha."
+    },
+    {
+        "question": "Electric vehicle charging station kasari locate garne?",
+        "context": "Electric vehicle charging station locate garna hamro app ko 'EV Charging Locator' feature open garnu hos. Aba current location ya desired destination enter garera nearby charging stations ko list herna saknuhunchha. Station ko availability, charging type (fast ya slow), ra estimated waiting time pani display huncha. Aba real-time navigation start garna 'Navigate' button use garnu hos.",
+        "answer": "EV Charging Locator feature ma location enter gari nearby stations ko details herna saknuhunchha."
+    },
+    {
+        "question": "Online class reschedule kasari garne?",
+        "context": "Online class reschedule garna ko lagi, sabai bhanda pahila learning platform login garera 'My Schedule' section ma januhos. Aba reschedule garna chahane class select garera 'Reschedule Class' button click garnu hos. Available slots ko list ma bata naya time select garera confirmation garnu hos. Class reschedule confirmation email ya notification ma receive huncha. Yedi slot available chaina bhane, support team sanga contact garna saknuhunchha.",
+        "answer": "My Schedule section ma Reschedule Class button click gari naya time slot select garna saknuhunchha."
+    },
+    {
+        "question": "Mobile phone warranty check kasari garne?",
+        "context": "Mobile phone ko warranty check garna, sabai bhanda pahila hamro website ya mobile app open garnu hos. Aba 'Warranty Check' section ma janera mobile phone ko IMEI number enter garnu hos. IMEI number janera, apno mobile ko purchase date ra warranty status automatically detect garnecha. Yedi warranty expired bhane, repair ya replacement ko options available huncha, jasle purano phone ko issue resolve garna madad garnecha.",
+        "answer": "Warranty Check section ma IMEI number enter garera apno warranty status verify garna saknuhunchha."
+    },
+    {
+        "question": "Taxi booking ko cancellation fee kasari calculate garne?",
+        "context": "Taxi booking cancel garna ko lagi, sabai bhanda pahila hamro app ya website ma login garnu hos. Aba 'My Bookings' section ma janera cancelled booking ko details select garera 'Cancellation Policy' hernu hos. Booking cancellation ko time, distance traveled, and the provider's cancellation policy anusar charge calculate huncha. Yedi cancellation time window bhitra cancel garnu bhane, no cancellation fee lagcha, else minimal fee apply huncha.",
+        "answer": "My Bookings section ma Cancellation Policy herera cancellation fee calculate garna saknuhunchha."
+    },
+    {
+        "question": "Car rental reservation kasari modify garne?",
+        "context": "Car rental reservation modify garna ko lagi, sabai bhanda pahila hamro app ya website ma 'My Reservations' section open garnu hos. Aba apno reservation select garera 'Modify Reservation' option click garnu hos. Desired changes jasto ki rental duration, car model, ya pickup/drop-off location update garera confirmation garnu hos. Yedi extra charges lagcha bhane, payment page ma tapai le additional charges pay garna saknuhunchha.",
+        "answer": "My Reservations section ma 'Modify Reservation' option click garera changes update garna saknuhunchha."
+    },
+    {
+        "question": "Flight ticket ko baggage allowance kasari check garne?",
+        "context": "Flight ticket ko baggage allowance check garna ko lagi, apno flight booking details hamro app ya website ma open garnu hos. Aba 'My Bookings' section ma janera apno booking ID enter garera flight details open garnu hos. Baggage allowance jasto ki free checked luggage weight, carry-on baggage limit, ra excess baggage charges details milcha. Yedi confusion cha bhane, customer support team sanga contact garera clarification garnu hos.",
+        "answer": "My Bookings section ma apno booking ID enter garera baggage allowance details herna saknuhunchha."
+    },
+    {
+        "question": "Hotel room upgrade kasari request garne?",
+        "context": "Hotel room upgrade request garna ko lagi, sabai bhanda pahila hamro app ya website ma 'My Bookings' section open garera apno booking details select garnu hos. Aba 'Room Upgrade Request' option click garera available upgraded room options check garnu hos. Upgrade ko availability, charges, ra benefits jasto ki complimentary breakfast, free Wi-Fi, etc. dekhera request confirm garnu hos. Yedi upgrade option available chaina bhane, hotel staff sanga on-site request garna saknuhunchha.",
+        "answer": "My Bookings section ma 'Room Upgrade Request' option click garera available upgrades select garna saknuhunchha."
+    },
+    {
+        "question": "Mobile data balance kasari check garne?",
+        "context": "Mobile data balance check garna, hamro app ya USSD code use garna saknuhunchha. Sabai bhanda pahila app open garera 'Data Usage' section ma januhos. Aba 'Check Balance' option click garera apno data usage details herna saknuhunchha. Alternatively, tapai le USSD code *121# dial garera real-time data balance dekhna saknuhunchha. Data usage limit cross bhayeko cha bhane, additional data pack purchase garna saknuhunchha.",
+        "answer": "Data Usage section ma Check Balance button click garera data balance verify garna saknuhunchha."
+    },
+    {
+        "question": "Subscription plan upgrade kasari garne?",
+        "context": "Subscription plan upgrade garna ko lagi, sabai bhanda pahila hamro website ya app login garnu hos. Aba 'My Account' section ma janera current plan details open garera 'Upgrade Plan' option click garnu hos. Available plans, price differences, ra benefits jasto ki more content access ya HD quality select garera upgrade confirm garnu hos. Upgrade ko confirmation email ya SMS ma receive huncha.",
+        "answer": "My Account section ma 'Upgrade Plan' option click garera naya plan select garera confirm garna saknuhunchha."
+    },
+    {
+        "question": "Electricity meter reading kasari submit garne?",
+        "context": "Electricity meter reading submit garna ko lagi, hamro app ya website ma login garera 'Meter Reading' section open garnu hos. Aba meter reading ko accurate number manually enter garera 'Submit Reading' button click garnu hos. Yedi automatic meter reading system cha bhane, reading automatically capture hunecha. Reading submit garera apno bill accurate ra timely receive garna saknuhunchha.",
+        "answer": "Meter Reading section ma reading enter garera 'Submit Reading' button click garna saknuhunchha."
+    },
+    {
+        "question": "Grocery delivery order kasari cancel garne?",
+        "context": "Grocery delivery order cancel garna ko lagi, hamro app ya website ma login garera 'My Orders' section open garnu hos. Aba pending order select garera 'Cancel Order' option click garnu hos. Yedi order dispatch bhayeko chaina bhane, order instantly cancel garna milcha, otherwise partial cancellation charges apply garna saknuhunchha. Cancellation ko confirmation SMS ya email ma receive huncha.",
+        "answer": "My Orders section ma 'Cancel Order' option click garera order cancel garna saknuhunchha."
+    },
+    {
+        "question": "Mobile number ko details update kasari garne?",
+        "context": "Mobile number ko details update garna ko lagi, hamro app ya website ma login garera 'Profile Settings' section ma januhos. Aba apno mobile number update garna ko option select garera naya number enter garnu hos. Verification ko lagi OTP receive hunecha ra enter garera update confirm garnu hos. Naya number updated pachi, apno account ma login garnu hos ra details verify garna saknuhunchha.",
+        "answer": "Profile Settings section ma naya number enter garera OTP verify garera update garna saknuhunchha."
+    },
+    {
+        "question": "Hotel booking ma guest details kasari update garne?",
+        "context": "Hotel booking ma guest details update garna ko lagi, 'My Bookings' section ma januhos. Aba apno booking select garera 'Edit Guest Details' option click garnu hos. Guest name, contact number, ya special requests update garera confirmation garna hos. Yedi update garepachi booking confirmation email ya SMS receive hunecha. Booking update garna ko lagi hotel ko cancellation policy ra check-in time verify garna parcha.",
+        "answer": "My Bookings section ma 'Edit Guest Details' option click garera guest details update garna saknuhunchha."
+    }
+]

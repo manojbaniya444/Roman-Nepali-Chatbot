@@ -1,0 +1,547 @@
+[
+    {
+        "context": "Product: Samsung Galaxy S23, Price: Rs. 1,15,000",
+        "question": "Yo Samsung Galaxy S23 ko price kati ho?",
+        "response": "Yo Samsung Galaxy S23 ko price Rs. 1,15,000 ho."
+    },
+    {
+        "context": "Product: Dell Inspiron 15, Price: Rs. 85,000",
+        "question": "Dell Inspiron 15 ko price batauna saknuhuncha?",
+        "response": "Dell Inspiron 15 ko price Rs. 85,000 ho."
+    },
+    {
+        "context": "Product: Nike Air Max Jutta, Price: Rs. 12,000",
+        "question": "Nike Air Max jutta ko dam kati ho?",
+        "response": "Nike Air Max jutta ko dam Rs. 12,000 ho."
+    },
+    {
+        "context": "Product: Levi's 501 Jeans, Price: Rs. 3,500",
+        "question": "Levi's 501 jeans ko price k ho?",
+        "response": "Levi's 501 jeans ko price Rs. 3,500 ho."
+    },
+    {
+        "context": "Product: Sony Bravia TV, Price: Rs. 75,000",
+        "question": "Sony Bravia TV ko price kati cha?",
+        "response": "Sony Bravia TV ko price Rs. 75,000 cha."
+    },
+    {
+        "context": "Product: Apple AirPods Pro, Price: Rs. 28,000",
+        "question": "Apple AirPods Pro ko price k ho?",
+        "response": "Apple AirPods Pro ko price Rs. 28,000 ho."
+    },
+    {
+        "context": "Product: Puma Running Shoes, Price: Rs. 6,500",
+        "question": "Puma running shoes ko dam batauna saknuhuncha?",
+        "response": "Puma running shoes ko dam Rs. 6,500 ho."
+    },
+    {
+        "context": "Product: HP Pavilion Laptop, Price: Rs. 92,000",
+        "question": "Yo HP Pavilion laptop ko price kati ho?",
+        "response": "Yo HP Pavilion laptop ko price Rs. 92,000 ho."
+    },
+    {
+        "context": "Product: Samsung Refrigerator, Price: Rs. 55,000",
+        "question": "Samsung refrigerator ko price kasto cha?",
+        "response": "Samsung refrigerator ko price Rs. 55,000 cha."
+    },
+    {
+        "context": "Product: Adidas Backpack, Price: Rs. 3,000",
+        "question": "Adidas backpack ko price kati parcha?",
+        "response": "Adidas backpack ko price Rs. 3,000 parcha."
+    },
+    {
+        "context": "Category: Mobile Phone, Brand: Samsung, Model: Galaxy S23, Description: Latest flagship smartphone with 256GB storage and 8GB RAM, Price: Rs. 1,15,000",
+        "question": "Samsung Galaxy S23 ko price kati ho?",
+        "response": "Samsung Galaxy S23 ko price Rs. 1,15,000 ho. Yo phone 256GB storage ra 8GB RAM ko sath aauchha."
+    },
+    {
+        "context": "Category: Laptop, Brand: Dell, Model: Inspiron 15, Description: 15.6-inch display, 16GB RAM, 512GB SSD, 11th Gen Intel Core i7, Price: Rs. 85,000",
+        "question": "Dell Inspiron 15 ko price batauna saknuhuncha?",
+        "response": "Dell Inspiron 15 ko price Rs. 85,000 ho. Isma 15.6-inch ko display ra 11th Gen Intel Core i7 processor cha."
+    },
+    {
+        "context": "Category: Footwear, Brand: Nike, Model: Air Max, Description: Comfortable running shoes, available in multiple colors, Price: Rs. 12,000",
+        "question": "Nike Air Max jutta ko dam kati ho?",
+        "response": "Nike Air Max jutta ko dam Rs. 12,000 ho. Yo jutta comfortable running shoes ho ra dherai rangma upalabdha cha."
+    },
+    {
+        "context": "Category: Clothing, Brand: Levi's, Model: 501 Jeans, Description: Classic straight-fit jeans, available in various sizes, Price: Rs. 3,500",
+        "question": "Levi's 501 jeans ko price k ho?",
+        "response": "Levi's 501 jeans ko price Rs. 3,500 ho. Yo classic straight-fit design ho ra sabai sizes ma available cha."
+    },
+    {
+        "context": "Category: Television, Brand: Sony, Model: Bravia, Description: 4K Ultra HD Smart TV with HDR support, 55-inch display, Price: Rs. 75,000",
+        "question": "Sony Bravia TV ko price kati cha?",
+        "response": "Sony Bravia TV ko price Rs. 75,000 cha. Yo 55-inch ko 4K Ultra HD Smart TV ho jasle HDR support garcha."
+    },
+    {
+        "context": "Category: Accessories, Brand: Apple, Model: AirPods Pro, Description: Noise-cancelling wireless earbuds with spatial audio support, Price: Rs. 28,000",
+        "question": "Apple AirPods Pro ko price k ho?",
+        "response": "Apple AirPods Pro ko price Rs. 28,000 ho. Isma noise-cancelling ra spatial audio support pani cha."
+    },
+    {
+        "context": "Category: Footwear, Brand: Puma, Model: Running Shoes, Description: Lightweight and durable shoes for daily use, Price: Rs. 6,500",
+        "question": "Puma running shoes ko dam batauna saknuhuncha?",
+        "response": "Puma running shoes ko dam Rs. 6,500 ho. Yo jutta lightweight ra daily use ka lagi perfect cha."
+    },
+    {
+        "context": "Category: Laptop, Brand: HP, Model: Pavilion, Description: 14-inch FHD display, 16GB RAM, 1TB SSD, AMD Ryzen 5 processor, Price: Rs. 92,000",
+        "question": "Yo HP Pavilion laptop ko price kati ho?",
+        "response": "Yo HP Pavilion laptop ko price Rs. 92,000 ho. Isma 14-inch FHD display ra AMD Ryzen 5 processor cha."
+    },
+    {
+        "context": "Category: Home Appliance, Brand: Samsung, Model: Refrigerator, Description: Double-door fridge with 345L capacity, frost-free technology, Price: Rs. 55,000",
+        "question": "Samsung refrigerator ko price kasto cha?",
+        "response": "Samsung refrigerator ko price Rs. 55,000 cha. Isma 345L capacity ra frost-free technology cha."
+    },
+    {
+        "context": "Category: Bags, Brand: Adidas, Model: Backpack, Description: Stylish and spacious backpack with laptop compartment, Price: Rs. 3,000",
+        "question": "Adidas backpack ko price kati parcha?",
+        "response": "Adidas backpack ko price Rs. 3,000 parcha. Yo backpack stylish ho ra laptop compartment pani cha."
+    },
+    {
+        "context": "Category: Smartphone, Brand: Apple, Model: iPhone 14 Pro Max, Description: 6.7-inch Super Retina XDR display, 128GB storage, A16 Bionic chip, Price: Rs. 1,60,000",
+        "question": "iPhone 14 Pro Max ko price kati ho?",
+        "response": "iPhone 14 Pro Max ko price Rs. 1,60,000 ho. Yo 6.7-inch Super Retina XDR display ra A16 Bionic chip sanga aauchha."
+    },
+    {
+        "context": "Category: Laptop, Brand: Lenovo, Model: ThinkPad X1 Carbon, Description: Ultra-lightweight business laptop, 16GB RAM, 512GB SSD, Intel i7 processor, Price: Rs. 1,45,000",
+        "question": "Lenovo ThinkPad X1 Carbon ko price batauna saknuhuncha?",
+        "response": "Lenovo ThinkPad X1 Carbon ko price Rs. 1,45,000 ho. Yo ultra-lightweight business laptop ho."
+    },
+    {
+        "context": "Category: Camera, Brand: Canon, Model: EOS R5, Description: Mirrorless camera with 45MP sensor, 8K video recording, Price: Rs. 3,20,000",
+        "question": "Canon EOS R5 ko price k ho?",
+        "response": "Canon EOS R5 ko price Rs. 3,20,000 ho. Yo camera 45MP sensor ra 8K video recording feature sanga aauchha."
+    },
+    {
+        "context": "Category: Home Appliance, Brand: LG, Model: Washing Machine T7281NDDLG, Description: 6.2kg fully automatic top load washing machine, Price: Rs. 25,000",
+        "question": "LG washing machine ko dam k cha?",
+        "response": "LG washing machine ko dam Rs. 25,000 cha. Yo 6.2kg fully automatic top load model ho."
+    },
+    {
+        "context": "Category: Footwear, Brand: Reebok, Model: Zig Kinetica, Description: Performance sneakers with responsive cushioning, Price: Rs. 7,500",
+        "question": "Reebok Zig Kinetica sneakers ko price kati ho?",
+        "response": "Reebok Zig Kinetica sneakers ko price Rs. 7,500 ho. Yo sneakers responsive cushioning sanga aauchha."
+    },
+    {
+        "context": "Category: Kitchen Appliance, Brand: Philips, Model: Air Fryer HD9200, Description: Compact air fryer with rapid air technology, 4.1L capacity, Price: Rs. 9,000",
+        "question": "Philips Air Fryer ko dam kasto cha?",
+        "response": "Philips Air Fryer ko dam Rs. 9,000 cha. Yo rapid air technology ra 4.1L capacity ko sath aauchha."
+    },
+    {
+        "context": "Category: Watch, Brand: Fossil, Model: Gen 6 Smartwatch, Description: Stainless steel design, AMOLED display, heart rate monitoring, Price: Rs. 25,000",
+        "question": "Fossil Gen 6 smartwatch ko price kati parcha?",
+        "response": "Fossil Gen 6 smartwatch ko price Rs. 25,000 parcha. Isma AMOLED display ra heart rate monitoring cha."
+    },
+    {
+        "context": "Category: Gaming Console, Brand: Sony, Model: PlayStation 5, Description: 825GB SSD, ray tracing support, immersive gaming experience, Price: Rs. 75,000",
+        "question": "PlayStation 5 ko dam kati ho?",
+        "response": "PlayStation 5 ko dam Rs. 75,000 ho. Isma 825GB SSD ra ray tracing support cha."
+    },
+    {
+        "context": "Category: Bag, Brand: Samsonite, Model: Tectonic Lifestyle Backpack, Description: Durable laptop backpack with multiple compartments, Price: Rs. 5,500",
+        "question": "Samsonite Tectonic Lifestyle backpack ko price kati ho?",
+        "response": "Samsonite Tectonic Lifestyle backpack ko price Rs. 5,500 ho. Yo durable laptop backpack ho ra multiple compartments cha."
+    },
+    {
+        "context": "Category: Headphones, Brand: Bose, Model: QuietComfort 45, Description: Noise-cancelling over-ear headphones, 24-hour battery life, Price: Rs. 32,000",
+        "question": "Bose QuietComfort 45 headphones ko price batauna saknuhuncha?",
+        "response": "Bose QuietComfort 45 headphones ko price Rs. 32,000 ho. Isma noise-cancelling feature ra 24 ghanta ko battery life cha."
+    },
+    {
+        "context": "Category: Furniture, Brand: Godrej, Model: Interio Wardrobe, Description: Three-door wooden wardrobe with mirror, Price: Rs. 35,000",
+        "question": "Godrej Interio wardrobe ko dam k cha?",
+        "response": "Godrej Interio wardrobe ko dam Rs. 35,000 cha. Yo three-door wooden wardrobe ho jasle mirror samet sametcha."
+    },
+    {
+        "context": "Category: Television, Brand: LG, Model: OLED C2 Series, Description: 55-inch 4K OLED Smart TV with Dolby Vision, Price: Rs. 1,20,000",
+        "question": "LG OLED C2 Series TV ko price kati cha?",
+        "response": "LG OLED C2 Series TV ko price Rs. 1,20,000 cha. Yo 55-inch 4K OLED Smart TV ho ra Dolby Vision support cha."
+    },
+    {
+        "context": "Category: Smart Home Device, Brand: Amazon, Model: Echo Dot (5th Gen), Description: Smart speaker with Alexa and improved sound quality, Price: Rs. 4,500",
+        "question": "Amazon Echo Dot (5th Gen) ko dam kati ho?",
+        "response": "Amazon Echo Dot (5th Gen) ko dam Rs. 4,500 ho. Isma Alexa ra improved sound quality cha."
+    },
+    {
+        "context": "Category: Tablet, Brand: Samsung, Model: Galaxy Tab S8 Ultra, Description: 14.6-inch AMOLED display, 12GB RAM, 256GB storage, Price: Rs. 1,30,000",
+        "question": "Samsung Galaxy Tab S8 Ultra ko price k ho?",
+        "response": "Samsung Galaxy Tab S8 Ultra ko price Rs. 1,30,000 ho. Isma 14.6-inch AMOLED display ra 12GB RAM cha."
+    },
+    {
+        "context": "Category: Smartphone, Brand: OnePlus, Model: OnePlus 11, Description: 6.7-inch AMOLED display, Snapdragon 8 Gen 2, 16GB RAM, 256GB storage, Price: Rs. 95,000",
+        "question": "OnePlus 11 ko price kati ho?",
+        "response": "OnePlus 11 ko price Rs. 95,000 ho. Isma 6.7-inch AMOLED display ra Snapdragon 8 Gen 2 processor cha."
+    },
+    {
+        "context": "Category: Kitchen Appliance, Brand: Bajaj, Model: Majesty Rice Cooker, Description: Automatic rice cooker with 1.8L capacity, Price: Rs. 4,500",
+        "question": "Bajaj Majesty Rice Cooker ko dam kasto cha?",
+        "response": "Bajaj Majesty Rice Cooker ko dam Rs. 4,500 cha. Isko capacity 1.8L cha ra automatic cooking feature pani cha."
+    },
+    {
+        "context": "Category: Fitness Equipment, Brand: PowerMax, Model: TDA-230, Description: Motorized treadmill with incline adjustment, Price: Rs. 60,000",
+        "question": "PowerMax TDA-230 treadmill ko price k ho?",
+        "response": "PowerMax TDA-230 treadmill ko price Rs. 60,000 ho. Isma motorized incline adjustment feature cha."
+    },
+    {
+        "context": "Category: Watch, Brand: Garmin, Model: Fenix 7, Description: Multi-sport GPS watch with solar charging, Price: Rs. 1,10,000",
+        "question": "Garmin Fenix 7 watch ko dam kati ho?",
+        "response": "Garmin Fenix 7 watch ko dam Rs. 1,10,000 ho. Yo multi-sport GPS watch ho ra solar charging support cha."
+    },
+    {
+        "context": "Category: Gaming Laptop, Brand: ASUS, Model: ROG Zephyrus G14, Description: 14-inch QHD display, Ryzen 9 6900HS, 16GB RAM, RTX 3060, Price: Rs. 1,75,000",
+        "question": "ASUS ROG Zephyrus G14 ko price kati ho?",
+        "response": "ASUS ROG Zephyrus G14 ko price Rs. 1,75,000 ho. Yo gaming laptop 14-inch QHD display ra RTX 3060 graphics sanga aauchha."
+    },
+    {
+        "context": "Category: DSLR Camera, Brand: Nikon, Model: D850, Description: 45.7MP full-frame sensor, 4K video recording, Price: Rs. 2,80,000",
+        "question": "Nikon D850 camera ko dam k cha?",
+        "response": "Nikon D850 camera ko dam Rs. 2,80,000 cha. Isma 45.7MP full-frame sensor ra 4K video recording cha."
+    },
+    {
+        "context": "Category: Tablet, Brand: Apple, Model: iPad Pro (12.9-inch), Description: M2 chip, 2TB storage, 120Hz Liquid Retina XDR display, Price: Rs. 2,20,000",
+        "question": "iPad Pro 12.9-inch ko price kati ho?",
+        "response": "iPad Pro 12.9-inch ko price Rs. 2,20,000 ho. Yo M2 chip ra 2TB storage ko sath aauchha."
+    },
+    {
+        "context": "Category: Home Appliance, Brand: Whirlpool, Model: Double Door Refrigerator, Description: Frost-free refrigerator with 340L capacity, Price: Rs. 45,000",
+        "question": "Whirlpool double door refrigerator ko dam kasto cha?",
+        "response": "Whirlpool double door refrigerator ko dam Rs. 45,000 cha. Isko capacity 340L cha ra frost-free technology cha."
+    },
+    {
+        "context": "Category: Headphones, Brand: Sony, Model: WH-1000XM5, Description: Over-ear noise-cancelling headphones with 30-hour battery life, Price: Rs. 32,000",
+        "question": "Sony WH-1000XM5 headphones ko price k ho?",
+        "response": "Sony WH-1000XM5 headphones ko price Rs. 32,000 ho. Yo over-ear noise-cancelling headphones ho ra 30 ghanta battery life cha."
+    },
+    {
+        "context": "Category: Bag, Brand: Wildcraft, Model: Wiki Blue Backpack, Description: Water-resistant backpack with laptop compartment, Price: Rs. 2,800",
+        "question": "Wildcraft Wiki Blue Backpack ko dam kati ho?",
+        "response": "Wildcraft Wiki Blue Backpack ko dam Rs. 2,800 ho. Yo water-resistant backpack ho ra laptop compartment pani cha."
+    },
+    {
+        "context": "Category: Air Conditioner, Brand: Voltas, Model: Split AC 1.5 Ton, Description: Inverter AC with 5-star energy rating, Price: Rs. 40,000",
+        "question": "Voltas 1.5 ton split AC ko price kati ho?",
+        "response": "Voltas 1.5 ton split AC ko price Rs. 40,000 ho. Isma 5-star energy rating cha ra inverter technology pani cha."
+    },
+    {
+        "context": "Category: Fitness Tracker, Brand: Fitbit, Model: Charge 5, Description: Advanced fitness tracker with GPS, heart rate monitor, and stress management tools, Price: Rs. 12,000",
+        "question": "Fitbit Charge 5 tracker ko price k ho?",
+        "response": "Fitbit Charge 5 tracker ko price Rs. 12,000 ho. Isma GPS, heart rate monitor ra stress management tools cha."
+    },
+    {
+        "context": "Category: Television, Brand: Samsung, Model: QLED Q70A, Description: 65-inch 4K QLED Smart TV with Quantum Processor, Price: Rs. 1,35,000",
+        "question": "Samsung QLED Q70A TV ko dam kati cha?",
+        "response": "Samsung QLED Q70A TV ko dam Rs. 1,35,000 cha. Yo 65-inch 4K QLED Smart TV ho ra Quantum Processor sanga aauchha."
+    },
+    {
+        "context": "Category: Earbuds, Brand: Jabra, Model: Elite 7 Pro, Description: True wireless earbuds with active noise cancellation and 30-hour battery life, Price: Rs. 18,000",
+        "question": "Jabra Elite 7 Pro earbuds ko price kati ho?",
+        "response": "Jabra Elite 7 Pro earbuds ko price Rs. 18,000 ho. Isma active noise cancellation ra 30 ghanta battery life cha."
+    },
+    {
+        "context": "Category: Washing Machine, Brand: Samsung, Model: EcoBubble, Description: 7kg fully automatic front load washing machine with digital inverter, Price: Rs. 50,000",
+        "question": "Samsung EcoBubble washing machine ko dam k cha?",
+        "response": "Samsung EcoBubble washing machine ko dam Rs. 50,000 cha. Yo 7kg fully automatic front load model ho ra digital inverter technology cha."
+    },
+    {
+        "context": "Category: Smartphone, Brand: Xiaomi, Model: Redmi Note 12 Pro, Description: 6.67-inch AMOLED display, 8GB RAM, 256GB storage, 108MP camera, Price: Rs. 35,000",
+        "question": "Redmi Note 12 Pro ko price kati cha?",
+        "response": "Redmi Note 12 Pro ko price Rs. 35,000 cha. Isma 6.67-inch AMOLED display ra 108MP camera cha."
+    },
+    {
+        "context": "Category: Smartphone, Brand: Xiaomi, Model: Redmi Note 12 Pro, Description: 6.67-inch AMOLED display, 8GB RAM, 256GB storage, 108MP camera, Price: Rs. 35,000",
+        "question": "Xiaomi Redmi Note 12 Pro ko dam batauna saknuhuncha?",
+        "response": "Xiaomi Redmi Note 12 Pro ko dam Rs. 35,000 ho. Yo phone 8GB RAM ra 256GB storage sanga aauchha."
+    },
+    {
+        "context": "Category: Smartphone, Brand: Xiaomi, Model: Redmi Note 12 Pro, Description: 6.67-inch AMOLED display, 8GB RAM, 256GB storage, 108MP camera, Price: Rs. 35,000",
+        "question": "Redmi Note 12 Pro kinyo vani kati parcha?",
+        "response": "Redmi Note 12 Pro kinyo vani Rs. 35,000 parcha. Yo phone high-resolution 108MP camera sanga aauchha."
+    },
+    {
+        "context": "Category: Smartwatch, Brand: Samsung, Model: Galaxy Watch 5, Description: 1.4-inch Super AMOLED display, heart rate monitoring, GPS, Price: Rs. 30,000",
+        "question": "Samsung Galaxy Watch 5 ko price kati ho?",
+        "response": "Samsung Galaxy Watch 5 ko price Rs. 30,000 ho. Yo smartwatch 1.4-inch Super AMOLED display sanga aauchha."
+    },
+    {
+        "context": "Category: Smartwatch, Brand: Samsung, Model: Galaxy Watch 5, Description: 1.4-inch Super AMOLED display, heart rate monitoring, GPS, Price: Rs. 30,000",
+        "question": "Galaxy Watch 5 kinyo bhane kati parcha?",
+        "response": "Galaxy Watch 5 kinyo bhane Rs. 30,000 parcha. Isma GPS ra heart rate monitoring cha."
+    },
+    {
+        "context": "Category: Smartwatch, Brand: Samsung, Model: Galaxy Watch 5, Description: 1.4-inch Super AMOLED display, heart rate monitoring, GPS, Price: Rs. 30,000",
+        "question": "Samsung ko Galaxy Watch 5 ko dam bataunus ta?",
+        "response": "Samsung Galaxy Watch 5 ko dam Rs. 30,000 ho. Yo smartwatch GPS ra Super AMOLED display sanga aauchha."
+    },
+    {
+        "context": "Category: Air Conditioner, Brand: LG, Model: Dual Inverter Split AC, Description: 1.5-ton cooling capacity, 5-star energy efficiency, Price: Rs. 42,000",
+        "question": "LG Dual Inverter AC ko price kati cha?",
+        "response": "LG Dual Inverter AC ko price Rs. 42,000 cha. Isma 1.5-ton cooling capacity ra 5-star energy efficiency cha."
+    },
+    {
+        "context": "Category: Air Conditioner, Brand: LG, Model: Dual Inverter Split AC, Description: 1.5-ton cooling capacity, 5-star energy efficiency, Price: Rs. 42,000",
+        "question": "LG ko 1.5-ton dual inverter AC ko dam batauna saknuhuncha?",
+        "response": "LG ko 1.5-ton dual inverter AC ko dam Rs. 42,000 ho. Yo 5-star energy efficient ho."
+    },
+    {
+        "context": "Category: Air Conditioner, Brand: LG, Model: Dual Inverter Split AC, Description: 1.5-ton cooling capacity, 5-star energy efficiency, Price: Rs. 42,000",
+        "question": "LG Dual Inverter Split AC ko dam kati parcha?",
+        "response": "LG Dual Inverter Split AC ko dam Rs. 42,000 parcha. Yo 1.5-ton cooling capacity sanga aauchha."
+    },
+    {
+        "context": "Category: Laptop, Brand: Dell, Model: XPS 13 Plus, Description: 13.4-inch OLED display, Intel i7, 16GB RAM, 1TB SSD, Price: Rs. 1,60,000",
+        "question": "Dell XPS 13 Plus laptop ko price kati ho?",
+        "response": "Dell XPS 13 Plus laptop ko price Rs. 1,60,000 ho. Isma 13.4-inch OLED display ra Intel i7 processor cha."
+    },
+    {
+        "context": "Category: Laptop, Brand: Dell, Model: XPS 13 Plus, Description: 13.4-inch OLED display, Intel i7, 16GB RAM, 1TB SSD, Price: Rs. 1,60,000",
+        "question": "Dell ko XPS 13 Plus ko dam bataunus ta?",
+        "response": "Dell XPS 13 Plus ko dam Rs. 1,60,000 ho. Yo laptop 1TB SSD ra 16GB RAM ko sath aauchha."
+    },
+    {
+        "context": "Category: Laptop, Brand: Dell, Model: XPS 13 Plus, Description: 13.4-inch OLED display, Intel i7, 16GB RAM, 1TB SSD, Price: Rs. 1,60,000",
+        "question": "Dell XPS 13 Plus laptop kinyo vani kati parcha?",
+        "response": "Dell XPS 13 Plus laptop kinyo vani Rs. 1,60,000 parcha. Isma Intel i7 processor cha ra OLED display cha."
+    },
+    {
+        "context": "Category: Refrigerator, Brand: Samsung, Model: Convertible Double Door, Description: 345L frost-free fridge with convertible freezer, Price: Rs. 48,000",
+        "question": "Samsung Convertible Double Door fridge ko price kati cha?",
+        "response": "Samsung Convertible Double Door fridge ko price Rs. 48,000 cha. Yo 345L frost-free fridge ho."
+    },
+    {
+        "context": "Category: Refrigerator, Brand: Samsung, Model: Convertible Double Door, Description: 345L frost-free fridge with convertible freezer, Price: Rs. 48,000",
+        "question": "Samsung Convertible fridge ko dam batauna saknuhuncha?",
+        "response": "Samsung Convertible fridge ko dam Rs. 48,000 ho. Yo 345L capacity ra convertible freezer sanga aauchha."
+    },
+    {
+        "context": "Category: Refrigerator, Brand: Samsung, Model: Convertible Double Door, Description: 345L frost-free fridge with convertible freezer, Price: Rs. 48,000",
+        "question": "Convertible fridge Samsung ko kati parcha?",
+        "response": "Convertible fridge Samsung ko Rs. 48,000 parcha. Isma 345L capacity ra frost-free feature cha."
+    },
+    {
+        "context": "Category: Laptop, Brand: HP, Model: Pavilion x360, Description: 14-inch Full HD display, Intel i5, 8GB RAM, 512GB SSD, Price: Rs. 70,000",
+        "question": "HP Pavilion x360 ko price kati ho?",
+        "response": "HP Pavilion x360 ko price Rs. 70,000 ho. Isma 14-inch Full HD display ra Intel i5 processor cha."
+    },
+    {
+        "context": "Category: Laptop, Brand: HP, Model: Pavilion x360, Description: 14-inch Full HD display, Intel i5, 8GB RAM, 512GB SSD, Price: Rs. 70,000",
+        "question": "HP Pavilion x360 ko dam kati cha?",
+        "response": "HP Pavilion x360 ko dam Rs. 70,000 cha. Isma 8GB RAM ra 512GB SSD cha."
+    },
+    {
+        "context": "Category: Laptop, Brand: HP, Model: Pavilion x360, Description: 14-inch Full HD display, Intel i5, 8GB RAM, 512GB SSD, Price: Rs. 70,000",
+        "question": "HP Pavilion x360 laptop ko price kati ho bhanera bataunus?",
+        "response": "HP Pavilion x360 laptop ko price Rs. 70,000 ho. Yo laptop Intel i5 processor ra 512GB SSD sanga aauchha."
+    },
+    {
+        "context": "Category: Refrigerator, Brand: LG, Model: Side-by-Side, Description: 668L capacity, inverter compressor, smart cooling, Price: Rs. 1,05,000",
+        "question": "LG side-by-side refrigerator ko price kati cha?",
+        "response": "LG side-by-side refrigerator ko price Rs. 1,05,000 cha. Isma 668L capacity ra inverter compressor cha."
+    },
+    {
+        "context": "Category: Refrigerator, Brand: LG, Model: Side-by-Side, Description: 668L capacity, inverter compressor, smart cooling, Price: Rs. 1,05,000",
+        "question": "LG side-by-side fridge ko dam kasto cha?",
+        "response": "LG side-by-side fridge ko dam Rs. 1,05,000 cha. Yo 668L capacity ra smart cooling feature sanga cha."
+    },
+    {
+        "context": "Category: Refrigerator, Brand: LG, Model: Side-by-Side, Description: 668L capacity, inverter compressor, smart cooling, Price: Rs. 1,05,000",
+        "question": "LG ko 668L side-by-side refrigerator kati cha?",
+        "response": "LG ko 668L side-by-side refrigerator ko price Rs. 1,05,000 ho. Isma inverter compressor ra smart cooling cha."
+    },
+    {
+        "context": "Category: Washing Machine, Brand: Bosch, Model: Front Load, Description: 7kg capacity, EcoSilence drive, 1200 rpm spin speed, Price: Rs. 45,000",
+        "question": "Bosch front load washing machine ko price kati ho?",
+        "response": "Bosch front load washing machine ko price Rs. 45,000 ho. Isma 7kg capacity ra EcoSilence drive cha."
+    },
+    {
+        "context": "Category: Washing Machine, Brand: Bosch, Model: Front Load, Description: 7kg capacity, EcoSilence drive, 1200 rpm spin speed, Price: Rs. 45,000",
+        "question": "Bosch ko 7kg front load washing machine ko price kati cha?",
+        "response": "Bosch ko 7kg front load washing machine ko price Rs. 45,000 cha. Isma 1200 rpm spin speed cha."
+    },
+    {
+        "context": "Category: Washing Machine, Brand: Bosch, Model: Front Load, Description: 7kg capacity, EcoSilence drive, 1200 rpm spin speed, Price: Rs. 45,000",
+        "question": "Bosch washing machine ko price kati cha bhanera bataunus?",
+        "response": "Bosch washing machine ko price Rs. 45,000 ho. Yo 7kg capacity ra EcoSilence drive sanga cha."
+    },
+    {
+        "context": "Category: Tablet, Brand: Lenovo, Model: Tab P11 Pro, Description: 11.5-inch OLED display, Snapdragon 730G, 6GB RAM, 128GB storage, Price: Rs. 36,000",
+        "question": "Lenovo Tab P11 Pro ko price kati cha?",
+        "response": "Lenovo Tab P11 Pro ko price Rs. 36,000 cha. Isma 11.5-inch OLED display ra Snapdragon 730G processor cha."
+    },
+    {
+        "context": "Category: Tablet, Brand: Lenovo, Model: Tab P11 Pro, Description: 11.5-inch OLED display, Snapdragon 730G, 6GB RAM, 128GB storage, Price: Rs. 36,000",
+        "question": "Lenovo Tab P11 Pro ko dam kati ho?",
+        "response": "Lenovo Tab P11 Pro ko dam Rs. 36,000 ho. Yo 11.5-inch OLED display ra 6GB RAM sanga aauchha."
+    },
+    {
+        "context": "Category: Tablet, Brand: Lenovo, Model: Tab P11 Pro, Description: 11.5-inch OLED display, Snapdragon 730G, 6GB RAM, 128GB storage, Price: Rs. 36,000",
+        "question": "Lenovo Tab P11 Pro kati cha?",
+        "response": "Lenovo Tab P11 Pro ko price Rs. 36,000 ho. Isma 128GB storage ra Snapdragon 730G processor cha."
+    },
+    {
+        "context": "Category: Smartwatch, Brand: Amazfit, Model: GTR 3, Description: 1.39-inch AMOLED display, heart rate monitor, sleep tracking, Price: Rs. 12,000",
+        "question": "Amazfit GTR 3 smartwatch ko price kati cha?",
+        "response": "Amazfit GTR 3 smartwatch ko price Rs. 12,000 cha. Isma 1.39-inch AMOLED display ra heart rate monitor cha."
+    },
+    {
+        "context": "Category: Smartwatch, Brand: Amazfit, Model: GTR 3, Description: 1.39-inch AMOLED display, heart rate monitor, sleep tracking, Price: Rs. 12,000",
+        "question": "Amazfit GTR 3 ko dam kati ho?",
+        "response": "Amazfit GTR 3 ko dam Rs. 12,000 ho. Yo 1.39-inch AMOLED display sanga aauchha."
+    },
+    {
+        "context": "Category: Smartwatch, Brand: Amazfit, Model: GTR 3, Description: 1.39-inch AMOLED display, heart rate monitor, sleep tracking, Price: Rs. 12,000",
+        "question": "Amazfit GTR 3 smartwatch kati cha?",
+        "response": "Amazfit GTR 3 smartwatch ko price Rs. 12,000 ho. Isma sleep tracking ra heart rate monitor cha."
+    },
+    {
+        "context": "Category: Camera, Brand: Canon, Model: EOS 90D, Description: 32.5MP DSLR camera, 4K video recording, Price: Rs. 1,20,000",
+        "question": "Canon EOS 90D ko price kati ho?",
+        "response": "Canon EOS 90D ko price Rs. 1,20,000 ho. Isma 32.5MP DSLR sensor ra 4K video recording cha."
+    },
+    {
+        "context": "Category: Camera, Brand: Canon, Model: EOS 90D, Description: 32.5MP DSLR camera, 4K video recording, Price: Rs. 1,20,000",
+        "question": "Canon EOS 90D camera ko dam kati cha?",
+        "response": "Canon EOS 90D camera ko dam Rs. 1,20,000 cha. Isma 32.5MP DSLR sensor ra 4K video recording cha."
+    },
+    {
+        "context": "Category: Camera, Brand: Canon, Model: EOS 90D, Description: 32.5MP DSLR camera, 4K video recording, Price: Rs. 1,20,000",
+        "question": "Canon EOS 90D ko dam kati ho?",
+        "response": "Canon EOS 90D ko dam Rs. 1,20,000 ho. Isma 32.5MP DSLR sensor ra 4K video recording cha."
+    },
+    {
+        "context": "Category: Bluetooth Speaker, Brand: JBL, Model: Flip 5, Description: Waterproof portable speaker, 12 hours playtime, Price: Rs. 7,500",
+        "question": "JBL Flip 5 speaker ko price kati ho?",
+        "response": "JBL Flip 5 speaker ko price Rs. 7,500 ho. Yo waterproof portable speaker ho ra 12 hours playtime cha."
+    },
+    {
+        "context": "Category: Bluetooth Speaker, Brand: JBL, Model: Flip 5, Description: Waterproof portable speaker, 12 hours playtime, Price: Rs. 7,500",
+        "question": "JBL Flip 5 ko dam kati cha?",
+        "response": "JBL Flip 5 ko dam Rs. 7,500 cha. Isma waterproof feature ra 12 hours playtime cha."
+    },
+    {
+        "context": "Category: Bluetooth Speaker, Brand: JBL, Model: Flip 5, Description: Waterproof portable speaker, 12 hours playtime, Price: Rs. 7,500",
+        "question": "JBL Flip 5 speaker kati parcha?",
+        "response": "JBL Flip 5 speaker ko price Rs. 7,500 parcha. Yo waterproof portable speaker ho."
+    },
+    {
+        "context": "Category: Microwave, Brand: Samsung, Model: Solo Microwave Oven, Description: 20L capacity, 6 power levels, Price: Rs. 8,000",
+        "question": "Samsung solo microwave oven ko price kati ho?",
+        "response": "Samsung solo microwave oven ko price Rs. 8,000 ho. Isma 20L capacity ra 6 power levels cha."
+    },
+    {
+        "context": "Category: Microwave, Brand: Samsung, Model: Solo Microwave Oven, Description: 20L capacity, 6 power levels, Price: Rs. 8,000",
+        "question": "Samsung ko solo microwave ko dam kati cha?",
+        "response": "Samsung ko solo microwave ko dam Rs. 8,000 cha. Yo 20L capacity ra 6 power levels sanga aauchha."
+    },
+    {
+        "context": "Category: Microwave, Brand: Samsung, Model: Solo Microwave Oven, Description: 20L capacity, 6 power levels, Price: Rs. 8,000",
+        "question": "Samsung solo microwave ko kati cha?",
+        "response": "Samsung solo microwave ko Rs. 8,000 parcha. Isma 6 power levels ra 20L capacity cha."
+    },
+    {
+        "context": "Category: Air Conditioner, Brand: Voltas, Model: 1 Ton, Description: 1-ton cooling capacity, 3-star energy rating, Price: Rs. 35,000",
+        "question": "Voltas 1 ton AC ko price kati cha?",
+        "response": "Voltas 1 ton AC ko price Rs. 35,000 cha. Isma 3-star energy rating ra 1-ton cooling capacity cha."
+    },
+    {
+        "context": "Category: Air Conditioner, Brand: Voltas, Model: 1 Ton, Description: 1-ton cooling capacity, 3-star energy rating, Price: Rs. 35,000",
+        "question": "Voltas 1 ton air conditioner ko dam kati cha?",
+        "response": "Voltas 1 ton air conditioner ko dam Rs. 35,000 cha. Isma 3-star energy efficiency ra 1-ton cooling capacity cha."
+    },
+    {
+        "context": "Category: Air Conditioner, Brand: Voltas, Model: 1 Ton, Description: 1-ton cooling capacity, 3-star energy rating, Price: Rs. 35,000",
+        "question": "Voltas 1 ton AC kati parcha?",
+        "response": "Voltas 1 ton AC ko price Rs. 35,000 parcha. Yo 3-star energy rating sanga aauchha."
+    },
+    {
+        "context": "Category: Smartwatch, Brand: Fitbit, Model: Versa 3, Description: 1.58-inch AMOLED display, GPS, heart rate monitoring, Price: Rs. 18,000",
+        "question": "Fitbit Versa 3 smartwatch ko price kati ho?",
+        "response": "Fitbit Versa 3 smartwatch ko price Rs. 18,000 ho. Yo 1.58-inch AMOLED display ra heart rate monitoring sanga cha."
+    },
+    {
+        "context": "Category: Smartwatch, Brand: Fitbit, Model: Versa 3, Description: 1.58-inch AMOLED display, GPS, heart rate monitoring, Price: Rs. 18,000",
+        "question": "Fitbit Versa 3 ko dam kati cha?",
+        "response": "Fitbit Versa 3 ko dam Rs. 18,000 cha. Isma 1.58-inch AMOLED display ra GPS sanga cha."
+    },
+    {
+        "context": "Category: Smartwatch, Brand: Fitbit, Model: Versa 3, Description: 1.58-inch AMOLED display, GPS, heart rate monitoring, Price: Rs. 18,000",
+        "question": "Fitbit Versa 3 smartwatch kati parcha?",
+        "response": "Fitbit Versa 3 smartwatch ko price Rs. 18,000 parcha. Isma heart rate monitoring ra GPS cha."
+    },
+    {
+        "context": "Category: Tablet, Brand: Samsung, Model: Galaxy Tab S7, Description: 11-inch LCD display, Snapdragon 865+, 6GB RAM, 128GB storage, Price: Rs. 60,000",
+        "question": "Samsung Galaxy Tab S7 ko price kati cha?",
+        "response": "Samsung Galaxy Tab S7 ko price Rs. 60,000 cha. Isma 11-inch LCD display ra Snapdragon 865+ processor cha."
+    },
+    {
+        "context": "Category: Tablet, Brand: Samsung, Model: Galaxy Tab S7, Description: 11-inch LCD display, Snapdragon 865+, 6GB RAM, 128GB storage, Price: Rs. 60,000",
+        "question": "Samsung Galaxy Tab S7 ko dam kati ho?",
+        "response": "Samsung Galaxy Tab S7 ko dam Rs. 60,000 ho. Yo Snapdragon 865+ processor ra 128GB storage sanga aauchha."
+    },
+    {
+        "context": "Category: Tablet, Brand: Samsung, Model: Galaxy Tab S7, Description: 11-inch LCD display, Snapdragon 865+, 6GB RAM, 128GB storage, Price: Rs. 60,000",
+        "question": "Samsung Galaxy Tab S7 kati cha?",
+        "response": "Samsung Galaxy Tab S7 ko price Rs. 60,000 cha. Isma 6GB RAM ra 128GB storage cha."
+    },
+    {
+        "context": "Category: Printer, Brand: HP, Model: DeskJet 2331, Description: Inkjet printing, USB connectivity, A4 printing, Price: Rs. 5,000",
+        "question": "HP DeskJet 2331 printer ko price kati ho?",
+        "response": "HP DeskJet 2331 printer ko price Rs. 5,000 ho. Isma A4 printing ra USB connectivity cha."
+    },
+    {
+        "context": "Category: Printer, Brand: HP, Model: DeskJet 2331, Description: Inkjet printing, USB connectivity, A4 printing, Price: Rs. 5,000",
+        "question": "HP DeskJet printer ko dam kati cha?",
+        "response": "HP DeskJet printer ko dam Rs. 5,000 cha. Isma USB connectivity ra A4 printing support cha."
+    },
+    {
+        "context": "Category: Printer, Brand: HP, Model: DeskJet 2331, Description: Inkjet printing, USB connectivity, A4 printing, Price: Rs. 5,000",
+        "question": "HP DeskJet printer kati parcha?",
+        "response": "HP DeskJet printer ko price Rs. 5,000 parcha. Yo A4 printing ra USB connectivity sanga cha."
+    },
+    {
+        "context": "Category: Bluetooth Speaker, Brand: Sony, Model: SRS-XB33, Description: Waterproof, Party Speaker, Extra Bass, Price: Rs. 10,000",
+        "question": "Sony SRS-XB33 speaker ko price kati cha?",
+        "response": "Sony SRS-XB33 speaker ko price Rs. 10,000 cha. Yo waterproof ra extra bass feature sanga cha."
+    },
+    {
+        "context": "Category: Bluetooth Speaker, Brand: Sony, Model: SRS-XB33, Description: Waterproof, Party Speaker, Extra Bass, Price: Rs. 10,000",
+        "question": "Sony SRS-XB33 speaker ko dam kati cha?",
+        "response": "Sony SRS-XB33 speaker ko dam Rs. 10,000 ho. Isma waterproof design ra extra bass feature cha."
+    },
+    {
+        "context": "Category: Bluetooth Speaker, Brand: Sony, Model: SRS-XB33, Description: Waterproof, Party Speaker, Extra Bass, Price: Rs. 10,000",
+        "question": "Sony SRS-XB33 kati cha?",
+        "response": "Sony SRS-XB33 ko price Rs. 10,000 ho. Isma waterproof design ra extra bass cha."
+    },
+    {
+        "context": "Category: Coffee Machine, Brand: Breville, Model: Barista Express, Description: Espresso machine, 15 bar pressure, integrated grinder, Price: Rs. 50,000",
+        "question": "Breville Barista Express ko price kati ho?",
+        "response": "Breville Barista Express ko price Rs. 50,000 ho. Yo espresso machine 15 bar pressure ra integrated grinder sanga cha."
+    },
+    {
+        "context": "Category: Coffee Machine, Brand: Breville, Model: Barista Express, Description: Espresso machine, 15 bar pressure, integrated grinder, Price: Rs. 50,000",
+        "question": "Breville Barista Express ko dam kati cha?",
+        "response": "Breville Barista Express ko dam Rs. 50,000 cha. Isma 15 bar pressure ra integrated grinder cha."
+    },
+    {
+        "context": "Category: Coffee Machine, Brand: Breville, Model: Barista Express, Description: Espresso machine, 15 bar pressure, integrated grinder, Price: Rs. 50,000",
+        "question": "Breville Barista Express kati parcha?",
+        "response": "Breville Barista Express ko price Rs. 50,000 parcha. Yo espresso machine 15 bar pressure ra grinder sanga aauchha."
+    },
+    {
+        "context": "Category: Vacuum Cleaner, Brand: Dyson, Model: V11 Torque Drive, Description: Cordless vacuum, powerful suction, Price: Rs. 60,000",
+        "question": "Dyson V11 Torque Drive vacuum cleaner ko price kati cha?",
+        "response": "Dyson V11 Torque Drive vacuum cleaner ko price Rs. 60,000 cha. Isma powerful suction ra cordless design cha."
+    },
+    {
+        "context": "Category: Vacuum Cleaner, Brand: Dyson, Model: V11 Torque Drive, Description: Cordless vacuum, powerful suction, Price: Rs. 60,000",
+        "question": "Dyson V11 vacuum cleaner ko dam kati cha?",
+        "response": "Dyson V11 vacuum cleaner ko dam Rs. 60,000 cha. Yo cordless vacuum ho ra powerful suction cha."
+    },
+    {
+        "context": "Category: Vacuum Cleaner, Brand: Dyson, Model: V11 Torque Drive, Description: Cordless vacuum, powerful suction, Price: Rs. 60,000",
+        "question": "Dyson V11 Torque Drive kati parcha?",
+        "response": "Dyson V11 Torque Drive ko price Rs. 60,000 parcha. Isma cordless feature ra powerful suction cha."
+    }
+]

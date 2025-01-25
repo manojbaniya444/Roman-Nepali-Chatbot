@@ -1,0 +1,758 @@
+[
+    {
+        "source": "ka gari rako chau?",
+        "target": "What are you doing?"
+    },
+    {
+        "source": "timro naam ke ho?",
+        "target": "What is your name?"
+    },
+    {
+        "source": "ma thik chu",
+        "target": "I am fine."
+    },
+    {
+        "source": "bazar kahaa cha?",
+        "target": "Where is the market?"
+    },
+    {
+        "source": "kati bajyo?",
+        "target": "What time is it?"
+    },
+    {
+        "source": "paisa kati cha?",
+        "target": "How much is the money?"
+    },
+    {
+        "source": "malai bhok lagyo",
+        "target": "I am hungry."
+    },
+    {
+        "source": "ghar ma kohi cha?",
+        "target": "Is anyone home?"
+    },
+    {
+        "source": "hijo ke bhayo?",
+        "target": "What happened yesterday?"
+    },
+    {
+        "source": "yo kasto cha?",
+        "target": "How is this?"
+    },
+    {
+        "source": "mero mobile bigrayo",
+        "target": "My phone is broken."
+    },
+    {
+        "source": "malai sahayog chaahinchha",
+        "target": "I need help."
+    },
+    {
+        "source": "yo mero ho",
+        "target": "This is mine."
+    },
+    {
+        "source": "afno khyal rakhnu",
+        "target": "Take care of yourself."
+    },
+    {
+        "source": "maile bistarai bolchu",
+        "target": "I will speak slowly."
+    },
+    {
+        "source": "hami dhilo bhayau",
+        "target": "We are late."
+    },
+    {
+        "source": "kripaya dhoka banda garnus",
+        "target": "Please close the door."
+    },
+    {
+        "source": "maile bhujhina",
+        "target": "I didn't understand."
+    },
+    {
+        "source": "aaja ramailo cha",
+        "target": "Today is fun."
+    },
+    {
+        "source": "mero sathi ko ghar yaha ho",
+        "target": "My friend's house is here."
+    },
+    {
+        "source": "ma hijo mero sathi sanga park maa gaye. tyaha hami dui ghanta samma ghumyo ra ramailo gare. tyasko pachi hami hotel maa khana khana gayo.",
+        "target": "Yesterday, I went to the park with my friend. We walked around and enjoyed ourselves for two hours. After that, we went to a hotel to have food."
+    },
+    {
+        "source": "adhyayan ekdamai mahatwapurna cha. ma harek din tin ghanta samma kitab padchhu ra naya kura sikchhu. maile mero exam ma safal huna yesto abhyas garna suru gareko ho.",
+        "target": "Education is very important. I study for three hours every day and learn new things. I started practicing this way to succeed in my exams."
+    },
+    {
+        "source": "hami yatra ko lagi pokhara jadai chaun. pokhara ekdamai sundar thau ho, jaha phewa taal, shanti stupa jasta ramro thau haru cha. ma yaha pirmaya ko photo khichna man parcha.",
+        "target": "We are going to Pokhara for a trip. Pokhara is a very beautiful place with spots like Phewa Lake and Shanti Stupa. I love taking photos here."
+    },
+    {
+        "source": "mero din dinko talika ekdam byasta cha. bihana chadai uthera ma yoga ra exercise garchu. tyasko pachi office janchhu ra dinbhari kam garchhu. beluka ghar aayera mero pariwaar sanga samaya bitauchhu.",
+        "target": "My daily routine is very busy. I wake up early in the morning and do yoga and exercise. After that, I go to the office and work all day. In the evening, I spend time with my family at home."
+    },
+    {
+        "source": "swathya manchheko jiwan ko mukhya dhan ho. tesaile, hami sabai le ramro khana khanu parcha, exercise garnu parcha ra thik samaya ma sutnu parcha. yedi swastha ramro cha bhane jindagi ramailo huncha.",
+        "target": "Health is the main wealth of a person’s life. Therefore, we all should eat healthy food, exercise, and sleep on time. If health is good, life becomes enjoyable."
+    },
+    {
+        "source": "nepal ek sundar desh ho jaha bibidh jati, sanskriti, ra prakritik sundarta cha. yaha himal, taal, ra chihan ko darshan garna aune dherai paryatak haru huncha. paryatanko lagi nepal viswa bhar famous cha.",
+        "target": "Nepal is a beautiful country with diverse ethnicities, cultures, and natural beauty. Many tourists visit here to see mountains, lakes, and temples. Nepal is famous worldwide for tourism."
+    },
+    {
+        "source": "aaja ko din ma digital technology ko prayog dherai badeko cha. sabai kura online garna sakincha, jastai shopping, sikai, ra business. tara, technology le manche haru alchi pani banaune sambhawana cha.",
+        "target": "Nowadays, the use of digital technology has increased a lot. Everything can be done online, like shopping, learning, and business. However, technology also has the potential to make people lazy."
+    },
+    {
+        "source": "mero ghar ko cheuma ek sano pustakalaya cha. ma waha harek sapta jana janchhu ra kitab padchhu. pustakalaya ekdam shanti ko thau ho, jaha manche haru le aafno dherai samaya bitauchhan.",
+        "target": "Near my house, there is a small library. I go there every week and read books. The library is a very peaceful place where people spend a lot of their time."
+    },
+    {
+        "source": "pariwaar manchhe ko jiwan ko aadharbhoota ang ho. pariwaar le hami lai maya, sahara ra surakshya dincha. pariwaar bina jindagi adhooro huncha.",
+        "target": "Family is a fundamental part of a person's life. It provides us with love, support, and security. Life feels incomplete without family."
+    },
+    {
+        "source": "nepal maa bidhyut ko abhav le manche haru lai dherai asar gareko cha. tesaile, solar power jasto bikalpik urja ko prayog badhaunu parcha. tesle bijuli ko samasya ko samadhan garna sakcha.",
+        "target": "The lack of electricity in Nepal has greatly affected people. Therefore, alternative energy sources like solar power should be promoted. This can solve the electricity problem."
+    },
+    {
+        "source": "hijo ma mero friend sanga movie herna gaye. movie ekdam ramailo thiyo ra maile dherai photos pani khiche.",
+        "target": "Yesterday, I went to watch a movie with my friend. The movie was very enjoyable, and I also took a lot of photos."
+    },
+    {
+        "source": "timile kal ko meeting ko details pathauna sakchau? maile ajhai information paeko chaina.",
+        "target": "Can you send me the details of tomorrow's meeting? I have not received the information yet."
+    },
+    {
+        "source": "mero laptop ko battery discharge bhaisakyo. tesaile ma charger khojhera plug garna parcha.",
+        "target": "My laptop's battery is completely discharged. So, I need to find the charger and plug it in."
+    },
+    {
+        "source": "maile aaja ekdam important kaam sakaye. aba ma relax garna chahanchu ra thikai ma TV herchu.",
+        "target": "I finished a very important task today. Now I want to relax and watch TV for a while."
+    },
+    {
+        "source": "exam aaudai cha, tesaile ma dherai focused bhayera padna pareko cha. maile math ra science ko revision suru gare.",
+        "target": "Exams are coming, so I need to study with a lot of focus. I have started revising math and science."
+    },
+    {
+        "source": "hami company ko project ma naya software implement garna lageko chau. tesle productivity badhne cha.",
+        "target": "We are going to implement new software in the company's project. It will increase productivity."
+    },
+    {
+        "source": "aaja ma gharma ramailo garnu parcha, kina bhane mero cousin ko birthday cha. sabai le party ma aune bhaneko cha.",
+        "target": "Today, I have to enjoy at home because it's my cousin's birthday. Everyone has said they will come to the party."
+    },
+    {
+        "source": "maile naya mobile order gare. delivery ma dherai time lagna sakcha bhanera shop le bhaneko thiyo.",
+        "target": "I ordered a new mobile. The shop said it might take a long time for delivery."
+    },
+    {
+        "source": "traffic jam le gari dherai time lagyo office pugna. aba ma time manage garna chaiyo jasto lagcha.",
+        "target": "Because of the traffic jam, it took a long time to reach the office. Now I feel I need to manage my time better."
+    },
+    {
+        "source": "ramro internet connection bhayena bhane online class attend garna garho huncha. maile naya ISP ma switch garna socheko chu.",
+        "target": "Without a good internet connection, it becomes difficult to attend online classes. I am thinking of switching to a new ISP."
+    },
+    {
+        "source": "school ko extra-curricular activities ma part linchhu bhanera sochya thiye. aba ma sports team ko tryout ma jane kura gareko chu.",
+        "target": "I had thought of participating in the school's extra-curricular activities. Now I have decided to go for the sports team tryouts."
+    },
+    {
+        "source": "maile aaja ko weather forecast check gare. kal raat bhari pani parcha jasto cha, tesaile chata lyana birsannu hunna.",
+        "target": "I checked today's weather forecast. It seems it will rain all night tomorrow, so don't forget to bring an umbrella."
+    },
+    {
+        "source": "aaja ma office ma ek presentation dine plan banaye. sabai ko feedback liera final report submit garna parcha.",
+        "target": "Today, I planned to give a presentation at the office. I need to collect everyone's feedback and submit the final report."
+    },
+    {
+        "source": "college ma naya rules implement gareko cha, jasma students le uniform lagna parcha. tyo rule thik cha bhanera manche haru le acceptance diyeko cha.",
+        "target": "New rules have been implemented in the college, where students must wear uniforms. People have accepted that this rule is appropriate."
+    },
+    {
+        "source": "bihana gym gayera maile workout gare. aba ma healthy breakfast khayera din start garna chahanchu.",
+        "target": "In the morning, I went to the gym and worked out. Now I want to start the day with a healthy breakfast."
+    },
+    {
+        "source": "maile naya book online order gare, jasko review ekdam ramro thiyo. aba ma reading habit improve garna sochiraheko chu.",
+        "target": "I ordered a new book online, which had very good reviews. Now I am thinking of improving my reading habit."
+    },
+    {
+        "source": "sathiharu sanga plan gareko trip ma maile dherai enjoy gare. adventure activities dherai exciting thiyo.",
+        "target": "I really enjoyed the trip I planned with my friends. The adventure activities were very exciting."
+    },
+    {
+        "source": "aaja ko meeting ekdam productive thiyo. maile mero manager sanga naya project ko details ma kura gare.",
+        "target": "Today's meeting was very productive. I discussed the details of the new project with my manager."
+    },
+    {
+        "source": "tyo restaurant ko food quality ekdam ramro cha, tara service ma improvement garna parcha bhanera sabai le bhaneko cha.",
+        "target": "The food quality at that restaurant is very good, but everyone said they need to improve the service."
+    },
+    {
+        "source": "dashain ko bela ma ghar maa dherai ramailo huncha. sabai pariwaar ko members ekai thau ma jamma hunchan ra tika lagaiyo.",
+        "target": "During Dashain, there is a lot of celebration at home. All family members gather in one place and put tika."
+    },
+    {
+        "source": "timro presentation ekdam ramro thiyo, tara next time slides maa thap clarity hunu parcha bhanera manager le bhaneko thiyo.",
+        "target": "Your presentation was really good, but the manager said that next time the slides need more clarity."
+    },
+    {
+        "source": "shopping center maa sale cha bhanera maile suna. aba ma weekend maa jaana plan banaye.",
+        "target": "I heard there is a sale at the shopping center. Now I have planned to go there this weekend."
+    },
+    {
+        "source": "maile mero smartphone ko camera test gare. photo quality ekdam ramro cha, aba ma trip maa dherai photo khichne sochdaichu.",
+        "target": "I tested my smartphone's camera. The photo quality is excellent, so now I am thinking of taking a lot of photos on the trip."
+    },
+    {
+        "source": "college ko event ko lagi ma volunteer bane. aba schedule ra responsibilities ko list manager le pathaune bhanchan.",
+        "target": "I became a volunteer for the college event. Now the manager says they will send the schedule and list of responsibilities."
+    },
+    {
+        "source": "timi sanga meeting ko lagi presentation file cha? maile time ma finalize garna sakina bhanera sorry bhancha.",
+        "target": "Do you have the presentation file for the meeting? I’m sorry I couldn’t finalize it on time."
+    },
+    {
+        "source": "kal ko function ko dress selection garna maile ek ghanta lagayo. aba ma hair stylist ko appointment linchhu.",
+        "target": "It took me an hour to select the dress for tomorrow’s function. Now, I will book an appointment with the hair stylist."
+    },
+    {
+        "source": "lockdown ko time maa online class ekdam helpful bhayo. maile dherai naya skills sikne opportunity paaye.",
+        "target": "During the lockdown, online classes were very helpful. I got the opportunity to learn many new skills."
+    },
+    {
+        "source": "party maa sabai le ramailo gare. maile bhane speech dina parcha bhanera expect gareko thiyena.",
+        "target": "Everyone enjoyed the party. I did not expect that I would have to give a speech."
+    },
+    {
+        "source": "aaja hospital jaana parcha, kina bhane health check-up ko appointment cha. aba time ma nikalnu parcha.",
+        "target": "I need to go to the hospital today because I have a health check-up appointment. Now, I need to make time for it."
+    },
+    {
+        "source": "maile naya job ko interview ma dherai nervous feel gare. aba ma communication skills improve garna ko lagi coaching class join garchhu.",
+        "target": "I felt very nervous during the interview for the new job. Now, I will join a coaching class to improve my communication skills."
+    },
+    {
+        "source": "picnic plan ekdam exciting cha. hami hiking pani garna jadai chau, ra aba ma gear ko lagi packing suru garchhu.",
+        "target": "The picnic plan is very exciting. We are also going for hiking, and now I will start packing for the gear."
+    },
+    {
+        "source": "aaja ko lunch maa momos order garne sochdaichu. mero sathi le bhane restaurant recommend gareko cha.",
+        "target": "I am thinking of ordering momos for lunch today. My friend has recommended a good restaurant."
+    },
+    {
+        "source": "office ko training session ekdam productive thiyo. aba ma learned concepts apply garna ready chu.",
+        "target": "The training session at the office was very productive. Now I am ready to apply the concepts I learned."
+    },
+    {
+        "source": "maile online shopping garna try gare, tara product ko delivery time dherai long cha bhanera cancel gare.",
+        "target": "I tried online shopping, but I canceled it because the delivery time for the product was very long."
+    },
+    {
+        "source": "festival ko bela traffic jam ekdam badcha, tesaile time ma ghar pharkna garho huncha.",
+        "target": "During the festival, traffic jams increase a lot, so it becomes difficult to return home on time."
+    },
+    {
+        "source": "maile programming language sikna Python ko beginner course suru gare. aba assignments pani complete garna parecha.",
+        "target": "I started a beginner course in Python to learn programming. Now, I also need to complete the assignments."
+    },
+    {
+        "source": "mero sathi le trekking gear recommend gare, jun ekdam reliable cha bhanera review ma lekheko thiyo.",
+        "target": "My friend recommended trekking gear, which was written as very reliable in the reviews."
+    },
+    {
+        "source": "aaja raat ma match live herna plan cha. maile snacks already arrange gareko chu.",
+        "target": "I plan to watch the match live tonight. I have already arranged snacks."
+    },
+    {
+        "source": "mero family sanga aaja dinner ma restaurant ma jana plan banaye. aba table reservation garnu parcha.",
+        "target": "I planned to go to a restaurant for dinner with my family today. Now, I need to make a table reservation."
+    },
+    {
+        "source": "mero best friend le naya job payo, ra usle aaja office maa first day celebrate garna planning gareko cha.",
+        "target": "My best friend got a new job, and they planned to celebrate their first day at the office today."
+    },
+    {
+        "source": "ghumne plan ko lagi maile Kathmandu ko thau haru ko list banaye. aba taxi booking ko lagi apps use garchhu.",
+        "target": "For the travel plan, I made a list of places in Kathmandu. Now, I will use apps for taxi booking."
+    },
+    {
+        "source": "maile aaja park maa ekdam ramailo feel gare. maile guitar bajai ra mero sathi haru sanga songs gaye.",
+        "target": "I had a lot of fun at the park today. I played the guitar and sang songs with my friends."
+    },
+    {
+        "source": "aaja school maa ek art competition cha. maile painting ko theme select garna teacher ko help liyo.",
+        "target": "Today, there is an art competition at school. I took my teacher's help to select a theme for the painting."
+    },
+    {
+        "source": "momo ko recipe sikna maile YouTube video herne sochdaichu. aba mero kitchen maa try garna ready chu.",
+        "target": "To learn the momo recipe, I am thinking of watching a YouTube video. Now I am ready to try it in my kitchen."
+    },
+    {
+        "source": "community clean-up campaign ko lagi hami volunteers organize garna lageka chau. aba tools ko lagi funding arrange garnu parcha.",
+        "target": "We are organizing volunteers for the community clean-up campaign. Now, we need to arrange funding for the tools."
+    },
+    {
+        "source": "mero cousin le engagement ko lagi party organize gareko cha. maile usko favorite gift select garna online browsing gare.",
+        "target": "My cousin has organized a party for their engagement. I browsed online to select their favorite gift."
+    },
+    {
+        "source": "college ko annual function ekdam grand huney cha. maile dance performance ko practice already start gareko chu.",
+        "target": "The college's annual function will be very grand. I have already started practicing for the dance performance."
+    },
+    {
+        "source": "aaja kaam ko pressure le dherai stress feel gare. aba relax garna Netflix maa ek movie herna plan cha.",
+        "target": "I felt very stressed today due to work pressure. Now I plan to relax by watching a movie on Netflix."
+    },
+    {
+        "source": "gym maa trainer le naya workout routine suggest gareko cha. maile diet plan pani update garna parcha bhanera sochdaichu.",
+        "target": "The trainer at the gym suggested a new workout routine. I am thinking I also need to update my diet plan."
+    },
+    {
+        "source": "book club ko discussion session ekdam interesting thiyo. maile naya novel ko suggestion sabailai diyeko chu.",
+        "target": "The discussion session at the book club was very interesting. I suggested a new novel to everyone."
+    },
+    {
+        "source": "hami school reunion ko plan banai raheko chau. aba location finalize garna dherai options discuss gare.",
+        "target": "We are planning the school reunion. Now we discussed many options to finalize the location."
+    },
+    {
+        "source": "aaja bhanchha ghar ko cleaning garna dherai time lagyo. aba grocery shopping ko lagi market jaanu parcha.",
+        "target": "It took a lot of time to clean the kitchen today. Now, I need to go to the market for grocery shopping."
+    },
+    {
+        "source": "city ko naya museum ko opening ceremony ekdam exciting thiyo. maile usko photo collection ko bare ma article lekhne plan gareko chu.",
+        "target": "The opening ceremony of the city's new museum was very exciting. I have planned to write an article about its photo collection."
+    },
+    {
+        "source": "naya coding project ko prototype maile ready gare. maile feedback collect garna team ko members lai email pathaeko chu.",
+        "target": "I prepared the prototype for the new coding project. I have sent an email to the team members to collect feedback."
+    },
+    {
+        "source": "morning walk ko time maa ekdam fresh feel huncha. maile mobile maa fitness tracking app download garera step count track garna suru gareko chu.",
+        "target": "During the morning walk, I feel very fresh. I downloaded a fitness tracking app on my mobile to start tracking my steps."
+    },
+    {
+        "source": "aaja ma mero sathi sanga hiking gaye. trail ekdam challenging thiyo, tara view chai breathtaking thiyo.",
+        "target": "Today, I went hiking with my friend. The trail was very challenging, but the view was breathtaking."
+    },
+    {
+        "source": "maile online delivery service try gare. package time maa arrive bhayo ra ma ekdam satisfied chu.",
+        "target": "I tried an online delivery service. The package arrived on time, and I am very satisfied."
+    },
+    {
+        "source": "sports day ko bela maile marathon race maa participate gare. aba maile next competition ko lagi training suru garne sochdaichu.",
+        "target": "During sports day, I participated in the marathon race. Now, I am thinking of starting training for the next competition."
+    },
+    {
+        "source": "kal raat ma ghar ko wifi problem bhayo. aba naya router ko order garna online search garna lageko chu.",
+        "target": "Last night, there was a problem with the home's Wi-Fi. Now I am about to search online to order a new router."
+    },
+    {
+        "source": "maile photo editing sikna YouTube tutorial follow garna suru gareko chu. aba ma Instagram post ko lagi creative photos banaune chu.",
+        "target": "I have started following YouTube tutorials to learn photo editing. Now, I will create creative photos for Instagram posts."
+    },
+    {
+        "source": "timro travel vlog ekdam ramro lagyo. maile pani Nepal ka trekking trails cover garna sochdaichu.",
+        "target": "I really liked your travel vlog. I am also thinking of covering Nepal's trekking trails."
+    },
+    {
+        "source": "school ko exam schedule maile calendar maa add gare. aba time management ko lagi proper planning garna parcha.",
+        "target": "I added the school's exam schedule to the calendar. Now, I need to do proper planning for time management."
+    },
+    {
+        "source": "hamro ghar ma guests aaudai chan, tesaile ma cleaning ko lagi help garna pareko cha. aba ma kitchen organize garna lageko chu.",
+        "target": "Guests are coming to our house, so I had to help with cleaning. Now I am about to organize the kitchen."
+    },
+    {
+        "source": "office ma naya policy implement garna board meeting ko discussion thiyo. sabai le support garna ready bhanera agree gare.",
+        "target": "There was a discussion in the board meeting to implement a new policy in the office. Everyone agreed to support it."
+    },
+    {
+        "source": "weekend plan ma hami Pokhara jana sochiraheko chu. aba hotel booking confirm garna parcha.",
+        "target": "In the weekend plan, we are thinking of going to Pokhara. Now, we need to confirm the hotel booking."
+    },
+    {
+        "source": "maile aaja khana ma new recipe try gare. sabai le feedback diye ki dish ekdam delicious cha.",
+        "target": "I tried a new recipe for today’s meal. Everyone gave feedback that the dish is very delicious."
+    },
+    {
+        "source": "online exam ko lagi maile laptop ko webcam test gare. aba proper lighting arrange garna parcha.",
+        "target": "I tested the laptop’s webcam for the online exam. Now, I need to arrange proper lighting."
+    },
+    {
+        "source": "naya year ko occasion ma hami friends sanga small get-together organize garna lageka chau.",
+        "target": "On the occasion of the New Year, we are planning to organize a small get-together with friends."
+    },
+    {
+        "source": "merai favorite band ko live concert Kathmandu ma organize hunecha. maile tickets book garna try gare.",
+        "target": "My favorite band’s live concert will be organized in Kathmandu. I tried to book tickets."
+    },
+    {
+        "source": "family picnic ko bela ma dherai ramailo bhayo. maile badminton khelna sikaune chance paaye.",
+        "target": "We had a lot of fun during the family picnic. I got the chance to teach badminton."
+    },
+    {
+        "source": "coding project ko debugging ekdam challenging thiyo. aba naya solutions explore garna online forums browse garna parcha.",
+        "target": "Debugging the coding project was very challenging. Now, I need to browse online forums to explore new solutions."
+    },
+    {
+        "source": "timro startup ko idea ekdam innovative lagyo. maile usko presentation ekdam inspiring paaye.",
+        "target": "Your startup idea seemed very innovative. I found their presentation very inspiring."
+    },
+    {
+        "source": "maile photography ko online course enroll gareko chu. aba DSLR camera ko settings practice garna parcha.",
+        "target": "I have enrolled in an online photography course. Now, I need to practice DSLR camera settings."
+    },
+    {
+        "source": "aaja gym session ma naya exercises add gare. aba stretching routine ko lagi video tutorials check garna lageko chu.",
+        "target": "Today, I added new exercises to the gym session. Now, I am about to check video tutorials for stretching routines."
+    },
+    {
+        "source": "road trip ko bela hamro car breakdown bhayo. aba mechanic sanga contact garna emergency number use garna parcha.",
+        "target": "During the road trip, our car broke down. Now, we need to use the emergency number to contact a mechanic."
+    },
+    {
+        "source": "maile cooking competition ko registration form fill gareko chu. aba preparation ko lagi ma shopping list ready garchhu.",
+        "target": "I have filled the registration form for the cooking competition. Now, I will prepare a shopping list."
+    },
+    {
+        "source": "school project ko presentation ma visuals add garna maile Canva tool use gare. aba printouts ready garna parcha.",
+        "target": "I used the Canva tool to add visuals to the school project presentation. Now, I need to prepare printouts."
+    },
+    {
+        "source": "book fair maa ekdam interesting collection thiyo. maile dherai historical novels purchase gare.",
+        "target": "The book fair had a very interesting collection. I purchased many historical novels."
+    },
+    {
+        "source": "mero bhai ko birthday party ma decoration ekdam ramro thiyo. sabai le usko favorite chocolate cake enjoy gare.",
+        "target": "The decoration at my brother's birthday party was very nice. Everyone enjoyed his favorite chocolate cake."
+    },
+    {
+        "source": "hamro school trip maa hami museum visit garna gayeu. guide le history ko barema ekdam detailed explanation diye.",
+        "target": "During our school trip, we visited the museum. The guide gave a very detailed explanation about the history."
+    },
+    {
+        "source": "college ko final year project ko prototype complete garna maile dherai effort lagaye. aba presentation ko practice garna parcha.",
+        "target": "I put in a lot of effort to complete the prototype for the college's final year project. Now, I need to practice the presentation."
+    },
+    {
+        "source": "aaja ma park maa morning walk jane plan ma thie, tara weather forecast le rain huncha bhanera dekhayo.",
+        "target": "I was planning to go for a morning walk in the park today, but the weather forecast showed that it will rain."
+    },
+    {
+        "source": "festival ko bela shopping complex ekdam crowded huncha. aba online shopping garna best option ho jasto lagcha.",
+        "target": "Shopping complexes are very crowded during the festival. Now, online shopping seems to be the best option."
+    },
+    {
+        "source": "team meeting maa project deadline extend garne decision bhayo. aba ma timeline revise garna parcha.",
+        "target": "In the team meeting, it was decided to extend the project deadline. Now, I need to revise the timeline."
+    },
+    {
+        "source": "family dinner maa maile dherai photos khiche. aba ma sab photos social media maa upload garna sochdaichu.",
+        "target": "I took a lot of photos at the family dinner. Now, I am thinking of uploading all the photos on social media."
+    },
+    {
+        "source": "gym ko subscription renew garna maile online payment gare. aba workout schedule regular banaune sochdaichu.",
+        "target": "I renewed the gym subscription with an online payment. Now, I am thinking of making my workout schedule regular."
+    },
+    {
+        "source": "maile trekking ko lagi lightweight backpack purchase gare. guide le path ekdam steep cha bhanera warning diye.",
+        "target": "I purchased a lightweight backpack for trekking. The guide warned that the path is very steep."
+    },
+    {
+        "source": "class project ko report submit deadline aaudai cha. aba ma final proofreading suru garna parcha.",
+        "target": "The submission deadline for the class project report is approaching. Now, I need to start the final proofreading."
+    },
+    {
+        "source": "aaja ma cafe maa coffee khadai book read garna ekdam relax feel gare. maile usko naya menu pani check gare.",
+        "target": "I felt very relaxed today reading a book while having coffee at the café. I also checked their new menu."
+    },
+    {
+        "source": "school event maa students le cultural dance perform gare. aba sabai performances ko photos school website maa upload huncha.",
+        "target": "During the school event, students performed cultural dances. Now, all the performance photos will be uploaded to the school website."
+    },
+    {
+        "source": "festival season maa transportation ko charge ekdam badcha. aba advance booking garna economical huncha.",
+        "target": "During the festival season, transportation charges increase a lot. Now, advance booking is more economical."
+    },
+    {
+        "source": "team ko feedback collect garna maile ek survey form create gare. aba ma results analyze garne sochdaichu.",
+        "target": "To collect team feedback, I created a survey form. Now, I am thinking of analyzing the results."
+    },
+    {
+        "source": "shopping mall maa electronics gadgets ko sale thiyo. maile budget bhitra laptop find garna dherai research gare.",
+        "target": "There was a sale on electronic gadgets at the shopping mall. I researched a lot to find a laptop within my budget."
+    },
+    {
+        "source": "aaja class ko first lecture cancel bhayo. aba ma library maa additional study garna jane plan banaye.",
+        "target": "The first lecture of today's class was canceled. Now, I have planned to go to the library for additional study."
+    },
+    {
+        "source": "family photo album ko old pictures scan garna ekdam time lagyo. aba ma uslai digital version banaye save garna sochdaichu.",
+        "target": "It took a lot of time to scan old pictures from the family photo album. Now, I am thinking of saving them as a digital version."
+    },
+    {
+        "source": "aaja friends sanga football match khelna ekdam fun bhayo. aba hamro next match ko training suru huney cha.",
+        "target": "It was a lot of fun playing a football match with friends today. Now, our training for the next match will start."
+    },
+    {
+        "source": "online course ko assignment submit garna time ekdam kam cha. aba priority set garera kaam complete garna parcha.",
+        "target": "There is very little time to submit the assignment for the online course. Now, I need to set priorities and complete the work."
+    },
+    {
+        "source": "aaja ma office sanga ek new client ko meeting thiyo. aba ma contract ko terms review garna ready chu.",
+        "target": "I had a meeting with a new client at the office today. Now, I am ready to review the terms of the contract."
+    },
+    {
+        "source": "aaja maile naya smartphone kharid gare. usko camera quality ekdam impressive cha.",
+        "target": "Today, I bought a new smartphone. Its camera quality is very impressive."
+    },
+    {
+        "source": "diwali ko bela ghar ko lighting ekdam ramro banaye. sabai guests le compliments diye.",
+        "target": "During Diwali, the lighting at home was made very beautiful. All the guests gave compliments."
+    },
+    {
+        "source": "maile piano sikna ek online class join gareko chu. aba daily practice routine set garna parcha.",
+        "target": "I joined an online class to learn piano. Now, I need to set a daily practice routine."
+    },
+    {
+        "source": "college ka exams aaudai chan, aba ma notes organize garna busy chu.",
+        "target": "The college exams are approaching, so I am busy organizing my notes."
+    },
+    {
+        "source": "picnic ko bela sabai le sports games khelna enjoy gare. maile badminton ko tournament ma participate gare.",
+        "target": "During the picnic, everyone enjoyed playing sports games. I participated in the badminton tournament."
+    },
+    {
+        "source": "office ko presentation ko lagi maile ekdam detailed slides prepare gareko chu. aba rehearsal ma focus garchhu.",
+        "target": "For the office presentation, I have prepared very detailed slides. Now, I will focus on the rehearsal."
+    },
+    {
+        "source": "friend ko wedding ma maile traditional dress lagaye. sabai le usko decoration ekdam beautiful bhanera praise gare.",
+        "target": "At my friend's wedding, I wore a traditional dress. Everyone praised the decoration as very beautiful."
+    },
+    {
+        "source": "maile marathon run complete gare. aba recovery routine ko lagi physiotherapy session start garna parcha.",
+        "target": "I completed the marathon run. Now, I need to start physiotherapy sessions for the recovery routine."
+    },
+    {
+        "source": "online shopping maa maile ek stylish backpack order gare. aba delivery ko lagi tracking details check garna parcha.",
+        "target": "I ordered a stylish backpack through online shopping. Now, I need to check the tracking details for delivery."
+    },
+    {
+        "source": "hamro neighborhood ko clean-up drive ekdam successful thiyo. sabai volunteers le teamwork ko example diye.",
+        "target": "The clean-up drive in our neighborhood was very successful. All the volunteers set an example of teamwork."
+    },
+    {
+        "source": "chhuti ko din ma ma Netflix maa ek series binge-watch gare. aba maile usko review likhne plan gareko chu.",
+        "target": "On my day off, I binge-watched a series on Netflix. Now, I plan to write a review about it."
+    },
+    {
+        "source": "team project ko presentation ekdam smooth thiyo. client le hamro ideas ko praise gare.",
+        "target": "The team project presentation went very smoothly. The client praised our ideas."
+    },
+    {
+        "source": "travel vlog banaunda drone footage ekdam ramro capture bhayo. aba editing process suru garna lageko chu.",
+        "target": "While making the travel vlog, the drone footage was captured very well. Now, I am about to start the editing process."
+    },
+    {
+        "source": "winter season ma hiking ko lagi proper jacket purchase gare. maile usko reviews pani online check gareko thie.",
+        "target": "For the winter season, I purchased a proper jacket for hiking. I had also checked its reviews online."
+    },
+    {
+        "source": "classroom discussion ko bela teacher le critical thinking ko importance bare explain gare.",
+        "target": "During the classroom discussion, the teacher explained the importance of critical thinking."
+    },
+    {
+        "source": "friend le usko naya job ko offer letter receive gare. sabai le celebrate garna ek coffee date plan gare.",
+        "target": "My friend received their new job offer letter. Everyone planned a coffee date to celebrate."
+    },
+    {
+        "source": "coding competition maa first place win gareko achievement ekdam proud feel gareko chu.",
+        "target": "Winning first place in the coding competition is an achievement I feel very proud of."
+    },
+    {
+        "source": "library maa naya study material discover gare. aba maile research ko notes prepare garna focus garchhu.",
+        "target": "I discovered new study material in the library. Now, I will focus on preparing notes for the research."
+    },
+    {
+        "source": "workout session maa trainer le motivation speech diye. aba consistency maintain garna maile schedule ready gareko chu.",
+        "target": "During the workout session, the trainer gave a motivational speech. Now, I have prepared a schedule to maintain consistency."
+    },
+    {
+        "source": "aaja bazaar maa festive decoration items ko dherai collection thiyo. maile lights ra diyas purchase gare.",
+        "target": "Today, there was a large collection of festive decoration items in the market. I purchased lights and diyas."
+    },
+    {
+        "source": "aaja maile ghar ko living room ko setup change gare. usko furniture arrangement ekdam modern lagcha.",
+        "target": "Today, I changed the setup of the living room at home. Its furniture arrangement looks very modern."
+    },
+    {
+        "source": "naya year celebration ko lagi countdown party ma sabai friends sanga jamma bhaisakyo.",
+        "target": "For the New Year celebration, all the friends have already gathered at the countdown party."
+    },
+    {
+        "source": "weekend trip ma maile hiking ko lagi best trail explore gare. aba photo gallery maa sabai memories organize garna parcha.",
+        "target": "On the weekend trip, I explored the best trail for hiking. Now, I need to organize all the memories in the photo gallery."
+    },
+    {
+        "source": "gaming console ko naya update download garna thaleko chu. aba maile naya features test garne sochdaichu.",
+        "target": "I have started downloading the new update for the gaming console. Now, I am thinking of testing the new features."
+    },
+    {
+        "source": "friend ko engagement ceremony maa traditional dress try gare. sabai photos social media maa tag garne plan gareko chu.",
+        "target": "I tried wearing a traditional dress at my friend's engagement ceremony. I plan to tag all the photos on social media."
+    },
+    {
+        "source": "college admission ko process complete garna ekdam paperwork thiyo. aba maile next semester ko classes schedule check gare.",
+        "target": "The process for college admission involved a lot of paperwork. Now, I have checked the schedule for next semester's classes."
+    },
+    {
+        "source": "aaja ma park maa evening walk jane time nikaale. fresh air le ekdam relax feel garayo.",
+        "target": "Today, I took some time out for an evening walk in the park. The fresh air made me feel very relaxed."
+    },
+    {
+        "source": "office project maa deadline meet garna overtime kaam gare. aba final review process ma focus garna parcha.",
+        "target": "To meet the office project deadline, I worked overtime. Now, I need to focus on the final review process."
+    },
+    {
+        "source": "local bazaar maa organic vegetables ko wide variety thiyo. maile health conscious bhanera green veggies purchase gare.",
+        "target": "The local market had a wide variety of organic vegetables. I purchased green veggies for being health-conscious."
+    },
+    {
+        "source": "aaja ma book club ko discussion maa ekdam actively participate gare. maile recommend gareko novel sabai le padne plan gare.",
+        "target": "Today, I actively participated in the book club discussion. Everyone planned to read the novel I recommended."
+    },
+    {
+        "source": "car driving test ko preparation ko lagi maile online simulator use gare. aba practical test ko confidence barhyo.",
+        "target": "I used an online simulator to prepare for the car driving test. Now, my confidence for the practical test has increased."
+    },
+    {
+        "source": "family trip ko photos print garera album banaye. aba memories preserve garna easy huncha.",
+        "target": "I printed photos from the family trip and made an album. Now, it will be easy to preserve memories."
+    },
+    {
+        "source": "coding practice maa maile ekdam complex problem solve gare. aba ma GitHub maa repository update garne sochdaichu.",
+        "target": "During coding practice, I solved a very complex problem. Now, I am thinking of updating the repository on GitHub."
+    },
+    {
+        "source": "cricket match ko highlight video edit garna maile ekdam professional tools use gare.",
+        "target": "To edit the cricket match's highlight video, I used very professional tools."
+    },
+    {
+        "source": "friend ko surprise birthday party ko planning ekdam smoothly garyo. sabai guests le decorations ko praise gare.",
+        "target": "Planning for my friend's surprise birthday party went very smoothly. All the guests praised the decorations."
+    },
+    {
+        "source": "maile usko startup presentation ko design PowerPoint maa create gare. aba team feedback lincha.",
+        "target": "I created the design for their startup presentation in PowerPoint. Now, the team will give feedback."
+    },
+    {
+        "source": "aaja ma coffee shop maa ekdam unique menu items explore gare. maile signature latte try gare.",
+        "target": "Today, I explored some very unique menu items at the coffee shop. I tried their signature latte."
+    },
+    {
+        "source": "camping trip ko photos edit garna time lagyo, tara final output ekdam beautiful lagcha.",
+        "target": "It took time to edit the camping trip photos, but the final output looks very beautiful."
+    },
+    {
+        "source": "online job portal maa naya vacancies check gare. aba CV update garna parcha.",
+        "target": "I checked new vacancies on the online job portal. Now, I need to update my CV."
+    },
+    {
+        "source": "music playlist maa naya trending songs add gare. aba maile road trip ko lagi playlist ready gareko chu.",
+        "target": "I added new trending songs to my music playlist. Now, I have prepared the playlist for the road trip."
+    },
+    {
+        "source": "aaja maile online course ko first module complete gare. aba second module ko preparation garne sochdaichu.",
+        "target": "Today, I completed the first module of the online course. Now, I am thinking of preparing for the second module."
+    },
+    {
+        "source": "aaja maile smart home devices install gare. home automation system le life ekdam easy banaune cha.",
+        "target": "Today, I installed smart home devices. The home automation system will make life much easier."
+    },
+    {
+        "source": "family outing maa sabai le ekdam enjoy gare. hami le nature walk garera photo session pani gare.",
+        "target": "During the family outing, everyone enjoyed a lot. We did a nature walk and also had a photo session."
+    },
+    {
+        "source": "maile digital calendar ko use garna suru gare. aba schedule ko management ekdam efficient bhayo.",
+        "target": "I started using a digital calendar. Now, managing my schedule has become much more efficient."
+    },
+    {
+        "source": "aaja maile office ko meeting presentation ko preparation garne kaam complete gare. aba feedback liye pachi final version banaune cha.",
+        "target": "Today, I completed the work for preparing the presentation for the office meeting. After getting feedback, I will make the final version."
+    },
+    {
+        "source": "travel guide ko suggestion anusar maile city tour book gare. hami le historical places visit garne cha.",
+        "target": "Following the travel guide's suggestion, I booked a city tour. We will visit historical places."
+    },
+    {
+        "source": "aaja maile virtual assistant ko setup complete gare. home tasks automation garna ekdam helpful hunchha.",
+        "target": "Today, I completed the setup of the virtual assistant. It will be very helpful for automating home tasks."
+    },
+    {
+        "source": "teamwork ko bela office maa brainstorming session garne plan gare. sabai ideas share garera next project ko strategy finalize garne cha.",
+        "target": "During the teamwork, we planned to have a brainstorming session at the office. We will share all ideas and finalize the strategy for the next project."
+    },
+    {
+        "source": "aaja maile naya restaurant ko review online padhe. food ko quality ra ambience ko barema sabai le positive feedback diye.",
+        "target": "Today, I read the review of a new restaurant online. Everyone gave positive feedback about the food quality and ambiance."
+    },
+    {
+        "source": "weekend maa maile local park ko jogging track explore gare. ekdam peaceful environment thiyo.",
+        "target": "On the weekend, I explored the jogging track in the local park. It was a very peaceful environment."
+    },
+    {
+        "source": "aaja maile music concert ticket online purchase gare. performance ko excitement ekdam high cha.",
+        "target": "Today, I purchased a ticket for a music concert online. The excitement for the performance is very high."
+    },
+    {
+        "source": "maile ek blog post likhne sochdaichu. topic 'sustainable living' ko barema research gareko chu.",
+        "target": "I am thinking of writing a blog post. I have researched the topic 'sustainable living.'"
+    },
+    {
+        "source": "aaja maile friend sanga movie theatre maa action film dekhe. film ko direction ra cinematography ekdam impressive thiyo.",
+        "target": "Today, I watched an action film at the movie theatre with my friend. The direction and cinematography of the film were very impressive."
+    },
+    {
+        "source": "maile photography skills improve garna online tutorial follow gare. maile new camera features ko barema sikhe.",
+        "target": "I followed an online tutorial to improve my photography skills. I learned about the new features of my camera."
+    },
+    {
+        "source": "office maa presentation ko time maa client ko questions ko answer garne kaam thiyo. aba proposal ko final draft finalize garne cha.",
+        "target": "During the office presentation, I had to answer the client's questions. Now, I will finalize the final draft of the proposal."
+    },
+    {
+        "source": "aaja maile social media platform maa live session start gare. audience ko response ekdam positive thiyo.",
+        "target": "Today, I started a live session on a social media platform. The response from the audience was very positive."
+    },
+    {
+        "source": "maile yoga class ko subscription renew gare. practice ko consistency maintain garna maile ek schedule banaune sochdaichu.",
+        "target": "I renewed my subscription for the yoga class. To maintain consistency in my practice, I am thinking of making a schedule."
+    },
+    {
+        "source": "aaja maile podcast ko episode record gare. topic ko barema dherai interesting discussions bhayo.",
+        "target": "Today, I recorded an episode for my podcast. There were many interesting discussions about the topic."
+    },
+    {
+        "source": "group project ko task distribution kaam smooth garne plan gare. sabai team members ko strengths utilize garna focus gare.",
+        "target": "I planned the task distribution for the group project. The focus was to utilize all the team members' strengths."
+    },
+    {
+        "source": "aaja maile meditation practice suru gare. mind ko relaxation ko lagi daily session rakhne sochdaichu.",
+        "target": "Today, I started practicing meditation. I am thinking of having a daily session for relaxation of my mind."
+    },
+    {
+        "source": "aaja office maa virtual conference attend gare. different industry experts le presentations diye.",
+        "target": "Today, I attended a virtual conference at the office. Different industry experts gave presentations."
+    }
+]

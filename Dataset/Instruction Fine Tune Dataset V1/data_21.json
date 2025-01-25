@@ -1,0 +1,902 @@
+[
+    {
+        "instruction": "Himal ko bare ma lekhnu.",
+        "input": "",
+        "output": "Himal Nepal ko gaurav ho. Yo parbatko desh ho ra yo sansarma uchcha parbat haru ko ghar ho."
+    },
+    {
+        "instruction": "Nepali khana kasari banaune sikaunu.",
+        "input": "Daal bhat tarkari",
+        "output": "Daal banuna mas ko daal lai paani ma umaalnu, bhat pakaauna chaamal safaa gare pachhi paani ma rakhera pakaaune, ra tarkari ma alu ra saag miss gari tarkari banaaune."
+    },
+    {
+        "instruction": "Ghumna jana ko lagi Nepal ka ramro thaun haru lekhnu.",
+        "input": "",
+        "output": "Pokhara, Kathmandu, Chitwan, Lumbini, Everest Base Camp, Mustang."
+    },
+    {
+        "instruction": "English bata Nepali ma anuvad garna.",
+        "input": "How are you?",
+        "output": "Timi lai kasto cha?"
+    },
+    {
+        "instruction": "Nepali geet ko ek line lekhnu.",
+        "input": "",
+        "output": "Resham firiri, resham firiri, uda uda jaane resham firiri."
+    },
+    {
+        "instruction": "Nepal ko rajnaitik vyavastha ko bare ma lekhnu.",
+        "input": "",
+        "output": "Nepal ek sanghiya loktantrik ganatantra ho, jasle 2008 ma raja tantra ko antim ghosana gari naya samvidhan anusaar chalaudai cha."
+    },
+    {
+        "instruction": "Timi ko ghar ko bare ma bataunu.",
+        "input": "",
+        "output": "Mero ghar Kathmandu ma cha. Yo ek sano, ramro ghar ho ra yahaa mero pariwaar bascha."
+    },
+    {
+        "instruction": "Nepal ko itihaas ko bare ma chhoto ma lekhnu.",
+        "input": "",
+        "output": "Nepal ko itihaas malla rajya, shah bamsa, ra loktantrik andolan haru le bharipurna cha."
+    },
+    {
+        "instruction": "Ekdam ramro Nepali mithai ko naam lekhnu.",
+        "input": "",
+        "output": "Lalmohan, Rasbari, Yomari, Sel Roti."
+    },
+    {
+        "instruction": "Pani puri kasari banauchha?",
+        "input": "",
+        "output": "Pani puri ko lagi alulai masala miss garera gol gappa bhitra rakhera teeto paani ko sang khaane gari banauchha."
+    },
+    {
+        "instruction": "Himal ko mahattwa bare lekhnu.",
+        "input": "",
+        "output": "Himal Nepal ko sanskriti, paryatan, ra jalshrot ko mool aadhaar ho. Yo hami sabai ko gaurav ko chihn ho."
+    },
+    {
+        "instruction": "Nepali sahitya ko ek jana prasiddha lekhak ko naam ra unko karya lekhnu.",
+        "input": "",
+        "output": "Laxmi Prasad Devkota ek jana prasiddha lekhak hun. Unko prasiddha mahakabya 'Muna Madan' ho."
+    },
+    {
+        "instruction": "Khaja banaune ek sajilo tarika bataunu.",
+        "input": "",
+        "output": "Anda fry garera chaamal ko bhat sang khaja ko lagi sajilo ra swadilo upaaya ho."
+    },
+    {
+        "instruction": "Nepal ma manine ek chhuti ko bare ma lekhnu.",
+        "input": "",
+        "output": "Dashain Nepal ko sabai bhanda thulo chhuti ho. Yo parva durga mata ko puja ra aashirbad ko rupma manincha."
+    },
+    {
+        "instruction": "Nepal ka kuch prasiddha taal haru ko naam lekhnu.",
+        "input": "",
+        "output": "Fewa Taal, Rara Taal, Begnas Taal, Gosaikunda Taal, Tilicho Taal."
+    },
+    {
+        "instruction": "Nepal ko raajdhani ko bare ma jankari dinu.",
+        "input": "",
+        "output": "Kathmandu Nepal ko raajdhani ho. Yo prasiddha mandir haru, jasto ki Pashupatinath ra Swayambhunath, le bharipurna sahar ho."
+    },
+    {
+        "instruction": "Nepali bhasha ko vikas kasari bhayo?",
+        "input": "",
+        "output": "Nepali bhasha ko vikas shah bamsa ka raja haru le ra gorkhali sena le sambidhan ma dherai prayog garna ko karan bhayo."
+    },
+    {
+        "instruction": "Yatra ko lagi Nepal ma kun mausam sabai bhanda ramro ho?",
+        "input": "",
+        "output": "Basanta (March-April) ra Sharad (October-November) Nepal yatra ko lagi sabai bhanda ramro mausam ho."
+    },
+    {
+        "instruction": "Nepali sanskriti ma bihana uthne samaya kasto huncha?",
+        "input": "",
+        "output": "Nepali sanskriti anusar, bihana chhito uthne, arghya dina, ra puja garnu ramro manincha."
+    },
+    {
+        "instruction": "Nepali lok geet ko udaharan dinu.",
+        "input": "",
+        "output": "Resham Firiri, Sorathi, Dohori, ra Tamang Selo Nepali lok geet ka udaharan hun."
+    },
+    {
+        "instruction": "Nepali jana ko dharmik biswas ko bare ma lekhnu.",
+        "input": "",
+        "output": "Nepali jana Hindu, Bauddha, ra kirat dharma ma biswas garne janajati hun. Sabai dharma ma shanti ra samanta ko adhar ma jeewan jeewancha."
+    },
+    {
+        "instruction": "Nepali paryatan le desh lai kasari samriddha banauncha?",
+        "input": "",
+        "output": "Paryatan le arthik samriddhi, sanskritik sanrakshan, ra rojgariko nirman garna sahayog garcha."
+    },
+    {
+        "instruction": "Ek ramro Nepali kahani ko shuruwaat lekhaun.",
+        "input": "",
+        "output": "Ek samaya ko kura ho, ek sano gaun ma ek imanedar kisan basthyo. Usle afno mehnat ra imaandaari le gaun ka sabai manis ko man jitna safal bhayo."
+    },
+    {
+        "instruction": "Nepali topi ko mahatwo lekhnu.",
+        "input": "",
+        "output": "Nepali topi hamro rashtriya pahichan ho. Yo Dashain, Tihar, ra anya parva haru ma lagaune gari anivarya chhaya jasto lagcha."
+    },
+    {
+        "instruction": "Nepali kheladi haru ko ek udaharan dinu.",
+        "input": "",
+        "output": "Sandeep Lamichhane ek jana prasiddha Nepali cricket kheladi hun, jo ICC le manyata prapt Nepali kheladi ko roop ma prasiddha chhan."
+    },
+    {
+        "instruction": "Nepali pariwaar ma budha-budhaiko mahatwa bare lekhnu.",
+        "input": "",
+        "output": "Nepali pariwaarma budha-budhaiko mahatwa ati nai chha. Uniharuko anubhav ra asirbad le pariwaar ekata ma rahanchha."
+    },
+    {
+        "instruction": "Pahad ra Tarai ko bhinnata bare lekhnu.",
+        "input": "",
+        "output": "Pahad thado ra thanda huncha, jaba ki Tarai samatal ra garmi huncha. Pahad ma khas ra sherpa jatiko basai chha, ra Tarai ma madhesi ra tharu jatiko basai chha."
+    },
+    {
+        "instruction": "Nepali samajik sanjal haru ko udaharan dinu.",
+        "input": "",
+        "output": "Nepali samajik sanjal haruma Facebook, Instagram, TikTok, ra Twitter prasiddha chhan."
+    },
+    {
+        "instruction": "Nepali sabdakosh ko prayojan bare lekhnu.",
+        "input": "",
+        "output": "Nepali sabdakosh le tika-tippani ko lagi sahayog garcha, arth samajhna, ra bhasha ko gyan badhauna upyogi chha."
+    },
+    {
+        "instruction": "Nepali thakali khana kasari pakaaune?",
+        "input": "",
+        "output": "Thakali khana ko lagi bhat, daal, gundruk ko achar, masu ra saag miss garera pakaaune garnu parchha."
+    },
+    {
+        "instruction": "Nepali itihaas ko ek prasiddha ghatana bare lekhnu.",
+        "input": "",
+        "output": "Prithvi Narayan Shah le Nepal ekikaran gariyo, jasma thaun thaun ka chhoto rajya harulai ek samyukta desh banaiyo."
+    },
+    {
+        "instruction": "Nepali chaad parva haruko mahatwa bare lekhnu.",
+        "input": "",
+        "output": "Nepali chaad parva haru, jasto ki Dashain, Tihar, ra Teej le sanskritik ekata ra samajik samriddhi ko sandesh dinchha."
+    },
+    {
+        "instruction": "Kathmandu Upatyaka ko sanskritik mahatwa bare lekhnu.",
+        "input": "",
+        "output": "Kathmandu Upatyaka UNESCO World Heritage Site ho. Yahaa Pashupatinath, Swayambhunath, ra Durbar Square haru chhan."
+    },
+    {
+        "instruction": "Nepali balbalika ko sikai kasari sudhar garna sakincha?",
+        "input": "",
+        "output": "Nepali balbalika ko sikai sudhar garna quality sikshya, digital tools ko upayog, ra abaashik shivira haru awashyak chha."
+    },
+    {
+        "instruction": "Nepali sanskriti ko ek udaharan dinu.",
+        "input": "",
+        "output": "Nepali sanskriti ko udaharan Swasthani puja, jasma pariwaar sanga basera Swasthani katha sunincha."
+    },
+    {
+        "instruction": "Nepal ma manaiyeko Tihar ko mahatwa bare lekhnu.",
+        "input": "",
+        "output": "Tihar Nepali parva ho, jasle diyoko prakash, kukur, gai, ra bhaai ko puja garera prem ra ekata ko sandesh dinchha."
+    },
+    {
+        "instruction": "Nepali khetipati ma prayog hune purano aujar ko naam dinu.",
+        "input": "",
+        "output": "Halo, Juwa, Kodalo, Doko, ra Nanglo purano khetipati ka aujar hun."
+    },
+    {
+        "instruction": "Nepal ko prashiddha mandir haruko naam lekhnu.",
+        "input": "",
+        "output": "Pashupatinath Mandir, Manakamana Mandir, Swayambhunath, ra Muktinath Mandir prashiddha mandir haru hun."
+    },
+    {
+        "instruction": "Nepali ra angreji bhasha ko antar lekhnu.",
+        "input": "",
+        "output": "Nepali bhasha Devanagari lipi ma lekhincha ra vibhakti anusar badalcha. Angreji bhasha Latin lipi ma lekhincha ra sabda ka krama ma niyam chha."
+    },
+    {
+        "instruction": "Nepal ko arthik samriddhi ko lagi ke garnu parcha?",
+        "input": "",
+        "output": "Paryatan ko bikash, krishi sudhar, shikshya ra rojgari ko nirman le Nepal ko arthik samriddhi sambhab chha."
+    },
+    {
+        "instruction": "Nepali balbalika ko manobal kasari badhaune?",
+        "input": "",
+        "output": "Balbalika lai utsah dina, uniharuko samasya sunnu, ra uniharuko safalta ko prashansa garnu parcha."
+    },
+    {
+        "instruction": "Nepal ma banne mohi ko upayog bare lekhnu.",
+        "input": "",
+        "output": "Mohi Nepal ma sharir chiso rakhna, pet bharnu ra gundruk ko achar sang khana upayogi huncha."
+    },
+    {
+        "instruction": "Nepal ko prashiddha pahad haru ko naam dinu.",
+        "input": "",
+        "output": "Sagarmatha, Annapurna, Machhapuchhre, ra Dhaulagiri Nepal ka prashiddha pahad haru hun."
+    },
+    {
+        "instruction": "Nepali lok katha ko ek udaharan lekhnu.",
+        "input": "",
+        "output": "Ek jana kisan le ek din afno baari ma ek maneko dhunga bhetiyo, junle usko jindagi nai badal diyo."
+    },
+    {
+        "instruction": "Nepali janajatiko ek udaharan ra unko sanskriti bare lekhnu.",
+        "input": "",
+        "output": "Sherpa janajati Himal kshetra ma baschha. Unko sanskriti ma Buddha dharma ko mahatwa, mani padne, ra chhorten banaune parampara chha."
+    },
+    {
+        "instruction": "Nepal ma kasari bijuli utpadan garincha?",
+        "input": "",
+        "output": "Nepal ma bijuli pramukh rupma jalshrot bata utpadan garincha. Jasta ki, Kaligandaki ra Marsyangdi jalbidhyut yojana."
+    },
+    {
+        "instruction": "Nepal ko prashiddha nadiharu ko naam lekhnu.",
+        "input": "",
+        "output": "Koshi, Gandaki, Karnali, Bagmati, ra Rapti Nepal ko prashiddha nadiharu hun."
+    },
+    {
+        "instruction": "Nepali sanskriti ma tika ra mala ko mahatwa bare lekhnu.",
+        "input": "",
+        "output": "Tika ra mala Nepali sanskriti ma samarpan, asirbad, ra prem ko pratik ho. Yo parva haru ma prayog huncha."
+    },
+    {
+        "instruction": "Ek prasiddha Nepali khel ko naam ra usko niyam lekhnu.",
+        "input": "",
+        "output": "Dandi Biyo ek prasiddha Nepali khel ho. Ek dande ra ek biyo ko sahayata le yo khel khelincha, ra biyo lai dande le maaraune garincha."
+    },
+    {
+        "instruction": "Nepal ma prayog hune dharmik pustakharu ko naam dinu.",
+        "input": "",
+        "output": "Nepal ma Bhagavad Gita, Ramayan, Mahabharat, ra Tripitaka jasta dharmik pustakharu prayog hun."
+    },
+    {
+        "instruction": "Nepali mohitokri kasari tayar garincha?",
+        "input": "",
+        "output": "Mohitokri banuna dahi ra mohi ko miss garera, mitho masala jodaune ra tarkari sang serve garincha."
+    },
+    {
+        "instruction": "Nepali bhasha ma lekhan ko mahatwa bare lekhnu.",
+        "input": "",
+        "output": "Nepali bhasha ma lekhan le hami ko sanskriti, itihaas, ra sahitya lai sambalna madat garcha. Yo bhav-prakash ko madhyam ho."
+    },
+    {
+        "instruction": "Nepali lok sanskriti ma pariwartan kasari airaheko cha?",
+        "input": "",
+        "output": "Nepali lok sanskriti ma pariwartan shaharikaran, prabidhi, ra pashchatya sanskriti ko prabhav le airaheko chha."
+    },
+    {
+        "instruction": "Nepal ko chhaad haru ma prayog hune kapada ko naam lekhnu.",
+        "input": "",
+        "output": "Dashain ra Tihar ma daura suruwal, gunyo cholo, ra dhoti kurta jasto kapada prayog huncha."
+    },
+    {
+        "instruction": "Nepali janajati haru le kasari parva manauchha?",
+        "input": "",
+        "output": "Janajati haru le afno paramparagat nach, geet, ra puja garera parva manauchhan. Jasto ki Tamang le Lhosar manauchhan ra Tharu le Maghi manauchhan."
+    },
+    {
+        "instruction": "Nepali khetipati ko abaashyak aujar haru ko bare ma lekhnu.",
+        "input": "",
+        "output": "Nepali khetipati ma halo, juwa, kodalo, doko, ra nanglo jasto aujar haru prayog huncha."
+    },
+    {
+        "instruction": "Nepali bhasha ma prashiddha kavi ko naam dinu.",
+        "input": "",
+        "output": "Nepali bhasha ma prashiddha kavi Laxmi Prasad Devkota, Lekhnath Poudyal, ra Bhupi Sherchan hun."
+    },
+    {
+        "instruction": "Nepal ko arthik sthiti sudharna ko upaya lekhnu.",
+        "input": "",
+        "output": "Nepal ko arthik sthiti sudharna paryatan bikas, krishi sudhar, ra udyog sthapna garna parcha."
+    },
+    {
+        "instruction": "Nepali karyalaya ma prayog hune lekhanka aujar ko naam dinu.",
+        "input": "",
+        "output": "Karyalaya ma computer, printer, stapler, file folder, ra calculator ko upayog garincha."
+    },
+    {
+        "instruction": "Nepali school ma siksha ko gunasta kasari sudhar garna sakincha?",
+        "input": "",
+        "output": "Digital sikai, sikshyak talim, ra vidyarthi ko aacharak ramro banaera siksha ko gunasta sudhar garna sakincha."
+    },
+    {
+        "instruction": "Nepali dharmik parva ma ghoomphir ko pratha ko bare ma lekhnu.",
+        "input": "",
+        "output": "Nepali dharmik parva ma ghoomphir, jasto ki Muktinath ya Pashupatinath jane pratha, aadhyatmik shuddhiko nimti mahattwapurna chha."
+    },
+    {
+        "instruction": "Nepali bal geet ko ek udaharan dinu.",
+        "input": "",
+        "output": "Bal geet ko udaharan ho: 'Machha Marna Jaaula, Boksi Bhyaguto Laaula.'"
+    },
+    {
+        "instruction": "Nepal ma prayog hune upayogi jadibuti ko naam lekhnu.",
+        "input": "",
+        "output": "Yarsa Gumba, Satuwa, Chiraito, ra Bojho Nepal ma upayogi jadibuti hun."
+    },
+    {
+        "instruction": "Nepali lok bhasha ma ek prashiddha kahani ko naam lekhnu.",
+        "input": "",
+        "output": "Nepali lok bhasha ma 'Bhedako oon Jasto' ek prashiddha kahani ho."
+    },
+    {
+        "instruction": "Nepal ma manaiyeko ek prasiddha Nach ko naam ra usko mahatwa lekhnu.",
+        "input": "",
+        "output": "Lakhe Nach Kathmandu ma prasiddha ho, jun Indra Jatra ko samay ma manaiincha. Yo nach le rakshya ra shakti ko pratik darshauchha."
+    },
+    {
+        "instruction": "Nepali khetima bali kasari lagaincha?",
+        "input": "",
+        "output": "Nepali khetima bali lageko manchheharu ko mehnat, halo-joti, ra paani ko prayog bata sambhab huncha."
+    },
+    {
+        "instruction": "Nepali parva ma kukur ko puja kasari garincha?",
+        "input": "",
+        "output": "Tihar ma Kukur Tihar manaiincha, jas ma kukur ko maala lagai, tika garera, ra mitho khana khuwaera puja garincha."
+    },
+    {
+        "instruction": "Nepali shiksha pranali ma e-learning ko bhumika bare lekhnu.",
+        "input": "",
+        "output": "E-learning le Nepali shiksha pranali ma digitization garna sahayog garcha, vidyarthilai anyako biswako gyan samman garna samartha banauchha."
+    },
+    {
+        "instruction": "Nepali lok geet le samudaya ma kasto prabhav pareko chha?",
+        "input": "",
+        "output": "Nepali lok geet le samudaya ma ekata, sanskritik gyan, ra manoranjan pradan gareko chha. Yo pariwaar ra samudaya ekikaran ko madhyam ho."
+    },
+    {
+        "instruction": "Nepali sanskriti ma mitho chhaad (sweets) ko mahatwa bare lekhnu.",
+        "input": "",
+        "output": "Mithai jasto ki laddu, peda, ra sel roti Nepali parva ma sambandha mazboot banaucha ra asirbad ko pratik ho."
+    },
+    {
+        "instruction": "Nepali gaun ma basne manchhe ko jeevan shaili bare lekhnu.",
+        "input": "",
+        "output": "Nepali gaun ma basne manchhe simple jeevan jeeunchhan, krishi garna, chara palna ra samajik sambandha mazboot banai baschhan."
+    },
+    {
+        "instruction": "Nepali Himal chhetra ma basne janajati ko ek udaharan ra unko parampara lekhnu.",
+        "input": "",
+        "output": "Sherpa janajati Himal chhetra ma baschha. Unko parampara ma Buddha dharma, chhorten banaune ra himal charne sanskriti sammalit chha."
+    },
+    {
+        "instruction": "Nepali bhasha ko samrakshan kasari garna sakincha?",
+        "input": "",
+        "output": "Nepali bhasha ko samrakshan ko lagi shiksha ma prayog, lok geet ko sanrakshan, ra digital content ma Nepali prayog badhauna parcha."
+    },
+    {
+        "instruction": "Nepali Himalay ma paryatan le kasari arthik sudhar lyauchha?",
+        "input": "",
+        "output": "Nepali Himalay ma paryatan le hotel, guide, ra yatra sambandhi karyalaya ko rojgariko awasar badhaune kaam garcha."
+    },
+    {
+        "instruction": "Nepali samajik ekta badhauna ke garnu parcha?",
+        "input": "",
+        "output": "Nepali samajik ekta ko lagi sabai jat ra dharma lai sammana garna, samajik karyakram badhauna, ra vyakti ma sambandha majbooti banauna parcha."
+    },
+    {
+        "instruction": "Nepali rastra ko ek mahatwapurna samjhauta bare lekhnu.",
+        "input": "",
+        "output": "Sugauli Sandhi ek mahatwapurna samjhauta ho, jasma Nepal le afno thulo bhagko bhubhag bitnu parcha thiyo."
+    },
+    {
+        "instruction": "Nepali balbalika ma shiksha ko mahatwa bare lekhnu.",
+        "input": "",
+        "output": "Nepali balbalika ko lagi shiksha jindagi ko mul aadhar ho, junle gyan, sanskar, ra self-dependency sikhauchha."
+    },
+    {
+        "instruction": "Nepali gaunghar ma prashiddha khel ko naam dinu.",
+        "input": "",
+        "output": "Chungi, Dandi Biyo, ra Kabbadi Nepali gaunghar ma prashiddha khel haru hun."
+    },
+    {
+        "instruction": "Nepali prashiddha taal haru ma ke garna sakincha?",
+        "input": "",
+        "output": "Fewa Taal ma boat ride garna, Rara Taal ma paryatan garna, ra Tilicho Taal ko himal drishya herna sakincha."
+    },
+    {
+        "instruction": "Nepal ko praachin itihaas ko ek udaharan lekhnu.",
+        "input": "",
+        "output": "Praachin Nepal ma Lichchhavi kal ma Mandir nirmaan, dharmik punarjagaran ra shilalekh ko samriddhi thiyo."
+    },
+    {
+        "instruction": "Nepali jagat ma prasiddha ek jana khiladi ko naam ra unko yogdan lekhnu.",
+        "input": "",
+        "output": "Sandeep Lamichhane Nepali cricket team ka prasiddha khiladi hun, junle Nepal lai antarashtriya cricket ma prashiddhi dilaye."
+    },
+    {
+        "instruction": "Nepali paryatan kshetra ma aaja kalako chunauti bare lekhnu.",
+        "input": "",
+        "output": "Nepali paryatan kshetra ma jalanjot, prachuran sambhawana ko abhav, ra covid-19 le prabhavit gareko chunauti chha."
+    },
+    {
+        "instruction": "Nepali lok geet le sanskriti ko bare ma k ke prastut garcha?",
+        "input": "",
+        "output": "Nepali lok geet le hami ko samajik sanskriti, prem, pariwaar ko sambandha ra itihaas lai prastut garcha."
+    },
+    {
+        "instruction": "Nepali paryatan ko bikash kasari garna sakincha?",
+        "input": "",
+        "output": "Nepali paryatan bikash ko lagi naya sadak banaune, hotel ko suvidha badhaune, ra antarashtriya campaign suru garna parcha."
+    },
+    {
+        "instruction": "Nepali thulo mandir haru ko naam ra thau lekhnu.",
+        "input": "",
+        "output": "Pashupatinath Mandir (Kathmandu), Muktinath Mandir (Mustang), Manakamana Mandir (Gorkha), ra Janaki Mandir (Janakpur) thulo mandir haru hun."
+    },
+    {
+        "instruction": "Nepali parva haru ma najikai puraiyekopari kin asirbad linu parcha?",
+        "input": "",
+        "output": "Nepali parva haru ma najikai puraiyekopari asirbad liyera manawik sambandha mazboot banaucha ra paramparagat sanskar ko samman huncha."
+    },
+    {
+        "instruction": "Nepali janajati haru ko paramparagat geet haru ko udaharan lekhnu.",
+        "input": "",
+        "output": "Gurung haru ko Rodhi geet, Magar haru ko Sorathi geet, ra Tamang haru ko Tamang Selo prasiddha geet haru hun."
+    },
+    {
+        "instruction": "Nepal ma sanrakshan garna parne ek jaibik bibidhata ko udaharan lekhnu.",
+        "input": "",
+        "output": "Nepal ma Red Panda, Snow Leopard, ra Gharial sanrakshan garna parne jaibik bibidhata ka udaharan hun."
+    },
+    {
+        "instruction": "Nepali lok geet ko pramukh bisay haru bare lekhnu.",
+        "input": "",
+        "output": "Nepali lok geet ma prem, prakriti, krishi, ra samajik sambandha ka bisayharu sambodhit huncha."
+    },
+    {
+        "instruction": "Nepal ma barsha ritu ko mahattwa bare lekhnu.",
+        "input": "",
+        "output": "Barsha ritu Nepal ko krishi ko lagi atyanta mahatwapurna ho, kinabhane yo samay ma khetipati garna ramro huncha."
+    },
+    {
+        "instruction": "Nepali rajnitik paribartan ma ek pramukh ghatna ko udaharan dinu.",
+        "input": "",
+        "output": "Nepali rajnitik paribartan ma 2007 sal ko Prajatantra ko sthapana ek pramukh ghatna ho."
+    },
+    {
+        "instruction": "Nepali Himal ma padhne yaatra ko laagi tayari kasari garincha?",
+        "input": "",
+        "output": "Nepali Himal ko yaatra ma ramro kapada, jadibuti, pahadi bato ko jankari, ra local guide ko sahayata liyera tayari garincha."
+    },
+    {
+        "instruction": "Nepali bhasha ma ek ramailo katha ko naam ra tyo katha ko saar lekhnu.",
+        "input": "",
+        "output": "'Jhilmilko Sathi' ek ramailo katha ho, jasle mitrata ra sahayog ko mulya sikhauchha."
+    },
+    {
+        "instruction": "Nepali balbalika haru ma sikai kasari badhauna sakincha?",
+        "input": "",
+        "output": "Khel-kud ko madhyam, digital tools, ra prashnottar ko prayog bata Nepali balbalika ma sikai badhauna sakincha."
+    },
+    {
+        "instruction": "Nepali lok sanskriti ko ek udaharan ra tyo sanskriti ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Ghatu nach ek udaharan ho, jun lok sanskriti ma paramparagat naach ra geet ko samyojan garcha, ra sanskritik pehchaan banauchha."
+    },
+    {
+        "instruction": "Nepali krishi ma prayog hune ek modern technique ko bare lekhnu.",
+        "input": "",
+        "output": "Drip irrigation ek modern technique ho, junle paani ko durupyog roki khetipati ko utpadan badhaunchha."
+    },
+    {
+        "instruction": "Nepali bal geet haru ko bisheshata lekhnu.",
+        "input": "",
+        "output": "Nepali bal geet haru sajilo bhasha ma hunchha, shikshya ra manoranjan ko samyojan garcha, ra sanskritik sandesh dincha."
+    },
+    {
+        "instruction": "Nepali gaun ma prayog hune ek aadhunik tool lekhnu.",
+        "input": "",
+        "output": "Power tiller Nepali gaun ma prayog hune ek aadhunik tool ho, junle khetipati ma samay ra shram ko bachat garcha."
+    },
+    {
+        "instruction": "Nepal ma tibbat sangko byaapar kasari huncha?",
+        "input": "",
+        "output": "Nepal ma tibbat sang dukaan ko maal, jadibuti, ra pashmina jasta samagri ko byaapar pariwahan dwar garincha."
+    },
+    {
+        "instruction": "Nepali jana ra samaj ma tika ko prayog bare lekhnu.",
+        "input": "",
+        "output": "Nepali jana ra samaj ma tika ko prayog shubha asirbad ko roop ma huncha, parva, puja, ra sanskar ma yo mahatwapurna chha."
+    },
+    {
+        "instruction": "Nepali Himal ma prashiddha ek parvat ko naam lekhnu.",
+        "input": "",
+        "output": "Sagarmatha (Everest) Nepali Himal ma prashiddha parvat ho, jun biswako sabai bhanda uncha himal ho."
+    },
+    {
+        "instruction": "Nepali shahar ma rahar ko karyakramharu ko udaharan lekhnu.",
+        "input": "",
+        "output": "Nepali shahar ma Food Festival, Craft Mela, ra Music Concert jasta rahar ka karyakramharu garincha."
+    },
+    {
+        "instruction": "Nepali itihas ma ek prasiddha vyakti ra unko yogdan lekhnu.",
+        "input": "",
+        "output": "Prithvi Narayan Shah Nepali itihas ma prasiddha vyakti hun, junle Nepal ko ekikaran garna mahattwapurna bhumika khele."
+    },
+    {
+        "instruction": "Nepali samudaya ma samajik sadbhawana kasari badhauna sakincha?",
+        "input": "",
+        "output": "Samudaya karyakram, antar-dharma sammelan, ra sikshya madhyam bata samajik sadbhawana badhauna sakincha."
+    },
+    {
+        "instruction": "Nepali Himal chhetra ko ek prasiddha taal ko naam ra usko visheshta lekhnu.",
+        "input": "",
+        "output": "Tilicho Taal Nepali Himal chhetra ko ek prasiddha taal ho, jun biswako sabai bhanda unchai ma avasthit taal ho."
+    },
+    {
+        "instruction": "Nepali khetipati ko lagi manaiyeko ek parva ko naam ra usko mahatwa lekhnu.",
+        "input": "",
+        "output": "Asar 15 (Ropain Jatra) kisanharu ko parva ho, junle khetipati suru garne abasar ko rup ma manaiincha."
+    },
+    {
+        "instruction": "Nepali balbalika lai sikshya ma sahayak huney ek digital tool ko naam ra usko prayog lekhnu.",
+        "input": "",
+        "output": "E-Paath Nepali balbalika ko lagi ek digital tool ho, junle sikshya materials lai interactive banaunchha."
+    },
+    {
+        "instruction": "Nepali parvatiya kshetra ma basne ek janajati ra unko jeevan shaili lekhnu.",
+        "input": "",
+        "output": "Gurung janajati Nepali parvatiya kshetra ma baschhan, unko jeevan shaili krishi, pashupalan, ra ghumi-ghumi karyarath basai ma adharit chha."
+    },
+    {
+        "instruction": "Nepali dharmik sthalamadhye ek ko naam ra usko mahatwa lekhnu.",
+        "input": "",
+        "output": "Muktinath Mandir Nepali dharmik sthalamadhye ek ho, jun Hindu ra Buddhist dharma ka anuyayi ko lagi pavitra thau ho."
+    },
+    {
+        "instruction": "Nepali lok git le Nepali sanskriti ma kasto yogdan dincha?",
+        "input": "",
+        "output": "Nepali lok git le sanskritik pehchaan pradan garcha, samajik sambandha badhaunchha, ra purano parampara lai samrakshan garcha."
+    },
+    {
+        "instruction": "Nepali khadya samskriti ko ek udaharan ra tyo dish ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Dal Bhat Tarkari Nepali khadya samskriti ko ek mahatwapurna dish ho, jun dinbhar ko urja ko mukhya srot ho."
+    },
+    {
+        "instruction": "Nepali thulo bhukampa ko ek udaharan ra tyo le prabhavit kshetra lekhnu.",
+        "input": "",
+        "output": "2015 ko Gorkha Bhukampa ek thulo bhukampa ho, junle Kathmandu, Sindhupalchok, ra Dolakha lai dherai prabhavit garayo."
+    },
+    {
+        "instruction": "Nepali lok sanskriti ma sammilit ek prasiddha nach ra usko mahatwa lekhnu.",
+        "input": "",
+        "output": "Sakela Nach Rai janajati ko prasiddha lok sanskriti ho, jun parva ma sanskritik ekta ra khushi prakat garcha."
+    },
+    {
+        "instruction": "Nepali parvat tatha himal ma hone ek adventure karyakram ra usko laabh lekhnu.",
+        "input": "",
+        "output": "Trekking Nepali parvat tatha himal ma prachalit ek adventure karyakram ho, junle paryatan ko bikas garna madad garcha."
+    },
+    {
+        "instruction": "Nepali nadi haru ko pramukh upayog lekhnu.",
+        "input": "",
+        "output": "Nepali nadi haru ko upayog jal bidyut utpadan, kheti ko sinchai, ra yatra pariwahan ma huncha."
+    },
+    {
+        "instruction": "Nepali balbalika haru ma pustak padne prabriti kasari badhauna sakincha?",
+        "input": "",
+        "output": "Library ko suruwat, bal katha pustak haru ko distribution, ra padhai prati utsah badhauna karyakram garda badhauna sakincha."
+    },
+    {
+        "instruction": "Nepali samudaya ma sammilit ek mahan karya ra tyo ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Chhaya Center ko nirman Nepali samudaya ko ek mahan karya ho, jasle samudaya karyakram ra sanskritik pradarshan ko suvidha dincha."
+    },
+    {
+        "instruction": "Nepali Himal ma ek prasiddha yatra ra tyo yatra ko anubhav lekhnu.",
+        "input": "",
+        "output": "Annapurna Base Camp Yatra prasiddha yatra ho, junle swargiya drishya, himal ko shitalta, ra adventure ko anubhav dincha."
+    },
+    {
+        "instruction": "Nepali samajik sadbhawana ka ek udaharan ra tyo le dine sandesh lekhnu.",
+        "input": "",
+        "output": "Dashain ek udaharan ho, junle sabai dharma, jat ra samajik pichhadiyaharulai ekatrit garne sandesh dincha."
+    },
+    {
+        "instruction": "Nepali janata ma ramailo garnai mahan parva ko naam ra usko mahatwa lekhnu.",
+        "input": "",
+        "output": "Holi Nepali janata ko ramailo garnai parva ho, jun rang ra prem ko utsav ho."
+    },
+    {
+        "instruction": "Nepali prashasan ko ek sudhar ra tyo ko prabhav lekhnu.",
+        "input": "",
+        "output": "E-Governance ko suruwat ek sudhar ho, jasle janata ko sewa prapti prakriya sajilo ra chhito banauchha."
+    },
+    {
+        "instruction": "Nepali sanskriti ma ek dharmik uthsav ra usko visheshta lekhnu.",
+        "input": "",
+        "output": "Indra Jatra ek dharmik uthsav ho, jun Hindu ra Buddhist dharma ko sammelan ra samuhik utsav ko rup ma manaiincha."
+    },
+    {
+        "instruction": "Nepali balbalika ma sikai ko lagi ramailo karyakram ra usko laabh lekhnu.",
+        "input": "",
+        "output": "Bal Diwas karyakram sikai ko lagi ramailo karyakram ho, junle balbalika ko creativity badhaune kaam garcha."
+    },
+    {
+        "instruction": "Nepali samaj ma sabai bhanda prachin sanskritik drishya pradarshan karyakram ko naam lekhnu.",
+        "input": "",
+        "output": "Kumari Jatra Nepali samaj ko prachin sanskritik drishya pradarshan karyakram ho, junle jivan ko pavitrata ko pratik darshauchha."
+    },
+    {
+        "instruction": "Nepali sahitya ko ek prasiddha lekhan ra usko lekhak ko naam lekhnu.",
+        "input": "",
+        "output": "Muna Madan Bhanu Bhakta Acharya ko prasiddha lekhan ho, jun Nepali sahitya ko amar karya ho."
+    },
+    {
+        "instruction": "Nepali shikshya pranali ko ek sudhar ra tyo sudhar ko prabhav lekhnu.",
+        "input": "",
+        "output": "CBT (Competency-Based Curriculum) sudhar ho, jasle bidyarthiko gyan badhaune practical approach ko prayog garcha."
+    },
+    {
+        "instruction": "Nepali sanskriti ma ek paramparagat bhawan ko naam ra usko mahatwa lekhnu.",
+        "input": "",
+        "output": "Nyatapola Mandir Bhaktapur ko paramparagat bhawan ho, jasle Nepali kala ra vastukala ko mahatwa darshauchha."
+    },
+    {
+        "instruction": "Nepali balbalika ma ethical values sikhna ko lagi ek karyakram ko naam ra usko laabh lekhnu.",
+        "input": "",
+        "output": "Moral Science Workshop ek karyakram ho, jasle balbalika ma ramro charitra ko nirman garcha."
+    },
+    {
+        "instruction": "Nepali parvat ma ek himal ko naam ra tyo ko tourism ma yogdan lekhnu.",
+        "input": "",
+        "output": "Annapurna Himal Nepali parvat ko prasiddha himal ho, jun trekking tourism ko mukhya ghatak ho."
+    },
+    {
+        "instruction": "Nepali gramin kshetra ma upalabdha ek awashyak sewa ra tyo ko laabh lekhnu.",
+        "input": "",
+        "output": "Telemedicine Nepali gramin kshetra ma upalabdha ek sewa ho, junle durgamit thau ma swasthya suvidha dina madad garcha."
+    },
+    {
+        "instruction": "Nepali sanskriti ma prachalit ek prasiddha rang ra usko pratik ko bare lekhnu.",
+        "input": "",
+        "output": "Lal rang Nepali sanskriti ma prasiddha ho, jun shakti, prem ra utsav ko pratik ho."
+    },
+    {
+        "instruction": "Nepali nadi ko ek naam ra tyo ko upayog lekhnu.",
+        "input": "",
+        "output": "Koshi Nadi Nepali ko ek mukhya nadi ho, jun jalbidyut, kheti, ra sinchai ma upayogi chha."
+    },
+    {
+        "instruction": "Nepali parva ma ek prasiddha mithai ra tyo ko mahattwa lekhnu.",
+        "input": "",
+        "output": "Laddu Nepali parva ma prasiddha mithai ho, jun subha abasar ma mitrata ra khushi badhauna prayog huncha."
+    },
+    {
+        "instruction": "Nepali lok kala ma ek prasiddha kala ra usko mahatwa lekhnu.",
+        "input": "",
+        "output": "Mithila Kala prasiddha lok kala ho, jun Nepali samudaya ko pehchaan ra sanskritik pradarshan ko madhyam ho."
+    },
+    {
+        "instruction": "Nepali samaj ma ek samajik sudhar ko udaharan ra tyo ko prabhav lekhnu.",
+        "input": "",
+        "output": "Chhaupadi pratha ko samapti ek samajik sudhar ho, jasle mahila swasthya ra adhikar ko samrakshan garcha."
+    },
+    {
+        "instruction": "Nepali parvat ma trekking ka lagi ek jaruri sujhaw lekhnu.",
+        "input": "",
+        "output": "Ramro boot, warm kapada, ra pani puriyera lejancha trekking ko lagi jaruri ho."
+    },
+    {
+        "instruction": "Nepali balbalika haru ko lagi ek ramailo khel ko naam ra tyo khel ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Ghato Bhato balbalika ko ramailo khel ho, junle teamwork ra strategy ko sikai dincha."
+    },
+    {
+        "instruction": "Nepali dharmik puja ma sammilit ek pramukh samagri ra usko upayog lekhnu.",
+        "input": "",
+        "output": "Tika Nepali dharmik puja ma mukhya samagri ho, jun asirbad ra pavitrata ko pratik ho."
+    },
+    {
+        "instruction": "Nepali sanskriti ma ek prasiddha lokgeet ra usko mahatwa lekhnu.",
+        "input": "",
+        "output": "Resham Firiri prasiddha lokgeet ho, jun Nepali parvatiya jeevan ra prem ko chhabi pradarshan garcha."
+    },
+    {
+        "instruction": "Nepali janata ma shikshya ko mahatwa bare ek sandesh lekhnu.",
+        "input": "",
+        "output": "Shikshya jeevan ko aadhar ho; yo pragati, samriddhi ra samajik sudhar ko marg ho."
+    },
+    {
+        "instruction": "Nepali mahila haru ko udhaharansil yogdan ra tyo yogdan ko prabhav lekhnu.",
+        "input": "",
+        "output": "Pasang Lhamu Sherpa ko yogdan Nepali mahila ko sahas ra samarthya ko pratik ho, junle parvatiya paryatan ko prachaar garcha."
+    },
+    {
+        "instruction": "Nepali samaj ma ek dharmik gramin karyakram ra tyo karyakram ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Deusi-Bhailo ek dharmik gramin karyakram ho, jun Tihar ma mitrata ra samuhik anand ko roop ma manaiincha."
+    },
+    {
+        "instruction": "Nepali itihas ko ek pramukh yuddha ra tyo yuddha ko parinam lekhnu.",
+        "input": "",
+        "output": "Anglo-Nepal Yuddha ek pramukh itihasik yuddha ho, junle Sugauli Sandhi ko janma diyeko thiyo."
+    },
+    {
+        "instruction": "Nepali gramin jeevan ko ek udaharan ra usma sammilit samasya lekhnu.",
+        "input": "",
+        "output": "Nepali gramin jeevan ma jala ko kami ek samasya ho, jasle kheti ra dinacharya prabhavit garcha."
+    },
+    {
+        "instruction": "Nepali gaun ma ek pramukh samajik anushasan ra tyo ko prabhav lekhnu.",
+        "input": "",
+        "output": "Pani ko upayog ko niyam Nepali gaun ma samajik anushasan ko ek pramukh udaharan ho, jun le jal ko durupyog rokcha ra sabai ko sukhad jeevan ko samarthan garcha."
+    },
+    {
+        "instruction": "Nepali sanskriti ma ek prasiddha geet ra usko mahatwa lekhnu.",
+        "input": "",
+        "output": "Sambodhan geet Nepali sanskriti ko ek prasiddha geet ho, junle sambodhan ra samman ko mahatwa darshauchha."
+    },
+    {
+        "instruction": "Nepali itihas ko ek mahattwapurna ghatna ra tyo ghatna ko parinam lekhnu.",
+        "input": "",
+        "output": "1950 ko Nepal-India Samjhauta ek mahattwapurna ghatna ho, jun le Nepal ko swatantrata ko rakshan garna madad garyo."
+    },
+    {
+        "instruction": "Nepali parva haru ma ek prasiddha anand ra tyo ko anand ko prabhav lekhnu.",
+        "input": "",
+        "output": "Dashain parva Nepali parva haru ma prasiddha ho, junle janata ma samajik ekata ra anand ko bhawna jagauchha."
+    },
+    {
+        "instruction": "Nepali bhasha ma ek prasiddha word ra uska artha lekhnu.",
+        "input": "",
+        "output": "'Namaste' ek prasiddha Nepali sabda ho, junko artha ho 'timi lai namra abhinandan'."
+    },
+    {
+        "instruction": "Nepali lok geet haru ko ek udaharan ra tyo ko samajik mahatwa lekhnu.",
+        "input": "",
+        "output": "Phool ko aankhama Nepali lok geet ho, jun le manav sambandha ra prem ko mahatwa ko prashansha garcha."
+    },
+    {
+        "instruction": "Nepali samaj ma ek samajik karyakram ra tyo karyakram ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Blood donation camp ek samajik karyakram ho, jasle samajik badhai ra manav seva ko prachaar garcha."
+    },
+    {
+        "instruction": "Nepali shahar ma ek prasiddha yatra ra tyo ko prabhav lekhnu.",
+        "input": "",
+        "output": "Lumbini Yatra ek prasiddha yatra ho, junle dharmik tourism ko prachaar garna madad garyo."
+    },
+    {
+        "instruction": "Nepali gramin kshetra ma ek prasiddha fasal ra tyo fasal ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Maize (Makai) Nepali gramin kshetra ko ek prasiddha fasal ho, jun le gramin arthavyavastha ma mahatwapurna yogdan dincha."
+    },
+    {
+        "instruction": "Nepali parva haru ko ek udaharan ra tyo parva ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Tihar ek udaharan ho, jun Nepali sanskriti ma diyako roshni ko parva ho, jo ghar parivar ko ekata ra anand ko sandesh dincha."
+    },
+    {
+        "instruction": "Nepali sanskriti ma ek lok kaam ko udaharan ra tyo kaam ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Kumari Puja Nepali sanskriti ko ek lok kaam ho, jun le shakti ko pratima ko roop ma Kumari devi ko poojan garcha."
+    },
+    {
+        "instruction": "Nepali janata ko jeevan ma ek pariwartan ko udaharan ra tyo ko prabhav lekhnu.",
+        "input": "",
+        "output": "Loktantra ko sthapana 1990 ko ek mahattwapurna pariwartan ho, jasle Nepal ko rajnitik dasha ra janata ko adhikar ma badalav le ayo."
+    },
+    {
+        "instruction": "Nepali gramin kshetra ma ek pramukh sanskritik ghatna ra tyo ko prabhav lekhnu.",
+        "input": "",
+        "output": "Maghi Parva ek sanskritik ghatna ho, jasle Nepali gramin kshetra ma ekata ra samudayik bhawna ko janma dincha."
+    },
+    {
+        "instruction": "Nepali shikshya pranali ko ek sudhar ra tyo ko laabh lekhnu.",
+        "input": "",
+        "output": "Shikshan ko digitalikaran ek sudhar ho, jasle shikshako gati ko sudhar garcha ra sabai bidyarthiharulai accessible banaucha."
+    },
+    {
+        "instruction": "Nepali sanskriti ma ek prasiddha nach ra tyo nach ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Sakela Nach ek prasiddha lok nach ho, junle samajik ekata ra sanskritik virasat ko samarthan garcha."
+    },
+    {
+        "instruction": "Nepali sanskriti ma ek lok dholak ra usko prayog lekhnu.",
+        "input": "",
+        "output": "Dholak Nepali lok sanskriti ko ek prasiddha musical instrument ho, jun dharmik ra samajik samaroha ma prayog huncha."
+    },
+    {
+        "instruction": "Nepali bhasha ma ek prasiddha vaakya ra tyo ko artha lekhnu.",
+        "input": "",
+        "output": "'Sambodhan ho' ek prasiddha Nepali vaakya ho, junle samman ra abhinandan ko artha garcha."
+    },
+    {
+        "instruction": "Nepali sanskriti ma ek prasiddha katha ra tyo katha ko sandesh lekhnu.",
+        "input": "",
+        "output": "'Muna Madan' ek prasiddha katha ho, junle prem, samarpan ra sanskritik dharohar ko mahatwa darshauchha."
+    },
+    {
+        "instruction": "Nepali prashasan ma ek sudhar ra tyo sudhar ko prabhav lekhnu.",
+        "input": "",
+        "output": "Local Governance Act ek sudhar ho, jasle gaun ra nagar ko prashasan ko gati ko sudhar garcha."
+    },
+    {
+        "instruction": "Nepali mahila haru ko ek prasiddha udaharan ra tyo ko samajik yogdan lekhnu.",
+        "input": "",
+        "output": "Saraswati Pradhan ek prasiddha Nepali mahila ho, jasle mahila shiksha ra unko adhikar ko liye dherai kaam gari rakhnu bhayo."
+    },
+    {
+        "instruction": "Nepali dharmik parva ko ek udaharan ra tyo ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Shivaratri ek dharmik parva ho, jun shiva bhakt haru dwara manaiincha ra bhakti ko abhilasha ko pratik ho."
+    },
+    {
+        "instruction": "Nepali gramin jeevan ma ek mahatwapurna samasya ra tyo ko samadhan lekhnu.",
+        "input": "",
+        "output": "Bikas ko kami ek mahatwapurna samasya ho, jasle gramin kshetra ko pragati rokaunu parcha. Isko samadhan garne kaam ma sadbhawana ra samarthan ko jarurat chha."
+    },
+    {
+        "instruction": "Nepali prachin kala ko ek udaharan ra tyo ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Mithila kala ek prachin Nepali kala ho, jun le rang ra bhavana ko madhyam bata samajik ra sanskritik sandesh dincha."
+    },
+    {
+        "instruction": "Nepali sanskritik virasat ko ek pramukh sthala ra tyo ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Swayambhunath Stupa Kathmandu ko ek pramukh sanskritik virasat ho, jun UNESCO World Heritage site ko roop ma manaiincha."
+    },
+    {
+        "instruction": "Nepali shailee ko ek prasiddha fashion ra tyo ko samajik mahatwa lekhnu.",
+        "input": "",
+        "output": "Nepali daura suruwal ek prasiddha fashion ho, jun Nepali purusho haru dwara paramparagat samajik ghatna ma manaiincha."
+    },
+    {
+        "instruction": "Nepali sanskriti ko ek prasiddha kala ko udaharan ra usko prabhav lekhnu.",
+        "input": "",
+        "output": "Thangka painting ek prasiddha Nepali kala ho, jun le dharmik anubhav ra samajik dharohar ko darshan dincha."
+    },
+    {
+        "instruction": "Nepali lokgeet haru ko ek udaharan ra tyo ko samajik mahatwa lekhnu.",
+        "input": "",
+        "output": "Sambodhan geet Nepali lokgeet ho, jun le samajik ekata ra mel ko sandesh dincha."
+    },
+    {
+        "instruction": "Nepali itihas ma ek pramukh jang ko udaharan ra tyo jang ko prabhav lekhnu.",
+        "input": "",
+        "output": "Nepali prajatantra ko sthapana ko samayeko jang ek pramukh itihasik ghatna ho, jasle Nepal ko rajnitik samaj ko sudhar garyo."
+    },
+    {
+        "instruction": "Nepali yatra ko ek udaharan ra tyo yatra ko anubhav lekhnu.",
+        "input": "",
+        "output": "Everest Base Camp Yatra ek prasiddha yatra ho, jun le manav sahas ra himalayan drishya ko anubhav garne sujhav garcha."
+    },
+    {
+        "instruction": "Nepali lokchha ma ek prasiddha mithai ra tyo ko anand lekhnu.",
+        "input": "",
+        "output": "Sweets like Ladoo are an important part of Nepali festivals, bringing joy and representing cultural celebration."
+    },
+    {
+        "instruction": "Nepali bachat ko ek udaharan ra tyo ko mahatwa lekhnu.",
+        "input": "",
+        "output": "Gundruk bachat ko ek prasiddha udaharan ho, jun le kheti ko upayog ko samarthan garcha ra khana ko birudh garna madad garcha."
+    },
+    {
+        "instruction": "Nepali rajyo ko ek udaharan ra uska sanskritik prabhav lekhnu.",
+        "input": "",
+        "output": "Gorkha rajya ek prasiddha rajya ho, jun le Nepal ko sanskritik mahatwa ra veerata ko mahatwa lekhcha."
+    },
+    {
+        "instruction": "Nepali sanskriti ka ek ek prakriya ko naam ra tyo ko prabhav lekhnu.",
+        "input": "",
+        "output": "Shaheed Diwas ek samajik mahatwa ko prakriya ho, jun le shaheedharu ko aadar ra sanman ko mahatwa darshauchha."
+    },
+    {
+        "instruction": "Nepali prasiddha jagah ko ek udaharan ra tyo ko prabhav lekhnu.",
+        "input": "",
+        "output": "Pokhara Nepal ko ek prasiddha paryatan sthal ho, jun le tourist attraction badhaune kaam garcha."
+    },
+    {
+        "instruction": "Nepali ek pramukh aadi sadah ho ra samajik anushasan ka udaharan ko thau dene ko lekhnu.",
+        "input": "",
+        "output": "Buddhist Monasteries are integral to Nepali culture as they spread wisdom to everyone and act as retreats for mental peace."
+    },
+    {
+        "instruction": "Nepali dharmik parampara haru ka ek mahatwa ko udaharan ko ra samajik prabhav lekhnu.",
+        "input": "",
+        "output": "Chhewar Ceremony Nepal ko ek dharmik parampara ho, jun le mahatwapurna moral principles ko samarthan garcha."
+    }
+]

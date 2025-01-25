@@ -1,0 +1,512 @@
+[
+    {
+        "instruction": "Nepali ma ek simple sentence translate garera dekhau.",
+        "input": "I am learning AI.",
+        "output": "Ma AI sikdai chu."
+    },
+    {
+        "instruction": "Yo sentence ko meaning explain garera bhan.",
+        "input": "Technology le mancheko jindagi sajilo banaucha.",
+        "output": "Isko matlab ho ki technology ko madat le mancheko daily life kaam haru easy hunchha."
+    },
+    {
+        "instruction": "Yo list sorted order ma arrange gar.",
+        "input": "mango, apple, banana, orange",
+        "output": "apple, banana, mango, orange"
+    },
+    {
+        "instruction": "Ek joke bhan Nepali ma.",
+        "input": "",
+        "output": "Ek din computer le joke garecha, ani mouse hasdai bhanya: 'Arey, ta ta mero clickbait jasto cha!'"
+    },
+    {
+        "instruction": "Tapai ko naam ke ho bhanne sawal ko answer lekh.",
+        "input": "",
+        "output": "Mero naam chatbot ho."
+    },
+    {
+        "instruction": "Nepali ma greeting text lekh.",
+        "input": "",
+        "output": "Namaste! Tapai lai k ko madat chahincha?"
+    },
+    {
+        "instruction": "3 ota Nepali mitho khana ko naam list gara.",
+        "input": "",
+        "output": "1. Dal Bhat Tarkari, 2. Momo, 3. Sel Roti"
+    },
+    {
+        "instruction": "Yo calculation garera answer lekh.",
+        "input": "25 + 30 - 15",
+        "output": "Answer ho 40."
+    },
+    {
+        "instruction": "Ek motivational line bhan.",
+        "input": "",
+        "output": "Jindagi ma hard work garera aage badhnu, sapana ta pura hunchhan."
+    },
+    {
+        "instruction": "Ek positive feedback dinus.",
+        "input": "Tapai ko kaam dherai ramro lagyo.",
+        "output": "Dhanyabad! Ma ta tapai ko hard work bata impress bhaye!"
+    },
+    {
+        "instruction": "Yo sentence ko English ma translation lekha gara.",
+        "input": "Ma Nepali sikdai chu.",
+        "output": "I am learning Nepali."
+    },
+    {
+        "instruction": "Yo numbers ko sum lekha gara.",
+        "input": "45, 67, 23",
+        "output": "135"
+    },
+    {
+        "instruction": "Ek motivational line lekhuhos.",
+        "input": "",
+        "output": "Mehnat garne manche kahile hareko mahan dikhdaina."
+    },
+    {
+        "instruction": "Nepali geet ko ek line lekha gara.",
+        "input": "",
+        "output": "Resham firiri, resham firiri, uda uda janchha hau badal jastai."
+    },
+    {
+        "instruction": "Ek simple Nepali riddle lekhuhos ra usko uttar pani dinuhos.",
+        "input": "",
+        "output": "Sawal: K kunai pani mukh bata na khayeko hunchha? Uttar: Ghanti."
+    },
+    {
+        "instruction": "Tapai ko kaam ko feedback lekhuhos.",
+        "input": "Tapai ko kaam ramro cha.",
+        "output": "Dhanyabad! Ma ta yo kaam lai aru ramro banaucha."
+    },
+    {
+        "instruction": "Ek famous Nepali personality ko naam list gara.",
+        "input": "",
+        "output": "1. Bhanubhakta Acharya, 2. Prithvi Narayan Shah, 3. Laxmi Prasad Devkota"
+    },
+    {
+        "instruction": "Yo problem ko solution step-wise lekha gara.",
+        "input": "20 ma 15 thapnu ani 10 ghataunu.",
+        "output": "Step 1: 20 ma 15 thapnu = 35\nStep 2: 35 ma 10 ghataunu = 25"
+    },
+    {
+        "instruction": "Nepali bhasha ma ek positive greeting lekhuhos.",
+        "input": "",
+        "output": "Namaste! Tapai ko din subh rahos!"
+    },
+    {
+        "instruction": "Ek funny line lekhuhos.",
+        "input": "",
+        "output": "Ma ta yo laptop jasto chu, coffee bina kaam gardina!"
+    },
+    {
+        "instruction": "Yo list ascending order ma arrange garera lekhuhos.",
+        "input": "3, 1, 4, 2",
+        "output": "1, 2, 3, 4"
+    },
+    {
+        "instruction": "Ek healthy lifestyle ko tip lekhuhos.",
+        "input": "",
+        "output": "Daily exercise garnuhos ani healthy diet follow garnuhos."
+    },
+    {
+        "instruction": "Nepal ka 5 jana PM ko naam lekhuhos.",
+        "input": "",
+        "output": "1. BP Koirala, 2. Manmohan Adhikari, 3. Girija Prasad Koirala, 4. Sher Bahadur Deuba, 5. KP Sharma Oli"
+    },
+    {
+        "instruction": "Ek short travel guide Nepali ma lekhuhos.",
+        "input": "Pokhara ko barema.",
+        "output": "Pokhara ma Phewa Taal, Devi’s Fall ra Sarangkot herna milcha. Yo jagah shant ra sundar cha."
+    },
+    {
+        "instruction": "Ek Nepali proverb ko example lekhuhos.",
+        "input": "",
+        "output": "Jastai: Gai ko aago ma pani bokaucha."
+    },
+    {
+        "instruction": "Ek English ko word ko Nepali meaning lekha gara.",
+        "input": "Happiness",
+        "output": "Khushi"
+    },
+    {
+        "instruction": "Ek Nepali festival ko description lekhuhos.",
+        "input": "Tihar",
+        "output": "Tihar Nepal ko ek important festival ho jaha laxmi puja, kukur puja, ra bhai tika garinchha."
+    },
+    {
+        "instruction": "Yo sentence ko synonym lekhuhos.",
+        "input": "Manche ramro cha.",
+        "output": "Manche nikai sant cha."
+    },
+    {
+        "instruction": "Ek choti ma yaad garne mantra lekha gara.",
+        "input": "",
+        "output": "Om Mani Padme Hum."
+    },
+    {
+        "instruction": "Ek funny Nepali kahani lekhuhos.",
+        "input": "",
+        "output": "Ek din haathi ra rato bhalu chill chat garera hase, bhalu le bhancha ‘timi mero bandhu’ ani haathi le bhancha ‘timi pani mero jaandhu!’"
+    },
+    {
+        "instruction": "Nepali ma ek recipe lekhuhos.",
+        "input": "Momo",
+        "output": "Momo ko lagi maida, tarkari, ra masala chahinchha. Fillings banayera momo shape ma banana parcha ra steam garnuhos."
+    },
+    {
+        "instruction": "Tapai lai email lekhna ho bhane kasari lekhchha? Ek example dinuhos.",
+        "input": "",
+        "output": "Subject: Request for Leave\nBody: Namaste Sir/Madam, ma tapai sanga 2 din ka chhutti magna chahanchhu. Dhanyabad."
+    },
+    {
+        "instruction": "Yo question ko answer lekhuhos.",
+        "input": "Nepal ko jhanda kasto cha?",
+        "output": "Nepal ko jhanda dui trinagle ko akriti ma cha ra esma chandra ra surya chha."
+    },
+    {
+        "instruction": "Ek climate change ko barema lekhuhos.",
+        "input": "",
+        "output": "Climate change le global warming lai agadi badhauchha ra yo sabai manche ko responsibility ho isko samadhan khojne."
+    },
+    {
+        "instruction": "Nepali lok geet ko ek example lekhuhos.",
+        "input": "",
+        "output": "Resham firiri."
+    },
+    {
+        "instruction": "Ek computer programming ko line lekhuhos.",
+        "input": "",
+        "output": "print('Namaste, Sansar!')"
+    },
+    {
+        "instruction": "Nepali ma ek inspiring speech ko suruwat lekhuhos.",
+        "input": "",
+        "output": "Sampurna shrota harulai namaste, ma aaj tapai harulai ekta ra pragati ko kura garna chaheko chu."
+    },
+    {
+        "instruction": "Ek Nepali comedy dialogue lekhuhos.",
+        "input": "",
+        "output": "Maile ta sochheko thiye paisa kamauchhu, tara aba tha bha cha swastha kamauchhu!"
+    },
+    {
+        "instruction": "Ek problem solve garne tarika bataunu, Nepali ma lekhuhos.",
+        "input": "Homework sakinna.",
+        "output": "Homework divide garera part-part ma garnuhos ani daily thori samaya dinuhos."
+    },
+    {
+        "instruction": "Ek emotional quote Nepali ma lekhuhos.",
+        "input": "",
+        "output": "Maya ta tyo ho, jaha duniya birsine mutu chha."
+    },
+    {
+        "instruction": "Nepali ma ek healthy food ko naam lekha gara.",
+        "input": "",
+        "output": "Gundruk ra dhido."
+    },
+    {
+        "instruction": "Nepali ma morning routine ko ek outline lekhuhos.",
+        "input": "",
+        "output": "Bihana jaldi uthnu, exercise garnu, ra healthy breakfast khanu."
+    },
+    {
+        "instruction": "Ek mahatwapurna Nepali sahityakar ko naam ra kaam lekhuhos.",
+        "input": "",
+        "output": "Laxmi Prasad Devkota: Muna Madan ko rachayita."
+    },
+    {
+        "instruction": "Ek simple yoga routine ko barema lekhuhos.",
+        "input": "",
+        "output": "Morning ma Surya Namaskar garera start garnuhos, tyasa pachi Pranayama practice garnuhos."
+    },
+    {
+        "instruction": "Ek funny Nepali idiom lekha gara.",
+        "input": "",
+        "output": "Kancho biralo goru lai daraune."
+    },
+    {
+        "instruction": "Nepali ma ek short story ko suruwat lekhuhos.",
+        "input": "",
+        "output": "Ek din ek gaun ma ek rukh muni ek budho manche basiraheko thiyo."
+    },
+    {
+        "instruction": "Ek Nepali nirdeshak ko naam lekhuhos.",
+        "input": "",
+        "output": "Nir Shah"
+    },
+    {
+        "instruction": "Ek common Nepali greeting line lekhuhos.",
+        "input": "",
+        "output": "Namaste, tapai sanga bhetera khusi lagyo!"
+    },
+    {
+        "instruction": "Nepali ma ek funny event describe garera lekhuhos.",
+        "input": "",
+        "output": "Ek din maile momo chhodi pizza magayo, ani tyo pizza momo jasto dekhiyo!"
+    },
+    {
+        "instruction": "Ek inspiring movie dialogue ko example lekhuhos.",
+        "input": "",
+        "output": "Ma hare pani, jhukdina!"
+    },
+    {
+        "instruction": "Nepali ma ek popular food dish ko naam lekha gara.",
+        "input": "",
+        "output": "Momo"
+    },
+    {
+        "instruction": "Ek short diary entry Nepali ma lekhuhos.",
+        "input": "",
+        "output": "Aaja ko din maile dherai ramro kura sikhe, ani ramailo bhayo."
+    },
+    {
+        "instruction": "Nepali ma ek random joke lekhuhos.",
+        "input": "",
+        "output": "Computer: Yo password weak cha! Manche: Timi pani merai jasto weak chau!"
+    },
+    {
+        "instruction": "Nepal ko paryatan mahatwa bare ek long paragraph lekhuhos, jasma Himalaya, sanskritik sampada ra eco-tourism ko bare ma charcha garincha.",
+        "input": "",
+        "output": "Nepal paryatan ko mahatwa ko kendra ho, jahaan Himalaya ka uchcha parbat haru, jastai Everest ra Annapurna, adventure tourist ko lagi world-famous destination ho. Nepal ko sanskritik sampada le duniya bhari ka manis haru lai attract garchha, jastai Kathmandu ka UNESCO World Heritage Sites - Pashupatinath, Swayambhunath, ra Bhaktapur Durbar Square. Eco-tourism ko kshetra ma pani Nepal aage cha, jahaan conservation area jastai Chitwan National Park ra Annapurna Conservation Area le nature lovers ra wildlife enthusiasts lai aakarshit garchha. Paryatan le Nepal ko arthik bikas ma thulo yogdan dincha, jasma local employment badhcha ra ghar-dhunga ko ajha demand pani huncha."
+    },
+    {
+        "instruction": "Yo task ma tapai le Covid-19 pandemic ko Nepal ma pareko prabhav ra isko samadhan ko barema lekhuhos.",
+        "input": "",
+        "output": "Covid-19 pandemic le Nepal ma dherai thulo prabhav pareko cha. Lockdown ko karan dherai manche le afno rojgar gawaune paristhiti aayo, ani tourism sector jasma Nepal ko arthik rojgar ko ek main part cha, tesma ekdam downtrend aayo. Shikshya kshetra ma online learning suru ta bhayo, tara dherai rural area ka manche internet access ko kami le pachi pare. Health sector le pani dherai pressure face garnu paryo, karan limited resources ra hospital beds. Tara samadhan ma Nepal le vaccine drive lai priority diyeko cha, ani awareness campaigns le samudaya ma thulo role kheleko cha. Digital transformation ko adoption pani pandemic le badha diyeko ho."
+    },
+    {
+        "instruction": "Tapai le ek Nepali chhad ra usko mahatwa bare 150 shabd ma explain garnuhos.",
+        "input": "Dashain",
+        "output": "Dashain Nepal ko sabai bhanda thulo chhad ho, jasma Hindu dharma ma Devi Durga ko puja garincha. Yo chhad ko mahatwa aileko samay ma jharokha jastai cha, jahaan pariwaar bhitra unity ra bond ko samjhana garincha. Dashain ko main part ho tika ra jamara ko prasad, jasma budo manche haru le aashirwad di dinchha. Manche haru naya luga lagchhan, mitho khana khanchhan, ra ramailo tarikale Dashain celebrate garchhan. Dashain le pariwaar ko sambandha majboot banauchha, ani rural areas ma samudaya ko importance lai sabalai thaha dinchha. Yo chhad le 'truth always wins over evil' ko siksha dinchha."
+    },
+    {
+        "instruction": "Tapai le climate change ko barema Nepal ko context ma ek paragraph lekhuhos, jasma Himalaya ko impact ra pani ka effect ko barema charcha huncha.",
+        "input": "",
+        "output": "Climate change le Nepal ma dherai dherai thulo impact pareko cha, khas gari Himalaya region ma. Global warming ko karan glacier haru pighlinu suru bha cha, jasko karan pani ko source haru diminish huda chan. Glacier lake outburst flood (GLOF) ko sanket Nepal ma badiyo, jasko karan samudaya haru lai immediate threat pareko cha. Lowlands ma monsoon ko pattern unpredictable bha cha, ani excessive rainfall le landslide ra floods lai badhawa diyeko cha. Nepal ko agriculture sector, jasma dherai manche ko rojgar cha, yo climate variability le directly prabhavit gareko cha. Aba ko samadhan ho sustainable practices ra renewable energy sources adopt garera climate action ma lagani badhanu."
+    },
+    {
+        "instruction": "Tapai le Nepal ko shikshya pranali ma aako recent improvement ra challenges ko barema ek summary lekhuhos.",
+        "input": "",
+        "output": "Nepal ko shikshya pranali ma recent improvements jastai digital learning ko adoption gareko cha, jun pandemic pachiko awastha ma dherai helpful sabit bha cha. Schools ma ICT tools ko upayog suru bha cha, ani higher education ma technical programs lai prioritize gareko cha. Free education ko schemes le rural areas ma manche lai school jane motivation badha diyeko cha. Tara, aba pani challenges cha, jastai rural ra urban schools ko infrastructure gap, trained teachers ko kami, ani educational resources ko unequal distribution. Quality education sabai lai reach garna sangathan haru le aru pani initiatives lana parcha."
+    },
+    {
+        "instruction": "Ek Nepali sahityakar ko barema ek long essay lekhuhos, jasma unko jivan, karya ra impact bare charcha garnuhos.",
+        "input": "Laxmi Prasad Devkota",
+        "output": "Laxmi Prasad Devkota Nepali sahitya ko mahaan lekhak hun, jasko kaam le Nepali literature ma nai ek naya pahichan diyo. 12th November 1909 ma Kathmandu ma janmeka Devkota, 'Mahakavi' ko upadhi paunuko karan unko rachana haru cha. 'Muna Madan', unko sabai bhanda famous karya, Nepali lok jivan ko dukha ra sukha lai vividly portray garchha. Unko anya kaam haru ma 'Shakuntala', 'Kunjini', ra 'Prithvi Raj Chauhan' samet parcha. Devkota le Nepali sahitya ma modernism lai introduce gare, ani unko essays ra poetry haru le darshan ra humanism ko mahatwa prastut garyo. Uha ko rachana haru Nepal ko manav adhikar ko prati sthir hunekarya ma important cha. 14 September 1959 ma uha le parthiv sharir chhodnu bhayo tara Nepali literature ma unko yogdan amar rahne cha."
+    },
+    {
+        "instruction": "Nepali ka main cuisines ko barema Nepali bhasha ma ek detailed article lekhuhos.",
+        "input": "",
+        "output": "Nepal ma khana ko vividata le Nepali culture ko richness dekhaunchha. Dal Bhat Tarkari sabai bhanda common cuisine ho, jun din dinai khane parampara ho. Dal ma protein ko source cha, ra tarkari seasonal vegetables le balanced diet ko example dinchha. Momo Nepali cuisine ma ek famous dish ho, jun steamy dumplings ho ra aaja bidesh ma pani popular cha. Gundruk ra Dhido, rural Nepal ko traditional khana ho, jasma maida ko satta healthy millet ko upayog huncha. Sel Roti, ek rice-based mithai bread, chhad haru ma baninchha. Khana le Nepali culture ko vividhata represent garchha ra world ma unique culinary experience dinchha."
+    },
+    {
+        "instruction": "Tapai le Nepal ko historical unification ko barema ek 200 shabd ko paragraph lekhuhos.",
+        "input": "",
+        "output": "Nepal ko historical unification Prithvi Narayan Shah le suru gareko thiyo, jasko mahatwa ekikrit ra samriddha Nepal ko kalpana ma cha. Shah le Gorkha state bata shuru garera dherai chhote-rajya haru ra Kathmandu Valley ka rajya haru lai jitnu bhayo. Tyo samaya ma Nepal ka rajya haru politically fragmented thiyo ra ekikrit na huda bideshi shakti le invasion garne risk thiyo. Prithvi Narayan Shah le strong military force banaera, diplomacy upayog garera unification ko kaam sambhab gare. Unification ko result le Nepal ek independent ra sovereign state ko rup ma establish bhayo, jasko effect aaja pani dekhincha. Tyo unification le Nepal ko sanskriti, dharma ra unity lai ek sajilo maarga banako ho."
+    },
+    {
+        "instruction": "Nepali geet haru le samudaya ma kasto impact garchha? Ek detail ma 150-200 shabd ko essay lekhuhos.",
+        "input": "",
+        "output": "Nepali geet haru le samudaya ma ek unity ko bhawana jagaune mahatwa rakchha. Lok geet haru jastai 'Resham Firiri' ra 'Sangini' le rural areas ko sanskritik jivan ko aadarsh samajhauchha. Geet haru le na sirf entertainment provide garchha, tara manche haru ko feeling ra tradition lai preserve garna madad garchha. Samudaya ka events jastai chhad, mela, ra bihe ma geet haru le ekta ra ramailo ko mahaul banaunchha. Modern Nepali pop songs le tyo traditional sanskriti ma naya jivan jugaune role kheleko cha, jasko karan yo younger generation sanga pani relevant cha. Nepali geet haru le migration le khojeko displacement ko feel lai pani miti dinchha, jahaan diasporic communities le Nepali music bata ghar ko samjhana garera connection banaunchha."
+    },
+    {
+        "instruction": "Nepal ko women empowerment ma aako pragati ra aba ko challenges ko barema ek detailed explanation lekhuhos.",
+        "input": "",
+        "output": "Nepal ma women empowerment ma dherai pragati bha cha, tara aba pani thulo challenges cha. Education sector ma girls' enrollment badheko cha, ani women ko representation government ma pani suru bha cha. For example, local governance ma 33% women ko participation mandatory gareko le naya opportunities suru bha cha. Tara rural areas ma girls' education ra early marriage ko challenges ajhai cha. Gender-based violence ko issue ajhai Nepal ma existing cha, ani awareness campaigns ra strict law enforcement ko awashyakta cha. Women empowerment ko lagi skill-based training, microfinance schemes, ani policy-level intervention ko mahatwa cha."
+    },
+    {
+        "instruction": "Ek Nepali kavi ko barema ra unko famous poetry ko summary lekhuhos.",
+        "input": "Madhav Prasad Ghimire",
+        "output": "Madhav Prasad Ghimire Nepali sahitya ko ek anmol ratna hun, jasko rachana haru le Nepali jivan ko sundarta ra dukha lai ujagar gareko cha. Uha ko famous poetry 'Gauri' le ek prem kahani ra tragically ending story ko depiction garcha. Ghimire ko lekhai ma patriotism, nature ra human emotion ko vivid picture huncha. Unko anya karya haru jastai 'Malati Mangale' le pani Nepali sahitya ma thulo prabhav pareko cha. Madhav Prasad Ghimire le Nepali sahitya lai worldwide platform ma lana thulo yogdan dinu bhayo."
+    },
+    {
+        "instruction": "Artificial Intelligence ko basic concept Nepali context ma samjhaune tarika ma explain garnuhos.",
+        "input": "",
+        "output": "Artificial Intelligence (AI) bhaneko computer lai manche jasto sochnu ra kaam garna sikhaune process ho. Nepal ma AI ko use education, health, ani agriculture jastai field ma thulo potential cha. For example, AI le smart irrigation system develop garna madad garcha, jasko upayog farmer haru lai productivity badhauna garincha. Health sector ma AI-based diagnostic tools le remote area ma health services dina madad garcha. Nepali language translation tools jastai AI-driven chatbots le local communication lai digital platform ma connect garna suru gareko cha."
+    },
+    {
+        "instruction": "Tapai le ek long essay lekhuhos, jasma digital literacy ko mahatwa ra rural areas ma isko impact discuss garincha.",
+        "input": "",
+        "output": "Digital literacy ko mahatwa ajako samay ma dherai badheko cha, khas gari Nepal jasto developing country ma. Digital literacy le manche haru lai internet, computers, ra smartphones upayog garna sikauchha, jasko karan employment opportunities, education access, ra global communication ko bato khulcha. Rural areas ma digital literacy le thulo impact pareko cha. Online classes le education ko access garincha, banking system le financial inclusion lai sajilo banaucha, ra e-governance le government services lai accessible banauchha. Tara rural areas ma internet ko access ra training programs ko kami le isko pace dhilo cha. Yo gap lai reduce garna government le ICT programs suru garna parcha."
+    },
+    {
+        "instruction": "Ek report lekhuhos, jasma tapai le Nepali yuba haru ko entrepreneurship ko role ra challenges bare charcha garnuhos.",
+        "input": "",
+        "output": "Nepali yuba haru ko entrepreneurship ma role dherai mahatwapurna cha, jasko karan unemployment ko samasya lai mitigate garna sajilo bha cha. Yuba haru e-commerce, IT, tourism, ra agri-business jastai sectors ma actively involve bha chan. Unko startups le Nepal ko GDP badhaune matra hoina, dherai naukri create gareko cha. Tara challenges ma funding ko kami, business ecosystem ko lack, ani proper mentorship ko abhav parcha. Government policies, financial institutions le entrepreneurship promote garna support garna zaruri cha, aba yuba ko energy lai productive sector ma convert garna lagi."
+    },
+    {
+        "instruction": "Climate change ko karan samudra ko level badhera Nepal ma kun kun impact padhna sakcha? Ek detailed paragraph lekhuhos.",
+        "input": "",
+        "output": "Samudra ko level badhne karan Nepal ma direct tarikale impact na pareta pani indirect impact dherai cha. Rising sea levels le global weather pattern disrupt garcha, jasko karan Nepal ma extreme weather events badhne risk cha. Glacier melting ko karan Himalayan region ma water resources ko imbalance huncha, ani downstream ma flood ko khatra badi rahanchha. Agriculture sector ma irrigation ko availability ghatne ani unpredictable weather le crop productivity ma prabhav parne cha. Aba Nepal le climate adaptation strategies jastai afforestation, rainwater harvesting, ani renewable energy ma focus garna parcha."
+    },
+    {
+        "instruction": "Nepal ma electric vehicles (EVs) ko demand badhi rahanda isko pros ra cons ko barema ek comparative analysis lekhuhos.",
+        "input": "",
+        "output": "Nepal ma electric vehicles (EVs) ko demand badhi rahanda isko dherai pros ani cons cha. Pros ma EVs environment-friendly huncha, jasma carbon emissions katne cha, ani fossil fuel dependency ghatcha. EVs le long-term ma cost efficient huncha, maintenance expense pani kam cha. Nepal ko hydropower le electricity generate garda sustainable energy source ko upayog huncha. Tara cons ma EVs ko initial cost dherai mahango huncha, ra charging station infrastructure ajhai insufficient cha. Rural areas ma EVs ko upayog gareko access ko kami cha. Aba ko solution ho government subsidy ani EV-friendly policies adopt garnu."
+    },
+    {
+        "instruction": "Nepal ma education system ko technical education lai prioritize garnu kasto impact parcha? Ek long explanation lekhuhos.",
+        "input": "",
+        "output": "Nepal ma education system ko technical education lai prioritize garna le dherai ramro impact huncha. Technical education le practical knowledge ko emphasis dincha, jasko karan yuba haru skilled workforce ma pariwartit huncha. Nepal jasto developing country ma vocational training ra technical education le employment ko chance badhaune ho, ani foreign employment dependency ghatcha. Technical education le industries ani business sector ma innovation le aulaune cha, jasko karan Nepal ko GDP pani ramro huncha. Aba ko challenge technical education ko cost, rural outreach, ani skilled teachers ko kami ho. Tyo sabai lai cover garna government le technical schools ra scholarship programs ko bikas garna zaruri cha."
+    },
+    {
+        "instruction": "Nepal ma sustainable tourism promote garna ke garna sakinchha? Ek comprehensive plan explain garnuhos.",
+        "input": "",
+        "output": "Nepal ma sustainable tourism promote garna lai dherai kura haru garna sakinchha. Sabai bhanda pahilo eco-tourism lai promote garnu, jaha nature conservation ani local community ko involvement ho. Local guides ko training program ani cultural homestay haru lai prioritize garera local economy support garna milcha. Renewable energy use garne hotels ani waste management lai focus gare sustainable practices badhauna milcha. National parks ra trekking routes ma visitor quotas ani fees impose gare revenue generate garna sakcha, ani environmental protection ma lagi sakcha. Educational campaigns ani international marketing le Nepal ko image eco-friendly destination ko rup ma establish garna madad garcha."
+    },
+    {
+        "instruction": "Tapai le Nepali diaspora ko socio-cultural impact ko barema ek detailed essay lekhuhos.",
+        "input": "",
+        "output": "Nepali diaspora le socio-cultural impact dherai mahatwapurna cha, jasma Nepal ra bidesh bich ko connection lai strong banauchha. Diaspora le Nepali sanskriti ani parampara lai worldwide platform ma introduce garcha, jastai traditional festivals ra food culture. Remittance ko karan Nepal ko economy ma thulo support aaucha, tara brain drain le negative impact pani huncha. Bidesh ma diaspora ko community centers ra cultural events le Nepali language ra culture lai alive rakhcha. Aba diaspora lai engage garna Nepali government le diasporic forums ra dual citizenship jastai policies adopt garna zaruri cha."
+    },
+    {
+        "instruction": "Nepal ma urbanization le kasari social structure ra environment ma impact parcha? Ek detailed analysis lekhuhos.",
+        "input": "",
+        "output": "Nepal ma urbanization ko karan social structure ani environment ma dherai thulo impact pareko cha. Social structure ko kurama rural to urban migration le families separate bhaye, ani traditional joint family system weak bhayo. Urban areas ma youth-focused culture badheko cha, tara traditional values loss huncha bhanne dar cha. Environment ko kurama, deforestation, pollution, ani unmanaged waste disposal ko karan ecological balance disturb bha cha. Overpopulation le housing, sanitation, ra water scarcity jastai samasya lyayo. Aba ko solution ho sustainable urban planning, green spaces ko creation, ani infrastructure lai inclusive banaundai long-term plans implement garnu."
+    },
+    {
+        "instruction": "Artificial intelligence ko sahayog le kasari Nepali language preserve garna sakinchha? Ek innovative plan propose garnuhos.",
+        "input": "",
+        "output": "Artificial intelligence le Nepali language preserve garna dherai madad garna sakcha. Sabai bhanda pahilo, AI-based language recognition tools banayera Nepali speech-to-text systems develop garna parcha. Digital archiving le Nepali literature, folk songs, ra oral traditions lai preserve garna sakcha. Educational apps le AI ko use gari kids ani adults lai Nepali sikhauna interactive banauna sakcha. Translation tools le Nepali lai global platform ma connect garna ani language ko relevance badhauna madad garcha. Aba ko priority AI-based dictionaries, cultural database, ani machine translation systems develop garna parcha."
+    },
+    {
+        "instruction": "Mental health awareness Nepal ma kina jaruri cha? Ek long article lekhuhos.",
+        "input": "",
+        "output": "Mental health awareness Nepal ma dherai jaruri cha, kina bhane ajhai pani mental health ko stigma dherai strong cha. Nepali society ma anxiety, depression, ra stress jastai issues lai openly discuss garna mildaina, ani sufferers le support khojna koshish gardainan. Urbanization le work stress ani isolation badhaune cha, rural areas ma poverty ra lack of resources le situation worsen garcha. Awareness campaigns le stigma reduce garne cha, ani government le affordable mental health services ko access dinu jaruri cha. Schools ma mental health education, workplace ma counseling, ra media ma positive portrayals le awareness badhauna sakcha."
+    },
+    {
+        "instruction": "Space exploration ma Nepal le kasari yogdan din sakcha? Ek futuristic vision explain garnuhos.",
+        "input": "",
+        "output": "Nepal le space exploration ma directly satellite technology ani astronomy research ko madhyam bata yogdan din sakcha. Nepal already nano-satellites launch garna suru gareko cha, ani aba ko vision ho larger-scale satellites develop garera communication ani weather prediction improve garnu. Youth-focused programs ani STEM (Science, Technology, Engineering, Math) education lai prioritize garera space-related skills develop garna parcha. International collaboration garekos case ma Nepal le remote sensing technology ra disaster management ma space data upayog garna sakcha. Aba government le research facilities ani space education ko lagi investment garna focus garnu parcha."
+    },
+    {
+        "instruction": "Climate change le biodiversity ma kasari impact garcha? Ek Nepali context ma samjhai ek essay lekhuhos.",
+        "input": "",
+        "output": "Climate change le Nepal ko biodiversity ma thulo impact pareko cha. Rising temperatures ani unpredictable rainfall patterns le Himalayan region ma rare species jastai snow leopard ani red panda ko habitat risk ma parcha. Lowland areas ma wetlands ko shrinkage le migratory birds ko population ghatcha. Forest ecosystem pani change bha cha, jaha invasive species badhera local flora ani fauna lai threat dincha. Sustainable forestry programs, community-based conservation, ani government-level initiatives jastai REDD+ programs le biodiversity protect garna focus garnu jaruri cha. Aba ko need ho public awareness ani scientific research lai promote garnu."
+    },
+    {
+        "instruction": "Tapai le blockchain technology ko benefits Nepali financial system ma kasari lagu huncha bhanera ek detailed analysis garnuhos.",
+        "input": "",
+        "output": "Blockchain technology le Nepali financial system ma transparency, efficiency, ani security badhauna madad garcha. Blockchain ko decentralized nature le fraud prevention ani secure transactions ko guarantee dincha. Remittance system lai efficient ani cost-effective banayera migrant workers ko earning maximize garna blockchain use garna sakcha. Digital currency ko potential le rural areas ma financial inclusion badhauna ani traditional banking lai bypass garna madad garcha. However, aba blockchain adapt garna government le policy ani infrastructure develop garna parcha. Regulatory framework ani public-private partnerships le blockchain lai integrate garna sajilo banaune ho."
+    },
+    {
+        "instruction": "Tapai le Nepali yuba haru innovation ma kasari contribute garna sakchan bhanera ek essay lekhuhos.",
+        "input": "",
+        "output": "Nepali yuba haru innovation ma dherai mahatwapurna role play garna sakchan. Unko creativity, energy, ani global exposure le problem-solving ma unique solutions lyauna sakcha. Agriculture jasto traditional sector ma technology integrate garera smart farming ko concept le productivity badhauna milcha. IT sector ma apps, software development, ani digital marketing ko growing trend le yuba haru ko prabhav dekhauncha. Aba government ra private sector le innovation-friendly environment banayera funding, mentorship, ani platforms provide garna zaruri cha. Yuba haru entrepreneurship ma engaged huncha, tyo pani desh ko economy ko lagi beneficial huncha."
+    },
+    {
+        "instruction": "Tapai le global food crisis ko karan ani tyo Nepal ma ke ke effect parcha bhanera detailed explanation garnuhos.",
+        "input": "",
+        "output": "Global food crisis ko karan dherai diverse huncha, jastai climate change, war ani political instability, population growth, ani supply chain disruption. Nepal ma yo crisis le food prices badhcha, ani low-income households ma food insecurity le directly prabhav garcha. Agriculture productivity ma global fertilizer shortage ko impact huncha, jasko karan food imports ko dependency badcha. Aba Nepal lai organic farming, local food production, ani agricultural innovation lai prioritize garna parcha. Community-based farming ani government subsidies le food security ko samasya mitigate garna sakcha."
+    },
+    {
+        "instruction": "Tapai le Nepali film industry lai kasari global market ma puryauna sakinchha bhanera ek plan explain garnuhos.",
+        "input": "",
+        "output": "Nepali film industry lai global market ma puryauna creativity, quality production, ani international collaboration ko mahatwa cha. Sabai bhanda pahilo focus storytelling ani universal themes ma garna parcha. High-quality production standards ani technology use le Nepali movies ko visual appeal badhaune ho. International film festivals ma Nepali films promote garera exposure lyauna milcha. OTT platforms jastai Netflix ra Amazon Prime sanga collaboration le worldwide audience ma reach garna sakcha. Government le subsidy programs ani film-friendly policies implement gare industry ko potential realize garna sakcha."
+    },
+    {
+        "instruction": "Tapai le Nepali politics ma youth ko active participation ko mahatwa bhanera ek comprehensive essay lekhuhos.",
+        "input": "",
+        "output": "Nepali politics ma youth ko active participation dherai mahatwapurna cha. Aba ko youth educated, technology-savvy, ra dynamic hun, jasko karan political system ma innovation le auna sakcha. Traditional politics ko corruption ani inefficiency lai youth le transparent ani accountable system ma pariwartit garna sakcha. Youth participation le inclusive policies ani marginalized communities ko representation badhauna madad garcha. Social media ani digital platforms le youth voice lai amplify garna role play garcha. Aba political awareness programs ani leadership training lai prioritize garera youth lai politics ma engage garna zaruri cha."
+    },
+    {
+        "instruction": "Nepal ma AI ko sahayog le cyber security kasari improve garna sakcha? Ek long analysis garnuhos.",
+        "input": "",
+        "output": "Nepal ma cyber security dherai important issue ho, jasma AI le significant role play garna sakcha. AI-based intrusion detection systems le real-time threats lai identify ra mitigate garna sakcha. Financial institutions ma AI le fraud detection system enhance garna sakcha, jasle phishing attacks ra unauthorized transactions lai prevent garcha. Machine learning algorithms le unusual user behavior detect garera preventive measures leuna sajilo banaucha. Tara, AI lai implement garna skilled workforce ani infrastructure ma investment garna zaruri cha. Government policies ani public awareness le cyber security lai strengthen garna sakcha."
+    },
+    {
+        "instruction": "Nepali cultural heritage ko preservation ma digital tools ko role bare ek detailed essay lekhuhos.",
+        "input": "",
+        "output": "Nepali cultural heritage ko preservation ma digital tools le dherai ramro role play garna sakcha. Augmented reality (AR) ani virtual reality (VR) le historical monuments ra artifacts ko 3D modeling garera global audience samma puryauna madad garcha. Archiving tools le ancient manuscripts ra scripts lai digital platform ma convert garna madad garcha. Social media platforms le festivals, dance, ani traditional crafts promote garna ramro medium huncha. Aba ko jarurat ho proper funding ani training programs, jasle digital preservation ko scope lai Nepal ma aroo badhauna sakcha."
+    },
+    {
+        "instruction": "Space colonization ko barema sochda ethical concerns ke ke hun? Ek in-depth discussion lekhuhos.",
+        "input": "",
+        "output": "Space colonization future ma ek significant achievement huncha, tara isko ethical concerns ignore garna mildaina. Sabai bhanda pahilo concern ho resource exploitation. Space exploration ko naam ma alien planets ma resources lai overuse garne ho ki bhanne dar cha. Second concern ho inter-planetary inequality. Ke space colonies ma access only wealthy nations lai huncha? Thirdly, environmental damage kasari mitigate garna sakinchha bhanne kura unclear cha. Space colonization ma human rights ko respect garera, shared responsibility ko principle follow garna zaruri cha. Scientific progress ma ethics ko balance crucial huncha."
+    },
+    {
+        "instruction": "Nepal ko Himalayan ecosystem ko balance kasari maintain garna sakinchha? Ek conservation-focused plan lekhuhos.",
+        "input": "",
+        "output": "Nepal ko Himalayan ecosystem dherai delicate cha, ani yo ecosystem ko balance maintain garnu crucial cha. Sabai bhanda pahilo, community-based conservation programs implement garna parcha, jasma local communities active role ma huncha. National parks ma sustainable tourism promote garera eco-friendly guidelines implement garna sakcha. Glacier monitoring ani climate adaptation programs le water resources ani biodiversity lai protect garna madad garcha. Reforestation projects le landslides ani soil erosion prevent garna madad garcha. Government, NGOs, ani international collaborations le Himalayan region ko long-term sustainability ensure garna parcha."
+    },
+    {
+        "instruction": "Nepal ma blockchain ko upayog le education system ma kasto sudhar garna sakcha? Ek futuristic explanation lekhuhos.",
+        "input": "",
+        "output": "Nepal ma blockchain technology ko upayog le education system ma transparency, security, ani efficiency badhauna sakcha. Blockchain-based credential verification le degree fraud lai completely eliminate garna sakcha. Smart contracts ko use le scholarship distribution transparent ani fair banaucha. Blockchain le educational data lai decentralized system ma store garera hacking ra unauthorized changes ko khatra roknu sakcha. Online learning platforms ma blockchain use gare students ko progress ani attendance track garna madad garna sakcha. Government le aba blockchain-enabled national education system lai adopt garna plan suru garnu jaruri cha."
+    },
+    {
+        "instruction": "Global warming le Himalayan rivers ma parne prabhav kasari Nepal ma long-term impact lyauchha? Ek analysis garnuhos.",
+        "input": "",
+        "output": "Global warming le Himalayan rivers ma thulo impact garcha, jasle Nepal ma long-term consequences lyauchha. Glacier melting badhera initial years ma water flow badhne tara aagami decades ma water shortage huncha. Floods ani landslides jastai disasters ko frequency badhne, downstream communities ma infrastructure damage ani displacement ko khatra badcha. Irrigation ko access ma problems aune le agriculture productivity decline huncha. Aba ko solution ho adaptive water management strategies, jastai rainwater harvesting ani efficient irrigation systems. Climate change mitigation ani international collaboration le yo challenge tackle garna madad garcha."
+    },
+    {
+        "instruction": "Nepali youth le global platform ma apno identity establish garna kasari sakchan? Ek motivation-focused essay lekhuhos.",
+        "input": "",
+        "output": "Nepali youth le global platform ma apno identity establish garna apno cultural uniqueness, skills, ani innovation lai utilize garna sakchan. Sabai bhanda pahilo, Nepali traditional arts ani crafts lai international markets ma introduce garera cultural ambassador ko role play garna sakcha. IT ani digital technology ko use garera Nepali apps, startups, ani digital content lai global reach ma puryauna sakcha. Sports, music, ani entertainment sector ma apno talent globally showcase garera Nepal ko naam ucha rakhna sakcha. Aba youth le hard work, self-confidence, ani apno originality maintain gareko important huncha."
+    },
+    {
+        "instruction": "Nepal ma urban farming ko significance kasari badhauna sakinchha? Ek comprehensive guide lekhuhos.",
+        "input": "",
+        "output": "Nepal ma urban farming ko significance thulo cha, ani aba isko scope lai badhauna practical approaches apnanu parcha. Urban rooftops ani vacant lands ma organic farming start garna training programs chalu garna sakcha. Hydroponics ani vertical farming ko concept urban farming ma introduce garera efficiency badhauna milcha. Aba urban households lai composting ani waste recycling ko training provide gare sustainability promote garna sakcha. Urban farming le fresh produce provide garera food security badhaune matra hoina, environmental sustainability ko lagi pani madad garcha. Government subsidies ani local community collaboration le yo movement lai sajilo banauna sakcha."
+    },
+    {
+        "instruction": "Nepali culture ma modern trends le kasto impact pareko cha? Ek balanced discussion lekhuhos.",
+        "input": "",
+        "output": "Nepali culture ma modern trends le positive ani negative duita impact lyayeko cha. Positive kura herda, western influence le Nepali youth ma global exposure ani inclusivity badhaune madad gareko cha. Digital technology le cultural festivals ani traditional practices worldwide promote garna sajilo banayeko cha. Tara, negative kura herda, traditional values ani customs slowly dilute hune dar cha. Fast-paced lifestyle le family bonding ani cultural practices ma priority ghattai rako cha. Aba cultural preservation ani modernization ko bich ek balance establish garna jaruri cha."
+    },
+    {
+        "instruction": "Nepal ma renewable energy ko future kasari bright huncha bhanera ek optimistic essay lekhuhos.",
+        "input": "",
+        "output": "Nepal ma renewable energy ko future dherai bright cha, kina bhane Nepal hydropower ma world leader banna sakcha. Hydropower plants le electricity surplus generate garera export income ko major source banna sakcha. Solar energy ko upayog urban ani rural areas ma energy access lai democratize garna sakcha. Wind energy projects lai mountain ani hill regions ma introduce garera power grid diversify garna milcha. Renewable energy le climate-friendly development lai promote gardai Nepal lai green economy ko leading example banaucha. Government policies ani international investment le renewable energy growth lai aru boost garna sakcha."
+    },
+    {
+        "instruction": "Nepal ma green building practices kasari promote garna sakinchha? Ek sustainable development-focused essay lekhuhos.",
+        "input": "",
+        "output": "Nepal ma green building practices promote garna sabai bhanda pahilo public awareness badhauna jaruri cha. Energy-efficient designs jastai solar panels, rainwater harvesting, ani natural ventilation ko upayog le sustainability promote garna sakcha. Urban areas ma government le green certification ani tax benefits provide garera eco-friendly constructions lai encourage garna sakcha. Traditional Nepali architecture ko eco-friendly methods lai modern techniques sanga combine garna milcha. Local resources jastai bamboo ani mud blocks lai prioritize garera cost-efficient ra environment-friendly housing promote garna sakcha. Policy-level ani community-based collaboration le green building practices lai aage badhauna sakcha."
+    },
+    {
+        "instruction": "Nepali diaspora le Nepal ko economic growth ma kasari yogdan garna sakcha? Ek detailed proposal lekhuhos.",
+        "input": "",
+        "output": "Nepali diaspora le Nepal ko economic growth ma remittance ko madhyam bata thulo yogdan gareka chan. Tara, isko scope lai aroo badhauna startup investments ani skill transfer programs establish garna sakcha. Diaspora-led business initiatives le foreign direct investment ani employment opportunities create garna madad garcha. Education ra health sectors ma diaspora professionals le knowledge ani technology introduce garna sakcha. Government le diaspora-specific policies jastai tax incentives ani easier investment frameworks develop garera uniharu ko involvement badhauna sakcha. Nepali culture ani tourism promote garna diaspora ko global networks ko use garna sakcha."
+    },
+    {
+        "instruction": "Nepal ma online education le rural areas ma kasto sudhar lyauchha? Ek long-term impact analysis garnuhos.",
+        "input": "",
+        "output": "Online education le rural areas ma access to quality education lai democratize garna sakcha. Reliable internet connectivity ani affordable digital devices le students lai urban-level resources ma reach dincha. Recorded lectures ani e-books le self-paced learning promote garcha, jasko karan seasonal work garne students pani parhai continue garna sakchan. Skills-based courses ani certification programs le rural youth lai employability badhauna madad garcha. Government le public-private partnership ma focus garera digital literacy campaigns ani e-learning platforms establish garna sakcha. Aba ko long-term plan ho digital education ko inclusivity badhaune ani teachers ko training improve garnu."
+    },
+    {
+        "instruction": "Nepal ma gender equality ko lagi STEM education kasari promote garna sakinchha? Ek innovative approach suggest garnuhos.",
+        "input": "",
+        "output": "Gender equality ko lagi Nepal ma STEM education lai promote garna sabai bhanda pahilo girls-only scholarships ani mentorship programs introduce garnu parcha. Schools ma female role models lai highlight gardai STEM fields ko opportunities barema awareness campaign chalauna sakcha. Robotics ani coding workshops le early age ma girls ko interest develop garna madad garcha. Rural areas ma digital education hubs establish garera girls lai hands-on learning environment dinu jaruri cha. Aba industry collaborations le internships ani on-the-job training ko opportunities lai accessible banaune focus garnu parcha."
+    },
+    {
+        "instruction": "Climate change le agriculture ma parne challenges ko lagi Nepal kasari tayar hunu parcha? Ek adaptive strategy propose garnuhos.",
+        "input": "",
+        "output": "Climate change le unpredictable weather patterns ani water scarcity ko karan Nepal ko agriculture dherai prabhavit bhako cha. Aba ko strategy ho drought-resistant seeds ani climate-smart farming methods ko adoption. Rainwater harvesting ani drip irrigation systems lai promote garera water use efficiency badhauna sakcha. Farmers lai weather forecasting tools ani early warning systems provide garera informed decisions ma madad garna sakcha. Organic fertilizers ani pest control practices le soil health maintain garna madad garcha. Government le subsidies ra farmer training programs introduce garera adaptive farming lai aage badhauna sakcha."
+    },
+    {
+        "instruction": "Nepal ma gig economy ko growth le employment dynamics ma kasto pariwartan lyauchha? Ek detailed essay lekhuhos.",
+        "input": "",
+        "output": "Gig economy le Nepal ma employment dynamics ma flexibility ani new opportunities lyauna sakcha. Youth haru freelancing, ride-sharing, ani delivery services jastai jobs ma engaged hune chance badhcha. Traditional 9-to-5 jobs ko alternative le personal freedom ani part-time earning ko scope badhaune cha. Tara, gig economy ma job security ani benefits jastai health insurance ko kami huncha, jun ek major drawback ho. Government le gig workers ko lagi policies ani rights define garera uniharu ko security ensure garnu jaruri cha. Digital platforms ani skills training le gig economy lai aru productive banauna sakcha."
+    },
+    {
+        "instruction": "Nepal ma AI-powered healthcare system kasari implement garna sakinchha? Ek futuristic plan explain garnuhos.",
+        "input": "",
+        "output": "AI-powered healthcare system le Nepal ma diagnostic accuracy, treatment efficiency, ani patient care lai improve garna sakcha. Telemedicine ko madhyam bata AI-driven chatbots le rural patients lai basic healthcare advice provide garna sakcha. Disease prediction tools ani health data analysis le epidemics prevent garna madad garcha. Hospitals ma AI-based systems le patient records ko management ani appointment scheduling lai automated garna sakcha. Government le healthcare startups lai support gardai AI technology lai integrate garna incentives provide garnu jaruri cha. Digital literacy campaigns le public awareness badhaune kaam garna sakcha."
+    },
+    {
+        "instruction": "Nepal ma digital currency introduce garna ko lagi ke ke preparation garnu parcha? Ek systematic plan lekhuhos.",
+        "input": "",
+        "output": "Nepal ma digital currency introduce garna sabai bhanda pahilo robust digital infrastructure develop garnu parcha. Central bank le blockchain-based secure digital currency system lai adopt garnu jaruri cha. Financial literacy campaigns le public awareness badhaera digital transactions ko trust build garna sakcha. Cyber security frameworks lai strengthen gardai digital fraud prevention systems introduce garna parcha. Local businesses lai digital payments integrate garna incentives provide garera digital economy ko foundation strong banauna sakcha. International collaboration le technical expertise ani best practices implement garna madad garcha."
+    },
+    {
+        "instruction": "Nepal ma sustainable tourism kasari promote garna sakinchha? Ek balanced strategy lekhuhos.",
+        "input": "",
+        "output": "Sustainable tourism le Nepal ko natural ani cultural heritage lai protect gardai economic growth ensure garna sakcha. Ecotourism ko concept introduce garera rural communities ma local employment create garna sakcha. National parks ma visitor limits fix garera over-tourism ko risk minimize garna sakcha. Heritage sites ko maintenance lai prioritize gardai community-based tourism promote garnu parcha. Sustainable practices jastai waste management ani plastic-free travel encourage garna awareness campaigns chalauna sakcha. Government le eco-friendly hotels lai subsidies ani recognition provide gardai tourism industry lai green practices ma shift garna support garnu parcha."
+    },
+    {
+        "instruction": "Nepal ma media literacy ko importance bare ek long essay lekhuhos.",
+        "input": "",
+        "output": "Media literacy Nepal ma dherai mahatwapurna cha, kina bhane misinformation ani fake news ko spread le society ma polarization ani distrust create gardai cha. Media literacy le individuals lai credible sources identify garna ani information critically analyze garna madad garcha. Youth haru social media ma active hune le educational campaigns ko through positive impact lyaucha. Schools ma media literacy ko curriculum integrate garera early age ma critical thinking skills develop garna sakcha. NGOs ani community-level workshops le adults lai pani misinformation ko risks bare aware garna sakcha. Aba ko focus ho digital education ko madhyam bata media literacy badhaune."
+    }
+]

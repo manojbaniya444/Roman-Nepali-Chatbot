@@ -1,0 +1,782 @@
+[
+    {
+        "text": "Namaste sathi kasto chhau?",
+        "label": "greetings"
+    },
+    {
+        "text": "Timi kaha jadai chhau?",
+        "label": "question"
+    },
+    {
+        "text": "Hami aba bida hunchhau, bhetula ni.",
+        "label": "farewell"
+    },
+    {
+        "text": "Ramro cha, ani timro?",
+        "label": "greetings"
+    },
+    {
+        "text": "Yaha ko samasya kasari hal garne?",
+        "label": "question"
+    },
+    {
+        "text": "Ma aba jaanchu, feri bhetum hai.",
+        "label": "farewell"
+    },
+    {
+        "text": "Namaste mero sathi, aja ta din ekdam ramailo cha bhanera sabai le bhandaichhan.",
+        "label": "greetings"
+    },
+    {
+        "text": "Tapai lai ke lagcha ki yaha ko jalwayu pariwartan kaile sudharcha?",
+        "label": "question"
+    },
+    {
+        "text": "Maile aba aba gari timi sangai bhetne sochnu parcha jasto cha, kaile bhetum aba?",
+        "label": "farewell"
+    },
+    {
+        "text": "Maile socheko thiyo ki aba ta exams ko lagi ekdamai tension huncha, tara kasari ta handle garna sakchhau.",
+        "label": "advice"
+    },
+    {
+        "text": "Aja ko samachar ma bhaneko cha ki bagmatiko pani ekdamai dushit hude chha.",
+        "label": "news"
+    },
+    {
+        "text": "Ek din ek raja thiyo jasko rajya ekdamai ramro chalirako thiyo, tara euta dusman le usko zindagi bigaryo.",
+        "label": "story"
+    },
+    {
+        "text": "Maile complain garna cha ki yo online delivery system ekdam slow chha, aba aba timely service dina saknu parcha.",
+        "label": "complaint"
+    },
+    {
+        "text": "Yo movie maile herda ekdamai ramro lagyo, timi haru sabailai suggest garna cha ki yo ta miss nagara.",
+        "label": "appreciation"
+    },
+    {
+        "text": "Sanchai chhau bhani khusi lagyo, aba ta chai kati din ko lagi ghar ma baschhau bhanne sochda ramailo lagcha.",
+        "label": "greetings"
+    },
+    {
+        "text": "Tyo kta ko naam k ho jasko gaadi yesto loud honk gardai maathi dekhiyeko ho?",
+        "label": "question"
+    },
+    {
+        "text": "Timi aba kata janey bhanera malai sodhna maan lagyo, aba aba time milera bhetum hai.",
+        "label": "farewell"
+    },
+    {
+        "text": "Yedi exam stress thapdai cha bhane aba aba aru kura padhnu agadi relax garna try gara.",
+        "label": "advice"
+    },
+    {
+        "text": "Samachar ko anusaar arko hapta dekhi lockdown khulcha, sabailai sutkshma ra satarakta ko agraha cha.",
+        "label": "news"
+    },
+    {
+        "text": "Ek din euta garib manxe le euta thulo sapana dekhthyo ki usko jeevan sudharna sakchha.",
+        "label": "story"
+    },
+    {
+        "text": "Yo internet ko connection ekdam slow chha ajkal, maile complain garera pani koi sunna maan gardaina.",
+        "label": "complaint"
+    },
+    {
+        "text": "Timi ko sangit ekdamai ramro cha, tyo last performance ta dami thiyo.",
+        "label": "appreciation"
+    },
+    {
+        "text": "Namaste tapai ko ghar paribar sanchai hunuhunchha bhanera malai ekdam khusi lagcha.",
+        "label": "greetings"
+    },
+    {
+        "text": "Tapai sanga ke tips huncha savings ko lagi ki aba aba ma ramro saving start garna sakun?",
+        "label": "question"
+    },
+    {
+        "text": "Aja ko din kasto samaya ma bitayo? Malai aba aba samaya milcha bhanera sodhnu mann lagcha.",
+        "label": "farewell"
+    },
+    {
+        "text": "Tapai lai yeuta suggestion dina cha ki arko choti tapai lai decision ma afno planning samet rakhnus.",
+        "label": "advice"
+    },
+    {
+        "text": "Bharatiya cricket team le naya record banayo, samachar ko headline ekdamai exciting lagyo.",
+        "label": "news"
+    },
+    {
+        "text": "Ek din ek balak jungle ma gumcha ani usko katha thulo adventure bancha.",
+        "label": "story"
+    },
+    {
+        "text": "Yo bank ko service ma ekdamai complaint garna cha ki customer ko line samjhidaina.",
+        "label": "complaint"
+    },
+    {
+        "text": "Timi ko kaam ramro cha, tyo design ta ekdamai creative cha.",
+        "label": "appreciation"
+    },
+    {
+        "text": "Maile ajkal sochnu chhodeko thiyo, aba aba ta life ma positivity important jasto cha.",
+        "label": "advice"
+    },
+    {
+        "text": "Ek sundar rat ko kahani suru hunchha jun ma euta maanas usko sapana ma reach garna try garcha.",
+        "label": "story"
+    },
+    {
+        "text": "Yo pollution kaile sudharcha, aba aba malai yo city ma basna pani garo bhaira chha.",
+        "label": "complaint"
+    },
+    {
+        "text": "Tyo last project ko coding ko style ta ekdamai smooth ani efficient thiyo.",
+        "label": "appreciation"
+    },
+    {
+        "text": "Namaskar mero sathi haru, aba aba k garna cha bhanera kehi kura garnu parcha.",
+        "label": "greetings"
+    },
+    {
+        "text": "Yo sahar ko traffic jam kasari solve garna sakchhau bhanne ma ekdamai curious chu.",
+        "label": "question"
+    },
+    {
+        "text": "Bholi ta aba kata jane sochda ramailo lagcha, aba aba chai ramro planning garna parcha.",
+        "label": "farewell"
+    },
+    {
+        "text": "Tapai lai ekdamai ramro lagi rahyo ki aba aba savings ko baarema bujhnu important huncha.",
+        "label": "advice"
+    },
+    {
+        "text": "Ek thulo mahasamudra ma ek baadale thulo kaarhan banayo, yo ajkal ko samachar ma focus cha.",
+        "label": "news"
+    },
+    {
+        "text": "Maile ek din ek story padhe ki euta parrot le usko master lai kasari bachayo.",
+        "label": "story"
+    },
+    {
+        "text": "Yo hospital ko management le aba aba chadai patient service sudharna sakcha bhanera complain cha.",
+        "label": "complaint"
+    },
+    {
+        "text": "Yo artwork ta ekdamai sundar lagyo, aba aba timi le lagi ramro design garchhau.",
+        "label": "appreciation"
+    },
+    {
+        "text": "Namaste, aba aba chai tapai sangai sabai ma kehi plan ma discuss garna mann lagcha.",
+        "label": "greetings"
+    },
+    {
+        "text": "Yo jado ma aba aba tapai lai ke advice huncha health ko lagi bhanera sodhna mann lagcha.",
+        "label": "question"
+    },
+    {
+        "text": "Aja ko din ramailo bitcha, aba aba chai ta aru sathi sangai yatra garum hai.",
+        "label": "farewell"
+    },
+    {
+        "text": "Pani ko chemical formula H2O ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Surya le aafno roshni hydrogen ko combustion le produce garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Chandra ko maathi ko satta ekdamai paani ko ocean le dhakiyeko chha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Oxygen bina ko jeevan dharti ma sambhaw chhaina.",
+        "label": "correct"
+    },
+    {
+        "text": "Carbon dioxide ko molecular weight hydrogen bata thulo huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Electrons nucleus ko bhitra baschha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Black holes ko gravity sabai kura attract garna sakchha.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth ko orbit ekdamai perfect circle ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "DNA double helix structure ma organized huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Water freezing point is 0°C at standard atmospheric pressure.",
+        "label": "correct"
+    },
+    {
+        "text": "Photosynthesis ma plants carbon dioxide ani sunlight le glucose banauchha.",
+        "label": "correct"
+    },
+    {
+        "text": "Uranus ek solid surface bhayeko planet ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Blood group O universal donor ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Saturn le chaar moons matra rakhcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Speed of light is 3 x 10^8 m/s.",
+        "label": "correct"
+    },
+    {
+        "text": "Sound waves vacuum ma travel garna sakchha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Earth ko crust ekdomai patlo layer ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Pluto solar system ko ninth planet ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Human body ma 206 ota haad haru huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Light waves longitudinal huncha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Saturn ko rings particles of ice ani dust le baneko cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Penicillin antibiotics ko ekdam important discovery ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Magnet poles same charge le attract garcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Einstein le Theory of Relativity propose gareko thiyo.",
+        "label": "correct"
+    },
+    {
+        "text": "Sun ko age around 10 billion years ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "RNA single-stranded structure ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Venus ko atmosphere sulfuric acid le bharieko chha.",
+        "label": "correct"
+    },
+    {
+        "text": "Force mass ani acceleration ko product ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Evaporation ko process liquid to gas state conversion ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth ko surface 71% water le dhakiyeko cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Protons negative charge le charged particles ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Vaccination immune system boost garna help garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Milky Way galaxy andromeda galaxy ko closest neighbor ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth ko rotation 48 hours ma complete huncha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Jupiter solar system ko largest planet ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Atoms ko smallest particles electrons ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Homo sapiens humans ko scientific name ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Liquid states particles ekdamai tightly packed huncha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Gravity acceleration Earth ma 9.8 m/s^2 ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Water boiling temperature 100°C at sea level ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Antibiotics virus ma effective huncha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Cells ko mitochondria energy produce garne organelle ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth le Moon lai self-generated light dekhcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Speed of sound air ma water ko bhaanda kam huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Human ko brain le approx 2% body weight occupy garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Hydrogen universe ko sabbhanda lightest element ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Asteroids Earth ko orbital path ma stable position ma rahanchha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Neptune sabbhanda thanda planet ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Chloroplasts animals ma photosynthesis ko lagi important organelle ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Planets elliptical orbit ma sun ko charipatti ghumchha.",
+        "label": "correct"
+    },
+    {
+        "text": "Aurora lights sun ko radiation le atmosphere ma reaction garne result ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Mars ko surface ma liquid water ko evidence paayeko chha.",
+        "label": "correct"
+    },
+    {
+        "text": "DNA ma total 5 nitrogen bases huncha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Solar energy renewable energy source ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Plants le oxygen production ko lagi sunlight absorb garcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Saturn ko density water ko density bhanda kam cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Black holes ko event horizon ekdamai dense matter ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Human skeleton system ma 206 haad haru huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Jupiter le sun ko light emit garcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Earth ko magnetic field inner core ko motion le generate huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Genetics ko father Gregor Mendel ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Atoms are indivisible smallest particles of matter.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Kinetic energy mass ani velocity ko product ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Bacteria ko reproduction process binary fission ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Evolution ko theory Charles Darwin le propose gareko thiyo.",
+        "label": "correct"
+    },
+    {
+        "text": "Mercury sabbhanda thanda planet ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "E=mc^2 formula Einstein le derive gareko energy-mass equivalence ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Chlorophyll plants ko photosynthesis ma sunlight absorb garna madat garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Venus ko atmosphere nitrogen-dominant ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Human brain ma neurons ko number approximately 86 billion cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Light speed universe ma maximum speed ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Humans ek single-celled organism ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Protons ani neutrons nucleus ko bhitra huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Fossil fuels non-renewable energy sources ma parcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Human lungs ko main function oxygen breakdown ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Amphibians both land ani water ma basna sakchha.",
+        "label": "correct"
+    },
+    {
+        "text": "Pluto 2006 pachhi dwarf planet ma classified cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Antibiotics le viral infections cure garcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Acid rain sulfur dioxide ani nitrogen oxides le bancha.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth ko gravitational force sabai directions ma uniform cha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Comets le mainly ice, dust, ani rocky material ko combination ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Photosynthesis ma glucose bancha oxygen ko help le.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Earth ko axial tilt seasons cause garna madat garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Radio waves sabbhanda high frequency ko electromagnetic waves ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Hydrogen ek non-metal element ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth ko age approximately 4.5 billion years cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Vaccines virus ani bacteria le fight garna immunity develop garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Electrons negative charge particles ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Dinosaurs 100 million years ago ko dinosaurs abi living animals ko ancestor ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Ultraviolet rays vitamin D ko production ma madat garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Atomic nucleus ma negative charge particles huncha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Earth ko atmosphere 78% nitrogen ani 21% oxygen ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Water ko density maximum 4°C ma huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Sound vacuum ma travel garna sakchha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Venus sabbhanda hot planet ho solar system ma.",
+        "label": "correct"
+    },
+    {
+        "text": "Mars ma gravity Earth ko bhanda dherei strong cha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Solar eclipse Earth ko shadow le Sun ma parcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Jupiter le sabai planets bhanda strongest magnetic field cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Mitochondria energy production ko powerhouse ho cell ma.",
+        "label": "correct"
+    },
+    {
+        "text": "Lunar eclipse ma Earth le Sun ani Moon ko bich ma shadow create garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth ko diameter equator ma poles ko diameter bhanda thulo huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Sound energy particles ko vibrations le produce huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Sun ko surface temperature approximately 5,500°C ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Human body ko largest organ brain ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Solar system ma total 8 planets cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Energy create ani destroy garna sakinchha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Electric current negatively charged electrons ko flow le banchha.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth ko rotation east to west huncha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Mars ko atmosphere majorly carbon dioxide ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Ozone layer Earth ko harmful UV rays le protect garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Saturn ko gravity Earth ko gravity ko 10x ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Viruses ko basic structure protein coat ani genetic material ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Plants le oxygen intake garna pani respiration ko lagi photosynthesis garcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Energy conversion heat to work turbine systems ma huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Electromagnetic waves medium ko bina travel garna sakchha.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth le har saal apno orbital speed increase garcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Mercury ko atmosphere almost nonexistent cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Light ko dual nature wave ani particle ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Antarctica Earth ko sabbhanda thando continent ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Human skeleton 50% paani le baneko ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "RNA ko sugar ribose ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Photosynthesis process plants le raat ma matra garcha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Earth ko magnetic field iron ani nickel ko molten core le generate huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Light refraction ko karan pani ko bich visibility effect aauchha.",
+        "label": "correct"
+    },
+    {
+        "text": "Carbon ek inorganic element ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Ultrasound waves human ear le sunna sakchha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Nuclear fission energy production ko lagi used process ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Human body ko smallest bone ear ma cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Ammonia ko formula NH3 ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Universe expand huna roke ko cha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Gravitational force objects ko mass ani distance ko proportional huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Water vaporization heat energy ko absorption ma depend garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Bones 100% solid tissue le baneko ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Human liver body ko sabbhanda largest internal organ ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Pluto neptune ko orbit ko pachhadi rahanchha.",
+        "label": "correct"
+    },
+    {
+        "text": "Newton’s third law action ani reaction ko theory ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Solar panels sunlight absorb garcha electricity ko lagi.",
+        "label": "correct"
+    },
+    {
+        "text": "Light ko dispersion rainbow formation ma madat garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Nucleus DNA store garne cell structure ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Global warming sun le extra heat produce gareko karan ho.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Sound speed water ma air bhanda tulo huncha.",
+        "label": "correct"
+    },
+    {
+        "text": "Atoms solid objects ko sabbhanda smallest building blocks ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Radioactive elements continuously stable state ma rahanchha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Cyanobacteria photosynthesis garcha.",
+        "label": "correct"
+    },
+    {
+        "text": "Aurora borealis magnetic field ani solar wind interaction ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Electric current AC and DC both form ma available cha.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth ko orbit sun ko charipatti square shape ma cha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Kepler ko laws planetary motion ko lagi valid ho.",
+        "label": "correct"
+    },
+    {
+        "text": "Earth ko poles ma ozone layer thick huncha.",
+        "label": "incorrect"
+    },
+    {
+        "text": "Methane ek greenhouse gas ho.",
+        "label": "correct"
+    }
+]

@@ -1,0 +1,1967 @@
+[
+    {
+        "instruction": "Yo sentence ko meaning English ma explain garera dekhau.",
+        "input": "Ma ghar ma chhu.",
+        "output": "The sentence means 'I am at home' in English."
+    },
+    {
+        "instruction": "Yo math problem solve garera answer dekhau.",
+        "input": "5 + 7 - 3 = ?",
+        "output": "Answer is 9."
+    },
+    {
+        "instruction": "Ek chhoto story lekhi dekhau jasle ek lesson sikcha.",
+        "input": "",
+        "output": "Ek din ek kukur thiyo jun dherai greedy thiyo. Usle ek haddi bhetera pul ma pugyo, pani ma afno reflection dekhyo, tesaile usle aru ko haddi lincha bhanera afno haddi jharyo. Lesson: Greed can make you lose what you already have."
+    },
+    {
+        "instruction": "Yo question ko answer Roman Nepali ma lekhi dekhau.",
+        "input": "What is the capital of Nepal?",
+        "output": "Nepal ko capital Kathmandu ho."
+    },
+    {
+        "instruction": "Ekta Nepali geet ko first line lekhi dekhau.",
+        "input": "",
+        "output": "Resham firiri, resham firiri, uda uda jayau hai!"
+    },
+    {
+        "instruction": "Yo sentence lai translate garera Nepali ma lekha.",
+        "input": "I am going to the market.",
+        "output": "Ma bajarma jadai chhu."
+    },
+    {
+        "instruction": "Yo text lai summarize garera chhoto ma lekhi dekhau.",
+        "input": "Ram ek industrious manche ho. Usle dherai mehnat garera afno jindagi ma safalta hasil gareko cha.",
+        "output": "Ram ek hardworking manche ho ra usle safalta payo."
+    },
+    {
+        "instruction": "Yo recipe ko steps Roman Nepali ma lekhi dekhau.",
+        "input": "Make a cup of tea.",
+        "output": "1. Ek cup pani taato garera bokau. 2. Pani ma chai patta rakhera 2 minute samma boil garau. 3. Chini ani dudh milayera ramrai sanga mix garau. 4. Cup ma chai nalera serve garau."
+    },
+    {
+        "instruction": "Yo data ko bar graph kasari banau bhanera process samjhauna.",
+        "input": "Data: 2020: 50, 2021: 75, 2022: 100",
+        "output": "1. Data ko year ani value plot garna table banau. 2. X-axis ma year rakhau ani Y-axis ma values. 3. Har year ko corresponding value ma bar draw garera graph complete garau."
+    },
+    {
+        "instruction": "Ekta motivational message Roman Nepali ma lekhi dekhau.",
+        "input": "",
+        "output": "Jindagi ma afno sapana pura garna ka lagi mehnat garna na chhoda, kina ki safalta tyaha pugchha jun tapai ko hausala le lagcha."
+    },
+    {
+        "instruction": "Yo topic ma advantages ra disadvantages lekhera dekhau.",
+        "input": "Online education",
+        "output": "Advantages: 1. Time flexibility. 2. Anywhere bata padhna sakincha. 3. Diverse courses available. Disadvantages: 1. Internet access mandatory. 2. Interaction kam huncha. 3. Self-discipline ko zarurat huncha."
+    },
+    {
+        "instruction": "Nepal ko ek famous tourist destination ko bare ma short description lekha.",
+        "input": "",
+        "output": "Pokhara ek popular tourist destination ho Nepal ma. Tyaha Phewa taal, Sarangkot view, ani paragliding ko lagi famous cha."
+    },
+    {
+        "instruction": "Timi afno din kasari bitaucho bhanera lekha.",
+        "input": "",
+        "output": "Ma bihana 6 baje uthchhu, ani exercise garera nashta khanchhu. Office janchhu, kaam garchhu, ani beluka ghar farkera family sanga time bitauchhu."
+    },
+    {
+        "instruction": "Ekta proverb lekhi tyo explain garera dekhau.",
+        "input": "Rome wasn't built in a day.",
+        "output": "Isko matlab ho thulo ya ramro kura samaya lagayera matra sambhawa huncha. Sabai kura patience ra continuous effort chahinchha."
+    },
+    {
+        "instruction": "Yo sentence ma grammatical mistake cha ki chaina? Chaincha bhane correct garera dekhau.",
+        "input": "He go to school everyday.",
+        "output": "Mistake cha. Correct sentence: He goes to school every day."
+    },
+    {
+        "instruction": "Yo number lai Nepali ma bolera lekha.",
+        "input": "1234",
+        "output": "Ek hazar dui saye chautis."
+    },
+    {
+        "instruction": "Ekta funny joke lekhi dekhau.",
+        "input": "",
+        "output": "Master: Yo prasna kasle garna sakcha? Student: Sir, prasna ta tapaile nai garna saknu huncha, hami ta answer dinchhau!"
+    },
+    {
+        "instruction": "Ek sentence ma yo word use garera example lekha: 'Sundar'",
+        "input": "",
+        "output": "Pokhara ek sundar shahar ho."
+    },
+    {
+        "instruction": "Tyo festival ko bare ma detail lekha.",
+        "input": "Dashain",
+        "output": "Dashain Nepal ko sabse thulo festival ho, jun das din samma manincha. Manchheharu jamma huncha, tika ra jamara lagaincha, ra khushi manaincha."
+    },
+    {
+        "instruction": "Yo list ma ek item add garera dekhau.",
+        "input": "Apple, Banana, Orange",
+        "output": "Apple, Banana, Orange, Mango"
+    },
+    {
+        "instruction": "Yo text lai Nepali ma rewrite garera dekhau.",
+        "input": "Nepal is known for its beautiful mountains.",
+        "output": "Nepal afno sundar parbat haru ko lagi prakhyat cha."
+    },
+    {
+        "instruction": "Ek simple health tip Nepali ma dekhau.",
+        "input": "",
+        "output": "Dherai pani khanu, daily exercise garnu, ra balance diet apnau."
+    },
+    {
+        "instruction": "Ek line ma gratitude express garera lekha.",
+        "input": "",
+        "output": "Mero jiwan ma jati ramro kura cha, tesko lagi ma dhanyabad dinchhu."
+    },
+    {
+        "instruction": "Yo movie ko ek short review lekhi dekhau.",
+        "input": "3 Idiots",
+        "output": "'3 Idiots' ek inspiring ra entertaining movie ho. Isma education system ko flaws ra sapana ko pichha garnu parcha bhanne kura sikaincha."
+    },
+    {
+        "instruction": "Ekta Nepali riddle ko example dekhau.",
+        "input": "",
+        "output": "Ek thau ma bhanera bolayeni, kahile dekhaudaina. Yo ke ho? Answer: Kaan (ear)."
+    },
+    {
+        "instruction": "Ekta chhoto motivational quote lekhi dekhau.",
+        "input": "",
+        "output": "Afno sapana pura garna afno mehnat ma biswas gar."
+    },
+    {
+        "instruction": "Yo sentence ko tone friendly banaera rewrite garera dekhau.",
+        "input": "Can you please submit the report?",
+        "output": "Hajur, report submit garna sakincha ta?"
+    },
+    {
+        "instruction": "Yo question ko logical answer dekhau.",
+        "input": "Kina manche udaye ko chimeki ko ghanti bajaucha?",
+        "output": "Ghanti bajayera manche andar cha ki chaina bhanera thaha pauna."
+    },
+    {
+        "instruction": "Ekta Nepali custom ko explanation garera dekhau.",
+        "input": "Tika lagaundai Ashirbad dinu.",
+        "output": "Tika lagaundai Ashirbad dinu bhaneko manchhe lai ramro bhavishya ra khushi ko kamana garnu ho."
+    },
+    {
+        "instruction": "Yo pani ko ek positive aspect explain garera dekhau.",
+        "input": "",
+        "output": "Pani bina jindagi sambhab chaina, kinaki yasle hamro sharir hydrated rakcha ra productivity badhauncha."
+    },
+    {
+        "instruction": "Ekta positive feedback dekhau yo situation ma.",
+        "input": "Your friend completed a project successfully.",
+        "output": "Wah! Timi le dherai ramro kaam gareko chau, project dherai ramailo ani impactful cha."
+    },
+    {
+        "instruction": "Ekta weather forecast example lekhi dekhau.",
+        "input": "",
+        "output": "Aaja ko mausam ramro rahanecha, beluka samma halka pani parna sakcha. Ta pani chhata lagera janus."
+    },
+    {
+        "instruction": "Yo math problem lai step by step solve garera answer dekhau.",
+        "input": "10 x (2 + 3) = ?",
+        "output": "1. Parentheses solve garnu: 2 + 3 = 5. 2. Multiply garera final answer: 10 x 5 = 50."
+    },
+    {
+        "instruction": "Nepal ko ekta popular food ko bare ma lekha.",
+        "input": "",
+        "output": "Momo ek popular Nepali food ho, jun steamed ya fried dumplings ho. Isma masu ya sabji ko filling huncha."
+    },
+    {
+        "instruction": "Ekta interesting fact Nepali ma dekhau.",
+        "input": "",
+        "output": "Sagarmatha (Mount Everest) duniya ko sabse uchai ko parbat ho."
+    },
+    {
+        "instruction": "Tyo situation ma kasari react garna parcha? Suggest garera dekhau.",
+        "input": "Timi ko saathi dherai dukhi cha kinaki usko exam fail bhayo.",
+        "output": "Uslai support garera bhannu, 'Timi le mehnat gareko cha, aba aru ramro garna sakchau. Aba aagadi ko lagi focus gara.'"
+    },
+    {
+        "instruction": "Yo word ko spelling check garera thik cha ki chaina bhanera bata.",
+        "input": "Recieve",
+        "output": "Mistake cha. Correct spelling ho 'Receive'."
+    },
+    {
+        "instruction": "Ekta chhoto poem lekhi dekhau.",
+        "input": "",
+        "output": "Pahar, tala bechi, sundar desh Nepal, \nSabai lai ramailo, ghar ko cha taal. \nSagarmatha mathi, tara jasto jhilke, \nNepal ko chitra, sabai ko dil ma."
+    },
+    {
+        "instruction": "Yo question ko answer short ma dekhau.",
+        "input": "Nepal ko rashtriya ful ko naam ke ho?",
+        "output": "Laliguras."
+    },
+    {
+        "instruction": "Yo topic ma disadvantages matra mention garera dekhau.",
+        "input": "Social media",
+        "output": "1. Time waste garna sakcha. 2. Privacy ko issue huncha. 3. Addiction ko karan productivity ghatna sakcha."
+    },
+    {
+        "instruction": "Nepali ko ek historical fact lekhi dekhau.",
+        "input": "",
+        "output": "Prithvi Narayan Shah le Nepal lai ekikrit gareko thiyo, ra usko rajya ekikaran ma thulo yogdan cha."
+    },
+    {
+        "instruction": "Ek simple yes/no question banaera dekhau.",
+        "input": "",
+        "output": "Nepal ko jhanda duniya ko matra dui kona ko jhanda ho?"
+    },
+    {
+        "instruction": "Yo list ma ekta item remove garera update garera dekhau.",
+        "input": "Car, Bike, Bus, Cycle",
+        "output": "Car, Bike, Cycle"
+    },
+    {
+        "instruction": "Timi ko favorite jagah ko bare ma ek line ma lekha.",
+        "input": "",
+        "output": "Pokhara mero favorite jagah ho, kina ki tyaha ko taal ani view dherai ramro cha."
+    },
+    {
+        "instruction": "Yo question lai thik structure ma rephrase garera dekhau.",
+        "input": "K timi aaja ghar ma auney?",
+        "output": "Aaja timi ghar ma auney chau?"
+    },
+    {
+        "instruction": "Yo story ko moral likhi dekhau.",
+        "input": "Ek din ek kakro bhok lagyo, usle bhandi ko tukra khayo. Tyo tukra mitho thiyo. Tyo le thik samaya ma harek lai khaanu parcha bhanera thaha paayo.",
+        "output": "Moral: Thik samaya ma thik kura garnu dherai important huncha."
+    },
+    {
+        "instruction": "Yo sentence lai polite tone ma rewrite garera dekhau.",
+        "input": "Tapai le yo file aba samma pathako chaina.",
+        "output": "Kripaya yo file pathauna milcha ta?"
+    },
+    {
+        "instruction": "Yo sentence lai negative ma convert garera dekhau.",
+        "input": "Ma yo kaam garna sakchhu.",
+        "output": "Ma yo kaam garna sakdina."
+    },
+    {
+        "instruction": "Nepal ma popular traditional attire ko naam lekhi dekhau.",
+        "input": "",
+        "output": "Daura Suruwal ra Gunyo Cholo."
+    },
+    {
+        "instruction": "Yo problem ko practical solution dekhau.",
+        "input": "Maile time management ma problem face gariraheko chu.",
+        "output": "Daily schedule banaera priority list create gar. Sabai important task pahile complete gar."
+    },
+    {
+        "instruction": "Yo English sentence ko translation Nepali ma lekha.",
+        "input": "The sun rises in the east.",
+        "output": "Surya purba ma udcha."
+    },
+    {
+        "instruction": "Ekta unique puzzle lekhi dekhau.",
+        "input": "",
+        "output": "Ma ghadi ho tara time bataudina, ma phone ho tara call gardina. Ma ke ho? Answer: Calculator."
+    },
+    {
+        "instruction": "Timi le herna manparne movie ko bare ma ek line ma lekha.",
+        "input": "",
+        "output": "Avengers mero manparne movie ho, kina ki isma dherai action ra teamwork cha."
+    },
+    {
+        "instruction": "Yo statement true ho ki false bhanera bata.",
+        "input": "Nepal ko national animal gai ho.",
+        "output": "False, Nepal ko national animal gai hoina, rhino ho."
+    },
+    {
+        "instruction": "Yo question ko detail answer garera dekhau.",
+        "input": "Nepal ma kina tourism popular cha?",
+        "output": "Nepal ma tourism popular cha kinaki tyaha Sagarmatha jasto parbat haru, pokhara jasto sundar thau, ra dherai cultural heritage sites cha jasto ki Kathmandu ma Swayambhunath ani Patan Durbar Square."
+    },
+    {
+        "instruction": "Ek chhoto inspirational kahani lekhi dekhau.",
+        "input": "",
+        "output": "Ek din ek garib kisan le ek gold coin bheto. Usle dherai khushi hune sanga tyo paisa bachayera lagani garera dherai paisa kamayeko thiyo. Lesson: Patience ani mehnat le safalta lyauncha."
+    },
+    {
+        "instruction": "Nepali alphabet lai roman ma type garera dekhau.",
+        "input": "",
+        "output": "Ka, Kha, Ga, Gha, Nga, Cha, Chha, Ja, Jha, Nya."
+    },
+    {
+        "instruction": "Yo game kasari khelna sakchha bhanera rules samjhauna.",
+        "input": "Chess",
+        "output": "Chess ma dui player huncha. Ek player white pieces ani aru black use garchha. King lai checkmate gardai game jityo. Har piece ko unique move huncha jasto ki pawn le aagadi 1 step chalcha, knight 'L' shape ma chalcha."
+    },
+    {
+        "instruction": "Nepal ko ekta UNESCO heritage site ko description lekha.",
+        "input": "",
+        "output": "Bhaktapur Durbar Square ek UNESCO World Heritage Site ho. Tyaha sundar architecture, ancient temples ra historic darbar haru cha."
+    },
+    {
+        "instruction": "Yo topic ma ekta pros ra ekta cons mention garera dekhau.",
+        "input": "Online shopping",
+        "output": "Pro: Sajilo ra ghar ma basera saman kinna sakincha. Con: Saman ko quality sometimes confirm garna garo huncha."
+    },
+    {
+        "instruction": "Yo conversation lai complete garera dekhau.",
+        "input": "A: Timi kaha jadai chau? B:",
+        "output": "B: Ma bajarma jadai chu. Timi kaha jadai chau?"
+    },
+    {
+        "instruction": "Ekta self-introduction example Roman Nepali ma dekhau.",
+        "input": "",
+        "output": "Namaste, mero naam Ramesh ho. Ma Kathmandu bata ho ra IT field ma kaam garchhu. Mero interest coding ra traveling ma cha."
+    },
+    {
+        "instruction": "Ekta chhoto joke banaera dekhau.",
+        "input": "",
+        "output": "Saathi: Timi nepali ma 'Queue' kasari lekchau? Ma: Aba sabdai lai English ko translate garnu parcha ta!"
+    },
+    {
+        "instruction": "Yo question ko correct answer select garera dekhau.",
+        "input": "Nepal ma kati ota jilla cha? Options: a) 75, b) 77, c) 80",
+        "output": "Correct answer: b) 77"
+    },
+    {
+        "instruction": "Yo sentence ko passive voice banaera dekhau.",
+        "input": "Ram ate an apple.",
+        "output": "An apple was eaten by Ram."
+    },
+    {
+        "instruction": "Ekta inspiring story ko start garera example dekhau.",
+        "input": "",
+        "output": "Ek din ek garib manche thiyo, jun din bhar kaam garchha tara usko sapana dherai thulo thiyo. Usle aba afno sapana pura garna small steps lena thalcha..."
+    },
+    {
+        "instruction": "Yo sentence ko synonym use garera rewrite garera dekhau.",
+        "input": "He is very smart.",
+        "output": "He is extremely intelligent."
+    },
+    {
+        "instruction": "Ekta motivational message lekhi dekhau.",
+        "input": "",
+        "output": "Afno sapana ma biswas rakh, aba aagadi ko ek ek kadam tyo sapana lai pura garchha."
+    },
+    {
+        "instruction": "Yo instruction ko step-by-step process dekhau.",
+        "input": "How to make rice?",
+        "output": "1. Pani tapkari cooker ma rakha. 2. Chamal milayera dhunus. 3. Cooker ma chamal rakh, ani 2 cup pani thapnus. 4. Lid lagayera 2-3 whistle samma wait garera banaunus."
+    },
+    {
+        "instruction": "Nepal ko ekta important date ko bare ma lekha.",
+        "input": "",
+        "output": "Baisakh 12, 2072 ma Nepal ma thulo earthquake aayo, jasle dherai thulo haani garayo ra rebuilding process suru bho."
+    },
+    {
+        "instruction": "Yo question ko creative answer lekhi dekhau.",
+        "input": "Kina kukur chhata lagayera hudaina?",
+        "output": "Kina ki uslai ta pani ko tension hudaina ra uska kaan haru chhata jastai chalcha."
+    },
+    {
+        "instruction": "Ekta Nepali dish ko recipe samjhauna.",
+        "input": "Dal Bhat",
+        "output": "1. Mas ko dal dhunera pani ma boil garera masala add garera pakaunus. 2. Bhat ko lagi chamal dhunus ra cooker ma pakaunus. 3. Dal ani bhat sanga tarkari serve garera khanus."
+    },
+    {
+        "instruction": "Yo question ko short answer dekhau.",
+        "input": "Nepal ma kasto climate cha?",
+        "output": "Nepal ma varied climate cha, tarai ma tropical ra pahad ma cold huncha."
+    },
+    {
+        "instruction": "Ek simple English sentence lai Roman Nepali ma translate garera dekhau.",
+        "input": "The cat is sitting on the roof.",
+        "output": "Biralo chhat ma basiraheko cha."
+    },
+    {
+        "instruction": "Yo text lai bullet points ma summarize garera dekhau.",
+        "input": "Nepal ma tourism ko scope dherai cha. Pahad, taal, ani cultural heritage le tourists lai attract garcha.",
+        "output": "- Nepal ma tourism ko scope dherai cha. \n- Pahad, taal, ani cultural heritage are main attractions."
+    },
+    {
+        "instruction": "Ekta chhoto general knowledge fact lekha.",
+        "input": "",
+        "output": "Nepal ma duniya ko uchai thulo peak Sagarmatha (Mt. Everest) cha."
+    },
+    {
+        "instruction": "Yo question ko imagination use garera answer dekhau.",
+        "input": "Timi ko ek din ma unlimited paisa bhaye, timi ke garcha?",
+        "output": "Ma Nepal ma school ra hospital haru banaune, ra sabai lai free education ra health services provide garchu."
+    },
+    {
+        "instruction": "Yo sentence ko opposite emotion ma rewrite garera dekhau.",
+        "input": "He is very happy today.",
+        "output": "He is very sad today."
+    },
+    {
+        "instruction": "Ek simple question banaera dekhau.",
+        "input": "",
+        "output": "Nepal ko sabai bhanda thulo taal ko naam ke ho?"
+    },
+    {
+        "instruction": "Ek Nepali festival ko importance explain garera dekhau.",
+        "input": "Tihar",
+        "output": "Tihar Nepali festival ho, jun lights ani brothers-sisters ko bond celebrate garna manincha. Tihar ma kukur, gai, ra laxmi puja pani garincha."
+    },
+    {
+        "instruction": "Ekta movie dialogue example lekha.",
+        "input": "",
+        "output": "Ma timro lagi jindagi dinna sakchhu, tara jhut bolna sakdina."
+    },
+    {
+        "instruction": "Ekta casual text message Nepali ma dekhau.",
+        "input": "",
+        "output": "Hello, aaja ko plan k ho? Coffee jana milcha?"
+    },
+    {
+        "instruction": "Ekta riddle banaera dekhau.",
+        "input": "",
+        "output": "Ma khola ko aru pari janchu, sabai le malai taarkera hercha, ma ke ho? Answer: Pul (Bridge)."
+    },
+    {
+        "instruction": "Yo question ko logical answer dekhau.",
+        "input": "Kina manche haru chhata use garchhan?",
+        "output": "Chhata manche haru le pani ra gham bata bachna use garchhan."
+    },
+    {
+        "instruction": "Ekta funny situation describe garera dekhau.",
+        "input": "",
+        "output": "Ek din maile jhola ma mobile rakhnu bhanera remote rakhidiyo, ani mobile khojda pura ghar ma remote ko talas garna thaleko."
+    },
+    {
+        "instruction": "Ekta short travel guide Nepali ma dekhau.",
+        "input": "Pokhara",
+        "output": "Pokhara visit garna taal talau sundar cha. Phewa taal ma boating garna milcha, Davis falls ra Mahendra cave pani herna jaanus."
+    },
+    {
+        "instruction": "Yo English word ko meaning Nepali ma lekha.",
+        "input": "Courage",
+        "output": "Courage ko arth ho himmat."
+    },
+    {
+        "instruction": "Ekta motivational example banaera dekhau.",
+        "input": "",
+        "output": "Ekta chhoto kaag ra dubo ko kahani ma, dubo le continuously try gardai kaag leke yo tarika ma succeed hunchha bhanera praman garyo. Aba tapai le pani try gardai safal hunu sakcha."
+    },
+    {
+        "instruction": "Yo recipe ko process summarize garera dekhau.",
+        "input": "Momo banaune tarika",
+        "output": "Momo ko lagi stuffing banaera, dough lai roll garera stuffing halnus. Steamer ma momo pakaera chutney sanga serve garera khanus."
+    },
+    {
+        "instruction": "Yo question lai future tense ma rewrite garera dekhau.",
+        "input": "Timi kaha jadai chau?",
+        "output": "Timi kaha jane chau?"
+    },
+    {
+        "instruction": "Ekta nepali proverb ko example ra meaning lekha.",
+        "input": "",
+        "output": "Proverb: 'Haati ayo, haati ayo fuskeko.' Meaning: Dherai kura garera kam matra garne manche ko barema."
+    },
+    {
+        "instruction": "Ekta quick life tip dekhau.",
+        "input": "",
+        "output": "Daily morning ma pani dherai pinu ani exercise garna health ko lagi ramro huncha."
+    },
+    {
+        "instruction": "Ekta festival related question banaera dekhau.",
+        "input": "",
+        "output": "Dashain ko sabai bhanda important tika ko din kun ho?"
+    },
+    {
+        "instruction": "Ekta nepali geet ko line bataa.",
+        "input": "",
+        "output": "Resham firiri, resham firiri, udaula ma ta pareli tiriri."
+    },
+    {
+        "instruction": "Ekta chhoto inspiring message lekha.",
+        "input": "",
+        "output": "Asar garna chhota kadam thulo asar garna sakcha. Aba chhoto kadam linu hos!"
+    },
+    {
+        "instruction": "Yo phrase ko simpler form ma translate garera dekhau.",
+        "input": "I have a keen interest in learning about history.",
+        "output": "Ma itihas sikna dherai manparcha."
+    },
+    {
+        "instruction": "Ekta question ko multi-choice options banaera dekhau.",
+        "input": "Nepal ma sabai bhanda aglo himal ko naam ke ho?",
+        "output": "a) Lhotse, b) Annapurna, c) Everest, d) Kanchenjunga"
+    },
+    {
+        "instruction": "Ekta common scenario explain garera dekhau.",
+        "input": "",
+        "output": "Nepali manche haru Dashain ma ghar jane, tika lagayera family sanga time spend garne."
+    },
+    {
+        "instruction": "Ekta chhoto story finish garera dekhau.",
+        "input": "Ekta manche jungle ma harya, ani usle ek sundar phool dekheko thiyo...",
+        "output": "...tyo phool ma usle message dekha 'Always believe in yourself'. Aba usle courage le afno rasta khojcha ra ghar pugcha."
+    },
+    {
+        "instruction": "Ekta riddle ko answer dekhau.",
+        "input": "Ma din ma chodcha, tara rat ma chodna sakdina. Ma ke ho?",
+        "output": "Answer: Chhaya (Shadow)."
+    },
+    {
+        "instruction": "Ekta topic ko short essay lekha.",
+        "input": "Importance of education",
+        "output": "Education jindagi ma success ko kunji ho. Yo le manche lai sikna, sochna, ra afno sapana pura garna help garcha. Education le social ani economic life better banaucha."
+    },
+    {
+        "instruction": "Ekta conversation ko funny end dekhau.",
+        "input": "A: Maile naya phone kinchu bhaneko thiye. B: Kasto cha tyo phone?",
+        "output": "A: Phone ta aba budget pachi ko sapana ma cha."
+    },
+    {
+        "instruction": "Ekta general knowledge question lekha.",
+        "input": "",
+        "output": "Nepal ko national bird ko naam ke ho?"
+    },
+    {
+        "instruction": "Ekta real-life problem ko solution bataa.",
+        "input": "Time management ko lagi suggestion dekhau.",
+        "output": "Daily routine banaera priority list use gara, aru non-urgent task lai baad ma rakh."
+    },
+    {
+        "instruction": "Ekta polite reply dekhau.",
+        "input": "Tapai ko email aba samma pathaeko chaina.",
+        "output": "Maile email pathaune try gareko thiye, aba double check garera feri pathauchhu."
+    },
+    {
+        "instruction": "Ekta tourist destination recommend garera explain gara.",
+        "input": "",
+        "output": "Chitwan National Park visit garna sajilo ani exciting huncha. Tyaha wildlife safaris ani cultural experience pani cha."
+    },
+    {
+        "instruction": "Ekta Nepali culture ko aspect explain garera dekhau.",
+        "input": "",
+        "output": "Nepali culture ma saathi bhai ani parivar ko strong bond huncha, ani tika ko time blessing dinu ek unique tradition ho."
+    },
+    {
+        "instruction": "Ekta funny trivia lekha.",
+        "input": "",
+        "output": "Nepali TV remote ghumaune skill sabai manche ma cha, tara remote ko actual kaam sabaile bujhdaina!"
+    },
+    {
+        "instruction": "Yo sentence ko meaning short ma explain garera dekhau.",
+        "input": "Afno ghar ko bato najik huncha.",
+        "output": "Afno afnai kura ani parivaar sabai bhanda important huncha."
+    },
+    {
+        "instruction": "Ekta fitness related suggestion Nepali ma lekha.",
+        "input": "",
+        "output": "Daily 30 minutes exercise garera, healthy khana khana focus garna saknu parcha."
+    },
+    {
+        "instruction": "Yo sentence ko formal version lekha.",
+        "input": "Tapai le kasari yo problem solve garnu huncha?",
+        "output": "Tapai yo samasya samadhan garne upaya kasto sochna huncha?"
+    },
+    {
+        "instruction": "Ekta historical Nepali fact bataa.",
+        "input": "",
+        "output": "Prithvi Narayan Shah le Nepal ekikaran ko kaam suru gare, jun 1779 ma pura bho."
+    },
+    {
+        "instruction": "Ekta Nepali location ko description banaera dekhau.",
+        "input": "Rara Lake",
+        "output": "Rara taal Nepal ko sabai bhanda thulo taal ho, jun Karnali Pradesh ma cha. Yo taal le sundar paani ani nature ko shanti ko anubhuti dincha."
+    },
+    {
+        "instruction": "Yo instruction follow garera Nepali ma ekta positive thought lekha.",
+        "input": "Morning positive energy ko lagi.",
+        "output": "Subha bihana le naya suruwat ani fresh energy dincha. Din ko ek chhoto thankful moment le inspiration linu hos!"
+    },
+    {
+        "instruction": "Ekta math problem banaera lekha.",
+        "input": "",
+        "output": "Ek ghanta ma Ram le 4 kitaab padhcha. Aba usle 5 ghanta ma kati kitaab padhla?"
+    },
+    {
+        "instruction": "Ekta festival wish dekhau.",
+        "input": "Tihar",
+        "output": "Tihar ko subha kamana! Timro ghar ma happiness ra prosperity aaos."
+    },
+    {
+        "instruction": "Ekta polite refusal ka example dekhau.",
+        "input": "Tapai lai maile bolaunu parcha?",
+        "output": "Dherai dhanyabad, tara ma ajhai busy chu. Aba pachi communicate garam hai."
+    },
+    {
+        "instruction": "Ekta Nepali food ko importance explain garera dekhau.",
+        "input": "Gundruk",
+        "output": "Gundruk ek traditional Nepali food ho, jun healthy ra feri long-term store garna milcha."
+    },
+    {
+        "instruction": "Yo situation ko response bataa.",
+        "input": "Timi le bhaneko thauma maile tapai lai bheteyina.",
+        "output": "Sorrily, ma ek chhoti late bhaye jasto cha. Aba agadi samparka gari milayera aau hai."
+    },
+    {
+        "instruction": "Ekta hypothetical question ko answer dekhau.",
+        "input": "Timi ko ek din ma flying power huney bhaye, ke garcha?",
+        "output": "Ma duniya ko sabai ramro ramro thau ma udauda visit garchu."
+    },
+    {
+        "instruction": "Ekta daily Nepali greeting lekha.",
+        "input": "",
+        "output": "Namaste! K cha khabar?"
+    },
+    {
+        "instruction": "Yo scenario ko short reply gara.",
+        "input": "Tapai ko kaam kati samay ma pura hunchha?",
+        "output": "Dherai bhaye aba 2 ghanta ma pura huncha."
+    },
+    {
+        "instruction": "Ekta unique problem-solving idea bataa.",
+        "input": "Paani ko shortage ko lagi.",
+        "output": "Rainwater harvesting ko method implement garna sakinchha."
+    },
+    {
+        "instruction": "Ekta short funny reply lekha.",
+        "input": "Tapai ta dherai smart chau hai?",
+        "output": "Hami sabai same smart chau, ma ta tyo highlight garna jado ho!"
+    },
+    {
+        "instruction": "Yo Nepali sentence lai English ma translate garera dekhau.",
+        "input": "Mero ghar Kathmandu ma cha.",
+        "output": "My home is in Kathmandu."
+    },
+    {
+        "instruction": "Ekta educational tip dekhau.",
+        "input": "",
+        "output": "Regular study schedule banaera, revision ma time dina na birsanu."
+    },
+    {
+        "instruction": "Ekta Nepali historical place ko naam ra thulo kura bataa.",
+        "input": "",
+        "output": "Bhaktapur Durbar Square, jaha cultural heritage ra sundar architecture cha."
+    },
+    {
+        "instruction": "Ekta recommendation for beginners in cooking.",
+        "input": "",
+        "output": "Start with simple recipes like tea or fried rice ani step-by-step seeknus."
+    },
+    {
+        "instruction": "Ekta creative name suggestion for Nepali restaurant.",
+        "input": "",
+        "output": "Taste of Himalayas"
+    },
+    {
+        "instruction": "Ekta situation ko casual reply garera dekhau.",
+        "input": "Timi aba ghar ma chau?",
+        "output": "Ho, ma aba ghar ma aai sakeko."
+    },
+    {
+        "instruction": "Ekta small appreciation text lekha.",
+        "input": "",
+        "output": "Tapai le gareko kaam dherai ramro cha. Timi lai proud feel garna sakcha!"
+    },
+    {
+        "instruction": "Ekta riddle ko question ra answer banaera dekhau.",
+        "input": "",
+        "output": "Question: Ma k hun, jun bigreko ho tara herda sundar cha? Answer: Sunset"
+    },
+    {
+        "instruction": "Ekta cultural practice explain garera dekhau.",
+        "input": "Bhai Tika",
+        "output": "Bhai tika ko din, didi bahini le bhai lai tika lagaayera lamo jindagi ko wish garne tradition ho."
+    },
+    {
+        "instruction": "Ek sentence ma Nepali film ko barema describe garna.",
+        "input": "",
+        "output": "Nepali film ma sundar scene ra emotional storyline huncha."
+    },
+    {
+        "instruction": "Yo sentence ko meaning explain garna: 'Timro sahayog le mero jindagi asaan banayo.'",
+        "input": "",
+        "output": "Isko matlab ho ki timro madad le mero life easy ra comfortable banayo."
+    },
+    {
+        "instruction": "English ma translate garna: 'Ma ghar jane sochdaichu.'",
+        "input": "",
+        "output": "I am thinking of going home."
+    },
+    {
+        "instruction": "Mathi diye ko question ko answer dekhau: 'Nepal ma kati ota district cha?'",
+        "input": "",
+        "output": "Nepal ma 77 ota district cha."
+    },
+    {
+        "instruction": "Yo paragraph summarize garna: 'Nepal ek sundar desh ho jaha Himalaya dekhnai milcha. Yaha ko sanskritik dharohar pani ramro cha.'",
+        "input": "",
+        "output": "Nepal ek sundar desh ho jaha Himalaya ra sanskritik dharohar ramro cha."
+    },
+    {
+        "instruction": "Yo sentence ko grammar check garna: 'Ma kal school gaye ra padhna suru gariyo.'",
+        "input": "",
+        "output": "Ma hijo school gaye ra padhai suru gare."
+    },
+    {
+        "instruction": "Yo question ko answer dinu: 'Tapai ko manparne khana k ho?'",
+        "input": "",
+        "output": "Mero manparne khana momo ho."
+    },
+    {
+        "instruction": "Ek line ma padhai ko mahatwo bataye.",
+        "input": "",
+        "output": "Padhai le manche ko jindagi sudharna madad garcha."
+    },
+    {
+        "instruction": "Nepal ko ek historical jagga ko barema bataunus.",
+        "input": "",
+        "output": "Lumbini Nepal ko ek historical jagga ho jaha Gautam Buddha janmeeka thiyo."
+    },
+    {
+        "instruction": "Yo text ko sentiment analysis garna: 'Ma dherai khushi chu aaja mero exam ramro bhayo.'",
+        "input": "",
+        "output": "Positive sentiment."
+    },
+    {
+        "instruction": "Ek chutkila lekhnus.",
+        "input": "",
+        "output": "Teacher: Timro homework kaha cha? Student: Dog le khayo sir! Teacher: Aba ta tyo dog lai padhna sikauchha!"
+    },
+    {
+        "instruction": "Khel-kud ko mahatwo barema explain garna.",
+        "input": "",
+        "output": "Khel-kud le manche healthy ra active banauncha, stress kam garcha."
+    },
+    {
+        "instruction": "Weather report ko example dinus: 'Hijo Kathmandu ko weather kasto thiyo?'",
+        "input": "",
+        "output": "Hijo Kathmandu ma sunny thiyo, ra temperature 20°C around thiyo."
+    },
+    {
+        "instruction": "Yo statement ko tone identify garna: 'Ma timi sanga dherai naramro bhayeko chu, ma sorry chu.'",
+        "input": "",
+        "output": "Tone apologetic cha."
+    },
+    {
+        "instruction": "Roman Nepali ma ek motivational line lekhnus.",
+        "input": "",
+        "output": "Jindagi ma success pauna, mehenat ra dhairya dubaiko jaruri cha."
+    },
+    {
+        "instruction": "Yo list lai ascending order ma arrange garna: 5, 2, 8, 1, 3.",
+        "input": "",
+        "output": "1, 2, 3, 5, 8."
+    },
+    {
+        "instruction": "Yo recipe ko first step explain garna: 'Momo banaunda pahila maida miss garnus ra gol goli banai halnus.'",
+        "input": "",
+        "output": "Pahila maida lai thik matra ko pani miss garera gol goli tayar garnus."
+    },
+    {
+        "instruction": "Yo text ko tone bataye: 'K garne yaar, aba ta dherai late bhaisakyo.'",
+        "input": "",
+        "output": "Tone frustrated cha."
+    },
+    {
+        "instruction": "Nepal ko ek famous personality ko barema 2 sentence lekhnus.",
+        "input": "",
+        "output": "Tenzing Norgay ek famous Nepali mountaineer hun. Uha le Edmund Hillary sanga milera Mt. Everest summit garnu bhako thiyo."
+    },
+    {
+        "instruction": "Yo statement ma spelling error cha ki check garnus: 'Ma timilai man pardachu.'",
+        "input": "",
+        "output": "Statement ma kunai spelling error chaina."
+    },
+    {
+        "instruction": "Ek line ma ramro din ko definition dina.",
+        "input": "",
+        "output": "Ramro din bhaneko jaba manche khushi ra productive feel garcha."
+    },
+    {
+        "instruction": "Yo sentence ko opposite meaning lekhnus: 'Ma dherai confident chu.'",
+        "input": "",
+        "output": "Ma confident chaina."
+    },
+    {
+        "instruction": "Ek general knowledge ko prasna sodhnus.",
+        "input": "",
+        "output": "Himalayan range ma kun sabai bhanda uncha himal cha?"
+    },
+    {
+        "instruction": "Timro subha prabhat ma k garna man lagcha? Ek line ma bataunus.",
+        "input": "",
+        "output": "Subha prabhat ma yoga garna man lagcha."
+    },
+    {
+        "instruction": "Yo data analyze garera niskarsha nikalnus: 'Nepal ko population 30 million cha, jasma 65% youth cha.'",
+        "input": "",
+        "output": "Nepal ma majority population youth ko ho."
+    },
+    {
+        "instruction": "Nepali culture ko ek example dekhau.",
+        "input": "",
+        "output": "Dashain Nepali culture ko ek example ho jaha tika ra jamara ko pratha follow huncha."
+    },
+    {
+        "instruction": "Ek basic math ko prasna sodhnus.",
+        "input": "",
+        "output": "2+3 x 4 ko value kati huncha?"
+    },
+    {
+        "instruction": "Tihar festival ko barema 2 line lekhnus.",
+        "input": "",
+        "output": "Tihar Nepali haru ko ek important festival ho. Isma diyaharu balera ra puja garera manai dincha."
+    },
+    {
+        "instruction": "Ek motivational quote provide garnus.",
+        "input": "",
+        "output": "Saphalta ko kunai shortcut hudaina, mehenat garna parcha."
+    },
+    {
+        "instruction": "Kathmandu ko barema ek sentence ma describe garnus.",
+        "input": "",
+        "output": "Kathmandu Nepal ko capital city ho jaha historical heritage sites dherai chan."
+    },
+    {
+        "instruction": "Yo question ma logical answer dinus: 'Hijo pani parcha bhanera forecast bhaisakyo, ta pani k garne?'",
+        "input": "",
+        "output": "Umbrella ra raincoat prepare garnus."
+    },
+    {
+        "instruction": "Ek positive sentence lekhnus.",
+        "input": "",
+        "output": "Aaja ko din ma ma positive ra khushi feel gariraheko chu."
+    },
+    {
+        "instruction": "Timro routine lekhera dekhau.",
+        "input": "",
+        "output": "Bihan 6 baje uthchu, breakfast khanchu, office janchu, beluka padhai garera 10 baje sutchu."
+    },
+    {
+        "instruction": "Yo sentence formal banaunus: 'Ma tyo kaam garna sakdina.'",
+        "input": "",
+        "output": "Ma tyo kaarya pura garna sakdina."
+    },
+    {
+        "instruction": "Travel advice dinus: 'Pokhara jadai chu, k k hernu parcha?'",
+        "input": "",
+        "output": "Pokhara ma Phewa Lake, Sarangkot, ra World Peace Pagoda herna parcha."
+    },
+    {
+        "instruction": "Ek question answer garera dekhau: 'Nepal ko national flower k ho?'",
+        "input": "",
+        "output": "Nepal ko national flower Laliguras ho."
+    },
+    {
+        "instruction": "Ek storytelling line start garna.",
+        "input": "",
+        "output": "Ek din ek jungal ma ek chhoto manche ko ghar thiyo."
+    },
+    {
+        "instruction": "Yo sentence ko tense change garna: 'Ma padhdaichu.'",
+        "input": "",
+        "output": "Ma padhnechu."
+    },
+    {
+        "instruction": "Ek situation solve garera dekhau: 'Timro mobile gumeko cha, aba ke garne?'",
+        "input": "",
+        "output": "Mobile ko location track garne, SIM block garne, ra naya password set garne."
+    },
+    {
+        "instruction": "Ek fun activity ko suggestion dinus.",
+        "input": "",
+        "output": "Weekend ma hiking ma janus."
+    },
+    {
+        "instruction": "Yo sentence rephrase garnus: 'Malai khana mitho lagyo.'",
+        "input": "",
+        "output": "Maile khana dherai ramro paaye."
+    },
+    {
+        "instruction": "Ek joke lekhnus.",
+        "input": "",
+        "output": "Doctor: Timro report haru chai naramro cha! Patient: Aba ta ma k garne? Doctor: Report sundarta seekha timi jasto naramro nabanna!"
+    },
+    {
+        "instruction": "Ek creative story ko start dinus.",
+        "input": "",
+        "output": "Barsaau pachhi ek spaceship ma ek alien hamro dharti ma aayo."
+    },
+    {
+        "instruction": "Ek question sodhnus related to environment.",
+        "input": "",
+        "output": "Climate change ko karan le Nepal ma kasto prabhav parcha?"
+    },
+    {
+        "instruction": "Ek healthy lifestyle ko tip dinus.",
+        "input": "",
+        "output": "Daily yoga ra nutritious food le healthy lifestyle maintain garna milcha."
+    },
+    {
+        "instruction": "Ek educational question sodhnus.",
+        "input": "",
+        "output": "Nepal ma primary education ko mahatwo kina cha?"
+    },
+    {
+        "instruction": "Ek philosophical prasna sodhnus.",
+        "input": "",
+        "output": "Jindagi ko asli arth k ho?"
+    },
+    {
+        "instruction": "Ek positive affirmation lekhnus.",
+        "input": "",
+        "output": "Ma afno goals achieve garna sakchhu ra ma capable chu."
+    },
+    {
+        "instruction": "Ek riddle sodhnus.",
+        "input": "",
+        "output": "K suruma white huncha, ani yellow huncha, ra last ma brown huncha? (Answer: Banana)"
+    },
+    {
+        "instruction": "Nepal ko paryatan ko barema ek line lekhnus.",
+        "input": "",
+        "output": "Nepal tourism le Himalaya, culture, ra adventure sports prachur garna madad garcha."
+    },
+    {
+        "instruction": "Ek paragraph ma Kathmandu ko traffic ko barema lekhnus.",
+        "input": "",
+        "output": "Kathmandu ko traffic dherai bheer bhaaklo cha. Jam dherai huncha, ani manche haru lai samay ko samasya huncha. Traffic lights ra rules ko follow garda situation sudhrina sakcha."
+    },
+    {
+        "instruction": "Nepal ma celebrate garine ek international day ko barema bataunus.",
+        "input": "",
+        "output": "Nepal ma World Environment Day celebrate garincha, jasma environment ko suraksha ko barema awaj uthaincha."
+    },
+    {
+        "instruction": "Yo question ko logical solution dinus: 'Maile afno keys bhule, aba k garne?'",
+        "input": "",
+        "output": "Backup key khojna, locksmith bolau, ya reliable friend sanga help magnu."
+    },
+    {
+        "instruction": "Yo sentence future tense ma change garnus: 'Ma kalam lekhchu.'",
+        "input": "",
+        "output": "Ma kalam lekhnechu."
+    },
+    {
+        "instruction": "Ek sentence ma explain garnus: 'Social media ko effect kasto huncha?'",
+        "input": "",
+        "output": "Social media le manche haru connected banauncha, tara excessive use le productivity ghatna sakcha."
+    },
+    {
+        "instruction": "Ek problem solving prasna dinus.",
+        "input": "",
+        "output": "Tapai ko mobile battery low cha ra charger chaina, aba k garne?"
+    },
+    {
+        "instruction": "Ek line ma describe garnus: 'Everest Base Camp trekking experience.'",
+        "input": "",
+        "output": "Everest Base Camp trekking ma adventure, nature ko sundar drishya, ra physical challenge experience huncha."
+    },
+    {
+        "instruction": "Ek funny question sodhnus.",
+        "input": "",
+        "output": "Kukurni lai 'Meow' bhannu bhane usle k sochcha hola?"
+    },
+    {
+        "instruction": "Ek science-related prasna sodhnus.",
+        "input": "",
+        "output": "Gravity ko karan le manche afno weight kasto feel garcha?"
+    },
+    {
+        "instruction": "Yo prasna ko answer explain garnus: 'Hawa kina dekhidaina?'",
+        "input": "",
+        "output": "Hawa gas particle le baneko huncha, jun transparent huncha, tesai le dekhidaina."
+    },
+    {
+        "instruction": "Yo story continue garnus: 'Ek din ek manche jangal ma bato birsanchha...'",
+        "input": "",
+        "output": "Ani usle ek thulo ruk ko chhaya ma baseko dekchha, jaha usle bato puchhna ek guide lai bhetncha."
+    },
+    {
+        "instruction": "Yo question ko answer creative tarikale dinus: 'Nepal ma flying car kahile bancha?'",
+        "input": "",
+        "output": "Jaba manche haru sapana dekna band garchan ani innovation ma focused huncha, tyo din flying car Nepal ma pani huncha."
+    },
+    {
+        "instruction": "Ek environmental awareness slogan suggest garnus.",
+        "input": "",
+        "output": "Hariyo Ban, Nepal Ko Dhan."
+    },
+    {
+        "instruction": "Ek random fun fact lekhnus.",
+        "input": "",
+        "output": "Butterflies le afno legs bata taste garcha!"
+    },
+    {
+        "instruction": "Ek inspirational leader ko naam ra unko kaam lekhnus.",
+        "input": "",
+        "output": "B.P. Koirala Nepali democracy ko pioneer thiyo, jasma unko leadership le desh ko politics ma sudhar aayo."
+    },
+    {
+        "instruction": "Ek question related to health sodhnus.",
+        "input": "",
+        "output": "Daily exercise kina important cha?"
+    },
+    {
+        "instruction": "Ek idiom explain garnus: 'Ghar ko bida ma pipal jasto.'",
+        "input": "",
+        "output": "Isko matlab ho ki manche afno ghar ma matra power ra respect paunchha, bahira ta usko value kam huncha."
+    },
+    {
+        "instruction": "Ek interesting question sodhnus related to future technology.",
+        "input": "",
+        "output": "K future ma AI le manche ko sabai kaam lina sakcha?"
+    },
+    {
+        "instruction": "Ek educational story lekhnus: 'Siksha ko mahatwo.'",
+        "input": "",
+        "output": "Ek din ek gao ma ek garib kisan thiyo. Usko sapana thiyo afno chhora lai padhaune, ra usle dherai mehenat garera chhora lai engineer banayo. Tyo chhora le desh ko bikas ma thulo yogdan garyo."
+    },
+    {
+        "instruction": "Ek environmental solution ko example dinus.",
+        "input": "",
+        "output": "Plastic bag ko satta biodegradable bag use garnu."
+    },
+    {
+        "instruction": "Ek proverb explain garnus: 'Baancheko manche le dhan kamaunchha.'",
+        "input": "",
+        "output": "Isko arth ho ki jindagi ma sabai bhanda important manche ko health ra life ho."
+    },
+    {
+        "instruction": "Ek general advice dinus: 'Morning routine kasto hunu parcha?'",
+        "input": "",
+        "output": "Morning routine ma yoga, healthy breakfast, ra ek din ko planning samabesh hunu parcha."
+    },
+    {
+        "instruction": "Ek life lesson story ko example dinus.",
+        "input": "",
+        "output": "Ek baal chhoro le afno hajurbuwa sanga dhan ko importance sikcha, jaba usle mehenat le kamaeko paisa ko respect garna suru garcha."
+    },
+    {
+        "instruction": "Ek traditional Nepali food ko barema bataunus.",
+        "input": "",
+        "output": "Dal Bhat Nepali traditional food ho jasma dal, bhat, tarkari ra achar samabesh huncha."
+    },
+    {
+        "instruction": "Ek tourist attraction ko naam ra location dinus.",
+        "input": "",
+        "output": "Phewa Lake Pokhara ma cha."
+    },
+    {
+        "instruction": "Ek line ma love define garnus.",
+        "input": "",
+        "output": "Love bhaneko mutual respect, care, ra understanding ho."
+    },
+    {
+        "instruction": "Ek future-related question sodhnus.",
+        "input": "",
+        "output": "Nepal ma kunai din bullet train hunecha?"
+    },
+    {
+        "instruction": "Ek environmental prasna dinus.",
+        "input": "",
+        "output": "Climate change ko karan le Nepal ma glacier haru ma kasto prabhav parcha?"
+    },
+    {
+        "instruction": "Ek festival ko historical importance explain garnus.",
+        "input": "",
+        "output": "Dashain festival ek historical importance ko ho jaha Ram le Ravan mathi jit praapt gareko diwas manincha."
+    },
+    {
+        "instruction": "Ek sentence ma Nepali youth ko potential bataunus.",
+        "input": "",
+        "output": "Nepali youth haru afno energy ra skills le desh ko bikas ma thulo yogdan dincha."
+    },
+    {
+        "instruction": "Ek motivational story ko start garnus.",
+        "input": "",
+        "output": "Ek din ek garib kisan le sochcha ki afno parivar ko lagi kehi ramro garna parcha. Usle afno thulo sapana ko khoji ma chhoto jivan ko kahani suru garcha."
+    },
+    {
+        "instruction": "Yo problem ko practical solution dinus: 'Tapai sanga dherai kaam cha, aba multitask garna k garne?'",
+        "input": "",
+        "output": "Priority list banai, sabai bhanda important kaam suru ma garnus ra distraction avoid garnus."
+    },
+    {
+        "instruction": "Ek funny Nepali proverb lekhnus.",
+        "input": "",
+        "output": "Kukhura layechha bhanera anda magnu."
+    },
+    {
+        "instruction": "Nepali lok geet ko ek example dinus.",
+        "input": "",
+        "output": "Resham Firiri ek popular Nepali lok geet ho."
+    },
+    {
+        "instruction": "Ek historical prasna sodhnus.",
+        "input": "",
+        "output": "Prithvi Narayan Shah le Nepal ko unification kahile suru gare?"
+    },
+    {
+        "instruction": "Ek line ma explain garnus: 'Nepal ma tourism ko importance.'",
+        "input": "",
+        "output": "Tourism le Nepal ko economy sudhrina ra culture promote garna madat garcha."
+    },
+    {
+        "instruction": "Ek joke banera lekhnus.",
+        "input": "",
+        "output": "Teacher: Kasta manche haru class ma late huncha? Student: Jo ta bell bajepachi aunchan!"
+    },
+    {
+        "instruction": "Ek personal development ko tip dinus.",
+        "input": "",
+        "output": "Daily journaling garera afno goals track garnus."
+    },
+    {
+        "instruction": "Ek line ma describe garnus: 'Nepali food culture.'",
+        "input": "",
+        "output": "Nepali food culture ma dal bhat tarkari, momo, ra achar jasto diverse khana cha."
+    },
+    {
+        "instruction": "Ek fun game suggest garnus for kids.",
+        "input": "",
+        "output": "Antakshari khelna ramailo huncha."
+    },
+    {
+        "instruction": "Ek question banera sodhnus about space exploration.",
+        "input": "",
+        "output": "Mars ma human settlement possible cha?"
+    },
+    {
+        "instruction": "Yo prasna ko interesting answer dinus: 'Boka lai cycle chalna sikhaune bhane k garne?'",
+        "input": "",
+        "output": "Pahila boka lai balance garna sikhaunu parcha!"
+    },
+    {
+        "instruction": "Ek educational tip dinus.",
+        "input": "",
+        "output": "Padhaiko lagi ek dedicated timetable banaera afno focus maintain garnus."
+    },
+    {
+        "instruction": "Ek example dinus of 'teamwork' from daily life.",
+        "input": "",
+        "output": "Pariwar le ghar safai garna sabai mili kaam gareko teamwork ho."
+    },
+    {
+        "instruction": "Ek inspirational message lekhnus.",
+        "input": "",
+        "output": "Aaja ko struggle bholi ko safalta ko bato ho."
+    },
+    {
+        "instruction": "Ek general knowledge ko prasna sodhnus.",
+        "input": "",
+        "output": "Mt. Everest ko uchai kati cha?"
+    },
+    {
+        "instruction": "Ek Nepali culture ko pratha explain garnus.",
+        "input": "",
+        "output": "Bhai tika ma didi bahini le dajyu bhai ko lambu aayu ko lagi tika lagai dincha."
+    },
+    {
+        "instruction": "Ek science-related fact dinus.",
+        "input": "",
+        "output": "Sunlight le vitamin D banauna madat garcha."
+    },
+    {
+        "instruction": "Ek example dinus: 'Kindness ko importance.'",
+        "input": "",
+        "output": "Sadak ma bhoko manche lai khana dinu kindness ko ramro example ho."
+    },
+    {
+        "instruction": "Ek unique question sodhnus about future of education.",
+        "input": "",
+        "output": "K AI teachers future ma human teachers lai replace garna sakcha?"
+    },
+    {
+        "instruction": "Ek environmental tip dinus.",
+        "input": "",
+        "output": "Plastic use kam garera reusable items ko use badhaunus."
+    },
+    {
+        "instruction": "Ek Nepali history ko fact dinus.",
+        "input": "",
+        "output": "Nepal 1768 ma unified bhaeko ho under Prithvi Narayan Shah."
+    },
+    {
+        "instruction": "Ek sentence ma describe garnus: 'Adventure sports in Nepal.'",
+        "input": "",
+        "output": "Nepal ma paragliding, bungee jumping, ra trekking dherai popular cha."
+    },
+    {
+        "instruction": "Ek random fun fact banera dinus.",
+        "input": "",
+        "output": "Octopus ko teen ota heart huncha."
+    },
+    {
+        "instruction": "Ek creative question sodhnus related to dreams.",
+        "input": "",
+        "output": "Sapana ma manche le kina udna sakcha?"
+    },
+    {
+        "instruction": "Ek financial tip dinus.",
+        "input": "",
+        "output": "Monthly budget banayera unnecessary expenses cut garnus."
+    },
+    {
+        "instruction": "Ek funny hypothetical question sodhnus.",
+        "input": "",
+        "output": "Manche ko kaan ma wheel lagako bhane tyo garega kasto dekhinchha?"
+    },
+    {
+        "instruction": "Ek social problem ko solution dinus.",
+        "input": "Nepal ma road ma kachra fyalne habit.",
+        "output": "Public dustbin ko number badhaune ra cleanliness awareness campaign suru garnus."
+    },
+    {
+        "instruction": "Ek cultural festival ko mahatwo explain garnus.",
+        "input": "",
+        "output": "Teej mahila ko lagi special festival ho, jaha unharo le fasting garcha ra Shiva ko puja garcha."
+    },
+    {
+        "instruction": "Ek fitness advice dinus.",
+        "input": "",
+        "output": "Daily 30 minutes walking le health dherai improve huncha."
+    },
+    {
+        "instruction": "Ek question sodhnus related to weather.",
+        "input": "",
+        "output": "Nepal ma monsoon season kahile suru huncha?"
+    },
+    {
+        "instruction": "Ek logical reasoning ko question sodhnus.",
+        "input": "",
+        "output": "Ram ko ghar dekhi school samma ko distance 5km cha. Usle 10km/hr speed ma jancha. Usle school sammunjhil kahile pugcha?"
+    },
+    {
+        "instruction": "Ek short story ko theme suggest garnus.",
+        "input": "",
+        "output": "Ek manche ko journey from zero to hero."
+    },
+    {
+        "instruction": "Ek inspirational person ko naam ra unko kaam lekhnus.",
+        "input": "",
+        "output": "Pasang Lhamu Sherpa Nepal ki first female Everest climber hun."
+    },
+    {
+        "instruction": "Ek riddle sodhnus.",
+        "input": "",
+        "output": "Ma bina manche bachauna sakdaina, ma herna milcha tara chuna mildaina, ma ke ho? (Answer: Pani)"
+    },
+    {
+        "instruction": "Yo question ko interesting answer dinus: 'Hawa ma udaune ghar kasari banau?'",
+        "input": "",
+        "output": "Ek flying balloon system install garera, jun hawa ko density adjust garna sakos."
+    },
+    {
+        "instruction": "Ek funny Nepali situation describe garnus.",
+        "input": "",
+        "output": "Teej ko din ma daura suruwal ma dance garne uncle haru ko vibe dherai ramailo huncha."
+    },
+    {
+        "instruction": "Ek prashna sodhnus about Nepali wildlife.",
+        "input": "",
+        "output": "Chitwan National Park ma k-k animals dekhnusakcha?"
+    },
+    {
+        "instruction": "Ek line ma describe garnus: 'Nepal ma online education ko stithi.'",
+        "input": "",
+        "output": "Nepal ma online education growing stage ma cha, tara connectivity challenges cha."
+    },
+    {
+        "instruction": "Ek random but useful life hack suggest garnus.",
+        "input": "",
+        "output": "Laptop ko keyboard safha garna sticky notes use garnus."
+    },
+    {
+        "instruction": "Ek motivational line lekhnus.",
+        "input": "",
+        "output": "Badhdai janus, aaj ko mehnat bholi ko sapana bancha."
+    },
+    {
+        "instruction": "Ek cultural practice ko example dinus.",
+        "input": "",
+        "output": "Mha Puja Newar culture ma self-worship ko example ho."
+    },
+    {
+        "instruction": "Ek travel destination ko naam ra kina janne suggest garnus.",
+        "input": "",
+        "output": "Pokhara, because there are beautiful lakes, adventure sports, and amazing mountain views."
+    },
+    {
+        "instruction": "Ek problem-solving prasna sodhnus.",
+        "input": "",
+        "output": "Tapai ko mobile charger break bhaecha, aba kehi ghanta ma emergency charge kasari garne?"
+    },
+    {
+        "instruction": "Ek joke create garnus Nepali culture related.",
+        "input": "",
+        "output": "Mom: 'Teej ma fasting garnu parcha.' Me: 'Okay.' Mom: 'Tara lunch ma dherai khana khanu hai fasting start garnu agadi!'"
+    },
+    {
+        "instruction": "Ek space-related fact dinus.",
+        "input": "",
+        "output": "Space ma ko pani zero gravity le golako shape bancha."
+    },
+    {
+        "instruction": "Ek health ko mahatwo bataune kahani suru garnus.",
+        "input": "",
+        "output": "Ek din ek manche le junk food khadai aafno health ignore garcha. Ek bar hospital pugera, usle healthy khana ra exercise ko importance sikcha."
+    },
+    {
+        "instruction": "Ek environmental awareness slogan create garnus.",
+        "input": "",
+        "output": "Aaja hariyo rukh ropau, bhawishya ko oxygen bachau."
+    },
+    {
+        "instruction": "Ek nepali riddles banera dinus.",
+        "input": "",
+        "output": "Dhulo mukh, sano puchhar, pura din jhumpir. Ma ke ho? (Answer: Chirbiro, aka sparrow!)"
+    },
+    {
+        "instruction": "Ek suggestion dinus about improving Nepali youth ko skill development.",
+        "input": "",
+        "output": "Youth harulai technology, coding, ani entrepreneurship ko free training access dinu parcha."
+    },
+    {
+        "instruction": "Ek logic-based prasna sodhnus.",
+        "input": "",
+        "output": "Ek kamara ma 3 batthi baleko cha. Ek switch off gardai electricity ko consumption kam garna milcha. Kun switch thichne?"
+    },
+    {
+        "instruction": "Ek educational quote dinus.",
+        "input": "",
+        "output": "Siksha bhaneko manche ko jeevan badalne sabai bhanda thulo hathiyar ho."
+    },
+    {
+        "instruction": "Ek creative solution suggest garnus: 'Plastic ko pollution kasari reduce garne?'",
+        "input": "",
+        "output": "Plastic ko upayog kam garera biodegradable material ko awareness badhaune."
+    },
+    {
+        "instruction": "Ek mythological prasna sodhnus.",
+        "input": "",
+        "output": "Nepali Hindu mythology ma Garuda le k ko symbol bancha?"
+    },
+    {
+        "instruction": "Ek story ka start point dinus: 'Ek adventurous group...'",
+        "input": "",
+        "output": "Ek adventurous group jungle exploration ma janchha, jaha uniharulai ek hidden treasure ko map milcha."
+    },
+    {
+        "instruction": "Ek travel tip dinus for Nepal visit.",
+        "input": "",
+        "output": "Travel ko lagi dherai cash na boknus, digital payments explore garnus."
+    },
+    {
+        "instruction": "Ek logical reasoning question banera dinus.",
+        "input": "",
+        "output": "Ek tap ko pani har 5 minute ma 1 liter huncha. Aba 10 liter bharna kati time lagcha?"
+    },
+    {
+        "instruction": "Ek inspirational leader ko naam dinus ra unka contribution explain garnus.",
+        "input": "",
+        "output": "B.P. Koirala, Nepal ko democracy ra literature ko field ma unko thulo yogdan cha."
+    },
+    {
+        "instruction": "Ek funny hypothetical situation banera sodhnus.",
+        "input": "",
+        "output": "Bharatiya masala movie ka superhero Nepali traffic ma jam ma pare bhane ke garne?"
+    },
+    {
+        "instruction": "Ek educational activity suggest garnus for kids.",
+        "input": "",
+        "output": "Kids harulai science experiment jasto ki 'volcano model' banne activity ma involve garnus."
+    },
+    {
+        "instruction": "Ek story ka end point banera suggest garnus.",
+        "input": "",
+        "output": "Ani hero le afno mission complete garcha ani ghar ma ramailo family sanga celebrate garcha."
+    },
+    {
+        "instruction": "Ek nepali holiday ko importance explain garnus.",
+        "input": "",
+        "output": "Dashain Nepal ko sabai bhanda thulo festival ho, jaha family ko unity ani blessing ko importance mancha."
+    },
+    {
+        "instruction": "Ek situation-based logical solution dinus: 'Nepal ma ko rural area ko education sudharna k garne?'",
+        "input": "",
+        "output": "Mobile learning vanne concept introduce garna sakcha rural areas ma internet sanga milera."
+    },
+    {
+        "instruction": "Ek sports-related fact dinus.",
+        "input": "",
+        "output": "Nepali football team le 1984 South Asian Games ma gold medal jitnu bhayo."
+    },
+    {
+        "instruction": "Ek fun conversation starter sodhnus.",
+        "input": "",
+        "output": "K tapai haru ko favorite childhood game kun thiyo?"
+    },
+    {
+        "instruction": "Ek inspirational story ko character introduce garnus.",
+        "input": "",
+        "output": "Ek chhoro jasko naam Arjun thiyo, usle afno gareko sapana pura garna thulo struggle garcha."
+    },
+    {
+        "instruction": "Ek educational problem ko solution dinus.",
+        "input": "Nepal ma student drop-out rate badheko cha.",
+        "output": "Scholarships ani community-level educational support suru garnu parcha."
+    },
+    {
+        "instruction": "Ek mystery story ka title suggest garnus.",
+        "input": "",
+        "output": "Jungle ko Lukeko Gaadi."
+    },
+    {
+        "instruction": "Ek nepali idiom explain garnus: 'Kaag ko bechne ghanti.'",
+        "input": "",
+        "output": "Isko matlab j hoina tyo jasto pretend garna ko lagi use garincha."
+    },
+    {
+        "instruction": "Ek health-related tips dinus.",
+        "input": "",
+        "output": "Garmi ma dehydration avoid garna 3 liters jati pani din bhar ma khanu parcha."
+    },
+    {
+        "instruction": "Ek nepali culture ko funny moment describe garnus.",
+        "input": "",
+        "output": "Dashain ma tika lagai sakepachi kasto cha bhanera 10 jana le sodhne moment dherai ramailo huncha!"
+    },
+    {
+        "instruction": "Ek practical tip dinus for saving time.",
+        "input": "",
+        "output": "Morning ma agadi ko din ko task list banaera prioritize garnus."
+    },
+    {
+        "instruction": "Ek random historical fact dinus about Nepal.",
+        "input": "",
+        "output": "Nepal ko Rato Machhindranath Jatra sabai bhanda purano chariot festival ho, jun 12th century dekhi suru bhaeko ho."
+    },
+    {
+        "instruction": "Ek riddle sodhnus.",
+        "input": "",
+        "output": "Ma bigre pani dhulo hunna, mala bina manche ko jeevan adho cha. Ma ke ho? (Answer: Pustak)"
+    },
+    {
+        "instruction": "Ek future technology ko example suggest garnus.",
+        "input": "",
+        "output": "Self-driving electric gadi haru jasto ki Tesla ko innovation le transportation transform garcha."
+    },
+    {
+        "instruction": "Ek motivational question sodhnus.",
+        "input": "",
+        "output": "Tapai le kun ek struggle jityo jasle tapai ko life change garna madat garyo?"
+    },
+    {
+        "instruction": "Ek problem-solving tip dinus for stress management.",
+        "input": "",
+        "output": "Deep breathing exercise garera mindfulness ma focus garnus."
+    },
+    {
+        "instruction": "Ek story suru garnus about teamwork.",
+        "input": "",
+        "output": "Ek chhoto gaun ma manche haru le ek sano bridge banne project ko lagi sath dinchhan ra afno effort le ek thulo problem solve garcha."
+    },
+    {
+        "instruction": "Ek nepali holiday ko ritual explain garnus.",
+        "input": "",
+        "output": "Tihar ma kukur tika lagayera uniharulai respect garincha, kinabhane kukur le manche ko life ma special role kheldacha."
+    },
+    {
+        "instruction": "Ek funny hypothetical question sodhnus.",
+        "input": "",
+        "output": "Jadibuti le bolna sakthyo bhane kun plant ko story interesting hunthyo?"
+    },
+    {
+        "instruction": "Ek short creative story ko title suggest garnus.",
+        "input": "",
+        "output": "Samundra Ma Bujeko Sapana."
+    },
+    {
+        "instruction": "Ek travel experience ko tips dinus.",
+        "input": "Mountain region visit garna.",
+        "output": "Light backpack boknus, weather-appropriate clothes ra local guide le helpful huncha."
+    },
+    {
+        "instruction": "Ek nepali lok sanskriti ko example dinus.",
+        "input": "",
+        "output": "Nepal ko newari community ma lakhey dance ek sanskritik highlight ho."
+    },
+    {
+        "instruction": "Ek educational puzzle sodhnus.",
+        "input": "",
+        "output": "Ek kachuwa ra ek kharayo ko race suru garcha. Kachuwa slow huncha, tara usle stop gardaina. Kharayo fast huncha tara nidauchha. Kun jitya hola?"
+    },
+    {
+        "instruction": "Ek healthy lifestyle ko tips dinus.",
+        "input": "",
+        "output": "Daily 7 ghanta ko nindra ra green vegetables ko consumption le balance maintain garna madat garcha."
+    },
+    {
+        "instruction": "Ek inspiring quote translate garnus: 'Hard work pays off.'",
+        "input": "",
+        "output": "Mehnat ko phal mitho huncha."
+    },
+    {
+        "instruction": "Ek nepali food ko description garnus.",
+        "input": "",
+        "output": "Gundruk ek fermented leafy green vegetable dish ho, jun Nepali cuisine ma popular cha."
+    },
+    {
+        "instruction": "Ek environmental conservation tip dinus.",
+        "input": "",
+        "output": "Afforestation ko lagi ek din ek rukh ropne habit develop garnus."
+    },
+    {
+        "instruction": "Ek technical skill development ko suggestion dinus.",
+        "input": "",
+        "output": "Programming sikna online courses jasto ki freecodecamp explore garnus."
+    },
+    {
+        "instruction": "Ek nepali literature ko naam suggest garnus.",
+        "input": "",
+        "output": "Muna Madan, Laxmi Prasad Devkota le lekhnu bhaeko ek masterpiece ho."
+    },
+    {
+        "instruction": "Ek logical reasoning ko question dinus.",
+        "input": "",
+        "output": "Ek manche le ek ghanta ma 3 kaam sakcha. Aba tin ghanta ma usle kati kaam garla?"
+    },
+    {
+        "instruction": "Ek brainstorming activity suggest garnus for kids.",
+        "input": "",
+        "output": "Ek theme ma drawing competition garnus jasto ki 'Nature ko Sundarta.'"
+    },
+    {
+        "instruction": "Ek traditional nepali dress describe garnus.",
+        "input": "",
+        "output": "Daura suruwal Nepali male traditional dress ho, jaha daura le cross-tied pattern ani suruwal le loose pants define garcha."
+    },
+    {
+        "instruction": "Ek nepali joke suggest garnus.",
+        "input": "",
+        "output": "Police: Helmet kinaro! Rider: Jibro ta side ma cha sir, dant le lagako chaina!"
+    },
+    {
+        "instruction": "Ek practical question sodhnus.",
+        "input": "",
+        "output": "Daily productivity kasari badhaune jasto tips huncha?"
+    },
+    {
+        "instruction": "Ek creativity boost garne suggestion dinus.",
+        "input": "",
+        "output": "Freewriting garera afno random thoughts capture garnus, jasko basis ma new ideas aauchha."
+    },
+    {
+        "instruction": "Ek simple mathematics puzzle sodhnus.",
+        "input": "",
+        "output": "3 ota apple ra 2 ota orange milauda kati fruits huncha?"
+    },
+    {
+        "instruction": "Ek nepali place ko naam dinus ra kina janne explain garnus.",
+        "input": "",
+        "output": "Lumbini, Gautam Buddha ko janmabhoomi ko karan le historical site ma visit garnu parcha."
+    },
+    {
+        "instruction": "Ek spiritual prasna sodhnus.",
+        "input": "",
+        "output": "Meditation le manche ko inner peace kasari badhauna sakcha?"
+    },
+    {
+        "instruction": "Ek fun science fact dinus.",
+        "input": "",
+        "output": "Human ko brain ma har second 1 lakh chemical reactions hunchan!"
+    },
+    {
+        "instruction": "Ek cultural value explain garnus in one line.",
+        "input": "",
+        "output": "Nepali culture le respect, unity ra nature ko care sikauchha."
+    },
+    {
+        "instruction": "Ek quote suggest garnus for personal growth.",
+        "input": "",
+        "output": "Safalta ko bato ma haraunu agadi, sikna seeknus."
+    },
+    {
+        "instruction": "Ek music-related question sodhnus.",
+        "input": "",
+        "output": "Tapai le sabai bhanda last ma kun Nepali geet sune?"
+    },
+    {
+        "instruction": "Ek nepali phrase ko meaning explain garnus.",
+        "input": "Raato ra Chandra Surya.",
+        "output": "Nepali jhanda ko gaurav ko representation ho."
+    },
+    {
+        "instruction": "Ek brainstorming prasna sodhnus.",
+        "input": "",
+        "output": "Nepal ma tourism badhauna kun kun step le helpful hunchan?"
+    },
+    {
+        "instruction": "Ek adventure sports suggest garnus in Nepal.",
+        "input": "",
+        "output": "Nepal ma Bungee Jumping Bhote Koshi ma popular cha!"
+    },
+    {
+        "instruction": "Malai khushi banne joke sunau.",
+        "input": "",
+        "output": "Ekdin kukurle biralo lai bhancha, 'Timro naam Google ho?' Biralo bhancha, 'Ho, kina?' Kukur bhancha, 'Kinabhane timi ma sabai kura khojnechu!'"
+    },
+    {
+        "instruction": "Weather ko barema sodhnu parne line lekha.",
+        "input": "",
+        "output": "Aja ko weather kasto cha? Barsha parcha ki?"
+    },
+    {
+        "instruction": "Ek jodi t-shirt ko description lekha Nepali ma.",
+        "input": "",
+        "output": "Yo t-shirt comfortable ra soft material ma baneko cha, dinbhari lagda pani ramailo huncha. Size ra color options pani available cha."
+    },
+    {
+        "instruction": "Ke ma birami lai sodna sakchu ki usle doctor dekhyo ki chaina?",
+        "input": "",
+        "output": "Timi doctor dekhnubhayeko cha ki chaina bhanera sodna milcha."
+    },
+    {
+        "instruction": "Party ma janu bela dress select garna madat gar.",
+        "input": "Formal event ko dress code cha.",
+        "output": "Formal ko lagi suit ya blazer ma lagne option ramro huncha. Neutral colors jastai black, navy blue, ra white bhaneko sabai ko lagi safe option huncha."
+    },
+    {
+        "instruction": "Nepal ma popular trekking routes ko list bana.",
+        "input": "",
+        "output": "1. Annapurna Base Camp\n2. Everest Base Camp\n3. Langtang Valley\n4. Manaslu Circuit\n5. Ghorepani Poon Hill"
+    },
+    {
+        "instruction": "Ek motivational quote translate gara Nepali ma.",
+        "input": "Success is not the key to happiness. Happiness is the key to success.",
+        "output": "Safalta khushi ko kunji hoina. Khushi safalta ko kunji ho."
+    },
+    {
+        "instruction": "Aja ko exam ko lagi ramailo shubha-kamana ko line lekha.",
+        "input": "",
+        "output": "Timro exam ma dherai ramro garna safal hounuhos! Sabai kura yaad rakhna sakos bhanera subhakamana cha."
+    },
+    {
+        "instruction": "Ek chutka joke translate gara Nepali ma.",
+        "input": "Why don’t skeletons fight each other? Because they don’t have the guts.",
+        "output": "Haddi haru ek arka sanga kina ladaudainan? Kinabhane uniharuko maathi ko tara chaina!"
+    },
+    {
+        "instruction": "Yoga routine ko steps diyera help gar.",
+        "input": "",
+        "output": "1. Morning ma sabai bhanda pahila stretching gar.\n2. Surya Namaskar ko 5-10 round gar.\n3. Breathing exercise pranayama kar.\n4. Relax garna savasana ma sut."
+    },
+    {
+        "instruction": "Nepali marriage ma dine bhet ko suggestions dekhau.",
+        "input": "",
+        "output": "1. Silver jewelry set\n2. Decor items jastai photo frames\n3. Traditional dress jastai saree ya daura suruwal\n4. Gift voucher ya cash envelope"
+    },
+    {
+        "instruction": "Nepal ko traditional dish ko recipe dekhau.",
+        "input": "Momo",
+        "output": "1. Maida lai dough ma banau. Thik consistency hunu parcha.\n2. Stuffing ko lagi minced meat ya vegetables, onion, garlic, masala mix gar.\n3. Dough ko small piece banayera stuffing rakhera shape de.\n4. Steamer ma rakhera 15-20 minutes steam gar.\n5. Achar banayera serve gar."
+    },
+    {
+        "instruction": "Ek romantic message suggest gar.",
+        "input": "",
+        "output": "Timi bina mero din adho cha, timro muskan le matrai mero sansar roshan bancha. Hamesha timro saath ma basna man lagcha."
+    },
+    {
+        "instruction": "Nepali ma formal email template ko udaharan dekhau.",
+        "input": "",
+        "output": "Subject: Official Request\n\nDear Sir/Madam,\n\nMero naam [Tapaiko Naam] ho ra ma [Department ya Position] ma chu. Ma hajur sanga [request ko reason] bhanera sampark gardai chu. Kripaya malaai yo email ko lagi assistance dinuhos. Tapai ko samaya ra sahayog ko lagi dhanyabad.\n\nRegards,\n[Tapaiko Naam]"
+    },
+    {
+        "instruction": "Raat ko time ma movie recommend gar.",
+        "input": "Comedy genre ma ho.",
+        "output": "Comedy genre ma Nepali movie 'Jatra' ya 'Kabaddi' ekdum ramailo huncha. Aba raat ma ramailo tarikale enjoy garna saknu huncha."
+    },
+    {
+        "instruction": "Ek motivational story sunau.",
+        "input": "",
+        "output": "Ekjana kisan ko goru nalageko thiyo, ani usko jamin jhaskera mathi pugcha. Kisanle sochcha 'Aba goru nikalnu sakdina,' ra jaminkai mathi dhulo chodna thalcha. Goru le afno khutta le dhulo kilera mathi uthcha ani bistarai jamin mathi pugcha. Tyo kisan sikcha, 'Problem auda ni harkaile try garna parcha.'"
+    },
+    {
+        "instruction": "Nepali ma birthday wish garna line suggest gar.",
+        "input": "",
+        "output": "Happy Birthday! Timi ko din dherai ramailo hos, sapana haru pura hoss ra timro jindagi hamesha khushi le bhari rahos!"
+    },
+    {
+        "instruction": "Nepali traditional dress ko benefits lekha.",
+        "input": "",
+        "output": "1. Daura suruwal ra gunyu cholo jasto dress le Nepali culture represent garcha.\n2. Comfortable ra eco-friendly huncha.\n3. Formal occasions jasto tika, pasni ma perfect huncha."
+    },
+    {
+        "instruction": "Ek healthy breakfast recipe suggest gar.",
+        "input": "",
+        "output": "1. Oats lai water ma boil garera pakaunus.\n2. Tyo ma milk, honey, ani seasonal fruits jastai apple ra banana milau.\n3. Top ma nuts jastai almond ya cashew rakhna milcha."
+    },
+    {
+        "instruction": "Ek funny question sodhnu.",
+        "input": "",
+        "output": "Kukur haru sunda k dream dekchhan hola? Timro bichar ke ho?"
+    },
+    {
+        "instruction": "Nepal ma dherai use garne proverbs ko example de.",
+        "input": "",
+        "output": "1. Haat ma chura huda pani bhokai.\n2. Nau din ma ghasko paani.\n3. Jati bela suga lai sikauna khocha, tei bela bhagra lagcha."
+    },
+    {
+        "instruction": "Travel tips diyera help gar.",
+        "input": "Nepal visit garna jana lageko manche lai.",
+        "output": "1. Light ra comfortable clothes pack gar.\n2. Trekking jaane ho bhane ramro shoes lya.\n3. Local food try garne, jastai momo, dal bhat.\n4. Always bottled water piu."
+    },
+    {
+        "instruction": "Ek sustainable living ko tip de.",
+        "input": "",
+        "output": "Plastic ko jagga ma cloth bag use gar. Reusable bottle ani straw le pani help garcha."
+    },
+    {
+        "instruction": "Pet lai ramailo garna activity suggest gar.",
+        "input": "Kukur cha.",
+        "output": "1. Fetch khelau.\n2. Dog-friendly park ma walk gar.\n3. New trick sikau jastai 'sit' ya 'shake hand'."
+    },
+    {
+        "instruction": "Nepali ma ramailo riddle bana.",
+        "input": "",
+        "output": "Ma din ma dekhinchhu, raat ma harauchhu. Ma ke ho?\nAnswer: Chhaya (Shadow)"
+    },
+    {
+        "instruction": "Nepali ma ek ramro Instagram caption suggest gar.",
+        "input": "Hiking ko photo.",
+        "output": "Pahad ko mathi, sansar ko ramailo thau ma! 🏔️ #NepalBeauty"
+    },
+    {
+        "instruction": "Dashain ko tihar ma garne kaam ko list bana.",
+        "input": "",
+        "output": "1. Gharsaphai ra rangoli banau.\n2. Naya kapda kinera lagau.\n3. Tika thapera ashirbad lina.\n4. Mithai ra masu khaana ramailo garna."
+    },
+    {
+        "instruction": "Nepali ma ek emotional story lekha.",
+        "input": "",
+        "output": "Ek din ek budhi aama bazar ma sasto kapda khojda thiin. Pasalele sabai maheno gareko kura dekhera bhane, 'Hajur afno jindagi ma kasari ita ramro man banayo?' Aama le hasera bhani, 'Jindagi ma kati dherai kura gumauna parcha, tar majale bacheko rahyo.'"
+    },
+    {
+        "instruction": "Shopping ma jane manche lai ek tip de.",
+        "input": "",
+        "output": "Budget fix garera matra jane, ani unnecessary items kina nabhana."
+    },
+    {
+        "instruction": "Ek din ko productive routine suggest gar.",
+        "input": "",
+        "output": "1. Morning ma early uthera yoga gar.\n2. To-do list bana ani kaam prioritize gar.\n3. Afternoon ma 10 min stretch gar.\n4. Evening ma healthy dinner ra 30 min reading time rakh."
+    },
+    {
+        "instruction": "Nepali literature ko ek author ko barema lekha.",
+        "input": "Laxmi Prasad Devkota",
+        "output": "Laxmi Prasad Devkota Nepali literature ko maha kabi hun. Unko famous karya 'Muna Madan' le Nepali sahityama amar jagir banayo."
+    },
+    {
+        "instruction": "Mitho Nepali chai ko recipe de.",
+        "input": "",
+        "output": "1. Water ma tea leaves, sugar, ani aduwa rakhera boil gar.\n2. Milk add garera 5 minutes lagi simmer gar.\n3. Cup ma strain garera serve gar."
+    },
+    {
+        "instruction": "Ek simple workout plan diyera help gar.",
+        "input": "",
+        "output": "1. 5 min stretching.\n2. 15 min cardio jastai jogging ya skipping.\n3. 10 min bodyweight exercise, jastai push-up, squats, planks.\n4. 5 min cool down."
+    },
+    {
+        "instruction": "Nepali school ma popular game ko name lekha.",
+        "input": "",
+        "output": "Dandibiyo, Kabbadi, Gatta, Ra Jhyapki Lhaptai jasto khel haru popular hun."
+    },
+    {
+        "instruction": "Nepali ma ek eco-friendly lifestyle tip de.",
+        "input": "",
+        "output": "Reusable shopping bag use gar, ani single-use plastic ko jagga ma biodegradable products ko prayog gar."
+    },
+    {
+        "instruction": "Nepali ma ek romantic poem lekha.",
+        "input": "",
+        "output": "Timi bina mero sansar andhakar,\nTimi sangai mero mann pharkar.\nTimi muskuraye jasto surya ko ujyalo,\nTimi nai ho mero jindagi ko jhyal ra dhoka khulne palo."
+    },
+    {
+        "instruction": "Nepal ko ek historical site ko barema lekha.",
+        "input": "Pashupatinath Temple",
+        "output": "Pashupatinath Temple Kathmandu ma chha ra Hindu dharm ma ekdamai mahatwapoorn mandir ho. Shiva Bhagwan lai samarpit yo mandir UNESCO World Heritage Site pani ho."
+    },
+    {
+        "instruction": "Nepali ma healthy snacks ko list bana.",
+        "input": "",
+        "output": "1. Makai (popcorn)\n2. Chiya sanga roasted chana.\n3. Dried fruits jastai kismis ra badam.\n4. Fresh fruits jastai sita phal ra sun kosheli."
+    },
+    {
+        "instruction": "Nepali ma ek traffic rule explain gar.",
+        "input": "",
+        "output": "Crosswalk ma pedestrians lai pahila jaan dinu parcha, ani red light ma gadaan garnu hudaina."
+    },
+    {
+        "instruction": "Nepali ma study tips suggest gar.",
+        "input": "",
+        "output": "1. Daily notes banaera revise gar.\n2. 25-30 minutes padhera 5 minutes break le.\n3. Morning ma padna easy topics rakhi, evening ma hard topics cover gar."
+    },
+    {
+        "instruction": "Nepali ma ek traditional festival ko barema lekha.",
+        "input": "Holi",
+        "output": "Holi Nepal ma khusi ra rang ko utsav ho. Yo parva spring ma maninchha ani dherai rang lagayera ek arka sanga khusi saath celebrate garincha."
+    },
+    {
+        "instruction": "Nepali ma ek gratitude message lekha.",
+        "input": "",
+        "output": "Timro sahayog ra maya ko lagi dherai dhanyabad. Timi le dekhako support le jindagi ma dherai motivation diyeko chha."
+    },
+    {
+        "instruction": "Nepali ma ek travel safety tip de.",
+        "input": "",
+        "output": "Afno luggage ma identification tag rakha ani cash bhanda card use garna try gar."
+    },
+    {
+        "instruction": "Ek dog training ko simple tip suggest gar.",
+        "input": "",
+        "output": "Positive reinforcement ko lagi treat use gara ani command 'sit' sikau. Aba slowly repeat garera dog lai habituate gar."
+    },
+    {
+        "instruction": "Nepali ma ek DIY project ko idea share gar.",
+        "input": "",
+        "output": "Old glass bottle lai paint ra lights le decorate garera night lamp ma banaunus."
+    },
+    {
+        "instruction": "Nepali ma meditation ko benefits explain gar.",
+        "input": "",
+        "output": "Meditation le stress kam garcha, mind calm banauchha, ani focus badhaunchha. Regular practice le mental clarity aunchha."
+    },
+    {
+        "instruction": "Nepali ma ek common financial tip de.",
+        "input": "",
+        "output": "Monthly savings ko lagi 20% income separate rakha ani unnecessary expenses kam gar."
+    },
+    {
+        "instruction": "Nepali ma ek short story suru gar.",
+        "input": "",
+        "output": "Ek din Hari jungle ma gayeko thiyo. Usle ek sano biralo ko awaz suncha, ra usko saano muskan jindagi ko ekdamai ramailo suru bancha."
+    },
+    {
+        "instruction": "Nepali ma ek fitness goal define gar.",
+        "input": "",
+        "output": "2 mahina ma 5 kg weight loss garna, daily 30 min exercise garera achieve garna sakinchha."
+    },
+    {
+        "instruction": "Nepali ma ek polite email ko example bana.",
+        "input": "",
+        "output": "Subject: Request for Information\n\nDear Sir/Madam,\n\nKripaya malaai [specific topic] ko barema thap details provide garna saknuhunchha? Ma yo kurama dherai interested chu ra timely response ko lagi aasha garcha.\n\nThank you,\n[Tapaiko Naam]"
+    },
+    {
+        "instruction": "Nepali ma ek joke suggest gar.",
+        "input": "",
+        "output": "Teacher: Timro future ma k banne sochyo?\nStudent: Biralo!\nTeacher: Kasto kura gareko? Kinna biralo?\nStudent: Aba sabai biralo laptop ma bascha ni!"
+    },
+    {
+        "instruction": "Nepali ma ek self-care tip de.",
+        "input": "",
+        "output": "Daily ko 30 minutes afno lagi rakha. Reading, meditation, ya music enjoy garera mind fresh rakhna sakchha."
+    },
+    {
+        "instruction": "Nepali ma ek recipe ko creative name suggest gar.",
+        "input": "Spicy noodles",
+        "output": "Jyanma Jhyalko Chowmein"
+    },
+    {
+        "instruction": "Nepali ma ek creative business idea suggest gar.",
+        "input": "",
+        "output": "Local Nepali product jastai dhaka topi, handmade jewelry online platform ma export garne business start garna sakinchha."
+    },
+    {
+        "instruction": "Nepali ma ek inspiring morning routine share gar.",
+        "input": "",
+        "output": "1. Subha 6 baje uthera ek glass warm pani piu.\n2. 15 minutes yoga ya stretching gar.\n3. Healthy breakfast jastai oats ya fruits khau.\n4. Din ko goal set garera likha."
+    },
+    {
+        "instruction": "Ek Nepali proverb explain gar.",
+        "input": "Hatti ayo hatti, fussa!",
+        "output": "Yo proverb le tyo manche ko barema bhanchha, jasle thulo kura garcha, tara anta ma kehi garna sakdaina."
+    },
+    {
+        "instruction": "Nepali ma ek polite request bana.",
+        "input": "Malaai library ko book chaiyo.",
+        "output": "Kripaya library ma ek copy book ma lagi reserve garna milchha ki?"
+    },
+    {
+        "instruction": "Nepali ma ek travel destination suggest gar.",
+        "input": "Adventure lover ko lagi.",
+        "output": "Adventure lover ko lagi Pokhara ko Sarangkot ra Annapurna Base Camp perfect destination ho. Trekking ani paragliding garna pani milcha."
+    },
+    {
+        "instruction": "Nepali ma ek formal invitation letter ko format de.",
+        "input": "",
+        "output": "Subject: Invitation to [Event Name]\n\nDear [Name],\n\nYo patra ko madhyam bata timilai [Event Name] ko lagi nimto dina cha. Event [date] ma, [time] ma, [venue] ma hune cha. Timro upasthiti le event ko showbhagya badcha.\n\nDhanyabad,\n[Tapaiko Naam]"
+    },
+    {
+        "instruction": "Nepali ma ek creative Instagram bio lekha.",
+        "input": "",
+        "output": "Dreamer | Traveler | Nepali Vibes | Coffee Lover | Living life one smile at a time"
+    },
+    {
+        "instruction": "Nepali ma ek funny riddle bana.",
+        "input": "",
+        "output": "Mero naam sunera bhagcha, ma afai uchinchu, ma ke ho?\nAnswer: Jhola (Bag)"
+    },
+    {
+        "instruction": "Nepali ma ek new year wish bana.",
+        "input": "",
+        "output": "Naya barsha ko dherai dherai subhakamana! Timro jindagi ramailo, khushi ra safalta le bhari rahos."
+    },
+    {
+        "instruction": "Nepali ma ek self-improvement tip suggest gar.",
+        "input": "",
+        "output": "Daily ek naya skill seekhne prayas gar. Aba YouTube ya free resources ko sahayog le afno knowledge expand garna milcha."
+    },
+    {
+        "instruction": "Nepali ma ek healthy lunch recipe de.",
+        "input": "",
+        "output": "1. Brown rice lai pakaunus.\n2. Saag, gajar, ani tarkari lai steam gar.\n3. Grilled chicken ya paneer side ma rakh.\n4. Sabai lai thik ma garnish garera serve gar."
+    },
+    {
+        "instruction": "Nepali ma ek short poem lekha nature ko barema.",
+        "input": "",
+        "output": "Hariyali jungle ko chara,\nKholako awaz sukunko dhara.\nNepal ko sundar pahad ma,\nMa hamesha jindagi ko sahara."
+    },
+    {
+        "instruction": "Nepali ma ek productivity app ko description bana.",
+        "input": "Task Manager App",
+        "output": "Task Manager App le timro daily tasks organize garna madat garcha. Timle deadline set garera reminder ko lagi use garna milcha. Focus ra time management badhauna ekdum useful tool ho."
+    },
+    {
+        "instruction": "Nepali ma ek time management ko tip de.",
+        "input": "",
+        "output": "Din ko suruma priority ko kaam identify garera top 3 tasks complete garne goal bana."
+    },
+    {
+        "instruction": "Nepali ma ek short joke lekha.",
+        "input": "",
+        "output": "Ek kukur bhancha: 'Ma bark garna chhodi, aba meow garna sikchu!'\nArko kukur bhancha: 'Yo ta trending challenge ho!'"
+    },
+    {
+        "instruction": "Nepali ma ek positive affirmation suggest gar.",
+        "input": "",
+        "output": "Ma confident ra capable chu. Mero sapana pura garna sakchu."
+    },
+    {
+        "instruction": "Nepali ma ek cultural event ko description bana.",
+        "input": "Indra Jatra",
+        "output": "Indra Jatra Kathmandu ma manincha ani yasko artha Indra Devata ko samman ho. Chariot pulling, Lakhey dance, ani lights le yo utsav dherai ramailo huncha."
+    },
+    {
+        "instruction": "Nepali ma ek gratitude ko example lekha.",
+        "input": "",
+        "output": "Aaj ko din ma timro sahayog le mero kaam asar garna sakyo. Timilai dherai dhanyabad dinchhu!"
+    },
+    {
+        "instruction": "Nepali ma ek tech gadget ko review de.",
+        "input": "Smartwatch",
+        "output": "Yo smartwatch fitness tracking ma ramro cha. Step counting, heart rate monitoring, ra notification system sabai ramro tarika le kaam garcha. Battery life chai dherai efficient ho."
+    },
+    {
+        "instruction": "Nepali ma ek memorable childhood memory share gar.",
+        "input": "",
+        "output": "School time ma Dashain ko bela sabaile ekai din ma tika lagna ko lagi holiday ko wait garthyo. Baajeko katha sunne ani ghumna jane moment sabai bhanda memorable thiyo."
+    },
+    {
+        "instruction": "Nepali ma ek fun activity describe gar.",
+        "input": "",
+        "output": "Ekta chhoto trekking plan bana ra pasal bata makai lya. Top ma pughera barbecue garera dherai enjoy garna sakinchha!"
+    }
+]

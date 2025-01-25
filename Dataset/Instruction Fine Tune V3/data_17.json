@@ -1,0 +1,1797 @@
+[
+    {
+        "instruction": "Yo text ko sentiment classify gara (Positive, Negative, Neutral).",
+        "input": "Aaja ko din dherai ramailo thiyo!",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Yo text ma vayeko emotion identify gara (Happy, Sad, Angry, Surprised).",
+        "input": "Malai aaja dherai nai dukha lagyo.",
+        "output": "Sad"
+    },
+    {
+        "instruction": "Yo sentence ma vayeko topic classify gara (Sports, Politics, Technology, Health).",
+        "input": "Nepal le cricket match jityo!",
+        "output": "Sports"
+    },
+    {
+        "instruction": "Yo text ma vayeko language identify gara (Nepali, English, Mixed).",
+        "input": "Kasto ramro day thiyo today!",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Yo sentence ko tone classify gara (Formal, Informal).",
+        "input": "Namaste, hajur lai kasto cha?",
+        "output": "Formal"
+    },
+    {
+        "instruction": "Yo text ko category decide gara (News, Opinion, Advertisement).",
+        "input": "Naya iPhone 15 ko price dherai expensive cha.",
+        "output": "Opinion"
+    },
+    {
+        "instruction": "Yo sentence ma vayeko action classify gara (Request, Statement, Question).",
+        "input": "Kripaya yo kam garnu hos.",
+        "output": "Request"
+    },
+    {
+        "instruction": "Yo text ko sentiment classify gara (Positive, Negative, Neutral).",
+        "input": "Aaja ko weather dherai nai garam cha.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Yo sentence ma vayeko emotion identify gara (Happy, Sad, Angry, Surprised).",
+        "input": "Wow! Yo ta dherai nai surprising news ho!",
+        "output": "Surprised"
+    },
+    {
+        "instruction": "Yo text ma vayeko topic classify gara (Sports, Politics, Technology, Health).",
+        "input": "New AI technology le dherai kura change garirako cha.",
+        "output": "Technology"
+    },
+    {
+        "instruction": "Yo text ko language identify gara (Nepali, English, Mixed).",
+        "input": "This is a very good example of Roman Nepali.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Yo sentence ko tone classify gara (Formal, Informal).",
+        "input": "Hey bro, k cha?",
+        "output": "Informal"
+    },
+    {
+        "instruction": "Yo text ko category decide gara (News, Opinion, Advertisement).",
+        "input": "Naya shampoo use garnus, dherai effective ho!",
+        "output": "Advertisement"
+    },
+    {
+        "instruction": "Yo sentence ma vayeko action classify gara (Request, Statement, Question).",
+        "input": "Timi kahile aaudai chau?",
+        "output": "Question"
+    },
+    {
+        "instruction": "Yo paragraph ko sentiment classify gara (Positive, Negative, Neutral).",
+        "input": "Aaja ko din dherai nai ramailo thiyo. Maile dherai sathi haru sanga time spend gare, khana khayau, ra dherai hasyaau. Tara belka ma dherai thakai lagyo, tesaile chadai sutna gaye.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Yo paragraph ma vayeko emotion identify gara (Happy, Sad, Angry, Surprised).",
+        "input": "Malai aaja dherai nai dukha lagyo. Mero sathi le malai samjhauta garna khojda maile uslai dherai nai gali gare. Pachi malai afnai galti ko ehsaas bhayo ra ma dherai nai paachutap ma pare.",
+        "output": "Sad"
+    },
+    {
+        "instruction": "Yo paragraph ma vayeko topic classify gara (Sports, Politics, Technology, Health).",
+        "input": "Nepal le aaja cricket match ma dherai ramro performance diyo. Sandeep Lamichhane le 5 wickets liye ra Kushal Malla le century haneko thiyo. Yo victory le Nepal lai World Cup qualifier ma pugna sahayog garyo.",
+        "output": "Sports"
+    },
+    {
+        "instruction": "Yo paragraph ma vayeko language identify gara (Nepali, English, Mixed).",
+        "input": "Aaja ko meeting ma dherai important topics discuss bhayo. We talked about new project timelines, budget allocation, ra team ko performance. Sabai le afno afno suggestions diye ra dherai constructive discussion bhayo.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Yo paragraph ko tone classify gara (Formal, Informal).",
+        "input": "Namaste sir, ma tapailai yo email le mero project ko update dina chahanchu. Maile aaja sabai tasks complete gareko chu ra report pani submit gareko chu. Kripaya yo herera feedback dinu hola.",
+        "output": "Formal"
+    },
+    {
+        "instruction": "Yo paragraph ko category decide gara (News, Opinion, Advertisement).",
+        "input": "Naya iPhone 15 ko launch bhaisakyo ra yo phone ma dherai nai advanced features cha. Mero bichar ma yo phone dherai nai overpriced cha, tara technology ko hisab le worth it cha. Tara sabai le afford garna sakdainan.",
+        "output": "Opinion"
+    },
+    {
+        "instruction": "Yo paragraph ma vayeko action classify gara (Request, Statement, Question).",
+        "input": "Kripaya malai yo document lai review garnu hos ra feedback dinu hos. Maile sabai details include gareko chu, tara kehi mistakes bhayo bhane please correct garnu hos. Yo urgent cha, so please prioritize garera dinu hola.",
+        "output": "Request"
+    },
+    {
+        "instruction": "Yo paragraph ko sentiment classify gara (Positive, Negative, Neutral).",
+        "input": "Aaja ko weather dherai nai garam cha, ra ghar bata bahira niskina dherai nai gahro cha. Tara maile aafno kaam sakiyo ra aaba chai rest garna sakchu. Evening ma chai thulo rain forecast gareko cha, so cool huna sakcha.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Yo paragraph ma vayeko emotion identify gara (Happy, Sad, Angry, Surprised).",
+        "input": "Wow! Maile aaja dherai nai surprising news suneko chu. Mero sathi le lottery jitiyo ra usle malai pani share garna bhaneko cha. Ma dherai nai excited chu ra uslai congratulate garna jadaichu.",
+        "output": "Surprised"
+    },
+    {
+        "instruction": "Yo paragraph ma vayeko topic classify gara (Sports, Politics, Technology, Health).",
+        "input": "New AI technology le dherai kura change garirako cha. Aaja ko AI tools le human jobs replace garna sakchan, tara sath sath ma naya opportunities pani create garirako chan. Yo technology ko future dherai nai promising cha.",
+        "output": "Technology"
+    },
+    {
+        "instruction": "Yo paragraph ko language identify gara (Nepali, English, Mixed).",
+        "input": "This is a very good example of Roman Nepali mixed with English. Yo format le dherai nai flexible communication provide garcha, especially for those who are comfortable with both languages. It helps in better understanding ra clarity.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Yo paragraph ko tone classify gara (Formal, Informal).",
+        "input": "Hey bro, k cha? Aaja kehi plan cha ki nai? Ma chai free chu, so if you want we can hang out. Dherai din bhayo timi sanga bhet bhayeko, so let's catch up and have some fun.",
+        "output": "Informal"
+    },
+    {
+        "instruction": "Yo paragraph ko category decide gara (News, Opinion, Advertisement).",
+        "input": "Naya shampoo ko launch bhayo, jo dherai nai effective ra affordable cha. Yo shampoo le hair fall control garcha, dandruff hataucha, ra hair lai smooth ra shiny bancha. Sabai le try garnu hos, you won't regret it!",
+        "output": "Advertisement"
+    },
+    {
+        "instruction": "Yo paragraph ma vayeko action classify gara (Request, Statement, Question).",
+        "input": "Timi kahile aaudai chau? Maile timro lagi dinner prepare gareko chu, so please let me know your arrival time. Also, timi sanga kehi help chahiyo bhane please inform me, I'll be happy to assist.",
+        "output": "Question"
+    },
+    {
+        "instruction": "Classify the sentiment of this paragraph (Positive, Negative, Neutral).",
+        "input": "Aaja ko din dherai nai ramailo thiyo. Maile dherai sathi haru sanga time spend gare, khana khayau, ra dherai hasyaau. Tara belka ma dherai thakai lagyo, tesaile chadai sutna gaye.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Identify the emotion expressed in this paragraph (Happy, Sad, Angry, Surprised).",
+        "input": "Malai aaja dherai nai dukha lagyo. Mero sathi le malai samjhauta garna khojda maile uslai dherai nai gali gare. Pachi malai afnai galti ko ehsaas bhayo ra ma dherai nai paachutap ma pare.",
+        "output": "Sad"
+    },
+    {
+        "instruction": "Classify the topic of this paragraph (Sports, Politics, Technology, Health).",
+        "input": "Nepal le aaja cricket match ma dherai ramro performance diyo. Sandeep Lamichhane le 5 wickets liye ra Kushal Malla le century haneko thiyo. Yo victory le Nepal lai World Cup qualifier ma pugna sahayog garyo.",
+        "output": "Sports"
+    },
+    {
+        "instruction": "Identify the language used in this paragraph (Nepali, English, Mixed).",
+        "input": "Aaja ko meeting ma dherai important topics discuss bhayo. We talked about new project timelines, budget allocation, ra team ko performance. Sabai le afno afno suggestions diye ra dherai constructive discussion bhayo.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Classify the tone of this paragraph (Formal, Informal).",
+        "input": "Namaste sir, ma tapailai yo email le mero project ko update dina chahanchu. Maile aaja sabai tasks complete gareko chu ra report pani submit gareko chu. Kripaya yo herera feedback dinu hola.",
+        "output": "Formal"
+    },
+    {
+        "instruction": "Classify the category of this paragraph (News, Opinion, Advertisement).",
+        "input": "Naya iPhone 15 ko launch bhaisakyo ra yo phone ma dherai nai advanced features cha. Mero bichar ma yo phone dherai nai overpriced cha, tara technology ko hisab le worth it cha. Tara sabai le afford garna sakdainan.",
+        "output": "Opinion"
+    },
+    {
+        "instruction": "Classify the action in this paragraph (Request, Statement, Question).",
+        "input": "Kripaya malai yo document lai review garnu hos ra feedback dinu hos. Maile sabai details include gareko chu, tara kehi mistakes bhayo bhane please correct garnu hos. Yo urgent cha, so please prioritize garera dinu hola.",
+        "output": "Request"
+    },
+    {
+        "instruction": "Classify the sentiment of this paragraph (Positive, Negative, Neutral).",
+        "input": "Aaja ko weather dherai nai garam cha, ra ghar bata bahira niskina dherai nai gahro cha. Tara maile aafno kaam sakiyo ra aaba chai rest garna sakchu. Evening ma chai thulo rain forecast gareko cha, so cool huna sakcha.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Identify the emotion expressed in this paragraph (Happy, Sad, Angry, Surprised).",
+        "input": "Wow! Maile aaja dherai nai surprising news suneko chu. Mero sathi le lottery jitiyo ra usle malai pani share garna bhaneko cha. Ma dherai nai excited chu ra uslai congratulate garna jadaichu.",
+        "output": "Surprised"
+    },
+    {
+        "instruction": "Classify the topic of this paragraph (Sports, Politics, Technology, Health).",
+        "input": "New AI technology le dherai kura change garirako cha. Aaja ko AI tools le human jobs replace garna sakchan, tara sath sath ma naya opportunities pani create garirako chan. Yo technology ko future dherai nai promising cha.",
+        "output": "Technology"
+    },
+    {
+        "instruction": "Identify the language used in this paragraph (Nepali, English, Mixed).",
+        "input": "This is a very good example of Roman Nepali mixed with English. Yo format le dherai nai flexible communication provide garcha, especially for those who are comfortable with both languages. It helps in better understanding ra clarity.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Classify the tone of this paragraph (Formal, Informal).",
+        "input": "Hey bro, k cha? Aaja kehi plan cha ki nai? Ma chai free chu, so if you want we can hang out. Dherai din bhayo timi sanga bhet bhayeko, so let's catch up and have some fun.",
+        "output": "Informal"
+    },
+    {
+        "instruction": "Classify the category of this paragraph (News, Opinion, Advertisement).",
+        "input": "Naya shampoo ko launch bhayo, jo dherai nai effective ra affordable cha. Yo shampoo le hair fall control garcha, dandruff hataucha, ra hair lai smooth ra shiny bancha. Sabai le try garnu hos, you won't regret it!",
+        "output": "Advertisement"
+    },
+    {
+        "instruction": "Classify the action in this paragraph (Request, Statement, Question).",
+        "input": "Timi kahile aaudai chau? Maile timro lagi dinner prepare gareko chu, so please let me know your arrival time. Also, timi sanga kehi help chahiyo bhane please inform me, I'll be happy to assist.",
+        "output": "Question"
+    },
+    {
+        "instruction": "Classify the sentiment of this paragraph (Positive, Negative, Neutral).",
+        "input": "Mero aaja ko experience dherai nai mixed thiyo. Morning ma dherai ramro lagyo, tara afternoon ma kehi problems aayo ra ma dherai nai frustrate bhaye. Evening ma chai sabai thik bhayo, so overall ma happy chu.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Identify the emotion expressed in this paragraph (Happy, Sad, Angry, Surprised).",
+        "input": "Maile aaja mero boss lai dherai nai gali gare. Usle malai unfair treatment diyo ra ma dherai nai angry bhaye. Pachi malai lagyo ki maile galat gare, tara maile afno side bata explain gare.",
+        "output": "Angry"
+    },
+    {
+        "instruction": "Classify the topic of this paragraph (Sports, Politics, Technology, Health).",
+        "input": "Aaja ko news ma bhanya anusar, government le new health policy launch gareko cha. Yo policy le sabai citizens lai free basic health services provide garcha. Yo dherai nai beneficial hune expected cha.",
+        "output": "Health"
+    },
+    {
+        "instruction": "Identify the language used in this paragraph (Nepali, English, Mixed).",
+        "input": "Yo paragraph ma dherai nai Roman Nepali ra English mix cha. This is a good way to communicate with people who understand both languages. Yo format le dherai nai flexibility dincha.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Classify the tone of this paragraph (Formal, Informal).",
+        "input": "Dear sir, I am writing this email to inform you about the progress of our project. We have completed all the tasks on time and are now waiting for your feedback. Please let us know if there are any changes required.",
+        "output": "Formal"
+    },
+    {
+        "instruction": "Classify the category of this paragraph (News, Opinion, Advertisement).",
+        "input": "The new government policy has been introduced to improve the education system. According to experts, this policy will bring significant changes in the way students learn. However, some people are skeptical about its implementation.",
+        "output": "News"
+    },
+    {
+        "instruction": "Translate this paragraph from Romanized Nepali to English.",
+        "input": "Aaja ko din dherai nai ramailo thiyo. Maile dherai sathi haru sanga time spend gare, khana khayau, ra dherai hasyaau. Tara belka ma dherai thakai lagyo, tesaile chadai sutna gaye.",
+        "output": "Today was a very fun day. I spent a lot of time with my friends, ate food, and laughed a lot. But in the evening, I felt very tired, so I went to sleep early."
+    },
+    {
+        "instruction": "Summarize this paragraph in one sentence.",
+        "input": "Nepal le aaja cricket match ma dherai ramro performance diyo. Sandeep Lamichhane le 5 wickets liye ra Kushal Malla le century haneko thiyo. Yo victory le Nepal lai World Cup qualifier ma pugna sahayog garyo.",
+        "output": "Nepal performed well in today's cricket match, with Sandeep Lamichhane taking 5 wickets and Kushal Malla scoring a century, helping Nepal qualify for the World Cup."
+    },
+    {
+        "instruction": "Answer this question based on the paragraph: What did Sandeep Lamichhane achieve in the match?",
+        "input": "Nepal le aaja cricket match ma dherai ramro performance diyo. Sandeep Lamichhane le 5 wickets liye ra Kushal Malla le century haneko thiyo. Yo victory le Nepal lai World Cup qualifier ma pugna sahayog garyo.",
+        "output": "Sandeep Lamichhane took 5 wickets in the match."
+    },
+    {
+        "instruction": "Recommend a suitable action based on the paragraph.",
+        "input": "Aaja ko weather dherai nai garam cha, ra ghar bata bahira niskina dherai nai gahro cha. Tara maile aafno kaam sakiyo ra aaba chai rest garna sakchu. Evening ma chai thulo rain forecast gareko cha, so cool huna sakcha.",
+        "output": "Stay indoors during the day due to the hot weather and plan outdoor activities for the evening when it cools down."
+    },
+    {
+        "instruction": "Rewrite this paragraph in a more formal tone.",
+        "input": "Hey bro, k cha? Aaja kehi plan cha ki nai? Ma chai free chu, so if you want we can hang out. Dherai din bhayo timi sanga bhet bhayeko, so let's catch up and have some fun.",
+        "output": "Hello, how are you? Do you have any plans for today? I am free, so if you are available, we can meet. It has been a long time since we last met, so let us catch up and spend some time together."
+    },
+    {
+        "instruction": "Identify the main idea of this paragraph.",
+        "input": "New AI technology le dherai kura change garirako cha. Aaja ko AI tools le human jobs replace garna sakchan, tara sath sath ma naya opportunities pani create garirako chan. Yo technology ko future dherai nai promising cha.",
+        "output": "AI technology is transforming industries by replacing some jobs but also creating new opportunities, making its future very promising."
+    },
+    {
+        "instruction": "Translate this paragraph from English to Romanized Nepali.",
+        "input": "The new government policy has been introduced to improve the education system. According to experts, this policy will bring significant changes in the way students learn.",
+        "output": "Naya government policy le education system lai improve garna launch gareko cha. Experts ko anusar, yo policy le students ko sikshya ko tarika ma dherai nai parivartan lyaune cha."
+    },
+    {
+        "instruction": "Generate a question based on this paragraph.",
+        "input": "Naya shampoo ko launch bhayo, jo dherai nai effective ra affordable cha. Yo shampoo le hair fall control garcha, dandruff hataucha, ra hair lai smooth ra shiny bancha.",
+        "output": "What are the benefits of using this new shampoo?"
+    },
+    {
+        "instruction": "Provide a recommendation based on the paragraph.",
+        "input": "Aaja ko meeting ma dherai important topics discuss bhayo. We talked about new project timelines, budget allocation, ra team ko performance. Sabai le afno afno suggestions diye ra dherai constructive discussion bhayo.",
+        "output": "Follow up on the discussed action items and ensure that the new project timelines and budget allocations are implemented effectively."
+    },
+    {
+        "instruction": "Classify the intent of this paragraph (e.g., Inform, Persuade, Entertain).",
+        "input": "Naya iPhone 15 ko launch bhaisakyo ra yo phone ma dherai nai advanced features cha. Mero bichar ma yo phone dherai nai overpriced cha, tara technology ko hisab le worth it cha.",
+        "output": "Inform"
+    },
+    {
+        "instruction": "Extract the key points from this paragraph.",
+        "input": "Aaja ko news ma bhanya anusar, government le new health policy launch gareko cha. Yo policy le sabai citizens lai free basic health services provide garcha. Yo dherai nai beneficial hune expected cha.",
+        "output": "1. Government launched a new health policy. 2. The policy provides free basic health services to all citizens. 3. It is expected to be very beneficial."
+    },
+    {
+        "instruction": "Translate this paragraph from Romanized Nepali to English.",
+        "input": "Malai aaja dherai nai dukha lagyo. Mero sathi le malai samjhauta garna khojda maile uslai dherai nai gali gare. Pachi malai afnai galti ko ehsaas bhayo ra ma dherai nai paachutap ma pare.",
+        "output": "I felt very sad today. When my friend tried to compromise, I scolded them a lot. Later, I realized my mistake and felt very guilty."
+    },
+    {
+        "instruction": "Summarize this paragraph in one sentence.",
+        "input": "Wow! Maile aaja dherai nai surprising news suneko chu. Mero sathi le lottery jitiyo ra usle malai pani share garna bhaneko cha. Ma dherai nai excited chu ra uslai congratulate garna jadaichu.",
+        "output": "My friend won the lottery and shared the news with me, making me very excited and eager to congratulate them."
+    },
+    {
+        "instruction": "Answer this question based on the paragraph: Why is the speaker excited?",
+        "input": "Wow! Maile aaja dherai nai surprising news suneko chu. Mero sathi le lottery jitiyo ra usle malai pani share garna bhaneko cha. Ma dherai nai excited chu ra uslai congratulate garna jadaichu.",
+        "output": "The speaker is excited because their friend won the lottery and shared the news with them."
+    },
+    {
+        "instruction": "Recommend a suitable action based on the paragraph.",
+        "input": "Malai aaja mero boss lai dherai nai gali gare. Usle malai unfair treatment diyo ra ma dherai nai angry bhaye. Pachi malai lagyo ki maile galat gare, tara maile afno side bata explain gare.",
+        "output": "Apologize to your boss for losing your temper and try to have a calm discussion to resolve the issue."
+    },
+    {
+        "instruction": "Rewrite this paragraph in a more informal tone.",
+        "input": "Namaste sir, ma tapailai yo email le mero project ko update dina chahanchu. Maile aaja sabai tasks complete gareko chu ra report pani submit gareko chu. Kripaya yo herera feedback dinu hola.",
+        "output": "Hey sir, just wanted to update you on my project. I’ve finished all the tasks and submitted the report. Please check it out and let me know your feedback."
+    },
+    {
+        "instruction": "Identify the main idea of this paragraph.",
+        "input": "This is a very good example of Roman Nepali mixed with English. Yo format le dherai nai flexible communication provide garcha, especially for those who are comfortable with both languages. It helps in better understanding ra clarity.",
+        "output": "Mixing Roman Nepali and English provides flexible communication and improves understanding for bilingual individuals."
+    },
+    {
+        "instruction": "Generate a question based on this paragraph.",
+        "input": "New AI technology le dherai kura change garirako cha. Aaja ko AI tools le human jobs replace garna sakchan, tara sath sath ma naya opportunities pani create garirako chan.",
+        "output": "How is AI technology impacting job opportunities?"
+    },
+    {
+        "instruction": "Provide a recommendation based on the paragraph.",
+        "input": "Aaja ko weather dherai nai garam cha, ra ghar bata bahira niskina dherai nai gahro cha. Tara maile aafno kaam sakiyo ra aaba chai rest garna sakchu. Evening ma chai thulo rain forecast gareko cha, so cool huna sakcha.",
+        "output": "Avoid going outside during the day due to the heat and plan activities for the evening when the weather cools down."
+    },
+    {
+        "instruction": "Translate this paragraph from Romanized Nepali to English.",
+        "input": "Mero ghar ma aaja dherai mehman aaye. Sabai le dherai ramro khana khayau ra kura katau. Belka ma sabai sanga music suniyo ra dance gareu. Dherai nai ramailo bhayo.",
+        "output": "Many guests came to my house today. Everyone ate delicious food and had conversations. In the evening, we listened to music and danced together. It was a lot of fun."
+    },
+    {
+        "instruction": "Summarize this paragraph in one sentence.",
+        "input": "Nepal ko capital city Kathmandu ma aaja dherai nai traffic thiyo. Road ma dherai nai jam bhayo ra manche haru lai dherai problem bhayo. Traffic police le situation control garna khojda pani dherai time lagyo.",
+        "output": "Kathmandu experienced heavy traffic today, causing significant problems for people despite efforts by traffic police to control the situation."
+    },
+    {
+        "instruction": "Answer this question based on the paragraph: What caused the traffic problem in Kathmandu?",
+        "input": "Nepal ko capital city Kathmandu ma aaja dherai nai traffic thiyo. Road ma dherai nai jam bhayo ra manche haru lai dherai problem bhayo. Traffic police le situation control garna khojda pani dherai time lagyo.",
+        "output": "The traffic problem in Kathmandu was caused by a heavy jam on the roads."
+    },
+    {
+        "instruction": "Recommend a suitable action based on the paragraph.",
+        "input": "Aaja ko din ma dherai nai garam cha, ra ghar bata bahira niskina dherai nai gahro cha. Tara evening ma chai cool huna sakcha, so outdoor activities lai evening plan garnu ramro hola.",
+        "output": "Plan outdoor activities for the evening when the weather is cooler, and avoid going outside during the day due to the heat."
+    },
+    {
+        "instruction": "Rewrite this paragraph in a more formal tone.",
+        "input": "Hey bro, timi lai kehi help chahiyo bhane malai bhana. Ma timro lagi kehi pani garna sakchu. Just let me know.",
+        "output": "Hello, if you need any assistance, please let me know. I am available to help you with anything. Kindly inform me."
+    },
+    {
+        "instruction": "Identify the main idea of this paragraph.",
+        "input": "Nepal ma tourism industry le dherai nai growth gareko cha. Pahad, himal, ra historical places le dherai nai tourists attract gareko cha. Yo le Nepal ko economy lai dherai nai sahayog gareko cha.",
+        "output": "Nepal's tourism industry has grown significantly, attracting tourists with its mountains, Himalayas, and historical sites, which has greatly supported the economy."
+    },
+    {
+        "instruction": "Translate this paragraph from English to Romanized Nepali.",
+        "input": "The new education policy focuses on improving the quality of education in rural areas. It aims to provide better facilities and trained teachers to students.",
+        "output": "Naya education policy le rural areas ma education ko quality improve garna focus gareko cha. Yo le students lai better facilities ra trained teachers provide garna khojcha."
+    },
+    {
+        "instruction": "Generate a question based on this paragraph.",
+        "input": "Nepal ma tourism industry le dherai nai growth gareko cha. Pahad, himal, ra historical places le dherai nai tourists attract gareko cha.",
+        "output": "What factors have contributed to the growth of Nepal's tourism industry?"
+    },
+    {
+        "instruction": "Provide a recommendation based on the paragraph.",
+        "input": "Aaja ko meeting ma dherai important decisions liyiyo. New project ko timeline final bhayo ra budget pani approve bhayo. Sabai team members le afno roles clearly understand gare.",
+        "output": "Ensure that all team members follow the approved timeline and budget, and clarify any doubts regarding their roles."
+    },
+    {
+        "instruction": "Classify the intent of this paragraph (e.g., Inform, Persuade, Entertain).",
+        "input": "Naya movie ko release bhayo, jo dherai nai interesting ra entertaining cha. Yo movie le dherai nai life lessons dincha ra sabai le hernu parne movie ho.",
+        "output": "Persuade"
+    },
+    {
+        "instruction": "Extract the key points from this paragraph.",
+        "input": "Nepal ma agriculture le dherai nai important role kheldai cha. Yo le dherai nai manche haru ko livelihood provide garcha. Tara aaja kal climate change le agriculture lai dherai nai affect garirako cha.",
+        "output": "1. Agriculture plays a vital role in Nepal. 2. It provides livelihoods for many people. 3. Climate change is negatively affecting agriculture."
+    },
+    {
+        "instruction": "Translate this paragraph from Romanized Nepali to English.",
+        "input": "Mero sathi le malai aaja phone garyo ra usle mero lagi dherai nai important news diyo. Usle bhaneko thiyo ki usle new job paayo ra ma dherai nai khusi bhaye.",
+        "output": "My friend called me today and shared very important news. He told me that he got a new job, and I was very happy."
+    },
+    {
+        "instruction": "Summarize this paragraph in one sentence.",
+        "input": "Aaja ko market ma dherai nai price increase bhayo. Sabai products ko price dherai nai badhyo, ra manche haru lai dherai nai problem bhayo. Government le price control garna khojda pani kehi faida bhayo jasto lagena.",
+        "output": "Prices in the market increased significantly today, causing problems for people, and government efforts to control prices seem ineffective."
+    },
+    {
+        "instruction": "Answer this question based on the paragraph: Why are people facing problems in the market?",
+        "input": "Aaja ko market ma dherai nai price increase bhayo. Sabai products ko price dherai nai badhyo, ra manche haru lai dherai nai problem bhayo.",
+        "output": "People are facing problems in the market because the prices of all products have increased significantly."
+    },
+    {
+        "instruction": "Recommend a suitable action based on the paragraph.",
+        "input": "Aaja ko market ma dherai nai price increase bhayo. Sabai products ko price dherai nai badhyo, ra manche haru lai dherai nai problem bhayo.",
+        "output": "Look for alternative products or shops with lower prices, and consider reducing non-essential purchases until prices stabilize."
+    },
+    {
+        "instruction": "Rewrite this paragraph in a more informal tone.",
+        "input": "Dear sir, I am writing to inform you about the delay in the project. Due to unforeseen circumstances, we will need an additional week to complete the tasks.",
+        "output": "Hey sir, just wanted to let you know that the project is delayed. We’ll need an extra week to finish everything because of some unexpected issues."
+    },
+    {
+        "instruction": "Identify the main idea of this paragraph.",
+        "input": "Nepal ma internet usage dherai nai badhyo. Aaja kal dherai nai manche haru le online platforms use garirako chan, ra yo le dherai nai opportunities create gareko cha.",
+        "output": "Internet usage in Nepal has increased significantly, creating many opportunities through online platforms."
+    },
+    {
+        "instruction": "Generate a question based on this paragraph.",
+        "input": "Nepal ma internet usage dherai nai badhyo. Aaja kal dherai nai manche haru le online platforms use garirako chan, ra yo le dherai nai opportunities create gareko cha.",
+        "output": "How has the increase in internet usage created opportunities in Nepal?"
+    },
+    {
+        "instruction": "Provide a recommendation based on the paragraph.",
+        "input": "Aaja ko meeting ma dherai nai important decisions liyiyo. New project ko timeline final bhayo ra budget pani approve bhayo. Sabai team members le afno roles clearly understand gare.",
+        "output": "Ensure that all team members follow the approved timeline and budget, and clarify any doubts regarding their roles."
+    },
+    {
+        "instruction": "Classify the sentiment of this paragraph (Positive, Negative, Neutral).",
+        "input": "Aaja ko din dherai nai ramailo thiyo. Maile dherai sathi haru sanga time spend gare, khana khayau, ra dherai hasyaau. Tara belka ma dherai thakai lagyo, tesaile chadai sutna gaye.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the topic of this paragraph (Sports, Politics, Technology, Health).",
+        "input": "Nepal le aaja cricket match ma dherai ramro performance diyo. Sandeep Lamichhane le 5 wickets liye ra Kushal Malla le century haneko thiyo. Yo victory le Nepal lai World Cup qualifier ma pugna sahayog garyo.",
+        "output": "Sports"
+    },
+    {
+        "instruction": "Classify the emotion expressed in this paragraph (Happy, Sad, Angry, Surprised).",
+        "input": "Malai aaja dherai nai dukha lagyo. Mero sathi le malai samjhauta garna khojda maile uslai dherai nai gali gare. Pachi malai afnai galti ko ehsaas bhayo ra ma dherai nai paachutap ma pare.",
+        "output": "Sad"
+    },
+    {
+        "instruction": "Classify the language used in this paragraph (Nepali, English, Mixed).",
+        "input": "Aaja ko meeting ma dherai important topics discuss bhayo. We talked about new project timelines, budget allocation, ra team ko performance. Sabai le afno afno suggestions diye ra dherai constructive discussion bhayo.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Classify the tone of this paragraph (Formal, Informal).",
+        "input": "Namaste sir, ma tapailai yo email le mero project ko update dina chahanchu. Maile aaja sabai tasks complete gareko chu ra report pani submit gareko chu. Kripaya yo herera feedback dinu hola.",
+        "output": "Formal"
+    },
+    {
+        "instruction": "Classify the category of this paragraph (News, Opinion, Advertisement).",
+        "input": "Naya iPhone 15 ko launch bhaisakyo ra yo phone ma dherai nai advanced features cha. Mero bichar ma yo phone dherai nai overpriced cha, tara technology ko hisab le worth it cha. Tara sabai le afford garna sakdainan.",
+        "output": "Opinion"
+    },
+    {
+        "instruction": "Classify the intent of this paragraph (Inform, Persuade, Entertain).",
+        "input": "Naya movie ko release bhayo, jo dherai nai interesting ra entertaining cha. Yo movie le dherai nai life lessons dincha ra sabai le hernu parne movie ho.",
+        "output": "Persuade"
+    },
+    {
+        "instruction": "Classify the sentiment of this paragraph (Positive, Negative, Neutral).",
+        "input": "Aaja ko weather dherai nai garam cha, ra ghar bata bahira niskina dherai nai gahro cha. Tara maile aafno kaam sakiyo ra aaba chai rest garna sakchu. Evening ma chai thulo rain forecast gareko cha, so cool huna sakcha.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the emotion expressed in this paragraph (Happy, Sad, Angry, Surprised).",
+        "input": "Wow! Maile aaja dherai nai surprising news suneko chu. Mero sathi le lottery jitiyo ra usle malai pani share garna bhaneko cha. Ma dherai nai excited chu ra uslai congratulate garna jadaichu.",
+        "output": "Surprised"
+    },
+    {
+        "instruction": "Classify the topic of this paragraph (Sports, Politics, Technology, Health).",
+        "input": "New AI technology le dherai kura change garirako cha. Aaja ko AI tools le human jobs replace garna sakchan, tara sath sath ma naya opportunities pani create garirako chan. Yo technology ko future dherai nai promising cha.",
+        "output": "Technology"
+    },
+    {
+        "instruction": "Classify the language used in this paragraph (Nepali, English, Mixed).",
+        "input": "This is a very good example of Roman Nepali mixed with English. Yo format le dherai nai flexible communication provide garcha, especially for those who are comfortable with both languages. It helps in better understanding ra clarity.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Classify the tone of this paragraph (Formal, Informal).",
+        "input": "Hey bro, k cha? Aaja kehi plan cha ki nai? Ma chai free chu, so if you want we can hang out. Dherai din bhayo timi sanga bhet bhayeko, so let's catch up and have some fun.",
+        "output": "Informal"
+    },
+    {
+        "instruction": "Classify the category of this paragraph (News, Opinion, Advertisement).",
+        "input": "Naya shampoo ko launch bhayo, jo dherai nai effective ra affordable cha. Yo shampoo le hair fall control garcha, dandruff hataucha, ra hair lai smooth ra shiny bancha. Sabai le try garnu hos, you won't regret it!",
+        "output": "Advertisement"
+    },
+    {
+        "instruction": "Classify the intent of this paragraph (Inform, Persuade, Entertain).",
+        "input": "The new government policy has been introduced to improve the education system. According to experts, this policy will bring significant changes in the way students learn.",
+        "output": "Inform"
+    },
+    {
+        "instruction": "Classify the sentiment of this paragraph (Positive, Negative, Neutral).",
+        "input": "Mero aaja ko experience dherai nai mixed thiyo. Morning ma dherai ramro lagyo, tara afternoon ma kehi problems aayo ra ma dherai nai frustrate bhaye. Evening ma chai sabai thik bhayo, so overall ma happy chu.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the emotion expressed in this paragraph (Happy, Sad, Angry, Surprised).",
+        "input": "Maile aaja mero boss lai dherai nai gali gare. Usle malai unfair treatment diyo ra ma dherai nai angry bhaye. Pachi malai lagyo ki maile galat gare, tara maile afno side bata explain gare.",
+        "output": "Angry"
+    },
+    {
+        "instruction": "Classify the topic of this paragraph (Sports, Politics, Technology, Health).",
+        "input": "Aaja ko news ma bhanya anusar, government le new health policy launch gareko cha. Yo policy le sabai citizens lai free basic health services provide garcha. Yo dherai nai beneficial hune expected cha.",
+        "output": "Health"
+    },
+    {
+        "instruction": "Classify the language used in this paragraph (Nepali, English, Mixed).",
+        "input": "Yo paragraph ma dherai nai Roman Nepali ra English mix cha. This is a good way to communicate with people who understand both languages. Yo format le dherai nai flexibility dincha.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Classify the tone of this paragraph (Formal, Informal).",
+        "input": "Dear sir, I am writing this email to inform you about the progress of our project. We have completed all the tasks on time and are now waiting for your feedback. Please let us know if there are any changes required.",
+        "output": "Formal"
+    },
+    {
+        "instruction": "Classify the category of this paragraph (News, Opinion, Advertisement).",
+        "input": "The new government policy has been introduced to improve the education system. According to experts, this policy will bring significant changes in the way students learn. However, some people are skeptical about its implementation.",
+        "output": "News"
+    },
+    {
+        "instruction": "Translate this paragraph from Romanized Nepali to English.",
+        "input": "Mero ghar ma aaja dherai mehman aaye. Sabai le dherai ramro khana khayau ra kura katau. Belka ma sabai sanga music suniyo ra dance gareu. Dherai nai ramailo bhayo.",
+        "output": "Many guests came to my house today. Everyone ate delicious food and had conversations. In the evening, we listened to music and danced together. It was a lot of fun."
+    },
+    {
+        "instruction": "Summarize this paragraph in one sentence.",
+        "input": "Nepal ko capital city Kathmandu ma aaja dherai nai traffic thiyo. Road ma dherai nai jam bhayo ra manche haru lai dherai problem bhayo. Traffic police le situation control garna khojda pani dherai time lagyo.",
+        "output": "Kathmandu experienced heavy traffic today, causing significant problems for people despite efforts by traffic police to control the situation."
+    },
+    {
+        "instruction": "Answer this question based on the paragraph: What caused the traffic problem in Kathmandu?",
+        "input": "Nepal ko capital city Kathmandu ma aaja dherai nai traffic thiyo. Road ma dherai nai jam bhayo ra manche haru lai dherai problem bhayo. Traffic police le situation control garna khojda pani dherai time lagyo.",
+        "output": "The traffic problem in Kathmandu was caused by a heavy jam on the roads."
+    },
+    {
+        "instruction": "Recommend a suitable action based on the paragraph.",
+        "input": "Aaja ko din ma dherai nai garam cha, ra ghar bata bahira niskina dherai nai gahro cha. Tara evening ma chai cool huna sakcha, so outdoor activities lai evening plan garnu ramro hola.",
+        "output": "Plan outdoor activities for the evening when the weather is cooler, and avoid going outside during the day due to the heat."
+    },
+    {
+        "instruction": "Rewrite this paragraph in a more formal tone.",
+        "input": "Hey bro, timi lai kehi help chahiyo bhane malai bhana. Ma timro lagi kehi pani garna sakchu. Just let me know.",
+        "output": "Hello, if you need any assistance, please let me know. I am available to help you with anything. Kindly inform me."
+    },
+    {
+        "instruction": "Identify the main idea of this paragraph.",
+        "input": "Nepal ma tourism industry le dherai nai growth gareko cha. Pahad, himal, ra historical places le dherai nai tourists attract gareko cha. Yo le Nepal ko economy lai dherai nai sahayog gareko cha.",
+        "output": "Nepal's tourism industry has grown significantly, attracting tourists with its mountains, Himalayas, and historical sites, which has greatly supported the economy."
+    },
+    {
+        "instruction": "Translate this paragraph from English to Romanized Nepali.",
+        "input": "The new education policy focuses on improving the quality of education in rural areas. It aims to provide better facilities and trained teachers to students.",
+        "output": "Naya education policy le rural areas ma education ko quality improve garna focus gareko cha. Yo le students lai better facilities ra trained teachers provide garna khojcha."
+    },
+    {
+        "instruction": "Generate a question based on this paragraph.",
+        "input": "Nepal ma tourism industry le dherai nai growth gareko cha. Pahad, himal, ra historical places le dherai nai tourists attract gareko cha.",
+        "output": "What factors have contributed to the growth of Nepal's tourism industry?"
+    },
+    {
+        "instruction": "Provide a recommendation based on the paragraph.",
+        "input": "Aaja ko meeting ma dherai important decisions liyiyo. New project ko timeline final bhayo ra budget pani approve bhayo. Sabai team members le afno roles clearly understand gare.",
+        "output": "Ensure that all team members follow the approved timeline and budget, and clarify any doubts regarding their roles."
+    },
+    {
+        "instruction": "Classify the intent of this paragraph (e.g., Inform, Persuade, Entertain).",
+        "input": "Naya movie ko release bhayo, jo dherai nai interesting ra entertaining cha. Yo movie le dherai nai life lessons dincha ra sabai le hernu parne movie ho.",
+        "output": "Persuade"
+    },
+    {
+        "instruction": "Extract the key points from this paragraph.",
+        "input": "Nepal ma agriculture le dherai nai important role kheldai cha. Yo le dherai nai manche haru ko livelihood provide garcha. Tara aaja kal climate change le agriculture lai dherai nai affect garirako cha.",
+        "output": "1. Agriculture plays a vital role in Nepal. 2. It provides livelihoods for many people. 3. Climate change is negatively affecting agriculture."
+    },
+    {
+        "instruction": "Translate this paragraph from Romanized Nepali to English.",
+        "input": "Mero sathi le malai aaja phone garyo ra usle mero lagi dherai nai important news diyo. Usle bhaneko thiyo ki usle new job paayo ra ma dherai nai khusi bhaye.",
+        "output": "My friend called me today and shared very important news. He told me that he got a new job, and I was very happy."
+    },
+    {
+        "instruction": "Classify the sentiment of this paragraph (Positive, Negative, Neutral).",
+        "input": "Aaja ko din dherai nai ramailo thiyo. Maile dherai sathi haru sanga time spend gare, khana khayau, ra dherai hasyaau. Tara belka ma dherai thakai lagyo, tesaile chadai sutna gaye.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Classify the topic of this paragraph (Sports, Politics, Technology, Health).",
+        "input": "Nepal le aaja cricket match ma dherai ramro performance diyo. Sandeep Lamichhane le 5 wickets liye ra Kushal Malla le century haneko thiyo. Yo victory le Nepal lai World Cup qualifier ma pugna sahayog garyo.",
+        "output": "Sports"
+    },
+    {
+        "instruction": "Classify the emotion expressed in this paragraph (Happy, Sad, Angry, Surprised).",
+        "input": "Malai aaja dherai nai dukha lagyo. Mero sathi le malai samjhauta garna khojda maile uslai dherai nai gali gare. Pachi malai afnai galti ko ehsaas bhayo ra ma dherai nai paachutap ma pare.",
+        "output": "Sad"
+    },
+    {
+        "instruction": "Classify the language used in this paragraph (Nepali, English, Mixed).",
+        "input": "Aaja ko meeting ma dherai important topics discuss bhayo. We talked about new project timelines, budget allocation, ra team ko performance. Sabai le afno afno suggestions diye ra dherai constructive discussion bhayo.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Classify the tone of this paragraph (Formal, Informal).",
+        "input": "Namaste sir, ma tapailai yo email le mero project ko update dina chahanchu. Maile aaja sabai tasks complete gareko chu ra report pani submit gareko chu. Kripaya yo herera feedback dinu hola.",
+        "output": "Formal"
+    },
+    {
+        "instruction": "Classify the category of this paragraph (News, Opinion, Advertisement).",
+        "input": "Naya iPhone 15 ko launch bhaisakyo ra yo phone ma dherai nai advanced features cha. Mero bichar ma yo phone dherai nai overpriced cha, tara technology ko hisab le worth it cha. Tara sabai le afford garna sakdainan.",
+        "output": "Opinion"
+    },
+    {
+        "instruction": "Classify the intent of this paragraph (Inform, Persuade, Entertain).",
+        "input": "Naya movie ko release bhayo, jo dherai nai interesting ra entertaining cha. Yo movie le dherai nai life lessons dincha ra sabai le hernu parne movie ho.",
+        "output": "Persuade"
+    },
+    {
+        "instruction": "Classify the sentiment of this paragraph (Positive, Negative, Neutral).",
+        "input": "Aaja ko weather dherai nai garam cha, ra ghar bata bahira niskina dherai nai gahro cha. Tara maile aafno kaam sakiyo ra aaba chai rest garna sakchu. Evening ma chai thulo rain forecast gareko cha, so cool huna sakcha.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the emotion expressed in this paragraph (Happy, Sad, Angry, Surprised).",
+        "input": "Wow! Maile aaja dherai nai surprising news suneko chu. Mero sathi le lottery jitiyo ra usle malai pani share garna bhaneko cha. Ma dherai nai excited chu ra uslai congratulate garna jadaichu.",
+        "output": "Surprised"
+    },
+    {
+        "instruction": "Classify the topic of this paragraph (Sports, Politics, Technology, Health).",
+        "input": "New AI technology le dherai kura change garirako cha. Aaja ko AI tools le human jobs replace garna sakchan, tara sath sath ma naya opportunities pani create garirako chan. Yo technology ko future dherai nai promising cha.",
+        "output": "Technology"
+    },
+    {
+        "instruction": "Classify the language used in this paragraph (Nepali, English, Mixed).",
+        "input": "This is a very good example of Roman Nepali mixed with English. Yo format le dherai nai flexible communication provide garcha, especially for those who are comfortable with both languages. It helps in better understanding ra clarity.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Classify the tone of this paragraph (Formal, Informal).",
+        "input": "Hey bro, k cha? Aaja kehi plan cha ki nai? Ma chai free chu, so if you want we can hang out. Dherai din bhayo timi sanga bhet bhayeko, so let's catch up and have some fun.",
+        "output": "Informal"
+    },
+    {
+        "instruction": "Classify the category of this paragraph (News, Opinion, Advertisement).",
+        "input": "Naya shampoo ko launch bhayo, jo dherai nai effective ra affordable cha. Yo shampoo le hair fall control garcha, dandruff hataucha, ra hair lai smooth ra shiny bancha. Sabai le try garnu hos, you won't regret it!",
+        "output": "Advertisement"
+    },
+    {
+        "instruction": "Classify the intent of this paragraph (Inform, Persuade, Entertain).",
+        "input": "The new government policy has been introduced to improve the education system. According to experts, this policy will bring significant changes in the way students learn.",
+        "output": "Inform"
+    },
+    {
+        "instruction": "Classify the sentiment of this paragraph (Positive, Negative, Neutral).",
+        "input": "Mero aaja ko experience dherai nai mixed thiyo. Morning ma dherai ramro lagyo, tara afternoon ma kehi problems aayo ra ma dherai nai frustrate bhaye. Evening ma chai sabai thik bhayo, so overall ma happy chu.",
+        "output": "Neutral"
+    },
+    {
+        "instruction": "Classify the emotion expressed in this paragraph (Happy, Sad, Angry, Surprised).",
+        "input": "Maile aaja mero boss lai dherai nai gali gare. Usle malai unfair treatment diyo ra ma dherai nai angry bhaye. Pachi malai lagyo ki maile galat gare, tara maile afno side bata explain gare.",
+        "output": "Angry"
+    },
+    {
+        "instruction": "Classify the topic of this paragraph (Sports, Politics, Technology, Health).",
+        "input": "Aaja ko news ma bhanya anusar, government le new health policy launch gareko cha. Yo policy le sabai citizens lai free basic health services provide garcha. Yo dherai nai beneficial hune expected cha.",
+        "output": "Health"
+    },
+    {
+        "instruction": "Classify the language used in this paragraph (Nepali, English, Mixed).",
+        "input": "Yo paragraph ma dherai nai Roman Nepali ra English mix cha. This is a good way to communicate with people who understand both languages. Yo format le dherai nai flexibility dincha.",
+        "output": "Mixed"
+    },
+    {
+        "instruction": "Classify the tone of this paragraph (Formal, Informal).",
+        "input": "Dear sir, I am writing this email to inform you about the progress of our project. We have completed all the tasks on time and are now waiting for your feedback. Please let us know if there are any changes required.",
+        "output": "Formal"
+    },
+    {
+        "instruction": "Classify the category of this paragraph (News, Opinion, Advertisement).",
+        "input": "The new government policy has been introduced to improve the education system. According to experts, this policy will bring significant changes in the way students learn. However, some people are skeptical about its implementation.",
+        "output": "News"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko price kati ho ra yo kahaa bata kinna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma aaja ko temperature kati cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product kahile samma deliver huncha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Kathmandu ma best restaurant kahaa cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo dress ko size chart k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ko capital city k ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order cancel garna sakchu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Pokhara jana ko lagi best time kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko warranty kati days ko cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma internet speed kati cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product return garna sakchu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best trekking route kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko review k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma public holiday kun din cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko tracking number k ho?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best hospital kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko delivery charge kati ho?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best college kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko color change garna sakchu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit kun mahina ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo laptop ko RAM kati GB cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma winter ko temperature kati huncha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko status k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Kathmandu ma best coffee shop kahaa cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo phone ma dual SIM support cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma public transportation kati reliable cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko invoice kasari download garna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Chitwan National Park kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko discount kati percent cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best university for engineering kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko return policy k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best place for hiking kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko battery life kati hours ko cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Mustang kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko delivery date kati ho?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Lumbini kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko color options kati cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Rara Lake kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko payment method change garna sakchu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Sagarmatha National Park kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko warranty claim kasari garna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Bardiya National Park kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko replacement kasari magau?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Annapurna Base Camp kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo smartwatch ma heart rate monitor cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma monsoon season kun mahina suru huncha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko cash on delivery option cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Kathmandu ma best place for momo kahaa cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo laptop ma SSD cha ki HDD?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Pokhara kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko refund kasari paau?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Bhaktapur kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko installation guide kahaa paucha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Patan Durbar Square kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko review kasari lekhnu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Swayambhunath Stupa kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko compatible accessories k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Pashupatinath Temple kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko delivery address kasari change garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Boudhanath Stupa kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko user manual kahaa download garna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Nagarkot kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko payment failed bhancha, ke garnu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Dhulikhel kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko replacement policy k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Janakpur kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko delivery status kasari check garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Ilam kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko warranty period kati days ko cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Bandipur kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko return kasari initiate garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Tansen kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko compatible software k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Gorkha kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo phone ko screen size kati inches ko cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Chitwan kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko delivery time kati days lagcha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Kathmandu ma best place for photography kahaa cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo laptop ko battery backup kati hours ko cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Lumbini kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko return policy k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Rara Lake kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko warranty claim kasari garna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Bardiya National Park kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko replacement kasari magau?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Annapurna Base Camp kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo smartwatch ma heart rate monitor cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma monsoon season kun mahina suru huncha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko cash on delivery option cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Kathmandu ma best place for momo kahaa cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo laptop ma SSD cha ki HDD?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Pokhara kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko refund kasari paau?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Bhaktapur kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko installation guide kahaa paucha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Patan Durbar Square kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko review kasari lekhnu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Swayambhunath Stupa kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko compatible accessories k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Pashupatinath Temple kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko delivery address kasari change garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Boudhanath Stupa kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko user manual kahaa download garna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Nagarkot kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko payment failed bhancha, ke garnu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Dhulikhel kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko replacement policy k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Janakpur kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko delivery status kasari check garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Ilam kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko warranty period kati days ko cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Bandipur kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko return kasari initiate garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Tansen kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko compatible software k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Gorkha kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo phone ko camera quality kasto cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Chitwan National Park kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko delivery status kasari check garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Kathmandu ma best place for street food kahaa cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo laptop ko RAM upgrade garna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Pokhara kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko return kasari initiate garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Lumbini kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko warranty claim kasari garna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Rara Lake kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko replacement kasari magau?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Annapurna Base Camp kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo smartwatch ma heart rate monitor cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma monsoon season kun mahina suru huncha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko cash on delivery option cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Kathmandu ma best place for momo kahaa cha?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo laptop ma SSD cha ki HDD?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Pokhara kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko refund kasari paau?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Bhaktapur kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko installation guide kahaa paucha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Patan Durbar Square kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko review kasari lekhnu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Swayambhunath Stupa kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko compatible accessories k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Pashupatinath Temple kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko delivery address kasari change garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Boudhanath Stupa kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko user manual kahaa download garna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Nagarkot kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko payment failed bhancha, ke garnu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Dhulikhel kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko replacement policy k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Janakpur kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko delivery status kasari check garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Ilam kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko warranty period kati days ko cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Bandipur kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Maile order gareko product ko return kasari initiate garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Tansen kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Yo product ko compatible software k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify whether this query is related to ecommerce or not (Ecommerce, Outside Ecommerce).",
+        "input": "Nepal ma best time to visit Gorkha kun ho?",
+        "output": "Outside Ecommerce"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile order gareko product chai damaged aayo. Yo problem ko barema ke garnu?",
+        "output": "Complaint"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Yo product ko delivery time kati days lagcha?",
+        "output": "Inquiry"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile yo product use gareko chu ra malai dherai nai ramro lagyo. Thank you!",
+        "output": "Feedback"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Tapaiko website ma search option improve garnu parcha. Ali complicated cha.",
+        "output": "Suggestion"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Maile order gareko product chai aaja nai chahiyo. Delivery fast garnu hos.",
+        "output": "Urgent"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Yo product ko warranty period barema jankari dinu hos.",
+        "output": "Normal"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Tapaiko service ramro cha, tara ali improvement garnu parcha.",
+        "output": "Low Priority"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile order gareko product chai wrong color ma aayo. Yo problem solve garnu hos.",
+        "output": "Complaint"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Yo product ko installation guide kahaa paucha?",
+        "output": "Inquiry"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile yo product use gareko chu ra malai dherai nai ramro lagyo. Thank you!",
+        "output": "Feedback"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Tapaiko delivery service ali fast garnu parcha. Dherai time lagcha.",
+        "output": "Suggestion"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Maile order gareko product chai aaja nai chahiyo. Delivery fast garnu hos.",
+        "output": "Urgent"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Yo product ko warranty period barema jankari dinu hos.",
+        "output": "Normal"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Tapaiko service ramro cha, tara ali improvement garnu parcha.",
+        "output": "Low Priority"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile order gareko product chai damaged aayo. Yo problem ko barema ke garnu?",
+        "output": "Complaint"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Yo product ko delivery time kati days lagcha?",
+        "output": "Inquiry"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile yo product use gareko chu ra malai dherai nai ramro lagyo. Thank you!",
+        "output": "Feedback"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Tapaiko website ma search option improve garnu parcha. Ali complicated cha.",
+        "output": "Suggestion"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Maile order gareko product chai aaja nai chahiyo. Delivery fast garnu hos.",
+        "output": "Urgent"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Yo product ko warranty period barema jankari dinu hos.",
+        "output": "Normal"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Tapaiko service ramro cha, tara ali improvement garnu parcha.",
+        "output": "Low Priority"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile order gareko product chai wrong color ma aayo. Yo problem solve garnu hos.",
+        "output": "Complaint"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Yo product ko installation guide kahaa paucha?",
+        "output": "Inquiry"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile yo product use gareko chu ra malai dherai nai ramro lagyo. Thank you!",
+        "output": "Feedback"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Tapaiko delivery service ali fast garnu parcha. Dherai time lagcha.",
+        "output": "Suggestion"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Maile order gareko product chai aaja nai chahiyo. Delivery fast garnu hos.",
+        "output": "Urgent"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Yo product ko warranty period barema jankari dinu hos.",
+        "output": "Normal"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Tapaiko service ramro cha, tara ali improvement garnu parcha.",
+        "output": "Low Priority"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile order gareko product chai damaged aayo. Yo problem ko barema ke garnu?",
+        "output": "Complaint"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Yo product ko delivery time kati days lagcha?",
+        "output": "Inquiry"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Maile yo product use gareko chu ra malai dherai nai ramro lagyo. Thank you!",
+        "output": "Feedback"
+    },
+    {
+        "instruction": "Classify the type of request (Complaint, Inquiry, Feedback, Suggestion).",
+        "input": "Tapaiko website ma search option improve garnu parcha. Ali complicated cha.",
+        "output": "Suggestion"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Maile order gareko product chai aaja nai chahiyo. Delivery fast garnu hos.",
+        "output": "Urgent"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Yo product ko warranty period barema jankari dinu hos.",
+        "output": "Normal"
+    },
+    {
+        "instruction": "Classify the urgency level of this request (Urgent, Normal, Low Priority).",
+        "input": "Tapaiko service ramro cha, tara ali improvement garnu parcha.",
+        "output": "Low Priority"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Maile order gareko product chai damaged aayo. Yo problem ko barema ke garnu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Pokhara kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Yo laptop ko RAM kati GB cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best university for engineering kun ho?",
+        "output": "Education"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Maile order gareko product ko delivery status kasari check garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Chitwan National Park kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Yo product ko warranty period kati days ko cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Lumbini kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Maile order gareko product ko return kasari initiate garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Rara Lake kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Yo product ko compatible accessories k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Pashupatinath Temple kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Maile order gareko product ko delivery address kasari change garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Boudhanath Stupa kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Yo product ko user manual kahaa download garna sakincha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Nagarkot kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Maile order gareko product ko payment failed bhancha, ke garnu?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Dhulikhel kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Yo product ko replacement policy k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Janakpur kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Maile order gareko product ko delivery status kasari check garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Ilam kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Yo product ko warranty period kati days ko cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Bandipur kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Maile order gareko product ko return kasari initiate garne?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Tansen kun ho?",
+        "output": "Travel"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Yo product ko compatible software k cha?",
+        "output": "Ecommerce"
+    },
+    {
+        "instruction": "Classify the domain of the query (Ecommerce, Education, Health, Travel).",
+        "input": "Nepal ma best time to visit Gorkha kun ho?",
+        "output": "Travel"
+    }
+]

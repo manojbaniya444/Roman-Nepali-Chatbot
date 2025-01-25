@@ -1,0 +1,377 @@
+[
+    {
+        "question": "Pokhara ko popular tourist spot kun ho?",
+        "retrieved_context": "Pokhara ek popular tourist destination ho. Yaha Fewa Lake, Davis Falls, Mahendra Cave ra World Peace Pagoda jasta thau haru chha. Fewa Lake boating ko lagi famous chha.",
+        "response": "Pokhara ma Fewa Lake ekdam popular tourist spot ho. Tyaha boating garna sakinchha."
+    },
+    {
+        "question": "Sagarmatha kaha chha?",
+        "retrieved_context": "Sagarmatha, jaslai Mt. Everest pani bhanincha, Nepal ra Tibet ko sima ma chha. Yo sansar ko sabai bhanda aglo himal ho, jasle 8,848 meter ko uchai linchha.",
+        "response": "Sagarmatha Nepal ra Tibet ko sima ma chha. Yo sansar ko sabai bhanda aglo himal ho."
+    },
+    {
+        "question": "Nepali parikar haru ma dhedhai popular ke ho?",
+        "retrieved_context": "Nepali parikar haru ma Dal Bhat Tarkari, Momo, Sel Roti ra Gundruk jasta khana dherai popular chhan. Momo Nepali haru bich ekdam manparcha, jun steamed ya fried dumplings ho.",
+        "response": "Nepali parikar haru ma Dal Bhat Tarkari ra Momo ekdam popular ho."
+    },
+    {
+        "question": "Chitwan ma ke dherai famous chha?",
+        "retrieved_context": "Chitwan National Park ek UNESCO World Heritage Site ho, jun wildlife safari ko lagi famous chha. Yaha rhinos, tigers, gharials ra dherai prakar ka chara haru dekhna sakincha.",
+        "response": "Chitwan National Park wildlife safari ko lagi ekdam famous chha. Rhinos ra tigers pani dekhna sakincha."
+    },
+    {
+        "question": "Lumbini ko historical significance ke ho?",
+        "retrieved_context": "Lumbini Gautam Buddha ko janmabhumi ho. Yo UNESCO World Heritage Site ho ra Buddhist pilgrims ko lagi ekdam mahatwapurna thau ho. Ashoka Pillar pani yaha chha.",
+        "response": "Lumbini Gautam Buddha ko janmabhumi ho. Yo Buddhist pilgrims ko lagi ekdam mahatwapurna thau ho."
+    },
+    {
+        "question": "Annapurna Circuit trek kasari cha?",
+        "retrieved_context": "Annapurna Circuit ek popular trekking route ho Nepal ma, jun diverse landscape ra cultural experience ko lagi prasiddha chha. Trek ma Thorong La Pass jasto challenging thau chha ra Gurung gaun haru pani chhan.",
+        "response": "Annapurna Circuit ekdam ramailo ra challenging trekking route ho. Tyaha Thorong La Pass ra Gurung gaun haru dekhna sakincha."
+    },
+    {
+        "question": "Kathmandu ma Pashupatinath ko significance ke ho?",
+        "retrieved_context": "Pashupatinath Temple Hindu religion ko ekdam mahatwapurna mandir ho, jun Kathmandu ma Bagmati nadiko kinaar ma chha. Yaha Shivaji ko puja huncha ra dherai pilgrims auncha.",
+        "response": "Pashupatinath Temple Shivaji ko puja ko lagi ekdam mahatwapurna mandir ho, jun Kathmandu ma Bagmati nadiko kinaar ma chha."
+    },
+    {
+        "question": "Nepal ma trekking ko lagi best season ke ho?",
+        "retrieved_context": "Nepal ma trekking ko lagi autumn (September-November) ra spring (March-May) best season ho. Autumn ma clear skies ra ramro weather huncha, ani spring ma rhododendron haru phulcha.",
+        "response": "Nepal ma trekking ko lagi autumn ra spring season best ho. Autumn ma weather ekdam ramro huncha."
+    },
+    {
+        "question": "Rara Lake kaha chha ra ke mahatwapurna chha?",
+        "retrieved_context": "Rara Lake, Nepal ko sabai bhanda thulo tal ho, jun Mugu district ma parcha. Yo pristine beauty ko lagi prasiddha chha ra Rara National Park ko part ho.",
+        "response": "Rara Lake Nepal ko sabai bhanda thulo tal ho ra yo Mugu district ma chha. Isko beauty ekdam ramro chha."
+    },
+    {
+        "question": "Patan Durbar Square ko highlight ke ho?",
+        "retrieved_context": "Patan Durbar Square Kathmandu Valley ma parcha ra yo ek UNESCO World Heritage Site ho. Yaha kripan mahadev temple, museum, ra traditional Newari architecture dekhna sakincha.",
+        "response": "Patan Durbar Square ma kripan mahadev temple ra Newari architecture ekdam ramro highlight ho."
+    },
+    {
+        "question": "Harry Potter series ko main theme ke ho?",
+        "retrieved_context": "Harry Potter series ek popular fantasy book series ho, jo J.K. Rowling le lekheki chhin. Isko main theme friendship, bravery, ra good vs evil ko battle ho. Harry Potter ek young wizard ho, jo Voldemort sanga ladcha.",
+        "response": "Harry Potter series ko main theme bravery, friendship, ra good vs evil ko battle ho."
+    },
+    {
+        "question": "Paulo Coelho ko 'The Alchemist' ko main message ke ho?",
+        "retrieved_context": "'The Alchemist' ek inspirational book ho, jun Santiago bhanne ek shepherd boy ko journey bare ho. Isko main message ho ki manche le afno dream follow garnu parcha ra universe le uslai support garcha.",
+        "response": "'The Alchemist' le sikhaucha ki afno dream follow garnu parcha ra universe le support garcha."
+    },
+    {
+        "question": "Ramayan ko kahani ko central point ke ho?",
+        "retrieved_context": "Ramayan ek Hindu epic ho, jun Ram ko story ho. Ram le Sita lai Lanka ma rakhiyeko Ravana sanga ladna parcha. Isko main theme duty, devotion, ra dharma ko follow garnu ho.",
+        "response": "Ramayan ko main theme duty ra dharma ho, ra yo Ram ko journey ko bare ma ho."
+    },
+    {
+        "question": "Sherlock Holmes series ko unique aspect ke ho?",
+        "retrieved_context": "Sherlock Holmes ek fictional detective ho, jaslai Sir Arthur Conan Doyle le create gare. Yo series ma Holmes ko observation skill ra deductive reasoning sab bhanda unique chha. Stories ma London ko Victorian era ko setting cha.",
+        "response": "Sherlock Holmes series ma usko observation skill ra deductive reasoning sab bhanda unique chha."
+    },
+    {
+        "question": "'The Great Gatsby' le kasto story bataucha?",
+        "retrieved_context": "'The Great Gatsby' ek classic American novel ho, jun F. Scott Fitzgerald le lekheko ho. Yo story Jay Gatsby ko lavish lifestyle ra usko love Daisy lai jitna ko obsession bare chha. Isma 1920s America ko social class ra wealth inequality bare pani chha.",
+        "response": "'The Great Gatsby' ko story Jay Gatsby ra usko love Daisy ko obsession bare chha."
+    },
+    {
+        "question": "Mahabharat ko battle kun thau ma huncha?",
+        "retrieved_context": "Mahabharat ek Hindu epic ho, jun Pandav ra Kaurav bich ko battle bare chha. Yo battle Kurukshetra ma huncha, jun dharma ra adharma ko yuddha ho.",
+        "response": "Mahabharat ko battle Kurukshetra ma huncha ra yo dharma ra adharma ko yuddha ho."
+    },
+    {
+        "question": "George Orwell ko '1984' ko message ke ho?",
+        "retrieved_context": "'1984' ek dystopian novel ho, jun George Orwell le lekheko ho. Yo novel ma surveillance, totalitarian government, ra freedom ko absence bare chha. Big Brother ko rule le sabai control garcha.",
+        "response": "'1984' ko message ho ki surveillance ra totalitarian government le manche ko freedom lina sakcha."
+    },
+    {
+        "question": "'To Kill a Mockingbird' le k kura sikauchha?",
+        "retrieved_context": "'To Kill a Mockingbird' ek novel ho, jun Harper Lee le lekheko ho. Isma racism, justice, ra compassion ko kura garincha. Story Atticus Finch ra usko bachha ko angle bata dekhaincha.",
+        "response": "'To Kill a Mockingbird' le racism ra justice bare sikauchha."
+    },
+    {
+        "question": "Panchatantra ko stories ko main focus ke ho?",
+        "retrieved_context": "Panchatantra ek collection ho moral stories ko, jun animals ko characters ma adharit chha. Isko main focus life lessons ra wisdom ho, jasto ki honesty, unity, ra cleverness.",
+        "response": "Panchatantra ko stories le life lessons ra wisdom sikauchha."
+    },
+    {
+        "question": "Bhagavad Gita ko teachings ko essence ke ho?",
+        "retrieved_context": "Bhagavad Gita ek Hindu scripture ho, jun Mahabharat ko part ho. Isma Krishna le Arjun lai duty, detachment, ra spirituality bare sikauchhan. Karma yoga ko concept dherai mahatwapurna chha.",
+        "response": "Bhagavad Gita le karma yoga ra duty ko mahatwa bare sikauchha."
+    },
+    {
+        "question": "Jules Verne ko 'Around the World in 80 Days' ko story ke ho?",
+        "retrieved_context": "'Around the World in 80 Days' ek adventure novel ho, jun Jules Verne le lekheko ho. Story Phileas Fogg bhanne gentleman ko ho, jasle apno bet jitna 80 din bhitra sansar ghumna parcha.",
+        "response": "'Around the World in 80 Days' ko story Phileas Fogg ko adventure bare ho, jasle 80 din ma sansar ghumna parcha."
+    },
+    {
+        "question": "'Pride and Prejudice' ma Elizabeth Bennet ko character kasari cha?",
+        "retrieved_context": "'Pride and Prejudice' ek novel ho, jun Jane Austen le lekheko ho. Elizabeth Bennet independent ra witty character ho, jasle apno opinions bold tarikale rakchha ra societal norms question garcha.",
+        "response": "Elizabeth Bennet independent ra witty cha, ra usle societal norms question garcha."
+    },
+    {
+        "question": "Shakespeare ko 'Romeo and Juliet' ko ending kasto huncha?",
+        "retrieved_context": "'Romeo and Juliet' ek tragedy ho, jun William Shakespeare le lekheko ho. Isko ending ma Romeo ra Juliet duita nai misunderstandings ko karan bata mareka hunchan.",
+        "response": "'Romeo and Juliet' ko ending ma Romeo ra Juliet misunderstandings le mareka hunchan."
+    },
+    {
+        "question": "'Animal Farm' le ke represent garcha?",
+        "retrieved_context": "'Animal Farm' ek allegorical novel ho, jun George Orwell le lekheko ho. Yo Russian Revolution ko satire ho ra power misuse garne leaders ko criticism garcha. Animals le humans lai overthrow garcha, tara afai corrupt huncha.",
+        "response": "'Animal Farm' le Russian Revolution represent garcha ra power misuse bare warn garcha."
+    },
+    {
+        "question": "Homer ko 'The Odyssey' ma Odysseus ko journey kasto huncha?",
+        "retrieved_context": "'The Odyssey' ek Greek epic ho, jun Odysseus ko home Ithaca phirna ko struggle bare chha. Usle sirens, cyclops, ra dherai challenges face garcha.",
+        "response": "Odysseus ko journey adventurous ra challenging cha, jasle uslai dherai obstacles ma face garnu parcha."
+    },
+    {
+        "question": "'The Catcher in the Rye' ko Holden Caulfield kasari character cha?",
+        "retrieved_context": "'The Catcher in the Rye' ek novel ho, jun J.D. Salinger le lekheko ho. Holden Caulfield ek rebellious teenager ho, jasle apno life ra adulthood sanga struggle garcha.",
+        "response": "Holden Caulfield ek rebellious teenager ho, jasle adulthood sanga struggle garcha."
+    },
+    {
+        "question": "'Wuthering Heights' ma Heathcliff ko character kasto cha?",
+        "retrieved_context": "'Wuthering Heights' ek novel ho, jun Emily Bronte le lekheko ho. Heathcliff ek passionate ra revengeful character ho, jasle apno love Catherine ko loss pachi anger le drive garcha.",
+        "response": "Heathcliff passionate ra revengeful cha, usko anger Catherine ko loss ko karan ho."
+    },
+    {
+        "question": "'The Hobbit' ma Bilbo Baggins ko adventure kasto huncha?",
+        "retrieved_context": "'The Hobbit' ek fantasy novel ho, jun J.R.R. Tolkien le lekheko ho. Story Bilbo Baggins bhanne hobbit ko ho, jasle dwarves ra Gandalf ko sath ma treasure khojna dangerous journey ma janchha.",
+        "response": "Bilbo Baggins ko adventure thrilling ra dangerous cha, jasle uslai treasure khojna pathauncha."
+    },
+    {
+        "question": "Mahatma Gandhi ko autobiography ko title ke ho?",
+        "retrieved_context": "Mahatma Gandhi ko autobiography ko title 'The Story of My Experiments with Truth' ho. Isma Gandhi le apno life experiences, struggles, ra truth ko mahatwa bare lekhnu bhako chha.",
+        "response": "Mahatma Gandhi ko autobiography ko title 'The Story of My Experiments with Truth' ho."
+    },
+    {
+        "question": "'The Little Prince' ko story ko essence ke ho?",
+        "retrieved_context": "'The Little Prince' ek philosophical story ho, jun Antoine de Saint-Exupéry le lekheko ho. Isma ek young prince ko journey bare chha, jun different planets visit garcha ra life lessons sikcha.",
+        "response": "'The Little Prince' ko essence ho ki life ma love, friendship, ra imagination ko value cha."
+    },
+    {
+        "question": "Dan Brown ko 'The Da Vinci Code' ma mystery kasto cha?",
+        "retrieved_context": "'The Da Vinci Code' ek mystery thriller novel ho, jun Dan Brown le lekheko ho. Story Robert Langdon ko Paris ra London ma secret codes ra religious mysteries solve garnai ko bare chha.",
+        "response": "'The Da Vinci Code' ma mystery secret codes ra religious puzzles solve garne bare ho."
+    },
+    {
+        "question": "'Les Misérables' ko Jean Valjean ko story ko central idea ke ho?",
+        "retrieved_context": "'Les Misérables' ek classic novel ho, jun Victor Hugo le lekheko ho. Jean Valjean ek former convict ho, jasle apno past sudharna ko kosis garcha ra others ko life better banauna help garcha.",
+        "response": "'Les Misérables' ko central idea ho ki redemption ra kindness le manche ko life change garna sakcha."
+    },
+    {
+        "question": "The Great Gatsby ma Jay Gatsby ko obsession ko karan ke ho?",
+        "retrieved_context": "'The Great Gatsby' ek classic American novel ho, jun F. Scott Fitzgerald le lekheko ho. Story ma Jay Gatsby bhanne ek wealthy yet mysterious man ko character explore garincha. Gatsby ko main obsession Daisy Buchanan ho, jo usko purano love ho, tara Daisy abha ek wealthy yet shallow lifestyle lead garna manparchhin. Gatsby le apno pura life Daisy ko attention ra love jitna ko lagi sacrifice garcha. Usle apno success ra wealth establish garnu pani Daisy lai impress garna ko lagi ho. Story ma Gatsby ko dream ko pursuit, usko illusion of happiness, ra American Dream ko flaws bare explore garincha.",
+        "response": "Jay Gatsby ko obsession Daisy ko love jitna ho, jun usko purano dream ko part ho, tara yo dream usko life ma tragedy leauchha."
+    },
+    {
+        "question": "'Pride and Prejudice' ma love story ko main conflict ke ho?",
+        "retrieved_context": "'Pride and Prejudice' ek popular novel ho, jun Jane Austen le lekheko ho. Story Elizabeth Bennet ra Mr. Darcy ko love story ko bare chha, jaha uniharu ko personality differences, misunderstandings, ra societal expectations le problem create garcha. Elizabeth independent ra opinionated character ho, ra Darcy ek proud aristocrat ho. Suruma Darcy ko pride le Elizabeth lai naramro impression dincha, ra Elizabeth ko prejudice Darcy ko character thik bujhna na dine bancha. Story ma family pressure, wealth differences, ra gender roles ko issues explore garincha. Tarika jasari uniharu gradually ek arka ko respect ra love develop garcha, tyo story ko highlight ho.",
+        "response": "'Pride and Prejudice' ma love story ko main conflict pride ra prejudice ho, jun Elizabeth ra Darcy ko misunderstandings ko karan ho."
+    },
+    {
+        "question": "War and Peace ma historical events ko significance ke ho?",
+        "retrieved_context": "'War and Peace' ek epic novel ho, jun Leo Tolstoy le lekheko ho. Isma Napoleonic Wars ko background ma Russian society ko alag-alag class ko manchhe haru ko lives explore garincha. Story ma aristocracy, military life, ra ordinary civilians ko struggles dekhaincha. Pierre, Andrei, ra Natasha bhanne central characters le love, duty, ra morality ko meaning khojnuhuncha. Napoleonic Wars ko events le characters ko lives ma drastic changes leauchha. Tolstoy le yuddha ko brutality, peace ko importance, ra individual struggles ko interconnectedness bare explore garnu bhako chha. Isma philosophical ra historical analysis ko blend chha.",
+        "response": "'War and Peace' ma Napoleonic Wars le society ra characters ko life ma dramatic changes leauchha, ra yuddha ko brutality ra peace ko mahatwa highlight garcha."
+    },
+    {
+        "question": "'The Hobbit' ma Bilbo Baggins le kasto growth dekhauncha?",
+        "retrieved_context": "'The Hobbit' ek fantasy adventure novel ho, jun J.R.R. Tolkien le lekheko ho. Story Bilbo Baggins bhanne ek simple hobbit ko ho, jun Gandalf ra dwarves ko group sanga treasure khojna ko lagi ek dangerous journey ma janchha. Suruma Bilbo ek timid ra simple life jasto ma comfortable character ho, tara gradually usle bravery, cleverness, ra leadership develop garcha. Usle trolls, spiders, goblins, ra Smaug dragon sanga face garcha, ra usko hidden potential bahira auncha. Story ma Bilbo ko self-discovery, courage, ra home ko real meaning bare explore garincha.",
+        "response": "Bilbo Baggins suruma timid ho, tara journey ma bravery ra leadership develop garcha ra self-discovery ko process bata guzarcha."
+    },
+    {
+        "question": "'To Kill a Mockingbird' le society ko kun kura bare discuss garcha?",
+        "retrieved_context": "'To Kill a Mockingbird' ek classic novel ho, jun Harper Lee le lekheko ho. Story Scout Finch bhanne ek young girl ko perspective bata dekhaincha, jun apno lawyer father Atticus Finch ko through justice ra morality bare sikdai chha. Story ma racism, prejudice, ra inequality jasto sensitive topics explore garincha. Atticus le ek black man, Tom Robinson, ko defense linchha, jun ek white woman sanga rape ko jhuto accusation le charge gareko chha. Story ma 1930s ko Deep South America ko social injustice ko stark reality dekhauncha. Innocence, compassion, ra truth ko value story ko essence ho.",
+        "response": "'To Kill a Mockingbird' le racism, prejudice, ra social injustice ko bare ma discuss garcha ra truth ra compassion ko importance highlight garcha."
+    },
+    {
+        "question": "'Les Misérables' ma Jean Valjean ko redemption journey kasto chha?",
+        "retrieved_context": "'Les Misérables' ek classic novel ho, jun Victor Hugo le lekheko ho. Story Jean Valjean bhanne ek former convict ko redemption journey bare ho, jun usko past chhodyera ek naya life start garna chahanchha. Valjean le apno identity change garcha ra ek respectable life lead garcha, tara Javert bhanne ek strict police officer le usko past ko mistakes ko karan continuously uslai chase garcha. Story ma love, sacrifice, ra forgiveness ko deep themes explore garincha. Fantine ra uski chhori Cosette ko lives ma Valjean ko positive impact story ko emotional core ho. Isma class struggles, justice, ra humanity ko essence chha.",
+        "response": "Jean Valjean ko redemption journey usko past sudharne, love ra forgiveness ko through ek meaningful life lead garne bare ho."
+    },
+    {
+        "question": "'The Catcher in the Rye' ma Holden Caulfield le kasto struggles face garcha?",
+        "retrieved_context": "'The Catcher in the Rye' ek novel ho, jun J.D. Salinger le lekheko ho. Story Holden Caulfield bhanne ek teenager ko psychological struggles ra usko view of the world explore garcha. Usle apno brother Allie ko death, school failure, ra adulthood ko fear le struggle garcha. Story ma Holden le apno society ko hypocrisy ra phoniness le naramro garera dekhincha, ra uslai innocence loss le dherai effect garcha. Usko apathy, loneliness, ra confusion le story ko tone define garcha. Story ma adolescence ko challenges ra adulthood sanga adjust garnu ko problem bare discuss garincha.",
+        "response": "Holden Caulfield le adulthood ko fear, innocence ko loss, ra society ko hypocrisy sanga struggle garcha."
+    },
+    {
+        "question": "'The Lord of the Rings' ma Frodo Baggins ko journey kasto cha?",
+        "retrieved_context": "'The Lord of the Rings' ek epic fantasy novel ho, jun J.R.R. Tolkien le lekheko ho. Story ma Frodo Baggins ek hobbit ho, jun Middle-earth ma ek dangerous quest ko lead garcha. Frodo le ek powerful ring ko responsibility linchha, jun Sauron bhanne dark lord ko creation ho. Ring le immense power hold garcha, tara tyo corrupt garna sakcha. Frodo le Sam, Merry, Pippin, Gandalf, Legolas, Aragorn, ra Gimli sanga milera journey ma janchha. Journey ma orcs, dark forests, ra Mount Doom jasto dangerous locations face garincha. Frodo ko selflessness, courage, ra temptation sanga ko battle story ko heart ho. Story le friendship, loyalty, ra good vs evil ko timeless themes explore garcha.",
+        "response": "Frodo Baggins ko journey selflessness ra courage ko bare ho, jaha usle Ring ko temptation sanga fight garna parcha."
+    },
+    {
+        "question": "'Crime and Punishment' ma Raskolnikov ko psychology kasto chha?",
+        "retrieved_context": "'Crime and Punishment' ek psychological novel ho, jun Fyodor Dostoevsky le lekheko ho. Story ma Rodion Raskolnikov bhanne ek young, poor student ko life explore garincha. Raskolnikov le ek greedy moneylender lai murder garcha, tara usko guilt usko mental state ma deeply impact garcha. Usle initially sochcha ki great individuals le rules break garna milcha, tara murder pachi guilt ra paranoia le uslai torture garcha. Story ma usko moral dilemmas, self-justification, ra redemption ko struggle explore garincha. Raskolnikov ko confession, suffering, ra ultimate realization story ko core themes ho.",
+        "response": "Raskolnikov ko psychology guilt, moral dilemmas, ra self-justification le bharieko chha, jun usko redemption ko raasto ma lead garcha."
+    },
+    {
+        "question": "'Anna Karenina' ma Anna ra Vronsky ko relationship ko main issues ke ho?",
+        "retrieved_context": "'Anna Karenina' ek classic Russian novel ho, jun Leo Tolstoy le lekheko ho. Story ma Anna Karenina ek married woman ho, jun Count Vronsky bhanne ek charming officer sanga affair suru garcha. Unko love passionate tara destructive chha, kinabhane Anna le apno family, husband, ra social position sacrifice garcha. Society le uniharu ko relationship lai accept gardaina, ra Anna gradually isolated ra depressed huncha. Story ma marriage, infidelity, ra societal norms ko exploration garincha. Anna ra Vronsky ko relationship ma love, jealousy, ra societal pressures ko clash dekhincha, jun uniharuko downfall leauchha.",
+        "response": "Anna ra Vronsky ko relationship passionate chha, tara societal pressure ra jealousy le uniharuko tragedy leauchha."
+    },
+    {
+        "question": "'Jane Eyre' ma Jane ko character growth kasari dekhaincha?",
+        "retrieved_context": "'Jane Eyre' ek novel ho, jun Charlotte Brontë le lekheko ho. Story ma Jane Eyre bhanne orphan girl ko life ko struggles ra triumphs explore garincha. Suruma Jane le apno cruel aunt ra harsh boarding school ko hardships face garchhin. Pachi usle Thornfield Hall ma governess ko position linchhin, jaha usko love interest Mr. Rochester sanga encounter huncha. Story ma independence, self-respect, ra moral integrity ko themes central chha. Jane le apno principles lai kabhi compromise gardina, ra her journey self-acceptance ra true happiness khojna ma focused chha. Story le ek strong female protagonist ko growth ra resilience ko example dekhaincha.",
+        "response": "Jane Eyre ko growth independence, self-respect, ra moral integrity ko struggle ra triumph ko bare chha."
+    },
+    {
+        "question": "'The Kite Runner' ma Amir ra Hassan ko relationship ma main conflict ke ho?",
+        "retrieved_context": "'The Kite Runner' ek emotional novel ho, jun Khaled Hosseini le lekheko ho. Story Kabul, Afghanistan ko backdrop ma set chha, ra Amir ra Hassan ko childhood friendship explore garcha. Hassan loyal servant ko chhora ho, ra Amir ek wealthy family ko chhora ho. Despite unko close bond, social class differences ra cultural prejudices uniharuko relationship ma barrier bancha. Main conflict tyaspachi auncha, jab Amir le Hassan lai ek traumatic incident ma defend gardaina, jun uniharuko relationship permanently change garcha. Story ma guilt, redemption, ra forgiveness ko themes explore garincha.",
+        "response": "Amir ra Hassan ko relationship ma main conflict guilt ra betrayal ho, jun uniharuko friendship ma permanent impact garcha."
+    },
+    {
+        "question": "'Moby Dick' ma Captain Ahab ko obsession ko karan ke ho?",
+        "retrieved_context": "'Moby Dick' ek novel ho, jun Herman Melville le lekheko ho. Story Captain Ahab ra usko whaling ship, Pequod, ko dangerous journey bare chha. Ahab ko obsession Moby Dick bhanne ek massive white whale sanga ho, jun le Ahab ko ek khutta ghoom le torn-off gareko ho. Ahab le apno revenge ko obsession ma ship ko crew members lai pani drag garcha. Story ma man vs nature ko conflict, obsession ko destructive power, ra fate ko exploration garincha. Ahab ko character larger-than-life cha, tara usko obsession le tragedy leauchha.",
+        "response": "Captain Ahab ko obsession revenge ko ho, jun le usko life ma destruction ra tragedy leauchha."
+    },
+    {
+        "question": "'Frankenstein' ma Victor Frankenstein le kasto mistakes garcha?",
+        "retrieved_context": "'Frankenstein' ek science fiction novel ho, jun Mary Shelley le lekheko ho. Story Victor Frankenstein bhanne ek young scientist ko bare chha, jun life ko secret unlock garna obsessed huncha. Usle ek creature create garcha, tara creature ko monstrous appearance ko karan Victor uslai abandon garcha. Creature le Victor ko rejection ko karan rage ra revenge develop garcha, ra Victor ko loved ones lai target garcha. Story ma knowledge misuse, ethical boundaries, ra human responsibility ko themes explore garincha. Victor ko main mistake usko creation ko responsibility na lina ho, jun le tragedy ko chain start garcha.",
+        "response": "Victor Frankenstein ko mistake unethical experimentation ra apno creation ko responsibility na lina ho, jun le tragedy leauchha."
+    },
+    {
+        "question": "'Brave New World' ma society ko main flaw ke ho?",
+        "retrieved_context": "'Brave New World' ek dystopian novel ho, jun Aldous Huxley le lekheko ho. Story ma ek futuristic society ko bare chha, jun technology ra control ko through perfect-looking society baneko jasto dekhaincha. Tara is society ma individuality, emotions, ra free will ko pura absence chha. People genetically engineered hunchan, ra uniharu programmed chhan ki uniharu happy rahun. Soma bhanne ek drug le sabai emotions suppress garcha. Story le individuality ko importance, societal control ko dangers, ra true happiness ko meaning explore garcha. Novel le yesto society ko stark criticism garcha, jaha freedom ko price ma stability chha.",
+        "response": "'Brave New World' ma society ko main flaw individuality ra freedom ko absence ho, jun artificially controlled happiness ko through chalcha."
+    },
+    {
+        "question": "'1984' ma Big Brother le society ma kasto impact garcha?",
+        "retrieved_context": "'1984' ek dystopian novel ho, jun George Orwell le lekheko ho. Story ma Oceania bhanne ek totalitarian state ko bare chha, jaha sabai citizen haru continuously surveillance ma chhan. Big Brother bhanne symbolic leader ko presence sab jaga chha, jasto posters, screens, ra slogans ma 'Big Brother is watching you.' Isma freedom, truth, ra individuality ko pura absence chha. Party le language manipulate garera thought control garcha, ra dissent garne lai torture garera conformity ma lyauncha. Winston Smith, story ko protagonist, Big Brother ko system sanga internally rebel garcha, tara system ko power le uslai defeat garcha. Novel le power misuse, privacy ko loss, ra propaganda ko dangers explore garcha.",
+        "response": "Big Brother le society ma fear ra control ko atmosphere banauchha, jaha freedom ra truth ko pura absence huncha."
+    },
+    {
+        "question": "'A Tale of Two Cities' ma French Revolution ko background story ma kasto chha?",
+        "retrieved_context": "'A Tale of Two Cities' ek historical novel ho, jun Charles Dickens le lekheko ho. Story French Revolution ko background ma set chha, ra Paris ra London ko parallel storylines explore garcha. Story ma aristocracy ko exploitation, common people ko suffering, ra revolution ko brutality bare detailed analysis chha. Central characters Charles Darnay, ek French aristocrat, ra Sydney Carton, ek English lawyer, le love ra sacrifice ko themes lai embody garchan. Story ma revolution ko idealism ra usko consequences ko contrast dekhauncha. Bastille ko storming ra Reign of Terror jasto historical events le plot lai dramatic touch dincha.",
+        "response": "French Revolution ko background ma aristocracy ko exploitation ra common people ko suffering ko bare dekhaincha, jaha revolution idealism ra brutality ko mix chha."
+    },
+    {
+        "question": "'Don Quixote' ma Don Quixote ko imagination ko impact ke ho?",
+        "retrieved_context": "'Don Quixote' ek Spanish novel ho, jun Miguel de Cervantes le lekheko ho. Story ma Don Quixote bhanne ek old man, jun chivalric romance ko books padhera apno reality lai distort garcha. Usle sochcha ki usle ek knight jasto banera duniya ma justice leauchha. Usko sathi Sancho Panza le usko quest ma sathi huncha, jaha Don Quixote ko imagination ra reality ko clash funny ra poignant bancha. Windmills lai giants sochnu, ordinary people lai princess jasto dekhnu, ra unrealistic heroism ko pursuit le story lai unique banauchha. Story le human idealism, madness, ra reality ko connection explore garcha.",
+        "response": "Don Quixote ko imagination le usko reality lai distort garcha, jaha usko quests idealism ra madness ko mix bancha."
+    },
+    {
+        "question": "'Of Mice and Men' ma George ra Lennie ko dream ko meaning ke ho?",
+        "retrieved_context": "'Of Mice and Men' ek novel ho, jun John Steinbeck le lekheko ho. Story ma George ra Lennie bhanne two migrant workers ko life explore garcha, jun Great Depression ko time ma California ma struggle garcha. George pragmatic ho, ra Lennie physically strong tara mentally challenged chha. Uniharu ko shared dream ho ek din apno land own garera freedom ra stability ko life lead garnu. Story ma uniharu ko hardships, loneliness, ra dream ko unattainability explore garcha. Lennie ko accidental actions ra tragic ending le story ko emotional depth badhauncha. Novel le friendship ra human struggle ko themes highlight garcha.",
+        "response": "George ra Lennie ko dream ek stable life ko hope ho, tara tyo dream tragedy ko karan unattainable bancha."
+    },
+    {
+        "question": "'The Scarlet Letter' ma Hester Prynne ko struggle le kun themes explore garcha?",
+        "retrieved_context": "'The Scarlet Letter' ek novel ho, jun Nathaniel Hawthorne le lekheko ho. Story ma Hester Prynne bhanne ek woman, jun apno adulterous affair ko punishment ko rup ma 'A' letter apno chest ma lagayera puri life struggle garcha. Story 17th century ko Puritan society ma set chha, jaha sin, guilt, ra hypocrisy le social dynamics define garcha. Hester le apno daughter Pearl lai raise garchhin, ra apno community ko judgment ko against dignity maintain garchhin. Story ma redemption, identity, ra morality ko deep exploration chha. Hester ko strength ra resilience le puri story ma emotional impact dincha.",
+        "response": "Hester Prynne ko struggle le sin, redemption, ra morality ko themes explore garcha, ra usko resilience le story lai meaningful banauchha."
+    },
+    {
+        "question": "'Dracula' ma Count Dracula ko portrayal le fear ko kun aspects explore garcha?",
+        "retrieved_context": "'Dracula' ek gothic horror novel ho, jun Bram Stoker le lekheko ho. Story ma Count Dracula bhanne ek vampire ko character explore garcha, jun Transylvania ma base chha tara England lai invade garna plan garcha. Dracula supernatural ho, ra usko power hypnosis, shape-shifting, ra blood-draining jasto chha. Story ma Jonathan Harker, Mina, ra Van Helsing jasto characters Dracula ko terror ko against fight garchan. Dracula ko portrayal le fear ko supernatural, unknown, ra human vulnerability jasto aspects explore garcha. Gothic settings, eerie atmosphere, ra suspense story ko defining features ho.",
+        "response": "Count Dracula ko portrayal le supernatural fear, human vulnerability, ra unknown ko terror explore garcha."
+    },
+    {
+        "question": "'The Picture of Dorian Gray' ma Dorian Gray ko downfall ko main reason ke ho?",
+        "retrieved_context": "'The Picture of Dorian Gray' ek novel ho, jun Oscar Wilde le lekheko ho. Story ma Dorian Gray ek young man ho, jun apno beauty ko obsession le apno soul ek painting ma transfer garna agree garcha. Usko wish le Dorian physically youthful rakhcha, tara uska sinful actions ko consequences painting ma reflect huncha. Lord Henry le Dorian lai hedonism ra moral corruption ko rasto ma guide garcha. Dorian ko beauty ko obsession ra usko conscience ko suppression le usko moral downfall ra ultimate destruction leauchha. Story le vanity, morality, ra consequences of sin ko themes explore garcha.",
+        "response": "Dorian Gray ko downfall ko main reason usko beauty ko obsession ra moral corruption ho, jun le usko soul lai destroy garcha."
+    },
+    {
+        "question": "'Wuthering Heights' ma Heathcliff ra Catherine ko love story kasto chha?",
+        "retrieved_context": "'Wuthering Heights' ek gothic romance novel ho, jun Emily Brontë le lekheko ho. Story ma Heathcliff, ek orphan boy, ra Catherine Earnshaw ko passionate tara toxic love story explore garcha. Catherine le Heathcliff lai deeply love garchhin, tara usko social ambition le Edgar Linton sanga bihe garna bancha. Heathcliff ko love obsessive ra revenge-driven huncha, jun uniharuko life ma destruction leauchha. Story ma moors ko wild setting, intense emotions, ra generational conflicts le dramatic tone dincha. Love, revenge, ra social class ko themes le story ko complex layers define garcha.",
+        "response": "Heathcliff ra Catherine ko love story passionate tara toxic chha, jun obsession ra revenge le destroy huncha."
+    },
+    {
+        "question": "'The Great Gatsby' ma Jay Gatsby ko dream ko main essence ke ho?",
+        "retrieved_context": "'The Great Gatsby' ek classic novel ho, jun F. Scott Fitzgerald le lekheko ho. Story ma Jay Gatsby bhanne ek mysterious millionaire ko life explore garcha, jun West Egg ma grand parties throw garcha. Usko dream Daisy Buchanan ko love jeetne ho, jun usko past ko idealized version ko part chha. Daisy wealthy tara shallow character ho, ra usko husband Tom Buchanan arrogant ra unfaithful chha. Gatsby le apno wealth gain garna illegal means ko sahara lyauncha, tara Daisy ko obsession le usko life ma tragedy leauchha. Story ma American Dream ko illusion, love, ra social class ko themes explore garcha.",
+        "response": "Jay Gatsby ko dream ek idealized past lai jeetne ko obsession ho, tara tyo dream unattainable ra destructive chha."
+    },
+    {
+        "question": "'Pride and Prejudice' ma Elizabeth Bennet ra Mr. Darcy ko relationship kasari evolve huncha?",
+        "retrieved_context": "'Pride and Prejudice' ek romantic novel ho, jun Jane Austen le lekheko ho. Story ma Elizabeth Bennet ek intelligent ra independent woman ho, jun Mr. Darcy, ek proud ra reserved gentleman, sanga encounter garchhin. Suruma Elizabeth Darcy ko arrogance le naramro impression lina garchhin, tara gradually uniharu ek-arkako true nature lai bujhchhan. Darcy le Elizabeth ko family background ra initial misunderstandings ko karan struggle garcha, tara usko humility ra genuine love ko karan Elizabeth le accept garchhin. Story ma misunderstandings ko overcoming, love ko depth, ra social class differences ko exploration garincha.",
+        "response": "Elizabeth ra Mr. Darcy ko relationship misunderstandings overcome gardai love ra mutual respect ma base bancha."
+    },
+    {
+        "question": "'To Kill a Mockingbird' ma Atticus Finch le ke sikauchha?",
+        "retrieved_context": "'To Kill a Mockingbird' ek novel ho, jun Harper Lee le lekheko ho. Story ma Scout ra Jem Finch bhanne sibling haru ko childhood southern town Alabama ma set chha, jaha racial prejudice common chha. Unko father Atticus Finch ek lawyer ho, jun Tom Robinson bhanne ek innocent Black man ko defense garcha, jasma uslai falsely accuse garincha. Atticus le fairness, empathy, ra moral courage sikauchha, ra unko character integrity ko symbol ho. Story ma racial injustice, morality, ra compassion ko themes explore garincha.",
+        "response": "Atticus Finch le fairness, empathy, ra moral courage sikauchha, jun unko integrity ko reflection ho."
+    },
+    {
+        "question": "'The Catcher in the Rye' ma Holden Caulfield ko struggles ke ho?",
+        "retrieved_context": "'The Catcher in the Rye' ek novel ho, jun J.D. Salinger le lekheko ho. Story ma Holden Caulfield bhanne ek teenager ko life ko struggles explore garcha. Holden le adulthood ra usko phoniness lai reject garcha, ra usle apno childhood ko innocence protect garna chahanchha. Usko younger brother Allie ko death le usko emotional state deeply affect garcha. Story ma Holden ko alienation, mental health struggles, ra identity khojne process central chha. Novel le youth ko uncertainties ra adulthood ko challenges ko bare raw ra honest portrayal garcha.",
+        "response": "Holden Caulfield ko struggles alienation, innocence ko loss, ra adulthood ko complexities sanga ho."
+    },
+    {
+        "question": "'Hamlet' ma revenge theme kasari explore garincha?",
+        "retrieved_context": "'Hamlet' ek tragedy ho, jun William Shakespeare le lekheko ho. Story ma Prince Hamlet apno father ko ghost le request pachi revenge ko mission ma jaancha, jaha usko uncle Claudius le usko father ko murder gareko ho. Hamlet le action ma hesitation ra moral dilemmas face garcha. Story ma revenge le characters ko psychological states, morality, ra consequences ko exploration garincha. Hamlet ko internal conflict ra Claudius ko deception le story ko tension build garcha. Play ma revenge ko destructive nature ra usko ripple effects ko bare discuss garincha.",
+        "response": "Hamlet ma revenge theme destructive nature, morality ko struggle, ra usko consequences explore garcha."
+    },
+    {
+        "question": "'The Odyssey' ma Odysseus ko journey ko main challenges ke ho?",
+        "retrieved_context": "'The Odyssey' ek Greek epic poem ho, jun Homer le lekheko ho. Story ma Odysseus ko 10 saal ko journey explore garcha, jaba usle Trojan War pachi Ithaca return garna parcha. Journey ma usle Cyclops, Sirens, ra Scylla jasto mythical creatures face garcha. Odysseus le Poseidon ko wrath, Calypso ko captivity, ra temptation jasto barriers overcome garna parcha. Usko intelligence, courage, ra loyalty usko character ko main traits ho. Story ma perseverance, heroism, ra homecoming ko themes central chha.",
+        "response": "Odysseus ko journey ma main challenges mythical creatures, divine wrath, ra temptation ho, jun le usko heroism test garcha."
+    },
+    {
+        "question": "'Fahrenheit 451' ma books ban garne ko karan ke ho?",
+        "retrieved_context": "'Fahrenheit 451' ek dystopian novel ho, jun Ray Bradbury le lekheko ho. Story ma ek futuristic society ko bare chha, jaha books illegal baneka chhan, ra firemen le books burn garna assigned chhan. Society ma superficial entertainment ra conformity prioritize garincha, ra knowledge ra critical thinking lai suppress garincha. Guy Montag bhanne ek fireman story ko protagonist ho, jun gradually books ko value lai bujchha. Story ma censorship, knowledge ko importance, ra freedom ko themes explore garincha.",
+        "response": "Books ban garne ko karan society le conformity ra superficial entertainment prioritize garera critical thinking suppress garna ho."
+    },
+    {
+        "question": "'One Hundred Years of Solitude' ma Buendía family ko story ko significance ke ho?",
+        "retrieved_context": "'One Hundred Years of Solitude' ek magical realism novel ho, jun Gabriel García Márquez le lekheko ho. Story ma Buendía family ko seven generations ko history explore garincha, jun Macondo bhanne fictional town ma set chha. Story ma love, war, politics, ra supernatural events ko mixture chha. Buendía family ko members le isolation, destiny, ra human nature ko patterns face garchhan. Story ko structure cyclical ho, ra usle family history ko repetition ra change explore garcha. Novel le Latin American culture ra history ko representation dinchha.",
+        "response": "Buendía family ko story human nature, destiny, ra cyclical patterns explore garera deeper cultural significance dincha."
+    },
+    {
+        "question": "'Life of Pi' ma survival ko main elements ke ho?",
+        "retrieved_context": "'Life of Pi' ek novel ho, jun Yann Martel le lekheko ho. Story ma Piscine Molitor Patel, bhanne ek teenager, usko shipwreck experience ko bare chha. Pi le ek lifeboat ma 227 din samundra ma survive garcha, jaha usko sathi Richard Parker bhanne ek Bengal tiger ho. Usle apno intelligence, spirituality, ra determination le survival ma help lyauncha. Story ma survival ko physical struggle, psychological resilience, ra faith ko exploration garincha. Novel le reality ra perception ko boundaries test garcha.",
+        "response": "Survival ko main elements Pi ko intelligence, spirituality, ra psychological resilience ho, jun le uslai difficult conditions ma sustain garna madat garcha."
+    },
+    {
+        "question": "'The Road' ma father ra son ko bond le story ko tone kasari define garcha?",
+        "retrieved_context": "'The Road' ek post-apocalyptic novel ho, jun Cormac McCarthy le lekheko ho. Story ma ek unnamed father ra son ko journey explore garincha, jun devastated landscape ma survival garna try garchhan. Story ma uniharu ko unconditional love, hope, ra morality ko themes central chha. Father le son ko safety ra future ko lagi sabai risks lyauncha, ra son le compassion ra humanity ko symbol bancha. Story ma harsh reality ra tender moments ko contrast story ko unique tone define garcha.",
+        "response": "Father ra son ko bond unconditional love ra hope le define garcha, jun harsh reality ko backdrop ma meaningful bancha."
+    },
+    {
+        "question": "'Jane Eyre' ma Jane ko independence ko struggle kasari dekhaincha?",
+        "retrieved_context": "'Jane Eyre' ek novel ho, jun Charlotte Brontë le lekheko ho. Story ma Jane Eyre, ek orphaned girl, ko life ko journey explore garcha, starting from usko abusive childhood Gateshead ma. Usle Lowood School ma strict rules ra harsh treatment face garchhin. Adulthood ma usle Thornfield Hall ma governess ko job linchha, jaha Mr. Rochester sanga usko bond bancha. Tara usko independence ko struggle Mr. Rochester ko secret ra society ko expectations ko karan complex bancha. Jane le apno principles, dignity, ra self-respect prioritize garchhin. Novel le gender equality, love, ra morality ko themes explore garcha.",
+        "response": "Jane ko independence ko struggle usko self-respect ra principles ko loyalty ko through dekhincha, jun traditional expectations lai challenge garcha."
+    },
+    {
+        "question": "'The Kite Runner' ma redemption ko theme kasari explore garincha?",
+        "retrieved_context": "'The Kite Runner' ek novel ho, jun Khaled Hosseini le lekheko ho. Story ma Amir, ek privileged boy Kabul ma, ra Hassan, usko servant ra best friend, ko friendship explore garcha. Hassan loyal tara socially marginalized Hazara ho. Story ma betrayal, guilt, ra redemption ko themes central chha. Amir le ek event ma Hassan lai betray garcha, jun usko guilt ko lifelong source bancha. Years later, Amir le apno guilt redeem garna attempt garcha by rescuing Hassan ko son Sohrab from danger. Story Afghanistan ko socio-political turmoil ra human connection ko exploration garcha.",
+        "response": "Redemption ko theme Amir ko guilt ko acceptance ra Sohrab ko rescue ma usko actions ko through explore garcha."
+    },
+    {
+        "question": "'Animal Farm' ma power ko misuse kasari dekhauncha?",
+        "retrieved_context": "'Animal Farm' ek allegorical novella ho, jun George Orwell le lekheko ho. Story ma ek group of farm animals Manor Farm ma revolution garncha, humans lai overthrow garna. Napoleon, ek pig, gradually power grab garcha, ra usle authoritarian regime establish garcha. Initially, uniharule 'All animals are equal' bhanda freedom ko promise garcha, tara slowly usle society lai exploit garcha by changing laws ra prioritizing pigs ko needs. Story le corruption, power ko misuse, ra equality ko illusion ko themes explore garcha.",
+        "response": "Power ko misuse Napoleon le equality ko slogans manipulate garera authoritarian regime banayera dekhauncha."
+    },
+    {
+        "question": "'The Lord of the Rings' ma Frodo ko burden kasari illustrate garincha?",
+        "retrieved_context": "'The Lord of the Rings' ek epic fantasy series ho, jun J.R.R. Tolkien le lekheko ho. Story ma Frodo Baggins bhanne ek hobbit ko journey explore garcha, jaba usle One Ring, ek powerful ra evil artifact, destroy garna Mordor lagcha. Frodo ko burden One Ring ko corruptive power le bancha, jun gradually usko mind ra body ma toll lyaunchha. Samwise Gamgee, Frodo ko loyal companion, usko constant support bancha. Story ma friendship, courage, ra good vs evil ko themes central chha. Ring ko burden le temptation, isolation, ra sacrifice ko exploration garcha.",
+        "response": "Frodo ko burden One Ring ko corruptive power ra usko mind/body ma parne impact le illustrate garincha."
+    },
+    {
+        "question": "'Brave New World' ma social control ko techniques ke chhan?",
+        "retrieved_context": "'Brave New World' ek dystopian novel ho, jun Aldous Huxley le lekheko ho. Story ma ek future society ko bare chha, jaha people genetic engineering, psychological manipulation, ra consumerism ko through control ma rakheinchan. Society ma individual freedom ko absence ra collective stability ko prioritization chha. Soma, ek drug, le emotional suppression garcha, ra conditioning process le individual desires uniformity ma badalcha. Bernard Marx, protagonist, usko individuality ko karan struggle garcha. Story ma freedom vs control, technology ko misuse, ra human nature ko themes explore garcha.",
+        "response": "Social control ko techniques genetic engineering, psychological conditioning, ra soma jasto drugs use garera implement garincha."
+    },
+    {
+        "question": "'Moby-Dick' ma Ahab ko obsession ko consequences ke chhan?",
+        "retrieved_context": "'Moby-Dick' ek novel ho, jun Herman Melville le lekheko ho. Story ma Captain Ahab ek giant white whale Moby Dick sanga revenge ko obsession le driven chha, jun le Ahab ko leg harayo. Story Ishmael, ek young sailor, ko perspective bata narrate garincha. Ahab ko obsession irrational ra destructive bancha, jun le ship crew ko safety compromise garcha. Story ma human ambition, nature ko power, ra revenge ko consequences ko themes central chha. Ahab ko final confrontation Moby Dick sanga usko doom confirm garcha.",
+        "response": "Ahab ko obsession le usko doom ra crew ko destruction leauchha, jun human ambition ko dangers explore garcha."
+    },
+    {
+        "question": "'The Brothers Karamazov' ma morality ko exploration kasari huncha?",
+        "retrieved_context": "'The Brothers Karamazov' ek philosophical novel ho, jun Fyodor Dostoevsky le lekheko ho. Story ma Karamazov family ko conflicts ra relationships explore garcha, jaha Fyodor Pavlovich, father, ra uska teen chhora Dmitry, Ivan, ra Alyosha ko story central chha. Novel ma morality, free will, ra faith ko deep exploration chha. Ivan le intellectual atheism represent garcha, Dmitry le passion ra impulsive nature, ra Alyosha le spiritual faith. Story ma justice, guilt, ra redemption ko interconnected themes central chha. Novel le philosophical debates ra emotional intensity ko combination bancha.",
+        "response": "Morality ko exploration Ivan, Dmitry, ra Alyosha ko contrasting beliefs ra actions ko through garincha."
+    },
+    {
+        "question": "'Frankenstein' ma Victor Frankenstein le apno creation ko responsibility kina linna?",
+        "retrieved_context": "'Frankenstein' ek gothic novel ho, jun Mary Shelley le lekheko ho. Story ma Victor Frankenstein bhanne ek scientist le apno obsession le life creation ko experiment ma involve huncha. Usko creation, Monster, physical deformity ko karan society le reject garcha, ra usle revenge ra violence ko rasto lincha. Victor apno actions ko consequences ko responsibility linna, ra Monster ko isolation tragedy ma badalcha. Story le scientific ambition, responsibility, ra human empathy ko themes explore garcha.",
+        "response": "Victor Frankenstein le apno creation ko responsibility linna kina ki usle apno actions ko consequences lai ignore garcha."
+    },
+    {
+        "question": "'The Alchemist' ma Santiago ko journey ko main lesson ke ho?",
+        "retrieved_context": "'The Alchemist' ek philosophical novel ho, jun Paulo Coelho le lekheko ho. Story ma Santiago, ek young shepherd, apno Personal Legend fulfill garna treasure khojchha, jun Egyptian pyramids ma chha. Journey ma usle different mentors, challenges, ra self-discovery ko moments encounter garcha. Alchemy ra omens ko symbolic use le story ma spiritual growth ra destiny ko significance emphasize garcha. Santiago le treasure physically pauxa, tara usle realize garcha ki true wealth journey ra learned lessons ma chha. Story ma dreams, perseverance, ra self-discovery ko themes explore garincha.",
+        "response": "Santiago ko journey ko main lesson ho ki true treasure self-discovery ra apno dreams fulfill garne courage ho."
+    },
+    {
+        "question": "'The Count of Monte Cristo' ma revenge ko consequences kasari explore garincha?",
+        "retrieved_context": "'The Count of Monte Cristo' ek adventure novel ho, jun Alexandre Dumas le lekheko ho. Story ma Edmond Dantès unjustly imprisoned huncha, ra usle revenge ko mission pursue garcha against those who betrayed him. Escape pachi usle immense wealth acquire garcha ra Count of Monte Cristo ko identity lincha. Revenge ko process ma Edmond ko actions le betrayal ko victims lai destroy garcha, tara usle apno actions ko moral consequences realize garcha. Story le justice, forgiveness, ra revenge ko duality ko themes explore garcha.",
+        "response": "Revenge ko consequences Dantès le moral realization ra forgiveness ko importance sikne process ma explore garincha."
+    }
+]

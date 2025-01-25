@@ -1,0 +1,1646 @@
+[
+    {
+        "question": "Redmi note 9 pro ko price kati ho?",
+        "context": "Product: Redmi Note 9 Pro, Price: 12000, Features: 128 GB SSD, Gorilla Glass, 48 MP Camera",
+        "response": "Redmi Note 9 Pro ko price 12000 ho. Yo hami sanga available xa. Isma 128 GB SSD ra Gorilla Glass xa, ra 48 MP camera pani cha."
+    },
+    {
+        "question": "Samsung Galaxy A52 ko barema jankari dinu.",
+        "context": "Product: Samsung Galaxy A52, Price: 25000, Features: 6.5-inch AMOLED Display, 4500mAh Battery, 64 MP Quad Camera",
+        "response": "Samsung Galaxy A52 ko barema jankari yaha xa. Isko price 25000 ho, 6.5-inch AMOLED display xa, 4500mAh battery ra 64 MP quad camera pani cha."
+    },
+    {
+        "question": "Dell Inspiron laptop ko barema btaunus.",
+        "context": "Product: Dell Inspiron 3501, Price: 65000, Features: 8GB RAM, 256GB SSD, Intel i5 11th Gen Processor",
+        "response": "Dell Inspiron 3501 ko barema jankari dinu cha. Isma 8GB RAM ra 256GB SSD xa. Isko processor Intel i5 11th Gen ho, ra yesko price 65000 ho."
+    },
+    {
+        "question": "HP Pavilion laptop ko price kati ho?",
+        "context": "Product: HP Pavilion 14, Price: 75000, Features: 16GB RAM, 512GB SSD, AMD Ryzen 7 Processor",
+        "response": "HP Pavilion 14 ko price 75000 ho. Yo laptop hami sanga available xa. Isma 16GB RAM, 512GB SSD, ra AMD Ryzen 7 processor xa."
+    },
+    {
+        "question": "Sony Bravia TV ko barema jankari dinus.",
+        "context": "Product: Sony Bravia X80J, Price: 85000, Features: 50-inch 4K HDR Display, Google TV, Dolby Atmos",
+        "response": "Sony Bravia X80J ko barema jankari dinu cha. Yo TV ko price 85000 ho. Isma 50-inch 4K HDR display, Google TV, ra Dolby Atmos support cha."
+    },
+    {
+        "question": "Canon EOS 1500D ko price kati ho?",
+        "context": "Product: Canon EOS 1500D, Price: 55000, Features: 24.1 MP Camera, DIGIC 4+ Processor, Wi-Fi and NFC Support",
+        "response": "Canon EOS 1500D ko price 55000 ho. Isma 24.1 MP camera xa, DIGIC 4+ processor xa, ra Wi-Fi ra NFC support pani cha."
+    },
+    {
+        "question": "Apple iPhone 13 ko barema btau.",
+        "context": "Product: Apple iPhone 13, Price: 120000, Features: 128 GB Storage, A15 Bionic Chip, Super Retina XDR Display",
+        "response": "Apple iPhone 13 ko barema jankari yaha cha. Yo phone ko price 120000 ho. Isma 128 GB storage xa, A15 Bionic chip xa, ra Super Retina XDR display pani cha."
+    },
+    {
+        "question": "Lenovo IdeaPad Gaming laptop ko barema btaunus.",
+        "context": "Product: Lenovo IdeaPad Gaming 3, Price: 95000, Features: 16GB RAM, 512GB SSD, NVIDIA GTX 1650 GPU, AMD Ryzen 5 Processor",
+        "response": "Lenovo IdeaPad Gaming 3 ko barema jankari dinu cha. Isma 16GB RAM, 512GB SSD xa, NVIDIA GTX 1650 GPU xa, ra AMD Ryzen 5 processor pani cha. Isko price 95000 ho."
+    },
+    {
+        "question": "Realme Narzo 60 ko price kati ho?",
+        "context": "Product: Realme Narzo 60, Price: 18000, Features: 128GB Storage, 64MP Camera, 5000mAh Battery",
+        "response": "Realme Narzo 60 ko price 18000 ho. Isma 128GB storage, 64MP camera ra 5000mAh battery cha. Yo phone hami sanga available cha."
+    },
+    {
+        "question": "LG Washing Machine ko barema jankari dinus.",
+        "context": "Product: LG Front Load Washing Machine, Price: 40000, Features: 6 kg Capacity, Inverter Technology, Quick Wash",
+        "response": "LG Front Load Washing Machine ko barema jankari dinu cha. Isma 6 kg capacity, inverter technology, ra quick wash feature cha. Isko price 40000 ho."
+    },
+    {
+        "question": "Bose Headphones ko price kati ho?",
+        "context": "Product: Bose QuietComfort 45, Price: 35000, Features: Noise Cancellation, 24 Hours Battery Life, Bluetooth 5.1",
+        "response": "Bose QuietComfort 45 ko price 35000 ho. Isma noise cancellation, 24 ghanta battery life ra Bluetooth 5.1 support cha."
+    },
+    {
+        "question": "Asus ROG gaming laptop ko barema btaunus.",
+        "context": "Product: Asus ROG Zephyrus G15, Price: 140000, Features: AMD Ryzen 9, 16GB RAM, 1TB SSD, RTX 3060 GPU",
+        "response": "Asus ROG Zephyrus G15 ko barema jankari dinu cha. Isma AMD Ryzen 9 processor, 16GB RAM, 1TB SSD, ra RTX 3060 GPU cha. Isko price 140000 ho."
+    },
+    {
+        "question": "Panasonic Refrigerator ko barema btau.",
+        "context": "Product: Panasonic Double Door Refrigerator, Price: 55000, Features: 350 Liters Capacity, Inverter Compressor, Frost-Free",
+        "response": "Panasonic Double Door Refrigerator ko barema jankari dinu cha. Isma 350 liters capacity, inverter compressor ra frost-free technology cha. Isko price 55000 ho."
+    },
+    {
+        "question": "Acer Predator monitor ko price kati ho?",
+        "context": "Product: Acer Predator XB271HU, Price: 70000, Features: 27-inch WQHD Display, 144Hz Refresh Rate, G-Sync",
+        "response": "Acer Predator XB271HU monitor ko price 70000 ho. Isma 27-inch WQHD display, 144Hz refresh rate, ra G-Sync support cha."
+    },
+    {
+        "question": "Sony Bluetooth speaker ko barema btaunus.",
+        "context": "Product: Sony SRS-XB43, Price: 23000, Features: Extra Bass, IP67 Waterproof, 24 Hours Playback",
+        "response": "Sony SRS-XB43 Bluetooth speaker ko barema jankari dinu cha. Isma extra bass, IP67 waterproof ra 24 hours playback time cha. Isko price 23000 ho."
+    },
+    {
+        "question": "Mi Smart Watch ko barema btau.",
+        "context": "Product: Mi Smart Watch Revolve, Price: 10000, Features: AMOLED Display, Heart Rate Monitoring, 14 Days Battery Life",
+        "response": "Mi Smart Watch Revolve ko barema jankari dinu cha. Isma AMOLED display, heart rate monitoring, ra 14 din ko battery life cha. Isko price 10000 ho."
+    },
+    {
+        "question": "Epson printer ko price kati ho?",
+        "context": "Product: Epson EcoTank L3150, Price: 18000, Features: All-in-One Printer, Wireless Printing, Ink Tank Technology",
+        "response": "Epson EcoTank L3150 ko price 18000 ho. Isma all-in-one printing, wireless printing ra ink tank technology cha."
+    },
+    {
+        "question": "Samsung Microwave oven ko barema btau.",
+        "context": "Product: Samsung Convection Microwave Oven, Price: 25000, Features: 28 Liters Capacity, Grill Function, Auto Cook Menu",
+        "response": "Samsung Convection Microwave Oven ko barema jankari dinu cha. Isma 28 liters capacity, grill function ra auto cook menu cha. Isko price 25000 ho."
+    },
+    {
+        "question": "OnePlus 11 ko barema btau.",
+        "context": "Product: OnePlus 11, Price: 85000, Features: 256GB Storage, Snapdragon 8 Gen 2, 50MP Triple Camera",
+        "response": "OnePlus 11 ko barema jankari dinu cha. Isma 256GB storage, Snapdragon 8 Gen 2 processor ra 50MP triple camera cha. Isko price 85000 ho."
+    },
+    {
+        "question": "Whirlpool Air Conditioner ko price kati ho?",
+        "context": "Product: Whirlpool Split AC 1.5 Ton, Price: 48000, Features: Inverter Compressor, 5-Star Energy Rating, Turbo Cooling",
+        "response": "Whirlpool Split AC 1.5 Ton ko price 48000 ho. Isma inverter compressor, 5-star energy rating ra turbo cooling cha."
+    },
+    {
+        "question": "Samsung Galaxy Watch ko barema btaunus.",
+        "context": "Product: Samsung Galaxy Watch 5, Price: 30000, Features: AMOLED Display, Blood Oxygen Monitoring, 5ATM Water Resistance",
+        "response": "Samsung Galaxy Watch 5 ko barema jankari dinu cha. Isma AMOLED display, blood oxygen monitoring, ra 5ATM water resistance cha. Isko price 30000 ho."
+    },
+    {
+        "question": "Nikon DSLR camera ko barema btau.",
+        "context": "Product: Nikon D5600, Price: 60000, Features: 24.2 MP, Wi-Fi Connectivity, Full HD Recording",
+        "response": "Nikon D5600 DSLR camera ko barema jankari dinu cha. Isma 24.2 MP resolution, Wi-Fi connectivity ra full HD recording cha. Isko price 60000 ho."
+    },
+    {
+        "question": "Samsung Galaxy S23 Ultra ko dam kati ho?",
+        "context": "Product: Samsung Galaxy S23 Ultra, Price: 135000, Features: 200MP Camera, Snapdragon 8 Gen 2, 5000mAh Battery",
+        "response": "Samsung Galaxy S23 Ultra ko dam 135000 ho. Yo hami sanga available cha, ra isma 200MP camera, Snapdragon 8 Gen 2 processor, ra 5000mAh battery cha."
+    },
+    {
+        "question": "Redmi TV ko barema aru jankari dinus.",
+        "context": "Product: Redmi Smart TV X50, Price: 45000, Features: 4K HDR Display, Android TV, Dolby Vision",
+        "response": "Redmi Smart TV X50 ko barema jankari cha. Yo TV ko price 45000 ho. Isma 4K HDR display, Android TV support, ra Dolby Vision cha."
+    },
+    {
+        "question": "Yo Samsung washing machine ma ke features cha?",
+        "context": "Product: Samsung Top Load Washing Machine, Price: 32000, Features: 6.5 kg Capacity, Eco Bubble Technology, Digital Inverter",
+        "response": "Samsung Top Load Washing Machine ko price 32000 ho. Isma 6.5 kg capacity, Eco Bubble technology, ra digital inverter cha."
+    },
+    {
+        "question": "Mi Band 8 ko barema btaidinus.",
+        "context": "Product: Mi Band 8, Price: 5000, Features: AMOLED Display, SpO2 Tracking, 14 Days Battery",
+        "response": "Mi Band 8 ko barema jankari yaha cha. Isma AMOLED display, SpO2 tracking, ra 14 din ko battery backup cha. Yo 5000 ma available cha."
+    },
+    {
+        "question": "Sony ko earphones cha?",
+        "context": "Product: Sony WF-1000XM4, Price: 28000, Features: Noise Cancellation, Hi-Res Audio, 24 Hours Battery Life",
+        "response": "Ho, Sony WF-1000XM4 earphones hami sanga cha. Isko price 28000 ho, ra isma noise cancellation, hi-res audio, ra 24 ghanta battery life cha."
+    },
+    {
+        "question": "MacBook Air ko dam k ho?",
+        "context": "Product: MacBook Air M2, Price: 145000, Features: M2 Chip, 13.6-inch Liquid Retina Display, 256GB SSD",
+        "response": "MacBook Air M2 ko dam 145000 ho. Isma M2 chip, 13.6-inch Liquid Retina display, ra 256GB SSD cha."
+    },
+    {
+        "question": "Yo HP printer ko specifications cha?",
+        "context": "Product: HP LaserJet MFP 138fnw, Price: 22000, Features: All-in-One, Wireless Printing, 20 ppm Speed",
+        "response": "HP LaserJet MFP 138fnw printer ko specifications cha. Isma all-in-one printing, wireless support, ra 20 ppm speed cha. Isko price 22000 ho."
+    },
+    {
+        "question": "Oppo Reno 8T ko barema btau na.",
+        "context": "Product: Oppo Reno 8T, Price: 38000, Features: 108MP Camera, 6.7-inch AMOLED Display, 4800mAh Battery",
+        "response": "Oppo Reno 8T ko barema jankari dinu cha. Isko price 38000 ho, ra isma 108MP camera, 6.7-inch AMOLED display, ra 4800mAh battery cha."
+    },
+    {
+        "question": "KTM cycle ko price kati ho?",
+        "context": "Product: KTM Mountain Bike, Price: 65000, Features: Aluminum Frame, 27.5-inch Wheels, Shimano Gears",
+        "response": "KTM Mountain Bike ko price 65000 ho. Isma aluminum frame, 27.5-inch wheels, ra Shimano gears cha."
+    },
+    {
+        "question": "Dell ka gaming laptops ko barema btau.",
+        "context": "Product: Dell G15 Gaming Laptop, Price: 125000, Features: Intel i7, 16GB RAM, RTX 3050 GPU",
+        "response": "Dell G15 Gaming Laptop ko barema jankari yaha cha. Isko price 125000 ho, ra isma Intel i7 processor, 16GB RAM, ra RTX 3050 GPU cha."
+    },
+    {
+        "question": "GoPro Hero 11 ko dam k ho?",
+        "context": "Product: GoPro Hero 11, Price: 55000, Features: 5.3K Video Recording, 27MP Photos, Waterproof",
+        "response": "GoPro Hero 11 ko dam 55000 ho. Isma 5.3K video recording, 27MP photos, ra waterproof capability cha."
+    },
+    {
+        "question": "Acer Aspire laptop ko details cha?",
+        "context": "Product: Acer Aspire 5, Price: 70000, Features: Intel i5, 8GB RAM, 512GB SSD, Full HD Display",
+        "response": "Acer Aspire 5 ko details yaha cha. Isma Intel i5 processor, 8GB RAM, 512GB SSD, ra full HD display cha. Yo 70000 ma available cha."
+    },
+    {
+        "question": "Samsung Galaxy Tab S9 ko barema btaunus.",
+        "context": "Product: Samsung Galaxy Tab S9, Price: 85000, Features: 11-inch Dynamic AMOLED Display, 8GB RAM, 128GB Storage",
+        "response": "Samsung Galaxy Tab S9 ko barema jankari cha. Isko price 85000 ho, ra isma 11-inch Dynamic AMOLED display, 8GB RAM, ra 128GB storage cha."
+    },
+    {
+        "question": "Haier fridge ko barema btau.",
+        "context": "Product: Haier Double Door Fridge, Price: 42000, Features: 320 Liters Capacity, Inverter Technology, Frost-Free",
+        "response": "Haier Double Door Fridge ko price 42000 ho. Isma 320 liters capacity, inverter technology, ra frost-free feature cha."
+    },
+    {
+        "question": "Sony Bravia TV ma k features cha?",
+        "context": "Product: Sony Bravia X90J, Price: 120000, Features: 55-inch 4K HDR Display, Google TV, Dolby Atmos",
+        "response": "Sony Bravia X90J TV ko barema jankari dinu cha. Isma 55-inch 4K HDR display, Google TV, ra Dolby Atmos cha. Isko price 120000 ho."
+    },
+    {
+        "question": "Huawei MatePad 11 ko price kati ho?",
+        "context": "Product: Huawei MatePad 11, Price: 50000, Features: 120Hz Display, Snapdragon 865, 128GB Storage",
+        "response": "Huawei MatePad 11 ko price 50000 ho. Isma 120Hz display, Snapdragon 865 processor, ra 128GB storage cha."
+    },
+    {
+        "question": "JBL speaker ko dam kati ho?",
+        "context": "Product: JBL Charge 5, Price: 19000, Features: 20 Hours Playback, Waterproof, USB-C Charging",
+        "response": "JBL Charge 5 speaker ko dam 19000 ho. Isma 20 ghanta playback time, waterproof design, ra USB-C charging cha."
+    },
+    {
+        "question": "Canon printer ko barema aru jankari dinus.",
+        "context": "Product: Canon PIXMA G3010, Price: 17500, Features: Ink Tank Printer, Wireless Printing, High Page Yield",
+        "response": "Canon PIXMA G3010 printer ko barema jankari dinu cha. Isma ink tank system, wireless printing, ra high page yield cha. Yo 17500 ma available cha."
+    },
+    {
+        "question": "Xbox Series X ko features cha?",
+        "context": "Product: Xbox Series X, Price: 75000, Features: 1TB SSD, 4K Gaming, 120Hz Refresh Rate",
+        "response": "Xbox Series X ko price 75000 ho. Isma 1TB SSD, 4K gaming, ra 120Hz refresh rate support cha."
+    },
+    {
+        "question": "Dyson vacuum cleaner ko details dinus na.",
+        "context": "Product: Dyson V15 Detect, Price: 95000, Features: Laser Detection, HEPA Filtration, Cordless Design",
+        "response": "Dyson V15 Detect vacuum cleaner ko barema jankari dinu cha. Isma laser detection, HEPA filtration, ra cordless design cha. Isko price 95000 ho."
+    },
+    {
+        "question": "Vivo V29e ko price kati ho?",
+        "context": "Product: Vivo V29e, Price: 45000, Features: 128GB Storage, 50MP Selfie Camera, AMOLED Display",
+        "response": "Vivo V29e ko price 45000 ho. Isma 128GB storage, 50MP selfie camera, ra AMOLED display cha."
+    },
+    {
+        "question": "Samsung microwave oven ko barema details dinus.",
+        "context": "Product: Samsung Solo Microwave Oven, Price: 12000, Features: 20 Liters Capacity, Easy Clean, Defrost Function",
+        "response": "Samsung Solo Microwave Oven ko barema jankari cha. Isko price 12000 ho, ra isma 20 liters capacity, easy clean surface, ra defrost function cha."
+    },
+    {
+        "question": "Sony PS5 ko availability cha?",
+        "context": "Product: Sony PlayStation 5, Price: 80000, Features: 825GB SSD, 4K Gaming, DualSense Controller",
+        "response": "Sony PlayStation 5 ko price 80000 ho. Yo hami sanga available cha, ra isma 825GB SSD, 4K gaming support, ra DualSense controller included cha."
+    },
+    {
+        "question": "Asus VivoBook laptop ko dam kati ho?",
+        "context": "Product: Asus VivoBook 15, Price: 65000, Features: Intel i5 Processor, 8GB RAM, 512GB SSD",
+        "response": "Asus VivoBook 15 laptop ko price 65000 ho. Isma Intel i5 processor, 8GB RAM, ra 512GB SSD storage cha."
+    },
+    {
+        "question": "LG refrigerator ko barema aru jankari dinus.",
+        "context": "Product: LG Single Door Refrigerator, Price: 27000, Features: 190 Liters Capacity, Direct Cool, 4-Star Energy Rating",
+        "response": "LG Single Door Refrigerator ko barema jankari cha. Isma 190 liters capacity, direct cool technology, ra 4-star energy rating cha. Isko price 27000 ho."
+    },
+    {
+        "question": "Realme Narzo 60x ko specifications cha?",
+        "context": "Product: Realme Narzo 60x, Price: 20000, Features: 8GB RAM, 128GB Storage, 64MP Camera",
+        "response": "Realme Narzo 60x ko price 20000 ho. Isma 8GB RAM, 128GB storage, ra 64MP camera cha."
+    },
+    {
+        "question": "Mi smart band ko latest model cha?",
+        "context": "Product: Mi Smart Band 7, Price: 7000, Features: AMOLED Display, SpO2 Monitoring, 20 Days Battery",
+        "response": "Mi Smart Band 7 ko price 7000 ho. Isma AMOLED display, SpO2 monitoring, ra 20 din ko battery backup cha."
+    },
+    {
+        "question": "Samsung Galaxy A14 ko barema btau na.",
+        "context": "Product: Samsung Galaxy A14, Price: 24000, Features: 6.6-inch Display, 5000mAh Battery, 50MP Camera",
+        "response": "Samsung Galaxy A14 ko barema jankari dinu cha. Isko price 24000 ho, ra isma 6.6-inch display, 5000mAh battery, ra 50MP camera cha."
+    },
+    {
+        "question": "Nikon DSLR camera available cha?",
+        "context": "Product: Nikon D7500, Price: 95000, Features: 20.9MP Sensor, 4K Video Recording, SnapBridge Connectivity",
+        "response": "Ho, Nikon D7500 DSLR camera available cha. Isma 20.9MP sensor, 4K video recording, ra SnapBridge connectivity cha. Isko price 95000 ho."
+    },
+    {
+        "question": "Dell Inspiron laptop ko barema jankari dinus.",
+        "context": "Product: Dell Inspiron 14, Price: 80000, Features: Intel i7, 16GB RAM, 512GB SSD, 14-inch FHD Display",
+        "response": "Dell Inspiron 14 laptop ko price 80000 ho. Isma Intel i7 processor, 16GB RAM, 512GB SSD, ra 14-inch FHD display cha."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 ko dam kati ho?",
+        "context": "Product: Samsung Galaxy Buds 2, Price: 15000, Features: Noise Cancellation, Wireless Charging, 29 Hours Battery Life",
+        "response": "Samsung Galaxy Buds 2 ko dam 15000 ho. Isma noise cancellation, wireless charging, ra 29 ghanta battery life cha."
+    },
+    {
+        "question": "HP Envy printer ko barema btau.",
+        "context": "Product: HP Envy 6055e, Price: 15000, Features: All-in-One Printer, Wireless Printing, Instant Ink Compatible",
+        "response": "HP Envy 6055e printer ko barema jankari dinu cha. Isma all-in-one functionality, wireless printing, ra Instant Ink compatibility cha. Isko price 15000 ho."
+    },
+    {
+        "question": "Lenovo tablet available cha?",
+        "context": "Product: Lenovo Tab P11, Price: 30000, Features: 11-inch Display, 6GB RAM, Dolby Atmos Speakers",
+        "response": "Ho, Lenovo Tab P11 hami sanga available cha. Isko price 30000 ho, ra isma 11-inch display, 6GB RAM, ra Dolby Atmos speakers cha."
+    },
+    {
+        "question": "Dyson air purifier ko dam kati ho?",
+        "context": "Product: Dyson Pure Cool, Price: 62000, Features: HEPA Filter, Air Multiplier Technology, Smart Control",
+        "response": "Dyson Pure Cool air purifier ko price 62000 ho. Isma HEPA filter, Air Multiplier technology, ra smart control features cha."
+    },
+    {
+        "question": "Samsung curved monitor ko details dinus.",
+        "context": "Product: Samsung Curved Monitor, Price: 55000, Features: 32-inch Display, QHD Resolution, 144Hz Refresh Rate",
+        "response": "Samsung Curved Monitor ko barema jankari dinu cha. Isma 32-inch display, QHD resolution, ra 144Hz refresh rate cha. Isko price 55000 ho."
+    },
+    {
+        "question": "Asus TUF Gaming laptop ko availability cha?",
+        "context": "Product: Asus TUF Gaming F15, Price: 105000, Features: Intel i5, RTX 3050, 16GB RAM, 512GB SSD",
+        "response": "Ho, Asus TUF Gaming F15 laptop hami sanga available cha. Isma Intel i5 processor, RTX 3050 GPU, 16GB RAM, ra 512GB SSD cha. Isko price 105000 ho."
+    },
+    {
+        "question": "Panasonic AC ko barema btau na.",
+        "context": "Product: Panasonic Inverter AC, Price: 48000, Features: 1.5 Ton, 5-Star Energy Rating, Wi-Fi Control",
+        "response": "Panasonic Inverter AC ko price 48000 ho. Isma 1.5 ton cooling capacity, 5-star energy rating, ra Wi-Fi control feature cha."
+    },
+    {
+        "question": "JBL Party Box speaker ko price kati ho?",
+        "context": "Product: JBL Party Box 310, Price: 65000, Features: 240W Output, IPX4 Splashproof, Built-in Light Show",
+        "response": "JBL Party Box 310 speaker ko price 65000 ho. Isma 240W output, IPX4 splashproof design, ra built-in light show cha."
+    },
+    {
+        "question": "Canon DSLR camera ko dam kati ho?",
+        "context": "Product: Canon EOS 90D, Price: 125000, Features: 32.5MP Sensor, 4K Video Recording, Wi-Fi Connectivity",
+        "response": "Canon EOS 90D DSLR camera ko price 125000 ho. Isma 32.5MP sensor, 4K video recording, ra Wi-Fi connectivity cha."
+    },
+    {
+        "question": "Samsung Galaxy A34 ko barema btau.",
+        "context": "Product: Samsung Galaxy A34, Price: 35000, Features: 6.5-inch AMOLED Display, 5000mAh Battery, 48MP Camera",
+        "response": "Samsung Galaxy A34 ko barema jankari dinu cha. Isko price 35000 ho, ra isma 6.5-inch AMOLED display, 5000mAh battery, ra 48MP camera cha."
+    },
+    {
+        "question": "OnePlus Nord CE 3 Lite ko price kati ho?",
+        "context": "Product: OnePlus Nord CE 3 Lite, Price: 29999, Features: 108MP Camera, 6GB RAM, 128GB Storage",
+        "response": "OnePlus Nord CE 3 Lite ko price 29999 ho. Isma 108MP camera, 6GB RAM, ra 128GB storage cha."
+    },
+    {
+        "question": "LG washing machine ko barema jankari dinus.",
+        "context": "Product: LG Front Load Washing Machine, Price: 58000, Features: 7 kg Capacity, Inverter Direct Drive, Smart Diagnosis",
+        "response": "LG Front Load Washing Machine ko barema jankari dinu cha. Isma 7 kg capacity, inverter direct drive motor, ra smart diagnosis feature cha. Isko price 58000 ho."
+    },
+    {
+        "question": "Mi Smart TV 5A ko dam kati ho?",
+        "context": "Product: Mi Smart TV 5A, Price: 36000, Features: 43-inch Full HD Display, Android TV, Dolby Audio",
+        "response": "Mi Smart TV 5A ko price 36000 ho. Isma 43-inch full HD display, Android TV, ra Dolby Audio support cha."
+    },
+    {
+        "question": "Dell monitor ko specifications cha?",
+        "context": "Product: Dell UltraSharp U2723QE, Price: 95000, Features: 27-inch 4K UHD, IPS Display, USB-C Connectivity",
+        "response": "Dell UltraSharp U2723QE monitor ko price 95000 ho. Isma 27-inch 4K UHD IPS display, ra USB-C connectivity cha."
+    },
+    {
+        "question": "Samsung Galaxy Watch 6 ko barema btau na.",
+        "context": "Product: Samsung Galaxy Watch 6, Price: 40000, Features: 1.4-inch AMOLED Display, ECG Monitoring, Bluetooth 5.3",
+        "response": "Samsung Galaxy Watch 6 ko price 40000 ho. Isma 1.4-inch AMOLED display, ECG monitoring, ra Bluetooth 5.3 cha."
+    },
+    {
+        "question": "Canon ka photo printers available cha?",
+        "context": "Product: Canon Selphy CP1300, Price: 20000, Features: Portable, Wireless Printing, 4x6-inch Prints",
+        "response": "Ho, Canon Selphy CP1300 photo printer hami sanga available cha. Isma portable design, wireless printing, ra 4x6-inch prints cha. Isko price 20000 ho."
+    },
+    {
+        "question": "Apple AirPods Pro 2 ko dam kati ho?",
+        "context": "Product: Apple AirPods Pro 2, Price: 45000, Features: Active Noise Cancellation, Spatial Audio, MagSafe Charging",
+        "response": "Apple AirPods Pro 2 ko dam 45000 ho. Isma active noise cancellation, spatial audio, ra MagSafe charging support cha."
+    },
+    {
+        "question": "Asus ROG laptop ko barema btau.",
+        "context": "Product: Asus ROG Strix G16, Price: 150000, Features: Intel i9, RTX 4070, 16-inch QHD 165Hz Display",
+        "response": "Asus ROG Strix G16 ko price 150000 ho. Isma Intel i9 processor, RTX 4070 GPU, ra 16-inch QHD 165Hz display cha."
+    },
+    {
+        "question": "Panasonic ka microwave ovens ko price kati bata suru hunchha?",
+        "context": "Product: Panasonic Grill Microwave Oven, Price: 18000, Features: 23 Liters Capacity, Auto-Cook Menus, Child Lock",
+        "response": "Panasonic Grill Microwave Oven ko price 18000 bata suru hunchha. Isma 23 liters capacity, auto-cook menus, ra child lock cha."
+    },
+    {
+        "question": "Realme 11 Pro ko barema jankari dinus.",
+        "context": "Product: Realme 11 Pro, Price: 35000, Features: 120Hz AMOLED Display, Dimensity 7050, 100MP Camera",
+        "response": "Realme 11 Pro ko price 35000 ho. Isma 120Hz AMOLED display, Dimensity 7050 processor, ra 100MP camera cha."
+    },
+    {
+        "question": "Sony ka Bluetooth speakers cha?",
+        "context": "Product: Sony SRS-XB43, Price: 22000, Features: Extra Bass, 24 Hours Battery, IP67 Waterproof",
+        "response": "Ho, Sony SRS-XB43 Bluetooth speaker available cha. Isko price 22000 ho, ra isma Extra Bass, 24 hours battery life, ra IP67 waterproof rating cha."
+    },
+    {
+        "question": "Xiaomi ka routers ko price kati ho?",
+        "context": "Product: Xiaomi AX3000 Wi-Fi 6 Router, Price: 10000, Features: Dual-Band, OFDMA Technology, 3000 Mbps Speed",
+        "response": "Xiaomi AX3000 Wi-Fi 6 Router ko price 10000 ho. Isma dual-band connectivity, OFDMA technology, ra 3000 Mbps speed cha."
+    },
+    {
+        "question": "HP Pavilion laptop ko availability cha?",
+        "context": "Product: HP Pavilion x360, Price: 92000, Features: Intel i5, 8GB RAM, 256GB SSD, 2-in-1 Design",
+        "response": "HP Pavilion x360 hami sanga available cha. Isko price 92000 ho, ra isma Intel i5 processor, 8GB RAM, 256GB SSD, ra 2-in-1 design cha."
+    },
+    {
+        "question": "LG soundbar ko barema btau na.",
+        "context": "Product: LG SN7Y Soundbar, Price: 45000, Features: Dolby Atmos, DTS:X, Wireless Subwoofer",
+        "response": "LG SN7Y Soundbar ko price 45000 ho. Isma Dolby Atmos, DTS:X, ra wireless subwoofer support cha."
+    },
+    {
+        "question": "Acer Nitro monitor ko dam kati ho?",
+        "context": "Product: Acer Nitro XV282K, Price: 90000, Features: 28-inch 4K UHD, 144Hz Refresh Rate, FreeSync Premium",
+        "response": "Acer Nitro XV282K monitor ko price 90000 ho. Isma 28-inch 4K UHD display, 144Hz refresh rate, ra FreeSync Premium support cha."
+    },
+    {
+        "question": "Samsung Galaxy Z Fold 5 ko price cha?",
+        "context": "Product: Samsung Galaxy Z Fold 5, Price: 215000, Features: 7.6-inch Foldable AMOLED Display, Snapdragon 8 Gen 2, 4400mAh Battery",
+        "response": "Samsung Galaxy Z Fold 5 ko price 215000 ho. Isma 7.6-inch foldable AMOLED display, Snapdragon 8 Gen 2 processor, ra 4400mAh battery cha."
+    },
+    {
+        "question": "Bose headphones ko availability cha?",
+        "context": "Product: Bose QuietComfort 45, Price: 55000, Features: Active Noise Cancellation, 24 Hours Battery, USB-C Charging",
+        "response": "Ho, Bose QuietComfort 45 headphones hami sanga available cha. Isko price 55000 ho, ra isma active noise cancellation, 24 hours battery, ra USB-C charging cha."
+    },
+    {
+        "question": "Dyson hair dryer ko barema btau.",
+        "context": "Product: Dyson Supersonic Hair Dryer, Price: 75000, Features: Intelligent Heat Control, Fast Drying, Lightweight Design",
+        "response": "Dyson Supersonic Hair Dryer ko price 75000 ho. Isma intelligent heat control, fast drying, ra lightweight design cha."
+    },
+    {
+        "question": "Apple MacBook Pro ko dam kati ho?",
+        "context": "Product: Apple MacBook Pro M2, Price: 190000, Features: M2 Chip, 16-inch Retina Display, 512GB SSD",
+        "response": "Apple MacBook Pro M2 ko price 190000 ho. Isma M2 chip, 16-inch Retina display, ra 512GB SSD cha."
+    },
+    {
+        "question": "Sony Alpha camera ko barema jankari dinus.",
+        "context": "Product: Sony Alpha A7 IV, Price: 240000, Features: 33MP Sensor, 4K Video, 10fps Continuous Shooting",
+        "response": "Sony Alpha A7 IV camera ko price 240000 ho. Isma 33MP sensor, 4K video recording, ra 10fps continuous shooting cha."
+    },
+    {
+        "question": "Samsung ka fridge haru ko dam kati dekhi cha?",
+        "context": "Product: Samsung Double Door Refrigerator, Price: 42000, Features: 275 Liters Capacity, Digital Inverter, Frost-Free Technology",
+        "response": "Samsung Double Door Refrigerator ko price 42000 dekhi suru hunchha. Isma 275 liters capacity, digital inverter technology, ra frost-free system cha."
+    },
+    {
+        "question": "Philips ka induction cooktops ko barema btau.",
+        "context": "Product: Philips Viva Collection Induction Cooktop, Price: 9000, Features: Touch Controls, Auto-Off Feature, 2000W Power",
+        "response": "Philips Viva Collection Induction Cooktop ko price 9000 ho. Isma touch controls, auto-off feature, ra 2000W power cha."
+    },
+    {
+        "question": "Panasonic iron ko price kati ho?",
+        "context": "Product: Panasonic Steam Iron, Price: 4500, Features: 1500W Power, Non-Stick Soleplate, Anti-Drip",
+        "response": "Panasonic Steam Iron ko price 4500 ho. Isma 1500W power, non-stick soleplate, ra anti-drip feature cha."
+    },
+    {
+        "question": "Bajaj ka water heater ko availability cha?",
+        "context": "Product: Bajaj Water Heater, Price: 8500, Features: 15 Liters, Glass-Lined Tank, 4-Star Energy Rating",
+        "response": "Ho, Bajaj Water Heater hami sanga available cha. Isko price 8500 ho, ra isma 15 liters capacity, glass-lined tank, ra 4-star energy rating cha."
+    },
+    {
+        "question": "Samsung ka washing machines haru kati ko cha?",
+        "context": "Product: Samsung Top Load Washing Machine, Price: 32000, Features: 6.5 kg Capacity, Diamond Drum, Energy Efficient",
+        "response": "Samsung Top Load Washing Machine ko price 32000 ho. Isma 6.5 kg capacity, diamond drum design, ra energy-efficient motor cha."
+    },
+    {
+        "question": "Apple iPad Air ko dam kati ho?",
+        "context": "Product: Apple iPad Air, Price: 85000, Features: 10.9-inch Liquid Retina Display, A14 Bionic Chip, 64GB Storage",
+        "response": "Apple iPad Air ko price 85000 ho. Isma 10.9-inch Liquid Retina display, A14 Bionic chip, ra 64GB storage cha."
+    },
+    {
+        "question": "Sony soundbar ko availability cha?",
+        "context": "Product: Sony HT-S40R, Price: 37000, Features: 5.1 Channel Surround Sound, Wireless Subwoofer, HDMI ARC",
+        "response": "Ho, Sony HT-S40R soundbar hami sanga available cha. Isko price 37000 ho, ra isma 5.1 channel surround sound, wireless subwoofer, ra HDMI ARC connectivity cha."
+    },
+    {
+        "question": "Canon ka ink tank printers ko barema btau.",
+        "context": "Product: Canon PIXMA G3020, Price: 18500, Features: Ink Tank System, Wireless Printing, High Yield",
+        "response": "Canon PIXMA G3020 ko price 18500 ho. Isma ink tank system, wireless printing support, ra high yield output cha."
+    },
+    {
+        "question": "Samsung Galaxy Tab S9 Ultra ko features cha?",
+        "context": "Product: Samsung Galaxy Tab S9 Ultra, Price: 165000, Features: 14.6-inch Super AMOLED, Snapdragon 8 Gen 2, S Pen Support",
+        "response": "Samsung Galaxy Tab S9 Ultra ko price 165000 ho. Isma 14.6-inch Super AMOLED display, Snapdragon 8 Gen 2 processor, ra S Pen support cha."
+    },
+    {
+        "question": "Xiaomi ka robot vacuum cleaner available cha?",
+        "context": "Product: Xiaomi Mi Robot Vacuum Mop P, Price: 32000, Features: Laser Navigation, 2-in-1 Sweeping & Mopping, App Control",
+        "response": "Ho, Xiaomi Mi Robot Vacuum Mop P available cha. Isko price 32000 ho, ra isma laser navigation, 2-in-1 sweeping & mopping, ra app control cha."
+    },
+    {
+        "question": "Prestige ka pressure cookers ko dam kati ho?",
+        "context": "Product: Prestige Aluminum Pressure Cooker, Price: 3500, Features: 5 Liters Capacity, Anti-Bulge Base, Durable Handles",
+        "response": "Prestige Aluminum Pressure Cooker ko price 3500 ho. Isma 5 liters capacity, anti-bulge base, ra durable handles cha."
+    },
+    {
+        "question": "LG OLED TV ko price kati cha?",
+        "context": "Product: LG C2 OLED TV, Price: 185000, Features: 55-inch 4K Display, Dolby Vision, NVIDIA G-SYNC",
+        "response": "LG C2 OLED TV ko price 185000 ho. Isma 55-inch 4K display, Dolby Vision, ra NVIDIA G-SYNC support cha."
+    },
+    {
+        "question": "Anker ka power banks ko barema btau.",
+        "context": "Product: Anker PowerCore 20100, Price: 4500, Features: 20100mAh Capacity, Dual USB Output, Fast Charging",
+        "response": "Anker PowerCore 20100 ko price 4500 ho. Isma 20100mAh capacity, dual USB output, ra fast charging support cha."
+    },
+    {
+        "question": "Dell ka gaming monitors ko price kati ho?",
+        "context": "Product: Dell G3223Q, Price: 135000, Features: 32-inch 4K UHD, 144Hz Refresh Rate, HDMI 2.1",
+        "response": "Dell G3223Q gaming monitor ko price 135000 ho. Isma 32-inch 4K UHD display, 144Hz refresh rate, ra HDMI 2.1 port cha."
+    },
+    {
+        "question": "Sony Bravia TV ko availability cha?",
+        "context": "Product: Sony Bravia X80K, Price: 140000, Features: 55-inch 4K HDR, Google TV, Dolby Atmos",
+        "response": "Sony Bravia X80K TV hami sanga available cha. Isko price 140000 ho, ra isma 55-inch 4K HDR display, Google TV, ra Dolby Atmos support cha."
+    },
+    {
+        "question": "Amazon Echo Dot ko barema jankari dinus.",
+        "context": "Product: Amazon Echo Dot (5th Gen), Price: 8000, Features: Smart Speaker, Alexa Built-in, LED Display",
+        "response": "Amazon Echo Dot (5th Gen) ko price 8000 ho. Isma smart speaker functionality, Alexa built-in, ra LED display cha."
+    },
+    {
+        "question": "JBL ka party speakers haru ko dam kati ho?",
+        "context": "Product: JBL PartyBox 110, Price: 58000, Features: 160W Output, Dynamic Light Show, Splashproof Design",
+        "response": "JBL PartyBox 110 ko price 58000 ho. Isma 160W output, dynamic light show, ra splashproof design cha."
+    },
+    {
+        "question": "Nikon ka mirrorless camera cha?",
+        "context": "Product: Nikon Z6 II, Price: 220000, Features: 24.5MP Sensor, 4K Video, Dual EXPEED 6 Processor",
+        "response": "Ho, Nikon Z6 II mirrorless camera available cha. Isko price 220000 ho, ra isma 24.5MP sensor, 4K video recording, ra dual EXPEED 6 processor cha."
+    },
+    {
+        "question": "Panasonic ka smart AC ko dam kati ho?",
+        "context": "Product: Panasonic Smart Inverter AC, Price: 62000, Features: Wi-Fi Control, 1.5 Ton, 5-Star Rating",
+        "response": "Panasonic Smart Inverter AC ko price 62000 ho. Isma Wi-Fi control, 1.5 ton capacity, ra 5-star energy rating cha."
+    },
+    {
+        "question": "Huawei Watch GT 4 ko features cha?",
+        "context": "Product: Huawei Watch GT 4, Price: 28000, Features: AMOLED Display, SpO2 Monitoring, GPS Tracking",
+        "response": "Huawei Watch GT 4 ko price 28000 ho. Isma AMOLED display, SpO2 monitoring, ra GPS tracking cha."
+    },
+    {
+        "question": "Redmi Note 12 ko rate kati ho?",
+        "context": "Product: Redmi Note 12, Price: 22000, Features: AMOLED Display, 6GB RAM, 128GB Storage",
+        "response": "Redmi Note 12 ko price 22000 ho. Isma AMOLED display, 6GB RAM, ra 128GB storage cha."
+    },
+    {
+        "question": "Sony ka headphones available cha?",
+        "context": "Product: Sony WH-1000XM5, Price: 45000, Features: Active Noise Cancellation, 30 Hours Battery, Bluetooth 5.2",
+        "response": "Ho, Sony WH-1000XM5 headphones hami sanga available cha. Isko price 45000 ho, ra isma active noise cancellation, 30 ghanta battery life, ra Bluetooth 5.2 cha."
+    },
+    {
+        "question": "Laptop charger chahiyo, Dell ko cha?",
+        "context": "Product: Dell 65W Laptop Charger, Price: 3500, Features: USB-C, Universal Compatibility, Fast Charging",
+        "response": "Dell 65W Laptop Charger hami sanga available cha. Isko price 3500 ho, ra isma USB-C fast charging feature cha."
+    },
+    {
+        "question": "OnePlus 11R ko features bataunus na.",
+        "context": "Product: OnePlus 11R, Price: 45000, Features: Snapdragon 8+ Gen 1, 120Hz AMOLED, 5000mAh Battery",
+        "response": "OnePlus 11R ko price 45000 ho. Isma Snapdragon 8+ Gen 1 processor, 120Hz AMOLED display, ra 5000mAh battery cha."
+    },
+    {
+        "question": "Samsung Galaxy A54 ko barema thap jankari dinus.",
+        "context": "Product: Samsung Galaxy A54, Price: 38000, Features: 6.4-inch Super AMOLED, Exynos 1380, 50MP Camera",
+        "response": "Samsung Galaxy A54 ko price 38000 ho. Isma 6.4-inch Super AMOLED display, Exynos 1380 processor, ra 50MP camera cha."
+    },
+    {
+        "question": "Smartwatches haru ko dam kati bata suru hunchha?",
+        "context": "Product: Realme Watch 3, Price: 6500, Features: 1.8-inch Display, Heart Rate Monitoring, Bluetooth Calling",
+        "response": "Smartwatches ko price 6500 dekhi suru hunchha. Realme Watch 3 ko price 6500 ho, ra isma 1.8-inch display, heart rate monitoring, ra Bluetooth calling cha."
+    },
+    {
+        "question": "LG ka TV haru ko options dinus.",
+        "context": "Product: LG NanoCell TV, Price: 78000, Features: 50-inch 4K HDR, α5 AI Processor, Magic Remote",
+        "response": "LG NanoCell TV hami sanga available cha. Isko price 78000 ho, ra isma 50-inch 4K HDR display, α5 AI processor, ra magic remote cha."
+    },
+    {
+        "question": "HP printer ko dam kati ho?",
+        "context": "Product: HP DeskJet 2331, Price: 6000, Features: All-in-One, USB Connectivity, Color Printing",
+        "response": "HP DeskJet 2331 printer ko price 6000 ho. Isma all-in-one feature, USB connectivity, ra color printing support cha."
+    },
+    {
+        "question": "Canon DSLR ko kun model available cha?",
+        "context": "Product: Canon EOS 90D, Price: 185000, Features: 32.5MP Sensor, 4K Video, 45-Point Autofocus",
+        "response": "Canon EOS 90D hami sanga available cha. Isko price 185000 ho, ra isma 32.5MP sensor, 4K video recording, ra 45-point autofocus cha."
+    },
+    {
+        "question": "Gaming mouse ko options cha?",
+        "context": "Product: Logitech G502 Hero, Price: 8500, Features: 11 Programmable Buttons, 16K DPI Sensor, RGB Lighting",
+        "response": "Ho, Logitech G502 Hero gaming mouse available cha. Isko price 8500 ho, ra isma 11 programmable buttons, 16K DPI sensor, ra RGB lighting cha."
+    },
+    {
+        "question": "4K monitors kati ko cha?",
+        "context": "Product: LG 27UL500, Price: 48000, Features: 27-inch 4K UHD, HDR10, FreeSync",
+        "response": "4K monitors ko price 48000 dekhi suru hunchha. LG 27UL500 ko price 48000 ho, ra isma 27-inch 4K UHD display, HDR10, ra FreeSync support cha."
+    },
+    {
+        "question": "Samsung ko Galaxy Buds cha?",
+        "context": "Product: Samsung Galaxy Buds 2 Pro, Price: 22000, Features: Active Noise Cancellation, 24-Bit Hi-Fi Audio, Bluetooth 5.3",
+        "response": "Ho, Samsung Galaxy Buds 2 Pro hami sanga available cha. Isko price 22000 ho, ra isma active noise cancellation, 24-bit hi-fi audio, ra Bluetooth 5.3 cha."
+    },
+    {
+        "question": "Microwave ovens ko models cha?",
+        "context": "Product: IFB Solo Microwave Oven, Price: 11000, Features: 20 Liters Capacity, Auto-Cook Menus, Child Lock",
+        "response": "IFB Solo Microwave Oven available cha. Isko price 11000 ho, ra isma 20 liters capacity, auto-cook menus, ra child lock feature cha."
+    },
+    {
+        "question": "Smartphone accessories ko options dinus na.",
+        "context": "Product: Anker USB-C Charger, Price: 2500, Features: 20W Fast Charging, Compact Design, Universal Compatibility",
+        "response": "Smartphone accessories ma Anker USB-C Charger available cha. Isko price 2500 ho, ra isma 20W fast charging, compact design, ra universal compatibility cha."
+    },
+    {
+        "question": "Xiaomi Mi Pad 6 ko price cha?",
+        "context": "Product: Xiaomi Mi Pad 6, Price: 38000, Features: 11-inch 2.8K Display, Snapdragon 870, 8600mAh Battery",
+        "response": "Xiaomi Mi Pad 6 ko price 38000 ho. Isma 11-inch 2.8K display, Snapdragon 870 processor, ra 8600mAh battery cha."
+    },
+    {
+        "question": "Amazon Fire Stick ko dam kati ho?",
+        "context": "Product: Amazon Fire TV Stick 4K, Price: 7000, Features: 4K Streaming, Alexa Voice Remote, Dolby Vision",
+        "response": "Amazon Fire TV Stick 4K ko price 7000 ho. Isma 4K streaming, Alexa voice remote, ra Dolby Vision support cha."
+    },
+    {
+        "question": "Bluetooth speakers ka options bataunus.",
+        "context": "Product: JBL Flip 6, Price: 16000, Features: Portable, Waterproof, 12 Hours Battery",
+        "response": "JBL Flip 6 Bluetooth speaker ko price 16000 ho. Isma portable design, waterproof body, ra 12 ghanta battery life cha."
+    },
+    {
+        "question": "High-performance laptops ko range kati cha?",
+        "context": "Product: Asus ZenBook Pro Duo, Price: 220000, Features: Dual 4K Touchscreens, Intel i9, 32GB RAM",
+        "response": "High-performance laptops ko price 220000 dekhi suru hunchha. Asus ZenBook Pro Duo ko price 220000 ho, ra isma dual 4K touchscreens, Intel i9 processor, ra 32GB RAM cha."
+    },
+    {
+        "question": "Sony PS5 ko availability cha?",
+        "context": "Product: Sony PlayStation 5, Price: 85000, Features: 825GB SSD, 4K Gaming, DualSense Controller",
+        "response": "Ho, Sony PlayStation 5 hami sanga available cha. Isko price 85000 ho, ra isma 825GB SSD, 4K gaming support, ra DualSense controller cha."
+    },
+    {
+        "question": "Air purifiers ma kun-kun options cha?",
+        "context": "Product: Philips AC1215, Price: 14000, Features: 4-Stage Filtration, HEPA Filter, Night Mode",
+        "response": "Air purifiers ma Philips AC1215 available cha. Isko price 14000 ho, ra isma 4-stage filtration, HEPA filter, ra night mode cha."
+    },
+    {
+        "question": "Smartphone ma kun-kun budget options cha?",
+        "context": "Product: Poco C55, Price: 13500, Features: Helio G85, 6.71-inch Display, 5000mAh Battery",
+        "response": "Budget smartphones ma Poco C55 available cha. Isko price 13500 ho, ra isma Helio G85 processor, 6.71-inch display, ra 5000mAh battery cha."
+    },
+    {
+        "question": "Dyson ko vacuum cleaners ko dam kati cha?",
+        "context": "Product: Dyson V11 Absolute Pro, Price: 92000, Features: Cord-Free, HEPA Filter, 60 Minutes Runtime",
+        "response": "Dyson V11 Absolute Pro vacuum cleaner ko price 92000 ho. Isma cord-free design, HEPA filter, ra 60 minutes runtime cha."
+    },
+    {
+        "question": "Camera lenses ka options dinus na.",
+        "context": "Product: Tamron 70-300mm f/4.5-6.3, Price: 42000, Features: Telephoto Zoom, Vibration Control, Lightweight",
+        "response": "Camera lenses ma Tamron 70-300mm available cha. Isko price 42000 ho, ra isma telephoto zoom, vibration control, ra lightweight design cha."
+    },
+    {
+        "question": "Dell Inspiron 15 laptop cha?",
+        "context": "Product: Dell Inspiron 15 3511, Price: 58000, Features: Intel i5, 8GB RAM, 512GB SSD",
+        "response": "Ho, Dell Inspiron 15 3511 hami sanga available cha. Isko price 58000 ho, ra isma Intel i5 processor, 8GB RAM, ra 512GB SSD cha."
+    },
+    {
+        "question": "Wireless keyboard chahiyo, Logitech ko cha?",
+        "context": "Product: Logitech K480, Price: 4000, Features: Multi-Device Connectivity, Bluetooth, Compact Design",
+        "response": "Ho, Logitech K480 wireless keyboard available cha. Isko price 4000 ho, ra isma multi-device connectivity, Bluetooth support, ra compact design cha."
+    },
+    {
+        "question": "Washing machines ko kun brand ko ramro cha?",
+        "context": "Product: Whirlpool Top Load Washing Machine, Price: 28000, Features: 6.5kg Capacity, 5-Star Energy Rating, Hard Water Wash",
+        "response": "Washing machines ma Whirlpool Top Load model ramro cha. Isko price 28000 ho, ra isma 6.5kg capacity, 5-star energy rating, ra hard water wash cha."
+    },
+    {
+        "question": "Realme TV ko price kati ho?",
+        "context": "Product: Realme Smart TV X, Price: 22000, Features: 32-inch LED, Android TV, Dolby Audio",
+        "response": "Realme Smart TV X ko price 22000 ho. Isma 32-inch LED display, Android TV support, ra Dolby Audio cha."
+    },
+    {
+        "question": "Sony ka camera accessories ko barema jankari dinus.",
+        "context": "Product: Sony Camera Bag, Price: 4500, Features: Weather Resistant, Multiple Compartments, Padded Interior",
+        "response": "Sony Camera Bag hami sanga available cha. Isko price 4500 ho, ra isma weather-resistant body, multiple compartments, ra padded interior cha."
+    },
+    {
+        "question": "Electric kettles ma kun ramro ho?",
+        "context": "Product: Havells Electric Kettle, Price: 3200, Features: 1.5L Capacity, Stainless Steel, Auto Shut-Off",
+        "response": "Electric kettles ma Havells Electric Kettle ramro ho. Isko price 3200 ho, ra isma 1.5L capacity, stainless steel body, ra auto shut-off feature cha."
+    },
+    {
+        "question": "Samsung Galaxy Tab A7 Lite cha?",
+        "context": "Product: Samsung Galaxy Tab A7 Lite, Price: 18500, Features: 8.7-inch Display, 5100mAh Battery, Dolby Atmos",
+        "response": "Ho, Samsung Galaxy Tab A7 Lite available cha. Isko price 18500 ho, ra isma 8.7-inch display, 5100mAh battery, ra Dolby Atmos support cha."
+    },
+    {
+        "question": "Bluetooth earphones ko budget options dinus na.",
+        "context": "Product: boAt Rockerz 255 Pro+, Price: 2000, Features: 40 Hours Playback, IPX7 Waterproof, Bluetooth 5.0",
+        "response": "Bluetooth earphones ma boAt Rockerz 255 Pro+ available cha. Isko price 2000 ho, ra isma 40 ghanta playback, IPX7 waterproofing, ra Bluetooth 5.0 cha."
+    },
+    {
+        "question": "Samsung ka smartwatches ko dam kati ho?",
+        "context": "Product: Samsung Galaxy Watch 6, Price: 32000, Features: Super AMOLED, ECG Monitoring, Rotating Bezel",
+        "response": "Samsung Galaxy Watch 6 ko price 32000 ho. Isma Super AMOLED display, ECG monitoring, ra rotating bezel cha."
+    },
+    {
+        "question": "Gaming laptops ko kun models available cha?",
+        "context": "Product: Acer Predator Helios 300, Price: 145000, Features: Intel i7, RTX 3060, 144Hz Display",
+        "response": "Gaming laptops ma Acer Predator Helios 300 available cha. Isko price 145000 ho, ra isma Intel i7 processor, RTX 3060 graphics card, ra 144Hz display cha."
+    },
+    {
+        "question": "Asus VivoBook ma features k-k cha?",
+        "context": "Product: Asus VivoBook 14, Price: 45000, Features: AMD Ryzen 5, 14-inch Display, 256GB SSD",
+        "response": "Asus VivoBook 14 ko price 45000 ho. Isma AMD Ryzen 5 processor, 14-inch display, ra 256GB SSD storage cha."
+    },
+    {
+        "question": "Smart speakers ma Amazon Alexa ko price k ho?",
+        "context": "Product: Amazon Echo Show 5, Price: 11000, Features: 5.5-inch Screen, Alexa Built-in, Video Calling",
+        "response": "Amazon Echo Show 5 ko price 11000 ho. Isma 5.5-inch screen, Alexa built-in, ra video calling feature cha."
+    },
+    {
+        "question": "Fitness trackers ma budget ma ramro kun cha?",
+        "context": "Product: Mi Smart Band 6, Price: 4200, Features: AMOLED Display, SpO2 Monitoring, 14 Days Battery",
+        "response": "Fitness trackers ma Mi Smart Band 6 ramro cha. Isko price 4200 ho, ra isma AMOLED display, SpO2 monitoring, ra 14 din ko battery backup cha."
+    },
+    {
+        "question": "Gaming controllers ka kun-kun models cha?",
+        "context": "Product: Xbox Wireless Controller, Price: 6000, Features: Bluetooth Connectivity, Textured Grips, Rechargeable Battery",
+        "response": "Gaming controllers ma Xbox Wireless Controller available cha. Isko price 6000 ho, ra isma Bluetooth connectivity, textured grips, ra rechargeable battery cha."
+    },
+    {
+        "question": "Electric bikes ko price ko range kati cha?",
+        "context": "Product: Hero Electric Optima HX, Price: 85000, Features: 70km Range, 4 Hours Charging, LED Display",
+        "response": "Electric bikes ko price 85000 dekhi suru hunchha. Hero Electric Optima HX ko price 85000 ho, ra isma 70km range, 4 hours charging, ra LED display cha."
+    },
+    {
+        "question": "Kids ka tablets available cha?",
+        "context": "Product: Lenovo Tab M10 Kids Edition, Price: 22000, Features: 10-inch Display, Parental Controls, Durable Case",
+        "response": "Ho, Lenovo Tab M10 Kids Edition available cha. Isko price 22000 ho, ra isma 10-inch display, parental controls, ra durable case cha."
+    },
+    {
+        "question": "Gaming headsets ma ramro options bataunus.",
+        "context": "Product: HyperX Cloud II, Price: 8500, Features: 7.1 Surround Sound, Noise-Cancelling Mic, Comfortable Ear Cups",
+        "response": "Gaming headsets ma HyperX Cloud II ramro option ho. Isko price 8500 ho, ra isma 7.1 surround sound, noise-cancelling mic, ra comfortable ear cups cha."
+    },
+    {
+        "question": "Smartphones ko latest models kun-kun cha?",
+        "context": "Product: iPhone 15, Price: 165000, Features: A17 Pro Chip, Dynamic Island, 48MP Camera",
+        "response": "Smartphones ma latest models iPhone 15 available cha. Isko price 165000 ho, ra isma A17 Pro chip, Dynamic Island feature, ra 48MP camera cha."
+    },
+    {
+        "question": "Noise cancelling earphones ko price kati ho?",
+        "context": "Product: Sony WF-1000XM4, Price: 36000, Features: Active Noise Cancellation, 8 Hours Battery, Hi-Res Audio",
+        "response": "Noise cancelling earphones ma Sony WF-1000XM4 available cha. Isko price 36000 ho, ra isma active noise cancellation, 8 ghanta battery life, ra Hi-Res audio support cha."
+    },
+    {
+        "question": "Fitness bands ko price sasto ko kati ho?",
+        "context": "Product: Honor Band 7, Price: 3500, Features: AMOLED Display, Sleep Monitoring, 14 Days Battery",
+        "response": "Fitness bands ma sabai bhanda sasto Honor Band 7 ho. Isko price 3500 ho, ra isma AMOLED display, sleep monitoring, ra 14 din ko battery life cha."
+    },
+    {
+        "question": "Wireless earbuds ko kun model popular cha?",
+        "context": "Product: AirPods Pro 2, Price: 45000, Features: Spatial Audio, Active Noise Cancellation, Adaptive Transparency",
+        "response": "Wireless earbuds ma sabai bhanda popular model AirPods Pro 2 ho. Isko price 45000 ho, ra isma spatial audio, active noise cancellation, ra adaptive transparency feature cha."
+    },
+    {
+        "question": "Office ko lagi printers ko kun ramro cha?",
+        "context": "Product: Epson EcoTank L3250, Price: 25000, Features: Ink Tank, Wireless Printing, All-in-One",
+        "response": "Office ko lagi Epson EcoTank L3250 ramro printer ho. Isko price 25000 ho, ra isma ink tank system, wireless printing, ra all-in-one functionality cha."
+    },
+    {
+        "question": "Samsung ko refrigerator available cha?",
+        "context": "Product: Samsung 253L Double Door, Price: 48000, Features: Frost-Free, Digital Inverter, Energy Star 5",
+        "response": "Ho, Samsung 253L Double Door refrigerator available cha. Isko price 48000 ho, ra isma frost-free cooling, digital inverter, ra energy star 5 rating cha."
+    },
+    {
+        "question": "Mechanical keyboards ko price kati ho?",
+        "context": "Product: Keychron K6, Price: 10500, Features: Hot-Swappable Keys, RGB Backlight, Wireless Connectivity",
+        "response": "Mechanical keyboards ma Keychron K6 ko price 10500 ho. Isma hot-swappable keys, RGB backlight, ra wireless connectivity cha."
+    },
+    {
+        "question": "OLED TV ko dam kati ho?",
+        "context": "Product: LG OLED C3, Price: 240000, Features: 55-inch 4K OLED, Dolby Vision, AI Processor",
+        "response": "OLED TV ma LG OLED C3 ko price 240000 ho. Isma 55-inch 4K OLED display, Dolby Vision, ra AI processor cha."
+    },
+    {
+        "question": "Gaming PCs ka budget options dinus.",
+        "context": "Product: HP Pavilion Gaming Desktop, Price: 85000, Features: Ryzen 5 5600G, GTX 1650, 8GB RAM",
+        "response": "Gaming PCs ma HP Pavilion Gaming Desktop budget option ho. Isko price 85000 ho, ra isma Ryzen 5 5600G processor, GTX 1650 graphics card, ra 8GB RAM cha."
+    },
+    {
+        "question": "Power banks ko kun popular cha?",
+        "context": "Product: Mi Power Bank 3i, Price: 1800, Features: 10000mAh Capacity, Dual USB Ports, 18W Fast Charging",
+        "response": "Power banks ma Mi Power Bank 3i sabai bhanda popular cha. Isko price 1800 ho, ra isma 10000mAh capacity, dual USB ports, ra 18W fast charging cha."
+    },
+    {
+        "question": "Home theater systems ko dam kati ho?",
+        "context": "Product: Sony HT-S40R, Price: 45000, Features: 5.1 Surround Sound, 600W Output, Wireless Rear Speakers",
+        "response": "Home theater systems ma Sony HT-S40R available cha. Isko price 45000 ho, ra isma 5.1 surround sound, 600W output, ra wireless rear speakers cha."
+    },
+    {
+        "question": "Tablet for students ko barema bataunus.",
+        "context": "Product: Lenovo Tab P11 Plus, Price: 28000, Features: 11-inch 2K Display, 6GB RAM, 7700mAh Battery",
+        "response": "Students ko lagi Lenovo Tab P11 Plus ramro tablet ho. Isko price 28000 ho, ra isma 11-inch 2K display, 6GB RAM, ra 7700mAh battery cha."
+    },
+    {
+        "question": "Hair dryers ma kun model sasto cha?",
+        "context": "Product: Philips HP8100, Price: 1200, Features: 1000W Power, Compact Design, 2 Speed Settings",
+        "response": "Hair dryers ma sabai bhanda sasto Philips HP8100 ho. Isko price 1200 ho, ra isma 1000W power, compact design, ra 2 speed settings cha."
+    },
+    {
+        "question": "Gaming chairs ma kun ramro ho?",
+        "context": "Product: Green Soul Monster, Price: 18000, Features: Adjustable Armrests, Lumbar Support, Reclining Feature",
+        "response": "Gaming chairs ma Green Soul Monster ramro ho. Isko price 18000 ho, ra isma adjustable armrests, lumbar support, ra reclining feature cha."
+    },
+    {
+        "question": "4K projectors available cha?",
+        "context": "Product: BenQ TK700STi, Price: 145000, Features: 4K HDR, 3000 Lumens, Low Input Lag",
+        "response": "Ho, BenQ TK700STi projector available cha. Isko price 145000 ho, ra isma 4K HDR resolution, 3000 lumens brightness, ra low input lag cha."
+    },
+    {
+        "question": "Health bands ma features k-k hunchha?",
+        "context": "Product: Samsung Galaxy Fit 2, Price: 4500, Features: AMOLED Display, Heart Rate Monitor, Sleep Tracker",
+        "response": "Health bands ma Samsung Galaxy Fit 2 ramro cha. Isko price 4500 ho, ra isma AMOLED display, heart rate monitor, ra sleep tracker cha."
+    },
+    {
+        "question": "Electric scooters ko range kati ho?",
+        "context": "Product: Ola S1, Price: 125000, Features: 121km Range, 2.98kWh Battery, 85km/h Top Speed",
+        "response": "Electric scooters ma Ola S1 available cha. Isko price 125000 ho, ra isma 121km range, 2.98kWh battery, ra 85km/h top speed cha."
+    },
+    {
+        "question": "Air conditioners ma inverter models ko price kati ho?",
+        "context": "Product: Daikin 1.5 Ton Inverter AC, Price: 52000, Features: 5-Star Energy Rating, Copper Coil, PM 2.5 Filter",
+        "response": "Air conditioners ma Daikin 1.5 Ton Inverter AC available cha. Isko price 52000 ho, ra isma 5-star energy rating, copper coil, ra PM 2.5 filter cha."
+    },
+    {
+        "question": "Cordless vacuum cleaners ma options cha?",
+        "context": "Product: Mi Vacuum Cleaner G10, Price: 22000, Features: Cordless, HEPA Filter, 60 Minutes Runtime",
+        "response": "Cordless vacuum cleaners ma Mi Vacuum Cleaner G10 available cha. Isko price 22000 ho, ra isma HEPA filter, cordless design, ra 60 minutes runtime cha."
+    },
+    {
+        "question": "Laptops ma gaming sanga coding garna suitable kun ho?",
+        "context": "Product: MSI GF63 Thin, Price: 98000, Features: Intel i5, GTX 1650, 8GB RAM, 512GB SSD",
+        "response": "Gaming ra coding ko lagi MSI GF63 Thin ramro laptop ho. Isko price 98000 ho, ra isma Intel i5 processor, GTX 1650 GPU, 8GB RAM, ra 512GB SSD cha."
+    },
+    {
+        "question": "Smart TV ma Android ko options cha?",
+        "context": "Product: OnePlus Y1S Pro, Price: 32000, Features: 43-inch 4K Display, Android TV, Dolby Audio",
+        "response": "Android Smart TVs ma OnePlus Y1S Pro available cha. Isko price 32000 ho, ra isma 43-inch 4K display, Android TV support, ra Dolby Audio cha."
+    },
+    {
+        "question": "Mirrorless cameras ko kun ramro cha?",
+        "context": "Product: Canon EOS R10, Price: 95000, Features: 24.2MP, 4K 60fps Video, Dual Pixel Autofocus",
+        "response": "Mirrorless cameras ma Canon EOS R10 ramro option ho. Isko price 95000 ho, ra isma 24.2MP resolution, 4K 60fps video recording, ra dual pixel autofocus cha."
+    },
+    {
+        "question": "Gaming ka accessories available cha?",
+        "context": "Product: Razer DeathAdder V2, Price: 6500, Features: Optical Sensor, 20K DPI, Ergonomic Design",
+        "response": "Gaming accessories ma Razer DeathAdder V2 mouse available cha. Isko price 6500 ho, ra isma optical sensor, 20K DPI, ra ergonomic design cha."
+    },
+    {
+        "question": "Microwave ovens ko dam kati ho?",
+        "context": "Product: IFB 20SC2, Price: 11000, Features: 20L Capacity, Convection, Stainless Steel Cavity",
+        "response": "Microwave ovens ma IFB 20SC2 available cha. Isko price 11000 ho, ra isma 20L capacity, convection technology, ra stainless steel cavity cha."
+    },
+    {
+        "question": "Portable speakers ka options bataunus.",
+        "context": "Product: JBL Flip 6, Price: 11500, Features: Waterproof, 12 Hours Battery, Bluetooth 5.1",
+        "response": "Portable speakers ma JBL Flip 6 available cha. Isko price 11500 ho, ra isma waterproof body, 12 hours battery backup, ra Bluetooth 5.1 cha."
+    },
+    {
+        "question": "Electric geysers ma kun ramro cha?",
+        "context": "Product: AO Smith HSE-SDS, Price: 12500, Features: 25L Capacity, Glass-Lined Tank, 5-Star Rating",
+        "response": "Electric geysers ma AO Smith HSE-SDS ramro cha. Isko price 12500 ho, ra isma 25L capacity, glass-lined tank, ra 5-star energy rating cha."
+    },
+    {
+        "question": "Headphones ma noise cancellation chahiyo, kun better cha?",
+        "context": "Product: Bose 700, Price: 38000, Features: Active Noise Cancellation, 20 Hours Battery, Voice Assistant",
+        "response": "Noise cancellation headphones ma Bose 700 ramro cha. Isko price 38000 ho, ra isma active noise cancellation, 20 ghanta battery life, ra voice assistant support cha."
+    },
+    {
+        "question": "Wireless gaming keyboards available cha?",
+        "context": "Product: Corsair K63 Wireless, Price: 11500, Features: Mechanical Keys, Backlight, 15 Hours Battery",
+        "response": "Wireless gaming keyboards ma Corsair K63 Wireless available cha. Isko price 11500 ho, ra isma mechanical keys, backlight, ra 15 ghanta battery life cha."
+    },
+    {
+        "question": "Refrigerators ma inverter models chahiyo.",
+        "context": "Product: LG 260L Inverter, Price: 35000, Features: Frost-Free, Smart Inverter, Convertible Freezer",
+        "response": "Refrigerators ma LG 260L Inverter model available cha. Isko price 35000 ho, ra isma frost-free technology, smart inverter, ra convertible freezer cha."
+    },
+    {
+        "question": "Home security cameras ma kun ramro cha?",
+        "context": "Product: Mi 360° Home Security Camera, Price: 3500, Features: Full HD, Night Vision, Motion Detection",
+        "response": "Home security cameras ma Mi 360° Home Security Camera ramro cha. Isko price 3500 ho, ra isma Full HD video, night vision, ra motion detection cha."
+    },
+    {
+        "question": "Soundbars ka kun models cha?",
+        "context": "Product: Sony HT-G700, Price: 43000, Features: Dolby Atmos, Wireless Subwoofer, 400W Output",
+        "response": "Soundbars ma Sony HT-G700 available cha. Isko price 43000 ho, ra isma Dolby Atmos, wireless subwoofer, ra 400W output cha."
+    },
+    {
+        "question": "Office chair ka dam kati cha?",
+        "context": "Product: Featherlite Liberate, Price: 12000, Features: Adjustable Lumbar Support, Mesh Back, Ergonomic Design",
+        "response": "Office chair ma Featherlite Liberate ko price 12000 ho. Isma adjustable lumbar support, mesh back, ra ergonomic design cha."
+    },
+    {
+        "question": "Smartwatches ma calling feature chahiyo.",
+        "context": "Product: Amazfit GTR 4, Price: 18500, Features: AMOLED Display, Bluetooth Calling, 14 Days Battery",
+        "response": "Smartwatches ma Amazfit GTR 4 calling feature sanga available cha. Isko price 18500 ho, ra isma AMOLED display, Bluetooth calling, ra 14 din ko battery life cha."
+    },
+    {
+        "question": "Gaming monitors ko kun ramro ho?",
+        "context": "Product: ASUS TUF Gaming VG27AQ, Price: 48000, Features: 27-inch QHD, 165Hz Refresh Rate, G-Sync",
+        "response": "Gaming monitors ma ASUS TUF Gaming VG27AQ ramro ho. Isko price 48000 ho, ra isma 27-inch QHD display, 165Hz refresh rate, ra G-Sync support cha."
+    },
+    {
+        "question": "Dishwashers ma budget options cha?",
+        "context": "Product: Voltas Beko DT8S, Price: 24000, Features: 8 Place Settings, Eco Wash, Compact Design",
+        "response": "Dishwashers ma Voltas Beko DT8S budget option ho. Isko price 24000 ho, ra isma 8 place settings, eco wash, ra compact design cha."
+    },
+    {
+        "question": "Tablets ma sasto kun cha?",
+        "context": "Product: Realme Pad Mini, Price: 14000, Features: 8.7-inch Display, 6400mAh Battery, Android 12",
+        "response": "Tablets ma Realme Pad Mini sasto cha. Isko price 14000 ho, ra isma 8.7-inch display, 6400mAh battery, ra Android 12 cha."
+    },
+    {
+        "question": "Smart bulbs ma kun ramro cha?",
+        "context": "Product: Philips Hue White, Price: 2500, Features: App Control, Dimmable, Alexa Compatible",
+        "response": "Smart bulbs ma Philips Hue White ramro cha. Isko price 2500 ho, ra isma app control, dimmable settings, ra Alexa compatibility cha."
+    },
+    {
+        "question": "Electric shavers ka kun model available cha?",
+        "context": "Product: Philips AquaTouch S5420, Price: 7500, Features: Wet & Dry, Skin Protection, Rechargeable Battery",
+        "response": "Electric shavers ma Philips AquaTouch S5420 available cha. Isko price 7500 ho, ra isma wet & dry functionality, skin protection, ra rechargeable battery cha."
+    },
+    {
+        "question": "Electric tandoors ka dam kati cha?",
+        "context": "Product: Bajaj Majesty 1603 T, Price: 4500, Features: 16L Capacity, 1200W Power, Stainless Steel Body",
+        "response": "Electric tandoors ma Bajaj Majesty 1603 T ko price 4500 ho. Isma 16L capacity, 1200W power, ra stainless steel body cha."
+    },
+    {
+        "question": "Wireless chargers ka kun ramro cha?",
+        "context": "Product: Belkin BoostCharge, Price: 4500, Features: 15W Fast Charging, Universal Compatibility, Compact Design",
+        "response": "Wireless chargers ma Belkin BoostCharge ramro cha. Isko price 4500 ho, ra isma 15W fast charging, universal compatibility, ra compact design cha."
+    },
+    {
+        "question": "Laptop ma battery backup kati ho?",
+        "context": "Product: Acer Aspire 5, Price: 58000, Features: Intel i5, 512GB SSD, 8GB RAM, 11 Hours Battery",
+        "response": "Laptop ma Acer Aspire 5 ko battery backup 11 ghanta cha. Isko price 58000 ho, ra isma Intel i5 processor, 512GB SSD, ra 8GB RAM cha."
+    },
+    {
+        "question": "Wireless routers ma kun fast hai?",
+        "context": "Product: TP-Link Archer AX73, Price: 9000, Features: Wi-Fi 6, 5400 Mbps Speed, 4 Gigabit Ports",
+        "response": "Wireless routers ma TP-Link Archer AX73 fast cha. Isko price 9000 ho, ra isma Wi-Fi 6 support, 5400 Mbps speed, ra 4 gigabit ports cha."
+    },
+    {
+        "question": "Bluetooth speakers ma waterproof kun cha?",
+        "context": "Product: JBL Charge 5, Price: 17000, Features: Waterproof, 20 Hours Playtime, Bass Radiators",
+        "response": "Bluetooth speakers ma JBL Charge 5 waterproof cha. Isko price 17000 ho, ra isma 20 hours playtime, ra bass radiators cha."
+    },
+    {
+        "question": "Printer ka kun model wifi sanga cha?",
+        "context": "Product: HP DeskJet 2331, Price: 5000, Features: Wireless Printing, 7.5ppm Speed, Compact",
+        "response": "Printer ma HP DeskJet 2331 wifi sanga available cha. Isko price 5000 ho, ra isma wireless printing, 7.5ppm speed, ra compact design cha."
+    },
+    {
+        "question": "Pressure cookers ko kun model sasto cha?",
+        "context": "Product: Prestige Deluxe, Price: 2500, Features: 3L Capacity, Pressure Indicator, Stainless Steel",
+        "response": "Pressure cookers ma Prestige Deluxe model sasto cha. Isko price 2500 ho, ra isma 3L capacity, pressure indicator, ra stainless steel body cha."
+    },
+    {
+        "question": "Tablet ma gaming garna kun ramro cha?",
+        "context": "Product: Samsung Galaxy Tab S6 Lite, Price: 25000, Features: 10.4-inch Display, 64GB Storage, S Pen",
+        "response": "Gaming ko lagi Samsung Galaxy Tab S6 Lite ramro cha. Isko price 25000 ho, ra isma 10.4-inch display, 64GB storage, ra S Pen support cha."
+    },
+    {
+        "question": "Smartphones ma budget option kun cha?",
+        "context": "Product: Realme Narzo 50A, Price: 13999, Features: 6.5-inch Display, 50MP Camera, 6000mAh Battery",
+        "response": "Smartphones ma budget option Realme Narzo 50A cha. Isko price 13999 ho, ra isma 6.5-inch display, 50MP camera, ra 6000mAh battery cha."
+    },
+    {
+        "question": "Camera ko kun lens best cha?",
+        "context": "Product: Canon EF 50mm f/1.8 STM, Price: 14000, Features: Fast Auto-Focus, Portrait Shots, Lightweight",
+        "response": "Camera lens ma Canon EF 50mm f/1.8 STM best ho. Isko price 14000 ho, ra isma fast auto-focus, portrait shots, ra lightweight design cha."
+    },
+    {
+        "question": "Washing machines ko sasto model kun cha?",
+        "context": "Product: Samsung WA65A4002VS, Price: 18000, Features: 6.5kg Capacity, EcoTub, Diamond Drum",
+        "response": "Washing machines ma Samsung WA65A4002VS sasto model cha. Isko price 18000 ho, ra isma 6.5kg capacity, EcoTub, ra diamond drum cha."
+    },
+    {
+        "question": "Electric fans ma kun power-efficient cha?",
+        "context": "Product: Orient Electric 1200mm, Price: 2500, Features: 3 Speed Settings, Energy Efficient, High Air Delivery",
+        "response": "Electric fans ma Orient Electric 1200mm power-efficient cha. Isko price 2500 ho, ra isma 3 speed settings, energy-efficient motor, ra high air delivery cha."
+    },
+    {
+        "question": "Digital cameras ma wifi ko support cha?",
+        "context": "Product: Nikon D3500, Price: 42000, Features: 24.2MP, 1080p Video, Bluetooth & Wi-Fi",
+        "response": "Digital cameras ma Nikon D3500 wifi support sanga cha. Isko price 42000 ho, ra isma 24.2MP resolution, 1080p video recording, ra Bluetooth & Wi-Fi support cha."
+    },
+    {
+        "question": "Car chargers ka kun models fast charging sanga cha?",
+        "context": "Product: Anker PowerDrive PD, Price: 2000, Features: 30W Fast Charging, Dual USB Ports, Compact Design",
+        "response": "Car chargers ma Anker PowerDrive PD fast charging sanga available cha. Isko price 2000 ho, ra isma 30W fast charging, dual USB ports, ra compact design cha."
+    },
+    {
+        "question": "Hair straighteners ko kun model best cha?",
+        "context": "Product: Philips HP8302, Price: 2300, Features: Ceramic Plates, 210°C Temperature, 60 Seconds Heating",
+        "response": "Hair straighteners ma Philips HP8302 best model ho. Isko price 2300 ho, ra isma ceramic plates, 210°C temperature, ra 60 seconds heating time cha."
+    },
+    {
+        "question": "Electric kettles ma kun fast boil garne cha?",
+        "context": "Product: Pigeon Electric Kettle, Price: 1500, Features: 1.5L Capacity, Auto Shut-Off, Stainless Steel",
+        "response": "Electric kettles ma Pigeon Electric Kettle fast boil garne cha. Isko price 1500 ho, ra isma 1.5L capacity, auto shut-off feature, ra stainless steel body cha."
+    },
+    {
+        "question": "Microwave ovens ma grill function cha?",
+        "context": "Product: Samsung MG23K3575AK, Price: 12000, Features: 23L Capacity, Grill Function, Ceramic Enamel",
+        "response": "Microwave ovens ma Samsung MG23K3575AK grill function sanga cha. Isko price 12000 ho, ra isma 23L capacity, grill function, ra ceramic enamel cavity cha."
+    },
+    {
+        "question": "Smartphones ko screen protector kun brand ramro cha?",
+        "context": "Product: Spigen Tempered Glass, Price: 600, Features: High Durability, Scratch Resistant, Bubble-Free",
+        "response": "Smartphones ko screen protector ma Spigen Tempered Glass ramro cha. Isko price 600 ho, ra isma high durability, scratch resistance, ra bubble-free installation cha."
+    },
+    {
+        "question": "Laptops ko accessories available cha?",
+        "context": "Product: Logitech M330 Silent Mouse, Price: 1500, Features: Silent Click, Ergonomic Design, 2.4GHz Wireless",
+        "response": "Laptops ko accessories ma Logitech M330 Silent Mouse available cha. Isko price 1500 ho, ra isma silent click, ergonomic design, ra 2.4GHz wireless connectivity cha."
+    },
+    {
+        "question": "Home appliances ma kun latest models cha?",
+        "context": "Product: Dyson V11 Absolute, Price: 55000, Features: Cord-Free, 60 Minutes Runtime, High Suction Power",
+        "response": "Home appliances ma Dyson V11 Absolute latest model cha. Isko price 55000 ho, ra isma cord-free design, 60 minutes runtime, ra high suction power cha."
+    },
+    {
+        "question": "Bluetooth headphones ma bass kati strong cha?",
+        "context": "Product: Sony WH-XB900N, Price: 12000, Features: Extra Bass, Noise Cancelling, 30 Hours Battery",
+        "response": "Bluetooth headphones ma Sony WH-XB900N ko bass extra strong cha. Isko price 12000 ho, ra isma noise cancelling feature, extra bass, ra 30 hours battery life cha."
+    },
+    {
+        "question": "Laptop gaming ko lagi kun ramro cha?",
+        "context": "Product: Dell G15 5520, Price: 85000, Features: Intel i7, RTX 3050, 16GB RAM, 512GB SSD",
+        "response": "Gaming ko lagi Dell G15 5520 ramro laptop ho. Isko price 85000 ho, ra isma Intel i7 processor, RTX 3050 graphics card, 16GB RAM, ra 512GB SSD cha."
+    },
+    {
+        "question": "Smartwatch fitness tracking ko lagi kun thik cha?",
+        "context": "Product: Fitbit Versa 3, Price: 24000, Features: GPS, Heart Rate Monitor, Sleep Tracking",
+        "response": "Fitness tracking ko lagi Fitbit Versa 3 ramro smartwatch ho. Isko price 24000 ho, ra isma GPS, heart rate monitor, ra sleep tracking feature cha."
+    },
+    {
+        "question": "TV ko display quality kasto cha?",
+        "context": "Product: Samsung Crystal UHD AU8000, Price: 75000, Features: 55-inch 4K, HDR10+, Crystal Processor 4K",
+        "response": "Samsung Crystal UHD AU8000 ko display quality dherai ramro cha. Isko price 75000 ho, ra isma 55-inch 4K screen, HDR10+ support, ra Crystal Processor 4K cha."
+    },
+    {
+        "question": "Printer sasto ho?",
+        "context": "Product: Canon Pixma MG2577S, Price: 4500, Features: Inkjet, Color Printing, Compact Design",
+        "response": "Sasto printer ma Canon Pixma MG2577S available cha. Isko price 4500 ho, ra isma inkjet technology, color printing, ra compact design cha."
+    },
+    {
+        "question": "Wireless earbuds ma kun ramro bass dincha?",
+        "context": "Product: OnePlus Buds Pro, Price: 11000, Features: Active Noise Cancellation, BassBoost, 38 Hours Playback",
+        "response": "Wireless earbuds ma OnePlus Buds Pro bass ka lagi ramro cha. Isko price 11000 ho, ra isma active noise cancellation, BassBoost feature, ra 38 ghanta playback time cha."
+    },
+    {
+        "question": "Refrigerator ko energy consumption kasto cha?",
+        "context": "Product: Whirlpool 265L Double Door, Price: 33000, Features: Frost-Free, 5-Star Rating, Convertible Freezer",
+        "response": "Whirlpool 265L Double Door refrigerator energy-efficient cha. Isko price 33000 ho, ra isma frost-free technology, 5-star energy rating, ra convertible freezer cha."
+    },
+    {
+        "question": "Hair dryers ka sasto options cha?",
+        "context": "Product: Havells HD3151, Price: 1700, Features: 1600W Power, Heat Protection, Foldable Design",
+        "response": "Hair dryers ma Havells HD3151 sasto option ho. Isko price 1700 ho, ra isma 1600W power, heat protection, ra foldable design cha."
+    },
+    {
+        "question": "Power banks ma capacity kasto ho?",
+        "context": "Product: Mi Power Bank 3i, Price: 1800, Features: 10000mAh, Dual USB Ports, 18W Fast Charging",
+        "response": "Mi Power Bank 3i ko capacity 10000mAh cha. Isko price 1800 ho, ra isma dual USB ports ra 18W fast charging support cha."
+    },
+    {
+        "question": "CCTV cameras outdoor ma kun ramro cha?",
+        "context": "Product: Hikvision DS-2CE1AD0T, Price: 3500, Features: 1080p, Night Vision, Weatherproof",
+        "response": "Outdoor CCTV cameras ma Hikvision DS-2CE1AD0T ramro cha. Isko price 3500 ho, ra isma 1080p video, night vision, ra weatherproof design cha."
+    },
+    {
+        "question": "Smartphone ko RAM kati ho?",
+        "context": "Product: Xiaomi Redmi Note 12, Price: 22000, Features: 6GB RAM, 128GB Storage, 5000mAh Battery",
+        "response": "Xiaomi Redmi Note 12 ma 6GB RAM cha. Isko price 22000 ho, ra isma 128GB storage ra 5000mAh battery cha."
+    },
+    {
+        "question": "Electric scooters ma mileage kati ho?",
+        "context": "Product: Ola S1 Air, Price: 85000, Features: 100km Range, 7-inch Touchscreen, 3 Riding Modes",
+        "response": "Electric scooters ma Ola S1 Air ko mileage 100km per charge ho. Isko price 85000 ho, ra isma 7-inch touchscreen ra 3 riding modes cha."
+    },
+    {
+        "question": "Smart locks ko price kati ho?",
+        "context": "Product: Godrej Advantis, Price: 15000, Features: Fingerprint Access, RFID Card, Auto-Locking",
+        "response": "Smart locks ma Godrej Advantis ko price 15000 ho. Isma fingerprint access, RFID card support, ra auto-locking feature cha."
+    },
+    {
+        "question": "Coffee machines ma latte banaucha?",
+        "context": "Product: DeLonghi Magnifica S, Price: 58000, Features: Espresso & Latte, Automatic Frother, 1.8L Water Tank",
+        "response": "Coffee machines ma DeLonghi Magnifica S latte banaucha. Isko price 58000 ho, ra isma espresso, automatic frother, ra 1.8L water tank cha."
+    },
+    {
+        "question": "Smartphones ma fast charging support cha?",
+        "context": "Product: Realme GT Neo 3, Price: 44000, Features: 150W Fast Charging, 12GB RAM, 256GB Storage",
+        "response": "Smartphones ma Realme GT Neo 3 fast charging support sanga available cha. Isko price 44000 ho, ra isma 150W fast charging, 12GB RAM, ra 256GB storage cha."
+    },
+    {
+        "question": "Gaming headphones ma kun best cha?",
+        "context": "Product: HyperX Cloud II, Price: 9000, Features: 7.1 Surround Sound, Noise Cancelling Mic, Memory Foam",
+        "response": "Gaming headphones ma HyperX Cloud II best option ho. Isko price 9000 ho, ra isma 7.1 surround sound, noise cancelling mic, ra memory foam cha."
+    },
+    {
+        "question": "Heaters ma automatic shut-off cha?",
+        "context": "Product: Bajaj Flashy Heater, Price: 1200, Features: 1KW Power, Automatic Shut-Off, Durable Coil",
+        "response": "Heaters ma Bajaj Flashy automatic shut-off sanga available cha. Isko price 1200 ho, ra isma 1KW power ra durable coil cha."
+    },
+    {
+        "question": "AC ma inverter technology ko kun ramro cha?",
+        "context": "Product: LG Dual Inverter AC, Price: 48000, Features: 1.5 Ton, Wi-Fi Control, 5-Star Energy Rating",
+        "response": "Inverter AC ma LG Dual Inverter ramro cha. Isko price 48000 ho, ra isma 1.5 ton capacity, Wi-Fi control, ra 5-star energy rating cha."
+    },
+    {
+        "question": "Drone cameras ma battery life kati ho?",
+        "context": "Product: DJI Mini 2, Price: 90000, Features: 4K Video, 31 Minutes Flight Time, GPS",
+        "response": "Drone cameras ma DJI Mini 2 ko battery life 31 minutes cha. Isko price 90000 ho, ra isma 4K video recording ra GPS support cha."
+    },
+    {
+        "question": "Kitchen appliances sasto cha?",
+        "context": "Product: Prestige Induction Cooktop, Price: 2200, Features: 1200W Power, Touch Controls, Compact",
+        "response": "Sasto kitchen appliances ma Prestige Induction Cooktop available cha. Isko price 2200 ho, ra isma 1200W power, touch controls, ra compact design cha."
+    },
+    {
+        "question": "Gaming consoles ko kun latest ho?",
+        "context": "Product: Sony PlayStation 5, Price: 65000, Features: 4K Gaming, 825GB SSD, DualSense Controller",
+        "response": "Gaming consoles ma Sony PlayStation 5 latest cha. Isko price 65000 ho, ra isma 4K gaming, 825GB SSD, ra DualSense controller cha."
+    },
+    {
+        "question": "Laptop gaming ko lagi kun ramro cha?",
+        "context": "Product: Dell G15 5520, Price: 85000, Features: Intel i7, RTX 3050, 16GB RAM, 512GB SSD",
+        "response": "Dell G15 5520 gaming ko lagi ramro ho. Price 85000 ho."
+    },
+    {
+        "question": "Smartwatch fitness tracking ko lagi kun thik cha?",
+        "context": "Product: Fitbit Versa 3, Price: 24000, Features: GPS, Heart Rate Monitor, Sleep Tracking",
+        "response": "Fitbit Versa 3 fitness tracking ko lagi thik cha. Price 24000 ho."
+    },
+    {
+        "question": "TV ko display quality kasto cha?",
+        "context": "Product: Samsung Crystal UHD AU8000, Price: 75000, Features: 55-inch 4K, HDR10+, Crystal Processor 4K",
+        "response": "Samsung Crystal UHD AU8000 ko display quality ramro cha. Price 75000 ho."
+    },
+    {
+        "question": "Printer sasto ho?",
+        "context": "Product: Canon Pixma MG2577S, Price: 4500, Features: Inkjet, Color Printing, Compact Design",
+        "response": "Canon Pixma MG2577S sasto printer ho. Price 4500 ho."
+    },
+    {
+        "question": "Wireless earbuds ma kun ramro bass dincha?",
+        "context": "Product: OnePlus Buds Pro, Price: 11000, Features: Active Noise Cancellation, BassBoost, 38 Hours Playback",
+        "response": "OnePlus Buds Pro bass ko lagi ramro cha. Price 11000 ho."
+    },
+    {
+        "question": "Refrigerator ko energy consumption kasto cha?",
+        "context": "Product: Whirlpool 265L Double Door, Price: 33000, Features: Frost-Free, 5-Star Rating, Convertible Freezer",
+        "response": "Whirlpool 265L Double Door energy-efficient cha. Price 33000 ho."
+    },
+    {
+        "question": "Hair dryers ka sasto options cha?",
+        "context": "Product: Havells HD3151, Price: 1700, Features: 1600W Power, Heat Protection, Foldable Design",
+        "response": "Havells HD3151 sasto option ho. Price 1700 ho."
+    },
+    {
+        "question": "Power banks ma capacity kasto ho?",
+        "context": "Product: Mi Power Bank 3i, Price: 1800, Features: 10000mAh, Dual USB Ports, 18W Fast Charging",
+        "response": "Mi Power Bank 3i ko capacity 10000mAh cha. Price 1800 ho."
+    },
+    {
+        "question": "CCTV cameras outdoor ma kun ramro cha?",
+        "context": "Product: Hikvision DS-2CE1AD0T, Price: 3500, Features: 1080p, Night Vision, Weatherproof",
+        "response": "Hikvision DS-2CE1AD0T outdoor ko lagi ramro cha. Price 3500 ho."
+    },
+    {
+        "question": "Smartphone ko RAM kati ho?",
+        "context": "Product: Xiaomi Redmi Note 12, Price: 22000, Features: 6GB RAM, 128GB Storage, 5000mAh Battery",
+        "response": "Xiaomi Redmi Note 12 ma 6GB RAM cha. Price 22000 ho."
+    },
+    {
+        "question": "Electric scooters ma mileage kati ho?",
+        "context": "Product: Ola S1 Air, Price: 85000, Features: 100km Range, 7-inch Touchscreen, 3 Riding Modes",
+        "response": "Ola S1 Air ko mileage 100km cha. Price 85000 ho."
+    },
+    {
+        "question": "Smart locks ko price kati ho?",
+        "context": "Product: Godrej Advantis, Price: 15000, Features: Fingerprint Access, RFID Card, Auto-Locking",
+        "response": "Godrej Advantis ko price 15000 ho."
+    },
+    {
+        "question": "Coffee machines ma latte banaucha?",
+        "context": "Product: DeLonghi Magnifica S, Price: 58000, Features: Espresso & Latte, Automatic Frother, 1.8L Water Tank",
+        "response": "DeLonghi Magnifica S latte banaucha. Price 58000 ho."
+    },
+    {
+        "question": "Smartphones ma fast charging support cha?",
+        "context": "Product: Realme GT Neo 3, Price: 44000, Features: 150W Fast Charging, 12GB RAM, 256GB Storage",
+        "response": "Realme GT Neo 3 ma fast charging support cha. Price 44000 ho."
+    },
+    {
+        "question": "Gaming headphones ma kun best cha?",
+        "context": "Product: HyperX Cloud II, Price: 9000, Features: 7.1 Surround Sound, Noise Cancelling Mic, Memory Foam",
+        "response": "HyperX Cloud II gaming ko lagi best cha. Price 9000 ho."
+    },
+    {
+        "question": "Heaters ma automatic shut-off cha?",
+        "context": "Product: Bajaj Flashy Heater, Price: 1200, Features: 1KW Power, Automatic Shut-Off, Durable Coil",
+        "response": "Bajaj Flashy heater ma automatic shut-off cha. Price 1200 ho."
+    },
+    {
+        "question": "AC ma inverter technology ko kun ramro cha?",
+        "context": "Product: LG Dual Inverter AC, Price: 48000, Features: 1.5 Ton, Wi-Fi Control, 5-Star Energy Rating",
+        "response": "LG Dual Inverter AC ramro cha. Price 48000 ho."
+    },
+    {
+        "question": "Drone cameras ma battery life kati ho?",
+        "context": "Product: DJI Mini 2, Price: 90000, Features: 4K Video, 31 Minutes Flight Time, GPS",
+        "response": "DJI Mini 2 ko battery life 31 minutes cha. Price 90000 ho."
+    },
+    {
+        "question": "Kitchen appliances sasto cha?",
+        "context": "Product: Prestige Induction Cooktop, Price: 2200, Features: 1200W Power, Touch Controls, Compact",
+        "response": "Prestige Induction Cooktop sasto cha. Price 2200 ho."
+    },
+    {
+        "question": "Gaming consoles ko kun latest ho?",
+        "context": "Product: Sony PlayStation 5, Price: 65000, Features: 4K Gaming, 825GB SSD, DualSense Controller",
+        "response": "Sony PlayStation 5 latest gaming console ho. Price 65000 ho."
+    },
+    {
+        "question": "Online payment ma additional charge lagcha?",
+        "response": "Kahi payment gateways ma additional charge lagna sakcha, tara dherai options ma free huncha."
+    },
+    {
+        "context": "Hamro store ma online payment, cash on delivery, credit card, debit card, ra mobile banking le payment garna milcha.",
+        "question": "Payment kasari garna milcha?",
+        "response": "Tapai online payment, cash on delivery, ra mobile banking ko options use garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma online payment, credit card, debit card, ra mobile wallet ko options available cha.",
+        "question": "Credit card bata payment garna milcha?",
+        "response": "Ho, tapai credit card le payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma cash on delivery, online payment, ra QR code scan garera payment garna milcha.",
+        "question": "Cash on delivery ko option cha?",
+        "response": "Ho, cash on delivery ko option available cha. Tapai saman delivery bhayepachi payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma e-sewa, Khalti, ra aru mobile banking apps ko support cha.",
+        "question": "Mobile banking le payment garna milcha?",
+        "response": "Ho, tapai e-sewa, Khalti, ra aru mobile banking apps bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro online payment system ma secure gateway use garincha.",
+        "question": "Online payment secure cha ki hoina?",
+        "response": "Hamro online payment system secure cha, sabai transactions encrypted huncha."
+    },
+    {
+        "context": "Hamro store ma EMI options pani available cha, aba apno budget anusaar payment garna saknuhuncha.",
+        "question": "EMI ma payment garna milcha?",
+        "response": "Ho, EMI ko option available cha, tarika bare jankari ko lagi customer support ma samparka garnuhos."
+    },
+    {
+        "context": "Hamro store ma refund ko lagi policy cha, jun user-friendly cha.",
+        "question": "Refund kasari paune ho online payment ma?",
+        "response": "Online payment refund kasari garne bare hamro policy ma sabai details cha. Tapai customer support lai samparka garera aru jankari pauna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma QR code ko option cha, jaha tapai asani sanga scan garera payment garna saknuhuncha.",
+        "question": "QR code scan garera payment garna milcha?",
+        "response": "Ho, hamro QR code scan garera payment garna milne suvidha cha."
+    },
+    {
+        "context": "Hamro store ma international credit card ko payment support garincha.",
+        "question": "International card le payment garna milcha?",
+        "response": "Ho, international card le payment garna saknuhuncha, tarika bare detail hamro website ma cha."
+    },
+    {
+        "context": "Hamro store ma sabai payment methods ma transparent pricing huncha, tara kati gateways ma extra charges lagna sakcha.",
+        "question": "Online payment ma additional charge lagcha?",
+        "response": "Kahi payment gateways ma additional charge lagna sakcha, tara dherai options ma free huncha."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, cash on delivery, ra credit card bata payment garna milcha.",
+        "question": "eSewa bata payment garna milcha?",
+        "response": "Ho, tapai eSewa ko madhyam bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma Khalti, eSewa, ra mobile banking bata payment support cha.",
+        "question": "Khalti use garera payment garna milcha?",
+        "response": "Ho, tapai Khalti app ko madhyam bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma mobile banking, credit card, ra debit card bata payment support garincha.",
+        "question": "Mobile banking le payment garna milcha?",
+        "response": "Ho, tapai mobile banking apps bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, cash on delivery, ra QR code scan garera payment garna milcha.",
+        "question": "QR code scan garera payment garna milcha?",
+        "response": "Ho, tapai QR code scan garera asani sanga payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma cash on delivery, eSewa, Khalti, ra mobile banking le payment garna milcha.",
+        "question": "Cash on delivery ko option cha?",
+        "response": "Ho, cash on delivery ko option available cha. Tapai saman delivery bhayepachi payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, mobile banking, ra card payment ko options cha.",
+        "question": "Online payment secure cha ki hoina?",
+        "response": "Hamro online payment system secure cha, sabai transactions encrypted huncha."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, mobile banking, ra international card ko support cha.",
+        "question": "International card le payment garna milcha?",
+        "response": "Ho, international card ko madhyam bata payment garna milcha."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, ra mobile banking apps bata payment garna milcha.",
+        "question": "Refund kasari paune ho online payment ma?",
+        "response": "Refund kasari garne bare jankari ko lagi tapai hamro policy padhna saknuhuncha athawa customer support sanga samparka garnuhos."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, ra mobile banking ko madad le payment garna milcha.",
+        "question": "Payment kasari garne?",
+        "response": "Tapai eSewa, Khalti, ra mobile banking apps bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma cash on delivery, eSewa, Khalti, ra card payment ko options cha.",
+        "question": "Khalti use garna k garne?",
+        "response": "Tapai Khalti app ma login garera hamro store ko payment option select garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, mobile banking, ra cash on delivery bata payment garna milcha.",
+        "question": "Store ma kun-kun payment methods available cha?",
+        "response": "Hamro store ma eSewa, Khalti, mobile banking, ra cash on delivery bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma credit card, debit card, eSewa, ra Khalti ko options available cha.",
+        "question": "Payment methods ko barema jankari dinus na.",
+        "response": "Tapai credit card, debit card, eSewa, ra Khalti bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma online payment, QR code, eSewa, ra Khalti bata payment garna milcha.",
+        "question": "Kun kun tarika le payment garna milcha?",
+        "response": "Tapai online payment, QR code, eSewa, ra Khalti bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, cash on delivery, ra mobile banking apps le payment garna milcha.",
+        "question": "Sabaibhanda asan payment method kun ho?",
+        "response": "Tapai eSewa ra Khalti le sabai bhanda asani sanga payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, credit card, debit card, ra QR code scan garera payment garna milcha.",
+        "question": "Kun payment options available cha?",
+        "response": "Hamro store ma eSewa, Khalti, credit card, debit card, ra QR code ko options cha."
+    },
+    {
+        "context": "Hamro store ma cash on delivery, eSewa, Khalti, ra mobile banking apps bata payment garna milcha.",
+        "question": "Store ma kasari payment garna milcha?",
+        "response": "Tapai cash on delivery, eSewa, Khalti, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma sabai tarikale payment garna milcha jasle convenience dincha.",
+        "question": "Payment method ko options ke cha?",
+        "response": "Tapai eSewa, Khalti, mobile banking, ra cash on delivery use garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma mobile wallet, QR code, ra card payment ko suvidha cha.",
+        "question": "Kun kun payment tarika available cha?",
+        "response": "Hamro store ma mobile wallet, QR code, ra card payment ko options available cha."
+    },
+    {
+        "context": "Hamro store ma cash on delivery, eSewa, ra Khalti ko options available cha.",
+        "question": "Kun kun tarikale saman ko payment garna milcha?",
+        "response": "Tapai cash on delivery, eSewa, ra Khalti ko madhyam bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma eSewa, Khalti, credit card, ra QR code le payment garna milcha.",
+        "question": "Tapaiharu ko payment system kasari cha?",
+        "response": "Hamro store ma eSewa, Khalti, credit card, ra QR code bata payment garna milne suvidha cha."
+    },
+    {
+        "context": "Hamro store ma fast delivery service cha, jaha saman 24 ghantabhitra pahuchincha. Store le eSewa, Khalti, cash on delivery, ra credit card payment support garchha. Customer service pani 24/7 available cha.",
+        "question": "Kun kun payment methods available cha?",
+        "response": "Hamro store ma eSewa, Khalti, cash on delivery, ra credit card ko payment options cha."
+    },
+    {
+        "context": "Hamro online platform bata electronics, clothing, ra groceries order garna milcha. Payment ko lagi eSewa, Khalti, mobile banking, ra QR code scan garera payment garna milcha. Return policy 7 din ko cha.",
+        "question": "Payment garne tarika ke ke cha?",
+        "response": "Tapai eSewa, Khalti, mobile banking, ra QR code scan garera payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma seasonal discounts chalirako cha, jahaan electronics saman ma up to 50% off cha. Payment ko lagi tapai eSewa, Khalti, debit card, ra cash on delivery ko options cha. Hamro loyalty program pani cha jaha points earn garna milcha.",
+        "question": "Kun payment methods support garchha?",
+        "response": "Hamro store ma eSewa, Khalti, debit card, ra cash on delivery ko options support garchha."
+    },
+    {
+        "context": "Hamro store le sustainable packaging use garcha. Free shipping service order amount Rs. 1000 bhandaa mathi ko lagi available cha. Payment ko lagi tapai Khalti, eSewa, ra credit card bata payment garna saknuhuncha.",
+        "question": "Tapaiharu payment ko lagi ke ke options dinuhuncha?",
+        "response": "Hamro store ma Khalti, eSewa, ra credit card bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro online store ma user-friendly interface cha, jaha filtering options le tapai ko search asan banaucha. Payment ko lagi mobile banking, cash on delivery, eSewa, ra QR code scan garera options available cha.",
+        "question": "Kasari payment garna milcha?",
+        "response": "Tapai mobile banking, cash on delivery, eSewa, ra QR code scan garera payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro customer support highly rated cha, jaha instant response garincha. Hamro store le payment ko lagi debit card, credit card, eSewa, Khalti, ra cash on delivery options provide garcha. Free exchange policy pani cha defective items ko lagi.",
+        "question": "Payment methods ke ke cha?",
+        "response": "Hamro store ma debit card, credit card, eSewa, Khalti, ra cash on delivery options cha."
+    },
+    {
+        "context": "Hamro store ma fast checkout system cha, jaha customers le orders asani sanga complete garna saknuhuncha. Payment options ma eSewa, Khalti, cash on delivery, ra QR code scan garera payment garna milcha.",
+        "question": "Payment ko lagi ke ke suvidha cha?",
+        "response": "Tapai eSewa, Khalti, cash on delivery, ra QR code scan garera payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store le bulk orders ko lagi special discounts dincha. Hamro platform ma secure payment gateway use garincha. Payment ko lagi Khalti, eSewa, credit card, ra mobile banking ko options available cha.",
+        "question": "Kun kun tarika le payment garna milcha?",
+        "response": "Tapai Khalti, eSewa, credit card, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma eco-friendly delivery vehicles use garincha. Payment options include cash on delivery, mobile banking, QR code, ra debit card. Delivery cost Rs. 50 matra lagcha for orders below Rs. 500.",
+        "question": "Payment kasari garna milcha?",
+        "response": "Tapai cash on delivery, mobile banking, QR code, ra debit card bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform user reviews ko adhar ma top-rated products recommend garcha. Payment ko lagi eSewa, Khalti, mobile banking, ra QR code scan garera options available cha. Hamro delivery tracking system pani cha.",
+        "question": "Store ma kun payment options available cha?",
+        "response": "Hamro store ma eSewa, Khalti, mobile banking, ra QR code scan garera payment garna milcha."
+    },
+    {
+        "context": "Hamro store le organic products ko wide range offer garcha. Fast delivery options available cha, aba saman chito delivery huncha. Payment ko lagi Khalti, eSewa, credit card, ra cash on delivery options cha.",
+        "question": "Store ma payment kasari garna milcha?",
+        "response": "Hamro store ma Khalti, eSewa, credit card, ra cash on delivery ko options cha."
+    },
+    {
+        "context": "Hamro platform le premium customer service dincha, jaha complaints lai 2 ghanta bhitra address garincha. Payment ko lagi tapai eSewa, Khalti, QR code, ra mobile banking use garna saknuhuncha. EMI options pani available cha.",
+        "question": "Kun kun payment options available huncha?",
+        "response": "Tapai eSewa, Khalti, QR code, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma student discount program cha, jaha tapai 10% discount pauna saknuhuncha. Payment options ma eSewa, Khalti, cash on delivery, ra QR code scan garera options available cha.",
+        "question": "Tapaiharu store ma kun kun payment tarika cha?",
+        "response": "Hamro store ma eSewa, Khalti, cash on delivery, ra QR code scan garera payment garna milcha."
+    },
+    {
+        "context": "Hamro platform international shipping ko lagi pani available cha. Secure payment gateway use garincha. Payment ko lagi tapai international credit card, debit card, eSewa, Khalti, ra mobile wallet options use garna saknuhuncha.",
+        "question": "Kun payment methods use garna milcha?",
+        "response": "Hamro store ma international credit card, debit card, eSewa, Khalti, ra mobile wallet use garna milcha."
+    },
+    {
+        "context": "Hamro store ma eco-friendly delivery system cha, aba carbon emissions reduce garna focus gariyeko cha. Payment options include Khalti, eSewa, QR code, ra mobile banking. Return process pani asan cha defective items ko lagi.",
+        "question": "Store ma payment kasari garna milcha?",
+        "response": "Tapai Khalti, eSewa, QR code, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store festive season ma special offers dincha, aba 30% off electronics ma cha. Payment ko lagi Khalti, eSewa, cash on delivery, ra debit card options available cha. Hamro warranty service 6 mahina samma valid huncha.",
+        "question": "Kun kun payment tarika support huncha?",
+        "response": "Hamro store ma Khalti, eSewa, cash on delivery, ra debit card options support huncha."
+    },
+    {
+        "context": "Hamro online platform user-friendly checkout process ko lagi design gariyeko cha. Payment ko lagi debit card, credit card, eSewa, Khalti, ra mobile wallet use garna milcha. Multiple orders ko lagi free shipping suvidha cha.",
+        "question": "Payment options ko barema batau na.",
+        "response": "Tapai debit card, credit card, eSewa, Khalti, ra mobile wallet use garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store subscription service le tapai lai regular delivery ko suvidha dincha. Payment options ma tapai Khalti, eSewa, QR code, ra mobile banking ko madad le payment garna saknuhuncha. Customer feedback system pani cha.",
+        "question": "Store ma payment garna k garne?",
+        "response": "Tapai Khalti, eSewa, QR code, ra mobile banking le payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store free consultation service dincha, jaha tapai product select garna madad milcha. Payment ko lagi eSewa, Khalti, debit card, ra cash on delivery options cha. Delivery tracking system pani available cha.",
+        "question": "Payment methods ke ke cha?",
+        "response": "Hamro store ma eSewa, Khalti, debit card, ra cash on delivery ko options cha."
+    },
+    {
+        "context": "Hamro store le gift wrapping service provide garcha, aba tapai special occasions ko lagi order customize garna saknuhuncha. Payment ko lagi Khalti, eSewa, credit card, debit card, ra QR code scan garera payment garna milcha.",
+        "question": "Kun kun payment options cha?",
+        "response": "Tapai Khalti, eSewa, credit card, debit card, ra QR code scan garera payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma handmade products available cha, jaha local artisans ka items promote garincha. Delivery ko lagi flat Rs. 50 charge huncha. Payment ko lagi Khalti, eSewa, cash on delivery, ra QR code scan garera options available cha.",
+        "question": "Payment garna kasari milcha?",
+        "response": "Tapai Khalti, eSewa, cash on delivery, ra QR code scan garera payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma seasonal sale chalirako cha, jahaan 40% discount fashion accessories ma cha. Payment ko lagi eSewa, Khalti, QR code, ra mobile banking use garna milcha. Hamro delivery speed ko barema customer feedback highly positive cha.",
+        "question": "Tapaiharu ko payment system kasari cha?",
+        "response": "Tapai eSewa, Khalti, QR code, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro online platform le nepali music ra movies ko digital download service provide garcha. Payment options ma Khalti, eSewa, debit card, ra QR code ko support cha. Aba tapai easy download ko suvidha pauxa.",
+        "question": "Kun kun tarika le payment garna milcha?",
+        "response": "Tapai Khalti, eSewa, debit card, ra QR code bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma food delivery service pani cha, jaha fresh produce dincha. Payment ko lagi cash on delivery, Khalti, eSewa, ra mobile banking options available cha. Special membership ko lagi free delivery offer cha.",
+        "question": "Kasari payment garna milcha?",
+        "response": "Tapai cash on delivery, Khalti, eSewa, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store education-related books, study materials, ra gadgets ma special discounts dincha. Payment ko lagi Khalti, eSewa, debit card, ra credit card options available cha. Aba tapai ko educational needs fulfill garna asan huncha.",
+        "question": "Store ma kun kun payment options cha?",
+        "response": "Tapai Khalti, eSewa, debit card, ra credit card bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform travel packages ko lagi exclusive deals dincha. Payment ko lagi Khalti, eSewa, cash on delivery, ra QR code scan garera options available cha. Hamro travel planning team le 24/7 support dincha.",
+        "question": "Payment garne system kasto cha?",
+        "response": "Tapai Khalti, eSewa, cash on delivery, ra QR code scan garera payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store premium quality fitness equipment sell garcha. Free delivery service cha orders above Rs. 1500 ko lagi. Payment ko lagi Khalti, eSewa, QR code, ra mobile banking use garna milcha.",
+        "question": "Kun payment methods use garna milcha?",
+        "response": "Tapai Khalti, eSewa, QR code, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma custom gift items banaune service cha. Personalized messages add garna milcha. Payment ko lagi eSewa, Khalti, debit card, ra cash on delivery ko options cha.",
+        "question": "Payment garne tarika ke ke cha?",
+        "response": "Hamro store ma eSewa, Khalti, debit card, ra cash on delivery bata payment garna milcha."
+    },
+    {
+        "context": "Hamro platform le office supplies ko exclusive collection provide garcha. Orders ma quantity discount available cha. Payment ko lagi Khalti, eSewa, QR code, debit card, ra mobile banking options available cha.",
+        "question": "Store ma kun kun payment tarika cha?",
+        "response": "Hamro store ma Khalti, eSewa, QR code, debit card, ra mobile banking options cha."
+    },
+    {
+        "context": "Hamro store gift cards ko exclusive offer dincha, aba birthdays ra special events ma gift dina asan huncha. Payment ko lagi tapai Khalti, eSewa, QR code, debit card, ra credit card bata payment garna saknuhuncha.",
+        "question": "Payment ko lagi k garna milcha?",
+        "response": "Tapai Khalti, eSewa, QR code, debit card, ra credit card bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform luxury skincare products ma special 20% discount offer garcha. Payment ko lagi Khalti, eSewa, debit card, ra mobile banking ko options cha. Delivery ko lagi tracking system provide garincha.",
+        "question": "Kun kun payment tarika available cha?",
+        "response": "Hamro store ma Khalti, eSewa, debit card, ra mobile banking options cha."
+    },
+    {
+        "context": "Hamro online platform ma local handmade jewelry ko unique collection cha. Delivery Rs. 50 matra charge huncha. Payment ko lagi Khalti, eSewa, QR code, ra cash on delivery use garna milcha.",
+        "question": "Store ma payment kasari garna milcha?",
+        "response": "Tapai Khalti, eSewa, QR code, ra cash on delivery bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma adventure gear ko premium collection available cha, aba tapai ko outdoor activities ko lagi sabai saman ekai thau ma pauna milcha. Payment ko lagi Khalti, eSewa, credit card, ra QR code ko options cha. Return policy defective items ko lagi free cha.",
+        "question": "Payment garna kun kun tarika available cha?",
+        "response": "Hamro store ma Khalti, eSewa, credit card, ra QR code bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform le premium electronics jastai laptops, mobile phones, ra accessories ko reliable collection provide garcha. Fast delivery service ma 48 ghantabitra saman pauna milcha. Payment options ma Khalti, eSewa, debit card, ra cash on delivery cha.",
+        "question": "Kasari payment garna milcha?",
+        "response": "Tapai Khalti, eSewa, debit card, ra cash on delivery bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store beauty products ko widest range dincha, aba tapai top brands ka items order garna saknuhuncha. Payment ko lagi eSewa, Khalti, QR code, ra mobile banking ko options cha. Free shipping Rs. 2000 bhandaa mathi ko orders ma available cha.",
+        "question": "Tapaiharu ko payment system ke ke cha?",
+        "response": "Hamro store ma eSewa, Khalti, QR code, ra mobile banking ko options cha."
+    },
+    {
+        "context": "Hamro platform ma organic food items jastai fresh fruits, vegetables, ra dairy products ko delivery suvidha available cha. Payment ko lagi Khalti, eSewa, cash on delivery, ra QR code scan garera options cha. Orders ko packaging biodegradable materials bata garincha.",
+        "question": "Payment ko lagi ke ke options cha?",
+        "response": "Tapai Khalti, eSewa, cash on delivery, ra QR code scan garera payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ko focus handmade home decor ma cha, jaha nepali craftsmanship ko promotion garincha. Payment options ma Khalti, eSewa, credit card, debit card, ra cash on delivery available cha. Hamro products export quality ka huncha.",
+        "question": "Store ma payment garna kun kun tarika cha?",
+        "response": "Hamro store ma Khalti, eSewa, credit card, debit card, ra cash on delivery bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform digital learning materials ko lagi student-friendly prices offer garcha. Payment ko lagi eSewa, Khalti, QR code, ra mobile banking options cha. Aba tapai ghar bata padhai ko lagi sabai resources pauna saknuhuncha.",
+        "question": "Kun kun tarika le payment garna milcha?",
+        "response": "Tapai eSewa, Khalti, QR code, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store health and wellness products ko premium range dincha. Orders ma Rs. 300 bhandaa mathi ko delivery charge free huncha. Payment ko lagi eSewa, Khalti, cash on delivery, ra QR code ko suvidha available cha.",
+        "question": "Store ma payment ko lagi kasto system cha?",
+        "response": "Hamro store ma eSewa, Khalti, cash on delivery, ra QR code ko suvidha cha."
+    },
+    {
+        "context": "Hamro online store daily essentials jastai cleaning products, snacks, ra beverages ko convenience delivery service dincha. Payment ko lagi Khalti, eSewa, debit card, ra cash on delivery options cha. Orders ma loyalty points earn garna milcha.",
+        "question": "Kasari payment garna milcha?",
+        "response": "Tapai Khalti, eSewa, debit card, ra cash on delivery bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform ma gaming accessories ko exclusive range available cha. Orders ma 24 ghantabhitra fast delivery suvidha cha. Payment ko lagi eSewa, Khalti, mobile banking, ra QR code options cha.",
+        "question": "Payment ko lagi kun kun options support garcha?",
+        "response": "Hamro store ma eSewa, Khalti, mobile banking, ra QR code options support garcha."
+    },
+    {
+        "context": "Hamro store premium books ra stationery products ko collection offer garcha. Payment ko lagi Khalti, eSewa, QR code, ra mobile wallet options cha. Fast delivery system le tapai ko time bachauncha.",
+        "question": "Payment garna kun kun tarika cha?",
+        "response": "Hamro store ma Khalti, eSewa, QR code, ra mobile wallet options cha."
+    },
+    {
+        "context": "Hamro platform pani handicrafts export ka lagi focus garcha, jaha local artisans lai support garincha. Payment ko lagi eSewa, Khalti, debit card, credit card, ra cash on delivery ko options cha.",
+        "question": "Store ma kun kun payment options available cha?",
+        "response": "Hamro store ma eSewa, Khalti, debit card, credit card, ra cash on delivery options cha."
+    },
+    {
+        "context": "Hamro store sports accessories ra apparel ko reliable collection dincha. Orders ma Rs. 500 bhandaa mathi free delivery cha. Payment options ma Khalti, eSewa, QR code, ra debit card cha.",
+        "question": "Payment methods ke ke cha?",
+        "response": "Hamro store ma Khalti, eSewa, QR code, ra debit card bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform ma online courses ko wide collection cha, jaha tapai beginner se lekar advanced level ko classes haru pauna saknuhuncha. Payment ko lagi eSewa, Khalti, debit card, ra mobile banking ko options available cha.",
+        "question": "Kun kun payment methods cha?",
+        "response": "Hamro platform ma eSewa, Khalti, debit card, ra mobile banking ko options cha."
+    },
+    {
+        "context": "Hamro store luxury bags, shoes, ra accessories ko collection provide garcha. Payment ko lagi eSewa, Khalti, QR code, ra credit card ko suvidha cha. Orders ko delivery fast cha, tapai within 48 ghanta saman receive garna saknuhuncha.",
+        "question": "Payment garne system kasto cha?",
+        "response": "Hamro store ma eSewa, Khalti, QR code, ra credit card bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform ma sportswear ko premium collection available cha. Payment ko lagi Khalti, eSewa, debit card, ra cash on delivery options cha. Orders ma free exchange guarantee cha.",
+        "question": "Payment methods ke ke cha?",
+        "response": "Tapai Khalti, eSewa, debit card, ra cash on delivery bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma eco-friendly products ko wide range cha. Payment ko lagi Khalti, eSewa, debit card, ra mobile banking ko options cha. Hamro delivery system environmentally conscious cha.",
+        "question": "Kun kun payment options available cha?",
+        "response": "Hamro store ma Khalti, eSewa, debit card, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform le handmade kitchenware ko exclusive collection offer garcha. Orders ma free shipping available cha, ra tapai ko satisfaction hamro priority ho. Payment ko lagi eSewa, Khalti, debit card, ra cash on delivery options cha.",
+        "question": "Kasari payment garna milcha?",
+        "response": "Tapai eSewa, Khalti, debit card, ra cash on delivery bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma digital gadgets ko range cha, jaha tapai latest technology items haru pauna saknuhuncha. Payment ko lagi eSewa, Khalti, QR code, ra credit card use garna saknuhuncha.",
+        "question": "Payment garne methods ke ke cha?",
+        "response": "Hamro store ma eSewa, Khalti, QR code, ra credit card bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform ma new release movies ra TV shows ko streaming service available cha. Payment ko lagi Khalti, eSewa, debit card, ra mobile banking use garna saknuhuncha. Annual subscription ko lagi special discount cha.",
+        "question": "Kun kun payment options cha?",
+        "response": "Tapai Khalti, eSewa, debit card, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma gardening tools ra plants ko range cha. Delivery ko lagi tapai ko location ma depend garera fast delivery milcha. Payment ko lagi eSewa, Khalti, debit card, ra cash on delivery cha.",
+        "question": "Store ma payment kasari garne?",
+        "response": "Tapai eSewa, Khalti, debit card, ra cash on delivery bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform le health supplements ra fitness equipment ko collection garcha. Payment options ma eSewa, Khalti, QR code, ra mobile banking available cha. Hamro delivery time punctual cha, tapai samayama saman receive garna saknuhuncha.",
+        "question": "Kun kun payment tarika cha?",
+        "response": "Hamro platform ma eSewa, Khalti, QR code, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma creative arts supplies ra craft materials ko collection cha. Payment ko lagi Khalti, eSewa, credit card, ra cash on delivery cha. Special offers ra discounts hamesha available cha.",
+        "question": "Kasari payment garna milcha?",
+        "response": "Tapai Khalti, eSewa, credit card, ra cash on delivery bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform le online grocery delivery service offer garcha. Tapai ko orders Rs. 1000 bhandaa mathi ma free delivery available cha. Payment ko lagi Khalti, eSewa, cash on delivery, ra QR code scan garera options cha.",
+        "question": "Kun kun payment options cha?",
+        "response": "Hamro platform ma Khalti, eSewa, cash on delivery, ra QR code scan garera payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro store ma health and wellness products ko wide range cha, jaha tapai ko body care ko lagi sabai required items available cha. Payment ko lagi eSewa, Khalti, debit card, ra mobile banking options cha.",
+        "question": "Kun kun payment methods cha?",
+        "response": "Hamro store ma eSewa, Khalti, debit card, ra mobile banking bata payment garna saknuhuncha."
+    },
+    {
+        "context": "Hamro platform ma books ra educational materials ko collection cha. Payment ko lagi eSewa, Khalti, debit card, ra mobile banking bata payment garna saknuhuncha. Free shipping Rs. 1500 bhandaa mathi ko orders ma available cha.",
+        "question": "Payment garne options ke ke cha?",
+        "response": "Tapai eSewa, Khalti, debit card, ra mobile banking bata payment garna saknuhuncha."
+    }
+]

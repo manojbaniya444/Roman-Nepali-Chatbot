@@ -1,0 +1,1807 @@
+[
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali: 'The weather is nice today.'",
+        "input": "The weather is nice today.",
+        "output": "Aaja mausam ramro cha."
+    },
+    {
+        "instruction": "Summarize the following paragraph in Roman Nepali: 'Nepal is a beautiful country with many mountains. It is known for Mount Everest, the highest peak in the world. Many tourists visit Nepal every year.'",
+        "input": "Nepal is a beautiful country with many mountains. It is known for Mount Everest, the highest peak in the world. Many tourists visit Nepal every year.",
+        "output": "Nepal ek sundar desh ho jasma dherai pahad haru chan. Yo Mount Everest, sansarko sabai bhanda uchai chuchuro, ko lagi prasiddha cha. Dherai paryatak haru hare barsa Nepal ghumna aau chan."
+    },
+    {
+        "instruction": "Answer the following question in Roman Nepali: 'What is the capital of Nepal?'",
+        "input": "What is the capital of Nepal?",
+        "output": "Nepal ko rajdhani Kathmandu ho."
+    },
+    {
+        "instruction": "Convert the following Roman Nepali sentence into a polite request: 'Malaai pani diyeu na.'",
+        "input": "Malaai pani diyeu na.",
+        "output": "Kripaya malaai pani dinus na."
+    },
+    {
+        "instruction": "Explain the meaning of the following Roman Nepali phrase: 'Dhanyabad'",
+        "input": "Dhanyabad",
+        "output": "Dhanyabad ko artha 'thank you' ho."
+    },
+    {
+        "instruction": "Write a short story in Roman Nepali about a farmer and his cow.",
+        "input": "",
+        "output": "Ek jana kisan ra usko gai ko katha. Kisan ko naam Ram thiyo. Usle ek gai palthe. Gai ko naam Gauri thiyo. Ramle Gauri lai dherei maya gardathe. Ek din Gauri le dudh dina chodiyo. Ram dukhi bhayo. Tara usle Gauri lai dherai maya garyo ra sabai thik hune bishwas garyo. Ani ek din Gauri feri dudh dina thalyo. Ram khushi bhayo."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English: 'Usko ghar kathmandu ma cha.'",
+        "input": "Usko ghar kathmandu ma cha.",
+        "output": "His house is in Kathmandu."
+    },
+    {
+        "instruction": "Provide a list of 5 Roman Nepali words related to food.",
+        "input": "",
+        "output": "1. Bhat 2. Tarkari 3. Dal 4. Masu 5. Roti"
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence using the word 'pahad'.",
+        "input": "",
+        "output": "Nepal ma dherai pahad haru chan."
+    },
+    {
+        "instruction": "Correct the following Roman Nepali sentence: 'Usko naam Ram ho ki?'",
+        "input": "Usko naam Ram ho ki?",
+        "output": "Usko naam Ram ho?"
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between two friends planning a trip.",
+        "input": "",
+        "output": "Ram: Sita, chhutti ma kaha jane sochya chhau? Sita: Malai Pokhara jana man lagyo. Ram: Ramro idea ho. Malai pani Pokhara jana man cha. Sita: Feri sajha jane hoina ta? Ram: Ho, sajha jada ramailo huncha."
+    },
+    {
+        "instruction": "Translate the following English phrase into Roman Nepali: 'How are you?'",
+        "input": "How are you?",
+        "output": "Timi lai kasto cha?"
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence describing your favorite food.",
+        "input": "",
+        "output": "Mero manparne khana momo ho."
+    },
+    {
+        "instruction": "Explain the process of making tea in Roman Nepali.",
+        "input": "",
+        "output": "Chiya banuna lai pahila pani tato garnus. Ani pani ma chiyapat ra chini halnus. Pani umalna dinus ra milk thora halnus. Feri umalna dinus ra chiyapat hataunus. Ani chiya taiyar cha."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English: 'Mero ghar kathmandu bata 10 km tada cha.'",
+        "input": "Mero ghar kathmandu bata 10 km tada cha.",
+        "output": "My house is 10 km away from Kathmandu."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence using the word 'sundar'.",
+        "input": "",
+        "output": "Nepal ek sundar desh ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to congratulate someone on their success.",
+        "input": "",
+        "output": "Tapai ko safalta ko lagi hardik badhai cha."
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali: 'I love to travel.'",
+        "input": "I love to travel.",
+        "output": "Malai ghumna manparcha."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence about the importance of education.",
+        "input": "",
+        "output": "Shiksha sabai ko lagi mahatvapurna cha."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English: 'Usko bhai ko naam Sita ho.'",
+        "input": "Usko bhai ko naam Sita ho.",
+        "output": "His sister's name is Sita."
+    },
+    {
+        "instruction": "Yo English sentence lai Roman Nepali ma translate gar: 'The weather is nice today.'",
+        "input": "The weather is nice today.",
+        "output": "Aaja mausam ramro cha."
+    },
+    {
+        "instruction": "Yo paragraph lai Roman Nepali ma summarize gar: 'Nepal is a beautiful country with many mountains. It is known for Mount Everest, the highest peak in the world. Many tourists visit Nepal every year.'",
+        "input": "Nepal is a beautiful country with many mountains. It is known for Mount Everest, the highest peak in the world. Many tourists visit Nepal every year.",
+        "output": "Nepal ek sundar desh ho jasma dherai pahad haru chan. Yo Mount Everest, sansarko sabai bhanda uchai chuchuro, ko lagi prasiddha cha. Dherai paryatak haru hare barsa Nepal ghumna aau chan."
+    },
+    {
+        "instruction": "Yo prashna ko uttar Roman Nepali ma deu: 'What is the capital of Nepal?'",
+        "input": "What is the capital of Nepal?",
+        "output": "Nepal ko rajdhani Kathmandu ho."
+    },
+    {
+        "instruction": "Yo Roman Nepali sentence lai polite request ma change gar: 'Malaai pani diyeu na.'",
+        "input": "Malaai pani diyeu na.",
+        "output": "Kripaya malaai pani dinus na."
+    },
+    {
+        "instruction": "Yo Roman Nepali phrase ko artha explain gar: 'Dhanyabad'",
+        "input": "Dhanyabad",
+        "output": "Dhanyabad ko artha 'thank you' ho."
+    },
+    {
+        "instruction": "Ek jana kisan ra usko gai ko barema Roman Nepali ma sano katha lekha.",
+        "input": "",
+        "output": "Ek jana kisan ra usko gai ko katha. Kisan ko naam Ram thiyo. Usle ek gai palthe. Gai ko naam Gauri thiyo. Ramle Gauri lai dherei maya gardathe. Ek din Gauri le dudh dina chodiyo. Ram dukhi bhayo. Tara usle Gauri lai dherai maya garyo ra sabai thik hune bishwas garyo. Ani ek din Gauri feri dudh dina thalyo. Ram khushi bhayo."
+    },
+    {
+        "instruction": "Yo Roman Nepali sentence lai English ma translate gar: 'Usko ghar kathmandu ma cha.'",
+        "input": "Usko ghar kathmandu ma cha.",
+        "output": "His house is in Kathmandu."
+    },
+    {
+        "instruction": "Khana sanga related 5 ota Roman Nepali shabd haru ko list deu.",
+        "input": "",
+        "output": "1. Bhat 2. Tarkari 3. Dal 4. Masu 5. Roti"
+    },
+    {
+        "instruction": "'Pahad' shabd prayog garera Roman Nepali ma ek sentence lekha.",
+        "input": "",
+        "output": "Nepal ma dherai pahad haru chan."
+    },
+    {
+        "instruction": "Yo Roman Nepali sentence lai correct gar: 'Usko naam Ram ho ki?'",
+        "input": "Usko naam Ram ho ki?",
+        "output": "Usko naam Ram ho?"
+    },
+    {
+        "instruction": "Dui jana sathi haru ko bichma trip plan gareko barema Roman Nepali ma dialogue lekha.",
+        "input": "",
+        "output": "Ram: Sita, chhutti ma kaha jane sochya chhau? Sita: Malai Pokhara jana man lagyo. Ram: Ramro idea ho. Malai pani Pokhara jana man cha. Sita: Feri sajha jane hoina ta? Ram: Ho, sajha jada ramailo huncha."
+    },
+    {
+        "instruction": "Yo English phrase lai Roman Nepali ma translate gar: 'How are you?'",
+        "input": "How are you?",
+        "output": "Timi lai kasto cha?"
+    },
+    {
+        "instruction": "Afno manparne khana ko barema Roman Nepali ma ek sentence lekha.",
+        "input": "",
+        "output": "Mero manparne khana momo ho."
+    },
+    {
+        "instruction": "Chiya banune process Roman Nepali ma explain gar.",
+        "input": "",
+        "output": "Chiya banuna lai pahila pani tato garnus. Ani pani ma chiyapat ra chini halnus. Pani umalna dinus ra milk thora halnus. Feri umalna dinus ra chiyapat hataunus. Ani chiya taiyar cha."
+    },
+    {
+        "instruction": "Yo Roman Nepali sentence lai English ma translate gar: 'Mero ghar kathmandu bata 10 km tada cha.'",
+        "input": "Mero ghar kathmandu bata 10 km tada cha.",
+        "output": "My house is 10 km away from Kathmandu."
+    },
+    {
+        "instruction": "'Sundar' shabd prayog garera Roman Nepali ma ek sentence lekha.",
+        "input": "",
+        "output": "Nepal ek sundar desh ho."
+    },
+    {
+        "instruction": "Kasaiko safalta ko lagi badhai deko Roman Nepali phrase lekha.",
+        "input": "",
+        "output": "Tapai ko safalta ko lagi hardik badhai cha."
+    },
+    {
+        "instruction": "Yo English sentence lai Roman Nepali ma translate gar: 'I love to travel.'",
+        "input": "I love to travel.",
+        "output": "Malai ghumna manparcha."
+    },
+    {
+        "instruction": "Shiksha ko mahatwa barema Roman Nepali ma ek sentence lekha.",
+        "input": "",
+        "output": "Shiksha sabai ko lagi mahatvapurna cha."
+    },
+    {
+        "instruction": "Yo Roman Nepali sentence lai English ma translate gar: 'Usko bhai ko naam Sita ho.'",
+        "input": "Usko bhai ko naam Sita ho.",
+        "output": "His sister's name is Sita."
+    },
+    {
+        "instruction": "Yo English sentence lai Roman Nepali ma translate gar: 'Please give me a glass of water.'",
+        "input": "Please give me a glass of water.",
+        "output": "Kripaya malaai ek glass pani dinus."
+    },
+    {
+        "instruction": "Yo Roman Nepali sentence lai English ma translate gar: 'Malai school jana man lagdaina.'",
+        "input": "Malai school jana man lagdaina.",
+        "output": "I don’t feel like going to school."
+    },
+    {
+        "instruction": "Yo English sentence lai Roman Nepali ma translate gar: 'What is your favorite color?'",
+        "input": "What is your favorite color?",
+        "output": "Tapai ko manparne rang kun ho?"
+    },
+    {
+        "instruction": "Yo Roman Nepali sentence lai English ma translate gar: 'Usko ghar ma dherai phul haru chan.'",
+        "input": "Usko ghar ma dherai phul haru chan.",
+        "output": "There are many flowers in his house."
+    },
+    {
+        "instruction": "Yo English sentence lai Roman Nepali ma translate gar: 'I am going to the market.'",
+        "input": "I am going to the market.",
+        "output": "Ma bazar jaadaichu."
+    },
+    {
+        "instruction": "Yo sentence lai translate gar: 'The weather is nice today.'",
+        "input": "The weather is nice today.",
+        "output": "Aaja mausam ramro cha."
+    },
+    {
+        "instruction": "Yo paragraph lai summarize gar: 'Nepal is a beautiful country with many mountains. It is known for Mount Everest, the highest peak in the world. Many tourists visit Nepal every year.'",
+        "input": "Nepal is a beautiful country with many mountains. It is known for Mount Everest, the highest peak in the world. Many tourists visit Nepal every year.",
+        "output": "Nepal ek sundar desh ho jasma dherai pahad haru chan. Yo Mount Everest, sansarko sabai bhanda uchai chuchuro, ko lagi prasiddha cha. Dherai paryatak haru hare barsa Nepal ghumna aau chan."
+    },
+    {
+        "instruction": "Yo prashna ko uttar deu: 'What is the capital of Nepal?'",
+        "input": "What is the capital of Nepal?",
+        "output": "Nepal ko rajdhani Kathmandu ho."
+    },
+    {
+        "instruction": "Yo sentence lai polite request ma change gar: 'Malaai pani diyeu na.'",
+        "input": "Malaai pani diyeu na.",
+        "output": "Kripaya malaai pani dinus na."
+    },
+    {
+        "instruction": "Yo phrase ko artha explain gar: 'Dhanyabad'",
+        "input": "Dhanyabad",
+        "output": "Dhanyabad ko artha 'thank you' ho."
+    },
+    {
+        "instruction": "Ek jana kisan ra usko gai ko barema sano katha lekha.",
+        "input": "",
+        "output": "Ek jana kisan ra usko gai ko katha. Kisan ko naam Ram thiyo. Usle ek gai palthe. Gai ko naam Gauri thiyo. Ramle Gauri lai dherei maya gardathe. Ek din Gauri le dudh dina chodiyo. Ram dukhi bhayo. Tara usle Gauri lai dherai maya garyo ra sabai thik hune bishwas garyo. Ani ek din Gauri feri dudh dina thalyo. Ram khushi bhayo."
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Usko ghar kathmandu ma cha.'",
+        "input": "Usko ghar kathmandu ma cha.",
+        "output": "His house is in Kathmandu."
+    },
+    {
+        "instruction": "Khana sanga related 5 ota shabd haru ko list deu.",
+        "input": "",
+        "output": "1. Bhat 2. Tarkari 3. Dal 4. Masu 5. Roti"
+    },
+    {
+        "instruction": "'Pahad' shabd prayog garera ek sentence lekha.",
+        "input": "",
+        "output": "Nepal ma dherai pahad haru chan."
+    },
+    {
+        "instruction": "Yo sentence lai correct gar: 'Usko naam Ram ho ki?'",
+        "input": "Usko naam Ram ho ki?",
+        "output": "Usko naam Ram ho?"
+    },
+    {
+        "instruction": "Dui jana sathi haru ko bichma trip plan gareko barema dialogue lekha.",
+        "input": "",
+        "output": "Ram: Sita, chhutti ma kaha jane sochya chhau? Sita: Malai Pokhara jana man lagyo. Ram: Ramro idea ho. Malai pani Pokhara jana man cha. Sita: Feri sajha jane hoina ta? Ram: Ho, sajha jada ramailo huncha."
+    },
+    {
+        "instruction": "Yo phrase lai translate gar: 'How are you?'",
+        "input": "How are you?",
+        "output": "Timi lai kasto cha?"
+    },
+    {
+        "instruction": "Afno manparne khana ko barema ek sentence lekha.",
+        "input": "",
+        "output": "Mero manparne khana momo ho."
+    },
+    {
+        "instruction": "Chiya banune process explain gar.",
+        "input": "",
+        "output": "Chiya banuna lai pahila pani tato garnus. Ani pani ma chiyapat ra chini halnus. Pani umalna dinus ra milk thora halnus. Feri umalna dinus ra chiyapat hataunus. Ani chiya taiyar cha."
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Mero ghar kathmandu bata 10 km tada cha.'",
+        "input": "Mero ghar kathmandu bata 10 km tada cha.",
+        "output": "My house is 10 km away from Kathmandu."
+    },
+    {
+        "instruction": "'Sundar' shabd prayog garera ek sentence lekha.",
+        "input": "",
+        "output": "Nepal ek sundar desh ho."
+    },
+    {
+        "instruction": "Kasaiko safalta ko lagi badhai deko phrase lekha.",
+        "input": "",
+        "output": "Tapai ko safalta ko lagi hardik badhai cha."
+    },
+    {
+        "instruction": "Yo sentence lai translate gar: 'I love to travel.'",
+        "input": "I love to travel.",
+        "output": "Malai ghumna manparcha."
+    },
+    {
+        "instruction": "Shiksha ko mahatwa barema ek sentence lekha.",
+        "input": "",
+        "output": "Shiksha sabai ko lagi mahatvapurna cha."
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Usko bhai ko naam Sita ho.'",
+        "input": "Usko bhai ko naam Sita ho.",
+        "output": "His sister's name is Sita."
+    },
+    {
+        "instruction": "Yo sentence lai translate gar: 'Please give me a glass of water.'",
+        "input": "Please give me a glass of water.",
+        "output": "Kripaya malaai ek glass pani dinus."
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Malai school jana man lagdaina.'",
+        "input": "Malai school jana man lagdaina.",
+        "output": "I don’t feel like going to school."
+    },
+    {
+        "instruction": "Yo sentence lai translate gar: 'What is your favorite color?'",
+        "input": "What is your favorite color?",
+        "output": "Tapai ko manparne rang kun ho?"
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Usko ghar ma dherai phul haru chan.'",
+        "input": "Usko ghar ma dherai phul haru chan.",
+        "output": "There are many flowers in his house."
+    },
+    {
+        "instruction": "Yo sentence lai translate gar: 'I am going to the market.'",
+        "input": "I am going to the market.",
+        "output": "Ma bazar jaadaichu."
+    },
+    {
+        "instruction": "Yo sentence lai English bata translate gar: 'She is reading a book.'",
+        "input": "She is reading a book.",
+        "output": "Uni kitab padhiraheko chhan."
+    },
+    {
+        "instruction": "Yo paragraph lai chhoto ma summarize gar: 'Nepal is famous for its natural beauty. It has the highest mountain in the world, Mount Everest. Many people visit Nepal for trekking and adventure.'",
+        "input": "Nepal is famous for its natural beauty. It has the highest mountain in the world, Mount Everest. Many people visit Nepal for trekking and adventure.",
+        "output": "Nepal afno prakrutik sundarta ko lagi prasiddha cha. Yo sansarko sabai bhanda uchai pahad, Mount Everest, ko ghar ho. Dherai manis haru trekking ra adventure ko lagi Nepal aau chan."
+    },
+    {
+        "instruction": "Yo prashna ko uttar deu: 'What is your name?'",
+        "input": "What is your name?",
+        "output": "Mero naam [Your Name] ho."
+    },
+    {
+        "instruction": "Yo sentence lai polite ma change gar: 'Malaai pani deu.'",
+        "input": "Malaai pani deu.",
+        "output": "Kripaya malaai pani dinus."
+    },
+    {
+        "instruction": "Yo word ko artha explain gar: 'Maya'",
+        "input": "Maya",
+        "output": "Maya ko artha 'love' ho."
+    },
+    {
+        "instruction": "Ek jana doctor ra usko patient ko barema sano katha lekha.",
+        "input": "",
+        "output": "Ek jana doctor ra usko patient ko katha. Doctor ko naam Dr. Sharma thiyo. Usle ek patient ko ilaj gareko thiyo. Patient dherai dukhi thiyo. Dr. Sharma le dherai mehenat garera patient lai thik gare. Patient khushi bhayo ra doctor lai dhanyabad diyo."
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Usko bahin ko naam Sita ho.'",
+        "input": "Usko bahin ko naam Sita ho.",
+        "output": "His sister's name is Sita."
+    },
+    {
+        "instruction": "Pani sanga related 5 ota shabd haru ko list deu.",
+        "input": "",
+        "output": "1. Pani 2. Dhara 3. Pani puri 4. Pani tanki 5. Pani bottle"
+    },
+    {
+        "instruction": "'Ghar' shabd prayog garera ek sentence lekha.",
+        "input": "",
+        "output": "Mero ghar kathmandu ma cha."
+    },
+    {
+        "instruction": "Yo sentence lai correct gar: 'Usko naam Ram ho ki?'",
+        "input": "Usko naam Ram ho ki?",
+        "output": "Usko naam Ram ho?"
+    },
+    {
+        "instruction": "Dui jana sathi haru ko bichma movie herne barema dialogue lekha.",
+        "input": "",
+        "output": "Ram: Sita, chhutti ma kei movie herne sochya chhau? Sita: Ho, malai ni man lagyo. Ram: Kun movie herne? Sita: Malai action movie manparcha. Ram: Thik cha, sajha jada ramailo huncha."
+    },
+    {
+        "instruction": "Yo phrase lai translate gar: 'Good morning!'",
+        "input": "Good morning!",
+        "output": "Subha prabhat!"
+    },
+    {
+        "instruction": "Afno manparne geet ko barema ek sentence lekha.",
+        "input": "",
+        "output": "Mero manparne geet 'Resham Firiri' ho."
+    },
+    {
+        "instruction": "Roti banune process explain gar.",
+        "input": "",
+        "output": "Roti banuna lai pahila pitho gundincha. Ani pitho lai belera roti banaunus. Tawa tato garera roti pakaunus. Roti pakepachi ghyu halera khana sakincha."
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Usko ghar ma dherai phul haru chan.'",
+        "input": "Usko ghar ma dherai phul haru chan.",
+        "output": "There are many flowers in his house."
+    },
+    {
+        "instruction": "'Khushi' shabd prayog garera ek sentence lekha.",
+        "input": "",
+        "output": "Usko kama safal bhayo ra uni dherai khushi bhayo."
+    },
+    {
+        "instruction": "Kasaiko janmadin ko lagi badhai deko phrase lekha.",
+        "input": "",
+        "output": "Janmadin ko hardik subhakamana!"
+    },
+    {
+        "instruction": "Yo sentence lai translate gar: 'I am learning a new language.'",
+        "input": "I am learning a new language.",
+        "output": "Ma naya bhasa sikdai chu."
+    },
+    {
+        "instruction": "Shiksha ko mahatwa barema ek sentence lekha.",
+        "input": "",
+        "output": "Shiksha sabai ko lagi mahatvapurna cha."
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Usko bhai ko naam Ram ho.'",
+        "input": "Usko bhai ko naam Ram ho.",
+        "output": "His brother's name is Ram."
+    },
+    {
+        "instruction": "Yo sentence lai translate gar: 'Please help me with this task.'",
+        "input": "Please help me with this task.",
+        "output": "Kripaya malaai yo kam ma sahayog garnus."
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Malai khana pakauna aaudaina.'",
+        "input": "Malai khana pakauna aaudaina.",
+        "output": "I don’t know how to cook."
+    },
+    {
+        "instruction": "Yo sentence lai translate gar: 'What is your favorite food?'",
+        "input": "What is your favorite food?",
+        "output": "Tapai ko manparne khana kun ho?"
+    },
+    {
+        "instruction": "Yo sentence lai English ma translate gar: 'Usko ghar ma dherai kitaab haru chan.'",
+        "input": "Usko ghar ma dherai kitaab haru chan.",
+        "output": "There are many books in his house."
+    },
+    {
+        "instruction": "Yo sentence lai translate gar: 'I am going to the park.'",
+        "input": "I am going to the park.",
+        "output": "Ma park jaadaichu."
+    },
+    {
+        "instruction": "Ek jana manche ko daily routine describe gar.",
+        "input": "",
+        "output": "Ram ko daily routine yesto cha: Uha subha 6 baje uthchan, brush garchan, yoga garcha, nashta garcha, ani office janchan. Office bata firera beluka 7 baje ghar pugchan, khana khanchan, TV herchan, ra 10 baje sutna janchan."
+    },
+    {
+        "instruction": "Yo sentence lai negative ma change gar: 'Uha school jaane plan gareko cha.'",
+        "input": "Uha school jaane plan gareko cha.",
+        "output": "Uha school jaane plan gareko chaina."
+    },
+    {
+        "instruction": "Ek jana farmer ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana farmer ko naam Ram ho. Uha afno ghar ko kheti garchan. Uha dhan, makai, ra dalhan ko kheti garcha. Uha subha 5 baje uthchan ra khet ma kaam garna janchan. Uha dherai mehenati manche hun. Uha ko khet bata ramro falful huncha."
+    },
+    {
+        "instruction": "Yo sentence lai past tense ma change gar: 'Uha khana pakairaheko cha.'",
+        "input": "Uha khana pakairaheko cha.",
+        "output": "Uha le khana pakayo."
+    },
+    {
+        "instruction": "Ek jana student ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana student ko naam Sita ho. Uha class 10 ma padhchan. Uha dherai mehenati chan ra padhai ma dhyan dinchan. Uha ko sapana doctor banna ko cha. Uha le dherai mehenat garcha ra aasha cha ki uha afno sapana pura garna sakchin."
+    },
+    {
+        "instruction": "Yo sentence lai future tense ma change gar: 'Uha ghar ma baschan.'",
+        "input": "Uha ghar ma baschan.",
+        "output": "Uha ghar ma basnechan."
+    },
+    {
+        "instruction": "Ek jana teacher ra student ko bichma dialogue lekha.",
+        "input": "",
+        "output": "Teacher: Ram, timile homework gareu? Ram: Maile homework gareko chaina, sir. Teacher: Kina gareko chainau? Ram: Maile bujhena, sir. Teacher: Thik cha, aaja feri explain garchu."
+    },
+    {
+        "instruction": "Yo sentence lai question ma change gar: 'Uha kathmandu ma baschan.'",
+        "input": "Uha kathmandu ma baschan.",
+        "output": "Ke uha kathmandu ma baschan?"
+    },
+    {
+        "instruction": "Ek jana tourist ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana tourist ko naam John ho. Uha America bata Nepal ghumna aayeka chan. Uha lai Nepal ko pahad ra sanskriti dherai manparcha. Uha Pokhara ra Kathmandu ghumna gayeka chan. Uha le Nepal ko khana pani dherai mitho lagyo."
+    },
+    {
+        "instruction": "Yo sentence lai plural ma change gar: 'Yo kitaab ho.'",
+        "input": "Yo kitaab ho.",
+        "output": "Yi kitaab haru hun."
+    },
+    {
+        "instruction": "Ek jana doctor ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana doctor ko naam Dr. Sharma ho. Uha ek hospital ma kaam garcha. Uha dherai dayalu chan ra patient haru lai dherai sahayog garcha. Ek din ek patient dherai dukhi thiyo. Dr. Sharma le usko ilaj gare ra patient lai thik gare. Patient dherai khushi bhayo."
+    },
+    {
+        "instruction": "Yo sentence lai passive voice ma change gar: 'Uha le kitaab padhyo.'",
+        "input": "Uha le kitaab padhyo.",
+        "output": "Kitaab padhiyo."
+    },
+    {
+        "instruction": "Ek jana singer ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana singer ko naam Anu ho. Uha ek prasiddha singer hun. Uha le dherai hit geet haru gayeka chan. Uha ko awaz dherai sundar cha. Uha lai sabai le dherai manparchan. Uha ko concert ma dherai manis haru aau chan."
+    },
+    {
+        "instruction": "Yo sentence lai active voice ma change gar: 'Kitaab padhiyo.'",
+        "input": "Kitaab padhiyo.",
+        "output": "Uha le kitaab padhyo."
+    },
+    {
+        "instruction": "Ek jana engineer ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana engineer ko naam Ramesh ho. Uha ek construction company ma kaam garcha. Uha dherai mehenati chan ra afno kaam ma dherai dhyan dinchan. Uha le dherai thulo building haru design gareka chan. Uha ko sapana ek din afno company kholne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai comparative form ma change gar: 'Yo kitaab ramro cha.'",
+        "input": "Yo kitaab ramro cha.",
+        "output": "Yo kitaab tyo bhanda ramro cha."
+    },
+    {
+        "instruction": "Ek jana artist ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana artist ko naam Sunita ho. Uha ek prasiddha painter hun. Uha le dherai sundar chitra haru khechka chan. Uha ko chitra haru ma dherai rang haru prayog huncha. Uha ko chitra haru exhibition ma dherai manis haru le herna aau chan."
+    },
+    {
+        "instruction": "Yo sentence lai superlative form ma change gar: 'Yo kitaab ramro cha.'",
+        "input": "Yo kitaab ramro cha.",
+        "output": "Yo kitaab sabai bhanda ramro cha."
+    },
+    {
+        "instruction": "Ek jana writer ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana writer ko naam Hari ho. Uha le dherai kitaab haru lekheka chan. Uha ko kitaab haru dherai popular chan. Uha le afno kitaab ma dherai katha haru lekheka chan. Uha ko kitaab haru le dherai manis haru lai inspire gareko cha."
+    },
+    {
+        "instruction": "Yo sentence lai negative question ma change gar: 'Uha school gayeka chan.'",
+        "input": "Uha school gayeka chan.",
+        "output": "Ke uha school gayeka chainan?"
+    },
+    {
+        "instruction": "Ek jana scientist ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana scientist ko naam Dr. Shrestha ho. Uha ek prasiddha biologist hun. Uha le dherai research haru gareka chan ra afno kaalama dherai mahatvapurna discovery haru gareka chan. Uha ko kaam le dherai manis haru ko jivan ma asar gareko cha. Uha ko sapana ek din afno research le sansar lai fayda pugos bhanne cha."
+    },
+    {
+        "instruction": "Yo sentence lai interrogative ma change gar: 'Uha le khana pakayo.'",
+        "input": "Uha le khana pakayo.",
+        "output": "Ke uha le khana pakayo?"
+    },
+    {
+        "instruction": "Ek jana athlete ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana athlete ko naam Ramesh ho. Uha ek dherai ramro runner hun. Uha le dherai competition haru ma bhaag liyeka chan ra dherai medal haru jiteka chan. Uha ko sapana Olympic ma bhaag lineko cha. Uha dherai mehenati chan ra afno sapana pura garna khojiraheka chan."
+    },
+    {
+        "instruction": "Yo sentence lai exclamatory ma change gar: 'Yo kitaab ramro cha.'",
+        "input": "Yo kitaab ramro cha.",
+        "output": "Kati ramro kitaab ho!"
+    },
+    {
+        "instruction": "Ek jana pilot ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana pilot ko naam Anil ho. Uha ek airline ma kaam garcha. Uha le dherai flight haru udayeka chan ra dherai desh haru ghumeka chan. Uha ko kaam dherai jimmewari ko cha. Uha lai udaan garnu dherai manparcha. Uha ko sapana ek din afno airline kholne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai affirmative ma change gar: 'Uha school jaane plan gareko chaina.'",
+        "input": "Uha school jaane plan gareko chaina.",
+        "output": "Uha school jaane plan gareko cha."
+    },
+    {
+        "instruction": "Ek jana chef ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana chef ko naam Sunita ho. Uha ek prasiddha restaurant ma kaam garcha. Uha le dherai mitho khana haru pakayeka chan. Uha ko khana haru sabai le dherai mitho bhanchan. Uha ko sapana ek din afno restaurant kholne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai negative ma change gar: 'Uha le kitaab padhyo.'",
+        "input": "Uha le kitaab padhyo.",
+        "output": "Uha le kitaab padhenan."
+    },
+    {
+        "instruction": "Ek jana photographer ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana photographer ko naam Ravi ho. Uha ek prasiddha photographer hun. Uha le dherai sundar photo haru khichka chan. Uha ko photo haru exhibition ma dherai manis haru le herna aau chan. Uha ko sapana ek din afno photo book publish garne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai interrogative ma change gar: 'Uha le khana pakayo.'",
+        "input": "Uha le khana pakayo.",
+        "output": "Ke uha le khana pakayo?"
+    },
+    {
+        "instruction": "Ek jana musician ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana musician ko naam Anu ho. Uha ek prasiddha singer hun. Uha le dherai hit geet haru gayeka chan. Uha ko awaz dherai sundar cha. Uha lai sabai le dherai manparchan. Uha ko sapana ek din afno music album release garne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai exclamatory ma change gar: 'Yo kitaab ramro cha.'",
+        "input": "Yo kitaab ramro cha.",
+        "output": "Kati ramro kitaab ho!"
+    },
+    {
+        "instruction": "Ek jana engineer ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana engineer ko naam Ramesh ho. Uha ek construction company ma kaam garcha. Uha dherai mehenati chan ra afno kaam ma dherai dhyan dinchan. Uha le dherai thulo building haru design gareka chan. Uha ko sapana ek din afno company kholne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai affirmative ma change gar: 'Uha school jaane plan gareko chaina.'",
+        "input": "Uha school jaane plan gareko chaina.",
+        "output": "Uha school jaane plan gareko cha."
+    },
+    {
+        "instruction": "Ek jana doctor ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana doctor ko naam Dr. Sharma ho. Uha ek hospital ma kaam garcha. Uha dherai dayalu chan ra patient haru lai dherai sahayog garcha. Ek din ek patient dherai dukhi thiyo. Dr. Sharma le usko ilaj gare ra patient lai thik gare. Patient dherai khushi bhayo."
+    },
+    {
+        "instruction": "Yo sentence lai negative ma change gar: 'Uha le kitaab padhyo.'",
+        "input": "Uha le kitaab padhyo.",
+        "output": "Uha le kitaab padhenan."
+    },
+    {
+        "instruction": "Ek jana artist ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana artist ko naam Sunita ho. Uha ek prasiddha painter hun. Uha le dherai sundar chitra haru khechka chan. Uha ko chitra haru ma dherai rang haru prayog huncha. Uha ko chitra haru exhibition ma dherai manis haru le herna aau chan."
+    },
+    {
+        "instruction": "Yo sentence lai interrogative ma change gar: 'Uha le khana pakayo.'",
+        "input": "Uha le khana pakayo.",
+        "output": "Ke uha le khana pakayo?"
+    },
+    {
+        "instruction": "Ek jana writer ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana writer ko naam Hari ho. Uha le dherai kitaab haru lekheka chan. Uha ko kitaab haru dherai popular chan. Uha le afno kitaab ma dherai katha haru lekheka chan. Uha ko kitaab haru le dherai manis haru lai inspire gareko cha."
+    },
+    {
+        "instruction": "Yo sentence lai exclamatory ma change gar: 'Yo kitaab ramro cha.'",
+        "input": "Yo kitaab ramro cha.",
+        "output": "Kati ramro kitaab ho!"
+    },
+    {
+        "instruction": "Ek jana teacher ko daily routine describe gar.",
+        "input": "",
+        "output": "Ek jana teacher ko naam Sita ho. Uha subha 6 baje uthchan, brush garchan, nashta garcha, ani school janchan. School ma uha class lina janchan. Beluka 4 baje ghar farkinchan, khana khanchan, ra homework check garcha. Raat 10 baje sutna janchan."
+    },
+    {
+        "instruction": "Yo sentence lai past continuous tense ma change gar: 'Uha khana pakairaheko cha.'",
+        "input": "Uha khana pakairaheko cha.",
+        "output": "Uha khana pakairaheko thiyo."
+    },
+    {
+        "instruction": "Ek jana nurse ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana nurse ko naam Anu ho. Uha ek hospital ma kaam garcha. Uha dherai dayalu chan ra patient haru lai dherai sahayog garcha. Uha ko kaam dherai jimmewari ko cha. Uha ko sapana sabai patient haru lai swasth dekhne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai future continuous tense ma change gar: 'Uha ghar ma baschan.'",
+        "input": "Uha ghar ma baschan.",
+        "output": "Uha ghar ma basiraheko hunechan."
+    },
+    {
+        "instruction": "Ek jana engineer ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana engineer ko naam Ramesh ho. Uha ek construction company ma kaam garcha. Uha dherai mehenati chan ra afno kaam ma dherai dhyan dinchan. Uha le dherai thulo building haru design gareka chan. Uha ko sapana ek din afno company kholne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai passive voice ma change gar: 'Uha le kitaab padhyo.'",
+        "input": "Uha le kitaab padhyo.",
+        "output": "Kitaab padhiyo."
+    },
+    {
+        "instruction": "Ek jana artist ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana artist ko naam Sunita ho. Uha ek prasiddha painter hun. Uha le dherai sundar chitra haru khechka chan. Uha ko chitra haru ma dherai rang haru prayog huncha. Uha ko chitra haru exhibition ma dherai manis haru le herna aau chan."
+    },
+    {
+        "instruction": "Yo sentence lai active voice ma change gar: 'Kitaab padhiyo.'",
+        "input": "Kitaab padhiyo.",
+        "output": "Uha le kitaab padhyo."
+    },
+    {
+        "instruction": "Ek jana writer ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana writer ko naam Hari ho. Uha le dherai kitaab haru lekheka chan. Uha ko kitaab haru dherai popular chan. Uha le afno kitaab ma dherai katha haru lekheka chan. Uha ko kitaab haru le dherai manis haru lai inspire gareko cha."
+    },
+    {
+        "instruction": "Yo sentence lai negative question ma change gar: 'Uha school gayeka chan.'",
+        "input": "Uha school gayeka chan.",
+        "output": "Ke uha school gayeka chainan?"
+    },
+    {
+        "instruction": "Ek jana scientist ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana scientist ko naam Dr. Shrestha ho. Uha ek prasiddha biologist hun. Uha le dherai research haru gareka chan ra afno kaalama dherai mahatvapurna discovery haru gareka chan. Uha ko kaam le dherai manis haru ko jivan ma asar gareko cha. Uha ko sapana ek din afno research le sansar lai fayda pugos bhanne cha."
+    },
+    {
+        "instruction": "Yo sentence lai interrogative ma change gar: 'Uha le khana pakayo.'",
+        "input": "Uha le khana pakayo.",
+        "output": "Ke uha le khana pakayo?"
+    },
+    {
+        "instruction": "Ek jana athlete ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana athlete ko naam Ramesh ho. Uha ek dherai ramro runner hun. Uha le dherai competition haru ma bhaag liyeka chan ra dherai medal haru jiteka chan. Uha ko sapana Olympic ma bhaag lineko cha. Uha dherai mehenati chan ra afno sapana pura garna khojiraheka chan."
+    },
+    {
+        "instruction": "Yo sentence lai exclamatory ma change gar: 'Yo kitaab ramro cha.'",
+        "input": "Yo kitaab ramro cha.",
+        "output": "Kati ramro kitaab ho!"
+    },
+    {
+        "instruction": "Ek jana pilot ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana pilot ko naam Anil ho. Uha ek airline ma kaam garcha. Uha le dherai flight haru udayeka chan ra dherai desh haru ghumeka chan. Uha ko kaam dherai jimmewari ko cha. Uha lai udaan garnu dherai manparcha. Uha ko sapana ek din afno airline kholne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai affirmative ma change gar: 'Uha school jaane plan gareko chaina.'",
+        "input": "Uha school jaane plan gareko chaina.",
+        "output": "Uha school jaane plan gareko cha."
+    },
+    {
+        "instruction": "Ek jana chef ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana chef ko naam Sunita ho. Uha ek prasiddha restaurant ma kaam garcha. Uha le dherai mitho khana haru pakayeka chan. Uha ko khana haru sabai le dherai mitho bhanchan. Uha ko sapana ek din afno restaurant kholne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai negative ma change gar: 'Uha le kitaab padhyo.'",
+        "input": "Uha le kitaab padhyo.",
+        "output": "Uha le kitaab padhenan."
+    },
+    {
+        "instruction": "Ek jana photographer ko barema ek paragraph lekha.",
+        "input": "",
+        "output": "Ek jana photographer ko naam Ravi ho. Uha ek prasiddha photographer hun. Uha le dherai sundar photo haru khichka chan. Uha ko photo haru exhibition ma dherai manis haru le herna aau chan. Uha ko sapana ek din afno photo book publish garne ko cha."
+    },
+    {
+        "instruction": "Yo sentence lai interrogative ma change gar: 'Uha le khana pakayo.'",
+        "input": "Uha le khana pakayo.",
+        "output": "Ke uha le khana pakayo?"
+    },
+    {
+        "instruction": "Ek jana musician ko barema ek short story lekha.",
+        "input": "",
+        "output": "Ek jana musician ko naam Anu ho. Uha ek prasiddha singer hun. Uha le dherai hit geet haru gayeka chan. Uha ko awaz dherai sundar cha. Uha lai sabai le dherai manparchan. Uha ko sapana ek din afno music album release garne ko cha."
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "The weather is very nice today.",
+        "output": "Aajako mausam dherai ramro cha."
+    },
+    {
+        "instruction": "Summarize the following paragraph in Roman Nepali.",
+        "input": "Nepal is a beautiful country located in South Asia. It is known for its majestic mountains, including Mount Everest, the highest peak in the world. Nepal is also rich in culture and traditions.",
+        "output": "Nepal South Asia ma parne euta sundar desh ho. Yo aapthoora pahadharu, jasma Mount Everest, sansarko sabai bhanda uchai chuchuro, ra dherai sanskriti ra paramparale bharipur cha."
+    },
+    {
+        "instruction": "Answer the following question in Roman Nepali.",
+        "input": "Nepalko rajdhani k ho?",
+        "output": "Nepalko rajdhani Kathmandu ho."
+    },
+    {
+        "instruction": "Convert the following Roman Nepali sentence into a polite request.",
+        "input": "Malaai pani dinus.",
+        "output": "Kripaya malaai pani dinu hola."
+    },
+    {
+        "instruction": "Provide a list of 5 popular Nepali foods in Roman Nepali.",
+        "input": "",
+        "output": "1. Dal Bhat 2. Momo 3. Sel Roti 4. Gundruk 5. Dhido"
+    },
+    {
+        "instruction": "Explain the meaning of the following Nepali proverb in Roman Nepali.",
+        "input": "Hune biruwako chillo paat.",
+        "output": "Yo ukhanle bhaneko khas ma kehi pauna sajilai huncha bhanne ho."
+    },
+    {
+        "instruction": "Write a short story in Roman Nepali about a village boy who becomes a hero.",
+        "input": "",
+        "output": "Euta gaauka keta raheko thiyo, usko naam Ram thiyo. Ramle aafno gaauka lai dherai samasya bata bachaeko thiyo. Ek din gaau ma aag lago, Ramle sabailai bachaayo ra gaauka hero banyo."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English.",
+        "input": "Usko ghar pahadko tira cha.",
+        "output": "His house is towards the hills."
+    },
+    {
+        "instruction": "Correct the following Roman Nepali sentence grammatically.",
+        "input": "Uha haru school jaane.",
+        "output": "Uha haru school jaane."
+    },
+    {
+        "instruction": "Write a dialogue in Roman Nepali between two friends planning a trip to Pokhara.",
+        "input": "",
+        "output": "Ram: Hey Sita, pokhara jane sochirako chu. Sita: Ramro idea ho! Kati din jane sochya chau? Ram: 3 din. Sita: Thik cha, ma pani saath dinchu."
+    },
+    {
+        "instruction": "Provide a step-by-step guide in Roman Nepali on how to cook Dal Bhat.",
+        "input": "",
+        "output": "1. Sabai sabji ra daal dhunu. 2. Daal raani ma rakhera pakaaunu. 3. Bhat bhatti ma rakhera pakaaunu. 4. Sabji tarkari banaaunu. 5. Sabai kura ekai thaal ma serve garnu."
+    },
+    {
+        "instruction": "Translate the following English phrase into Roman Nepali.",
+        "input": "Happy Birthday!",
+        "output": "Janma dhin ko subhakamana!"
+    },
+    {
+        "instruction": "Write a motivational quote in Roman Nepali.",
+        "input": "",
+        "output": "Kasari sakiyo bhanne soch chodera, kasari sakincha bhanne soch gara."
+    },
+    {
+        "instruction": "Explain the importance of Dashain festival in Roman Nepali.",
+        "input": "",
+        "output": "Dashain Nepal ko sabai bhanda important festival ho. Yo festival le hamilai hamro family sanga jodcha ra hamra culture ra paramparalaai samjhcha."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English.",
+        "input": "Maile aaja naya kitab kinne.",
+        "output": "I will buy a new book today."
+    },
+    {
+        "instruction": "Write a short poem in Roman Nepali about nature.",
+        "input": "",
+        "output": "Himal ko mathi ujyalo cha, Tara haru le chamkidaicha. Pahad ra tarai ko sundarta, Hamro Nepal ko shaan cha."
+    },
+    {
+        "instruction": "Provide a list of 3 famous Nepali historical figures in Roman Nepali.",
+        "input": "",
+        "output": "1. Prithvi Narayan Shah 2. Bhanubhakta Acharya 3. Gautam Buddha"
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "I love to travel and explore new places.",
+        "output": "Malai naya thauharu herna ra ghumna man parcha."
+    },
+    {
+        "instruction": "Write a thank you note in Roman Nepali for a gift received.",
+        "input": "",
+        "output": "Dhanyabad, malaai yo upahar dina ko lagi. Yo mero lagi dherai mahtvapurna cha."
+    },
+    {
+        "instruction": "Explain the process of planting a tree in Roman Nepali.",
+        "input": "",
+        "output": "1. Euta ramro thau chunu. 2. Gada khannu. 3. Rukh ko root lai gada ma rakhnu. 4. Mati le cover garnu. 5. Pani dinu."
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "She is reading a book in the garden.",
+        "output": "Uni bagaan ma euta kitab padhiraheki chhan."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence using the word 'sundar' (beautiful).",
+        "input": "",
+        "output": "Yo place dherai sundar cha."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to congratulate someone on their success.",
+        "input": "",
+        "output": "Tapai ko safalta ko lagi hardik subhakamana!"
+    },
+    {
+        "instruction": "Explain the meaning of the following Roman Nepali phrase: 'Jyan jhai kura garnu'.",
+        "input": "",
+        "output": "Yo bhaneko kura lai seriously nalinu, majjale kura garnu ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence describing your favorite food.",
+        "input": "",
+        "output": "Mero manparne khana momo ho."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English.",
+        "input": "Usko sapana doctor banna ko thiyo.",
+        "output": "His dream was to become a doctor."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to ask for directions.",
+        "input": "",
+        "output": "Kripaya, yo bato kaha jancha bhanera bataidinus na."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to express gratitude.",
+        "input": "",
+        "output": "Dherai dherai dhanyabad!"
+    },
+    {
+        "instruction": "Explain the significance of the festival 'Tihar' in Roman Nepali.",
+        "input": "",
+        "output": "Tihar festival le hamilai hamra bhaisi, kukur, ra Laxmi mata ko puja garna sikhaucha. Yo festival prakriti ra manche ko beech ko jod lai darshuncha."
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "Can you help me with this problem?",
+        "output": "Kripaya, yo samasya ma mero sahayog garnu hola?"
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe the weather.",
+        "input": "",
+        "output": "Aajako mausam dherai garmi cha."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to apologize for being late.",
+        "input": "",
+        "output": "Ma deri bhayeko maaf paunu hola."
+    },
+    {
+        "instruction": "Explain the process of making tea in Roman Nepali.",
+        "input": "",
+        "output": "1. Pani tato garnu. 2. Chiya patti ra khursani halnu. 3. Dudh ra chini halnu. 4. Pakayera chhanu. 5. Serve garnu."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English.",
+        "input": "Maile aafno homework sakiyo.",
+        "output": "I have completed my homework."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to invite someone to a party.",
+        "input": "",
+        "output": "Kripaya, mero party ma aunu hola."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to wish someone good luck.",
+        "input": "",
+        "output": "Tapai ko lagi ramro khusi ra subhakamana!"
+    },
+    {
+        "instruction": "Explain the meaning of the following Roman Nepali phrase: 'Khaana khana janu'.",
+        "input": "",
+        "output": "Yo bhaneko khaana khana jane ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your daily routine.",
+        "input": "",
+        "output": "Ma bihana 6 baje uthchu, breakfast garera office jaanchu."
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "The children are playing in the park.",
+        "output": "Baccha haru park ma kheldai chhan."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite hobby.",
+        "input": "",
+        "output": "Mero manparne shok gadi chalau ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to ask for someone's name.",
+        "input": "",
+        "output": "Tapai ko naam ke ho?"
+    },
+    {
+        "instruction": "Explain the importance of education in Roman Nepali.",
+        "input": "",
+        "output": "Shiksha manche ko jeevan ma dherai important ho. Yo hami lai samajik ra arthik rup ma sudharna madat garcha."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English.",
+        "input": "Maile aafno sapana pura garna sakchu.",
+        "output": "I can fulfill my dreams."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite season.",
+        "input": "",
+        "output": "Mero manparne mausam basant ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to express excitement.",
+        "input": "",
+        "output": "Ma dherai utsahit chu!"
+    },
+    {
+        "instruction": "Explain the process of booking a bus ticket in Roman Nepali.",
+        "input": "",
+        "output": "1. Bus counter ma janu. 2. Ticket ko lagi sodhnu. 3. Paisa tirnu. 4. Ticket linu."
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "I am learning to play the guitar.",
+        "output": "Ma guitar bajna sikdai chu."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite movie.",
+        "input": "",
+        "output": "Mero manparne movie 'Jhola' ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to ask for help.",
+        "input": "",
+        "output": "Kripaya, mero sahayog garnu hola?"
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "He is going to the market to buy vegetables.",
+        "output": "Uni tarkari kinna bazaar jaadai chhan."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite place.",
+        "input": "",
+        "output": "Mero manparne thau Pokhara ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to express disappointment.",
+        "input": "",
+        "output": "Ma dherai nirash bhayeko chu."
+    },
+    {
+        "instruction": "Explain the meaning of the following Roman Nepali phrase: 'Aafno ghar jasto'.",
+        "input": "",
+        "output": "Yo bhaneko kura lai comfortable ra familiar feel garnu ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite animal.",
+        "input": "",
+        "output": "Mero manparne janawar kukhura ho."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English.",
+        "input": "Maile aafno kaam sakiyo.",
+        "output": "I have finished my work."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to ask for someone's opinion.",
+        "input": "",
+        "output": "Tapai ko ke bichar cha?"
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to express happiness.",
+        "input": "",
+        "output": "Ma dherai khusi chu!"
+    },
+    {
+        "instruction": "Explain the significance of the festival 'Holi' in Roman Nepali.",
+        "input": "",
+        "output": "Holi festival le hamilai rang ra ananda sanga manchhe ko beech ma ekta badhauna madat garcha."
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "She is cooking dinner for her family.",
+        "output": "Uni aafno parivar ko lagi khana pakairaheki chhan."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite book.",
+        "input": "",
+        "output": "Mero manparne kitab 'Muna Madan' ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to ask for directions to the nearest hospital.",
+        "input": "",
+        "output": "Kripaya, najik ko hospital kaha cha bhanera bataidinus na."
+    },
+    {
+        "instruction": "Explain the process of making a phone call in Roman Nepali.",
+        "input": "",
+        "output": "1. Phone uthaunu. 2. Number dial garnu. 3. Call button thichnu. 4. Kura garnu."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English.",
+        "input": "Maile aafno sapana pura garna sakchu.",
+        "output": "I can fulfill my dreams."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite sport.",
+        "input": "",
+        "output": "Mero manparne khel football ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to express surprise.",
+        "input": "",
+        "output": "Wow! Ma dherai chakita bhayeko chu!"
+    },
+    {
+        "instruction": "Explain the meaning of the following Roman Nepali phrase: 'Khaana khana janu'.",
+        "input": "",
+        "output": "Yo bhaneko khaana khana jane ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite festival.",
+        "input": "",
+        "output": "Mero manparne chhau Dashain ho."
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "The teacher is explaining the lesson to the students.",
+        "output": "Shikshak le bidhyarthi harulai path samjhai raheko chhan."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite song.",
+        "input": "",
+        "output": "Mero manparne geet 'Resham Firiri' ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to ask for someone's age.",
+        "input": "",
+        "output": "Tapai ko umer kati ho?"
+    },
+    {
+        "instruction": "Explain the importance of family in Roman Nepali.",
+        "input": "",
+        "output": "Pariwar hami sabai ko jeevan ma dherai important ho. Yo hami lai sahara ra sukh dina madat garcha."
+    },
+    {
+        "instruction": "Translate the following Roman Nepali sentence into English.",
+        "input": "Maile aafno sapana pura garna sakchu.",
+        "output": "I can fulfill my dreams."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite season.",
+        "input": "",
+        "output": "Mero manparne mausam basant ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to express excitement.",
+        "input": "",
+        "output": "Ma dherai utsahit chu!"
+    },
+    {
+        "instruction": "Explain the process of booking a bus ticket in Roman Nepali.",
+        "input": "",
+        "output": "1. Bus counter ma janu. 2. Ticket ko lagi sodhnu. 3. Paisa tirnu. 4. Ticket linu."
+    },
+    {
+        "instruction": "Translate the following English sentence into Roman Nepali.",
+        "input": "I am learning to play the guitar.",
+        "output": "Ma guitar bajna sikdai chu."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite movie.",
+        "input": "",
+        "output": "Mero manparne movie 'Jhola' ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to ask for help.",
+        "input": "",
+        "output": "Kripaya, mero sahayog garnu hola?"
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a magical tree that grants wishes.",
+        "input": "",
+        "output": "Euta gaau ma euta jadui rukh thiyo. Jun manche le tyo rukh lai prarthana garda, usko ichha pura hunthyo. Euta keta le tyo rukh bata aafno gaau ko sabai manche ko lagi khushi mangyo. Gaau ma dherai ramro samay aayo."
+    },
+    {
+        "instruction": "Solve the following math problem in Roman Nepali: If you have 5 apples and give 2 to your friend, how many apples do you have left?",
+        "input": "",
+        "output": "Ma sanga 5 ota syau thiyo. Maile 2 ota syau sathi lai diye. Aba ma sanga 3 ota syau bachyo."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a teacher and a student about homework.",
+        "input": "",
+        "output": "Shikshak: Timile homework gareko chhau? Bidhyarthi: Hajur, maile homework gareko chu. Shikshak: Ramro, aba timro padhai ma dhyan diu."
+    },
+    {
+        "instruction": "Imagine you are a tour guide. Write a Roman Nepali description of the Pashupatinath Temple.",
+        "input": "",
+        "output": "Pashupatinath Mandir Kathmandu ko euta pramukh dharmik sthal ho. Yo mandir Hindu dharmako euta mahatvapurna sthal ho ra yaha dherai bhakta haru darshan ko lagi aau chan."
+    },
+    {
+        "instruction": "Write a Roman Nepali poem about the beauty of the Himalayas.",
+        "input": "",
+        "output": "Himal ko mathi ujyalo cha, Tara haru le chamkidaicha. Pahad ra tarai ko sundarta, Hamro Nepal ko shaan cha."
+    },
+    {
+        "instruction": "Create a Roman Nepali recipe for a traditional Nepali dish, 'Gundruk Ko Jhol'.",
+        "input": "",
+        "output": "Gundruk Ko Jhol banau na: 1. Gundruk dhunu. 2. Tato pani ma gundruk halnu. 3. Pyaz, lasun, ra khursani tadka lagaunu. 4. Namak ra masala halnu. 5. Pakayera serve garnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali letter to your friend inviting them to your birthday party.",
+        "input": "",
+        "output": "Priya Sathi, Malai tapaailai mero janma din ko party ma aafno upasthiti diyera khusi paunu huncha. Party bihana 4 baje dekhi suru huncha. Dhanyabad!"
+    },
+    {
+        "instruction": "Explain the process of planting rice in Roman Nepali.",
+        "input": "",
+        "output": "1. Dhan ko bija taiyar garnu. 2. Gadi ma bija ropnu. 3. Pani ko vyavastha garnu. 4. Dhan ko bija ropnu. 5. Samay ma nidharu garnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your dream job.",
+        "input": "",
+        "output": "Mero sapana ko job doctor banna ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to encourage someone who is feeling sad.",
+        "input": "",
+        "output": "Nirash nabahu, sabai ramro huncha."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite historical place in Nepal.",
+        "input": "",
+        "output": "Mero manparne aitihasik thau Bhaktapur Durbar Square ho."
+    },
+    {
+        "instruction": "Explain the importance of saving water in Roman Nepali.",
+        "input": "",
+        "output": "Pani bachau na garnu dherai important ho. Pani bina hami jeevan nai sakdainau. Pani ko samrakshan garnu parcha."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite childhood memory.",
+        "input": "",
+        "output": "Mero manparne bachpan ko samjhauta dashain ma lungee khelda ko ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to ask for someone's phone number.",
+        "input": "",
+        "output": "Kripaya, tapai ko phone number dinu hola?"
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite traditional dress.",
+        "input": "",
+        "output": "Mero manparne paramparik lugee daura suruwal ho."
+    },
+    {
+        "instruction": "Explain the process of making a traditional Nepali 'Dhaka Topi' in Roman Nepali.",
+        "input": "",
+        "output": "1. Dhaka ko kapda kataunu. 2. Topi ko design taiyar garnu. 3. Kapda silnu. 4. Topi ko shape dinu. 5. Taiyar garnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite festival food.",
+        "input": "",
+        "output": "Mero manparne chhau ko khana sel roti ra achar ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to ask for someone's address.",
+        "input": "",
+        "output": "Kripaya, tapai ko thau ko address dinu hola?"
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite Nepali song.",
+        "input": "",
+        "output": "Mero manparne Nepali geet 'Resham Firiri' ho."
+    },
+    {
+        "instruction": "Explain the importance of education in Roman Nepali.",
+        "input": "",
+        "output": "Shiksha manche ko jeevan ma dherai important ho. Yo hami lai samajik ra arthik rup ma sudharna madat garcha."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite Nepali festival.",
+        "input": "",
+        "output": "Mero manparne chhau Dashain ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to express gratitude for a gift.",
+        "input": "",
+        "output": "Dhanyabad, malaai yo upahar dina ko lagi. Yo mero lagi dherai mahtvapurna cha."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite Nepali mountain.",
+        "input": "",
+        "output": "Mero manparne pahad Mount Everest ho."
+    },
+    {
+        "instruction": "Explain the process of making a traditional Nepali 'Sel Roti' in Roman Nepali.",
+        "input": "",
+        "output": "1. Pitho ra chini milaunu. 2. Pani halnu. 3. Ghol banau nu. 4. Telo ma fry garnu. 5. Serve garnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite Nepali river.",
+        "input": "",
+        "output": "Mero manparne nadi Bagmati ho."
+    },
+    {
+        "instruction": "Provide a Roman Nepali phrase to ask for someone's favorite color.",
+        "input": "",
+        "output": "Tapai ko manparne rang kun ho?"
+    },
+    {
+        "instruction": "Write a Roman Nepali sentence to describe your favorite Nepali dish.",
+        "input": "",
+        "output": "Mero manparne khana momo ho."
+    },
+    {
+        "instruction": "You are a robot assistant. Write a Roman Nepali response to a user asking for the weather forecast.",
+        "input": "Aaja ko mausam kasto hola?",
+        "output": "Aaja ko mausam dherai ramro huncha. Gham lagaera ali garmi huncha, ra beluka halka badal huna sakcha."
+    },
+    {
+        "instruction": "Imagine you are a shopkeeper. Write a Roman Nepali dialogue with a customer who wants to buy a notebook.",
+        "input": "",
+        "output": "Customer: Dai, euta notebook dinu na. Shopkeeper: Kasto notebook chahiyo? Customer: 100 page ko ramro quality ko. Shopkeeper: Yo linu, 50 rupiya huncha."
+    },
+    {
+        "instruction": "Write a Roman Nepali script for a short advertisement about a new brand of tea.",
+        "input": "",
+        "output": "Naya 'Chiya Delight' aayo! Sabai bhanda swadisht ra fresh chiya. Aafno din ko suruwat 'Chiya Delight' sanga garnu. Aba sabai pasal ma uplabdh cha!"
+    },
+    {
+        "instruction": "You are a travel agent. Write a Roman Nepali description of a 3-day tour package to Chitwan National Park.",
+        "input": "",
+        "output": "Chitwan National Park ko 3 din ko tour package ma jungle safari, elephant ride, tharu cultural program, ra hotel accommodation samet cha. Sabai ko lagi special offer cha!"
+    },
+    {
+        "instruction": "Write a Roman Nepali conversation between two friends planning a surprise birthday party for another friend.",
+        "input": "",
+        "output": "Ram: Hey Sita, Anu ko birthday ma surprise party garnu paryo. Sita: Ramro idea ho! Kaha garni? Ram: Hamro ghar ma garni. Sita: Thik cha, ma decoration ko lagi help garchu."
+    },
+    {
+        "instruction": "You are a news reporter. Write a Roman Nepali headline and a short news story about a new road being built in Kathmandu.",
+        "input": "",
+        "output": "Headline: Kathmandu ma naya sadak ko nirman suru. News: Kathmandu ma naya ring road ko nirman suru bhayeko cha. Yo sadak le traffic jam kam garera dherai manche ko jindagi sajilo banaune cha."
+    },
+    {
+        "instruction": "Write a Roman Nepali poem about the changing seasons in Nepal.",
+        "input": "",
+        "output": "Basant ma phul haru khilchan, Grishma ma gham le tapchan. Sharad ma badal haru le huncha megha, Hemant ma huncha halka sital chhan."
+    },
+    {
+        "instruction": "Imagine you are a chef. Write a Roman Nepali step-by-step guide to making 'Aloo Tama'.",
+        "input": "",
+        "output": "1. Aloo ra tama dhunu. 2. Pyaz, lasun, ra khursani tadka lagaunu. 3. Aloo ra tama halera pakaaunu. 4. Masala ra namak halnu. 5. Serve garnu."
+    },
+    {
+        "instruction": "You are a teacher. Write a Roman Nepali explanation of the water cycle for a 5th-grade student.",
+        "input": "",
+        "output": "Pani ko chakra ma pani badal bata jharan banauncha, jharan bata nadi ma jancha, ra nadi bata samundra ma jancha. Samundra bata pani vapor banaera badal ma jancha, ra feri jharan banauncha."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a doctor and a patient about a stomach ache.",
+        "input": "",
+        "output": "Doctor: Tapai lai kasto samasya cha? Patient: Mero pet dukhai raheko cha. Doctor: Kehi bigreko khana khayeko hola? Patient: Hola, maile ali spicy khana khayeko thiye."
+    },
+    {
+        "instruction": "Imagine you are a farmer. Write a Roman Nepali explanation of how to grow tomatoes.",
+        "input": "",
+        "output": "1. Gadi ma mato taiyar garnu. 2. Tomato ko bija ropnu. 3. Pani ra manure dinu. 4. Samay ma nidharu garnu. 5. Tomato pakepachi tarnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a boy who finds a magical stone that can talk.",
+        "input": "",
+        "output": "Euta keta le jungle ma euta jadui dhunga payo. Tyas dhunga le kura garna sakthyo. Keta le dhunga bata dherai sapana pura garyo ra gaau ko manche haru ko madat garyo."
+    },
+    {
+        "instruction": "You are a fitness trainer. Write a Roman Nepali guide to doing 10 push-ups correctly.",
+        "input": "",
+        "output": "1. Peta ko bahinchha ma sutnu. 2. Hata le mato ma samatnu. 3. Kukhura samatnu. 4. Hata haru bend garera mathi tala janu. 5. 10 choti repeat garnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali conversation between a parent and a child about homework.",
+        "input": "",
+        "output": "Parent: Timile homework gareko chhau? Child: Hajur, maile homework gareko chu. Parent: Ramro, aba timro padhai ma dhyan diu."
+    },
+    {
+        "instruction": "Imagine you are a tour guide. Write a Roman Nepali description of the Boudhanath Stupa.",
+        "input": "",
+        "output": "Boudhanath Stupa Kathmandu ko euta pramukh dharmik sthal ho. Yo stupa Buddhist dharmako euta mahatvapurna sthal ho ra yaha dherai bhakta haru darshan ko lagi aau chan."
+    },
+    {
+        "instruction": "Write a Roman Nepali poem about the beauty of the Terai region in Nepal.",
+        "input": "",
+        "output": "Tarai ko dhal ma ubreko khet, Dhanko bali le bhareko chet. Ramro mausam ra ramro manche, Tarai ko sundarta nai khas cha."
+    },
+    {
+        "instruction": "You are a scientist. Write a Roman Nepali explanation of how rain is formed.",
+        "input": "",
+        "output": "Badal ma pani ko droplets haru jama huncha. Tyasa droplets haru dherai vayera jharan banauncha ra jharan le mato ma khascha."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between two friends discussing their favorite movies.",
+        "input": "",
+        "output": "Ram: Hey Sita, tapai ko manparne movie kun ho? Sita: Mero manparne movie 'Jhola' ho. Ram: Malai pani tyo movie dherai man parcha."
+    },
+    {
+        "instruction": "Imagine you are a librarian. Write a Roman Nepali guide on how to find a book in the library.",
+        "input": "",
+        "output": "1. Library ko catalog hernu. 2. Book ko title ra author ko naam khojnu. 3. Book ko shelf number hernu. 4. Tyas shelf ma gayera book khojnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a girl who discovers she can talk to animals.",
+        "input": "",
+        "output": "Euti keti le jungle ma euta jadui phool payo. Tyas phool le uslai janwar haru sanga kura garna sakne shakti diyo. Usko naya sathi haru janwar banyo."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a magical flute that can control the wind.",
+        "input": "",
+        "output": "Euta gaau ma euta keta le euta jadui murli payo. Tyas murli le hawa lai control garna sakthyo. Keta le murli bajaera gaau ko kheti haru lai pani diyo ra sabai lai madat garyo."
+    },
+    {
+        "instruction": "Imagine you are a scientist. Write a Roman Nepali explanation of how the moon affects the tides.",
+        "input": "",
+        "output": "Joon le samundra ko pani lai gravity le tancha. Joon najik huda pani ko level badhcha, ra tadha huda ghatcha. Yo process lai tide bhanincha."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a taxi driver and a passenger going to the airport.",
+        "input": "",
+        "output": "Passenger: Dai, airport jane ho. Taxi Driver: Hajur, kati baje flight cha? Passenger: 10 baje cha. Taxi Driver: Thik cha, hami chito pugchaum."
+    },
+    {
+        "instruction": "You are a historian. Write a Roman Nepali description of the Battle of Kirtipur.",
+        "input": "",
+        "output": "Kirtipur ko yuddha Prithvi Narayan Shah le Nepal ekikaran ko kaal ma ladaeko thiyo. Yo yuddha ma Gorkhali sena le Kirtipur lai jitna dherai samay lageko thiyo."
+    },
+    {
+        "instruction": "Write a Roman Nepali poem about the joy of flying a kite.",
+        "input": "",
+        "output": "Hawa ma udne changa, Rangila patang ko sanga. Dori lai dherai tanera, Aakash ma udau aba."
+    },
+    {
+        "instruction": "Imagine you are a chef. Write a Roman Nepali recipe for 'Yomari', a traditional Newari dish.",
+        "input": "",
+        "output": "Yomari banau na: 1. Pitho ra pani milaunu. 2. Yomari ko shape dinu. 3. Chaku ra til ko pur bharunu. 4. Steam ma pakaaunu. 5. Serve garnu."
+    },
+    {
+        "instruction": "You are a teacher. Write a Roman Nepali explanation of the importance of reading books.",
+        "input": "",
+        "output": "Kitab padhna le hami lai naya jankari dincha, bichar badhaucha, ra imagination lai develop garcha. Kitab padhna ramro aadat ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali conversation between two friends discussing their favorite sports.",
+        "input": "",
+        "output": "Ram: Hey Sita, tapai ko manparne khel kun ho? Sita: Mero manparne khel football ho. Ram: Malai pani football man parcha."
+    },
+    {
+        "instruction": "Imagine you are a tour guide. Write a Roman Nepali description of the Annapurna Base Camp trek.",
+        "input": "",
+        "output": "Annapurna Base Camp trek Nepal ko euta pramukh trekking route ho. Yo trek ma dherai pahad, jungle, ra ramro manche haru sanga bhet huncha. Trek ko antim thau Annapurna Base Camp ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a boy who discovers a hidden treasure in his backyard.",
+        "input": "",
+        "output": "Euta keta le aafno backyard ma euta gufa payo. Gufa ma dherai sona, chandi, ra ratna haru thiyo. Keta le tyo sampatti gaau ko sabai manche haru ko madat ko lagi use garyo."
+    },
+    {
+        "instruction": "You are a doctor. Write a Roman Nepali guide on how to stay healthy during winter.",
+        "input": "",
+        "output": "1. Garmi kapada lagaunu. 2. Pani dherai piunu. 3. Swasthya ko lagi ramro khana khanu. 4. Exercise garnu. 5. Nid ramro linu."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a shopkeeper and a customer bargaining over the price of a shirt.",
+        "input": "",
+        "output": "Customer: Dai, yo shirt ko kati paisa? Shopkeeper: 1000 rupiya. Customer: 800 ma dinu na. Shopkeeper: Thik cha, linu."
+    },
+    {
+        "instruction": "Imagine you are a poet. Write a Roman Nepali poem about the beauty of the sunrise.",
+        "input": "",
+        "output": "Bihana ko surya, Ujyalo le bharyo duniya. Pahad haru ma chamkine, Naya din ko suruwat garau."
+    },
+    {
+        "instruction": "You are a farmer. Write a Roman Nepali explanation of how to grow rice.",
+        "input": "",
+        "output": "1. Dhan ko bija taiyar garnu. 2. Gadi ma bija ropnu. 3. Pani ko vyavastha garnu. 4. Dhan ko bija ropnu. 5. Samay ma nidharu garnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a girl who can talk to plants.",
+        "input": "",
+        "output": "Euti keti le jungle ma euta jadui phool payo. Tyas phool le uslai rukh haru sanga kura garna sakne shakti diyo. Usko naya sathi haru rukh haru banyo."
+    },
+    {
+        "instruction": "Imagine you are a scientist. Write a Roman Nepali explanation of how a rainbow is formed.",
+        "input": "",
+        "output": "Rainbow surya ko prakash le pani ko droplets ma refract huda banauncha. Yo prakash le 7 ota rang haru dekhaucha: red, orange, yellow, green, blue, indigo, ra violet."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between two friends planning a picnic.",
+        "input": "",
+        "output": "Ram: Hey Sita, picnic jane sochirako chu. Sita: Ramro idea ho! Kaha jane sochya chau? Ram: Nagarkot jane sochya chu. Sita: Thik cha, ma pani saath dinchu."
+    },
+    {
+        "instruction": "You are a teacher. Write a Roman Nepali explanation of the importance of teamwork.",
+        "input": "",
+        "output": "Teamwork le hami lai ek dui sanga milera kaam garna sikhaucha. Teamwork bina kehi pani garo huncha, tara teamwork sanga sabai sajilo huncha."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a boy who finds a magical lamp.",
+        "input": "",
+        "output": "Euta keta le euta jadui batti payo. Tyas batti ma euta jinn thiyo. Jinn le keta ko sabai sapana pura garyo ra uslai dherai sampatti diyo."
+    },
+    {
+        "instruction": "Imagine you are a chef. Write a Roman Nepali recipe for 'Sel Roti'.",
+        "input": "",
+        "output": "Sel Roti banau na: 1. Pitho ra chini milaunu. 2. Pani halnu. 3. Ghol banau nu. 4. Telo ma fry garnu. 5. Serve garnu."
+    },
+    {
+        "instruction": "Imagine you are a robot. Write a Roman Nepali response to a user asking how to learn a new language.",
+        "input": "Maile naya bhasa kasari siknu?",
+        "output": "Naya bhasa sikna ko lagi timile daily practice garnu parcha. Vocabulary ra grammar siknu, bhasa ko music sunnu, ra native speaker haru sanga kura garnu ramro huncha."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a village where everyone can read each other's thoughts.",
+        "input": "",
+        "output": "Euta gaau ma sabai manche le ek arka ko soch padhna sakthyo. Pahila ta yo ramro lagthyo, tara pachi sabai lai ek arka ko soch le paresan banauna thalyoo. Ek din euta budha le sabai lai ek arka ko soch napadna sikayo ra gaau ma shanti pharkyo."
+    },
+    {
+        "instruction": "You are a scientist. Write a Roman Nepali explanation of how solar panels work.",
+        "input": "",
+        "output": "Solar panel le surya ko prakash lai electricity ma convert garcha. Solar panel ma photovoltaic cells huncha, jo le prakash lai energy ma badalcha ra tyo energy lai hamile use garna sakchau."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a parent and a child about the importance of saving money.",
+        "input": "",
+        "output": "Parent: Timile paisa bachau na garnu parcha. Child: Kina dai? Parent: Paisa bachau na garnu le future ma madat garcha. Emergency ko lagi paisa huna parcha."
+    },
+    {
+        "instruction": "Imagine you are a tour guide. Write a Roman Nepali description of the Mustang region.",
+        "input": "",
+        "output": "Mustang Nepal ko euta pramukh trekking region ho. Yo thau ma dherai pahad, gufa, ra purano ghar haru chan. Mustang lai 'Forbidden Kingdom' pani bhanincha."
+    },
+    {
+        "instruction": "Write a Roman Nepali poem about the beauty of the night sky.",
+        "input": "",
+        "output": "Raat ko aakash ma tara haru chamkidaichan, Chandrama le ujyalo le bharyo duniya. Aakash ko gahirai ma hami sabai lost bhaichau, Raat ko sundarta le hami lai mesmerize garyo."
+    },
+    {
+        "instruction": "You are a chef. Write a Roman Nepali recipe for 'Kwati', a traditional Nepali soup.",
+        "input": "",
+        "output": "Kwati banau na: 1. Dherai prakar ko beans dhunu. 2. Beans lai rati bhijaaunu. 3. Beans lai pressure cooker ma pakaaunu. 4. Masala ra namak halnu. 5. Serve garnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali conversation between two friends discussing their dream vacations.",
+        "input": "",
+        "output": "Ram: Hey Sita, tapai ko dream vacation kun thau ma jane ho? Sita: Mero dream vacation Europe jane ho. Ram: Malai pani Europe jana man cha."
+    },
+    {
+        "instruction": "Imagine you are a teacher. Write a Roman Nepali explanation of the importance of honesty.",
+        "input": "",
+        "output": "Imaandaar huna le hami lai sabai ko biswas pauna madat garcha. Imaandaar manche lai sabai le manchan ra usko jeevan ma dherai sukh huncha."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a boy who discovers he can time travel.",
+        "input": "",
+        "output": "Euta keta le euta jadui ghadi payo. Tyas ghadi le uslai time travel garna sakne shakti diyo. Usko naya adventure haru suru bho."
+    },
+    {
+        "instruction": "You are a doctor. Write a Roman Nepali guide on how to prevent the common cold.",
+        "input": "",
+        "output": "1. Hata dherai dhunu. 2. Garmi kapada lagaunu. 3. Pani dherai piunu. 4. Swasthya ko lagi ramro khana khanu. 5. Nid ramro linu."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a shopkeeper and a customer discussing the quality of a product.",
+        "input": "",
+        "output": "Customer: Dai, yo product ko quality kasto cha? Shopkeeper: Yo product dherai ramro quality ko cha. Customer: Thik cha, ma yo lina lageko chu."
+    },
+    {
+        "instruction": "Imagine you are a poet. Write a Roman Nepali poem about the changing seasons.",
+        "input": "",
+        "output": "Basant ma phul haru khilchan, Grishma ma gham le tapchan. Sharad ma badal haru le huncha megha, Hemant ma huncha halka sital chhan."
+    },
+    {
+        "instruction": "You are a farmer. Write a Roman Nepali explanation of how to grow potatoes.",
+        "input": "",
+        "output": "1. Gadi ma mato taiyar garnu. 2. Potato ko bija ropnu. 3. Pani ra manure dinu. 4. Samay ma nidharu garnu. 5. Potato pakepachi tarnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a girl who can talk to the stars.",
+        "input": "",
+        "output": "Euti keti le raati aakash ma tara haru sanga kura garnu sakthyo. Tara haru le uslai dherai rahasya haru bataunu thale ra usko jeevan ma naya adventure haru suru bho."
+    },
+    {
+        "instruction": "Imagine you are a scientist. Write a Roman Nepali explanation of how a volcano erupts.",
+        "input": "",
+        "output": "Volcano ko eruption magma le huncha. Magma underground ma dherai pressure banaucha ra tyo pressure le volcano ko eruption huncha."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between two friends planning a hiking trip.",
+        "input": "",
+        "output": "Ram: Hey Sita, hiking jane sochirako chu. Sita: Ramro idea ho! Kaha jane sochya chau? Ram: Shivapuri jane sochya chu. Sita: Thik cha, ma pani saath dinchu."
+    },
+    {
+        "instruction": "You are a teacher. Write a Roman Nepali explanation of the importance of reading books.",
+        "input": "",
+        "output": "Kitab padhna le hami lai naya jankari dincha, bichar badhaucha, ra imagination lai develop garcha. Kitab padhna ramro aadat ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a boy who finds a magical lamp.",
+        "input": "",
+        "output": "Euta keta le euta jadui batti payo. Tyas batti ma euta jinn thiyo. Jinn le keta ko sabai sapana pura garyo ra uslai dherai sampatti diyo."
+    },
+    {
+        "instruction": "Imagine you are a chef. Write a Roman Nepali recipe for 'Yomari', a traditional Newari dish.",
+        "input": "",
+        "output": "Yomari banau na: 1. Pitho ra pani milaunu. 2. Yomari ko shape dinu. 3. Chaku ra til ko pur bharunu. 4. Steam ma pakaaunu. 5. Serve garnu."
+    },
+    {
+        "instruction": "Imagine you are a robot. Write a Roman Nepali response to a user asking how to stay motivated.",
+        "input": "Ma kasari motivated rahunu?",
+        "output": "Motivated rahna ko lagi timile aafno goals set garnu parcha, daily progress hernu parcha, ra positive soch rakhnu parcha. Aafno achievements lai celebrate garnu ra aafno mistakes bata siknu."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a village where everyone has a superpower.",
+        "input": "",
+        "output": "Euta gaau ma sabai manche ko euta superpower thiyo. Kasaile udna sakthyo, kasaile pani ma hidna sakthyo, ra kasaile bhavishya dekhna sakthyo. Sabai le aafno power use garera gaau ko bikash ma madat gare."
+    },
+    {
+        "instruction": "You are a scientist. Write a Roman Nepali explanation of how the human brain works.",
+        "input": "",
+        "output": "Human brain le neurons ko madhyam bata information process garcha. Neurons le electrical signals use garera body ko sabai parts lai control garcha ra hami lai sochna, feel garna, ra react garna madat garcha."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a parent and a child about the importance of education.",
+        "input": "",
+        "output": "Parent: Timile padhna kati important cha bhanera thaha chha? Child: Hajur, padhna le hami lai ramro jeevan pauna madat garcha. Parent: Thik ho, padhna lai priority dinu parcha."
+    },
+    {
+        "instruction": "Imagine you are a tour guide. Write a Roman Nepali description of the Langtang region.",
+        "input": "",
+        "output": "Langtang region Nepal ko euta pramukh trekking area ho. Yo thau ma dherai pahad, jungle, ra ramro manche haru sanga bhet huncha. Langtang ko antim thau Langtang Valley ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali poem about the beauty of the mountains.",
+        "input": "",
+        "output": "Pahad haru ko mathi ujyalo cha, Tara haru le chamkidaicha. Pahad ra tarai ko sundarta, Hamro Nepal ko shaan cha."
+    },
+    {
+        "instruction": "You are a chef. Write a Roman Nepali recipe for 'Chatamari', a traditional Newari dish.",
+        "input": "",
+        "output": "Chatamari banau na: 1. Pitho ra pani milaunu. 2. Chatamari ko shape dinu. 3. Masala ra keema halnu. 4. Tawa ma pakaaunu. 5. Serve garnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali conversation between two friends discussing their favorite books.",
+        "input": "",
+        "output": "Ram: Hey Sita, tapai ko manparne kitab kun ho? Sita: Mero manparne kitab 'Muna Madan' ho. Ram: Malai pani tyo kitab dherai man parcha."
+    },
+    {
+        "instruction": "Imagine you are a teacher. Write a Roman Nepali explanation of the importance of teamwork.",
+        "input": "",
+        "output": "Teamwork le hami lai ek dui sanga milera kaam garna sikhaucha. Teamwork bina kehi pani garo huncha, tara teamwork sanga sabai sajilo huncha."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a boy who discovers he can talk to animals.",
+        "input": "",
+        "output": "Euta keta le jungle ma euta jadui phool payo. Tyas phool le uslai janwar haru sanga kura garna sakne shakti diyo. Usko naya sathi haru janwar haru banyo."
+    },
+    {
+        "instruction": "You are a doctor. Write a Roman Nepali guide on how to stay healthy during summer.",
+        "input": "",
+        "output": "1. Pani dherai piunu. 2. Garmi kapada lagaunu. 3. Swasthya ko lagi ramro khana khanu. 4. Exercise garnu. 5. Nid ramro linu."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a shopkeeper and a customer discussing the price of a product.",
+        "input": "",
+        "output": "Customer: Dai, yo product ko kati paisa? Shopkeeper: 500 rupiya. Customer: 400 ma dinu na. Shopkeeper: Thik cha, linu."
+    },
+    {
+        "instruction": "Imagine you are a poet. Write a Roman Nepali poem about the beauty of the rivers.",
+        "input": "",
+        "output": "Nadi haru ko dhal ma ubreko khet, Dhanko bali le bhareko chet. Ramro mausam ra ramro manche, Nadi ko sundarta nai khas cha."
+    },
+    {
+        "instruction": "You are a farmer. Write a Roman Nepali explanation of how to grow wheat.",
+        "input": "",
+        "output": "1. Gadi ma mato taiyar garnu. 2. Wheat ko bija ropnu. 3. Pani ra manure dinu. 4. Samay ma nidharu garnu. 5. Wheat pakepachi tarnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a girl who can talk to the stars.",
+        "input": "",
+        "output": "Euti keti le raati aakash ma tara haru sanga kura garnu sakthyo. Tara haru le uslai dherai rahasya haru bataunu thale ra usko jeevan ma naya adventure haru suru bho."
+    },
+    {
+        "instruction": "Imagine you are a scientist. Write a Roman Nepali explanation of how a rainbow is formed.",
+        "input": "",
+        "output": "Rainbow surya ko prakash le pani ko droplets ma refract huda banauncha. Yo prakash le 7 ota rang haru dekhaucha: red, orange, yellow, green, blue, indigo, ra violet."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between two friends planning a picnic.",
+        "input": "",
+        "output": "Ram: Hey Sita, picnic jane sochirako chu. Sita: Ramro idea ho! Kaha jane sochya chau? Ram: Nagarkot jane sochya chu. Sita: Thik cha, ma pani saath dinchu."
+    },
+    {
+        "instruction": "You are a teacher. Write a Roman Nepali explanation of the importance of reading books.",
+        "input": "",
+        "output": "Kitab padhna le hami lai naya jankari dincha, bichar badhaucha, ra imagination lai develop garcha. Kitab padhna ramro aadat ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a boy who finds a magical lamp.",
+        "input": "",
+        "output": "Euta keta le euta jadui batti payo. Tyas batti ma euta jinn thiyo. Jinn le keta ko sabai sapana pura garyo ra uslai dherai sampatti diyo."
+    },
+    {
+        "instruction": "Imagine you are a chef. Write a Roman Nepali recipe for 'Sel Roti'.",
+        "input": "",
+        "output": "Sel Roti banau na: 1. Pitho ra chini milaunu. 2. Pani halnu. 3. Ghol banau nu. 4. Telo ma fry garnu. 5. Serve garnu."
+    },
+    {
+        "instruction": "Imagine you are a robot. Write a Roman Nepali response to a user asking how to stay motivated.",
+        "input": "Ma kasari motivated rahunu?",
+        "output": "Motivated rahna ko lagi timile aafno goals set garnu parcha, daily progress hernu parcha, ra positive soch rakhnu parcha. Aafno achievements lai celebrate garnu ra aafno mistakes bata siknu."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a village where everyone has a superpower.",
+        "input": "",
+        "output": "Euta gaau ma sabai manche ko euta superpower thiyo. Kasaile udna sakthyo, kasaile pani ma hidna sakthyo, ra kasaile bhavishya dekhna sakthyo. Sabai le aafno power use garera gaau ko bikash ma madat gare."
+    },
+    {
+        "instruction": "You are a scientist. Write a Roman Nepali explanation of how the human brain works.",
+        "input": "",
+        "output": "Human brain le neurons ko madhyam bata information process garcha. Neurons le electrical signals use garera body ko sabai parts lai control garcha ra hami lai sochna, feel garna, ra react garna madat garcha."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a parent and a child about the importance of education.",
+        "input": "",
+        "output": "Parent: Timile padhna kati important cha bhanera thaha chha? Child: Hajur, padhna le hami lai ramro jeevan pauna madat garcha. Parent: Thik ho, padhna lai priority dinu parcha."
+    },
+    {
+        "instruction": "Imagine you are a tour guide. Write a Roman Nepali description of the Langtang region.",
+        "input": "",
+        "output": "Langtang region Nepal ko euta pramukh trekking area ho. Yo thau ma dherai pahad, jungle, ra ramro manche haru sanga bhet huncha. Langtang ko antim thau Langtang Valley ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali poem about the beauty of the mountains.",
+        "input": "",
+        "output": "Pahad haru ko mathi ujyalo cha, Tara haru le chamkidaicha. Pahad ra tarai ko sundarta, Hamro Nepal ko shaan cha."
+    },
+    {
+        "instruction": "You are a chef. Write a Roman Nepali recipe for 'Chatamari', a traditional Newari dish.",
+        "input": "",
+        "output": "Chatamari banau na: 1. Pitho ra pani milaunu. 2. Chatamari ko shape dinu. 3. Masala ra keema halnu. 4. Tawa ma pakaaunu. 5. Serve garnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali conversation between two friends discussing their favorite books.",
+        "input": "",
+        "output": "Ram: Hey Sita, tapai ko manparne kitab kun ho? Sita: Mero manparne kitab 'Muna Madan' ho. Ram: Malai pani tyo kitab dherai man parcha."
+    },
+    {
+        "instruction": "Imagine you are a teacher. Write a Roman Nepali explanation of the importance of teamwork.",
+        "input": "",
+        "output": "Teamwork le hami lai ek dui sanga milera kaam garna sikhaucha. Teamwork bina kehi pani garo huncha, tara teamwork sanga sabai sajilo huncha."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a boy who discovers he can talk to animals.",
+        "input": "",
+        "output": "Euta keta le jungle ma euta jadui phool payo. Tyas phool le uslai janwar haru sanga kura garna sakne shakti diyo. Usko naya sathi haru janwar haru banyo."
+    },
+    {
+        "instruction": "You are a doctor. Write a Roman Nepali guide on how to stay healthy during summer.",
+        "input": "",
+        "output": "1. Pani dherai piunu. 2. Garmi kapada lagaunu. 3. Swasthya ko lagi ramro khana khanu. 4. Exercise garnu. 5. Nid ramro linu."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between a shopkeeper and a customer discussing the price of a product.",
+        "input": "",
+        "output": "Customer: Dai, yo product ko kati paisa? Shopkeeper: 500 rupiya. Customer: 400 ma dinu na. Shopkeeper: Thik cha, linu."
+    },
+    {
+        "instruction": "Imagine you are a poet. Write a Roman Nepali poem about the beauty of the rivers.",
+        "input": "",
+        "output": "Nadi haru ko dhal ma ubreko khet, Dhanko bali le bhareko chet. Ramro mausam ra ramro manche, Nadi ko sundarta nai khas cha."
+    },
+    {
+        "instruction": "You are a farmer. Write a Roman Nepali explanation of how to grow wheat.",
+        "input": "",
+        "output": "1. Gadi ma mato taiyar garnu. 2. Wheat ko bija ropnu. 3. Pani ra manure dinu. 4. Samay ma nidharu garnu. 5. Wheat pakepachi tarnu."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a girl who can talk to the stars.",
+        "input": "",
+        "output": "Euti keti le raati aakash ma tara haru sanga kura garnu sakthyo. Tara haru le uslai dherai rahasya haru bataunu thale ra usko jeevan ma naya adventure haru suru bho."
+    },
+    {
+        "instruction": "Imagine you are a scientist. Write a Roman Nepali explanation of how a rainbow is formed.",
+        "input": "",
+        "output": "Rainbow surya ko prakash le pani ko droplets ma refract huda banauncha. Yo prakash le 7 ota rang haru dekhaucha: red, orange, yellow, green, blue, indigo, ra violet."
+    },
+    {
+        "instruction": "Write a Roman Nepali dialogue between two friends planning a picnic.",
+        "input": "",
+        "output": "Ram: Hey Sita, picnic jane sochirako chu. Sita: Ramro idea ho! Kaha jane sochya chau? Ram: Nagarkot jane sochya chu. Sita: Thik cha, ma pani saath dinchu."
+    },
+    {
+        "instruction": "You are a teacher. Write a Roman Nepali explanation of the importance of reading books.",
+        "input": "",
+        "output": "Kitab padhna le hami lai naya jankari dincha, bichar badhaucha, ra imagination lai develop garcha. Kitab padhna ramro aadat ho."
+    },
+    {
+        "instruction": "Write a Roman Nepali story about a boy who finds a magical lamp.",
+        "input": "",
+        "output": "Euta keta le euta jadui batti payo. Tyas batti ma euta jinn thiyo. Jinn le keta ko sabai sapana pura garyo ra uslai dherai sampatti diyo."
+    },
+    {
+        "instruction": "Imagine you are a chef. Write a Roman Nepali recipe for 'Sel Roti'.",
+        "input": "",
+        "output": "Sel Roti banau na: 1. Pitho ra chini milaunu. 2. Pani halnu. 3. Ghol banau nu. 4. Telo ma fry garnu. 5. Serve garnu."
+    }
+]

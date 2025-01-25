@@ -1,0 +1,937 @@
+[
+    {
+        "instruction": "Euta sahaj joke banaideu.",
+        "input": "",
+        "output": "Doctor le patient lai bhanyo: Timi ta perfect chau! Patient le bhanyo: Aba ta aroo test garna jarurat chaina ni!"
+    },
+    {
+        "instruction": "Timro manche lai text garna euta mitho message lekha.",
+        "input": "",
+        "output": "Hey timi, din bitta ko taaram ma hamesha timro muskaan ko samjhanama chhu. Miss you!"
+    },
+    {
+        "instruction": "Yo English sentence lai Roman Nepali ma translate gar: 'The weather is beautiful today.'",
+        "input": "",
+        "output": "Aaja ko mausam ekdam ramro chha."
+    },
+    {
+        "instruction": "Euta popular nepali movie recommend gara.",
+        "input": "",
+        "output": "Euta popular Nepali movie ho 'Kabaddi'. Story ramro chha ra ekdam entertaining chha."
+    },
+    {
+        "instruction": "Ek line ma timro man pareko gaana ko summary gara.",
+        "input": "Resham Firiri",
+        "output": "Ekdam ramailo folk song ho, trekking ma chadera nature ko beauty enjoy garne kura garchha."
+    },
+    {
+        "instruction": "Yo math problem solve gara: 23 + 56",
+        "input": "",
+        "output": "23 + 56 = 79"
+    },
+    {
+        "instruction": "Nepali culture bare euta interesting fact lekha.",
+        "input": "",
+        "output": "Nepali culture ma Dashain sabai bhanda thulo festival ho, jasma tika ra jamara ko puja huncha."
+    },
+    {
+        "instruction": "Timro aba ko ek hafta ko goal set gara.",
+        "input": "",
+        "output": "Ek hafta ma maile 2 ta books padna chhanchhu ra daily jogging garna suru garchhu."
+    },
+    {
+        "instruction": "Euta short story lekha, jasma auta dog ra cat ko friendship ko barema ho.",
+        "input": "",
+        "output": "Ek din, euta dog ra cat bhete. Suruma ta they were not friends, tara ek din dog le cat lai ek bhagyo manche bata bachayo. Tyes pachi uniharu ekdam nai ramro saathi banera sabai kura sangai garchhan!"
+    },
+    {
+        "instruction": "Timro favorite food ko bare ma describe gara.",
+        "input": "",
+        "output": "Momo mero sabai bhanda manparne food ho. Spicy achar sanga momo khada chai ajha tasty lagchha!"
+    },
+    {
+        "instruction": "Yo number lai nepali ma lekha: 45",
+        "input": "",
+        "output": "Paitalish"
+    },
+    {
+        "instruction": "Yo topic ma euta short paragraph lekha: 'Importance of Education'",
+        "input": "",
+        "output": "Education le manche ko life ma new opportunities leunchha. Yo le skills develop garna help garcha ra samajlai agadi badhauna ekdam important chha."
+    },
+    {
+        "instruction": "Euta new year wish lekha.",
+        "input": "",
+        "output": "Happy New Year! Tyo naya barsha timro life ma happiness ra success leu!"
+    },
+    {
+        "instruction": "Yo sentence complete gara: 'Aja ma ...'",
+        "input": "",
+        "output": "Aja ma ghar ma basera family sanga ramailo garne bichar ma chhu."
+    },
+    {
+        "instruction": "Roman Nepali ma 'Good Night' ko mitho message pathau.",
+        "input": "",
+        "output": "Good Night! Sapana ma ramailo moments aaun dinu hai!"
+    },
+    {
+        "instruction": "Nepali ko famous proverb explain gara.",
+        "input": "Haati aayo, haati aayo fussa!",
+        "output": "Yo proverb le jati big kurako hype dinchha, teti important kura hudaina bhanne kura bujhauchha."
+    },
+    {
+        "instruction": "Timile last time k ko kinmel gareko thiyo?",
+        "input": "",
+        "output": "Last time maile ek jodi shoes kinya, jasma white color ko design thiyo."
+    },
+    {
+        "instruction": "Ek sentence ma timro din ko summary lekha.",
+        "input": "",
+        "output": "Aja ko din productive thiyo, kaam sakera family sanga ramailo gare."
+    },
+    {
+        "instruction": "Timile aru lai inspire garna sakne quote lekha.",
+        "input": "",
+        "output": "Kaam garne bela ma hard work gara ra believe in yourself, success sure chha."
+    },
+    {
+        "instruction": "Euta random fun fact de.",
+        "input": "",
+        "output": "Nepal ma ek matra triangular flag chha!"
+    },
+    {
+        "instruction": "Yo English sentence lai Roman Nepali ma translate gar: 'I love exploring new places.'",
+        "input": "",
+        "output": "Ma naya thau explore garna ekdam manparchhu."
+    },
+    {
+        "instruction": "Timro favorite Nepali festival ko bare ma describe gara.",
+        "input": "",
+        "output": "Tihar mero favorite festival ho. Tyo din ma diyo balcha, rangoli banainchha ra bhai tika ma dherai ramailo huncha."
+    },
+    {
+        "instruction": "Ek line ko romantic message lekha.",
+        "input": "",
+        "output": "Timi sangai hune sapana ma roj roj bihaana uthna man lagchha."
+    },
+    {
+        "instruction": "Nepali food ko auta recipe summarize gar.",
+        "input": "Dal Bhat",
+        "output": "Chamal pakaune, dal ma masala ra tadka halera pakaune, ani achar ra tarkari sanga serve garne."
+    },
+    {
+        "instruction": "Euta inspirational story ko outline banaideu.",
+        "input": "",
+        "output": "Ek garib manche hard work garera tyaha ko top businessman bancha. Usko dedication le uslai success ma puryaunchha."
+    },
+    {
+        "instruction": "Timile sabai bhanda last padha ko book ko bare ma lekha.",
+        "input": "",
+        "output": "Mero sabai bhanda last padha ko book 'Atomic Habits' ho, jasle small changes le life ma thulo difference leunchha bhancha."
+    },
+    {
+        "instruction": "Euta Nepali gaana recommend gar.",
+        "input": "",
+        "output": "'Timro Maya Le Badhera Rakha' by Narayan Gopal ekdam ramro song ho."
+    },
+    {
+        "instruction": "Yo email ko opening line lekha: 'To request a meeting'",
+        "input": "",
+        "output": "Dear Sir/Madam, Kripaya, ma timi sanga ek meeting set up garna chahanchhu."
+    },
+    {
+        "instruction": "Timro manparne Nepali jagga ko bare ma bataideu.",
+        "input": "",
+        "output": "Pokhara mero manparne jagga ho. Fewa taal ra Sarangkot ko view ekdam ramailo lagchha."
+    },
+    {
+        "instruction": "Nepali history ma euta famous person ko bare ma lekha.",
+        "input": "",
+        "output": "Prithvi Narayan Shah le Nepal lai ekikrit garna thulo yogdan dinu bhayo ra unka aadarsha aaj pani maninchha."
+    },
+    {
+        "instruction": "Euta Nepali nursery rhyme lekha.",
+        "input": "",
+        "output": "'Baa Baa Black Sheep' ko Nepali version ma ho: 'Kali Kali Bhaina, Timro Ulniko Dhokha Khaina?'"
+    },
+    {
+        "instruction": "Timro din kasari suru huncha vanera lekha.",
+        "input": "",
+        "output": "Mero din chiya ko cup sanga suru huncha ani ekchhin yoga garna baschhu."
+    },
+    {
+        "instruction": "Yo English number ko Roman Nepali version lekha: 108",
+        "input": "",
+        "output": "Ek saya aath"
+    },
+    {
+        "instruction": "Euta motivational message lekha.",
+        "input": "",
+        "output": "Kasai le fail hune dare nagara; pratyek asaphalta sikne mauka ho!"
+    },
+    {
+        "instruction": "Yo Nepali proverb ko meaning explain gar: 'Bagh le ta khanchha, bokale ta gardaina!'",
+        "input": "",
+        "output": "Isko arth ho: thulo risk linu ta dar ko karan ho, tara chhoto soch le garda safal hudaina."
+    },
+    {
+        "instruction": "Yo word ko Nepali synonym de: 'Ramro'",
+        "input": "",
+        "output": "Sundar"
+    },
+    {
+        "instruction": "Roman Nepali ma 5 ta colors ko naam lekha.",
+        "input": "",
+        "output": "Rato, Nil, Hariyo, Kalo, Seto"
+    },
+    {
+        "instruction": "Ek line ko thank you note lekha.",
+        "input": "",
+        "output": "Timi le mero lagi garna bhayeko sabai ko lagi dhanyabad!"
+    },
+    {
+        "instruction": "Timro favorite Nepali mithai ko bare ma describe gara.",
+        "input": "",
+        "output": "Lalmohan mero manparne mithai ho, jun mitho ras sanga serve huncha ra ekdam swadilo huncha."
+    },
+    {
+        "instruction": "Euta random math problem bana ra tesko answer de.",
+        "input": "",
+        "output": "12 x 15 = 180"
+    },
+    {
+        "instruction": "Timro favorite Nepali place visit garna k garnu parcha vanera list de.",
+        "input": "Pokhara",
+        "output": "1. Fewa taal ma boating garne\n2. Sarangkot ma sunrise herne\n3. Devi's Fall ra Gupteshwor gufa visit garne\n4. Lakeside ma ramailo time bitaucha."
+    },
+    {
+        "instruction": "Euta Nepali poem ko ek line lekha.",
+        "input": "",
+        "output": "Nepal ko pahad, Nepal ko maathi akash, sundar mero desh le duniya ma cha ramailo bishwas."
+    },
+    {
+        "instruction": "Yo Nepali festival ko ek sentence ma summary de: 'Holi'",
+        "input": "",
+        "output": "Holi rang ko festival ho, jun unity ra happiness celebrate garna maninchha."
+    },
+    {
+        "instruction": "Timile last tyo restaurant ma k khaya ra review gara.",
+        "input": "Gorkha Kitchen",
+        "output": "Maile Chicken Thakali khaye, taste ekdam authentic ra fresh lagyo."
+    },
+    {
+        "instruction": "Yo sentence ko antonym lekha: 'Ramailo'",
+        "input": "",
+        "output": "Boring"
+    },
+    {
+        "instruction": "Yo Nepali gaun ko bare ma ek sentence ma describe gara: 'Bandipur'",
+        "input": "",
+        "output": "Bandipur ek historical gaun ho, jaha bata Himal ko ramailo view ra Newari culture ko essence pauxa."
+    },
+    {
+        "instruction": "Timile tyo thau kasari samma pugna sakcha vanera bataideu.",
+        "input": "Pokhara",
+        "output": "Pokhara pugna ko lagi Kathmandu bata flight ya bus lina sakinchha, ani approx 6 ghanta lagcha road bata."
+    },
+    {
+        "instruction": "Ek line ma timro favorite childhood memory share gara.",
+        "input": "",
+        "output": "Mero favorite childhood memory ho Dashain ma jhula chadera tihar ko panchai baja sunne."
+    },
+    {
+        "instruction": "Yo problem ko solution bata: 'Ma dherai distracted hunu jasto lagchha.'",
+        "input": "",
+        "output": "Distractions avoid garna ko lagi daily routine bana ani phone ko notification off garera kaam gar."
+    },
+    {
+        "instruction": "Yo word ko meaning explain gara: 'Aakriti'",
+        "input": "",
+        "output": "Aakriti bhaneko shape ya form ho."
+    },
+    {
+        "instruction": "Ek sentence ma yo event ko meaning lekha: 'Mha Puja'",
+        "input": "",
+        "output": "Mha Puja Newar culture ma self-purification ra atma ko puja ko symbol ho."
+    },
+    {
+        "instruction": "Timile Nepali sport ma ek line lekha.",
+        "input": "",
+        "output": "Nepal ma football ra cricket sabai bhanda popular sports ho."
+    },
+    {
+        "instruction": "Yo sentence ma timro opinion de: 'Nepal tourism ko potential explore garna parcha.'",
+        "input": "",
+        "output": "Ho, Nepal tourism ko potential explore garna parcha kinaki yaha ko culture ra natural beauty le tourists attract garcha."
+    },
+    {
+        "instruction": "Timro ek din ko ideal routine ko bare describe gara.",
+        "input": "",
+        "output": "Mero ideal routine ma subha uthna exercise, kaam ko bichma break lina ani din ko antim ma family sanga ramailo garna samabesh chha."
+    },
+    {
+        "instruction": "Timro manpareko Nepali musical instrument ko naam lekha ani explain gara.",
+        "input": "",
+        "output": "Madal mero manparne musical instrument ho. Isko beat Nepali folk music ma sabai bhanda important chha."
+    },
+    {
+        "instruction": "Euta inspiring Nepali person ko naam lekha ra explain gara.",
+        "input": "",
+        "output": "Pasang Lhamu Sherpa Nepal ko first female mountaineer thien jun Mt. Everest summit garna sakin."
+    },
+    {
+        "instruction": "Yo Nepali proverb ko meaning lekha: 'Dhilo hos tara sahilo hos.'",
+        "input": "",
+        "output": "Kaam dhilo hos tara ramro ra dhyan puryaera garna parcha bhanne arth yo proverb le dinchha."
+    },
+    {
+        "instruction": "Timile ek line ma Nepali literature ko bare ma lekha.",
+        "input": "",
+        "output": "Nepali literature le history, culture, ra samaj ko kahani lively style ma prastut garcha."
+    },
+    {
+        "instruction": "Yo question ko answer de: 'Nepal ma sabai bhanda uchha thau kun ho?'",
+        "input": "",
+        "output": "Nepal ma sabai bhanda uchha thau Mt. Everest ho, jun sansar ko sabai bhanda uchha chuchuro ho."
+    },
+    {
+        "instruction": "Yo problem solve gara: 75 x 4",
+        "input": "",
+        "output": "75 x 4 = 300"
+    },
+    {
+        "instruction": "Timro favorite cartoon character ko bare ma ek line lekha.",
+        "input": "",
+        "output": "Mero favorite cartoon character 'Doraemon' ho, jun futuristic gadgets le sabai problem solve garcha."
+    },
+    {
+        "instruction": "Timro favorite movie ko ek line summary lekha.",
+        "input": "Loot",
+        "output": "'Loot' ek Nepali movie ho, jasma Kathmandu ma heist garne story dekhainchha."
+    },
+    {
+        "instruction": "Yo number lai Roman Nepali ma lekha: 215",
+        "input": "",
+        "output": "Dui saya pandhra"
+    },
+    {
+        "instruction": "Nepali tihar ko ek line description lekha.",
+        "input": "",
+        "output": "Tihar festival ma diyo balera, rangoli banaera ra bhai tika ko tradition celebrate garincha."
+    },
+    {
+        "instruction": "Nepali food 'Sel Roti' ko taste describe gara.",
+        "input": "",
+        "output": "Sel Roti crispy ra mitho huncha, pakhlo texture ra slight sweet flavor ko mix."
+    },
+    {
+        "instruction": "Nepal ma chha euta UNESCO World Heritage Site ko naam de ani explain gara.",
+        "input": "",
+        "output": "Bhaktapur Durbar Square ek UNESCO World Heritage Site ho, jaha traditional architecture ra history explore garna milcha."
+    },
+    {
+        "instruction": "Euta fun riddle lekha ra usko answer de.",
+        "input": "",
+        "output": "Riddle: Aba ko din ma hoina, bitaeko din ma hoina, tara aaj bhancha. K ho ma? Answer: Aaja"
+    },
+    {
+        "instruction": "Yo Nepali place visit garnu parcha bhanera ek reason de.",
+        "input": "Lumbini",
+        "output": "Lumbini Buddha ko janma sthal ho, jasle religious significance ra peaceful environment dinchha."
+    },
+    {
+        "instruction": "Yo task lai summarize gara: 'Office ka sabai kaam ek din bhitra saknu parcha.'",
+        "input": "",
+        "output": "Office ko sabai pending tasks ek din bhitra complete garna parcha."
+    },
+    {
+        "instruction": "Nepali ko auta old myth ko short summary de.",
+        "input": "",
+        "output": "Kathmandu valley le ek tala ko roop liye thiyo bhanincha, jun Manjushree le katoera jasto dekhine thau ma kaam gareko thiyo."
+    },
+    {
+        "instruction": "Yo topic ko barema short advice de: 'Healthy lifestyle kasari apnane?'",
+        "input": "",
+        "output": "Daily exercise gar, balanced diet kha, ramro nidra leu ani stress kam gar."
+    },
+    {
+        "instruction": "Nepal ma sabai bhanda famous trekking route ko naam lekha ani describe gara.",
+        "input": "",
+        "output": "Everest Base Camp Trek ekdam famous trekking route ho, jasma Himalayan range ko breathtaking view herna milcha."
+    },
+    {
+        "instruction": "Timro favorite Nepali writer ko naam ani unko kaam ko bare ma lekha.",
+        "input": "",
+        "output": "B.P. Koirala mero favorite writer ho, unko 'Sumnima' jasto novels literature ma ekdam popular chha."
+    },
+    {
+        "instruction": "Nepali language ma 'Excuse me' lai Roman Nepali ma translate gara.",
+        "input": "",
+        "output": "Maaf garnus."
+    },
+    {
+        "instruction": "Timro man pareko auta Nepali recipe bata.",
+        "input": "Gundruk ko jhol",
+        "output": "Gundruk lai paani ma pakaera masala ani aloo mix garera ek healthy ra tasty soup banauchha."
+    },
+    {
+        "instruction": "Euta positive Nepali phrase share gara.",
+        "input": "",
+        "output": "Sabaai thik huncha, aafno mehnat ma biswas gara."
+    },
+    {
+        "instruction": "Nepali geet ko euta popular line bata.",
+        "input": "",
+        "output": "'Yo man ta mero Nepali ho, mero Nepal ko ho.'"
+    },
+    {
+        "instruction": "Nepal ma popular tourist activity ko ek example de.",
+        "input": "",
+        "output": "Paragliding Pokhara ma ek popular tourist activity ho."
+    },
+    {
+        "instruction": "Yo question ko answer de: 'Nepal ko currency ko naam ke ho?'",
+        "input": "",
+        "output": "Nepal ko currency ko naam Nepali Rupee ho."
+    },
+    {
+        "instruction": "Yo day-to-day activity ko ek benefit lekha: 'Daily meditation'",
+        "input": "",
+        "output": "Daily meditation le mind lai calm ra focused banauchha ani stress reduce garcha."
+    },
+    {
+        "instruction": "Nepali comedy movie ko naam recommend gar.",
+        "input": "",
+        "output": "'Jatra' ekdam ramailo Nepali comedy movie ho."
+    },
+    {
+        "instruction": "Yo English phrase ko Roman Nepali translation gar: 'Thank you very much.'",
+        "input": "",
+        "output": "Dherai dherai dhanyabad."
+    },
+    {
+        "instruction": "Ek line ma describe gara: 'Nepal ko political history.'",
+        "input": "",
+        "output": "Nepal ko political history monarchy bata democracy samma ko struggle ra transition ho."
+    },
+    {
+        "instruction": "Yo gaun kasari famous cha vanera bataideu: 'Manang'",
+        "input": "",
+        "output": "Manang trekking, Himalayan views, ra unique culture ko lagi famous chha."
+    },
+    {
+        "instruction": "Nepali ko traditional dance ko naam lekha ani describe gara.",
+        "input": "",
+        "output": "Lakhey Dance ek traditional dance ho, jun festivals ma demons lai represent garna perform garincha."
+    },
+    {
+        "instruction": "Nepal ma kaile Dashain manaincha bhanera explain gara.",
+        "input": "",
+        "output": "Dashain Aswin ya Kartik ma manincha, jaba full moon ko din ho Dashain ko Tika ko lagi."
+    },
+    {
+        "instruction": "Ek line ma yo problem ko solution de: 'Kaam ma productivity badhaune.'",
+        "input": "",
+        "output": "To-do list bana ani priority wise kaam gar, distractions avoid gar."
+    },
+    {
+        "instruction": "Euta short question bana jo students lai padhai ma inspire garchha.",
+        "input": "",
+        "output": "Timro education le future ma kasari timro sapana pura garna help garcha?"
+    },
+    {
+        "instruction": "Timro favorite Nepali singer ko naam lekha ani unko ek song mention gar.",
+        "input": "",
+        "output": "Narayan Gopal mero favorite singer ho, ra unko popular song 'Euta Manche Ko Maya' ho."
+    },
+    {
+        "instruction": "Nepali culture ma marriage ko auta important aspect explain gara.",
+        "input": "",
+        "output": "Nepali culture ma arrange marriage ekdam common ho, jasma family ko role important huncha."
+    },
+    {
+        "instruction": "Yo sentence ko similar meaning ma Roman Nepali ma lekha: 'Please help me with this work.'",
+        "input": "",
+        "output": "Kripaya, yo kaam ma malai madat garnus."
+    },
+    {
+        "instruction": "Nepali ko euta national symbol ko bare ma describe gara.",
+        "input": "",
+        "output": "Rhododendron Nepal ko national flower ho, jun beautiful red color ko huncha."
+    },
+    {
+        "instruction": "Yo math problem solve gara: 125 - 37",
+        "input": "",
+        "output": "125 - 37 = 88"
+    },
+    {
+        "instruction": "Timile last time k entertainment ko lagi gareko thiyo?",
+        "input": "",
+        "output": "Maile last time cinema ma Nepali movie 'Kabaddi 4' herna gaye."
+    },
+    {
+        "instruction": "Yo Nepali tradition ko bare ek short paragraph lekha: 'Bhai Tika'",
+        "input": "",
+        "output": "Bhai Tika Tihar festival ko panchau din ma manaincha, jaha didi bahini le bhai lai tika lagai ra unko lambu ayu ko kamana garincha."
+    },
+    {
+        "instruction": "Euta fun fact share gara about Nepal.",
+        "input": "",
+        "output": "Nepal ma calendar Bikram Sambat use garincha, jun AD bhanda 56-57 years agadi chha."
+    },
+    {
+        "instruction": "Yo math lai Roman Nepali ma describe gara: 'What is 50 divided by 5?'",
+        "input": "",
+        "output": "50 lai 5 le divide garda 10 huncha."
+    },
+    {
+        "instruction": "Timro auta dream destination share gara Nepali context ma.",
+        "input": "",
+        "output": "Mero dream destination Mustang ho, jaha ko natural beauty ra Himalayan view ekdam ramro chha."
+    },
+    {
+        "instruction": "Nepal ma famous food ko naam lekha ani explain gara.",
+        "input": "",
+        "output": "Momo Nepal ma ekdam famous food ho, jun steamed dumpling ho, masala bharera serve garincha."
+    },
+    {
+        "instruction": "Yo proverb ko meaning explain gara: 'Haat ma ladu, mukh ma pani.'",
+        "input": "",
+        "output": "Yo proverb le someone impatient ya greedy hunu ko arth dinchha."
+    },
+    {
+        "instruction": "Nepal ma 'Yarsa Gumba' ko bare ma ek line ma bata.",
+        "input": "",
+        "output": "Yarsa Gumba ek valuable herbal fungus ho, jun medicinal properties ko lagi famous chha."
+    },
+    {
+        "instruction": "Yo question ko Roman Nepali ma answer de: 'Nepal ma sabai bhanda lambu nadi ko naam ke ho?'",
+        "input": "",
+        "output": "Nepal ma sabai bhanda lambu nadi Koshi Nadi ho."
+    },
+    {
+        "instruction": "Nepali ko auta traditional dress ko naam lekha ra usko use explain gara.",
+        "input": "",
+        "output": "Daura Suruwal Nepali ko traditional dress ho, jun formal ceremonies ra national events ma lagaincha."
+    },
+    {
+        "instruction": "Yo line ko positive way ma response de: 'Maile aaja ko din productive garna sake jasto lagdaina.'",
+        "input": "",
+        "output": "Chinta nagara, bhole ko din fresh mind le productive kaam garna sakchau."
+    },
+    {
+        "instruction": "Euta historical Nepali event ko ek line description de.",
+        "input": "",
+        "output": "1990 ko Jan Andolan le Nepal ma democracy establish garna help gareko thiyo."
+    },
+    {
+        "instruction": "Timro man pareko Nepali festival lekha ani usko auta unique aspect explain gara.",
+        "input": "",
+        "output": "Tihar mero manparne festival ho, jasma kukur, gai, ra bhai tika ko worship garincha."
+    },
+    {
+        "instruction": "Nepal ko Himalaya ma base bhayeko animal ko ek example de ra usko bare ma lekha.",
+        "input": "",
+        "output": "Snow Leopard Himalaya ma base animal ho, jun rare ra endangered species ho."
+    },
+    {
+        "instruction": "Nepali alphabet ko auta example Roman Nepali ma de.",
+        "input": "",
+        "output": "'Ka, Kha, Ga' Nepali alphabet ko suru ko examples ho."
+    },
+    {
+        "instruction": "Nepali ma popular auta folk song ko naam ani short description lekha.",
+        "input": "",
+        "output": "'Resham Firiri' ek popular Nepali folk song ho, jun trekking ya hiking ma gaune garincha."
+    },
+    {
+        "instruction": "Yo math problem Roman Nepali ma solve gara: 'What is 9 x 8?'",
+        "input": "",
+        "output": "9 x 8 = 72"
+    },
+    {
+        "instruction": "Nepali traditional art ko auta form lekha ani usko use explain gara.",
+        "input": "",
+        "output": "Thangka painting ek traditional Nepali art form ho, jun Buddhist culture ma religious symbolism ko lagi use huncha."
+    },
+    {
+        "instruction": "Nepal ma sabai bhanda uchai ma base euta city ko naam lekha.",
+        "input": "",
+        "output": "Namche Bazaar sabai bhanda uchai ma base city ho, jo trekking basecamp ko lagi famous chha."
+    },
+    {
+        "instruction": "Timro favorite Nepali movie ko auta character explain gara.",
+        "input": "",
+        "output": "'Loot' movie ko Haku Kale ek interesting character ho, jasma cunning personality dekhaincha."
+    },
+    {
+        "instruction": "Yo question ko Roman Nepali ma answer de: 'Nepal ma kun energy source sabai bhanda dhere use huncha?'",
+        "input": "",
+        "output": "Nepal ma sabai bhanda dhere hydroelectricity source use huncha."
+    },
+    {
+        "instruction": "Nepali ko auta common superstition ko example de.",
+        "input": "",
+        "output": "Raato patti lagako biralo bato katda asubh huncha vanne ek common superstition ho."
+    },
+    {
+        "instruction": "Euta one-line joke bana Roman Nepali ma.",
+        "input": "",
+        "output": "Bhai: Didi, momo khaum? Didi: Timi momo leu ma momo khaunchu!"
+    },
+    {
+        "instruction": "Yo topic ko bare ek inspiring quote lekha: 'Education.'",
+        "input": "",
+        "output": "Shikshya timro life ko sabai bhanda thulo dhan ho, jun kasailai chinna sakdaina."
+    },
+    {
+        "instruction": "Nepal ma famous wildlife reserve ko naam de ra short description gara.",
+        "input": "",
+        "output": "Chitwan National Park ek famous reserve ho, jaha rhino, tiger, ra gharial herna milcha."
+    },
+    {
+        "instruction": "Nepali culture ma auta religious site ko naam de ani explain gara.",
+        "input": "",
+        "output": "Pashupatinath ek religious site ho, jun Hindu religion ko sabai bhanda important temple ho."
+    },
+    {
+        "instruction": "Nepali ko auta old belief ko example lekha.",
+        "input": "",
+        "output": "Dashain ko tika lagda ajako auspicious time ma lagcha bhanne belief chha."
+    },
+    {
+        "instruction": "Timile tyo bela k garthiyau vanera explain gara: 'School bata ghar aayepachi.'",
+        "input": "",
+        "output": "School bata ghar aayepachi homework gardai, TV herda ra ramailo khel khelthiyau."
+    },
+    {
+        "instruction": "Nepal ma auta unique tradition ko naam le ra usko purpose describe gara.",
+        "input": "",
+        "output": "Kumari Puja ek unique tradition ho, jasma living goddess ko roop ma chhori lai worship garincha."
+    },
+    {
+        "instruction": "Yo math question Roman Nepali ma solve gara: 'What is 12 + 45?'",
+        "input": "",
+        "output": "12 + 45 = 57"
+    },
+    {
+        "instruction": "Timro man pareko auta season lekha ani usko bare explain gara.",
+        "input": "",
+        "output": "Spring mero manparne season ho, jasma hariyali ra phool haru ramailo huncha."
+    },
+    {
+        "instruction": "Yo line ko simple version Roman Nepali ma lekha: 'I want to learn more about Nepali culture.'",
+        "input": "",
+        "output": "Ma Nepali culture ko bare ma dherai sikna chahanchu."
+    },
+    {
+        "instruction": "Nepal ma trekking garna suru gareko popular month lekha.",
+        "input": "",
+        "output": "October Nepal ma trekking garna suru garna popular month ho."
+    },
+    {
+        "instruction": "Yo situation ko appropriate response de: 'Timi le coffee spill gareko dekhchu.'",
+        "input": "",
+        "output": "Maaf garnu, aba safha garna madat garchu."
+    },
+    {
+        "instruction": "Yo proverb ko literal meaning lekha: 'Bagh ko mukh bata janma suraksha gardaina.'",
+        "input": "",
+        "output": "Dangerous place ma rakhera safe hunu possible hudaina."
+    },
+    {
+        "instruction": "Nepali sports ko ek example de ani usko popularity explain gara.",
+        "input": "",
+        "output": "Cricket Nepal ma ek popular sport ho, jasma fan base dherai rapidly badhiraheko chha."
+    },
+    {
+        "instruction": "Yo topic ko barema euta short paragraph bana: 'Nepal ma tourism ko significance.'",
+        "input": "",
+        "output": "Nepal ma tourism economy ko ek main source ho, jasma trekking, mountaineering, ra cultural heritage le tourists attract garcha."
+    },
+    {
+        "instruction": "Nepal ko auta UNESCO World Heritage site ko naam lekha ani usko barema ek line describe gara.",
+        "input": "",
+        "output": "Bhaktapur Durbar Square UNESCO World Heritage site ho, jun ancient architecture ko lagi famous chha."
+    },
+    {
+        "instruction": "Timro favorite Nepali street food ko naam lekha ani usko taste describe gara.",
+        "input": "",
+        "output": "Pani Puri mero favorite street food ho, jun spicy, tangy ra ekdam refreshing huncha."
+    },
+    {
+        "instruction": "Roman Nepali ma yo sentence simple way ma lekha: 'The weather in Nepal is very pleasant in spring.'",
+        "input": "",
+        "output": "Nepal ma spring ko mausam dherai ramro huncha."
+    },
+    {
+        "instruction": "Yo question ko Roman Nepali ma short answer de: 'Nepal ko sabai bhanda chhoto mahina kun ho?'",
+        "input": "",
+        "output": "Falgun Nepal ko sabai bhanda chhoto mahina ho."
+    },
+    {
+        "instruction": "Nepali literature ko auta genre ko naam lekha ra usko description gara.",
+        "input": "",
+        "output": "Muktak ek literary genre ho, jasma short but powerful lines le deep meanings dekhaincha."
+    },
+    {
+        "instruction": "Nepali traditional musical instrument ko naam ani use describe gara.",
+        "input": "",
+        "output": "Madal ek traditional instrument ho, jasma folk music accompany garna bajaincha."
+    },
+    {
+        "instruction": "Euta Nepali city ko name de ra usko auta unique aspect explain gara.",
+        "input": "",
+        "output": "Pokhara ek city ho, jun Fewa Lake ani paragliding ko lagi world famous chha."
+    },
+    {
+        "instruction": "Nepal ma sabai bhanda uchai ma baseko mountain ko naam de.",
+        "input": "",
+        "output": "Mt. Everest (Sagarmatha) sabai bhanda uchai ma baseko mountain ho."
+    },
+    {
+        "instruction": "Yo problem ko solution suggest gara: 'Padhai ma focus garna garho hunchha.'",
+        "input": "",
+        "output": "Quiet place ma base padh, distractions remove gara ani short breaks le focus maintain gar."
+    },
+    {
+        "instruction": "Nepali calendar ma 'Baisakh 1' ko significance explain gara.",
+        "input": "",
+        "output": "Baisakh 1 Nepali New Year ko din ho, jun celebrations ra gatherings le manincha."
+    },
+    {
+        "instruction": "Nepal ko auta mountain ko trekking route ko naam ani difficulty describe gara.",
+        "input": "",
+        "output": "Annapurna Circuit Trek medium difficulty trekking route ho, jasma scenic views ra cultural experience milcha."
+    },
+    {
+        "instruction": "Roman Nepali ma auta short greeting message bana.",
+        "input": "",
+        "output": "Namaste! Tapai kasari hunuhuncha?"
+    },
+    {
+        "instruction": "Nepali ko auta local drink ko naam lekha ani usko taste describe gara.",
+        "input": "",
+        "output": "Chyang ek local drink ho, jun slightly sour ra refreshing huncha."
+    },
+    {
+        "instruction": "Yo sentence ko polite version bana: 'Give me water.'",
+        "input": "",
+        "output": "Kripaya malai paani dinuhos."
+    },
+    {
+        "instruction": "Nepali ko auta historical personality ko naam lekha ra unko contribution describe gara.",
+        "input": "",
+        "output": "Prithvi Narayan Shah ek historical personality ho, junle Nepal lai unify gareko thiyo."
+    },
+    {
+        "instruction": "Nepal ma celebrate huney auta women-focused festival ko naam ani usko purpose describe gara.",
+        "input": "",
+        "output": "Teej ek women-focused festival ho, junle women ko health ani happiness ko lagi celebrate huncha."
+    },
+    {
+        "instruction": "Timro favorite Nepali TV show ko naam ani auta character describe gara.",
+        "input": "",
+        "output": "'Bhadragol' TV show ko Jigri character ekdam funny ra popular chha."
+    },
+    {
+        "instruction": "Nepali ko auta proverb lekha ra usko meaning explain gara.",
+        "input": "",
+        "output": "'Aghi ma chhaina, pachhi ma chhaina, bich ma kehi cha.' Yo proverb le unclear ya undefined condition ko arth dincha."
+    },
+    {
+        "instruction": "Yo math question Roman Nepali ma solve gara: 'What is 45 - 17?'",
+        "input": "",
+        "output": "45 - 17 = 28"
+    },
+    {
+        "instruction": "Nepali festival ma use hune auta decoration ko naam ani usko use explain gara.",
+        "input": "",
+        "output": "Mala Nepali festival ma use huncha, jun flowers le banaincha ra honor ya decoration ko lagi use huncha."
+    },
+    {
+        "instruction": "Nepal ma eco-tourism ko ek example de ra short description gara.",
+        "input": "",
+        "output": "Chitwan jungle safari eco-tourism ko example ho, jasma wildlife lai disturb nagari explore garincha."
+    },
+    {
+        "instruction": "Yo situation ko response suggest gara: 'Timi class ma late bhayou.'",
+        "input": "",
+        "output": "Maaf garnu, aba timely class ma aauxu."
+    },
+    {
+        "instruction": "Nepali ma 'rainy season' ko Roman Nepali ma translation gara.",
+        "input": "",
+        "output": "Barsat ko mausam."
+    },
+    {
+        "instruction": "Nepal ma manincha euta animal ko festival ko naam ani usko importance explain gara.",
+        "input": "",
+        "output": "Kukur Tihar ek festival ho, jun ma dogs ko loyalty ani friendship ko honor garincha."
+    },
+    {
+        "instruction": "Yo Nepali proverb ko funny interpretation gara: 'Haati ayo haati ayo fussa.'",
+        "input": "",
+        "output": "Bhau thulo, kaam zero!"
+    },
+    {
+        "instruction": "Timile padhna manparne auta book ko naam ani author lekha.",
+        "input": "",
+        "output": "'Palpasa Cafe' Narayan Wagle le lekhanu bhayeko ekdam ramro book ho."
+    },
+    {
+        "instruction": "Nepali ko auta traditional food item ko naam ani usko preparation explain gara.",
+        "input": "",
+        "output": "Sel Roti ek traditional food ho, jun rice flour ko batter le deep fry garincha."
+    },
+    {
+        "instruction": "Nepal ko sabai bhanda dherai boline local language ko naam lekha.",
+        "input": "",
+        "output": "Nepali sabai bhanda dherai boline local language ho."
+    },
+    {
+        "instruction": "Nepal ma auta endangered animal ko naam ani usko protection ko lagi ke garincha explain gara.",
+        "input": "",
+        "output": "Red Panda ek endangered animal ho, junlai conserve garna national parks ani awareness campaigns garincha."
+    },
+    {
+        "instruction": "Yo topic ko bare auta motivational message bana: 'Hard work and success.'",
+        "input": "",
+        "output": "Mehnat garne manche ko sapana kahile pani adhurai rahanna."
+    },
+    {
+        "instruction": "Nepal ko auta popular trekking season ko naam ani reason explain gara.",
+        "input": "",
+        "output": "Autumn season trekking ko lagi popular ho, kina ki tyo time ma weather clear ra comfortable huncha."
+    },
+    {
+        "instruction": "Timro school life ma sikhnu bhayeko auta important lesson lekha ani usko bare ma bata.",
+        "input": "",
+        "output": "Honesty sabai bhanda important lesson thiyo, junle life ma trust build garna help garcha."
+    },
+    {
+        "instruction": "Yo question ko Roman Nepali ma answer de: 'Nepal ma sabai bhanda thulo lake ko naam ke ho?'",
+        "input": "",
+        "output": "Rara Lake sabai bhanda thulo lake ho."
+    },
+    {
+        "instruction": "Nepali food ko auta common masala ko naam lekha ani usko use explain gara.",
+        "input": "",
+        "output": "Turmeric (besar) ek common masala ho, jun curry ko color ra health benefits ko lagi use garincha."
+    },
+    {
+        "instruction": "Roman Nepali ma auta love-related short quote bana.",
+        "input": "",
+        "output": "Sacho prem timro life ma roshani jastai huncha."
+    },
+    {
+        "instruction": "Nepali festival ma use hune auta traditional item ko naam ani usko meaning explain gara.",
+        "input": "",
+        "output": "Diyo Nepali festival ma use garincha, jun light ko symbol ho ani positivity spread garcha."
+    },
+    {
+        "instruction": "Nepal ma celebrate garincha euta harvest festival ko naam ra usko importance explain gara.",
+        "input": "",
+        "output": "Maghe Sankranti ek harvest festival ho, jun crops harvest ko celebration ho ra special food khaincha."
+    },
+    {
+        "instruction": "Yo Nepali proverb ko meaning explain gara: 'Jasti baira, testai mukh.'",
+        "input": "",
+        "output": "Yo proverb le manche ko baahira dekhine behavior unko real nature le represent garcha bhancha."
+    },
+    {
+        "instruction": "Roman Nepali ma euta compliment lekha.",
+        "input": "",
+        "output": "Timi ko smile dherai sundar cha!"
+    },
+    {
+        "instruction": "Nepali ko auta natural wonder ko naam lekha ra usko short description de.",
+        "input": "",
+        "output": "Pokhara ko Phewa Lake ek natural wonder ho, jun calm water ani Himal ko reflection le famous chha."
+    },
+    {
+        "instruction": "Nepal ma manincha auta minority group ko naam ani unko cultural significance explain gara.",
+        "input": "",
+        "output": "Sherpa community Nepal ma ek important minority group ho, jun mountaineering ko lagi world-famous chha."
+    },
+    {
+        "instruction": "Yo problem solve garna auta suggestion de: 'Man ta padna chha, tara motivation chaina.'",
+        "input": "",
+        "output": "Chhoto goal set gar, regular break le motivation maintain gara ani reward system banau."
+    },
+    {
+        "instruction": "Nepali language ma bolincha auta regional dialect ko naam lekha ani usko bare ma ek line explain gara.",
+        "input": "",
+        "output": "Maithili ek regional dialect ho, jun mainly Terai region ma bolincha."
+    },
+    {
+        "instruction": "Yo sentence Roman Nepali ma lekha: 'I would like to visit Nepal's famous temples someday.'",
+        "input": "",
+        "output": "Ma kunai din Nepal ko famous temples visit garna manparchhu."
+    },
+    {
+        "instruction": "Nepal ma herbal medicine ko auta example ani usko benefits describe gara.",
+        "input": "",
+        "output": "Neem ek herbal medicine ho, jun skin problems ko lagi ekdam effective chha."
+    },
+    {
+        "instruction": "Timro favorite Nepali festival ko auta specific memory lekha.",
+        "input": "",
+        "output": "Dashain ma maile family sanga tika lagaudai ramailo gareko samjhana ekdam khas chha."
+    },
+    {
+        "instruction": "Nepal ma use huncha euta alternative energy source ko naam ra usko importance explain gara.",
+        "input": "",
+        "output": "Solar energy ek alternative source ho, jun rural areas ma light ra power supply ko lagi use garincha."
+    },
+    {
+        "instruction": "Nepali traditional clothing ko auta unique feature describe gara.",
+        "input": "",
+        "output": "Gunyo Cholo ko unique feature usko colorful design ra cultural significance ho, jun women le khas event ma lagcha."
+    },
+    {
+        "instruction": "Yo math problem Roman Nepali ma solve gara: 'What is 15 ÷ 3?'",
+        "input": "",
+        "output": "15 ÷ 3 = 5"
+    },
+    {
+        "instruction": "Nepali ko auta modern singer ko naam ani unko popular song lekha.",
+        "input": "",
+        "output": "Sajjan Raj Vaidya ek modern singer ho, unko popular song 'Hawaijahaj' chha."
+    },
+    {
+        "instruction": "Nepali ko auta historical war ko naam lekha ra short description de.",
+        "input": "",
+        "output": "Anglo-Nepal War (1814–1816) ma Nepal ra British East India Company bich border dispute ko karan ladain bhayeko thiyo."
+    },
+    {
+        "instruction": "Nepali ko auta traditional dance form ko naam ani short explanation de.",
+        "input": "",
+        "output": "Lakhe dance ek traditional form ho, jun mainly Newar culture ma festivals ko samaya ma perform garincha."
+    },
+    {
+        "instruction": "Timro favorite Nepali dish ko naam ani preparation process lekha.",
+        "input": "",
+        "output": "Dal Bhat mero favorite dish ho. Dal lentils cook garincha, ani bhat steamed rice ho, jasma tarkari ani achar sanga serve garincha."
+    },
+    {
+        "instruction": "Yo situation ko solution de: 'Timi traffic jam ma stuck chau ra meeting ma late hune jasto chha.'",
+        "input": "",
+        "output": "Call garera meeting reschedule ko request gar, ya online join garne possibility explore gar."
+    },
+    {
+        "instruction": "Nepal ma auta historical palace ko naam le ra explain gara.",
+        "input": "",
+        "output": "Hanuman Dhoka Durbar ek historical palace ho, jun Kathmandu ma chha ani Malla dynasty ko rule ko samaya ko ho."
+    },
+    {
+        "instruction": "Nepali ma auta common hobby ko naam lekha ani usko benefits explain gara.",
+        "input": "",
+        "output": "Photography ek common hobby ho, junle creativity boost garna ra moments capture garna madat garcha."
+    },
+    {
+        "instruction": "Nepal ma manincha auta eco-friendly festival ko naam le ani usko practices describe gara.",
+        "input": "",
+        "output": "Ropain Jatra ek eco-friendly festival ho, jun ma community le paddy planting celebrations garincha."
+    }
+]

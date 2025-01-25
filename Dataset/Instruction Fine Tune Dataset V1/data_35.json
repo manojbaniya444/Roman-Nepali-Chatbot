@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Store kaha cha?",
+        "context": "Hamro store ko name ABC Store ho. Yo Kathmandu ko New Road ma cha.",
+        "response": "Hamro store New Road, Kathmandu ma cha. Aba visit garna saknuhunchha!"
+    },
+    {
+        "question": "Pickup location kata cha?",
+        "context": "Pickup location XYZ Warehouse ho. Yo Pokhara ko Lakeside area ma cha.",
+        "response": "Pickup location XYZ Warehouse, Lakeside, Pokhara ma cha."
+    },
+    {
+        "question": "Office location kata ho?",
+        "context": "Hamro main office ko name ABC Headquarters ho. Yo Jhamsikhel, Lalitpur ma cha.",
+        "response": "Hamro main office Jhamsikhel, Lalitpur ma cha. Aba direct contact garna saknuhunchha."
+    },
+    {
+        "question": "Delivery hub kaha xa?",
+        "context": "Delivery hub ka name QuickDelivery Hub ho. Yo Biratnagar ko Main Chowk ma cha.",
+        "response": "Hamro delivery hub QuickDelivery Hub, Main Chowk, Biratnagar ma cha."
+    },
+    {
+        "question": "Showroom ko thau kata ho?",
+        "context": "Hamro showroom FashionWorld ko name ma cha. Yo Durbarmarg, Kathmandu ma located cha.",
+        "response": "Hamro showroom FashionWorld, Durbarmarg, Kathmandu ma cha."
+    },
+    {
+        "question": "Hamro service center kata cha?",
+        "context": "Hamro service center ko name EasyFix Center ho. Yo Butwal ko Traffic Chowk ma cha.",
+        "response": "Hamro service center EasyFix Center, Traffic Chowk, Butwal ma cha."
+    },
+    {
+        "question": "Warehouse location kata ho?",
+        "context": "Hamro warehouse ko name SmartStore Warehouse ho. Yo Bharatpur ko Narayangadh ma cha.",
+        "response": "Hamro warehouse Narayangadh, Bharatpur ma cha."
+    },
+    {
+        "question": "Payment office kaha cha?",
+        "context": "Payment office ko name PaymentSolutions Office ho. Yo Itahari ko Bus Park area ma cha.",
+        "response": "Hamro payment office PaymentSolutions Office, Bus Park, Itahari ma cha."
+    },
+    {
+        "question": "Training center ko thau kata ho?",
+        "context": "Hamro training center ABC Learning Hub ho. Yo Hetauda ko Bhanu Chowk ma cha.",
+        "response": "Training center ABC Learning Hub, Bhanu Chowk, Hetauda ma cha."
+    },
+    {
+        "question": "Repair center kaha cha?",
+        "context": "Repair center ko name TechFix Center ho. Yo Bhairahawa ko Siddhartha Nagar ma cha.",
+        "response": "Hamro repair center TechFix Center, Siddhartha Nagar, Bhairahawa ma cha."
+    },
+    {
+        "question": "Branch office kaha cha?",
+        "context": "Branch office ko name ABC Branch ho. Yo Nepalgunj ko Tribhuvan Chowk ma cha.",
+        "response": "Hamro branch office Tribhuvan Chowk, Nepalgunj ma cha."
+    },
+    {
+        "question": "Distribution center kata ho?",
+        "context": "Distribution center ko name XYZ Distributors ho. Yo Janakpur ko Ram Mandir area ma cha.",
+        "response": "Distribution center XYZ Distributors, Ram Mandir area, Janakpur ma cha."
+    },
+    {
+        "question": "Regional office ko location kaha cha?",
+        "context": "Regional office ko name CentralRegional Office ho. Yo Dharan ko BP Chowk ma cha.",
+        "response": "Hamro regional office CentralRegional Office, BP Chowk, Dharan ma cha."
+    },
+    {
+        "question": "Customer service desk kaha ho?",
+        "context": "Customer service desk ko name HelpDesk Center ho. Yo Chitwan ko Bharatpur ma cha.",
+        "response": "Hamro customer service desk HelpDesk Center, Bharatpur, Chitwan ma cha."
+    },
+    {
+        "question": "Drop-off point kata cha?",
+        "context": "Drop-off point ko name FastDrop Location ho. Yo Birgunj ko Maisthan Mandir area ma cha.",
+        "response": "Hamro drop-off point FastDrop Location, Maisthan Mandir area, Birgunj ma cha."
+    },
+    {
+        "question": "Store kaha cha?",
+        "context": "Hamro store ko name Kathmandu Mall ho. Yo Sundhara ma Dharahara ko thik najik cha. Yo mall Kathmandu ko ekdum popular shopping destination ho jaha dherai branded shops, restaurants, ra movie theaters pani chha. Sundhara ko bus park bata hami ko store samma pahila ek choti yo location confirm garna saknuhunchha. Nearby parking facility pani cha.",
+        "response": "Hamro store Kathmandu Mall ma cha, Sundhara ma Dharahara ko najik. Visit garna aba aasani huncha!"
+    },
+    {
+        "question": "Pickup location kata cha?",
+        "context": "Pickup location Daraz Fulfillment Center ho. Yo Hetauda Industrial Area ma situated cha, Narayani River ko najik ra Hetauda Bazaar dekhi 15 minutes ko distance ma chha. Fulfillment center ma direct pickup service available cha tarika ra time ko lagi please website ma confirm garnus.",
+        "response": "Pickup location Daraz Fulfillment Center, Hetauda Industrial Area ma cha. Aba pickup garna milcha."
+    },
+    {
+        "question": "Office location kata ho?",
+        "context": "Hamro office ko naam Chaudhary Group (CG) Head Office ho. Yo Sanepa, Lalitpur ma cha. CG Landmark ek prominent location ho, jaha dherai corporate offices located chan. Pulchowk Campus bata 10 minutes ko walking distance ma CG Head Office cha, ra nearby cafes ani restaurants le yo thau lai aroko lagi pani convenient banaucha.",
+        "response": "Hamro office CG Head Office, Sanepa, Lalitpur ma cha."
+    },
+    {
+        "question": "Delivery hub kaha xa?",
+        "context": "Delivery hub ko name Everest Delivery Hub ho. Yo Bhaktapur Durbar Square ko thik pachi ko area, Radhe Radhe ma located cha. Bhaktapur Durbar Square ek UNESCO World Heritage Site ho, tesaile delivery hub padhna ko lagi prominent location ma cha. Parking area limited cha tesaile delivery collect garnu agadi contact garnus.",
+        "response": "Delivery hub Everest Delivery Hub, Radhe Radhe, Bhaktapur ma cha."
+    },
+    {
+        "question": "Showroom ko thau kata ho?",
+        "context": "Hamro showroom ko naam WorldLink Showroom ho. Yo Pokhara Lakeside ko Hallan Chowk ma cha. Pokhara Lakeside ek tourist hub ho ra tyo thau ma hallan chowk ek busy point ho, jaha dherai tourists ko aaune-jaane hocha-hocha huncha. Showroom ma broadband ra IPTV services related sabai queries ko lagi dedicated staff cha.",
+        "response": "Hamro showroom WorldLink Showroom, Hallan Chowk, Pokhara ma cha."
+    },
+    {
+        "question": "Service center kata ho?",
+        "context": "Service center Nepali Mobile Care Center ho. Yo Butwal ko Traffic Chowk, Siddhartha Highway ko najik located cha. Butwal ek major transit hub ho, ra service center ekdam accessible location ma cha. Customers lai mobile ko repair ani maintenance ko lagi efficient service milcha. Yo center ma free diagnosis offer garincha specific time periods ma.",
+        "response": "Hamro service center Nepali Mobile Care Center, Traffic Chowk, Butwal ma cha."
+    },
+    {
+        "question": "Warehouse location kata ho?",
+        "context": "Hamro warehouse ko naam Foodmandu Warehouse ho. Yo Kalanki, Kathmandu ma cha. Kalanki ko main ring road area bata warehouse samma aunu sahaj huncha, ra delivery vehicles ko lagi dedicated parking area pani cha. Yo warehouse ma mostly Kathmandu Valley ko delivery orders process huncha.",
+        "response": "Warehouse Kalanki, Kathmandu ma cha."
+    },
+    {
+        "question": "Payment office kaha cha?",
+        "context": "Payment office IME Pay Head Office ho. Yo New Baneshwor, Kathmandu ko Everest Hotel ko thik pachi ma located cha. Baneshwor ekdum busy commercial area ho, jaha ko accessibility public transportation le aasani banaucha. Office timing 9:00 AM dekhi 5:00 PM samma ho, ra lunch break 1:00 PM to 2:00 PM ho.",
+        "response": "Hamro payment office IME Pay Head Office, New Baneshwor ma cha."
+    },
+    {
+        "question": "Training center ko thau kata ho?",
+        "context": "Hamro training center NAMI College Training Hub ho. Yo Jorpati, Kathmandu ma, Gokarneshwor Mandir ko najik cha. Training center ma IT courses, management sessions, ra practical workshops offer garincha. Students ko lagi cafeteria ra study halls ko facility available cha.",
+        "response": "Hamro training center NAMI College Training Hub, Jorpati, Kathmandu ma cha."
+    },
+    {
+        "question": "Drop-off point kata cha?",
+        "context": "Drop-off point Tootle Drop Center ho. Yo Lazimpat, Kathmandu ko Radisson Hotel ko najik ma cha. Lazimpat ko main road bata padhna ekdam sajilo cha ra nearby bus stops pani available cha. Yo drop-off point most active 10:00 AM dekhi 6:00 PM samma huncha.",
+        "response": "Hamro drop-off point Tootle Drop Center, Lazimpat, Kathmandu ma cha."
+    },
+    {
+        "question": "Daraz ko return center kaha cha?",
+        "context": "Daraz ko return center ko naam Daraz Logistics Hub ho. Yo Kathmandu ko Tinkune ma cha, Civil Mall dekhi 10 minutes ko drive ma. Return center ma product return garna 10:00 AM dekhi 5:00 PM samma service available cha. Public holidays ma center bandh huncha.",
+        "response": "Hamro return center Daraz Logistics Hub, Tinkune, Kathmandu ma cha. Product return garna timing 10:00 AM dekhi 5:00 PM ho."
+    },
+    {
+        "question": "Foodmandu ko office kun thau ma cha?",
+        "context": "Foodmandu ko head office ekdam convenient location ma cha. Yo Naxal, Kathmandu ko Bhagwati Bahal Mandir ko najik ma cha. Office ma delivery orders ko issue solve garna dedicated team available cha. Public transportation le Naxal area padhna sajilo cha.",
+        "response": "Foodmandu ko head office Naxal, Bhagwati Bahal Mandir ko najik cha."
+    },
+    {
+        "question": "E-sewa ko counter kaha cha?",
+        "context": "E-sewa ko counter Kathmandu ko New Baneshwor ma cha, Everest Bank building ko first floor ma. Yo location ma wallet load garna, bills pay garna, ra E-sewa account related support milcha. Counter Monday dekhi Friday samma 9:30 AM dekhi 4:00 PM samma khula cha.",
+        "response": "E-sewa counter New Baneshwor, Everest Bank building ma cha."
+    },
+    {
+        "question": "Hamro Bikes showroom kaha ho?",
+        "context": "Hamro Bikes showroom Kathmandu ko Teku ma located cha. Teku main road ma Rafting Nepal office ko just opposite ma showroom cha. Yaha motorcycle ra accessories ko wide range available cha. Parking ko lagi dedicated space cha ra showroom ko timing 10:00 AM dekhi 6:00 PM ho.",
+        "response": "Hamro Bikes showroom Teku main road, Rafting Nepal ko opposite ma cha."
+    },
+    {
+        "question": "Pasal ko delivery hub kaha cha?",
+        "context": "Pasal delivery hub ko naam Quick Logistics Hub ho. Yo Chabahil, Kathmandu ma located cha. Delivery hub Tribhuvan International Airport ko 15 minutes ko distance ma cha. Delivery hub ma large orders manage garna separate section pani cha.",
+        "response": "Pasal ko delivery hub Chabahil, Kathmandu ma cha."
+    },
+    {
+        "question": "Trekking gear showroom kahan cha?",
+        "context": "Hamro trekking gear showroom Adventure Gear Outlet ho. Yo Thamel, Kathmandu ko Mandala Street ma located cha. Thamel tourist area ho, tesaile trekking ra hiking enthusiasts ko lagi popular location ho. Showroom ma trekking jackets, shoes, ani gear ko large collection available cha.",
+        "response": "Trekking gear showroom Adventure Gear Outlet, Mandala Street, Thamel ma cha."
+    },
+    {
+        "question": "FonePay ko office kahan ho?",
+        "context": "FonePay ko office ek prominent business hub ma cha. Yo Naxal, Kathmandu ko Bhatbhateni ko agadi ma cha. Office timing 9:00 AM dekhi 5:30 PM samma ho, ani lunch break 1:00 PM dekhi 2:00 PM samma huncha.",
+        "response": "FonePay ko office Naxal, Bhatbhateni ko agadi ma cha."
+    },
+    {
+        "question": "Delivery point Biratnagar ma kaha cha?",
+        "context": "Biratnagar delivery point City Express Hub ho. Yo Bargachhi Chowk, Koshi Hospital ko najik ma cha. Delivery point ma pickup ra drop-off services available cha. Hub Monday dekhi Saturday samma 9:30 AM dekhi 6:00 PM samma khula cha.",
+        "response": "Delivery point City Express Hub, Bargachhi Chowk, Koshi Hospital ko najik ma cha."
+    },
+    {
+        "question": "Laptop repair center kaha cha?",
+        "context": "Hamro laptop repair center Digital Fix ho. Yo Lalitpur ko Kumaripati ma located cha, Labim Mall ko pachi ko side ma. Repair center ma certified technicians huncha ra yaha hardware ani software problem ko solution milcha. Waiting area pani available cha.",
+        "response": "Laptop repair center Digital Fix, Kumaripati, Labim Mall ko pachi ko side ma cha."
+    },
+    {
+        "question": "Mobile service center Pokhara ma kaha ho?",
+        "context": "Mobile service center SmartCare ho. Yo Pokhara Lakeside ko Middle Point ma cha, Fishtail Lodge ko 10 minutes ko walking distance ma. Service center ma major mobile brands ka authorized repair services available cha.",
+        "response": "Mobile service center SmartCare, Middle Point, Pokhara Lakeside ma cha."
+    },
+    {
+        "question": "Hulaki counter kaha cha?",
+        "context": "Hulaki counter Kathmandu GPO ma cha, Sundhara ko thik bich ma. Yo counter postal services ko lagi popular ho, ra parcel send garna 9:00 AM dekhi 4:00 PM samma khula huncha.",
+        "response": "Hulaki counter Kathmandu GPO, Sundhara ma cha."
+    },
+    {
+        "question": "Electronics warehouse kaha cha?",
+        "context": "Electronics warehouse Kathmandu ko Satungal ma cha. Yo location ring road ko najik, Balkhu Bata 15 minutes ko distance ma cha. Warehouse ma electronics stock management ra bulk order fulfillment services available cha.",
+        "response": "Electronics warehouse Satungal, Kathmandu ma cha."
+    },
+    {
+        "question": "Online payment ko issue solve garne counter kaha cha?",
+        "context": "Hamro online payment support counter Himalayan Bank ka main branch ma cha. Yo location Thamel ko entry point ma cha, Garden of Dreams ko thik samip ma. Bank timing 9:30 AM dekhi 4:00 PM samma ho, tar customer support counter ma 12:30 PM dekhi 1:30 PM samma lunch break huncha.",
+        "response": "Online payment issue ko lagi Himalayan Bank, Thamel branch ma counter cha."
+    },
+    {
+        "question": "Order pickup center Bhairahawa ma kaha cha?",
+        "context": "Hamro pickup center Nepalgunj Road, Bhairahawa ma cha. Yo location Siddhartha Nagar Bus Park ko nearby area ho. Yaha order pickup ra exchange ko lagi separate desk cha. Hub Monday dekhi Friday samma khula huncha, timing 10:00 AM dekhi 6:00 PM samma ho.",
+        "response": "Order pickup center Nepalgunj Road, Siddhartha Nagar Bus Park ko najik Bhairahawa ma cha."
+    },
+    {
+        "question": "Garment store showroom kaha cha?",
+        "context": "Hamro garment showroom UrbanWear Showroom ho. Yo Durbarmarg, Kathmandu ma cha. Showroom ekdam accessible location ma cha, ra Durbarmarg ko popular shopping street ma dherai branded clothing items available huncha. Parking facility pani available cha.",
+        "response": "Hamro garment showroom UrbanWear, Durbarmarg ma cha."
+    },
+    {
+        "question": "Shopping mall ko location kata ho?",
+        "context": "Shopping mall ko naam Labim Mall ho. Yo Pulchowk, Lalitpur ma cha. Mall ko andar movie theater, food court, ra branded outlets pani cha. Nearby bus stop Pulchowk Chowk ma cha, tyesaile reach garna sajilo huncha.",
+        "response": "Hamro shopping mall Labim Mall, Pulchowk, Lalitpur ma cha."
+    },
+    {
+        "question": "Grocery warehouse kaha cha?",
+        "context": "Grocery warehouse ko naam FreshCart Warehouse ho. Yo Balaju, Kathmandu ma cha, Balaju Industrial Area bhitra ra nearby landmarks ma Ganesh Mandir cha. Warehouse Monday dekhi Saturday samma khula huncha ra 9:00 AM dekhi 5:00 PM samma operation huncha.",
+        "response": "Hamro grocery warehouse FreshCart Warehouse, Balaju Industrial Area ma cha."
+    },
+    {
+        "question": "Hamro service desk kaha cha?",
+        "context": "Hamro service desk Lalitpur ko Kumaripati ma cha. Service desk ko naam SmartSupport Desk ho, ra Labim Mall ko agadi ma located cha. Desk ma general inquiries, returns, ra complaints ko lagi staff available huncha.",
+        "response": "Hamro service desk SmartSupport Desk, Kumaripati, Lalitpur ma cha."
+    },
+    {
+        "question": "E-bike showroom kaha cha?",
+        "context": "Hamro e-bike showroom GoGreen Showroom ho. Yo Jawalakhel, Lalitpur ma cha, Patan Zoo ko thik opposite ma. Showroom ma test ride ko lagi space available cha ra yaha financing options ko pani suvidha cha.",
+        "response": "Hamro e-bike showroom GoGreen, Jawalakhel ma cha."
+    },
+    {
+        "question": "Mobile pickup point Bharatpur ma kaha ho?",
+        "context": "Mobile pickup point EasyMobile Hub ho. Yo Bharatpur, Chitwan ko Lions Chowk ma located cha. Yaha sabai online mobile orders ko pickup ra replacement services available huncha.",
+        "response": "Mobile pickup point EasyMobile Hub, Lions Chowk, Bharatpur ma cha."
+    },
+    {
+        "question": "Home appliances warehouse kaha ho?",
+        "context": "Home appliances warehouse ApplianceMart Hub ho. Yo Itahari, Sunsari ma cha, Dharan Road ko nearby location ma. Yo warehouse bulk orders fulfill garna baneko ho ani yaha drop-off service pani cha.",
+        "response": "Hamro home appliances warehouse ApplianceMart Hub, Dharan Road, Itahari ma cha."
+    },
+    {
+        "question": "Customer care center kaha cha?",
+        "context": "Hamro customer care center SmartHelp Desk ho. Yo Koteshwor, Kathmandu ma cha, Jadibuti ko thik najik ma cha. Yaha returns, exchanges, ani warranty issues handle garincha. Desk ko timing 10:00 AM dekhi 5:30 PM samma ho.",
+        "response": "Hamro customer care center SmartHelp Desk, Koteshwor, Kathmandu ma cha."
+    },
+    {
+        "question": "Stationery delivery hub kaha cha?",
+        "context": "Stationery delivery hub FastBooks Hub ho. Yo Banepa, Kavre ma cha. Delivery hub nearby schools ra colleges ko convenience ko lagi rakheko ho. Timing Monday to Friday 10:00 AM dekhi 6:00 PM samma ho.",
+        "response": "Stationery delivery hub FastBooks Hub, Banepa, Kavre ma cha."
+    },
+    {
+        "question": "Central office kaha cha?",
+        "context": "Hamro central office BusinessWorld Complex ho. Yo Teku, Kathmandu ma cha, Kalimati ko thik najik ma cha. Complex ma office timing 9:30 AM dekhi 5:00 PM samma ho, ra yaha parking facility pani available cha.",
+        "response": "Hamro central office BusinessWorld Complex, Teku, Kathmandu ma cha."
+    },
+    {
+        "question": "Warehouse ko return desk kaha cha?",
+        "context": "Return desk hamro Bhaktapur ko Suryabinayak area ma cha. Warehouse ko naam ReturnEase Hub ho, ra yo Suryabinayak Mandir ko 5 minutes walking distance ma cha. Yaha online returns ko lagi special queue cha.",
+        "response": "Hamro warehouse ko return desk ReturnEase Hub, Suryabinayak, Bhaktapur ma cha."
+    },
+    {
+        "question": "Hamro package collection center Pokhara ma kaha cha?",
+        "context": "Package collection center ko naam Pokhara Logistics Hub ho. Yo Pokhara ko Prithvi Chowk ma cha, Tourist Bus Park ko thik najik ma. Center ma online order pickup, returns, ra exchanges ko lagi separate counters cha. Hub ko timing Monday dekhi Saturday, 9:30 AM dekhi 5:30 PM samma ho.",
+        "response": "Hamro package collection center Pokhara Logistics Hub, Prithvi Chowk, Pokhara ma cha."
+    },
+    {
+        "question": "Exchange request ko lagi counter kaha cha?",
+        "context": "Exchange request ko counter Kathmandu Mall ko 2nd floor ma cha. Yo Sundhara ko ekdum central location ho, Dharahara tower ko just pachi ma. Counter ma faulty items ko exchange process garna 10:00 AM dekhi 6:00 PM samma timing ho.",
+        "response": "Exchange request ko counter Kathmandu Mall, 2nd floor, Sundhara ma cha."
+    },
+    {
+        "question": "Newroad showroom ko location kata ho?",
+        "context": "Hamro showroom Newroad ko Indrachowk ma cha, Bishal Bazaar ko opposite side ma. Yaha clothing, electronics, ra home decor items ko wide collection cha. Public transport le Newroad sama padhna ekdam sajilo huncha.",
+        "response": "Hamro showroom Indrachowk, Bishal Bazaar ko opposite ma cha."
+    },
+    {
+        "question": "Customer support counter Birgunj ma kaha cha?",
+        "context": "Customer support counter ko naam Parsa Support Hub ho. Yo Birgunj ko Ghantaghar ko najik cha, Narayani Hospital ko agadi ma cha. Yaha online orders ko complaint ra queries solve garna dedicated team cha.",
+        "response": "Hamro customer support counter Parsa Support Hub, Ghantaghar, Birgunj ma cha."
+    },
+    {
+        "question": "Order pickup Bhaktapur ma kaha cha?",
+        "context": "Order pickup center Bhaktapur Logistics Center ho. Yo Radhe Radhe Chowk ko thik pachi ma cha, Bhaktapur Highway ko nearby area ho. Yaha online orders ko pickup ko lagi self-service counter available cha.",
+        "response": "Hamro order pickup center Bhaktapur Logistics Center, Radhe Radhe Chowk, Bhaktapur ma cha."
+    },
+    {
+        "question": "Delivery center Lalitpur ma kaha cha?",
+        "context": "Delivery center ko naam Patan Express Hub ho. Yo Lagankhel, Lalitpur ma located cha, Patan Durbar Square dekhi 10 minutes walking distance ma. Hub ma quick delivery, returns, ra same-day exchange services available huncha.",
+        "response": "Delivery center Patan Express Hub, Lagankhel, Lalitpur ma cha."
+    },
+    {
+        "question": "Hamro repair center kaha cha?",
+        "context": "Hamro repair center SmartFix Workshop ho. Yo Baneshwor, Kathmandu ma, Maitighar Mandala bata 5 minutes ko drive ma cha. Center ma smartphones, laptops, ra other electronics repair garincha. Timing 10:00 AM dekhi 6:00 PM samma ho.",
+        "response": "Hamro repair center SmartFix Workshop, Baneshwor, Kathmandu ma cha."
+    },
+    {
+        "question": "Order return desk Pokhara ma kaha ho?",
+        "context": "Order return desk Pokhara ko Lakeside area ma cha, Hallan Chowk ko najik. Desk ko naam Return Point Pokhara ho, ra yaha faulty ra damaged products return garna dedicated staff cha.",
+        "response": "Hamro order return desk Return Point Pokhara, Hallan Chowk, Lakeside ma cha."
+    },
+    {
+        "question": "Payment office Nepalgunj ma kaha cha?",
+        "context": "Payment office Nepalgunj Financial Center ho. Yo Tribhuwan Chowk ko thik najik ma cha, Bageshwori Mandir bata 5 minutes walking distance ma. Office timing Monday to Friday 9:30 AM dekhi 4:00 PM samma ho.",
+        "response": "Hamro payment office Nepalgunj Financial Center, Tribhuwan Chowk, Nepalgunj ma cha."
+    },
+    {
+        "question": "Product collection point Dharan ma kaha cha?",
+        "context": "Product collection point Dharan Hub ko naam Quick Collect Dharan ho. Yo Dharan Clock Tower ko najik cha, BP Koirala Institute ko nearby area ma. Hub ko timing 10:00 AM dekhi 5:00 PM samma ho.",
+        "response": "Hamro product collection point Quick Collect Dharan, Clock Tower, Dharan ma cha."
+    },
+    {
+        "question": "Warehouse ko location Birgunj ma kata ho?",
+        "context": "Hamro warehouse Logistics Center Birgunj ho. Yo Birta Chowk ma cha, Birgunj Customs Office ko pachi ko area ma. Warehouse ma bulk shipment storage ra delivery dispatch ko lagi separate section cha.",
+        "response": "Hamro warehouse Logistics Center Birgunj, Birta Chowk ma cha."
+    },
+    {
+        "question": "New item showroom kaha cha?",
+        "context": "New item showroom ko naam FreshArrival Store ho. Yo Putalisadak, Kathmandu ma cha, Shanker Dev Campus ko agadi ma. Showroom ma newly launched products showcase garincha ra yaha direct purchase facility cha.",
+        "response": "Hamro new item showroom FreshArrival Store, Putalisadak, Kathmandu ma cha."
+    },
+    {
+        "question": "Billing center Butwal ma kaha cha?",
+        "context": "Hamro billing center Butwal ko Traffic Chowk ma cha. Yo Chowk nearby Siddhartha Highway ko side ma located cha. Billing desk Monday to Friday, 9:00 AM dekhi 5:00 PM samma khula huncha.",
+        "response": "Hamro billing center Traffic Chowk, Butwal ma cha."
+    },
+    {
+        "question": "Order dispatch center Jhapa ma kaha ho?",
+        "context": "Order dispatch center Jhapa Dispatch Hub ho. Yo Birtamode, Mechi Chowk ma located cha. Dispatch hub ma local ra regional orders pack garna ani dispatch process garna efficient team cha.",
+        "response": "Hamro order dispatch center Jhapa Dispatch Hub, Mechi Chowk, Birtamode ma cha."
+    },
+    {
+        "question": "Daraz ko warehouse Kathmandu ma kaha cha?",
+        "context": "Daraz ko warehouse Kathmandu ko Kalanki ma cha. Yo ring road ko najikai cha, Kalanki Mandir dekhi 5 minutes ko distance ma. Yaha large orders dispatch huncha ani returns manage garincha.",
+        "response": "Hamro warehouse Kalanki, Kathmandu ma cha."
+    },
+    {
+        "question": "Hamro pickup point Lalitpur ma kaha cha?",
+        "context": "Pickup point ko naam Lalitpur QuickCollect Hub ho. Yo Pulchowk Engineering College ko agadi ma cha. Yaha order leko 7 din samma store huncha ani 10:00 AM dekhi 6:00 PM samma pickup garna milcha.",
+        "response": "Pickup point Pulchowk Engineering College ko agadi, Lalitpur ma cha."
+    },
+    {
+        "question": "Online payment ko complaint counter kaha cha?",
+        "context": "Complaint counter New Baneshwor ma cha. Everest Bank building ko ground floor ma counter cha, ra yaha online payment related issue solve garincha.",
+        "response": "Online payment ko complaint counter Everest Bank, New Baneshwor ma cha."
+    },
+    {
+        "question": "Hamro return center Pokhara ma kaha ho?",
+        "context": "Pokhara return center Lakeside ko Hallan Chowk ma cha. Yaha damaged product return ra replacement ko lagi dedicated staff cha. Center ko timing 10:00 AM dekhi 5:30 PM samma ho.",
+        "response": "Hamro return center Lakeside, Hallan Chowk, Pokhara ma cha."
+    },
+    {
+        "question": "Trekking gear showroom Kathmandu ma kaha cha?",
+        "context": "Showroom ko naam Adventure Gear Store ho. Yo Thamel ko Mandala Street ma cha. Hiking jacket, trekking shoes ra sabai accessories ko ramro collection yaha cha.",
+        "response": "Trekking gear showroom Adventure Gear Store, Mandala Street, Thamel ma cha."
+    },
+    {
+        "question": "E-bike ko showroom Bhaktapur ma kaha ho?",
+        "context": "E-bike showroom Bhaktapur ko Suryabinayak ma cha. Mandir ko thik pachi ma cha ra yaha latest e-bike models display huncha. Financing options ko lagi staff le help garxa.",
+        "response": "Hamro e-bike showroom Suryabinayak, Bhaktapur ma cha."
+    },
+    {
+        "question": "Hamro customer service desk Butwal ma kaha cha?",
+        "context": "Customer service desk Butwal ko Traffic Chowk ma cha. Yaha returns, complaints ra general inquiry ko lagi help milcha. Desk Monday dekhi Friday samma khula huncha.",
+        "response": "Customer service desk Traffic Chowk, Butwal ma cha."
+    },
+    {
+        "question": "Mobile pickup point Dharan ma kaha ho?",
+        "context": "Dharan ko pickup point Clock Tower ko najikai cha. Yo small service center ho, jaha online mobile orders collect garna milcha.",
+        "response": "Hamro mobile pickup point Clock Tower, Dharan ma cha."
+    },
+    {
+        "question": "Kathmandu ko main store kaha ho?",
+        "context": "Hamro main store Kathmandu ko Newroad ma cha, Pako ko najik. Yaha electronics, home decor ani clothing ko ramro collection cha.",
+        "response": "Hamro main store Pako, Newroad ma cha."
+    },
+    {
+        "question": "Return request ko lagi center kaha ho?",
+        "context": "Return request ko center Bhairahawa ko Lumbini Road ma cha, Siddhartha Nagar Bus Park ko najik. Damaged product ko quick exchange pani huncha.",
+        "response": "Hamro return center Lumbini Road, Bhairahawa ma cha."
+    },
+    {
+        "question": "Hamro repair center Pokhara ma kaha cha?",
+        "context": "Repair center Pokhara ko Prithvi Chowk ma cha, Tourist Bus Park ko najik. Yaha smartphones ra electronics ko repair ko lagi skilled technicians cha.",
+        "response": "Hamro repair center Prithvi Chowk, Pokhara ma cha."
+    },
+    {
+        "question": "Warehouse ko location Itahari ma kaha ho?",
+        "context": "Hamro warehouse Itahari ko Dharan Road ma cha, BP Chowk dekhi 5 minutes ko distance ma. Warehouse ma bulk orders store ani delivery manage huncha.",
+        "response": "Hamro warehouse Dharan Road, Itahari ma cha."
+    },
+    {
+        "question": "Order dispatch center Kathmandu ma kaha cha?",
+        "context": "Order dispatch center Balaju Industrial Area ma cha. Yo factory outlets ko najik cha ra order delivery ko lagi fast processing yaha huncha.",
+        "response": "Order dispatch center Balaju Industrial Area, Kathmandu ma cha."
+    },
+    {
+        "question": "Billing ko lagi office Biratnagar ma kaha cha?",
+        "context": "Hamro billing office Biratnagar ko Main Road ma cha, Koshi Zonal Hospital ko najik. Yaha order payments ra receipts manage garincha.",
+        "response": "Billing office Main Road, Biratnagar ma cha."
+    },
+    {
+        "question": "Delivery hub Chitwan ma kaha cha?",
+        "context": "Hamro delivery hub Bharatpur ko Narayanghat ma cha. Yaha orders receive garna ra dispatch garna efficient system cha.",
+        "response": "Hamro delivery hub Narayanghat, Bharatpur ma cha."
+    },
+    {
+        "question": "Daraz ko return center Kathmandu ma kaha ho?",
+        "context": "Return center ko location Koteshwor ma cha, Jadibuti chowk ko najikai. Yaha faulty items return ani refund process garna milcha. Timing Monday to Saturday, 10:00 AM dekhi 5:00 PM samma ho.",
+        "response": "Return center Koteshwor, Jadibuti chowk ko najikai cha."
+    },
+    {
+        "question": "Delivery ko lagi contact office Nepalgunj ma kaha ho?",
+        "context": "Delivery contact office Nepalgunj ko Tribhuwan Chowk ma cha, Purano Cinema Hall ko side ma. Office ma delivery complaints ra urgent dispatch handle garincha.",
+        "response": "Hamro delivery office Tribhuwan Chowk, Nepalgunj ma cha."
+    },
+    {
+        "question": "Online payment ko counter Birgunj ma kaha cha?",
+        "context": "Online payment support counter ko location Ghantaghar chowk ma cha, Birgunj Customs Office ko pachi. Counter timing 10:00 AM dekhi 4:00 PM samma ho.",
+        "response": "Hamro online payment counter Ghantaghar chowk, Birgunj ma cha."
+    },
+    {
+        "question": "Lalitpur ma clothing showroom ko location kaha cha?",
+        "context": "Hamro clothing showroom Patan Dhoka ma cha, Patan Museum ko just agadi. Yo showroom ma men, women, ani kids clothing ko updated collection available cha.",
+        "response": "Hamro clothing showroom Patan Dhoka, Patan Museum ko just agadi cha."
+    },
+    {
+        "question": "Warehouse ko location Pokhara ma kaha ho?",
+        "context": "Warehouse ko naam FastTrack Logistics ho. Yo Pokhara ko Airport Road ma cha, Prithvi Highway ko exit point bata 5 minutes ko distance ma. Yaha bulk storage ko lagi facility available cha.",
+        "response": "Hamro warehouse FastTrack Logistics, Airport Road, Pokhara ma cha."
+    },
+    {
+        "question": "Mobile service center Dharan ma kaha cha?",
+        "context": "Mobile service center Dharan ko Bhanu Chowk ma cha, BP Koirala ko statue ko agadi. Yaha sabai major brands ko smartphone repair ani accessories replacement available cha.",
+        "response": "Hamro mobile service center Bhanu Chowk, Dharan ma cha."
+    },
+    {
+        "question": "Hamro e-bike showroom Chitwan ma kaha cha?",
+        "context": "E-bike showroom Narayanghat, Chitwan ko main highway ma cha. Bharatpur Bus Park dekhi 10 minutes ko walking distance ho. Financing options ani test rides ko lagi friendly staff available cha.",
+        "response": "Hamro e-bike showroom Narayanghat, Chitwan ko main highway ma cha."
+    },
+    {
+        "question": "Order pickup center Bhaktapur ma kaha cha?",
+        "context": "Hamro pickup center Bhaktapur ko Kamalbinayak chowk ma cha, Suryabinayak Mandir ko najikai. Pickup timing 10:00 AM dekhi 6:00 PM samma ho ani yaha easy self-service kiosk pani cha.",
+        "response": "Hamro pickup center Kamalbinayak chowk, Bhaktapur ma cha."
+    },
+    {
+        "question": "Electronics showroom Kathmandu ma kaha cha?",
+        "context": "Hamro electronics showroom New Baneshwor ma cha, Everest Bank ko just opposite side ma. Laptops, TVs, ra latest gadgets haru sabai yaha available cha.",
+        "response": "Hamro electronics showroom Everest Bank ko opposite, New Baneshwor ma cha."
+    },
+    {
+        "question": "Order dispatch center Butwal ma kaha ho?",
+        "context": "Dispatch center Butwal ko Kalikanagar ma cha. Yo center Siddhartha Highway ko thik side ma cha ra sabai regional orders yaha bata dispatch huncha.",
+        "response": "Hamro dispatch center Kalikanagar, Butwal ma cha."
+    },
+    {
+        "question": "Kathmandu ma hamro main office kaha cha?",
+        "context": "Main office Newroad ma cha, Pako chowk dekhi 5 minutes ko distance ma. Office timing 9:30 AM dekhi 5:00 PM samma ho ra yaha parking facility pani cha.",
+        "response": "Hamro main office Newroad, Pako chowk najikai cha."
+    },
+    {
+        "question": "Customer care ko lagi center Bharatpur ma kaha cha?",
+        "context": "Hamro customer care center Bharatpur ko Lions Chowk ma cha. Yaha online orders ko complaints ani product exchange requests ko lagi service available cha.",
+        "response": "Hamro customer care center Lions Chowk, Bharatpur ma cha."
+    },
+    {
+        "question": "Stationery ko pickup point Banepa ma kaha ho?",
+        "context": "Stationery pickup point Banepa Bazaar ma cha, Shree Bhimsen Temple ko najikai. Yaha books, copies ani educational supplies haru order pickup garna milcha.",
+        "response": "Hamro stationery pickup point Banepa Bazaar, Shree Bhimsen Temple najikai cha."
+    },
+    {
+        "question": "Warehouse ko return desk Biratnagar ma kaha cha?",
+        "context": "Return desk Biratnagar ko Main Road ma cha, Koshi Hospital ko agadi. Yaha faulty product returns handle garna friendly staff available huncha.",
+        "response": "Hamro return desk Main Road, Koshi Hospital ko agadi, Biratnagar ma cha."
+    },
+    {
+        "question": "Repair center Pokhara ma kaha cha?",
+        "context": "Repair center ko naam FixIt Hub ho. Yo Pokhara ko Lakeside, Hallan Chowk ma cha. Smartphones, laptops ani gadgets repair ko lagi yaha reliable service available cha.",
+        "response": "Hamro repair center FixIt Hub, Hallan Chowk, Lakeside, Pokhara ma cha."
+    }
+]

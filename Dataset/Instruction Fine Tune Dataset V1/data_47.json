@@ -1,0 +1,432 @@
+[
+    {
+        "question": "Nepal ko raja ko naam ke ho?",
+        "context": "Nepal ma ek samay Singha Durbar ko niyam raja haru le gareka thie. Prithvi Narayan Shah le Nepal ko ekikaran suru gareka thie.",
+        "response": "Prithvi Narayan Shah Nepal ko ekikaran garne raja thie."
+    },
+    {
+        "question": "Mount Everest ko uchai kati ho?",
+        "context": "Mount Everest, jun duniya ko sabai uchai chuchuro ho, ko uchai 8,848.86 meter ho. Islai Sagarmatha pani bhanincha.",
+        "response": "Mount Everest ko uchai 8,848.86 meter ho."
+    },
+    {
+        "question": "Dashain ma ke mahatwa cha?",
+        "context": "Dashain Nepal ko ek thulo parva ho, jasle parivar ko melmilap ra Bhagwan Durga ko puja lai pradhanta dincha. Manche haru tika ra jamara lagauchan.",
+        "response": "Dashain ma parivar milera tika ra jamara lagaune mahatwa cha."
+    },
+    {
+        "question": "Lumbini kina prasiddha cha?",
+        "context": "Lumbini, Nepal ko ek prasiddha thau ho, jasle Gautam Buddha ko janma sthal ko roop ma chincha. Yo UNESCO World Heritage Site pani ho.",
+        "response": "Lumbini Gautam Buddha ko janma sthal bhayeko le prasiddha cha."
+    },
+    {
+        "question": "Bagmati nadi ko mahatwa ke ho?",
+        "context": "Bagmati nadi, jun Kathmandu upatyaka ma chha, dharmik roop ma atyanta mahatwapurna chha. Is nadi ko pani Pashupatinath mandir ma puja ko lagi prayog hunchha.",
+        "response": "Bagmati nadi dharmik mahatwapurna chha ra Pashupatinath ko puja ko lagi pani prayog huncha."
+    },
+    {
+        "question": "Mero order cancel garna milcha?",
+        "context": "Tapai ko order cancel garna ko lagi, order status 'Shipped' na bhayeko hunu parcha. Shipped bhayeko order cancel garna mildaina. Cancel garna ko lagi 'My Orders' section ma janu hos.",
+        "response": "Ho, tapai ko order cancel garna milcha, yadi order 'Shipped' status ma chaina bhane. Kripaya 'My Orders' section ma janu hos."
+    },
+    {
+        "question": "Delivery ko samaya kati din lagcha?",
+        "context": "Hamro delivery timeline location anusar farak hunchha. Kathmandu ma 2-3 din lagcha, ra baaki thauharu ma 5-7 din sama lagna sakcha.",
+        "response": "Delivery ko lagi Kathmandu ma 2-3 din ra baaki thau ma 5-7 din lagcha."
+    },
+    {
+        "question": "Refund kasari paune?",
+        "context": "Refund ko lagi, tapai le return process complete garnu parcha. Return ko lagi product original condition ma huna parcha ra invoice ko copy pathaunu parcha. Refund amount 7-10 din ma process hunchha.",
+        "response": "Refund ko lagi, product return garera original condition ma pathaunu hos. Refund 7-10 din ma process hunchha."
+    },
+    {
+        "question": "Customer support lai kasari samparka garna sakincha?",
+        "context": "Customer support samparka garna ko lagi, hamro toll-free number 123456789 ma call garnu hos, ya hamro website ko 'Contact Us' section ma janu hos.",
+        "response": "Tapai hami lai toll-free number 123456789 ma call garna saknu hunchha, ya website ko 'Contact Us' section use garnu hos."
+    },
+    {
+        "question": "Return policy ko bare ma thap jankari dinus.",
+        "context": "Hamro return policy anusar, 7 din bhitra product return garna milcha. Product unused, undamaged, ra original packaging ma hunu parcha. Electronics item ko lagi return process stricter cha.",
+        "response": "Hamro return policy anusar, 7 din bhitra product unused ra original packaging ma return garna milcha."
+    },
+    {
+        "question": "Mero account ko password reset garna parcha, kasari garne?",
+        "context": "Password reset garna ko lagi, tapai le hamro website ya app ma login page ma 'Forgot Password' option select garnu parcha. Tyahaa tapai le email address ya phone number enter garnu hunchha. Pachi, tapai ko email ma ek link pathaunechha jun link use gari password reset garna sakincha. Yadi email ma link dekhaudaina bhane spam folder check garnu hos. Kunai samasya aayo bhane hamro support team samparka garnu hos.",
+        "response": "Tapai le 'Forgot Password' option select garera email ma pathaune link use gari password reset garna sakincha. Kunai problem aayo bhane support team lai samparka garnu hos."
+    },
+    {
+        "question": "Mero subscription cancel garna milcha?",
+        "context": "Subscription cancel garna ko lagi, tapai le hamro website ma 'My Account' section ma janu parcha. Tespachi, 'Subscriptions' option ma click garera active subscription ko details kholnu hos. Cancel garna ko lagi, 'Cancel Subscription' button click garnu hos. Kripaya note garnu hos, subscription cancel garda baki days ko refund available chaina. Cancelation process ma kunai technical problem aayo bhane hamro support team samparka garnu hos.",
+        "response": "Ho, tapai ko subscription 'My Account' section ma janu ra 'Cancel Subscription' button click garera cancel garna milcha."
+    },
+    {
+        "question": "Mero order wrong item aayo, aba ke garne?",
+        "context": "Hamro policy anusar, wrong item aayeko condition ma tapai le order received bhayeko 7 din bhitra hamro support team samparka garnu parcha. Tapai le wrong item ko photo linera hamro email support@company.com ma pathaunu parcha. Email ma order ID ra short description lekhna nabirsinu hos. Support team le details verify garera replacement ya refund ko lagi agadi ko steps batainchha. Replacement order dispatch garna 3-5 din lagna sakcha.",
+        "response": "Wrong item aayeko bhaye, photo pathaera order ID ra description email garnu hos. Hamro team le replacement ya refund ko lagi process suru garnecha."
+    },
+    {
+        "question": "Mero wallet balance kasari use garna sakincha?",
+        "context": "Hamro platform ko wallet balance, tapai le product purchase garna ko lagi use garna sakincha. Checkout page ma 'Payment Options' section ma janu hos ra 'Use Wallet Balance' option select garnu hos. Wallet balance baki bhaye tyo amount auto-deduct huncha. Yadi wallet balance pura amount cover garna sakdaina bhane, baki amount pay garna ko lagi aru payment method add garna sakincha. Wallet balance ko expiry date pani huncha, jaslai wallet section ma check garna sakincha.",
+        "response": "Wallet balance 'Payment Options' ma select garera checkout ma use garna sakincha. Baki amount cover garna sakdaina bhane aru payment method add garnu hos."
+    },
+    {
+        "question": "Mero product delivery delay bhayo, aba ke hune?",
+        "context": "Hamro logistics partner le samaya ma delivery ko lagi prayas garchan, tara kahi kahi unforeseen circumstances jastai traffic, weather, ya high order volume le delivery delay huna sakcha. Delivery delay bhayeko condition ma, hamro system automatically order status update garchha. Tapai le hamro 'Track Order' section ma order status check garna sakincha. Yadi delivery 7 din bhanda badi delay huncha bhane, tapai hamro support team samparka garera escalate garna sakincha.",
+        "response": "Delivery delay bhayeko bhaye, 'Track Order' ma status check garnu hos. 7 din bhanda badi delay bhaye support team samparka garnu hos."
+    },
+    {
+        "question": "Loyalty points kasari earn garna ra use garna sakincha?",
+        "context": "Loyalty points earn garna ko lagi, tapai le hamro platform ma order place garnu parcha. Har ek purchase ma total amount ko anumani anusar loyalty points milcha. Points earn bhayepachi tapai le 'My Account' section ko 'Loyalty Points' tab ma total points dekhna sakincha. Points use garna ko lagi checkout page ma 'Use Loyalty Points' option select garnu hos. Loyalty points le partial ya full payment cover garna sakcha. Points earn bhayeko 1 barsha bhitra expire huncha.",
+        "response": "Loyalty points earn garna ko lagi purchase garnu hos, ra checkout page ma 'Use Loyalty Points' option select garera use garna sakincha."
+    },
+    {
+        "question": "International shipping available cha?",
+        "context": "Hamro company le abha kehi selected countries ma international shipping provide garchha. International shipping ko lagi delivery charges order weight, size, ra destination country anusar vary garcha. Tapai le checkout page ma delivery charges ko estimate dekhna sakincha. Dhyan dinu hos ki international orders ma customs duty ya taxes lagna sakcha, jun customer ko responsibility huncha. Tyo charges hamro company ko estimate ma sammilit hudaina.",
+        "response": "Ho, hamro selected countries ma international shipping available cha. Delivery charges ra customs duty ko lagi checkout page check garnu hos."
+    },
+    {
+        "question": "Order ko invoice download garna kasari garne?",
+        "context": "Order ko invoice download garna ko lagi, tapai le hamro website ya app ma login garna parcha. Tespachi, 'My Orders' section ma janu hos ra jun order ko invoice chahinchha tyo order detail ma click garnu hos. Tyahaa 'Download Invoice' option dekhincha, jun click garera PDF format ma invoice download garna sakincha. Yadi tapai lai invoice download garna problem bhayo bhane hamro support team samparka garnu hos.",
+        "response": "Tapai le 'My Orders' section ma janu ra 'Download Invoice' option click garera invoice download garna sakincha."
+    },
+    {
+        "question": "Mero email address kasari update garne?",
+        "context": "Email address update garna ko lagi, tapai le hamro platform ma login garna parcha. Tespachi, 'My Account' section ma janu hos ra 'Edit Profile' option ma click garnu hos. Tyahaa tapai ko email address update garna saknu hunchha. Update garera save garepachi, hamro system le naya email ma ek verification link pathaunecha. Tyo link verify garepachi matra email update complete hunchha.",
+        "response": "Email address update garna 'Edit Profile' ma janu hos ra naya email enter garera save garnu hos. Verification link confirm garna nabirsinu hos."
+    },
+    {
+        "question": "Gift card kasari use garna sakincha?",
+        "context": "Gift card use garna ko lagi, tapai le checkout page ma 'Apply Gift Card' option ma click garnu parcha. Tyahaa tapai le gift card code enter garera apply garnu hos. Gift card ko value automatically total amount bata deduct huncha. Kripaya note garnu hos ki ek patak ko order ma ek matra gift card use garna milcha, ra gift card ko expiry date pani huncha. Expired gift card use garna mildaina.",
+        "response": "Gift card 'Apply Gift Card' option ma code enter garera use garna sakincha. Gift card ek patak matra use huna sakcha ra expiry date check garnu hos."
+    },
+    {
+        "question": "Delivery address kasari change garne?",
+        "context": "Delivery address change garna ko lagi, order 'Shipped' status ma chaina bhane matra address change garna milcha. Tapai le 'My Orders' section ma janu hos ra jun order ko address change garna chahanchha tyo order detail ma click garnu hos. 'Edit Address' option click garepachi naya address enter garera save garnu hos. Shipped status bhayepachi address change garna mildaina.",
+        "response": "Delivery address 'My Orders' ma 'Edit Address' option use garera change garna milcha, tara Shipped status bhayepachi change garna mildaina."
+    },
+    {
+        "question": "Account deactivate garna parcha, aba ke garne?",
+        "context": "Account deactivate garna ko lagi, tapai le hamro support team samparka garnu parcha. Tapai le hamro email support@company.com ma email pathaera deactivate request garnu hos. Email ma tapai ko account ID ya registered email mention garnu hos. Hamro team le tapai ko request verify garera 24-48 ghanta bhitra account deactivate garna kaam suru garcha. Deactivate bhayepachi account dubara activate garna parcha bhane, feri support team lai samparka garnu parcha.",
+        "response": "Account deactivate garna email ma request pathaunu hos. Hamro team 24-48 ghanta bhitra process suru garnecha."
+    },
+    {
+        "question": "Hamro product warranty ma chha ki chaina kasari check garne?",
+        "context": "Hamra sabai electronics product haru warranty ko satha aauchha. Warranty details check garna ko lagi, tapai le product box ma raheko warranty card check garnu parcha. Tyaha product ID ra warranty duration mention huncha. Warranty online verify garna ko lagi, hamro website ma 'Warranty Check' section ma janu hos ra product ID enter garnu hos. Warranty related kunai confusion bhaye, hamro support team samparka garnu hos.",
+        "response": "Warranty product box ma raheko warranty card check garera ya website ko 'Warranty Check' section ma verify garna sakincha."
+    },
+    {
+        "question": "COD (Cash on Delivery) available cha?",
+        "context": "Hamro platform ma COD (Cash on Delivery) service selected locations ma matra available cha. Tapai le product select garepachi checkout page ma COD option available cha ki chaina tyaha dekhna sakincha. COD ko lagi Rs. 50 ko additional charge lagna sakcha. COD service kehi high-value items ma available hudaina. COD option confirm garna checkout page check garnu hos.",
+        "response": "Ho, COD service selected locations ma available cha. Checkout page ma COD option check garnu hos."
+    },
+    {
+        "question": "Membership benefits ke ke huncha?",
+        "context": "Hamro membership plan ma enrolled bhayepachi, tapai le multiple benefits prapt garnu hunchha. Benefits ma priority customer support, free shipping selected items ma, exclusive discounts, ra early access to sales programs sammilit cha. Membership plan annual basis ma renew garna parcha. Membership ko full details ra enroll garna hamro website ko 'Membership' section visit garnu hos.",
+        "response": "Membership benefits ma priority support, free shipping, discounts, ra early sales access sammilit cha. Renewal annually garna parcha."
+    },
+    {
+        "question": "Mero replacement order kasari track garne?",
+        "context": "Replacement order track garna ko lagi, tapai le hamro website ya app ma login garna parcha. Tespachi, 'My Orders' section ma janu hos ra replacement order details open garnu hos. Tyahaa 'Track Order' button click garera live tracking details dekhna sakincha. Replacement process complete bhayeko 3-5 din bhitra dispatch huncha, ra tracking ID system ma update huncha.",
+        "response": "Replacement order track garna 'My Orders' section ma 'Track Order' button click garnu hos. Tracking ID system ma update huncha."
+    },
+    {
+        "question": "Payment fail bhayo, aba ke garne?",
+        "context": "Payment fail bhayeko condition ma, sabai pahila ensure garnu hos ki tapai ko internet connection stable cha. Payment fail hunu ko karan card details galat hunu, insufficient balance, ya bank server issue huna sakcha. Payment attempt garnu agadi details check garnu hos. Yadi paisa deduct bhayeko cha, tara order confirm bhayeko chaina bhane 5-7 din bhitra refund process huncha. Kunai confusion bhaye hamro support team samparka garnu hos.",
+        "response": "Payment fail bhaye details check garera feri try garnu hos. Paisa deduct bhayeko cha bhane 5-7 din bhitra refund huncha."
+    },
+    {
+        "question": "Product exchange garna milcha?",
+        "context": "Hamro exchange policy anusar, product exchange garna ko lagi order received bhayeko 7 din bhitra request garna parcha. Product unused ra original packaging ma hunu parcha. Tapai le hamro website ya app ma login garera 'My Orders' section ma exchange request submit garna sakincha. Exchange process complete garna 3-5 din lagna sakcha. Electronics item haru ko lagi exchange available chaina.",
+        "response": "Product exchange 7 din bhitra, unused condition ma, ra 'My Orders' ma request submit garera garna milcha."
+    },
+    {
+        "question": "Hamro app ma login garna sakina, ke garne?",
+        "context": "Login garna na sakine condition ma, sabai pahila check garnu hos ki tapai le correct email address ra password enter gareko cha. Forgot Password ko option use gari naya password reset garera feri try garnu hos. Yadi tapai ko account temporarily locked cha bhane, 30 minutes pachi try garnu hos. Technical issue bhaye hamro support team email support@company.com ma samparka garnu hos.",
+        "response": "Correct details use garera login garnu hos, ya Forgot Password use garera password reset garnu hos."
+    },
+    {
+        "question": "Delivery status 'Out for Delivery' cha, aba kati samaya lagcha?",
+        "context": "Delivery status 'Out for Delivery' ko matlab ho ki order tapai ko address ma dispatch bhayeko cha ra delivery agent le tyaha purai rakhda hunu parcha. Normally, Out for Delivery bhayepachi 1-2 ghanta bhitra delivery complete huncha. Tara, traffic ya other factors le samaya thap dina sakcha. Delivery agent samparka garna ko lagi, tapai le 'Track Order' section ma agent ko contact details herna sakincha.",
+        "response": "Out for Delivery bhayepachi 1-2 ghanta ma delivery hunecha. Kunai delay bhaye 'Track Order' ma contact details check garnu hos."
+    },
+    {
+        "question": "Hamro store location ko bare ma thap jankari dinus.",
+        "context": "Hamro store haru Kathmandu, Pokhara, ra Biratnagar ma available cha. Kathmandu store ko location New Road ma cha, Pokhara store ko Lakeside ma, ra Biratnagar store ko location Traffic Chowk ma cha. Store timing Monday to Saturday 10 AM to 7 PM ho. Public holidays ma store band huncha. Store visit garnu agadi, product availability confirm garna hami lai call garna sakincha.",
+        "response": "Hamro store Kathmandu, Pokhara, ra Biratnagar ma cha. Timing Monday to Saturday 10 AM to 7 PM ho."
+    },
+    {
+        "question": "Promo code kasari use garna sakincha?",
+        "context": "Promo code use garna ko lagi, tapai le checkout page ma 'Apply Promo Code' option select garera code enter garna parcha. Promo code valid hunuparcha ra terms and conditions anusar use garna parcha. Promo code ko expiry date ra applicable items checkout page ma mention huncha. Yadi promo code apply garna problem aayo bhane, support team lai samparka garnu hos.",
+        "response": "Promo code 'Apply Promo Code' ma enter garera checkout page ma use garna sakincha. Validity ra conditions check garnu hos."
+    },
+    {
+        "question": "Damaged product aayo, aba ke garne?",
+        "context": "Damaged product aayeko case ma, tapai le product received bhayeko 48 ghanta bhitra complaint lodge garnu parcha. Complaint lodge garna ko lagi, damaged product ko photo hamro email support@company.com ma pathaera order ID mention garnu hos. Hamro support team complaint verify garera 3-5 din bhitra replacement ya refund ko process suru garchha. Damaged product ko original packaging safe rakhnuhos kinabhane return process ma tyo chahincha.",
+        "response": "Damaged product aayo bhane photo ra order ID email garnu hos. Replacement ya refund ko lagi process 3-5 din ma suru huncha."
+    },
+    {
+        "question": "Refund ko status kasari check garne?",
+        "context": "Refund ko status check garna, tapai le hamro website ya app ma 'My Orders' section ma janu hos. Refund initiated bhayeko cha bhane status 'Refund in Process' ma huncha. Refund process complete bhayepachi 'Refund Completed' status dekhna sakincha. Bank ko process anusar refund 5-7 working days ma tapai ko account ma pugncha. Kunai confusion bhaye hamro support team samparka garnu hos.",
+        "response": "Refund status 'My Orders' section ma check garnu hos. Complete bhayepachi 'Refund Completed' status aauchha."
+    },
+    {
+        "question": "Same day delivery available cha?",
+        "context": "Same day delivery limited locations ma matra available cha. Tapai le product checkout garna agadi, delivery option ma 'Same Day Delivery' select garna sakincha, yadi available cha bhane. Same day delivery order ko cutoff time 1 PM ho. Usko baad place gareko order next day deliver huncha. Delivery charge additional huncha ra location anusar vary garcha. Details checkout page ma confirm garnu hos.",
+        "response": "Same day delivery limited locations ma matra cha. Checkout page ma option select garera confirm garnu hos."
+    },
+    {
+        "question": "Mero gift wrapping request kasari garne?",
+        "context": "Gift wrapping service ko lagi, checkout page ma 'Gift Wrapping' option select garna parcha. Wrapping ko lagi Rs. 100 ko additional charge lagcha. Gift wrapping ko request order dispatch bhayepachi change garna mildaina, so checkout process ma option carefully select garnu hos. Wrapping ko details, jastai message tag ya special instructions, tapai checkout page ma add garna sakincha.",
+        "response": "Gift wrapping 'Checkout' page ma select garera request garna sakincha. Rs. 100 additional charge lagcha."
+    },
+    {
+        "question": "Order cancel garna parcha, kasari garne?",
+        "context": "Order cancel garna ko lagi, tapai le hamro website ya app ma login garera 'My Orders' section ma janu hos. Tyaha tapai le jun order cancel garna chahanchha tyo order detail ma click garera 'Cancel Order' option select garnu hos. Cancelation sirf order dispatch bhayeko agadi matra possible huncha. Yadi order dispatch bhayisakyo bhane, cancel garna mildaina, tara return process shuru garna sakincha.",
+        "response": "Order dispatch bhayeko chaina bhane, 'My Orders' ma janu ra 'Cancel Order' option select garera cancel garna sakincha."
+    },
+    {
+        "question": "Return request kasari process huncha?",
+        "context": "Return request process garna ko lagi, tapai le hamro website ya app ma 'My Orders' section ma janu hos ra return request submit garnu hos. Product original packaging ma hunu parcha ra unused hunuparcha. Hamro logistics team product collect garna aunecha, ra return verify bhayepachi 5-7 working days ma refund ya replacement process huncha. Return policy electronics item ya customized product haru ma lagu hudaina.",
+        "response": "Return request 'My Orders' ma submit garera logistics team ko pickup ko lagi wait garnu hos. Verification pachi refund ya replacement hunecha."
+    },
+    {
+        "question": "Subscription plan upgrade garna chahanchhu, ke garne?",
+        "context": "Subscription plan upgrade garna ko lagi, tapai le hamro website ma 'Membership' section ma login garna parcha. Tyahaa 'Upgrade Plan' option select garera naya plan choose garnu hos. Upgrade pachi remaining days ko balance automatically adjust hunecha. Payment confirm bhayepachi naya plan immediately activate huncha. Upgrade process ma kunai confusion bhaye hamro support team samparka garnu hos.",
+        "response": "Subscription plan upgrade 'Membership' section ma garna sakincha. Naya plan activate hune immediately pachi payment confirm huncha."
+    },
+    {
+        "question": "Courier tracking ID kaile provide huncha?",
+        "context": "Courier tracking ID order dispatch bhayepachi automatically email ya SMS ma pathaunecha. Dispatch process normally 1-2 working days lagcha. Tracking ID ko details 'My Orders' section ma pani update hunecha. Yadi tapai lai 48 ghanta pachi pani tracking ID available chaina bhane, hamro support team lai samparka garnu hos.",
+        "response": "Tracking ID order dispatch bhayepachi email ya SMS ma aauchha. Details 'My Orders' ma pani check garna sakincha."
+    },
+    {
+        "question": "Gift card balance kasari check garne?",
+        "context": "Gift card balance check garna ko lagi, tapai le hamro website ya app ko 'Gift Card' section ma janu hos. Tyo section ma gift card code enter garnu hos ra balance dekhna sakincha. Balance expired hunu agadi use garna milcha, expiry date gift card ma mentioned huncha. Yadi balance ya expiry ma confusion cha bhane hamro support team samparka garnu hos.",
+        "response": "Gift card balance 'Gift Card' section ma code enter garera check garna sakincha. Expiry date gift card ma mentioned huncha."
+    },
+    {
+        "question": "Price match policy cha ki chaina?",
+        "context": "Hamro price match policy anusar, tapai le same product, same specifications, aru online store ma sasto ma bheteko proof submit garna parcha. Proof submit garepachi hamro team verify garera price match garna kaam suru garchha. Price match request order confirm bhayeko 24 ghanta bhitra matra garna milcha. Discounted ya promotional items ma price match lagu hudaina.",
+        "response": "Price match policy same product ko aru online store ko proof submit garera 24 ghanta bhitra request garna sakincha."
+    },
+    {
+        "question": "International shipping available cha?",
+        "context": "Hamro platform ma international shipping limited countries ma available cha. Shipping charges order weight, destination, ra product type anusar vary garcha. International shipping ko lagi customs clearance ra delivery timing additional factors le impact garcha. Tapai ko destination country international shipping coverage ma cha ki chaina checkout page ma dekhna sakincha.",
+        "response": "International shipping limited countries ma available cha. Checkout page ma coverage confirm garnu hos."
+    },
+    {
+        "question": "Product out of stock cha, kaile available hunecha?",
+        "context": "Out of stock product ko availability timeline supplier ko update anusar depend garcha. Tapai le hamro website ma 'Notify Me' option select garera email ya SMS ma stock update ko notification pauna sakincha. Normally, popular items 1-2 weeks bhitra restock hunecha, tara timing product anusar vary garcha.",
+        "response": "Out of stock product ko lagi 'Notify Me' option select garera update pauna sakincha. Restock time 1-2 weeks lagna sakcha."
+    },
+    {
+        "question": "Order ko delivery time kasari check garne?",
+        "context": "Order ko estimated delivery time checkout page ma tapai ko location ra product availability anusar dekhna milcha. Delivery confirmation email ya SMS ma pani delivery date mentioned huncha. 'My Orders' section ma order details ma delivery status continuously update huncha. Kunai delay bhaye, tapai hamro support team lai samparka garna sakincha.",
+        "response": "Delivery time checkout page ya confirmation email ma check garna sakincha. 'My Orders' ma updates pani herna milcha."
+    },
+    {
+        "question": "Product review kasari submit garne?",
+        "context": "Product review submit garna ko lagi, tapai le hamro website ya app ma login garera 'My Orders' section ma janu hos. Review dina chahine product select garera 'Write a Review' option ma click garnu hos. Rating ra comments fill garera submit garna sakincha. Review verify bhayepachi hamro website ma publish huncha.",
+        "response": "Product review 'My Orders' ma 'Write a Review' option click garera submit garna sakincha. Verify bhayepachi publish hunecha."
+    },
+    {
+        "question": "Home service request kasari garne?",
+        "context": "Home service request garna ko lagi, hamro website ya app ma 'Services' section ma janu hos. Tapai ko location select garera available services ko list ma bata chahine service choose garnu hos. Form fill garera date ra time schedule garnu hos. Confirmation email ya SMS tapai ko request confirm bhayepachi aauchha. Service cancel ya reschedule garna, 24 hours agadi request garnu hos.",
+        "response": "Home service request 'Services' section ma location select garera form fill garera garnu hos. Confirm pachi email ya SMS aauchha."
+    },
+    {
+        "question": "Installation service cha ki chaina?",
+        "context": "Hamro platform le electronics item ko lagi installation service provide garcha. Installation request product purchase ko samaya ma ya delivery pachi request garna sakincha. Service charge product type ra location anusar vary garcha. Installation schedule ko lagi hamro team le tapai lai within 24 hours contact garcha. Self-installation option le warranty void huna sakcha, so professional service use garna recommend garchhau.",
+        "response": "Electronics item ko lagi installation service available cha. Purchase ko bela ya delivery pachi request garna sakincha."
+    },
+    {
+        "question": "Warranty claim kasari garne?",
+        "context": "Warranty claim garna ko lagi, product ko original invoice ra warranty card ko copy ready rakhnuhos. Tapai le warranty claim hamro website ya app ma 'Warranty Claim' section ma login garera submit garna sakincha. Product pickup arrange huncha ya nearest service center ma tapai le dine saknuhuncha. Verification complete bhayepachi replacement ya repair ko process suru hunecha. Warranty terms product ko type anusar vary garcha.",
+        "response": "Warranty claim 'Warranty Claim' section ma submit garera garnu hos. Verification pachi replacement ya repair process hunecha."
+    },
+    {
+        "question": "Loyalty points kasari use garne?",
+        "context": "Hamro loyalty program anusar, har ek purchase ma tapai loyalty points earn garnuhuncha. Loyalty points checkout page ma use garna sakincha, jaba tapai 'Apply Points' option select garnu huncha. Points ko validity 1 year ho, ra points expire hunu agadi use garna milcha. Points cash equivalent ho, tara specific items ma apply hune haina. Points ko balance 'My Account' section ma check garna sakincha.",
+        "response": "Loyalty points checkout page ma 'Apply Points' option use garera garnu hos. Validity 1 year ho."
+    },
+    {
+        "question": "Delivery agent le samparka gareko chaina, aba ke garne?",
+        "context": "Delivery agent le contact garna problem aayeko cha bhane, sabai pahila 'Track Order' section ma delivery agent ko contact number check garnu hos. Kunai technical issue ya delivery time exceed bhaye hamro support team lai samparka garnu hos. Delivery reschedule garna, tapai ko delivery date ma 1 din extend garna sakincha.",
+        "response": "Delivery agent ko contact number 'Track Order' section ma check garnu hos. Problem bhaye support team lai contact garnu hos."
+    },
+    {
+        "question": "Order customization garna milcha?",
+        "context": "Hamro platform ma order customization limited items ma available cha. Tapai customization ko lagi product detail page ma 'Customize' option select garera instructions add garnu hos. Customized order return ya cancel garna mildaina. Customization ko lagi additional charge lagna sakcha, ra delivery time extra 3-5 days lagna sakcha.",
+        "response": "Order customization 'Customize' option ma instructions add garera garnu hos. Cancel ya return garna mildaina."
+    },
+    {
+        "question": "Pre-order product ko delivery kaile huncha?",
+        "context": "Pre-order product ko delivery timeline product release date anusar depend garcha. Pre-order confirm bhayepachi tapai lai estimated delivery date email ya SMS ma inform garincha. Product release ma delay bhaye, updated timeline ko lagi hamro support team contact garna sakincha. Payment pre-order ko samaya ma confirm hunuparcha.",
+        "response": "Pre-order product ko delivery release date anusar huncha. Confirmation pachi estimated date SMS ya email ma aauchha."
+    },
+    {
+        "question": "Business partnership ko lagi ke garne?",
+        "context": "Hamro company sanga business partnership ko lagi, tapai le hamro website ma 'Business Inquiry' form fill garna parcha. Form ma tapai ko business detail, purpose of partnership, ra contact information dina parcha. Hamro business team 48 hours bhitra tapai sanga samparka garchha. Proposal discuss garera agadi badhne process finalize huncha.",
+        "response": "Business partnership ko lagi 'Business Inquiry' form fill garera submit garnu hos. 48 hours bhitra team contact garchha."
+    },
+    {
+        "question": "Referral program ko barema jankari dinus.",
+        "context": "Referral program ma, tapai le hamro app ya website bata referral code generate garna sakincha. Tyo code share gareko friend le tapai ko link bata sign up garepachi, both tapai ra tapai ko friend lai reward points milcha. Reward points next purchase ma use garna sakincha. Referral program ko reward terms ra conditions referral section ma mentioned huncha.",
+        "response": "Referral code generate garera friends lai share garnu hos. Sign up garepachi reward points tapai ra friend lai milcha."
+    },
+    {
+        "question": "Account deactivate kasari garne?",
+        "context": "Account deactivate garna ko lagi, tapai le 'My Account' section ma janu hos ra 'Deactivate Account' option select garnu hos. Deactivate garepachi, tapai ko saved data, order history, ra loyalty points permanently delete huncha. Deactivate garnu agadi sabai loyalty points use garera account permanently delete garna confirm garnu hos.",
+        "response": "Account deactivate 'My Account' ma 'Deactivate Account' option select garera garnu hos. Data permanently delete huncha."
+    },
+    {
+        "question": "Subscription auto-renew off garna chahanchu, kasari garne?",
+        "context": "Subscription auto-renew off garna ko lagi, tapai le hamro website ya app ma login garera 'My Subscriptions' section ma janu hos. Tyaha tapai ko active subscription ma 'Manage' button click garnu hos ra 'Turn Off Auto-Renewal' option select garnu hos. Confirmation email ya SMS pachi auto-renew off hunecha. Yadi manually renew garnu parcha bhane, plan expiry ko 7 din agadi notification aauchha.",
+        "response": "Auto-renew 'My Subscriptions' section ma 'Turn Off Auto-Renewal' option click garera off garna sakincha."
+    },
+    {
+        "question": "Gift wrapping option available cha?",
+        "context": "Gift wrapping option checkout process ma available huncha. Product ko detail page ma gift wrap ko lagi 'Add Gift Wrap' option select garna sakincha. Additional charge apply huncha, jun checkout summary ma dekhna sakincha. Gift wrap ko lagi customized message include garna pani milcha. Yadi gift wrap choose bhayena bhane, order confirm bhayepachi yo option change garna mildaina.",
+        "response": "Checkout process ma 'Add Gift Wrap' option select garera gift wrapping garnu hos. Customized message add garna milcha."
+    },
+    {
+        "question": "Payment fail bhayo, aba ke garne?",
+        "context": "Payment fail bhaye, sabai pahila tapai ko bank ya payment app ma balance ya transaction status confirm garnu hos. Yadi payment deduct bhayeko cha tara order confirm bhayena bhane, hamro support team lai transaction ID provide garera contact garnu hos. Normally, failed transactions ma refund automatically 5-7 working days ma aauchha. Retry garnu parcha bhane, alternate payment method use garera order confirm garnu hos.",
+        "response": "Payment fail bhaye bank ya app ma balance check garnu hos. Refund 5-7 days ma aauchha ya retry garna sakincha."
+    },
+    {
+        "question": "Account password reset kasari garne?",
+        "context": "Password reset garna ko lagi, login page ma 'Forgot Password' option select garnu hos. Tapai ko registered email ya phone number ma OTP pathaunecha. OTP verify garepachi, naya password set garna sakincha. Naya password strong rakhna ko lagi uppercase, lowercase, number, ra special character include garnu hos.",
+        "response": "'Forgot Password' option ma OTP verify garepachi naya password set garna sakincha. Password strong banauna characters mix garnu hos."
+    },
+    {
+        "question": "Bulk order ko lagi discount milcha ki?",
+        "context": "Bulk order ko lagi, tapai hamro sales team sanga contact garera bulk pricing policy ko barema jankari lina sakincha. Minimum quantity criteria meet garepachi discount provide garincha. Bulk orders ko delivery time regular orders ko compare ma thap time lagna sakcha. Payment advance ko rup ma garnu parcha, ra customization ya special requirements ko lagi extra charges lagna sakcha.",
+        "response": "Bulk order ko discount minimum quantity criteria meet garepachi milcha. Sales team sanga contact garnu hos."
+    },
+    {
+        "question": "COD (Cash on Delivery) available cha?",
+        "context": "COD (Cash on Delivery) option selected products ra locations ma available cha. Checkout page ma tapai ko location COD ma eligible cha ki chaina bhanne confirm huncha. COD orders ma additional handling charges lagna sakcha. Order confirm bhayepachi, delivery agent le exact cash ko lagi prepare hunu ko lagi suggest garcha.",
+        "response": "COD option selected locations ra products ma available cha. Checkout page ma eligibility confirm garnu hos."
+    },
+    {
+        "question": "Courier service change garna milcha ki?",
+        "context": "Courier service change garna option order confirm bhayepachi available hudaina. Dispatch bhanda pahila specific request ko lagi hamro support team sanga samparka garna sakincha. Courier selection platform anusar automatically optimize garincha tapai ko location ra delivery speed ko lagi.",
+        "response": "Order confirm bhayepachi courier change garna mildaina. Dispatch agadi request ko lagi support team contact garnu hos."
+    },
+    {
+        "question": "Service kaile available huncha feri?",
+        "context": "Hamro service availability demand ra capacity anusar adjust garincha. Service temporarily unavailable cha bhane, 'Notify Me' option select garera available bhaye pachi email ya SMS ma update pauna sakincha. Regular updates hamro website ya app ma herna milcha. Specific inquiries ko lagi support team contact garnu hos.",
+        "response": "Service ko availability 'Notify Me' option select garera herna sakincha. Regular updates website ma pani dekhna milcha."
+    },
+    {
+        "question": "Order ko invoice kaile receive huncha?",
+        "context": "Order ko invoice order confirm bhayepachi email ma automatically pathaunecha. Invoice 'My Orders' section ma download garna pani milcha. Yadi invoice available chaina bhane, hamro support team lai samparka garnu hos ra order ID provide garnu hos.",
+        "response": "Invoice order confirm bhayepachi email ma pathaunecha. 'My Orders' ma download garna pani milcha."
+    },
+    {
+        "question": "Online chat support kun time ma available huncha?",
+        "context": "Hamro online chat support Monday to Friday, 9 AM dekhi 6 PM samma available cha. Chat support ko lagi hamro website ya app ma 'Live Chat' option ma click garnu hos. Working hours bahira ko inquiries ko lagi, tapai email ya form fill garera query submit garna sakincha. Response next working day ma milcha.",
+        "response": "Chat support Monday-Friday, 9 AM-6 PM samma available cha. Working hours bahira query submit garnu hos."
+    },
+    {
+        "question": "Order kaile cancel garna mildaina?",
+        "context": "Order cancel policy anusar, order dispatch bhayeko agadi cancel garna sakincha. Dispatch pachi cancel garnu parcha bhane, return process follow garna parcha. Prepaid orders ko refund cancel confirm bhayepachi 5-7 working days ma aauchha. Customized items ya bulk orders cancel garna mildaina. Order status 'My Orders' section ma check garera cancel option use garnu hos.",
+        "response": "Order dispatch agadi cancel garna sakincha. Dispatch bhayepachi return process follow garnu parcha."
+    },
+    {
+        "question": "Wrong item receive bhayo, aba ke garne?",
+        "context": "Wrong item receive bhayeko cha bhane, 'My Orders' section ma 'Report Issue' button click garnu hos. Tapai le product photo upload garera description dina sakincha. Issue verify bhayepachi, correct item pathaune ya refund process suru garincha. Return pickup arrange garna courier partner sanga 24-48 hours lagna sakcha.",
+        "response": "Wrong item 'Report Issue' button click garera photo upload garna hos. Verification pachi replacement ya refund huncha."
+    },
+    {
+        "question": "App ko notifications off kasari garne?",
+        "context": "App notifications off garna ko lagi, tapai le app settings ma 'Notifications' section ma janu hos. Tyaha tapai le push notifications, order updates, ya promotional messages lai individually on ya off garna sakincha. Yadi poora disable garna parcha bhane phone settings ma app permissions manage garnu hos.",
+        "response": "App notifications off garnu parcha bhane 'Notifications' section ma individual settings manage garnu hos."
+    },
+    {
+        "question": "Return request reject bhayo, aba ke garne?",
+        "context": "Return request reject bhayeko cha bhane, sabai pahila rejection reason check garnu hos. Damaged ya used product return request reject huncha. Dispute ko lagi, support team sanga contact garera required documents (product photo, invoice) provide garnu hos. Yadi return eligibility policy meet garcha bhane dispute resolution ko lagi 3-5 days lagna sakcha.",
+        "response": "Return rejection reason check garnu hos. Policy meet garcha bhane support team lai contact garnu hos."
+    },
+    {
+        "question": "Delivery kaile late huncha?",
+        "context": "Delivery late huna sakcha due to weather conditions, courier service delays, ya high order volume. Tapai ko order status 'Track Order' section ma update garincha. Delivery late bhaye pachi, compensation ko lagi support team contact garna sakincha. Critical deliveries ko lagi priority shipping option use garna recommend garchhau.",
+        "response": "Delivery 'Track Order' section ma check garnu hos. Late bhaye support team contact garnu hos."
+    },
+    {
+        "question": "Partial payment ko option cha ki chaina?",
+        "context": "Partial payment ko option EMI (Equated Monthly Installments) ma available cha. Tapai EMI eligible cha ki chaina bhanne checkout page ma confirm garna sakincha. EMI ko lagi tapai le credit card ya partnered banks ko account use garnu parcha. Down payment ra installment terms ko details purchase ko samaya ma dekhna sakincha.",
+        "response": "Partial payment EMI option ma available cha. Checkout page ma eligibility confirm garna sakincha."
+    },
+    {
+        "question": "Order kaile split delivery ma aauchha?",
+        "context": "Split delivery tabha huncha jaba tapai ko order ma multiple items different warehouses bata dispatch huncha. Split delivery ma tapai le ekai order ko different parts alag timing ma receive garna saknuhuncha. Delivery charges ekai hunecha, tara tracking separate provide garincha. 'Track Order' section ma individual items ko status check garna sakincha.",
+        "response": "Split delivery different warehouse bata items dispatch bhayepachi huncha. Separate tracking details provide garincha."
+    },
+    {
+        "question": "Gift card redeem kasari garne?",
+        "context": "Gift card redeem garna checkout page ma 'Apply Gift Card' option ma code enter garnu hos. Code valid cha bhane amount automatic deduct huncha. Gift card multiple orders ma use garna sakincha jaba remaining balance cha. Expired gift cards lai renew garna mildaina.",
+        "response": "Gift card checkout ma 'Apply Gift Card' option ma code enter garera redeem garna sakincha."
+    },
+    {
+        "question": "Customer feedback dina cha, kasari garnu?",
+        "context": "Customer feedback dina, tapai le app ya website ma 'Feedback' section ma login garera form fill garna sakincha. Feedback ko lagi tapai le rating dina saknuhuncha ra text ma suggestion ya complaint mention garna sakincha. Genuine feedback ko lagi reward points milna sakcha.",
+        "response": "Feedback 'Feedback' section ma form fill garera dinu hos. Genuine feedback ko lagi reward points pani milcha."
+    },
+    {
+        "question": "Multi-language support cha ki chaina?",
+        "context": "Hamro platform multi-language support provide garcha, jun website ya app ko settings ma 'Language' option select garera enable garna sakincha. Currently, English, Nepali, ra Roman Nepali options available cha. Additional languages ko lagi upcoming updates ma add hunecha.",
+        "response": "Multi-language support 'Language' settings bata enable garna sakincha. Nepali ra Roman Nepali options available cha."
+    },
+    {
+        "question": "Flight reschedule garna chahanchu, aba ke garne?",
+        "context": "Flight reschedule garna ko lagi, tapai le hamro website ya app ko 'Manage Booking' section ma login garna parcha. Reschedule option available cha bhane, date ra time change garna sakincha. Fare difference apply huncha, ra cancellation charges applicable huncha bhane refund adjust garincha. Emergency ma support team sanga contact garna sakincha.",
+        "response": "Flight reschedule 'Manage Booking' ma garna hos. Fare difference ya cancellation charges applicable huncha."
+    },
+    {
+        "question": "Bank account ma suspicious activity dekhyo, ke garne?",
+        "context": "Suspicious activity dekhyo bhane, sabai pahila online banking ma login garera recent transactions verify garnu hos. Unauthorized activity confirm bhaye, hamro customer care lai call garera account temporarily block garna request garnu hos. Fraud claim ko lagi, FIR copy ra required documents bank ma submit garna parcha.",
+        "response": "Suspicious activity ko lagi, recent transactions check garera support sanga contact garna hos. Account block garna mildaina."
+    },
+    {
+        "question": "Health insurance claim kasari process garne?",
+        "context": "Health insurance claim ko lagi, tapai le hospitalization ko 24 hours vitra insurance provider lai notify garna parcha. Required documents jastai discharge summary, hospital bills, ra ID proof submit garnu hos. Claim status online portal ya email ko madhyam bata track garna sakincha. Cashless facility cha bhane, pre-authorization form submit garnu parcha.",
+        "response": "Claim ko lagi 24 hours vitra notify garera documents submit garnu hos. Cashless facility ko lagi pre-authorization form chahincha."
+    },
+    {
+        "question": "Online course ko certificate kaile aauchha?",
+        "context": "Online course complete garepachi, final assessment pass bhayepachi certificate automatically email garincha. Yadi certificate email ma dekhiyena bhane, 'My Courses' section ma 'Download Certificate' option use garna sakincha. Certificate delivery ma 3-5 days lagna sakcha.",
+        "response": "Certificate final assessment pass bhayepachi email ma aauchha. My Courses section bata download pani garna sakincha."
+    },
+    {
+        "question": "Hotel booking ma check-in time change garna milcha ki?",
+        "context": "Check-in time change garna hotel policy anusar depend garcha. 'Manage Booking' section ma requested time select garera change request submit garna sakincha. Early check-in ya late check-out ko lagi extra charges lagna sakcha. Confirmation kehi ghanta vitra email ya SMS ma aauchha.",
+        "response": "Check-in time 'Manage Booking' bata change request submit garna hos. Early check-in ma extra charge lagna sakcha."
+    },
+    {
+        "question": "Electricity bill online kasari tirne?",
+        "context": "Electricity bill online tirna ko lagi, tapai le hamro app ya website ko 'Pay Bills' section ma account details enter garna parcha. Bill amount confirm garepachi, debit/credit card ya mobile wallet use garera payment garna sakincha. Payment successful bhayepachi receipt download garna milcha.",
+        "response": "Electricity bill 'Pay Bills' section ma account details rakhera payment garna hos. Receipt download garna milcha."
+    },
+    {
+        "question": "Mobile recharge failed bhayo, aba ke garne?",
+        "context": "Mobile recharge fail bhayeko cha bhane, sabai pahila transaction status check garna hos. Amount deduct bhayeko cha bhane 24 hours vitra refund aauchha. Refund na aayeko bhaye, recharge provider ko support sanga transaction ID provide garera contact garnu hos. Retry garna parcha bhane, alternate method use garna milcha.",
+        "response": "Recharge failed bhaye transaction status check garnu hos. Refund 24 hours vitra aauchha."
+    },
+    {
+        "question": "Travel package customize garna milcha?",
+        "context": "Travel package customize garna, tapai le hamro travel agent sanga directly contact garna sakincha. Package customization ko lagi travel dates, budget, ra activities preference specify garnu hos. Additional charges lagna sakcha, ra customization ko lagi 2-3 days ko process time lagna sakcha.",
+        "response": "Travel package customize garna agent sanga contact garera details provide garnu hos. Additional charge lagna sakcha."
+    },
+    {
+        "question": "Lost luggage ko lagi ke garne?",
+        "context": "Lost luggage ko lagi, sabai pahila airport ko baggage service counter ma report garna parcha. Luggage tag ra flight details provide garnu hos. Claim process ko lagi airline ko online portal ma complaint file garna sakincha. Compensation policy airline ko terms anusar hunecha.",
+        "response": "Lost luggage baggage service counter ma report garera details provide garnu hos. Online complaint file garna pani milcha."
+    },
+    {
+        "question": "Car insurance renewal reminder off garna milcha?",
+        "context": "Car insurance renewal reminder off garna ko lagi, tapai hamro website ya app ma login garera 'Manage Notifications' section ma janu hos. Tyaha 'Renewal Reminders' disable garna sakincha. Reminder manually off garna email ya customer care call garna pani milcha.",
+        "response": "Renewal reminder 'Manage Notifications' bata disable garna hos ya customer care sanga contact garnu hos."
+    }
+]

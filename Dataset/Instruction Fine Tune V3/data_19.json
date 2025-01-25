@@ -1,0 +1,2232 @@
+[
+    {
+        "instruction": "Nepali ma greeting lekha.",
+        "input": "",
+        "output": "Namaste, tapailai kasto cha?"
+    },
+    {
+        "instruction": "Weather barema sodha.",
+        "input": "",
+        "output": "Aaja ko mausam kasto cha?"
+    },
+    {
+        "instruction": "Restaurant ma order garne tarika lekha.",
+        "input": "",
+        "output": "Kripaya malai euta chicken curry ra bhat dinus."
+    },
+    {
+        "instruction": "Time sodha.",
+        "input": "",
+        "output": "Kati bajyo?"
+    },
+    {
+        "instruction": "Math ko problem solve gara.",
+        "input": "2 + 2",
+        "output": "2 + 2 equals 4."
+    },
+    {
+        "instruction": "Nepali ma introduction lekha.",
+        "input": "",
+        "output": "Mero naam John ho. Ma Kathmandu bata ho."
+    },
+    {
+        "instruction": "Directions diyera help gara.",
+        "input": "Ma Thamel bata Basantapur jana chahanchu.",
+        "output": "Thamel bata Basantapur jana, pahila Durbar Marg tira hidnus. Tyaha pugesi, Basantapur ko lagi right turn linu parcha."
+    },
+    {
+        "instruction": "Nepali ma joke suna.",
+        "input": "",
+        "output": "Euta manche le afno ghar ma bulb badalna khojda, bulb nai bata tirseko thiyo!"
+    },
+    {
+        "instruction": "Nepali ma recipe lekha.",
+        "input": "Chicken curry",
+        "output": "Chicken curry banuna, pahila chicken lai dhune ani masala (garam masala, haldi, mirch) sanga mix garne. Tespachi oil ma pyaz, lasun ra adhera fry garne. Chicken ra masala mix garera pakaaune. Pugyo!"
+    },
+    {
+        "instruction": "Nepali ma poem lekha.",
+        "input": "",
+        "output": "Himal ko mathi ujyalo cha, Nepal ko dharti ma ramailo cha. Hamro desh ko yo shaan, sabai ko man ma bascha samman."
+    },
+    {
+        "instruction": "Nepali ma advice diyera help gara.",
+        "input": "Ma exam ma ramro garna sakdina.",
+        "output": "Exam ma ramro garna, regular study garnu parcha. Time management ra practice le dherai help garcha. Confidence rakhnus, tapai saknuhuncha!"
+    },
+    {
+        "instruction": "Nepali ma story suna.",
+        "input": "",
+        "output": "Euta sano keti thi, usko naam Sita thiyo. Usle afno ghar bata dherai dur euta jungle ma euta magic fountain khojyo. Tyaha pugda, usle afno iccha puryauna payo!"
+    },
+    {
+        "instruction": "Nepali ma song lyrics lekha.",
+        "input": "",
+        "output": "Resham firiri, resham firiri, udna jaula, udna jaula. Himal ko kocha ma, udna jaula."
+    },
+    {
+        "instruction": "Nepali ma riddle solve gara.",
+        "input": "Ma bina khole nai khulchu, ke ho ma?",
+        "output": "Ma bina khole nai khulchu, ma euta phool ho."
+    },
+    {
+        "instruction": "Nepali ma travel guide lekha.",
+        "input": "Pokhara jana ko lagi tips.",
+        "output": "Pokhara jana ko lagi, pahila bus ticket book garnus. Fewa Tal tira basne hotel book garnus. Mahendra Cave, Davis Falls, ra Sarangkot herna na birsinus."
+    },
+    {
+        "instruction": "Nepali ma email lekha.",
+        "input": "Subject: Meeting Request",
+        "output": "Subject: Meeting Request\n\nNamaste Sir/Madam,\n\nMa tapailai meeting ko lagi request garna chahanchu. Kripaya malai suitable time batauna saknu huncha?\n\nDhanyabad,\nJohn"
+    },
+    {
+        "instruction": "Nepali ma shopping list banau.",
+        "input": "",
+        "output": "1. Chamal\n2. Daal\n3. Tel\n4. Sabji\n5. Chicken\n6. Dudh\n7. Achar"
+    },
+    {
+        "instruction": "Nepali ma doctor ko appointment ko lagi phone call gara.",
+        "input": "",
+        "output": "Namaste, ma Dr. Sharma sanga appointment lina chahanchu. Kripaya malai available time batauna saknu huncha?"
+    },
+    {
+        "instruction": "Nepali ma hotel booking ko lagi inquiry gara.",
+        "input": "Hotel: Everest Hotel, Date: 2023-12-25",
+        "output": "Namaste, ma Everest Hotel ma December 25, 2023 ko lagi room available cha ki nai herna chahanchu. Kripaya malai information dinus."
+    },
+    {
+        "instruction": "Nepali ma weather forecast batau.",
+        "input": "Kathmandu",
+        "output": "Kathmandu ko aaja ko mausam thikai cha. Dinbhari surya nikalne chance cha ra temperature 20°C dekhi 25°C samma huncha."
+    },
+    {
+        "instruction": "Nepali ma joke suna.",
+        "input": "",
+        "output": "Euta manche le afno sathi lai sodhyo, 'Timro mobile ma kati GB cha?' Sathi le jawaab diyo, 'GB ta chaina, tara FB cha!'"
+    },
+    {
+        "instruction": "Nepali ma riddle solve gara.",
+        "input": "Ma bina agadi badhe nai agadi badhchu, ke ho ma?",
+        "output": "Ma bina agadi badhe nai agadi badhchu, ma euta gadi ho."
+    },
+    {
+        "instruction": "Nepali ma travel plan banau.",
+        "input": "Destination: Chitwan, Duration: 3 days",
+        "output": "Chitwan ko 3 din ko travel plan:\nDay 1: Elephant Safari, Tharu Cultural Program\nDay 2: Jungle Walk, Canoe Ride\nDay 3: Bird Watching, Return to Kathmandu"
+    },
+    {
+        "instruction": "Nepali ma poem lekha.",
+        "input": "Topic: Himal",
+        "output": "Himal ko mathi ujyalo cha,\nNepal ko dharti ma ramailo cha.\nHamro desh ko yo shaan,\nSabai ko man ma bascha samman."
+    },
+    {
+        "instruction": "Nepali ma recipe lekha.",
+        "input": "Mo:Mo",
+        "output": "Mo:Mo banuna, pahila pitho ra masala mix garne. Filling ko lagi keema masala taiyar garne. Pitho lai round shape ma leu ra filling rakhera bandhnus. Steam ma 15 minutes pakaaune. Chutney sanga serve garnus."
+    },
+    {
+        "instruction": "Nepali ma advice diyera help gara.",
+        "input": "Ma naya job ma adjust garna sakdina.",
+        "output": "Naya job ma adjust garna, patience ra positive attitude rakhnu parcha. Afno colleagues sanga ramro sanga communicate garnus ra afno skills improve gardai janu. Time sanga sabai ramro huncha."
+    },
+    {
+        "instruction": "Nepali ma story suna.",
+        "input": "Topic: Euta sano kukur ko katha",
+        "output": "Euta sano kukur ko katha:\nEuta sano kukur thiyo, usko naam Tommy thiyo. Tommy le afno malik ko lagi dherai mehenat garthyo. Ek din Tommy le afno malik lai danger bata bachaayo. Malik le Tommy lai dherai maya garthyo."
+    },
+    {
+        "instruction": "Nepali ma song lyrics lekha.",
+        "input": "Topic: Desh ko maya",
+        "output": "Yo mero Nepal ho,\nYo mero desh ho.\nHimal ko mathi ujyalo,\nHamro desh ko shaan ho."
+    },
+    {
+        "instruction": "Nepali ma directions diyera help gara.",
+        "input": "Ma Ratnapark bata New Road jana chahanchu.",
+        "output": "Ratnapark bata New Road jana, pahila east tira hidnus. Tyo bato ma 5 minutes hidda New Road pugnu huncha."
+    },
+    {
+        "instruction": "Nepali ma math problem solve gara.",
+        "input": "5 * 5 + 10",
+        "output": "5 * 5 + 10 equals 35."
+    },
+    {
+        "instruction": "Nepali ma motivational quote lekha.",
+        "input": "",
+        "output": "Jindagi ma kehi pani asambhav chaina, yadi tapai le afno sapana ko lagi mehenat garnuhuncha."
+    },
+    {
+        "instruction": "Nepali ma birthday wish lekha.",
+        "input": "Name: Sarah",
+        "output": "Dear Sarah,\nHappy Birthday! Tapaiko jindagi ma dherai khushi ra sukha hos. Umeed cha yo din tapaiko lagi dherai special hosh. Dhanyabad!"
+    },
+    {
+        "instruction": "Nepali ma festival ko barema lekha.",
+        "input": "Dashain",
+        "output": "Dashain Nepal ko sabai bhanda important festival ho. Yo festival ma hamro culture ra tradition lai celebrate garchau. Tika ra jamara linu, family sanga milera khana khane, ra dherai khushi manau."
+    },
+    {
+        "instruction": "Nepali ma health tip diyera help gara.",
+        "input": "",
+        "output": "Swasthya ko lagi regular exercise garnu ra balanced diet khanu nai important cha. Din ma kamti ma 8 glass pani piunus ra nid pura sato garnus."
+    },
+    {
+        "instruction": "Nepali ma movie recommendation diyera help gara.",
+        "input": "Genre: Comedy",
+        "output": "Comedy genre ma 'Chhakka Panja' hernus. Yo movie dherai funny cha ra family sanga herauna ramro cha."
+    },
+    {
+        "instruction": "Nepali ma CV banau.",
+        "input": "Name: Ram Sharma, Skills: Programming, Experience: 3 years",
+        "output": "Name: Ram Sharma\nSkills: Programming (Python, JavaScript), Web Development\nExperience: 3 years as a Software Engineer at Tech Solutions Nepal\nEducation: Bachelor's in Computer Science, Tribhuvan University"
+    },
+    {
+        "instruction": "Nepali ma interview question practice gara.",
+        "input": "Question: Afno weakness barema bhanus.",
+        "output": "Mero weakness ho ki ma perfectionist hu. Ma kahi kahi kam lai dherai nai perfect banauna khojchu, jasma time lagcha. Tara ma yo weakness lai improve garna khojdai chu."
+    },
+    {
+        "instruction": "Nepali ma blog post lekha.",
+        "input": "Topic: Digital Nepal",
+        "output": "Digital Nepal ko vision le Nepal lai technology ra innovation ko maadhyam banauna khojeko cha. Yo le hamro education, health, ra governance lai dherai improve garna sakcha. Hamile sabai le yo vision lai support garnu parcha."
+    },
+    {
+        "instruction": "Nepali ma debate topic diyera help gara.",
+        "input": "Topic: Online education vs Traditional education",
+        "output": "Online education le flexibility ra accessibility provide garcha, tara traditional education le practical knowledge ra social interaction dincha. Debate ko lagi yo topic ramro ho."
+    },
+    {
+        "instruction": "Nepali ma motivational story lekha.",
+        "input": "",
+        "output": "Euta sano keti thiyo, usko naam Sita thiyo. Usle afno ghar bata dherai dur euta jungle ma euta magic fountain khojyo. Tyaha pugda, usle afno iccha puryauna payo! Yo story le sikhaucha ki mehenat ra determination le sabai sambhav cha."
+    },
+    {
+        "instruction": "Nepali ma riddle banau.",
+        "input": "",
+        "output": "Ma bina khole nai khulchu, ke ho ma? Jawab: Phool."
+    },
+    {
+        "instruction": "Nepali ma quiz question banau.",
+        "input": "Topic: General Knowledge",
+        "output": "Nepal ko capital city k ho? Jawab: Kathmandu."
+    },
+    {
+        "instruction": "Nepali ma travel vlog script lekha.",
+        "input": "Destination: Pokhara",
+        "output": "Namaste, ma aaja Pokhara pugeko chu. Yo thau dherai ramro cha. Fewa Tal, Davis Falls, ra Sarangkot herna na birsinus. Pokhara ko beauty le malai dherai impress garyo."
+    },
+    {
+        "instruction": "Nepali ma business idea diyera help gara.",
+        "input": "",
+        "output": "Euta online grocery store kholna sakincha. Yo business le customers lai ghar ma basirakhera saman deliver garcha. Yo idea modern lifestyle ko lagi perfect ho."
+    },
+    {
+        "instruction": "Nepali ma poem lekha.",
+        "input": "Topic: Monsoon",
+        "output": "Barsha aayo, dharti hariyali bhayo,\nGham ko kirana le chamkina thalyo.\nPani ko thopka le mann lai chuyo,\nBarsha ko mausam le dherai maya diyo."
+    },
+    {
+        "instruction": "Nepali ma social media post lekha.",
+        "input": "Topic: Fitness",
+        "output": "Healthy body, healthy mind! Aaja bata regular exercise ra balanced diet ko importance barema sochnus. Swasthya nai dhan ho!"
+    },
+    {
+        "instruction": "Nepali ma letter lekha.",
+        "input": "Recipient: Friend, Topic: Invitation to a party",
+        "output": "Dear Sita,\nMa tapaikai lai mero birthday party ma invite garna chahanchu. Party November 15 ma mero ghar ma huncha. Kripaya aunu hola!\nDhanyabad,\nRam"
+    },
+    {
+        "instruction": "Nepali ma proverbs batau.",
+        "input": "",
+        "output": "Hune bhanda na hune ramro, hune bhaye ta kasto ramro."
+    },
+    {
+        "instruction": "Nepali ma dialogue lekha.",
+        "input": "Characters: Ram and Sita, Topic: Planning a trip",
+        "output": "Ram: Sita, hamile chitwan jane plan banau na.\nSita: Ramro idea ho! Chitwan ma jungle safari ra canoe ride garna sakincha.\nRam: Tei ta, hamile weekend ma jada huncha.\nSita: Thik cha, ma hotel book gardai chu."
+    },
+    {
+        "instruction": "Nepali ma news headline lekha.",
+        "input": "Topic: Earthquake in Nepal",
+        "output": "Nepal ma 6.5 magnitude ko earthquake, dherai ghar dharaharu damage."
+    },
+    {
+        "instruction": "Nepali ma advertisement lekha.",
+        "input": "Product: Organic Tea",
+        "output": "Organic Tea ko swad ra swasthya ko perfect combination! Aaja nai hamro organic tea try garnus ra afno din lai fresh banau."
+    },
+    {
+        "instruction": "Nepali ma fitness plan banau.",
+        "input": "",
+        "output": "Fitness plan:\n1. Din ma 30 minutes jogging\n2. 15 minutes stretching\n3. Balanced diet ma fruits, vegetables, ra protein include garnus\n4. Din ma 8 glass pani piunus"
+    },
+    {
+        "instruction": "Nepali ma riddle solve gara.",
+        "input": "Ma bina agadi badhe nai agadi badhchu, ke ho ma?",
+        "output": "Ma bina agadi badhe nai agadi badhchu, ma euta gadi ho."
+    },
+    {
+        "instruction": "Nepali ma song lyrics lekha.",
+        "input": "Topic: Friendship",
+        "output": "Sathi ho timi, sathi ho ham,\nEk arka ko lagi, dherai sam.\nJindagi ko safar ma, timi sanga chu ma,\nSathi ko maya le, dherai ramro cha."
+    },
+    {
+        "instruction": "Nepali ma joke suna.",
+        "input": "",
+        "output": "Euta manche le afno sathi lai sodhyo, 'Timro mobile ma kati GB cha?' Sathi le jawaab diyo, 'GB ta chaina, tara FB cha!'"
+    },
+    {
+        "instruction": "Nepali ma technical manual lekha.",
+        "input": "Topic: How to use a smartphone",
+        "output": "Smartphone use garna, pahila power button thichnu parcha. Screen unlock garna password ra fingerprint use garna sakincha. Apps haru lai home screen bata access garna sakincha. Settings ma jaera WiFi, Bluetooth, ra brightness adjust garna sakincha."
+    },
+    {
+        "instruction": "Nepali ma cultural festival ko barema lekha.",
+        "input": "Festival: Tihar",
+        "output": "Tihar Nepal ko important festival ho. Yo festival ma hamile kukur, gai, ra Laxmi puja garau. Diyo balera ghar lai ujyalo banau. Yo festival le hamro culture ra tradition lai celebrate garcha."
+    },
+    {
+        "instruction": "Nepali ma historical event ko barema lekha.",
+        "input": "Event: Unification of Nepal",
+        "output": "Nepal ko unification King Prithvi Narayan Shah le gareka thie. Usle 18th century ma Nepal ko sano sano rajya haru lai ekatrit gare. Yo unification le Nepal lai euta strong nation banayo."
+    },
+    {
+        "instruction": "Nepali ma science experiment ko steps lekha.",
+        "input": "Experiment: Volcano eruption",
+        "output": "Volcano eruption experiment garna, pahila baking soda ra vinegar chahincha. Euta bottle ma baking soda halnu parcha. Tespachi vinegar bottle ma halda, volcano jasto eruption huncha."
+    },
+    {
+        "instruction": "Nepali ma motivational speech lekha.",
+        "input": "Topic: Never give up",
+        "output": "Jindagi ma kehi pani garo huda pani, hami le haar mannu hunna. Mehenat ra determination le sabai sambhav cha. Afno sapana ko lagi lade, ra kabhi pani harna nadinu."
+    },
+    {
+        "instruction": "Nepali ma book review lekha.",
+        "input": "Book: Palpasa Café",
+        "output": "Palpasa Café ekta Nepali novel ho, jasma Nepal ko civil war ko barema lekheko cha. Yo book le hamro samaj ra politics ko barema dherai kura sikhaucha. Yo book padhera malai dherai inspire bhayo."
+    },
+    {
+        "instruction": "Nepali ma travel itinerary banau.",
+        "input": "Destination: Lumbini, Duration: 2 days",
+        "output": "Lumbini ko 2 din ko itinerary:\nDay 1: Maya Devi Temple, Ashoka Pillar, Peace Stupa\nDay 2: Monastic Zone, Lumbini Museum, Return to Kathmandu"
+    },
+    {
+        "instruction": "Nepali ma product description lekha.",
+        "input": "Product: Handmade Nepali Dhaka Topi",
+        "output": "Yo handmade Nepali Dhaka Topi hamro traditional design ma banako ho. Yo topi comfortable ra durable cha. Yo topi le hamro culture ra tradition lai represent garcha."
+    },
+    {
+        "instruction": "Nepali ma event invitation lekha.",
+        "input": "Event: Wedding, Date: 2023-12-15",
+        "output": "Namaste,\nMa tapailai mero wedding ma invite garna chahanchu. Wedding December 15, 2023 ma huncha. Kripaya aunu hola!\nDhanyabad,\nRam ra Sita"
+    },
+    {
+        "instruction": "Nepali ma health tips diyera help gara.",
+        "input": "Topic: Winter health tips",
+        "output": "Winter ma swasthya ko lagi dherai kura dhyan dinu parcha. Garmi kapada lagaunu, balanced diet khanu, ra regular exercise garnu. Din ma kamti ma 8 glass pani piunus."
+    },
+    {
+        "instruction": "Nepali ma riddle banau.",
+        "input": "",
+        "output": "Ma bina khole nai khulchu, ke ho ma? Jawab: Phool."
+    },
+    {
+        "instruction": "Nepali ma quiz question banau.",
+        "input": "Topic: Geography",
+        "output": "Nepal ko sabai bhanda agadi ko mountain k ho? Jawab: Mount Everest."
+    },
+    {
+        "instruction": "Nepali ma dialogue lekha.",
+        "input": "Characters: Teacher and Student, Topic: Homework",
+        "output": "Teacher: Ram, timile homework sakayo?\nRam: Maile homework sakaye, tara kehi question haru garo lagyo.\nTeacher: Kun question haru garo lagyo? Ma timilai help garchu."
+    },
+    {
+        "instruction": "Nepali ma motivational quote lekha.",
+        "input": "",
+        "output": "Jindagi ma kehi pani asambhav chaina, yadi tapai le afno sapana ko lagi mehenat garnuhuncha."
+    },
+    {
+        "instruction": "Nepali ma story lekha.",
+        "input": "Topic: Euta sano kukur ko katha",
+        "output": "Euta sano kukur thiyo, usko naam Tommy thiyo. Tommy le afno malik ko lagi dherai mehenat garthyo. Ek din Tommy le afno malik lai danger bata bachaayo. Malik le Tommy lai dherai maya garthyo."
+    },
+    {
+        "instruction": "Nepali ma song lyrics lekha.",
+        "input": "Topic: Love",
+        "output": "Timro maya le malai pagal banayo,\nTimro aankha le malai nasha diyo.\nYo jindagi ma timi sanga bitauna chahanchu,\nTimro maya le malai dherai khusi diyo."
+    },
+    {
+        "instruction": "Nepali ma joke suna.",
+        "input": "",
+        "output": "Euta manche le afno sathi lai sodhyo, 'Timro mobile ma kati GB cha?' Sathi le jawaab diyo, 'GB ta chaina, tara FB cha!'"
+    },
+    {
+        "instruction": "Nepali ma debate topic diyera help gara.",
+        "input": "Topic: Online education vs Traditional education",
+        "output": "Online education le flexibility ra accessibility provide garcha, tara traditional education le practical knowledge ra social interaction dincha. Debate ko lagi yo topic ramro ho."
+    },
+    {
+        "instruction": "Nepali ma business proposal lekha.",
+        "input": "Business: Organic Farming",
+        "output": "Organic farming le healthy ra chemical-free food provide garcha. Yo business le environment lai pani protect garcha. Yo business idea sustainable ra profitable cha."
+    },
+    {
+        "instruction": "Nepali ma poem lekha.",
+        "input": "Topic: Nature",
+        "output": "Hariyo ban, ujyalo pahad,\nNepal ko dharti ma ramailo cha.\nPani ko dhara, hawa ko jhara,\nYo nature le malai dherai maya diyo."
+    },
+    {
+        "instruction": "Nepali ma technical manual lekha.",
+        "input": "Topic: How to use a smartphone",
+        "output": "Smartphone use garna, pahila power button thichnu parcha. Screen unlock garna password ra fingerprint use garna sakincha. Apps haru lai home screen bata access garna sakincha. Settings ma jaera WiFi, Bluetooth, ra brightness adjust garna sakincha."
+    },
+    {
+        "instruction": "Nepali ma cultural festival ko barema lekha.",
+        "input": "Festival: Tihar",
+        "output": "Tihar Nepal ko important festival ho. Yo festival ma hamile kukur, gai, ra Laxmi puja garau. Diyo balera ghar lai ujyalo banau. Yo festival le hamro culture ra tradition lai celebrate garcha."
+    },
+    {
+        "instruction": "Nepali ma historical event ko barema lekha.",
+        "input": "Event: Unification of Nepal",
+        "output": "Nepal ko unification King Prithvi Narayan Shah le gareka thie. Usle 18th century ma Nepal ko sano sano rajya haru lai ekatrit gare. Yo unification le Nepal lai euta strong nation banayo."
+    },
+    {
+        "instruction": "Nepali ma science experiment ko steps lekha.",
+        "input": "Experiment: Volcano eruption",
+        "output": "Volcano eruption experiment garna, pahila baking soda ra vinegar chahincha. Euta bottle ma baking soda halnu parcha. Tespachi vinegar bottle ma halda, volcano jasto eruption huncha."
+    },
+    {
+        "instruction": "Nepali ma motivational speech lekha.",
+        "input": "Topic: Never give up",
+        "output": "Jindagi ma kehi pani garo huda pani, hami le haar mannu hunna. Mehenat ra determination le sabai sambhav cha. Afno sapana ko lagi lade, ra kabhi pani harna nadinu."
+    },
+    {
+        "instruction": "Nepali ma book review lekha.",
+        "input": "Book: Palpasa Café",
+        "output": "Palpasa Café ekta Nepali novel ho, jasma Nepal ko civil war ko barema lekheko cha. Yo book le hamro samaj ra politics ko barema dherai kura sikhaucha. Yo book padhera malai dherai inspire bhayo."
+    },
+    {
+        "instruction": "Nepali ma travel itinerary banau.",
+        "input": "Destination: Lumbini, Duration: 2 days",
+        "output": "Lumbini ko 2 din ko itinerary:\nDay 1: Maya Devi Temple, Ashoka Pillar, Peace Stupa\nDay 2: Monastic Zone, Lumbini Museum, Return to Kathmandu"
+    },
+    {
+        "instruction": "Nepali ma product description lekha.",
+        "input": "Product: Handmade Nepali Dhaka Topi",
+        "output": "Yo handmade Nepali Dhaka Topi hamro traditional design ma banako ho. Yo topi comfortable ra durable cha. Yo topi le hamro culture ra tradition lai represent garcha."
+    },
+    {
+        "instruction": "Nepali ma event invitation lekha.",
+        "input": "Event: Wedding, Date: 2023-12-15",
+        "output": "Namaste,\nMa tapailai mero wedding ma invite garna chahanchu. Wedding December 15, 2023 ma huncha. Kripaya aunu hola!\nDhanyabad,\nRam ra Sita"
+    },
+    {
+        "instruction": "Nepali ma health tips diyera help gara.",
+        "input": "Topic: Winter health tips",
+        "output": "Winter ma swasthya ko lagi dherai kura dhyan dinu parcha. Garmi kapada lagaunu, balanced diet khanu, ra regular exercise garnu. Din ma kamti ma 8 glass pani piunus."
+    },
+    {
+        "instruction": "Nepali ma riddle banau.",
+        "input": "",
+        "output": "Ma bina khole nai khulchu, ke ho ma? Jawab: Phool."
+    },
+    {
+        "instruction": "Nepali ma quiz question banau.",
+        "input": "Topic: Geography",
+        "output": "Nepal ko sabai bhanda agadi ko mountain k ho? Jawab: Mount Everest."
+    },
+    {
+        "instruction": "Nepali ma dialogue lekha.",
+        "input": "Characters: Teacher and Student, Topic: Homework",
+        "output": "Teacher: Ram, timile homework sakayo?\nRam: Maile homework sakaye, tara kehi question haru garo lagyo.\nTeacher: Kun question haru garo lagyo? Ma timilai help garchu."
+    },
+    {
+        "instruction": "Nepali ma motivational quote lekha.",
+        "input": "",
+        "output": "Jindagi ma kehi pani asambhav chaina, yadi tapai le afno sapana ko lagi mehenat garnuhuncha."
+    },
+    {
+        "instruction": "Nepali ma story lekha.",
+        "input": "Topic: Euta sano kukur ko katha",
+        "output": "Euta sano kukur thiyo, usko naam Tommy thiyo. Tommy le afno malik ko lagi dherai mehenat garthyo. Ek din Tommy le afno malik lai danger bata bachaayo. Malik le Tommy lai dherai maya garthyo."
+    },
+    {
+        "instruction": "Nepali ma song lyrics lekha.",
+        "input": "Topic: Love",
+        "output": "Timro maya le malai pagal banayo,\nTimro aankha le malai nasha diyo.\nYo jindagi ma timi sanga bitauna chahanchu,\nTimro maya le malai dherai khusi diyo."
+    },
+    {
+        "instruction": "Nepali ma joke suna.",
+        "input": "",
+        "output": "Euta manche le afno sathi lai sodhyo, 'Timro mobile ma kati GB cha?' Sathi le jawaab diyo, 'GB ta chaina, tara FB cha!'"
+    },
+    {
+        "instruction": "Nepali ma debate topic diyera help gara.",
+        "input": "Topic: Online education vs Traditional education",
+        "output": "Online education le flexibility ra accessibility provide garcha, tara traditional education le practical knowledge ra social interaction dincha. Debate ko lagi yo topic ramro ho."
+    },
+    {
+        "instruction": "Nepali ma business proposal lekha.",
+        "input": "Business: Organic Farming",
+        "output": "Organic farming le healthy ra chemical-free food provide garcha. Yo business le environment lai pani protect garcha. Yo business idea sustainable ra profitable cha."
+    },
+    {
+        "instruction": "Nepali ma poem lekha.",
+        "input": "Topic: Nature",
+        "output": "Hariyo ban, ujyalo pahad,\nNepal ko dharti ma ramailo cha.\nPani ko dhara, hawa ko jhara,\nYo nature le malai dherai maya diyo."
+    },
+    {
+        "instruction": "Nepali ma technical manual lekha.",
+        "input": "Topic: How to use a smartphone",
+        "output": "Smartphone use garna, pahila power button thichnu parcha. Screen unlock garna password ra fingerprint use garna sakincha. Apps haru lai home screen bata access garna sakincha. Settings ma jaera WiFi, Bluetooth, ra brightness adjust garna sakincha."
+    },
+    {
+        "instruction": "Nepali ma cultural festival ko barema lekha.",
+        "input": "Festival: Tihar",
+        "output": "Tihar Nepal ko important festival ho. Yo festival ma hamile kukur, gai, ra Laxmi puja garau. Diyo balera ghar lai ujyalo banau. Yo festival le hamro culture ra tradition lai celebrate garcha."
+    },
+    {
+        "instruction": "Nepali ma historical event ko barema lekha.",
+        "input": "Event: Unification of Nepal",
+        "output": "Nepal ko unification King Prithvi Narayan Shah le gareka thie. Usle 18th century ma Nepal ko sano sano rajya haru lai ekatrit gare. Yo unification le Nepal lai euta strong nation banayo."
+    },
+    {
+        "instruction": "Nepali ma science experiment ko steps lekha.",
+        "input": "Experiment: Volcano eruption",
+        "output": "Volcano eruption experiment garna, pahila baking soda ra vinegar chahincha. Euta bottle ma baking soda halnu parcha. Tespachi vinegar bottle ma halda, volcano jasto eruption huncha."
+    },
+    {
+        "instruction": "Nepali ma motivational speech lekha.",
+        "input": "Topic: Never give up",
+        "output": "Jindagi ma kehi pani garo huda pani, hami le haar mannu hunna. Mehenat ra determination le sabai sambhav cha. Afno sapana ko lagi lade, ra kabhi pani harna nadinu."
+    },
+    {
+        "instruction": "Nepali ma book review lekha.",
+        "input": "Book: Palpasa Café",
+        "output": "Palpasa Café ekta Nepali novel ho, jasma Nepal ko civil war ko barema lekheko cha. Yo book le hamro samaj ra politics ko barema dherai kura sikhaucha. Yo book padhera malai dherai inspire bhayo."
+    },
+    {
+        "instruction": "Nepali ma travel itinerary banau.",
+        "input": "Destination: Lumbini, Duration: 2 days",
+        "output": "Lumbini ko 2 din ko itinerary:\nDay 1: Maya Devi Temple, Ashoka Pillar, Peace Stupa\nDay 2: Monastic Zone, Lumbini Museum, Return to Kathmandu"
+    },
+    {
+        "instruction": "Nepali ma product description lekha.",
+        "input": "Product: Handmade Nepali Dhaka Topi",
+        "output": "Yo handmade Nepali Dhaka Topi hamro traditional design ma banako ho. Yo topi comfortable ra durable cha. Yo topi le hamro culture ra tradition lai represent garcha."
+    },
+    {
+        "instruction": "Nepali ma event invitation lekha.",
+        "input": "Event: Wedding, Date: 2023-12-15",
+        "output": "Namaste,\nMa tapailai mero wedding ma invite garna chahanchu. Wedding December 15, 2023 ma huncha. Kripaya aunu hola!\nDhanyabad,\nRam ra Sita"
+    },
+    {
+        "instruction": "Nepali ma health tips diyera help gara.",
+        "input": "Topic: Winter health tips",
+        "output": "Winter ma swasthya ko lagi dherai kura dhyan dinu parcha. Garmi kapada lagaunu, balanced diet khanu, ra regular exercise garnu. Din ma kamti ma 8 glass pani piunus."
+    },
+    {
+        "instruction": "Nepali ma riddle banau.",
+        "input": "",
+        "output": "Ma bina khole nai khulchu, ke ho ma? Jawab: Phool."
+    },
+    {
+        "instruction": "Nepali ma quiz question banau.",
+        "input": "Topic: Geography",
+        "output": "Nepal ko sabai bhanda agadi ko mountain k ho? Jawab: Mount Everest."
+    },
+    {
+        "instruction": "Nepali ma dialogue lekha.",
+        "input": "Characters: Teacher and Student, Topic: Homework",
+        "output": "Teacher: Ram, timile homework sakayo?\nRam: Maile homework sakaye, tara kehi question haru garo lagyo.\nTeacher: Kun question haru garo lagyo? Ma timilai help garchu."
+    },
+    {
+        "instruction": "Nepali ma motivational quote lekha.",
+        "input": "",
+        "output": "Jindagi ma kehi pani asambhav chaina, yadi tapai le afno sapana ko lagi mehenat garnuhuncha."
+    },
+    {
+        "instruction": "Nepali ma story lekha.",
+        "input": "Topic: Euta sano kukur ko katha",
+        "output": "Euta sano kukur thiyo, usko naam Tommy thiyo. Tommy le afno malik ko lagi dherai mehenat garthyo. Ek din Tommy le afno malik lai danger bata bachaayo. Malik le Tommy lai dherai maya garthyo."
+    },
+    {
+        "instruction": "Nepali ma song lyrics lekha.",
+        "input": "Topic: Love",
+        "output": "Timro maya le malai pagal banayo,\nTimro aankha le malai nasha diyo.\nYo jindagi ma timi sanga bitauna chahanchu,\nTimro maya le malai dherai khusi diyo."
+    },
+    {
+        "instruction": "Nepali ma joke suna.",
+        "input": "",
+        "output": "Euta manche le afno sathi lai sodhyo, 'Timro mobile ma kati GB cha?' Sathi le jawaab diyo, 'GB ta chaina, tara FB cha!'"
+    },
+    {
+        "instruction": "Nepali ma debate topic diyera help gara.",
+        "input": "Topic: Online education vs Traditional education",
+        "output": "Online education le flexibility ra accessibility provide garcha, tara traditional education le practical knowledge ra social interaction dincha. Debate ko lagi yo topic ramro ho."
+    },
+    {
+        "instruction": "Nepali ma business proposal lekha.",
+        "input": "Business: Organic Farming",
+        "output": "Organic farming le healthy ra chemical-free food provide garcha. Yo business le environment lai pani protect garcha. Yo business idea sustainable ra profitable cha."
+    },
+    {
+        "instruction": "Nepali ma poem lekha.",
+        "input": "Topic: Nature",
+        "output": "Hariyo ban, ujyalo pahad,\nNepal ko dharti ma ramailo cha.\nPani ko dhara, hawa ko jhara,\nYo nature le malai dherai maya diyo."
+    },
+    {
+        "instruction": "Nepali ma euta short horror story lekha.",
+        "input": "",
+        "output": "Euta sunsaan gaauma euta purano ghar thiyo. Ek raat euta yuvak tyaha basna pugyo. Ratima usle aawaj sunyo, 'Aaija, aaija.' Usko pasal ma euta photo thiyo, jasma euta keti ko photo thiyo. Photo ma keti ko aankha le uslai heriraheko thiyo. Usko sapana ma keti aayera bolyo, 'Ma timro sanga basna aayeko thiye.' Bhane pachhi usko aankha khulyo, ra usle photo ma keti ko aankha bandha dekhyo."
+    },
+    {
+        "instruction": "Nepali ma euta coding problem solve gara.",
+        "input": "Problem: Sum of two numbers in Python.",
+        "output": "Python ma dui number ko sum nikalna:\n\nnum1 = 5\nnum2 = 10\nsum = num1 + num2\nprint('Sum is:', sum)"
+    },
+    {
+        "instruction": "Nepali ma euta romantic dialogue lekha.",
+        "input": "Characters: Ram and Sita",
+        "output": "Ram: Sita, timi mero jindagi ko sabai bhanda important hau.\nSita: Ram, timi pani mero jindagi ko sabai bhanda important hau.\nRam: Timi bina mero jindagi adhuro cha.\nSita: Ma timro sanga hamesha rahane chu."
+    },
+    {
+        "instruction": "Nepali ma euta motivational letter lekha.",
+        "input": "Purpose: Scholarship application",
+        "output": "Namaste,\nMa tapailai mero scholarship application ko lagi motivation letter lekheko chu. Ma euta garib pariwar bata ho, tara ma padhna ra afno sapana puryauna chahanchu. Yo scholarship le malai mero goal achieve garna madat garne cha. Ma dherai mehenat garne chu ra afno desh ko lagi contribution garna chahanchu.\nDhanyabad,\nRam"
+    },
+    {
+        "instruction": "Nepali ma euta startup idea describe gara.",
+        "input": "",
+        "output": "Euta online platform banau, jasma local farmers le afno products directly customers lai bechna sakun. Yo platform le farmers lai fair price dincha ra customers lai fresh products provide garcha. Yo idea sustainable ra profitable cha."
+    },
+    {
+        "instruction": "Nepali ma euta travel vlog script lekha.",
+        "input": "Destination: Mustang",
+        "output": "Namaste, ma aaja Mustang pugeko chu. Yo thau dherai ramro cha. Yaha ko landscape, culture, ra history le malai dherai impress garyo. Mustang ko Upper Mustang ra Lo Manthang herna na birsinus. Yo thau ko beauty le malai dherai inspire garyo."
+    },
+    {
+        "instruction": "Nepali ma euta social media campaign idea diyera help gara.",
+        "input": "Topic: Environmental awareness",
+        "output": "Euta social media campaign banau, jasma hamile 'Plastic Free Nepal' ko message dincha. Yo campaign ma hamile plastic ko negative effects barema jankari dincha ra alternative solutions suggest garcha. Hashtag use garnus: #PlasticFreeNepal."
+    },
+    {
+        "instruction": "Nepali ma euta legal notice lekha.",
+        "input": "Issue: Unpaid rent",
+        "output": "Namaste,\nMa tapailai yo legal notice pathaeko chu, karan tapailai mero ghar ko rent 3 months dekhi unpaid cha. Kripaya 7 days bhitra rent tirnuhos, natra legal action linu parne huncha.\nDhanyabad,\nRam"
+    },
+    {
+        "instruction": "Nepali ma euta fitness challenge describe gara.",
+        "input": "",
+        "output": "Euta 30-day fitness challenge banau, jasma participants le din ma 30 minutes exercise garnu parcha. Challenge ma running, yoga, ra strength training include garna sakincha. Yo challenge le healthy lifestyle promote garcha."
+    },
+    {
+        "instruction": "Nepali ma euta podcast script lekha.",
+        "input": "Topic: Mental health",
+        "output": "Namaste, yo podcast ma hamile mental health ko barema kura garchau. Mental health ko importance, symptoms, ra treatment options barema jankari dincha. Hamile sabai le mental health lai priority dinu parcha."
+    },
+    {
+        "instruction": "Nepali ma euta cooking competition ko rules lekha.",
+        "input": "",
+        "output": "Cooking competition ko rules:\n1. Participants le 1 hour ma dish taiyar garnu parcha.\n2. Dish ma local ingredients use garnu parcha.\n3. Judges le taste, presentation, ra creativity ko adhar ma scoring garne.\n4. Winner lai prize dincha."
+    },
+    {
+        "instruction": "Nepali ma euta children's story lekha.",
+        "input": "Topic: Euta sano bagh ko katha",
+        "output": "Euta sano bagh thiyo, usko naam Sheru thiyo. Sheru le jungle ma dherai sathi banayo. Ek din usle euta bhoot dekhyo, tara pachhi malum bhayo ki tyo bhoot euta joke matra thiyo. Sheru ra usko sathi haru le dherai hasnu bhayo."
+    },
+    {
+        "instruction": "Nepali ma euta business email lekha.",
+        "input": "Purpose: Partnership proposal",
+        "output": "Namaste,\nMa tapailai partnership proposal ko lagi email lekheko chu. Hamro company le innovative products provide garcha, ra hami tapailai sanga kaam garna chahanchu. Kripaya hamlai reply dinuhos.\nDhanyabad,\nRam"
+    },
+    {
+        "instruction": "Nepali ma euta riddle banau.",
+        "input": "",
+        "output": "Ma bina khole nai khulchu, ke ho ma? Jawab: Phool."
+    },
+    {
+        "instruction": "Nepali ma euta quiz question banau.",
+        "input": "Topic: Science",
+        "output": "Pani ko chemical formula k ho? Jawab: H2O."
+    },
+    {
+        "instruction": "Nepali ma euta dialogue lekha.",
+        "input": "Characters: Doctor and Patient",
+        "output": "Doctor: Tapailai kasto lagirako cha?\nPatient: Malai dherai tauko dukheko cha ra joro pani lagyo.\nDoctor: Tapailai medicine dinchu, ra aaram garnu huncha."
+    },
+    {
+        "instruction": "Nepali ma euta motivational quote lekha.",
+        "input": "",
+        "output": "Jindagi ma kehi pani asambhav chaina, yadi tapai le afno sapana ko lagi mehenat garnuhuncha."
+    },
+    {
+        "instruction": "Nepali ma euta song lyrics lekha.",
+        "input": "Topic: Friendship",
+        "output": "Sathi ho timi, sathi ho ham,\nEk arka ko lagi, dherai sam.\nJindagi ko safar ma, timi sanga chu ma,\nSathi ko maya le, dherai ramro cha."
+    },
+    {
+        "instruction": "Nepali ma euta joke suna.",
+        "input": "",
+        "output": "Euta manche le afno sathi lai sodhyo, 'Timro mobile ma kati GB cha?' Sathi le jawaab diyo, 'GB ta chaina, tara FB cha!'"
+    },
+    {
+        "instruction": "Nepali ma euta debate topic diyera help gara.",
+        "input": "Topic: Online education vs Traditional education",
+        "output": "Online education le flexibility ra accessibility provide garcha, tara traditional education le practical knowledge ra social interaction dincha. Debate ko lagi yo topic ramro ho."
+    },
+    {
+        "instruction": "Nepali ma euta personal diary entry lekha.",
+        "input": "Topic: Aaj ko din",
+        "output": "Aaj mero din dherai ramro bityo. Bihana ma jogging gare, tespachi office gaye. Office ma naya project suru gare, ra malai dherai khusi lagyo. Beluka ma sathi haru sanga cafe ma bhet bhaeko thiyo. Aaj ko din ma dherai kura sikhe."
+    },
+    {
+        "instruction": "Nepali ma euta chatbot conversation simulate gara.",
+        "input": "User: Mero bank balance kati cha?",
+        "output": "Chatbot: Namaste! Tapailai mero madat chahine cha? Tapailai afno bank balance herna, kripaya afno bank app ma login garnus ya bank ko customer care ma sampar garnus."
+    },
+    {
+        "instruction": "Nepali ma euta recipe video ko script lekha.",
+        "input": "Dish: Chicken Chowmein",
+        "output": "Namaste, aaja hamile Chicken Chowmein banau! Pahila, noodles lai boiled garnus. Tespachi, chicken lai fry garnus. Fry garda pyaz, lasun, ra sabji haru add garnus. Tespachi, noodles ra sauce mix garnus. Serve garnus ra enjoy garnus!"
+    },
+    {
+        "instruction": "Nepali ma euta job resignation letter lekha.",
+        "input": "Reason: Career change",
+        "output": "Namaste,\nMa tapailai mero resignation letter lekheko chu. Malai afno career ma naya opportunities khojna chahanchu, ra ma 1 month pachhi company chodne chu. Ma company ko sanga kaam garna pauda dherai khusi lagyo.\nDhanyabad,\nRam"
+    },
+    {
+        "instruction": "Nepali ma euta fantasy story lekha.",
+        "input": "Topic: Euta magical kingdom",
+        "output": "Euta magical kingdom thiyo, jasma sabai manche haru le magic use garna sakthyo. Euta sano keti thiyo, usko naam Maya thiyo. Usle euta powerful magic stone khojyo, ra tyo stone le uslai euta hero banayo. Usle afno kingdom lai danger bata bachaayo."
+    },
+    {
+        "instruction": "Nepali ma euta debate script lekha.",
+        "input": "Topic: Technology le manche haru lai lazy banayo ki banayena?",
+        "output": "Technology le manche haru lai lazy banayo bhanne kura ma ma sahamat chu. Technology le sabai kam easy banaidiyo, ra manche haru le physical effort garna chodhe. Tara arko paksh ma, technology le productivity ra efficiency badhayeko cha."
+    },
+    {
+        "instruction": "Nepali ma euta travel safety tips lekha.",
+        "input": "",
+        "output": "Travel garda safety ko lagi:\n1. Afno belongings lai safe rakhnus.\n2. Local emergency numbers raafnu.\n3. Afno travel insurance check garnus.\n4. Local culture ra rules respect garnus."
+    },
+    {
+        "instruction": "Nepali ma euta product launch announcement lekha.",
+        "input": "Product: Smartwatch",
+        "output": "Namaste! Hamile naya Smartwatch launch gareka chau. Yo smartwatch le health monitoring, notifications, ra GPS tracking provide garcha. Yo product aaja bata available cha. Kripaya hamro website ma visit garnus!"
+    },
+    {
+        "instruction": "Nepali ma euta motivational video script lekha.",
+        "input": "Topic: Overcoming failure",
+        "output": "Namaste, yo video ma hamile failure lai kasari overcome garna sakincha bhanne kura garchau. Failure bhanya temporary ho, ra yo le hami lai strong banau cha. Afno mistakes bata sikhnus, ra feri try garnus. Success afno lagi niskincha!"
+    },
+    {
+        "instruction": "Nepali ma euta event planning checklist banau.",
+        "input": "Event: Wedding",
+        "output": "Wedding planning checklist:\n1. Venue book garnus.\n2. Catering arrange garnus.\n3. Guest list banau.\n4. Decoration plan garnus.\n5. Photographer ra DJ book garnus."
+    },
+    {
+        "instruction": "Nepali ma euta science fiction story lekha.",
+        "input": "Topic: Time travel",
+        "output": "Euta scientist le time machine banayo. Usle future ma gaye, ra future ko world dekhe. Future ma technology dherai advanced thiyo, tara manche haru ek arka sanga connected thiye. Usle future ko knowledge liyera present ma aayo, ra duniya lai badalna khojyo."
+    },
+    {
+        "instruction": "Nepali ma euta customer service dialogue lekha.",
+        "input": "Issue: Product return",
+        "output": "Customer: Malai mero product return garnu cha.\nCustomer Service: Kripaya product ko problem barema bataunu hola.\nCustomer: Product defective cha.\nCustomer Service: Hamile tapailai return process ko lagi guide garchau. Kripaya afno order number dinus."
+    },
+    {
+        "instruction": "Nepali ma euta meditation guide lekha.",
+        "input": "",
+        "output": "Meditation garna, pahila comfortable position ma basnus. Aankha band garnus, ra afno saas ma focus garnus. Saas slowly linu ra chhadnu. Afno mind lai calm garnus, ra dherai khusi feel garnus."
+    },
+    {
+        "instruction": "Nepali ma euta startup pitch lekha.",
+        "input": "Idea: Online tutoring platform",
+        "output": "Namaste, ma euta online tutoring platform ko barema bhanchu. Yo platform le students lai affordable ra flexible learning options provide garcha. Hamile experienced tutors sanga connect garau, ra students lai quality education dincha."
+    },
+    {
+        "instruction": "Nepali ma euta social media post lekha.",
+        "input": "Topic: Mental health awareness",
+        "output": "Mental health bhanya important cha. Hamile sabai le afno mental health lai priority dinu parcha. Kripaya afno emotions barema kura garnus, ra professional help linu hola. #MentalHealthAwareness"
+    },
+    {
+        "instruction": "Nepali ma euta riddle banau.",
+        "input": "",
+        "output": "Ma bina khole nai khulchu, ke ho ma? Jawab: Phool."
+    },
+    {
+        "instruction": "Nepali ma euta quiz question banau.",
+        "input": "Topic: History",
+        "output": "Nepal ko unifier ko naam k ho? Jawab: Prithvi Narayan Shah."
+    },
+    {
+        "instruction": "Nepali ma euta dialogue lekha.",
+        "input": "Characters: Parent and Child",
+        "output": "Parent: Timile homework sakayo?\nChild: Maile homework sakaye, tara kehi question haru garo lagyo.\nParent: Kun question haru garo lagyo? Ma timilai help garchu."
+    },
+    {
+        "instruction": "Nepali ma euta motivational quote lekha.",
+        "input": "",
+        "output": "Jindagi ma kehi pani asambhav chaina, yadi tapai le afno sapana ko lagi mehenat garnuhuncha."
+    },
+    {
+        "instruction": "Nepali ma euta song lyrics lekha.",
+        "input": "Topic: Nature",
+        "output": "Hariyo ban, ujyalo pahad,\nNepal ko dharti ma ramailo cha.\nPani ko dhara, hawa ko jhara,\nYo nature le malai dherai maya diyo."
+    },
+    {
+        "instruction": "Explain the process of photosynthesis in Roman Nepali.",
+        "input": "",
+        "output": "Photosynthesis bhaneko green plants le sunlight ko energy use garera carbon dioxide ra water bata glucose produce garne process ho. Yo process ma chlorophyll pigment le important role khelcha. Sunlight ko energy capture garera, carbon dioxide ra water lai glucose ma convert garincha, ani oxygen byproduct ko rup ma release huncha."
+    },
+    {
+        "instruction": "Define gravity in Roman Nepali and explain its importance.",
+        "input": "",
+        "output": "Gravity bhaneko ek natural force ho junsle duita objects lai afno taraf attract garcha. Yo force le Earth lai sun sita ra moon lai Earth sita bindhayeko cha. Gravity ko importance Earth ma atmosphere lai rakhnu, objects lai ground ma rakhnu, ra solar system lai stable rakhnu ma huncha."
+    },
+    {
+        "instruction": "Describe the water cycle in Roman Nepali.",
+        "input": "",
+        "output": "Water cycle bhaneko continuous process ho jasma water evaporation, condensation, precipitation, ra collection through rivers, lakes, ra oceans ma huncha. Sun le water lai heat dincha, jasma water vapor ma convert huncha. Pachi yo vapor cold huda clouds banaucha ra precipitation ko rup ma water feri Earth ma return huncha."
+    },
+    {
+        "instruction": "What is the structure of an atom? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Atom ko structure ma three main parts huncha: proton, neutron, ra electron. Proton ra neutron atom ko nucleus ma huncha, jasma proton positive charge huncha ra neutron neutral huncha. Electron nucleus ko bahira orbit garcha ra negative charge huncha. Atom ko size ra properties yo particles ko number ra arrangement ma depend garcha."
+    },
+    {
+        "instruction": "Explain the difference between renewable and non-renewable energy sources in Roman Nepali.",
+        "input": "",
+        "output": "Renewable energy sources bhaneko tyo energy sources ho jasma energy feri feri use garna sakincha, jasto ki solar energy, wind energy, ra hydropower. Non-renewable energy sources bhaneko tyo sources ho jasma energy use garesi feri pauna mildaina, jasto ki coal, petroleum, ra natural gas. Renewable sources sustainable huncha bhane non-renewable sources limited ra environment lai harmful huncha."
+    },
+    {
+        "instruction": "What is the role of DNA in living organisms? Explain in Roman Nepali.",
+        "input": "",
+        "output": "DNA bhaneko genetic material ho jasma living organisms ko traits ra functions ko information store huncha. DNA le genes ko rup ma instructions dincha, jasma proteins produce huncha. Proteins le body ko structure, function, ra regulation ma important role khelcha. DNA le parent bata offspring ma traits transfer garcha, jasma heredity maintain huncha."
+    },
+    {
+        "instruction": "Explain the concept of force and motion in Roman Nepali.",
+        "input": "",
+        "output": "Force bhaneko push or pull ho junsle object ko motion ma change lyauna sakcha. Motion bhaneko object ko position change hune process ho. Newton's laws of motion anusar, force le object lai accelerate garcha, object ko motion lai oppose garcha, ra every action ko equal ra opposite reaction huncha. Force ra motion ko concept physics ko fundamental part ho."
+    },
+    {
+        "instruction": "Describe the layers of the Earth in Roman Nepali.",
+        "input": "",
+        "output": "Earth ko mainly three layers huncha: crust, mantle, ra core. Crust bhaneko Earth ko outermost layer ho jasma hamro continents ra oceans huncha. Mantle crust ko tala ko layer ho jasma semi-solid rocks huncha. Core bhaneko Earth ko center ma hune layer ho jasma iron ra nickel huncha. Core lai feri outer core ra inner core ma divide garna sakincha."
+    },
+    {
+        "instruction": "What is the importance of the ozone layer? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Ozone layer bhaneko Earth ko atmosphere ko ek part ho jasma ozone gas ko concentration dherai huncha. Yo layer le harmful ultraviolet (UV) rays lai block garcha, jasma Earth ma living organisms lai UV rays ko harmful effects bata bachaucha. Ozone layer damage bhayo bhane skin cancer, eye problems, ra ecosystem ma imbalance huna sakcha."
+    },
+    {
+        "instruction": "Explain the concept of energy conservation in Roman Nepali.",
+        "input": "",
+        "output": "Energy conservation bhaneko energy ko wise use garne ra waste huna bata bachaune process ho. Yo sustainable development ko lagi important cha. Energy conservation garna energy-efficient appliances use garne, renewable energy sources prioritize garne, ra daily life ma energy ko consumption minimize garne tarika haru include huncha. Energy conserve garesi environment lai protect garna ra natural resources lai preserve garna sajilo huncha."
+    },
+    {
+        "instruction": "Explain the Pythagorean theorem in Roman Nepali.",
+        "input": "",
+        "output": "Pythagorean theorem bhaneko right-angled triangle ko lagi ek mathematical rule ho. Yo theorem anusar, right-angled triangle ma hypotenuse ko square (the side opposite the right angle) le aru duita sides (base ra perpendicular) ko squares ko sum equal huncha. Formula ho: hypotenuse² = base² + perpendicular²."
+    },
+    {
+        "instruction": "What is the concept of probability? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Probability bhaneko kasaiko chance ko measurement ho ki kunai event hune ki nahune. Yo 0 dekhi 1 ko range ma huncha, jasma 0 bhaneko event hune chance nai nahune ra 1 bhaneko event pakkai hune ho. Example ko lagi, coin toss ma head aune probability 0.5 huncha kina bhane duita possible outcomes (head ra tail) madhye euta matra ho."
+    },
+    {
+        "instruction": "Describe the concept of fractions in Roman Nepali.",
+        "input": "",
+        "output": "Fraction bhaneko ek whole number ko part ho. Yo numerator (top number) ra denominator (bottom number) le represent huncha. Numerator le part lai represent garcha ra denominator le whole number ko total parts lai represent garcha. Example ko lagi, 3/4 bhaneko 4 parts madhye 3 parts ho."
+    },
+    {
+        "instruction": "What is the difference between hardware and software? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Hardware bhaneko computer ko physical parts ho, jasto ki monitor, keyboard, mouse, ra CPU. Software bhaneko computer ko programs ra applications ho, jasma instructions huncha ki computer le kasari kaam garnu parne. Hardware lai touch garna sakincha bhane software lai touch garna mildaina, tara software le hardware lai control garcha."
+    },
+    {
+        "instruction": "Explain the concept of binary numbers in Roman Nepali.",
+        "input": "",
+        "output": "Binary numbers bhaneko number system ho jasma matra duita digits use huncha: 0 ra 1. Yo computer ko language ho kina bhane computer le matra binary system ma kaam garcha. Binary system ma, each digit lai bit bhanincha. Example ko lagi, binary number 101 bhaneko decimal system ma 5 ho."
+    },
+    {
+        "instruction": "What is the importance of algorithms in computer science? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Algorithm bhaneko step-by-step procedure ho jasma kunai problem solve garna ko lagi instructions huncha. Computer science ma algorithm ko importance dherai cha kina bhane yo le computer lai kasari problem solve garne bhanera guide garcha. Algorithm efficient bhayo bhane program fast ra accurate huncha."
+    },
+    {
+        "instruction": "Describe the concept of artificial intelligence (AI) in Roman Nepali.",
+        "input": "",
+        "output": "Artificial intelligence (AI) bhaneko technology ho jasma machines lai human jastai thinking ra decision-making garna sikaucha. AI le data analyze garera patterns identify garcha ra afai learn garna sakcha. Example ko lagi, AI ko use voice assistants (jasto ki Siri ra Alexa), self-driving cars, ra recommendation systems (jasto ki Netflix ra YouTube) ma huncha."
+    },
+    {
+        "instruction": "Explain the concept of data encryption in Roman Nepali.",
+        "input": "",
+        "output": "Data encryption bhaneko process ho jasma information lai secure code ma convert garincha, jasma authorized users matra yo information lai access garna sakcha. Encryption le data lai hackers bata protect garcha. Example ko lagi, kunai website ma login garda password encrypt huncha ra secure huncha."
+    },
+    {
+        "instruction": "What is the concept of a blockchain? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Blockchain bhaneko decentralized digital ledger ho jasma transactions lai record garincha. Yo technology secure ra transparent huncha kina bhane each block ma data store huncha ra pahila ko block sita link huncha. Blockchain ko use cryptocurrencies (jasto ki Bitcoin) ma huncha, tara yo aru fields ma pani use huna sakcha."
+    },
+    {
+        "instruction": "Explain the concept of machine learning in Roman Nepali.",
+        "input": "",
+        "output": "Machine learning bhaneko AI ko ek part ho jasma machines lai data bata afai learn garna sikaucha. Yo process ma, machine le data analyze garera patterns identify garcha ra predictions garna sakcha. Example ko lagi, machine learning ko use spam email filter garne, image recognize garne, ra customer behavior predict garne ma huncha."
+    },
+    {
+        "instruction": "What is quantum computing? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Quantum computing bhaneko computing ko new technology ho jasma quantum mechanics ko principles use garincha. Classical computers le bits (0 ra 1) ma kaam garcha bhane quantum computers le qubits use garcha, jasma 0 ra 1 ko superposition ma huna sakcha. Yo le dherai complex problems lai solve garna classical computers bhanda dherai fast huncha."
+    },
+    {
+        "instruction": "Explain the concept of CRISPR gene editing in Roman Nepali.",
+        "input": "",
+        "output": "CRISPR gene editing bhaneko biotechnology ko ek tool ho jasma DNA ko specific parts lai modify garna sakincha. Yo technology le scientists lai genes lai add, remove, or edit garna sajilo banaucha. CRISPR ko use diseases ko treatment, agriculture ma better crops produce garne, ra genetic disorders lai cure garne ma huncha."
+    },
+    {
+        "instruction": "What is the Internet of Things (IoT)? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Internet of Things (IoT) bhaneko ek network ho jasma everyday objects (jasto ki smart devices, vehicles, ra appliances) internet sita connect huncha ra data exchange garcha. Example ko lagi, smart home system ma lights, thermostat, ra security cameras internet sita connect huncha ra afai control huna sakcha."
+    },
+    {
+        "instruction": "Describe the concept of 5G technology in Roman Nepali.",
+        "input": "",
+        "output": "5G bhaneko fifth-generation mobile network ho jasma internet speed dherai fast huncha ra latency (delay) kam huncha. Yo technology le high-speed data transfer, better connectivity, ra new applications (jasto ki autonomous vehicles ra smart cities) ko lagi foundation provide garcha. 5G le communication ra technology ma revolution lyaucha."
+    },
+    {
+        "instruction": "What is virtual reality (VR)? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Virtual reality (VR) bhaneko technology ho jasma users lai computer-generated environment ma immerse garincha. VR headsets use garera, users le virtual world lai experience garna sakcha ra interact garna sakcha. Yo technology ko use gaming, education, training, ra entertainment ma huncha."
+    },
+    {
+        "instruction": "Explain the concept of renewable energy storage in Roman Nepali.",
+        "input": "",
+        "output": "Renewable energy storage bhaneko process ho jasma solar, wind, ra hydropower jasto renewable energy sources bata produce bhayeko energy lai store garincha. Yo energy lai batteries, pumped hydro storage, or other technologies use garera store garna sakincha. Storage le energy supply lai stable ra reliable banacha."
+    },
+    {
+        "instruction": "What is nanotechnology? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Nanotechnology bhaneko science ra technology ko field ho jasma materials lai nanoscale (1-100 nanometers) ma manipulate garincha. Yo technology le medicine, electronics, ra materials science ma new possibilities kholcha. Example ko lagi, nanotechnology ko use cancer treatment, water purification, ra stronger materials banune ma huncha."
+    },
+    {
+        "instruction": "Describe the concept of autonomous vehicles in Roman Nepali.",
+        "input": "",
+        "output": "Autonomous vehicles bhaneko self-driving cars ho jasma human intervention bina afai drive garna sakcha. Yo vehicles le sensors, cameras, ra AI use garera road ko conditions analyze garcha ra decisions lina sakcha. Autonomous vehicles le transportation lai safer, efficient, ra accessible banacha."
+    },
+    {
+        "instruction": "What is the concept of smart cities? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart cities bhaneko urban areas ho jasma technology ra data use garera city ko services lai efficient ra sustainable banaincha. Smart cities ma IoT devices, sensors, ra AI use garera traffic manage garne, energy conserve garne, ra public services improve garne ma focus huncha. Yo le citizens ko quality of life improve garcha."
+    },
+    {
+        "instruction": "Explain the concept of space tourism in Roman Nepali.",
+        "input": "",
+        "output": "Space tourism bhaneko concept ho jasma private individuals lai space ma travel garna opportunity provide garincha. Companies like SpaceX ra Blue Origin le space tourism ko lagi rockets develop gareka chan. Space tourism le space exploration lai accessible banacha ra tourism industry ma new dimension add garcha."
+    },
+    {
+        "instruction": "What is carbon capture and storage (CCS)? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Carbon capture and storage (CCS) bhaneko technology ho jasma carbon dioxide (CO2) lai industries ra power plants bata capture garincha ra underground storage ma secure tarika le rakhiyo. Yo process le greenhouse gas emissions lai reduce garera climate change ko effects lai kam garna madat garcha."
+    },
+    {
+        "instruction": "Explain the concept of vertical farming in Roman Nepali.",
+        "input": "",
+        "output": "Vertical farming bhaneko agriculture ko ek new method ho jasma crops lai vertically stacked layers ma grow garincha. Yo method le less space use garera dherai crops produce garna sajilo banaucha. Vertical farming ma artificial lighting, hydroponics, ra controlled environment use garincha, jasma water ra energy ko efficient use huncha."
+    },
+    {
+        "instruction": "What is synthetic biology? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Synthetic biology bhaneko science ko field ho jasma biological components lai design ra construct garincha. Yo technology le scientists lai new biological systems banayera diseases ko treatment, biofuels produce garne, ra sustainable materials banayera environment lai protect garna madat garcha."
+    },
+    {
+        "instruction": "Describe the concept of asteroid mining in Roman Nepali.",
+        "input": "",
+        "output": "Asteroid mining bhaneko process ho jasma asteroids bata valuable minerals ra metals extract garincha. Yo concept le Earth ko natural resources ko pressure lai kam garna madat garcha ra space exploration ko lagi new opportunities kholcha. Asteroids ma platinum, gold, ra water jasto resources huna sakcha."
+    },
+    {
+        "instruction": "What is the concept of biohacking? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Biohacking bhaneko practice ho jasma individuals le afno body lai improve garne ko lagi science ra technology use garcha. Yo ma diet, exercise, supplements, ra even implants ko use garera physical ra mental performance lai enhance garna sakcha. Biohacking ko goal health ra productivity lai optimize garne ho."
+    },
+    {
+        "instruction": "Explain the concept of lab-grown meat in Roman Nepali.",
+        "input": "",
+        "output": "Lab-grown meat bhaneko real meat ho jasma animal cells lai laboratory ma grow garincha. Yo process le traditional livestock farming bhanda less environmental impact huncha ra animal cruelty lai kam garcha. Lab-grown meat le future ma sustainable food source provide garna sakcha."
+    },
+    {
+        "instruction": "What is the concept of ocean cleanup? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Ocean cleanup bhaneko initiative ho jasma plastic ra other pollutants lai ocean bata remove garincha. Yo le marine life lai protect garcha ra ocean ko health lai improve garcha. Technologies like floating barriers ra autonomous drones le ocean cleanup ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of brain-computer interfaces (BCIs) in Roman Nepali.",
+        "input": "",
+        "output": "Brain-computer interfaces (BCIs) bhaneko technology ho jasma brain lai directly computer sita connect garincha. Yo le individuals lai afno thoughts use garera devices control garna sajilo banaucha. BCIs ko use medical treatments, communication, ra even gaming ma huna sakcha."
+    },
+    {
+        "instruction": "What is the concept of 3D-printed organs? Explain in Roman Nepali.",
+        "input": "",
+        "output": "3D-printed organs bhaneko technology ho jasma 3D printing use garera human organs lai create garincha. Yo process ma bio-inks (biological materials) use garincha ra layer-by-layer organs banincha. 3D-printed organs le organ transplant ko waiting list lai solve garna madat garcha."
+    },
+    {
+        "instruction": "Explain the concept of smart fabrics in Roman Nepali.",
+        "input": "",
+        "output": "Smart fabrics bhaneko textiles ho jasma technology integrate gareko huncha. Yo fabrics le sensors, LEDs, or even heating elements lai include garna sakcha. Smart fabrics ko use fitness tracking, medical monitoring, ra even fashion ma huncha. Yo le clothing lai functional ra interactive banacha."
+    },
+    {
+        "instruction": "What is geothermal energy? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Geothermal energy bhaneko Earth ko internal heat bata produce bhayeko energy ho. Yo energy le underground hot water ra steam lai use garera electricity generate garcha. Geothermal energy sustainable ra renewable energy source ho."
+    },
+    {
+        "instruction": "Explain the concept of biodegradable plastics in Roman Nepali.",
+        "input": "",
+        "output": "Biodegradable plastics bhaneko tyo plastics ho jasma natural processes (jasto ki bacteria ra fungi) le decompose huna sakcha. Yo le traditional plastics bhanda less environmental impact huncha ra pollution lai kam garcha."
+    },
+    {
+        "instruction": "What is the concept of telemedicine? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Telemedicine bhaneko technology use garera patients lai doctor sita consult garne process ho. Yo le video calls, phone calls, ra online platforms use garcha. Telemedicine le healthcare access lai easy ra affordable banacha."
+    },
+    {
+        "instruction": "Describe the concept of smart grids in Roman Nepali.",
+        "input": "",
+        "output": "Smart grids bhaneko electricity distribution ko modern system ho jasma digital technology use garincha. Yo le energy ko demand ra supply lai efficiently manage garcha ra renewable energy sources lai integrate garna madat garcha."
+    },
+    {
+        "instruction": "What is the concept of gene therapy? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Gene therapy bhaneko medical treatment ho jasma genes lai modify garera diseases lai treat garincha. Yo le defective genes lai replace or repair garera genetic disorders lai cure garna sakcha."
+    },
+    {
+        "instruction": "Explain the concept of augmented reality (AR) in Roman Nepali.",
+        "input": "",
+        "output": "Augmented reality (AR) bhaneko technology ho jasma real-world environment ma digital elements (jasto ki images, sounds, or videos) lai overlay garincha. AR ko use gaming, education, ra marketing ma huncha."
+    },
+    {
+        "instruction": "What is the concept of precision agriculture? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Precision agriculture bhaneko farming ko method ho jasma technology use garera crops lai monitor ra manage garincha. Yo le GPS, sensors, ra drones use garera resources lai efficiently use garcha."
+    },
+    {
+        "instruction": "Describe the concept of hydrogen fuel cells in Roman Nepali.",
+        "input": "",
+        "output": "Hydrogen fuel cells bhaneko devices ho jasma hydrogen ra oxygen lai combine garera electricity produce garincha. Yo process ma water matra byproduct huncha, jasma pollution kam huncha."
+    },
+    {
+        "instruction": "What is the concept of regenerative medicine? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Regenerative medicine bhaneko medical field ho jasma damaged tissues ra organs lai repair or replace garincha. Stem cells ra tissue engineering ko use garera yo treatment garcha."
+    },
+    {
+        "instruction": "Explain the concept of exoskeletons in Roman Nepali.",
+        "input": "",
+        "output": "Exoskeletons bhaneko wearable devices ho jasma human body lai support ra strength provide garcha. Yo le physically disabled individuals lai walk garna madat garcha ra industries ma heavy lifting garna sajilo banaucha."
+    },
+    {
+        "instruction": "What is the concept of dark matter? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Dark matter bhaneko universe ko ek mysterious substance ho jasma light emit or reflect gardaina. Scientists le yo exist huncha bhanera believe garcha kina bhane yo le gravity ko through visible matter lai affect garcha."
+    },
+    {
+        "instruction": "Describe the concept of fusion energy in Roman Nepali.",
+        "input": "",
+        "output": "Fusion energy bhaneko process ho jasma hydrogen atoms lai combine garera helium banincha ra dherai energy release huncha. Yo process le Sun ra stars ma huncha. Fusion energy le clean ra unlimited energy provide garna sakcha."
+    },
+    {
+        "instruction": "What is the concept of smart dust? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart dust bhaneko tiny sensors ho jasma environment lai monitor garna sakcha. Yo sensors le temperature, light, ra vibrations jasto data collect garcha ra wireless technology use garera transmit garcha."
+    },
+    {
+        "instruction": "Explain the concept of digital twins in Roman Nepali.",
+        "input": "",
+        "output": "Digital twins bhaneko virtual models ho jasma real-world objects, systems, or processes lai represent garcha. Yo le data ra simulations use garera performance lai monitor ra optimize garcha."
+    },
+    {
+        "instruction": "What is the concept of neurotechnology? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Neurotechnology bhaneko technology ho jasma brain ko function lai study ra manipulate garcha. Yo le brain-computer interfaces, neural implants, ra cognitive enhancement ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of zero-waste living in Roman Nepali.",
+        "input": "",
+        "output": "Zero-waste living bhaneko lifestyle ho jasma waste lai minimize garincha. Yo le reuse, recycle, ra composting jasto practices use garera landfill ma janey waste lai kam garcha."
+    },
+    {
+        "instruction": "What is the concept of space elevators? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Space elevators bhaneko concept ho jasma Earth bata space ma materials lai transport garna cable ra elevator system use garincha. Yo le space exploration lai cheaper ra easier banacha."
+    },
+    {
+        "instruction": "Explain the concept of bioluminescence in Roman Nepali.",
+        "input": "",
+        "output": "Bioluminescence bhaneko process ho jasma living organisms le light produce garcha. Yo le chemical reactions ko through huncha. Examples ma fireflies ra deep-sea creatures huncha."
+    },
+    {
+        "instruction": "What is the concept of swarm robotics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Swarm robotics bhaneko field ho jasma dherai sano robots le group ma kaam garcha. Yo le natural swarms (jasto ki bees ra ants) ko behavior lai copy garcha ra complex tasks lai solve garcha."
+    },
+    {
+        "instruction": "Describe the concept of vertical forests in Roman Nepali.",
+        "input": "",
+        "output": "Vertical forests bhaneko buildings ho jasma trees ra plants lai vertically grow garincha. Yo le urban areas ma green spaces provide garcha ra pollution lai kam garcha."
+    },
+    {
+        "instruction": "What is the concept of quantum entanglement? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Quantum entanglement bhaneko phenomenon ho jasma duita particles lai link garincha, jasma euta particle ko state lai change garda arko particle ko state pani change huncha. Yo le quantum communication ra computing ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of carbon farming in Roman Nepali.",
+        "input": "",
+        "output": "Carbon farming bhaneko agricultural practices ho jasma soil ma carbon lai store garincha. Yo le climate change lai combat garna madat garcha ra soil ko health lai improve garcha."
+    },
+    {
+        "instruction": "What is the concept of holographic displays? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Holographic displays bhaneko technology ho jasma 3D images lai create garincha. Yo le light ko interference use garera virtual objects lai real jasto display garcha."
+    },
+    {
+        "instruction": "Describe the concept of lab-on-a-chip in Roman Nepali.",
+        "input": "",
+        "output": "Lab-on-a-chip bhaneko small device ho jasma laboratory ko functions lai perform garna sakcha. Yo le medical diagnostics, chemical analysis, ra environmental monitoring ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of synthetic meat? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Synthetic meat bhaneko lab ma grow bhayeko meat ho jasma animal cells lai use garincha. Yo le traditional meat production bhanda less environmental impact huncha."
+    },
+    {
+        "instruction": "Explain the concept of energy harvesting in Roman Nepali.",
+        "input": "",
+        "output": "Energy harvesting bhaneko process ho jasma small amounts of energy lai environment bata collect garincha. Examples ma solar energy, vibrations, ra heat ko use huncha."
+    },
+    {
+        "instruction": "What is the concept of mind uploading? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Mind uploading bhaneko concept ho jasma human brain ko data lai computer ma transfer garincha. Yo le consciousness lai digital form ma preserve garna sakcha."
+    },
+    {
+        "instruction": "Describe the concept of underwater cities in Roman Nepali.",
+        "input": "",
+        "output": "Underwater cities bhaneko concept ho jasma humans le ocean ko surface tala basna sakchan. Yo le futuristic living spaces provide garcha ra overpopulation ko problem lai solve garna madat garcha."
+    },
+    {
+        "instruction": "What is the concept of self-healing materials? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Self-healing materials bhaneko materials ho jasma damage bhako parts lai afai repair garna sakcha. Yo le cracks ra scratches lai fix garcha ra materials ko lifespan lai increase garcha."
+    },
+    {
+        "instruction": "Explain the concept of quantum dots in Roman Nepali.",
+        "input": "",
+        "output": "Quantum dots bhaneko tiny particles ho jasma unique optical ra electronic properties huncha. Yo le displays, solar cells, ra medical imaging ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of bioinformatics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Bioinformatics bhaneko field ho jasma biology ra computer science lai combine garincha. Yo le genetic data lai analyze garera diseases ko treatment ra research ma madat garcha."
+    },
+    {
+        "instruction": "Describe the concept of floating farms in Roman Nepali.",
+        "input": "",
+        "output": "Floating farms bhaneko agricultural systems ho jasma water ko surface ma crops ra animals lai grow garincha. Yo le land scarcity ko problem lai solve garcha."
+    },
+    {
+        "instruction": "What is the concept of time crystals? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Time crystals bhaneko new state of matter ho jasma atoms le repeating patterns ma time ko through move garcha. Yo le quantum physics ma new research opportunities kholcha."
+    },
+    {
+        "instruction": "Explain the concept of smart water management in Roman Nepali.",
+        "input": "",
+        "output": "Smart water management bhaneko system ho jasma technology use garera water ko use lai optimize garincha. Yo le sensors ra data analysis use garera water conservation garcha."
+    },
+    {
+        "instruction": "What is the concept of metamaterials? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Metamaterials bhaneko artificial materials ho jasma unique properties huncha. Yo le light, sound, ra heat lai manipulate garna sakcha ra invisibility cloaks jasto applications ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of robotic surgery in Roman Nepali.",
+        "input": "",
+        "output": "Robotic surgery bhaneko medical procedure ho jasma robots le surgeons lai assist garcha. Yo le precision ra accuracy improve garcha ra recovery time lai kam garcha."
+    },
+    {
+        "instruction": "What is the concept of artificial photosynthesis? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Artificial photosynthesis bhaneko process ho jasma plants jastai sunlight use garera fuels produce garincha. Yo le clean energy provide garna sakcha."
+    },
+    {
+        "instruction": "Explain the concept of 4D printing in Roman Nepali.",
+        "input": "",
+        "output": "4D printing bhaneko technology ho jasma 3D-printed objects lai time ko through change huna dincha. Yo le materials lai self-assemble or transform garna dincha."
+    },
+    {
+        "instruction": "What is the concept of digital immortality? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital immortality bhaneko concept ho jasma human consciousness lai digital form ma preserve garincha. Yo le individuals lai death pachi pani exist garna dincha."
+    },
+    {
+        "instruction": "Describe the concept of smart highways in Roman Nepali.",
+        "input": "",
+        "output": "Smart highways bhaneko roads ho jasma technology use garera traffic lai manage garincha. Yo le sensors, solar panels, ra electric vehicle charging stations include garcha."
+    },
+    {
+        "instruction": "What is the concept of biohybrid robots? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Biohybrid robots bhaneko robots ho jasma biological components (jasto ki living cells) lai integrate garincha. Yo le robots lai more flexible ra adaptable banacha."
+    },
+    {
+        "instruction": "Explain the concept of space-based solar power in Roman Nepali.",
+        "input": "",
+        "output": "Space-based solar power bhaneko concept ho jasma solar panels lai space ma install garincha ra energy lai Earth ma transmit garincha. Yo le unlimited clean energy provide garna sakcha."
+    },
+    {
+        "instruction": "What is the concept of programmable matter? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Programmable matter bhaneko materials ho jasma afno shape ra properties lai change garna sakcha. Yo le futuristic applications ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of living buildings in Roman Nepali.",
+        "input": "",
+        "output": "Living buildings bhaneko structures ho jasma biological materials (jasto ki algae ra fungi) lai integrate garincha. Yo le buildings lai self-sustaining banacha."
+    },
+    {
+        "instruction": "What is the concept of neuromorphic computing? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Neuromorphic computing bhaneko technology ho jasma computer hardware lai human brain ko structure ra function jasto banaiyo. Yo le artificial intelligence lai dherai efficient ra fast banacha."
+    },
+    {
+        "instruction": "Explain the concept of circular economy in Roman Nepali.",
+        "input": "",
+        "output": "Circular economy bhaneko system ho jasma resources lai reuse, recycle, ra regenerate garincha. Yo le waste lai minimize garera sustainable development lai promote garcha."
+    },
+    {
+        "instruction": "What is the concept of digital detox? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital detox bhaneko process ho jasma individuals le afno screen time lai reduce garera technology bata break lincha. Yo le mental health ra well-being lai improve garcha."
+    },
+    {
+        "instruction": "Describe the concept of smart mirrors in Roman Nepali.",
+        "input": "",
+        "output": "Smart mirrors bhaneko mirrors ho jasma technology integrate gareko huncha. Yo le weather updates, news, ra health metrics display garna sakcha."
+    },
+    {
+        "instruction": "What is the concept of bioelectricity? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Bioelectricity bhaneko electricity ho jasma living organisms bata produce huncha. Examples ma electric eels ra human nervous system ko electrical signals huncha."
+    },
+    {
+        "instruction": "Explain the concept of vertical axis wind turbines in Roman Nepali.",
+        "input": "",
+        "output": "Vertical axis wind turbines bhaneko wind energy ko devices ho jasma blades vertically rotate huncha. Yo le traditional horizontal turbines bhanda compact ra efficient huncha."
+    },
+    {
+        "instruction": "What is the concept of edible packaging? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Edible packaging bhaneko packaging materials ho jasma khana sakcha. Yo le plastic waste lai kam garera environment lai protect garcha."
+    },
+    {
+        "instruction": "Describe the concept of smart contact lenses in Roman Nepali.",
+        "input": "",
+        "output": "Smart contact lenses bhaneko lenses ho jasma technology integrate gareko huncha. Yo le health monitoring, augmented reality, ra vision correction ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of quantum internet? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Quantum internet bhaneko communication network ho jasma quantum mechanics ko principles use garincha. Yo le ultra-secure ra fast communication provide garcha."
+    },
+    {
+        "instruction": "Explain the concept of algae biofuel in Roman Nepali.",
+        "input": "",
+        "output": "Algae biofuel bhaneko fuel ho jasma algae bata produce garincha. Yo le sustainable ra renewable energy source provide garcha."
+    },
+    {
+        "instruction": "What is the concept of smart tattoos? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart tattoos bhaneko tattoos ho jasma technology integrate gareko huncha. Yo le health monitoring, data storage, ra communication ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of underwater drones in Roman Nepali.",
+        "input": "",
+        "output": "Underwater drones bhaneko devices ho jasma ocean ko exploration ra research ma use huncha. Yo le marine life, underwater structures, ra resources lai study garcha."
+    },
+    {
+        "instruction": "What is the concept of synthetic neurons? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Synthetic neurons bhaneko artificial neurons ho jasma human brain ko neurons jasto behave garcha. Yo le neurological disorders ko treatment ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of energy-positive buildings in Roman Nepali.",
+        "input": "",
+        "output": "Energy-positive buildings bhaneko structures ho jasma dherai energy produce garincha jasma consume bhanda. Yo le solar panels ra energy-efficient designs use garcha."
+    },
+    {
+        "instruction": "What is the concept of digital scent technology? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital scent technology bhaneko technology ho jasma digital devices le scents lai produce garna sakcha. Yo le virtual reality ra entertainment ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of robotic bees in Roman Nepali.",
+        "input": "",
+        "output": "Robotic bees bhaneko small robots ho jasma pollination garna sakcha. Yo le declining bee populations ko problem lai solve garna madat garcha."
+    },
+    {
+        "instruction": "What is the concept of smart bandages? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart bandages bhaneko bandages ho jasma sensors integrate gareko huncha. Yo le wounds lai monitor garera healing process lai improve garcha."
+    },
+    {
+        "instruction": "Explain the concept of artificial glaciers in Roman Nepali.",
+        "input": "",
+        "output": "Artificial glaciers bhaneko structures ho jasma winter ma ice lai store garincha ra summer ma water supply provide garcha. Yo le water scarcity ko problem lai solve garcha."
+    },
+    {
+        "instruction": "What is the concept of holographic communication? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Holographic communication bhaneko technology ho jasma 3D holograms use garera communication garcha. Yo le virtual meetings lai more interactive banacha."
+    },
+    {
+        "instruction": "Describe the concept of self-driving drones in Roman Nepali.",
+        "input": "",
+        "output": "Self-driving drones bhaneko drones ho jasma afai navigate garna sakcha. Yo le delivery, surveillance, ra mapping ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of bio-inspired robotics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Bio-inspired robotics bhaneko field ho jasma robots lai natural organisms (jasto ki animals ra insects) ko behavior jasto banaiyo. Yo le robots lai more efficient ra adaptable banacha."
+    },
+    {
+        "instruction": "Explain the concept of carbon-negative materials in Roman Nepali.",
+        "input": "",
+        "output": "Carbon-negative materials bhaneko materials ho jasma carbon dioxide lai absorb garincha. Yo le climate change lai combat garna madat garcha."
+    },
+    {
+        "instruction": "What is the concept of smart roads? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart roads bhaneko roads ho jasma technology integrate gareko huncha. Yo le traffic management, energy generation, ra vehicle charging ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of artificial coral reefs in Roman Nepali.",
+        "input": "",
+        "output": "Artificial coral reefs bhaneko structures ho jasma marine life lai support garcha. Yo le natural coral reefs ko damage lai compensate garcha."
+    },
+    {
+        "instruction": "What is the concept of quantum sensors? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Quantum sensors bhaneko devices ho jasma quantum mechanics ko principles use garera precise measurements garcha. Yo le medical imaging ra navigation ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of vertical hydroponics in Roman Nepali.",
+        "input": "",
+        "output": "Vertical hydroponics bhaneko farming method ho jasma water ma plants lai vertically grow garincha. Yo le space ra water ko efficient use garcha."
+    },
+    {
+        "instruction": "What is the concept of digital ethics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital ethics bhaneko field ho jasma technology ko use ra impact lai ethically evaluate garcha. Yo le privacy, security, ra fairness ko issues lai address garcha."
+    },
+    {
+        "instruction": "Describe the concept of self-healing concrete in Roman Nepali.",
+        "input": "",
+        "output": "Self-healing concrete bhaneko concrete ho jasma cracks lai afai repair garna sakcha. Yo le bacteria ra special materials use garera banaiyo."
+    },
+    {
+        "instruction": "What is the concept of brain mapping? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Brain mapping bhaneko process ho jasma brain ko structure ra function lai study garincha. Yo le neurological disorders ko treatment ma madat garcha."
+    },
+    {
+        "instruction": "Explain the concept of energy-storing bricks in Roman Nepali.",
+        "input": "",
+        "output": "Energy-storing bricks bhaneko bricks ho jasma electricity lai store garna sakcha. Yo le buildings lai energy-efficient banacha."
+    },
+    {
+        "instruction": "What is the concept of digital twins in healthcare? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital twins in healthcare bhaneko virtual models ho jasma patients ko health data lai represent garcha. Yo le personalized treatment plans provide garcha."
+    },
+    {
+        "instruction": "Describe the concept of artificial photosynthesis in Roman Nepali.",
+        "input": "",
+        "output": "Artificial photosynthesis bhaneko process ho jasma sunlight use garera fuels produce garincha. Yo le clean energy provide garna sakcha."
+    },
+    {
+        "instruction": "What is the concept of smart textiles? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart textiles bhaneko fabrics ho jasma technology integrate gareko huncha. Yo le health monitoring, temperature control, ra communication ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of carbon-neutral cities in Roman Nepali.",
+        "input": "",
+        "output": "Carbon-neutral cities bhaneko cities ho jasma carbon emissions lai zero banaiyo. Yo le renewable energy, green transportation, ra sustainable practices use garcha."
+    },
+    {
+        "instruction": "What is the concept of robotic prosthetics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Robotic prosthetics bhaneko artificial limbs ho jasma robotics technology use garincha. Yo le disabled individuals lai mobility provide garcha."
+    },
+    {
+        "instruction": "Describe the concept of floating solar farms in Roman Nepali.",
+        "input": "",
+        "output": "Floating solar farms bhaneko solar panels ho jasma water ko surface ma install garincha. Yo le land use lai optimize garera clean energy produce garcha."
+    },
+    {
+        "instruction": "What is the concept of quantum biology? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Quantum biology bhaneko field ho jasma quantum mechanics ko principles lai biological systems ma apply garincha. Yo le photosynthesis ra DNA repair jasto processes lai study garcha."
+    },
+    {
+        "instruction": "Explain the concept of biodegradable electronics in Roman Nepali.",
+        "input": "",
+        "output": "Biodegradable electronics bhaneko devices ho jasma natural processes le decompose huna sakcha. Yo le electronic waste lai kam garera environment lai protect garcha."
+    },
+    {
+        "instruction": "What is the concept of smart waste management? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart waste management bhaneko system ho jasma technology use garera waste lai efficiently manage garincha. Yo le sensors ra data analysis use garcha."
+    },
+    {
+        "instruction": "Describe the concept of artificial islands in Roman Nepali.",
+        "input": "",
+        "output": "Artificial islands bhaneko man-made islands ho jasma land reclamation ko through banaiyo. Yo le tourism, housing, ra infrastructure development ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of digital agriculture? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital agriculture bhaneko farming method ho jasma technology use garera crops lai monitor ra manage garincha. Yo le GPS, drones, ra sensors use garcha."
+    },
+    {
+        "instruction": "Explain the concept of energy-harvesting wearables in Roman Nepali.",
+        "input": "",
+        "output": "Energy-harvesting wearables bhaneko devices ho jasma body heat, movement, or light bata energy collect garincha. Yo le smartwatches ra fitness trackers ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of synthetic ecosystems? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Synthetic ecosystems bhaneko man-made ecosystems ho jasma biological components lai artificially create garincha. Yo le environmental research ra conservation ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of quantum supremacy? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Quantum supremacy bhaneko concept ho jasma quantum computers le classical computers bhanda dherai complex problems lai solve garna sakcha. Yo le quantum computing ko power lai prove garcha."
+    },
+    {
+        "instruction": "Explain the concept of biofabrication in Roman Nepali.",
+        "input": "",
+        "output": "Biofabrication bhaneko process ho jasma biological materials (jasto ki cells ra tissues) lai use garera products banaiyo. Yo le medical implants, artificial organs, ra sustainable materials banayera use huncha."
+    },
+    {
+        "instruction": "What is the concept of smart forests? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart forests bhaneko forests ho jasma sensors ra technology use garera trees lai monitor garincha. Yo le deforestation, wildfires, ra biodiversity loss lai prevent garna madat garcha."
+    },
+    {
+        "instruction": "Describe the concept of digital immortality in Roman Nepali.",
+        "input": "",
+        "output": "Digital immortality bhaneko concept ho jasma human consciousness lai digital form ma preserve garincha. Yo le individuals lai death pachi pani exist garna dincha."
+    },
+    {
+        "instruction": "What is the concept of lab-grown organs? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Lab-grown organs bhaneko organs ho jasma stem cells lai use garera laboratory ma grow garincha. Yo le organ transplant ko waiting list lai solve garna madat garcha."
+    },
+    {
+        "instruction": "Explain the concept of energy-harvesting roads in Roman Nepali.",
+        "input": "",
+        "output": "Energy-harvesting roads bhaneko roads ho jasma vehicles ko movement bata energy collect garincha. Yo le solar panels ra piezoelectric materials use garera electricity produce garcha."
+    },
+    {
+        "instruction": "What is the concept of synthetic ecosystems? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Synthetic ecosystems bhaneko man-made ecosystems ho jasma biological components lai artificially create garincha. Yo le environmental research ra conservation ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of brain-computer music interfaces in Roman Nepali.",
+        "input": "",
+        "output": "Brain-computer music interfaces bhaneko technology ho jasma brain signals lai use garera music create garincha. Yo le artists lai new creative tools provide garcha."
+    },
+    {
+        "instruction": "What is the concept of self-repairing cities? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Self-repairing cities bhaneko concept ho jasma cities ma infrastructure afai repair garna sakcha. Yo le sensors, robotics, ra AI use garera potholes, pipes, ra roads lai maintain garcha."
+    },
+    {
+        "instruction": "Explain the concept of biohybrid robots in Roman Nepali.",
+        "input": "",
+        "output": "Biohybrid robots bhaneko robots ho jasma biological components (jasto ki living cells) lai integrate garincha. Yo le robots lai more flexible ra adaptable banacha."
+    },
+    {
+        "instruction": "What is the concept of digital scent technology? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital scent technology bhaneko technology ho jasma digital devices le scents lai produce garna sakcha. Yo le virtual reality ra entertainment ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of underwater drones in Roman Nepali.",
+        "input": "",
+        "output": "Underwater drones bhaneko devices ho jasma ocean ko exploration ra research ma use huncha. Yo le marine life, underwater structures, ra resources lai study garcha."
+    },
+    {
+        "instruction": "What is the concept of synthetic neurons? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Synthetic neurons bhaneko artificial neurons ho jasma human brain ko neurons jasto behave garcha. Yo le neurological disorders ko treatment ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of energy-positive buildings in Roman Nepali.",
+        "input": "",
+        "output": "Energy-positive buildings bhaneko structures ho jasma dherai energy produce garincha jasma consume bhanda. Yo le solar panels ra energy-efficient designs use garcha."
+    },
+    {
+        "instruction": "What is the concept of digital scent technology? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital scent technology bhaneko technology ho jasma digital devices le scents lai produce garna sakcha. Yo le virtual reality ra entertainment ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of robotic bees in Roman Nepali.",
+        "input": "",
+        "output": "Robotic bees bhaneko small robots ho jasma pollination garna sakcha. Yo le declining bee populations ko problem lai solve garna madat garcha."
+    },
+    {
+        "instruction": "What is the concept of smart bandages? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart bandages bhaneko bandages ho jasma sensors integrate gareko huncha. Yo le wounds lai monitor garera healing process lai improve garcha."
+    },
+    {
+        "instruction": "Explain the concept of artificial glaciers in Roman Nepali.",
+        "input": "",
+        "output": "Artificial glaciers bhaneko structures ho jasma winter ma ice lai store garincha ra summer ma water supply provide garcha. Yo le water scarcity ko problem lai solve garcha."
+    },
+    {
+        "instruction": "What is the concept of holographic communication? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Holographic communication bhaneko technology ho jasma 3D holograms use garera communication garcha. Yo le virtual meetings lai more interactive banacha."
+    },
+    {
+        "instruction": "Describe the concept of self-driving drones in Roman Nepali.",
+        "input": "",
+        "output": "Self-driving drones bhaneko drones ho jasma afai navigate garna sakcha. Yo le delivery, surveillance, ra mapping ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of bio-inspired robotics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Bio-inspired robotics bhaneko field ho jasma robots lai natural organisms (jasto ki animals ra insects) ko behavior jasto banaiyo. Yo le robots lai more efficient ra adaptable banacha."
+    },
+    {
+        "instruction": "Explain the concept of carbon-negative materials in Roman Nepali.",
+        "input": "",
+        "output": "Carbon-negative materials bhaneko materials ho jasma carbon dioxide lai absorb garincha. Yo le climate change lai combat garna madat garcha."
+    },
+    {
+        "instruction": "What is the concept of smart roads? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart roads bhaneko roads ho jasma technology integrate gareko huncha. Yo le traffic management, energy generation, ra vehicle charging ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of artificial coral reefs in Roman Nepali.",
+        "input": "",
+        "output": "Artificial coral reefs bhaneko structures ho jasma marine life lai support garcha. Yo le natural coral reefs ko damage lai compensate garcha."
+    },
+    {
+        "instruction": "What is the concept of quantum sensors? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Quantum sensors bhaneko devices ho jasma quantum mechanics ko principles use garera precise measurements garcha. Yo le medical imaging ra navigation ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of vertical hydroponics in Roman Nepali.",
+        "input": "",
+        "output": "Vertical hydroponics bhaneko farming method ho jasma water ma plants lai vertically grow garincha. Yo le space ra water ko efficient use garcha."
+    },
+    {
+        "instruction": "What is the concept of digital ethics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital ethics bhaneko field ho jasma technology ko use ra impact lai ethically evaluate garcha. Yo le privacy, security, ra fairness ko issues lai address garcha."
+    },
+    {
+        "instruction": "Describe the concept of self-healing concrete in Roman Nepali.",
+        "input": "",
+        "output": "Self-healing concrete bhaneko concrete ho jasma cracks lai afai repair garna sakcha. Yo le bacteria ra special materials use garera banaiyo."
+    },
+    {
+        "instruction": "What is the concept of brain mapping? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Brain mapping bhaneko process ho jasma brain ko structure ra function lai study garincha. Yo le neurological disorders ko treatment ma madat garcha."
+    },
+    {
+        "instruction": "Explain the concept of energy-storing bricks in Roman Nepali.",
+        "input": "",
+        "output": "Energy-storing bricks bhaneko bricks ho jasma electricity lai store garna sakcha. Yo le buildings lai energy-efficient banacha."
+    },
+    {
+        "instruction": "What is the concept of digital twins in healthcare? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital twins in healthcare bhaneko virtual models ho jasma patients ko health data lai represent garcha. Yo le personalized treatment plans provide garcha."
+    },
+    {
+        "instruction": "Describe the concept of artificial photosynthesis in Roman Nepali.",
+        "input": "",
+        "output": "Artificial photosynthesis bhaneko process ho jasma sunlight use garera fuels produce garincha. Yo le clean energy provide garna sakcha."
+    },
+    {
+        "instruction": "What is the concept of smart textiles? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart textiles bhaneko fabrics ho jasma technology integrate gareko huncha. Yo le health monitoring, temperature control, ra communication ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of carbon-neutral cities in Roman Nepali.",
+        "input": "",
+        "output": "Carbon-neutral cities bhaneko cities ho jasma carbon emissions lai zero banaiyo. Yo le renewable energy, green transportation, ra sustainable practices use garcha."
+    },
+    {
+        "instruction": "What is the concept of robotic prosthetics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Robotic prosthetics bhaneko artificial limbs ho jasma robotics technology use garincha. Yo le disabled individuals lai mobility provide garcha."
+    },
+    {
+        "instruction": "Describe the concept of floating solar farms in Roman Nepali.",
+        "input": "",
+        "output": "Floating solar farms bhaneko solar panels ho jasma water ko surface ma install garincha. Yo le land use lai optimize garera clean energy produce garcha."
+    },
+    {
+        "instruction": "What is the concept of quantum biology? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Quantum biology bhaneko field ho jasma quantum mechanics ko principles lai biological systems ma apply garincha. Yo le photosynthesis ra DNA repair jasto processes lai study garcha."
+    },
+    {
+        "instruction": "Explain the concept of biodegradable electronics in Roman Nepali.",
+        "input": "",
+        "output": "Biodegradable electronics bhaneko devices ho jasma natural processes le decompose huna sakcha. Yo le electronic waste lai kam garera environment lai protect garcha."
+    },
+    {
+        "instruction": "What is the concept of smart waste management? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Smart waste management bhaneko system ho jasma technology use garera waste lai efficiently manage garincha. Yo le sensors ra data analysis use garcha."
+    },
+    {
+        "instruction": "Describe the concept of artificial islands in Roman Nepali.",
+        "input": "",
+        "output": "Artificial islands bhaneko man-made islands ho jasma land reclamation ko through banaiyo. Yo le tourism, housing, ra infrastructure development ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of digital agriculture? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Digital agriculture bhaneko farming method ho jasma technology use garera crops lai monitor ra manage garincha. Yo le GPS, drones, ra sensors use garcha."
+    },
+    {
+        "instruction": "Explain the concept of energy-harvesting wearables in Roman Nepali.",
+        "input": "",
+        "output": "Energy-harvesting wearables bhaneko devices ho jasma body heat, movement, or light bata energy collect garincha. Yo le smartwatches ra fitness trackers ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of synthetic ecosystems? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Synthetic ecosystems bhaneko man-made ecosystems ho jasma biological components lai artificially create garincha. Yo le environmental research ra conservation ma use huncha."
+    },
+    {
+        "instruction": "Explain Newton's laws of motion in Roman Nepali.",
+        "input": "",
+        "output": "Newton's laws of motion bhaneko physics ko fundamental rules ho. First law bhaneko inertia ko concept ho, jasma object afno state of motion ma taba samma change hudaina jaba samma external force lagdaina. Second law bhaneko force equals mass times acceleration (F=ma). Third law bhaneko every action ko equal ra opposite reaction huncha."
+    },
+    {
+        "instruction": "What is the concept of relativity? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Relativity bhaneko concept ho jasma time, space, ra gravity ko nature lai describe garcha. Einstein ko theory of relativity le time ra space lai interconnected bhancha ra gravity lai spacetime ko curvature bata explain garcha."
+    },
+    {
+        "instruction": "Describe the concept of black holes in Roman Nepali.",
+        "input": "",
+        "output": "Black holes bhaneko space ma extremely dense objects ho jasma gravity itna strong huncha ki light pani escape garna sakdaina. Yo massive stars ko collapse pachi bancha. Black holes le time ra space lai distort garcha."
+    },
+    {
+        "instruction": "What is quantum mechanics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Quantum mechanics bhaneko physics ko branch ho jasma atomic ra subatomic particles ko behavior lai study garcha. Yo le particles lai waves jasto behave garcha bhanera explain garcha ra probability ko through predictions garcha."
+    },
+    {
+        "instruction": "Explain the concept of the Big Bang theory in Roman Nepali.",
+        "input": "",
+        "output": "Big Bang theory bhaneko universe ko origin ko explanation ho. Yo theory anusar, universe ek point bata start bhayeko thiyo ra dherai dense ra hot thiyo. Pachi yo expand bhayeko ra aaja samma expand hudai cha."
+    },
+    {
+        "instruction": "What is the concept of dark energy? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Dark energy bhaneko mysterious force ho jasma universe lai expand garna madat garcha. Yo universe ko 68% occupy garcha, tara yo directly observe garna sakidaina. Dark energy le gravity ko opposite kaam garcha."
+    },
+    {
+        "instruction": "Describe the concept of the Higgs boson in Roman Nepali.",
+        "input": "",
+        "output": "Higgs boson bhaneko particle ho jasma Higgs field ko existence lai prove garcha. Yo field le particles lai mass provide garcha. Higgs boson lai 'God particle' pani bhanincha ra yo CERN ko Large Hadron Collider ma discover bhayeko thiyo."
+    },
+    {
+        "instruction": "What is the concept of string theory? Explain in Roman Nepali.",
+        "input": "",
+        "output": "String theory bhaneko theoretical framework ho jasma fundamental particles lai tiny vibrating strings ko rup ma describe garcha. Yo theory le gravity ra quantum mechanics lai combine garna khojcha."
+    },
+    {
+        "instruction": "Explain the concept of the photoelectric effect in Roman Nepali.",
+        "input": "",
+        "output": "Photoelectric effect bhaneko phenomenon ho jasma light le metal ko surface bata electrons lai eject garcha. Einstein le explain gareko yo effect le light lai particles (photons) ko rup ma behave garcha bhanera prove garyo."
+    },
+    {
+        "instruction": "What is the concept of entropy? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Entropy bhaneko thermodynamics ko concept ho jasma system ko disorder lai measure garcha. Second law of thermodynamics anusar, entropy always increase huncha, jasma energy ko distribution ma randomness badhcha."
+    },
+    {
+        "instruction": "Describe the concept of nuclear fusion in Roman Nepali.",
+        "input": "",
+        "output": "Nuclear fusion bhaneko process ho jasma duita light atomic nuclei combine bhayera heavier nucleus bancha ra dherai energy release huncha. Yo process le Sun ra stars ma energy produce garcha."
+    },
+    {
+        "instruction": "What is the concept of the uncertainty principle? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Uncertainty principle bhaneko quantum mechanics ko rule ho jasma particle ko position ra momentum lai simultaneously precise tarika le measure garna sakidaina. Yo principle le quantum world ko unpredictable nature lai describe garcha."
+    },
+    {
+        "instruction": "Explain the concept of gravitational waves in Roman Nepali.",
+        "input": "",
+        "output": "Gravitational waves bhaneko ripples in spacetime ho jasma massive objects (jasto ki black holes or neutron stars) ko collision bata produce huncha. Einstein le predict gareko yo waves lai 2015 ma detect gariyo."
+    },
+    {
+        "instruction": "What is the concept of the Doppler effect? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Doppler effect bhaneko phenomenon ho jasma wave (jasto ki sound or light) ko frequency change huncha jaba source ra observer afno relative motion ma huncha. Example ko lagi, ambulance ko siren ko sound high huncha jaba tyo near auncha ra low huncha jaba tyo tadha jancha."
+    },
+    {
+        "instruction": "Describe the concept of superconductivity in Roman Nepali.",
+        "input": "",
+        "output": "Superconductivity bhaneko property ho jasma certain materials le zero electrical resistance show garcha extremely low temperatures ma. Yo le electricity lai without loss transmit garna sajilo banaucha."
+    },
+    {
+        "instruction": "What is the concept of the Standard Model in physics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Standard Model bhaneko theoretical framework ho jasma fundamental particles ra uniharuko interactions lai describe garcha. Yo le quarks, leptons, ra force-carrying particles (jasto ki photons ra gluons) lai include garcha."
+    },
+    {
+        "instruction": "Explain the concept of the Schrödinger equation in Roman Nepali.",
+        "input": "",
+        "output": "Schrödinger equation bhaneko quantum mechanics ko fundamental equation ho jasma quantum system ko wave function lai describe garcha. Yo equation le particle ko behavior ra probability distribution lai predict garcha."
+    },
+    {
+        "instruction": "What is the concept of the multiverse? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Multiverse bhaneko concept ho jasma hamiro universe ko alawa dherai parallel universes exist garna sakchan. Yo theory le Big Bang, string theory, ra quantum mechanics ko through explain garcha."
+    },
+    {
+        "instruction": "Describe the concept of antimatter in Roman Nepali.",
+        "input": "",
+        "output": "Antimatter bhaneko matter ko opposite ho. Antimatter particles ko charge matter particles bhanda opposite huncha. Example ko lagi, electron ko antimatter particle positron ho. Matter ra antimatter collide bhayo bhane energy ma convert huncha."
+    },
+    {
+        "instruction": "What is the concept of the Casimir effect? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Casimir effect bhaneko quantum phenomenon ho jasma two uncharged metal plates lai vacuum ma rakhyo bhane uniharuko bichama attractive force generate huncha. Yo le quantum field theory ko through explain huncha."
+    },
+    {
+        "instruction": "Explain the concept of the Heisenberg uncertainty principle in Roman Nepali.",
+        "input": "",
+        "output": "Heisenberg uncertainty principle bhaneko quantum mechanics ko rule ho jasma particle ko position ra momentum lai simultaneously precise tarika le measure garna sakidaina. Yo principle le quantum world ko unpredictable nature lai describe garcha."
+    },
+    {
+        "instruction": "What is the concept of the Pauli exclusion principle? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Pauli exclusion principle bhaneko quantum mechanics ko rule ho jasma duita identical fermions (jasto ki electrons) le same quantum state occupy garna sakdaina. Yo principle le atomic structure ra chemical bonding lai explain garcha."
+    },
+    {
+        "instruction": "Describe the concept of the photonic crystal in Roman Nepali.",
+        "input": "",
+        "output": "Photonic crystal bhaneko material ho jasma periodic structure le light lai control garcha. Yo le light waves lai manipulate garera optical devices (jasto ki lasers ra fiber optics) ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of the Fermi paradox? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Fermi paradox bhaneko contradiction ho jasma universe ma dherai stars ra planets bhaye pani hamile aliens lai kina detect garna sakyaunau. Yo paradox le extraterrestrial life ko existence ko possibility lai question garcha."
+    },
+    {
+        "instruction": "Explain the concept of the Hawking radiation in Roman Nepali.",
+        "input": "",
+        "output": "Hawking radiation bhaneko radiation ho jasma black holes bata emit huncha. Yo radiation le black holes lai slowly evaporate garcha. Stephen Hawking le yo concept propose gareka thiye."
+    },
+    {
+        "instruction": "What is the concept of the Planck length? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Planck length bhaneko length ko smallest possible unit ho jasma classical physics ra quantum mechanics intersect huncha. Yo length approximately 1.6 x 10^-35 meters huncha."
+    },
+    {
+        "instruction": "Describe the concept of the quantum entanglement in Roman Nepali.",
+        "input": "",
+        "output": "Quantum entanglement bhaneko phenomenon ho jasma duita particles lai link garincha, jasma euta particle ko state lai change garda arko particle ko state pani change huncha. Yo le quantum communication ra computing ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of the Bose-Einstein condensate? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Bose-Einstein condensate bhaneko state of matter ho jasma particles extremely low temperatures ma behave garcha ra ekai quantum state ma merge huncha. Yo le quantum mechanics ko strange behavior lai demonstrate garcha."
+    },
+    {
+        "instruction": "Explain the concept of the wave-particle duality in Roman Nepali.",
+        "input": "",
+        "output": "Wave-particle duality bhaneko concept ho jasma particles (jasto ki electrons) le waves jasto behave garna sakcha. Yo le quantum mechanics ko fundamental nature lai describe garcha."
+    },
+    {
+        "instruction": "What is the concept of the holographic principle? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Holographic principle bhaneko theory ho jasma universe ko information lai two-dimensional surface ma encode garna sakincha. Yo le gravity ra quantum mechanics lai combine garna khojcha."
+    },
+    {
+        "instruction": "Describe the concept of the quantum tunneling in Roman Nepali.",
+        "input": "",
+        "output": "Quantum tunneling bhaneko phenomenon ho jasma particles le energy barrier lai overcome garna sakcha even if uniharuko energy barrier bhanda kam huncha. Yo le nuclear fusion ra semiconductor technology ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of the cosmic microwave background? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Cosmic microwave background bhaneko radiation ho jasma Big Bang pachi bachiyeko leftover energy ho. Yo radiation le universe ko early conditions lai study garna madat garcha."
+    },
+    {
+        "instruction": "Explain the concept of the neutron star in Roman Nepali.",
+        "input": "",
+        "output": "Neutron star bhaneko extremely dense star ho jasma massive star ko supernova explosion pachi bancha. Yo star ko density itna high huncha ki euta teaspoon ko material ko weight Earth ma billions of tons huncha."
+    },
+    {
+        "instruction": "What is the concept of the time dilation? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Time dilation bhaneko concept ho jasma time le different rates ma pass huncha depending on speed ra gravity. Einstein ko theory of relativity le yo concept lai explain garcha."
+    },
+    {
+        "instruction": "Describe the concept of the quark-gluon plasma in Roman Nepali.",
+        "input": "",
+        "output": "Quark-gluon plasma bhaneko state of matter ho jasma quarks ra gluons freely move garcha. Yo state extremely high temperatures ra densities ma exist garcha, jasma Big Bang pachi bhayeko thiyo."
+    },
+    {
+        "instruction": "What is the concept of the dark flow? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Dark flow bhaneko phenomenon ho jasma galaxy clusters le specific direction ma move garcha. Yo le universe ko structure ra expansion ko new insights provide garcha."
+    },
+    {
+        "instruction": "Explain the concept of the quantum field theory in Roman Nepali.",
+        "input": "",
+        "output": "Quantum field theory bhaneko theoretical framework ho jasma particles lai fields ko excitations ko rup ma describe garcha. Yo le fundamental forces ra particles lai explain garcha."
+    },
+    {
+        "instruction": "What is the concept of the gravitational lensing? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Gravitational lensing bhaneko phenomenon ho jasma massive objects (jasto ki galaxies) le light lai bend garcha. Yo le distant objects lai study garna madat garcha."
+    },
+    {
+        "instruction": "Describe the concept of the quantum computing in Roman Nepali.",
+        "input": "",
+        "output": "Quantum computing bhaneko computing technology ho jasma qubits use garincha. Qubits le 0 ra 1 ko superposition ma huna sakcha, jasma quantum computers le classical computers bhanda dherai fast ra complex problems solve garna sakcha."
+    },
+    {
+        "instruction": "Explain the structure and function of a cell in Roman Nepali.",
+        "input": "",
+        "output": "Cell bhaneko life ko basic unit ho. Cell ko structure ma cell membrane, cytoplasm, ra nucleus huncha. Cell membrane le cell lai protect garcha, cytoplasm ma organelles huncha, ra nucleus le genetic information store garcha. Cell le energy produce garne, proteins banayera, ra reproduction garcha."
+    },
+    {
+        "instruction": "What is DNA? Explain in Roman Nepali.",
+        "input": "",
+        "output": "DNA bhaneko deoxyribonucleic acid ho, jasma genetic information store huncha. DNA le genes ko rup ma instructions dincha, jasma proteins produce huncha. DNA ko structure double helix ho, jasma nucleotides (A, T, C, G) le baneko huncha."
+    },
+    {
+        "instruction": "Describe the process of photosynthesis in Roman Nepali.",
+        "input": "",
+        "output": "Photosynthesis bhaneko process ho jasma green plants le sunlight ko energy use garera carbon dioxide ra water bata glucose produce garcha. Yo process ma chlorophyll pigment le important role khelcha. Oxygen byproduct ko rup ma release huncha."
+    },
+    {
+        "instruction": "What is the concept of evolution? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Evolution bhaneko process ho jasma species gradually change huncha ra new species form huncha. Charles Darwin ko theory of natural selection anusar, favorable traits wala organisms survive huncha ra reproduce huncha, jasma evolution huncha."
+    },
+    {
+        "instruction": "Explain the concept of the human digestive system in Roman Nepali.",
+        "input": "",
+        "output": "Human digestive system bhaneko organs ko group ho jasma food lai break down garera nutrients absorb garincha. Yo system ma mouth, esophagus, stomach, small intestine, large intestine, ra pancreas jasta organs huncha. Food lai enzymes ra acids le digest garincha."
+    },
+    {
+        "instruction": "What is the concept of genetics? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Genetics bhaneko science ho jasma genes, heredity, ra genetic variation lai study garcha. Genes le traits lai determine garcha ra parents bata offspring ma transfer huncha. Genetics le diseases, evolution, ra biodiversity lai explain garcha."
+    },
+    {
+        "instruction": "Describe the concept of the immune system in Roman Nepali.",
+        "input": "",
+        "output": "Immune system bhaneko body ko defense mechanism ho jasma pathogens (jasto ki bacteria, viruses) lai fight garcha. Yo system ma white blood cells, antibodies, ra lymphatic system huncha. Immune system le infections lai prevent ra treat garcha."
+    },
+    {
+        "instruction": "What is the concept of ecosystems? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Ecosystem bhaneko community of living organisms (plants, animals, microbes) ra uniharuko environment (soil, water, air) ko interaction ho. Ecosystems le energy flow ra nutrient cycling lai maintain garcha. Examples ma forests, oceans, ra deserts huncha."
+    },
+    {
+        "instruction": "Explain the concept of mitosis and meiosis in Roman Nepali.",
+        "input": "",
+        "output": "Mitosis bhaneko cell division process ho jasma single cell divide bhayera two identical daughter cells bancha. Meiosis bhaneko process ho jasma reproductive cells (gametes) bancha, jasma chromosome number half huncha. Mitosis le growth ra repair ma madat garcha, bhane meiosis le genetic diversity badhaucha."
+    },
+    {
+        "instruction": "What is the concept of biodiversity? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Biodiversity bhaneko variety of life on Earth ho, jasma different species, genes, ra ecosystems include huncha. Biodiversity le ecosystem stability, resources, ra human well-being lai support garcha. Conservation le biodiversity lai protect garcha."
+    },
+    {
+        "instruction": "Describe the concept of the human respiratory system in Roman Nepali.",
+        "input": "",
+        "output": "Human respiratory system bhaneko organs ko group ho jasma oxygen lai body ma intake garincha ra carbon dioxide lai remove garincha. Yo system ma nose, trachea, lungs, ra diaphragm huncha. Oxygen ra carbon dioxide ko exchange lungs ma huncha."
+    },
+    {
+        "instruction": "What is the concept of cloning? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Cloning bhaneko process ho jasma genetically identical copy of an organism banaiyo. Dolly the sheep pahilo cloned mammal thiyo. Cloning le medical research, agriculture, ra conservation ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of the human circulatory system in Roman Nepali.",
+        "input": "",
+        "output": "Human circulatory system bhaneko heart, blood vessels, ra blood ko network ho. Yo system le oxygen, nutrients, hormones, ra waste products lai body ma transport garcha. Heart le blood lai pump garcha ra blood vessels le distribute garcha."
+    },
+    {
+        "instruction": "What is the concept of stem cells? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Stem cells bhaneko undifferentiated cells ho jasma specialized cells ma develop huna sakcha. Stem cells le tissues ra organs lai repair ra regenerate garna sakcha. Yo le medical treatments (jasto ki organ repair) ma use huncha."
+    },
+    {
+        "instruction": "Describe the concept of the human nervous system in Roman Nepali.",
+        "input": "",
+        "output": "Human nervous system bhaneko brain, spinal cord, ra nerves ko network ho. Yo system le body ko functions lai control garcha ra external stimuli lai respond garcha. Nervous system le sensory information process garcha ra muscles lai control garcha."
+    },
+    {
+        "instruction": "What is the concept of genetic engineering? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Genetic engineering bhaneko process ho jasma genes lai manipulate garera organisms ko traits lai change garincha. Yo le GMOs (genetically modified organisms) banayera agriculture, medicine, ra industry ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of the human endocrine system in Roman Nepali.",
+        "input": "",
+        "output": "Human endocrine system bhaneko glands ko group ho jasma hormones produce garincha. Hormones le body ko functions (jasto ki growth, metabolism, ra reproduction) lai regulate garcha. Examples ma thyroid, pancreas, ra adrenal glands huncha."
+    },
+    {
+        "instruction": "What is the concept of the food chain? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Food chain bhaneko sequence ho jasma energy ra nutrients lai organisms ko through transfer garincha. Producers (jasto ki plants) le energy capture garcha, consumers (jasto ki animals) le energy transfer garcha, ra decomposers le waste lai break down garcha."
+    },
+    {
+        "instruction": "Describe the concept of the human skeletal system in Roman Nepali.",
+        "input": "",
+        "output": "Human skeletal system bhaneko bones, cartilage, ra joints ko group ho. Yo system le body lai structure provide garcha, organs lai protect garcha, ra movement ma madat garcha. Skeletal system le minerals store garcha ra blood cells produce garcha."
+    },
+    {
+        "instruction": "What is the concept of biotechnology? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Biotechnology bhaneko technology ho jasma living organisms lai use garera products banaiyo. Yo le medicine (jasto ki vaccines), agriculture (jasto ki GMOs), ra industry (jasto ki biofuels) ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of the human reproductive system in Roman Nepali.",
+        "input": "",
+        "output": "Human reproductive system bhaneko organs ko group ho jasma reproduction ko lagi responsible huncha. Male reproductive system ma testes ra sperm huncha, bhane female reproductive system ma ovaries, uterus, ra eggs huncha. Fertilization pachi embryo develop huncha."
+    },
+    {
+        "instruction": "What is the concept of the carbon cycle? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Carbon cycle bhaneko process ho jasma carbon lai atmosphere, oceans, soil, ra living organisms ko through recycle garincha. Plants le carbon dioxide absorb garcha, animals le carbon consume garcha, ra decomposition le carbon lai soil ma return garcha."
+    },
+    {
+        "instruction": "Describe the concept of the human muscular system in Roman Nepali.",
+        "input": "",
+        "output": "Human muscular system bhaneko muscles ko group ho jasma movement, posture, ra body functions lai control garcha. Three types of muscles huncha: skeletal (voluntary), smooth (involuntary), ra cardiac (heart muscles)."
+    },
+    {
+        "instruction": "What is the concept of the nitrogen cycle? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Nitrogen cycle bhaneko process ho jasma nitrogen lai atmosphere, soil, ra living organisms ko through recycle garincha. Bacteria le nitrogen lai fix garera plants lai provide garcha, animals le plants bata nitrogen consume garcha, ra decomposition le nitrogen lai soil ma return garcha."
+    },
+    {
+        "instruction": "Explain the concept of the human excretory system in Roman Nepali.",
+        "input": "",
+        "output": "Human excretory system bhaneko organs ko group ho jasma waste products lai body bata remove garincha. Yo system ma kidneys, bladder, ureters, ra urethra huncha. Kidneys le blood lai filter garera urine produce garcha."
+    },
+    {
+        "instruction": "What is the concept of the water cycle? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Water cycle bhaneko process ho jasma water lai atmosphere, land, ra oceans ko through recycle garincha. Evaporation le water lai vapor ma convert garcha, condensation le clouds bancha, precipitation le water lai Earth ma return garcha, ra collection le water lai rivers, lakes, ra oceans ma store garcha."
+    },
+    {
+        "instruction": "Describe the concept of the human integumentary system in Roman Nepali.",
+        "input": "",
+        "output": "Human integumentary system bhaneko skin, hair, nails, ra glands ko group ho. Yo system le body lai protect garcha, temperature regulate garcha, ra sensory information provide garcha. Skin le pathogens ra UV rays bata protect garcha."
+    },
+    {
+        "instruction": "What is the concept of the phosphorus cycle? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Phosphorus cycle bhaneko process ho jasma phosphorus lai rocks, soil, water, ra living organisms ko through recycle garincha. Plants le phosphorus absorb garcha, animals le plants bata phosphorus consume garcha, ra decomposition le phosphorus lai soil ma return garcha."
+    },
+    {
+        "instruction": "Explain the concept of the human lymphatic system in Roman Nepali.",
+        "input": "",
+        "output": "Human lymphatic system bhaneko lymph nodes, vessels, ra organs ko group ho. Yo system le body lai infections bata protect garcha, fluid balance maintain garcha, ra fats lai absorb garcha. Lymphatic system le immune response ma pani madat garcha."
+    },
+    {
+        "instruction": "What is the concept of the ozone layer? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Ozone layer bhaneko Earth ko atmosphere ko ek part ho jasma ozone gas ko concentration dherai huncha. Yo layer le harmful ultraviolet (UV) rays lai block garcha, jasma Earth ma living organisms lai UV rays ko harmful effects bata bachaucha."
+    },
+    {
+        "instruction": "Describe the concept of the human sensory system in Roman Nepali.",
+        "input": "",
+        "output": "Human sensory system bhaneko organs ko group ho jasma external stimuli (jasto ki light, sound, taste, touch, ra smell) lai detect garcha. Yo system ma eyes, ears, tongue, skin, ra nose huncha. Sensory information brain ma process huncha."
+    },
+    {
+        "instruction": "What is the concept of the greenhouse effect? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Greenhouse effect bhaneko process ho jasma greenhouse gases (jasto ki carbon dioxide ra methane) le heat lai trap garera Earth ko temperature lai increase garcha. Yo le global warming ra climate change ko main cause ho."
+    },
+    {
+        "instruction": "Explain the concept of the human cardiovascular system in Roman Nepali.",
+        "input": "",
+        "output": "Human cardiovascular system bhaneko heart ra blood vessels ko network ho. Yo system le oxygen, nutrients, hormones, ra waste products lai body ma transport garcha. Heart le blood lai pump garcha ra blood vessels le distribute garcha."
+    },
+    {
+        "instruction": "What is the concept of the nitrogen fixation? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Nitrogen fixation bhaneko process ho jasma atmospheric nitrogen lai ammonia ma convert garincha. Yo process le plants lai nitrogen provide garcha, jasma proteins ra DNA banayera use huncha. Bacteria le nitrogen fix garcha."
+    },
+    {
+        "instruction": "Describe the concept of the human urinary system in Roman Nepali.",
+        "input": "",
+        "output": "Human urinary system bhaneko organs ko group ho jasma waste products lai body bata remove garincha. Yo system ma kidneys, bladder, ureters, ra urethra huncha. Kidneys le blood lai filter garera urine produce garcha."
+    },
+    {
+        "instruction": "What is the concept of the ecological footprint? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Ecological footprint bhaneko measure ho jasma human activities le environment ma paryo impact lai calculate garcha. Yo le resources ko use ra waste production lai include garcha. Sustainable practices le ecological footprint lai reduce garcha."
+    },
+    {
+        "instruction": "Explain the concept of the human endocrine system in Roman Nepali.",
+        "input": "",
+        "output": "Human endocrine system bhaneko glands ko group ho jasma hormones produce garincha. Hormones le body ko functions (jasto ki growth, metabolism, ra reproduction) lai regulate garcha. Examples ma thyroid, pancreas, ra adrenal glands huncha."
+    },
+    {
+        "instruction": "What is the concept of the carbon footprint? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Carbon footprint bhaneko measure ho jasma human activities le greenhouse gases (jasto ki carbon dioxide) lai produce garcha. Yo le climate change ko main cause ho. Carbon footprint lai reduce garna renewable energy ra sustainable practices use garna parcha."
+    },
+    {
+        "instruction": "Describe the concept of the human immune response in Roman Nepali.",
+        "input": "",
+        "output": "Human immune response bhaneko body ko defense mechanism ho jasma pathogens (jasto ki bacteria, viruses) lai fight garcha. Yo response ma white blood cells, antibodies, ra lymphatic system le kaam garcha. Immune response le infections lai prevent ra treat garcha."
+    },
+    {
+        "instruction": "What is the concept of the ecological succession? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Ecological succession bhaneko process ho jasma ecosystem gradually change huncha ra new species colonize huncha. Primary succession le bare rock ma start huncha, bhane secondary succession le disturbed areas ma start huncha."
+    },
+    {
+        "instruction": "Explain the concept of the human reproductive hormones in Roman Nepali.",
+        "input": "",
+        "output": "Human reproductive hormones bhaneko chemicals ho jasma reproduction ko functions lai regulate garcha. Male ma testosterone le sperm production control garcha, bhane female ma estrogen ra progesterone le menstrual cycle ra pregnancy lai regulate garcha."
+    },
+    {
+        "instruction": "Explain the concept of atoms and molecules in Roman Nepali.",
+        "input": "",
+        "output": "Atom bhaneko matter ko smallest unit ho, jasma protons, neutrons, ra electrons huncha. Molecule bhaneko two or more atoms ko combination ho, jasma chemical bonds le jodiyo huncha. Example ko lagi, water (H2O) ekta molecule ho jasma two hydrogen atoms ra one oxygen atom huncha."
+    },
+    {
+        "instruction": "What is the periodic table? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Periodic table bhaneko elements ko organized chart ho, jasma elements lai uniharuko atomic number, electron configuration, ra chemical properties ko anusar arrange gariyo. Periodic table ma groups (columns) ra periods (rows) huncha, jasma similar properties wala elements lai group garincha."
+    },
+    {
+        "instruction": "Describe the concept of chemical bonds in Roman Nepali.",
+        "input": "",
+        "output": "Chemical bonds bhaneko force ho jasma atoms lai molecules ma bind garcha. Three types of chemical bonds huncha: ionic bonds (electrons transfer huncha), covalent bonds (electrons share huncha), ra metallic bonds (electrons freely move huncha)."
+    },
+    {
+        "instruction": "What is the concept of acids and bases? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Acids bhaneko substances ho jasma hydrogen ions (H+) donate garna sakcha, bhane bases bhaneko substances ho jasma hydroxide ions (OH-) donate garna sakcha. Acids ko pH less than 7 huncha, bhane bases ko pH greater than 7 huncha. Neutral substances ko pH 7 huncha."
+    },
+    {
+        "instruction": "Explain the concept of chemical reactions in Roman Nepali.",
+        "input": "",
+        "output": "Chemical reactions bhaneko process ho jasma reactants lai products ma convert garincha. Yo process ma bonds break huncha ra new bonds form huncha. Examples ma combustion, synthesis, decomposition, ra displacement reactions huncha."
+    },
+    {
+        "instruction": "What is the concept of stoichiometry? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Stoichiometry bhaneko chemistry ko branch ho jasma chemical reactions ma reactants ra products ko quantities lai calculate garcha. Yo le balanced chemical equations use garera mass, moles, ra volume ko relationships lai determine garcha."
+    },
+    {
+        "instruction": "Describe the concept of the states of matter in Roman Nepali.",
+        "input": "",
+        "output": "States of matter bhaneko matter ko different forms ho. Four main states huncha: solid (fixed shape ra volume), liquid (fixed volume but no fixed shape), gas (no fixed shape or volume), ra plasma (ionized gas). Matter le temperature ra pressure ko through states change garna sakcha."
+    },
+    {
+        "instruction": "What is the concept of the mole in chemistry? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Mole bhaneko chemistry ko unit ho jasma particles (atoms, molecules, ions) ko number lai measure garcha. One mole ma Avogadro's number (6.022 x 10^23) particles huncha. Mole le mass ra particles ko number lai relate garcha."
+    },
+    {
+        "instruction": "Explain the concept of redox reactions in Roman Nepali.",
+        "input": "",
+        "output": "Redox reactions bhaneko chemical reactions ho jasma oxidation (loss of electrons) ra reduction (gain of electrons) huncha. Redox reactions le batteries, corrosion, ra metabolism ma important role khelcha."
+    },
+    {
+        "instruction": "What is the concept of the pH scale? Explain in Roman Nepali.",
+        "input": "",
+        "output": "pH scale bhaneko measure ho jasma solution ko acidity or basicity lai determine garcha. pH scale 0 dekhi 14 samma huncha, jasma pH 7 neutral, pH less than 7 acidic, ra pH greater than 7 basic huncha."
+    },
+    {
+        "instruction": "Describe the concept of organic chemistry in Roman Nepali.",
+        "input": "",
+        "output": "Organic chemistry bhaneko chemistry ko branch ho jasma carbon-containing compounds lai study garcha. Organic compounds ma hydrocarbons, alcohols, acids, ra polymers huncha. Organic chemistry le medicines, plastics, ra fuels banayera use huncha."
+    },
+    {
+        "instruction": "What is the concept of inorganic chemistry? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Inorganic chemistry bhaneko chemistry ko branch ho jasma carbon-free compounds lai study garcha. Inorganic compounds ma metals, salts, minerals, ra acids huncha. Inorganic chemistry le materials science, catalysis, ra environmental chemistry ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of chemical equilibrium in Roman Nepali.",
+        "input": "",
+        "output": "Chemical equilibrium bhaneko state ho jasma forward ra reverse reactions ko rate equal huncha. Equilibrium ma reactants ra products ko concentration constant huncha. Le Chatelier's principle le equilibrium lai disturb garna sakcha."
+    },
+    {
+        "instruction": "What is the concept of thermodynamics in chemistry? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Thermodynamics bhaneko science ho jasma energy ra unko transformations lai study garcha. First law le energy conservation lai explain garcha, second law le entropy (disorder) lai explain garcha, ra third law le absolute zero lai explain garcha."
+    },
+    {
+        "instruction": "Describe the concept of electrochemistry in Roman Nepali.",
+        "input": "",
+        "output": "Electrochemistry bhaneko chemistry ko branch ho jasma chemical reactions ra electricity ko relationship lai study garcha. Electrochemical cells (jasto ki batteries) le chemical energy lai electrical energy ma convert garcha."
+    },
+    {
+        "instruction": "What is the concept of polymers? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Polymers bhaneko large molecules ho jasma repeating units (monomers) le baneko huncha. Polymers le plastics, rubber, ra fibers banayera use huncha. Examples ma polyethylene, PVC, ra nylon huncha."
+    },
+    {
+        "instruction": "Explain the concept of catalysts in Roman Nepali.",
+        "input": "",
+        "output": "Catalysts bhaneko substances ho jasma chemical reactions ko rate lai increase garcha tara afai react hudaina. Catalysts le activation energy lai kam garcha. Examples ma enzymes (biological catalysts) ra transition metals huncha."
+    },
+    {
+        "instruction": "What is the concept of the gas laws? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Gas laws bhaneko laws ho jasma gas ko pressure, volume, temperature, ra moles ko relationship lai describe garcha. Boyle's law le pressure ra volume ko relationship, Charles's law le volume ra temperature ko relationship, ra Avogadro's law le volume ra moles ko relationship lai explain garcha."
+    },
+    {
+        "instruction": "Describe the concept of chemical kinetics in Roman Nepali.",
+        "input": "",
+        "output": "Chemical kinetics bhaneko chemistry ko branch ho jasma chemical reactions ko rate lai study garcha. Kinetics le reaction rate lai affect garne factors (jasto ki concentration, temperature, ra catalysts) lai explain garcha."
+    },
+    {
+        "instruction": "What is the concept of coordination compounds? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Coordination compounds bhaneko compounds ho jasma central metal atom or ion le ligands (molecules or ions) sita coordinate bonds banayera complex bancha. Coordination compounds le catalysis, medicine, ra materials science ma use huncha."
+    },
+    {
+        "instruction": "Explain the concept of nuclear chemistry in Roman Nepali.",
+        "input": "",
+        "output": "Nuclear chemistry bhaneko chemistry ko branch ho jasma atomic nuclei ko reactions lai study garcha. Nuclear reactions ma radioactive decay, fission (nucleus split huncha), ra fusion (nuclei combine huncha) huncha. Nuclear chemistry le energy production ra medical imaging ma use huncha."
+    },
+    {
+        "instruction": "What is the concept of the mole fraction? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Mole fraction bhaneko measure ho jasma solution ma ekta component ko moles lai total moles sita divide garincha. Mole fraction le solution ko composition lai describe garcha."
+    },
+    {
+        "instruction": "Describe the concept of the ideal gas law in Roman Nepali.",
+        "input": "",
+        "output": "Ideal gas law bhaneko equation ho jasma gas ko pressure, volume, temperature, ra moles ko relationship lai describe garcha. Equation ho: PV = nRT, jasma P pressure, V volume, n moles, R gas constant, ra T temperature ho."
+    },
+    {
+        "instruction": "What is the concept of the colligative properties? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Colligative properties bhaneko properties ho jasma solution ma solute ko concentration ma depend garcha. Examples ma boiling point elevation, freezing point depression, ra osmotic pressure huncha."
+    },
+    {
+        "instruction": "Explain the concept of the Lewis acid-base theory in Roman Nepali.",
+        "input": "",
+        "output": "Lewis acid-base theory bhaneko concept ho jasma acids le electron pairs accept garcha ra bases le electron pairs donate garcha. Yo theory le coordination compounds ra complex ions lai explain garcha."
+    },
+    {
+        "instruction": "What is the concept of the buffer solution? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Buffer solution bhaneko solution ho jasma pH lai stable rakhnu huncha. Buffer solutions ma weak acid ra uska conjugate base huncha. Yo le small amounts of acids or bases lai neutralize garcha."
+    },
+    {
+        "instruction": "Describe the concept of the crystal field theory in Roman Nepali.",
+        "input": "",
+        "output": "Crystal field theory bhaneko theory ho jasma transition metal complexes ko bonding ra properties lai explain garcha. Yo theory le ligands ko electric field le metal ions ko d-orbitals lai split garcha bhanera explain garcha."
+    },
+    {
+        "instruction": "What is the concept of the Arrhenius equation? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Arrhenius equation bhaneko equation ho jasma chemical reactions ko rate lai temperature ko through describe garcha. Equation ho: k = A * e^(-Ea/RT), jasma k rate constant, A frequency factor, Ea activation energy, R gas constant, ra T temperature ho."
+    },
+    {
+        "instruction": "Explain the concept of the VSEPR theory in Roman Nepali.",
+        "input": "",
+        "output": "VSEPR theory bhaneko theory ho jasma molecules ko shape lai predict garcha. VSEPR stands for Valence Shell Electron Pair Repulsion. Yo theory le electron pairs lai minimize garna khojcha, jasma molecules ko shape determine huncha."
+    },
+    {
+        "instruction": "What is the concept of the hybridization? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Hybridization bhaneko concept ho jasma atomic orbitals combine bhayera new hybrid orbitals bancha. Hybridization le molecules ko bonding ra geometry lai explain garcha. Examples ma sp, sp2, ra sp3 hybridization huncha."
+    },
+    {
+        "instruction": "Describe the concept of the quantum numbers in Roman Nepali.",
+        "input": "",
+        "output": "Quantum numbers bhaneko numbers ho jasma electron ko properties (jasto ki energy, position, ra spin) lai describe garcha. Four quantum numbers huncha: principal (n), angular momentum (l), magnetic (m), ra spin (s)."
+    },
+    {
+        "instruction": "What is the concept of the lattice energy? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Lattice energy bhaneko energy ho jasma ionic compound ko ions lai gaseous state bata solid state ma combine garincha. Lattice energy le ionic compounds ko stability lai determine garcha."
+    },
+    {
+        "instruction": "Explain the concept of the Born-Haber cycle in Roman Nepali.",
+        "input": "",
+        "output": "Born-Haber cycle bhaneko cycle ho jasma ionic compounds ko lattice energy lai calculate garcha. Yo cycle le enthalpy changes (jasto ki ionization energy, electron affinity, ra sublimation energy) lai include garcha."
+    },
+    {
+        "instruction": "What is the concept of the solubility product? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Solubility product (Ksp) bhaneko constant ho jasma sparingly soluble salts ko solubility lai describe garcha. Ksp le solution ma ions ko concentration lai determine garcha."
+    },
+    {
+        "instruction": "Describe the concept of the coordination number in Roman Nepali.",
+        "input": "",
+        "output": "Coordination number bhaneko number ho jasma central metal ion le ligands sita banayeko bonds ko number lai represent garcha. Coordination number le complex ions ko geometry lai determine garcha."
+    },
+    {
+        "instruction": "What is the concept of the Hess's law? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Hess's law bhaneko law ho jasma chemical reactions ko enthalpy change lai calculate garcha. Yo law le reaction lai steps ma break garera enthalpy changes lai add garcha."
+    },
+    {
+        "instruction": "Explain the concept of the ionic bonding in Roman Nepali.",
+        "input": "",
+        "output": "Ionic bonding bhaneko bonding ho jasma electrons transfer bhayera ions bancha. Positive ions (cations) ra negative ions (anions) le electrostatic attraction ko through bind huncha. Ionic bonding le salts banayera use huncha."
+    },
+    {
+        "instruction": "What is the concept of the covalent bonding? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Covalent bonding bhaneko bonding ho jasma electrons share bhayera molecules bancha. Covalent bonding le non-metals ko through huncha. Examples ma water (H2O) ra methane (CH4) huncha."
+    },
+    {
+        "instruction": "Describe the concept of the metallic bonding in Roman Nepali.",
+        "input": "",
+        "output": "Metallic bonding bhaneko bonding ho jasma metal atoms le electrons freely share garcha. Yo bonding le metals lai malleable, ductile, ra good conductors of electricity banacha."
+    },
+    {
+        "instruction": "What is the concept of the oxidation number? Explain in Roman Nepali.",
+        "input": "",
+        "output": "Oxidation number bhaneko number ho jasma atom ko charge lai represent garcha. Oxidation number le redox reactions ma electrons ko transfer lai track garcha."
+    },
+    {
+        "instruction": "Explain the concept of the Le Chatelier's principle in Roman Nepali.",
+        "input": "",
+        "output": "Le Chatelier's principle bhaneko principle ho jasma chemical equilibrium ma change garda system le tyo change lai counteract garcha. Yo principle le temperature, pressure, ra concentration ko effects lai explain garcha."
+    }
+]

@@ -1,0 +1,1337 @@
+[
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "Nepal ko sabai bhanda purano mandir ko naam ke ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya itihaas ya puratatwa sambandhi source ma jaankari khojnu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "Himalayan range ma kati wota himal haru chan?",
+        "response": "Yo prashna e-commerce scope ko bahira ho. Kripaya geographical ya scientific source ko sahayata linu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "Kathmandu ma ajako mausam kasto cha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya mausam sambandhi website ya app hernu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "Nepal ko jana sankhya kati cha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya census ya official government website ma jaankari khojnu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "Mero phone ma charge kina dhilo huncha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya technical support ya technician sanga sampark garnu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "Bitcoin kasari kaam garcha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya cryptocurrency sambandhi website ya specialist sanga sampark garnu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "Nepal ma kun mahina sabai bhanda dheri barsa huncha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya mausam sambandhi research source bata jawaf khojnu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "Pokhara ma k garna sakinchha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya tourism website ya local guide bata madat linu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "World Cup 2026 kahile suru huncha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya official sports news website ma jaankari khojnu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce scope bahira ho bhanera bujhayera jawaf dinu.",
+        "input": "Nepali film industry ko agami movie kun cha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya film industry sambandhi news ya website hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce ko sambandhit chaina bhanera bujhayera jawab dinu.",
+        "input": "Hamro desh ma sabai bhanda purano bridge ko naam ke ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya historical source ya expert sanga sampark garnu hola."
+    },
+    {
+        "instruction": "Yedi prashna e-commerce topic sanga sambandhit chaina bhanera bujhayera jawab dinu.",
+        "input": "Nepali script ma lekhne tarika kasari suru garna sakchhu?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya language learning website ya guide hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhi chaina bhanera user lai jawaf dinu.",
+        "input": "Manche haru le ghar ma solar panel kasari install garne?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya energy ya solar expert sanga sampark garnu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhi na huda user lai bujhayera jawaf dinu.",
+        "input": "Nepal ma sabai bhanda ramro engineering college kun ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya education website ya counselor sanga sampark garnu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera jawaf dinu.",
+        "input": "Nepali riti-ribaj ma chhath parva kasari manainchha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya culture ya tradition sambandhi source hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic sanga sambandhit chaina bhanera user lai jawaf dinu.",
+        "input": "Kathmandu bata Pokhara samma travel garna kati time lagcha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya travel guide ya transportation website hernu hola."
+    },
+    {
+        "instruction": "Yas prashna e-commerce topic bhitra chaina bhanera user lai jawaf dinu.",
+        "input": "Nepal ma k garera job opportunities badhauna sakincha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya professional ya career counselor sanga sampark garnu hola."
+    },
+    {
+        "instruction": "User le e-commerce scope bahira prashna sodhda jawaf dinu.",
+        "input": "Manche ko blood pressure kasari control garna sakincha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya health professional ya medical website hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "Nepal ma kun tea sabai bhanda famous cha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya tourism ya local products sambandhi source hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic bahira ho bhanera jawaf dinu.",
+        "input": "Android phone ma memory kasari optimize garne?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya technology ya mobile expert ko sahayata linu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "Nepal ma kun kun temple UNESCO world heritage site ma cha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya UNESCO ya tourism website ma jaankari khojnu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ko bahira cha bhanera jawaf dinu.",
+        "input": "Nepal ma IT sector ma sabai bhanda dherai job opportunities kahaan cha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya IT industry ya job portal website hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope ma chaina bhanera user lai jawab dinu.",
+        "input": "Nepal ko sabai bhanda dherai kuraune nadi kun ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya geography ya environment sambandhi source hernu hola."
+    },
+    {
+        "instruction": "Prashna e-commerce sambandhit chaina bhanera jawaf dinu.",
+        "input": "Space ma gravity kasari kaam garcha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya science ya physics related source ko sahayata linu hola."
+    },
+    {
+        "instruction": "E-commerce scope bahira ko prashna bhanera bujhai jawab dinu.",
+        "input": "Nepal ma mobile network coverage sabai bhanda dherai kun provider ko cha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya telecom provider ko website hernu hola."
+    },
+    {
+        "instruction": "Yedi user ko prashna e-commerce sambandhit chaina, tehi anusaar jawab dinu.",
+        "input": "Nepali riti-ribaj anusar tika lagaaune best time kahile ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya astrologer ya calendar app hernu hola."
+    },
+    {
+        "instruction": "Yo e-commerce topic sanga sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "Nepal ma green energy use kasari badhauna sakincha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya renewable energy expert sanga sampark garnu hola."
+    },
+    {
+        "instruction": "Prashna e-commerce sanga sambandhit chaina bhanera user lai bujhai dinu.",
+        "input": "Himalayan mountains ma snow leopard kun area ma dherai paaincha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya wildlife ya conservation website hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope bahira prashna ho bhanera jawaf dinu.",
+        "input": "Manche le stress management kasari garna sakchha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya mental health expert ya wellness source hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic sanga related chaina bhanera jawab dinu.",
+        "input": "Nepali lok git ko sabai bhanda purano singer ko naam ke ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya music history related website hernu hola."
+    },
+    {
+        "instruction": "Prashna e-commerce sambandhit chaina bhanera bujhai jawab dinu.",
+        "input": "Nepal ma kun season ma trekking garna sabai bhanda ramailo huncha?",
+        "response": "Yo prashna e-commerce sambandhit chaina. Kripaya trekking guide ya travel agency sanga sampark garnu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma pardaina bhanera jawab dinu.",
+        "input": "Kathmandu ma historic monuments kasari conserve garna sakchha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya heritage conservation expert ko sahayata linu hola."
+    },
+    {
+        "instruction": "E-commerce topic sanga sambandhit na huda user lai jawab dinu.",
+        "input": "Nepal ma free education kasari implement garna sakincha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya education policy expert ya government website hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce sambandhit hoina bhanera bujhai dinu.",
+        "input": "Nepal ma agriculture ko productivity kasari badhauna sakincha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya agriculture expert ya government programs hernu hola."
+    },
+    {
+        "instruction": "E-commerce ko topic hoina bhanera jawab dinu.",
+        "input": "Nepali literature ma sabai bhanda prasiddha kavi ko naam ke ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya literature related source ma khojnu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce scope ko bahira ho bhanera bujhayera jawab dinu.",
+        "input": "Mars planet ma kun element sabai bhanda dherai cha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya astronomy ya planetary science ko sahayata linu hola."
+    },
+    {
+        "instruction": "Prashna e-commerce sambandhit hoina bhanera user lai bujhai dinu.",
+        "input": "Pokhara ma street food sabai bhanda best kahaan cha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya local food guide ya blogs hernu hola."
+    },
+    {
+        "instruction": "Yo user ko prashna e-commerce scope bhitra chaina bhanera jawab dinu.",
+        "input": "Nepal ma kun language sabai bhanda dherai manche le bolchan?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya linguistic ya census related source ma khojnu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit chaina bhanera spashta garera jawab dinu.",
+        "input": "Nepali calendar anusar ajako tithi ke ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya Nepali calendar ya app hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bahira ho bhanera user lai bujhai dinu.",
+        "input": "Nepal ma kun city sabai bhanda cleanest cha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya urban development ya environment related source hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawaf dinu.",
+        "input": "Nepal ko history ma sabai bhanda mahan king ko naam ke ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya history books ya official records ma khojnu hola."
+    },
+    {
+        "instruction": "E-commerce scope ko bahira prashna ho bhanera bujhai jawab dinu.",
+        "input": "Nepal ma sabai bhanda popular trekking route kun ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya trekking agency ya travel blogs hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce sanga sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "Nepal ma minimum wage kati cha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya government ya labor department ko website hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera jawaf dinu.",
+        "input": "Nepali songs ko sabai bhanda trending chart kasari herna sakincha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya music streaming platform ya entertainment websites ma khojnu hola."
+    },
+    {
+        "instruction": "Yo e-commerce topic sanga related chaina bhanera user lai bujhai dinu.",
+        "input": "Nepal ma water resources kasari sustainable banayaune?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya environment ya policy expert sanga sampark garnu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera jawaf dinu.",
+        "input": "Nepali sahitya ma sabai bhanda prasiddha book kun ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya literature related website ya library ma khojnu hola."
+    },
+    {
+        "instruction": "E-commerce scope ko bahira ko prashna ho bhanera user lai jawaf dinu.",
+        "input": "Nepal ma IT park kahaan haru ma cha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya IT sector ya government website ma jaankari khojnu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce sambandhit chaina bhanera bujhai jawab dinu.",
+        "input": "Mount Everest summit garna ko lagi average cost kati huncha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya trekking ya expedition agency sanga sampark garnu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit prashna chaina bhanera user lai bujhai dinu.",
+        "input": "Nepal ko sabai bhanda ramro engineering university kun ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya education consultant ya university ranking website hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope ko bahira ho bhanera user lai jawab dinu.",
+        "input": "Nepal ma dherai jaaso kathmandu ma pollution kasari control garna sakincha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya environmentalist ya urban planning experts sanga sampark garnu hola."
+    },
+    {
+        "instruction": "E-commerce scope bahira prashna ho bhanera spashta garera jawab dinu.",
+        "input": "Nepali flag design ko meaning kasari explain garna sakincha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya official government documents ya encyclopedia ma khojnu hola."
+    },
+    {
+        "instruction": "E-commerce topic ma chaina bhanera spashta bujhai dinu.",
+        "input": "Nepal ma climate change ko effect kasto cha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya environmental research ya reports ma khojnu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "Nepali film industry ma sabai bhanda famous actor ko naam ke ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya entertainment news ya industry sources ma khojnu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera jawab dinu.",
+        "input": "Nepal ma renewable energy ko kun kun option available cha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya energy sector ko website ya expert ko sahayata linu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce topic ma pardaina bhanera jawab dinu.",
+        "input": "Nepal ma sabai bhanda popular tourist destination kun ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya tourism board ya travel agency sanga sampark garnu hola."
+    },
+    {
+        "instruction": "E-commerce topic bahira ko prashna ho bhanera spashta garera jawab dinu.",
+        "input": "Nepal ma youth unemployment rate kati cha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya government statistics ya labor department website hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "Moon ma human settlement kasari sambhav cha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya space exploration ya NASA ko website hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sanga sambandhit chaina bhanera bujhai jawab dinu.",
+        "input": "Best way to learn programming language k ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya online coding platform ya tutorials hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "Weight loss ko lagi best diet plan ke ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya health professional ya nutritionist sanga sampark garnu hola."
+    },
+    {
+        "instruction": "Prashna e-commerce sambandhit hoina bhanera spashta bujhai dinu.",
+        "input": "Car ko engine oil change garne best time kati ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya vehicle maintenance manual ya mechanic sanga sampark garnu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce sambandhit chaina bhanera jawab dinu.",
+        "input": "World War II ko main cause ke ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya history books ya educational resources ma khojnu hola."
+    },
+    {
+        "instruction": "E-commerce topic ma chaina bhanera spashta jawab dinu.",
+        "input": "Stock market ma invest garna beginner ko lagi k garna parcha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya financial advisor ya investment platform hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera user lai jawab dinu.",
+        "input": "Global warming reduce garna kun kun steps important cha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya climate change experts ya environmental resources ma khojnu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce sanga sambandhit chaina bhanera user lai bujhai dinu.",
+        "input": "Artificial intelligence kasari kaam garcha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya AI related technical resources ya experts sanga sampark garnu hola."
+    },
+    {
+        "instruction": "E-commerce topic sanga related chaina bhanera jawab dinu.",
+        "input": "Einstein ko theory of relativity kasari explain garna sakincha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya physics textbook ya online science platforms ma khojnu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera jawab dinu.",
+        "input": "Photography beginner ko lagi best camera kun ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya photography blogs ya reviews hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "Fitness ko lagi daily routine kasto hunu parcha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya fitness trainer ya health guide sanga sampark garnu hola."
+    },
+    {
+        "instruction": "Prashna e-commerce sanga sambandhit chaina bhanera spashta garera jawab dinu.",
+        "input": "Chess ma sabai bhanda dherai jeetne player ko naam ke ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya chess federation ya sports websites hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope bahira ko prashna ho bhanera jawab dinu.",
+        "input": "Plant growth ko lagi sabai bhanda effective fertilizer kun ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya agricultural expert ya gardening resources ma khojnu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic bhitra chaina bhanera user lai jawab dinu.",
+        "input": "Airplane fly kasari garcha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya aerodynamics ya aviation related sources ma khojnu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma pardaina bhanera jawab dinu.",
+        "input": "World Cup football ma sabai bhanda dherai goal score garne player ko naam ke ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya sports news ya football statistics website hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "Guitar sikna ko lagi kun online platform best ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya music learning platforms ya tutorial websites hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce sambandhit hoina bhanera user lai jawab dinu.",
+        "input": "Best-selling novels of all time ko list kahaan paaincha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya book review websites ya literary sources ma khojnu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "Meditation ko benefits ke ke huncha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya wellness expert ya meditation resources hernu hola."
+    },
+    {
+        "instruction": "Prashna e-commerce scope ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "Traveling ko lagi cheapest time of the year kahile ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya travel guide ya airfare comparison websites hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ma chaina bhanera user lai jawab dinu.",
+        "input": "Human brain ko sabai bhanda challenging function ke ho?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Isko lagi neuroscience textbook ya research articles hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "Space exploration ma AI ko role ke ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya space technology ya AI related resources consult garnu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "Fitness ko lagi intermittent fasting kasari kaam garcha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Kripaya nutritionist ko suggestion linu hola ya health blogs hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "Learning new language ko sabai bhanda effective method ke ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Language learning apps ya online courses ko sahara linu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "World history ma sabai bhanda mahatvako invention ke ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Kripaya history books ya educational documentaries hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "Photography lighting basics kasari sikna sakincha?",
+        "response": "Yo e-commerce sambandhit hoina. Photography tutorials ya workshops attend garnu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "Electric cars ko battery lifespan kati huncha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Automotive industry reports ya manufacturer ko website hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera bujhai jawab dinu.",
+        "input": "Music theory ma beginner le ke bata suru garnu parcha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Online music classes ya local teacher sanga suru garnu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit prashna chaina bhanera jawab dinu.",
+        "input": "Dogs training garna sabai bhanda sajilo tips ke ho?",
+        "response": "Yo e-commerce sambandhit hoina. Dog trainer ya animal behavior expert ko suggestion linu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "AI ko ethics ma discuss garna important aspect ke ke ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Ethical AI ko resources ya academic papers hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ma chaina bhanera spashta garera jawab dinu.",
+        "input": "Blockchain technology kasari kaam garcha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Blockchain ko detailed guide ya tutorials hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera spashta bujhai dinu.",
+        "input": "Cooking ma beginner ko lagi simple recipe suggestions ke ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Cooking apps ya recipe blogs ko sahara linu hola."
+    },
+    {
+        "instruction": "Prashna e-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "Meditation sikna beginner ko lagi sabai bhanda ramro method ke ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Meditation apps ya guided videos hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "Quantum computing ko basics kasari sikna sakincha?",
+        "response": "Yo e-commerce sambandhit prashna hoina. Science journals ya introductory courses join garnu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce sambandhit hoina bhanera user lai jawab dinu.",
+        "input": "Fitness tracker device ma sabai bhanda accurate option kun ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Fitness tracker reviews ya tech blogs hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "Movie industry ma filmmaking sikna ko lagi best school kun ho?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Film school directories ya alumni ko reviews hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "Online privacy secure garna ko lagi ke garna parcha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Cybersecurity experts ya privacy-related resources consult garnu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ko bahira ho bhanera jawab dinu.",
+        "input": "Painting sikna beginner ko lagi kasto tools use garna parcha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Painting tutorials ya art supply reviews hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera spashta garera jawab dinu.",
+        "input": "Social media ma sabai bhanda effective marketing kasari garna sakincha?",
+        "response": "Yo prashna e-commerce sambandhit hoina. Digital marketing courses ya online guides hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "Human brain ko sabai bhanda challenging function ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya neuroscience ya research materials hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "Space exploration ma AI ko role ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya space technology ya AI related resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "Fitness ko lagi intermittent fasting kasari kaam garcha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope ma chaina. Kripaya nutritionist ko guidance linu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "Learning new language ko sabai bhanda effective method ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Language learning apps ya online courses hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "World history ma sabai bhanda mahatvako invention ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya history books ya documentaries hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "Photography lighting basics kasari sikna sakincha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope ma chaina. Photography tutorials ya workshops hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "Electric cars ko battery lifespan kati huncha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya automotive reports ya manufacturer ko website hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera bujhai jawab dinu.",
+        "input": "Music theory ma beginner le ke bata suru garnu parcha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope ma chaina. Music theory books ya online tutorials hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit prashna chaina bhanera jawab dinu.",
+        "input": "Dogs training garna sabai bhanda sajilo tips ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope ma chaina. Dog trainer ko advice linu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "AI ko ethics ma discuss garna important aspect ke ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Ethical AI ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ma chaina bhanera spashta garera jawab dinu.",
+        "input": "Blockchain technology kasari kaam garcha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Blockchain tutorials ya guides hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera spashta bujhai dinu.",
+        "input": "Cooking ma beginner ko lagi simple recipe suggestions ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya cooking apps ya recipe books hernu hola."
+    },
+    {
+        "instruction": "Prashna e-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "Meditation sikna beginner ko lagi sabai bhanda ramro method ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Meditation apps ya guided sessions hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "Quantum computing ko basics kasari sikna sakincha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Quantum computing resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce sambandhit hoina bhanera user lai jawab dinu.",
+        "input": "Fitness tracker device ma sabai bhanda accurate option kun ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Fitness tracker reviews hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "Movie industry ma filmmaking sikna ko lagi best school kun ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Film schools ko reviews hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "Online privacy secure garna ko lagi ke garna parcha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Cybersecurity guides hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ko bahira ho bhanera jawab dinu.",
+        "input": "Painting sikna beginner ko lagi kasto tools use garna parcha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Painting tools ko reviews hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera spashta garera jawab dinu.",
+        "input": "Social media ma sabai bhanda effective marketing kasari garna sakincha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Digital marketing resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "Global warming ko lagi sabai bhanda effective solution ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environmental experts ya climate change resources hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "Human evolution ko timeline kasari define garincha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya anthropology ya history related books hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "Photography composition ko basic rules ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya photography tutorials ya art resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "Himalayan mountains ko highest peak kun ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya geography books ya online sources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "Yoga ko regular practice le kasari mental health improve garcha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya yoga experts ya wellness guides hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "Best way to improve memory capacity ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Memory enhancement techniques ya cognitive psychology ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "Artificial intelligence ko applications kasari day to day life ma use garna sakincha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. AI applications ko barema articles ya technology experts ko advice hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera bujhai jawab dinu.",
+        "input": "Deep sea exploration ko technology kasari kaam garcha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya marine technology ya exploration resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera jawab dinu.",
+        "input": "How does cryptocurrency work?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Cryptocurrency ko barema educational articles ya experts ko opinion hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "Best way to learn data science for beginners ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Data science courses ya online platforms hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "Bitcoin ko mining kasari garincha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Bitcoin mining ko barema online guides ya tutorials hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "Space travel ko lagi required technology ke ke ho?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya space agencies ko resources ya related articles hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "How can renewable energy contribute to global sustainability?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Renewable energy ko benefits ya experts ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "Time management skills kasari improve garna sakincha?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Time management workshops ya books hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What is the importance of biodiversity conservation?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya biodiversity conservation experts ko suggestions hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "How does virtual reality work in gaming?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya virtual reality gaming resources ya tech blogs hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What are the benefits of a plant-based diet?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Plant-based diet ko barema health professionals ya nutritionists ko opinions hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ko bahira ho bhanera jawab dinu.",
+        "input": "How do black holes form?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya astronomy ya astrophysics ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What are the benefits of meditation for mental clarity?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya meditation experts ya mental health resources hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "How do volcanic eruptions impact the environment?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Environmental science articles ya documentaries hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "How can we reduce carbon footprint in daily life?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environment-focused guides ya sustainability blogs hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What is the future of autonomous vehicles?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya automotive experts ko analysis ya research hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "What are the best practices for digital privacy?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya digital privacy resources ya cybersecurity experts ko guidance hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "How do trees help in reducing air pollution?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Environmental studies ya ecology books hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "How can renewable energy sources benefit the global economy?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya renewable energy ko economic impact study hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera bujhai jawab dinu.",
+        "input": "How does cloud computing impact businesses?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Cloud computing ko impact business sectors ma hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera jawab dinu.",
+        "input": "What are some of the major historical events of the 20th century?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. 20th century ko historical events ko barema history books ya documentaries hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "How do scientists measure the age of the Earth?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya geology ya scientific studies hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "What are the most effective ways to improve communication skills?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Communication skills ko development ko lagi workshops ya online courses hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "How does the stock market work?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya stock market ko basics sikna ko lagi investment guides ya financial experts ko advice hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "How do animals adapt to extreme climates?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya animal behavior ya climate adaptation articles hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "What are the major types of renewable energy?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Renewable energy resources ya sustainability guides hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What are the best strategies for reducing stress?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya stress management experts ko advice ya relaxation techniques hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What causes thunderstorms and how are they formed?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya meteorology ya weather science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "How does artificial intelligence impact healthcare?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. AI ko healthcare applications ko barema tech articles ya medical journals hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ko bahira ho bhanera jawab dinu.",
+        "input": "What is the significance of biodiversity in ecosystems?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya ecosystem conservation ya biodiversity ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What is the role of technology in education?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya education technology ya online learning platforms ko resources hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "How do humans contribute to deforestation?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Deforestation ko barema environmental studies ya nature conservation ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "How does the human circulatory system work?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya biology textbooks ya health experts ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What is the history behind the Great Wall of China?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. History books ya documentaries hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "What are the benefits of drinking green tea?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya health resources ya wellness blogs hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "How can we protect endangered species?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya wildlife conservation ya environmental protection ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "What is the process of photosynthesis?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya biology textbooks ya educational websites hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera bujhai jawab dinu.",
+        "input": "What are the key differences between classical and quantum physics?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya physics ko textbooks ya experts ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera jawab dinu.",
+        "input": "How does cryptocurrency mining work?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya cryptocurrency guides ya mining experts ko advice hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "What is the process of genetic mutation?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Genetic mutation ko barema biology ya genetics ko textbooks hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "How does the water cycle work?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environmental science ya geography resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What are the causes of ocean pollution?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Ocean pollution ko barema environmental reports ya nature conservation ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "What is the importance of sleep for the human body?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya health experts ya sleep science ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "How do clouds form in the sky?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya meteorology ko resources ya weather science ko guides hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What are the benefits of organic farming?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya organic farming ko benefits ya sustainable agriculture ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "How does the immune system protect the body from diseases?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya health science ya immunology ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What causes the seasons to change?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya astronomy ya earth science ko resources hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ko bahira ho bhanera jawab dinu.",
+        "input": "How is climate change affecting wildlife?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Climate change ko wildlife parne prabhav ko barema experts ko research hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "How does the human digestive system work?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya biology textbooks ya health resources hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "What is the significance of the moon in different cultures?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya cultural studies ya anthropology books hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "What are some effective techniques for learning new languages?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Language learning apps ya online language courses hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What are the primary causes of air pollution in cities?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environmental studies ya urban planning resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "What are the health benefits of yoga?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya yoga practices ya wellness resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "How do wind turbines generate electricity?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Wind energy ko barema renewable energy experts ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "What is the difference between a comet and an asteroid?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya astronomy textbooks ya online resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera bujhai jawab dinu.",
+        "input": "What causes earthquakes and how are they measured?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Earthquake science ya seismology ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera jawab dinu.",
+        "input": "How does the process of photosynthesis help in producing food?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya plant biology ya environmental science ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "How does the human eye work to see objects?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya biology textbooks ya eye health ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "How do black holes form and what are they?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya astrophysics ya space science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "How do electric cars work?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Electric vehicle technology ko barema automotive experts ko advice hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "What is the significance of the Amazon Rainforest?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environmental conservation ya geography ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "What is the role of bees in pollination?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environmental science ya ecology books hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What is the process of making chocolate?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya food science ya culinary resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "How do animals communicate with each other?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya animal behavior ya ethology ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What are the challenges of space exploration?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya space science ya exploration ko articles hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What is the role of bees in the ecosystem?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environmental science ya ecology ko resources hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "What are the key differences between weather and climate?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya meteorology ya environmental science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "How can we reduce the carbon footprint in our daily lives?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environment-friendly tips ya sustainability blogs hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What are the causes of global warming?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya climate change ko barema scientific reports ya environmental documentaries hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "How does the process of recycling work?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya recycling guides ya sustainability ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What is the importance of the ozone layer?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Ozone layer ko importance ko barema environmental science ya earth science ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "How do volcanoes affect the environment?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya geology ya environmental science ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera bujhai jawab dinu.",
+        "input": "What are the benefits of a plant-based diet?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya nutrition experts ko advice ya plant-based diet ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera jawab dinu.",
+        "input": "How does the immune system defend against viruses?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya health science ya immunology ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "How do black holes form and what is their significance?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya astrophysics ya space science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What is the role of algae in aquatic ecosystems?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya marine biology ya ecology ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "How do solar panels generate electricity?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya renewable energy ya solar energy ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "What is the impact of deforestation on wildlife?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya deforestation ko barema environmental conservation ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "How do animals adapt to extreme cold temperatures?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya animal adaptation ya climate studies ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What are the primary colors in the color wheel?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya art and design ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "How do plants respond to environmental changes?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya plant biology ya ecology ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What are the factors affecting the rate of photosynthesis?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya plant science ya biology ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What are the main causes of water pollution?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya water pollution ko barema environmental reports ya conservation resources hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "How do earthquakes form?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya geology ya seismology ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "How does the water cycle work?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environmental science ya geography ko textbooks hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What is the importance of honeybees in agriculture?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya agriculture ko experts ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "What are some common myths about nutrition?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya nutrition experts ya health science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What is the greenhouse effect?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya environmental science ya climate change ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "How do plants use sunlight for photosynthesis?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya plant biology ya environmental science ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera bujhai jawab dinu.",
+        "input": "What are the advantages of learning a second language?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya language learning resources ya educational blogs hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera jawab dinu.",
+        "input": "What is the difference between a hurricane and a tornado?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya meteorology ya weather science ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "What is DNA and how does it function in living organisms?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya biology textbooks ya genetics ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What is the significance of the International Space Station?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya space science ya space exploration ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What is the difference between a virus and bacteria?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya microbiology ya health science ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "What are the main types of clouds in the sky?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya meteorology ya earth science ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "How do plants adapt to different environments?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya plant biology ya ecology ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What are the benefits of meditation?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya mindfulness ya mental health ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What is the process of cell division?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya biology ya cellular biology ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What is the process of making paper?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya paper production ya industrial processes ko resources hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "How do the seasons change throughout the year?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya seasonal changes ya earth science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "What is the role of the sun in the ecosystem?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya ecology ya environmental science ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "How are mountains formed?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya geology ya earth science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "What are the main stages of human development?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya human development ya psychology ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What is the difference between renewable and non-renewable energy?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya renewable energy ya environmental science ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "How do animals prepare for hibernation?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya animal behavior ya biology ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera bujhai jawab dinu.",
+        "input": "What are the key principles of democracy?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya political science ya government resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera jawab dinu.",
+        "input": "How does the digestive system break down food?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya human biology ya health science ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira ho bhanera spashta garera jawab dinu.",
+        "input": "What is the process of fossil formation?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya paleontology ya earth science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "How does gravity affect the movement of planets?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya astronomy ya physics ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What is the significance of biodiversity?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya biodiversity ya environmental conservation ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "What are the different types of ecosystems?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya ecology ya environmental science ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "How do clouds form and produce rain?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya meteorology ya earth science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What is the role of enzymes in digestion?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya biology ya health science ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What are the basic principles of physics?",
+        "response": "Maaf garnu hola, yo prashna e-commerce ko scope bhitra chaina. Kripaya physics ya science ko resources hernu hola."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "How do volcanoes affect the environment?",
+        "response": "Oh, that's a great question, but unfortunately, that's not related to e-commerce. If you're interested in how volcanoes impact the environment, I'd suggest checking out some geology or environmental science resources!"
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "What are the causes of ocean pollution?",
+        "response": "Sorry, this one isn't related to e-commerce! But, if you're curious about ocean pollution, environmental organizations often have great insights on how it's caused and how we can help!"
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "How does a solar panel work?",
+        "response": "That’s an interesting question, but unfortunately, it's not about e-commerce. For more details, check out renewable energy blogs or guides to learn how solar panels harness the sun’s energy!"
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What are the main components of the atmosphere?",
+        "response": "This is a bit outside of e-commerce, but if you want to know more about the atmosphere, science textbooks or websites on meteorology would be perfect!"
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "How does the water cycle work?",
+        "response": "That sounds like an interesting topic, but it’s not related to e-commerce. If you're curious about the water cycle, I’d recommend looking at educational science materials!"
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What is DNA?",
+        "response": "Oops! That’s a biology question, not e-commerce related. But if you want to dive into it, biology books or websites"
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "How do volcanoes affect the environment?",
+        "response": "Oh, yo e-commerce ko scope ma pardaina! Tara yadi tapaai volcano haru le environment ma kasto asar garcha bhanera janna chahanu huncha bhane, geology ya environmental science ko resources hernu hola."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "What are the causes of ocean pollution?",
+        "response": "Yo prashna e-commerce ko scope bhitra chaina. Tara, ocean pollution ko barema janna chahanu huncha bhane, environmental blogs ya organizations ko resources hernu saknu hunchha."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "How does a solar panel work?",
+        "response": "Yo e-commerce ko scope ma chaina, tara solar panels ko barema janakari pauna ko lagi renewable energy resources hernu saknu hunchha."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What are the main components of the atmosphere?",
+        "response": "Yo e-commerce ko scope bhitra chaina. Tara yadi atmosphere ko components ko barema janakari chahanu huncha bhane, meteorology ya science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "How does the water cycle work?",
+        "response": "Yo prashna e-commerce sanga sambandhit chaina. Tara yadi tapai water cycle ko barema janakari chahanu huncha bhane, science textbooks ya websites ma janakari pauna saknu hunchha."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What is DNA?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina. Tara DNA ko barema janne ko lagi biology ya genetics ko resources hernu saknu hunchha."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "How do plants adapt to extreme temperatures?",
+        "response": "Yo e-commerce ko scope bhitra chaina. Tara yadi plants ko adaptation ko barema janakari chahanu huncha bhane, plant biology ya ecology ko resources hernu hola."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "How do clouds form?",
+        "response": "Yo prashna e-commerce ko scope bhitra chaina. Tara yadi clouds kasari banta ho ra kasto prakriya cha bhane, meteorology ko resources hernu saknu hunchha."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What are black holes?",
+        "response": "Yo e-commerce ko scope ma chaina. Tara black holes ko barema astrophysics ya space science ko resources hernu saknu hunchha."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What are the benefits of meditation?",
+        "response": "Yo e-commerce ko scope bhitra chaina. Tara meditation ko benefits ko barema janakari pauna ko lagi mental health ya mindfulness ko resources hernu saknu hunchha."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What is climate change?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina. Tara climate change ko barema janakari pauna ko lagi environmental science ko resources hernu saknu hunchha."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "What are the stages of human development?",
+        "response": "Yo e-commerce ko scope bhitra chaina. Tara yadi human development ko stages ko barema janakari chahanu huncha bhane, psychology ya developmental science ko resources hernu hola."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What is the process of making bread?",
+        "response": "Yo e-commerce ko scope bhitra chaina. Tara bread banaunda k garincha ra kasari garincha bhane, culinary ya cooking blogs ma janakari pauna saknu hunchha."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "What is the importance of recycling?",
+        "response": "Yo e-commerce ko scope bhitra chaina. Tara recycling ko importance ko barema janakari pauna ko lagi environmental conservation ko resources hernu saknu hunchha."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "How do volcanoes affect the environment?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "User le sodheko prashna e-commerce scope ma chaina bhanera spashta bujhai dinu.",
+        "input": "What are the causes of ocean pollution?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "E-commerce sambandhit chaina bhanera user lai jawab dinu.",
+        "input": "How does a solar panel work?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What are the main components of the atmosphere?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "E-commerce scope ma chaina bhanera spashta jawab dinu.",
+        "input": "How does the water cycle work?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What is DNA?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "How do plants adapt to extreme temperatures?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "How do clouds form?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "E-commerce scope ma pardaina bhanera spashta jawab dinu.",
+        "input": "What are black holes?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "E-commerce sanga sambandhit chaina bhanera jawab dinu.",
+        "input": "What are the benefits of meditation?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "Yo prashna e-commerce scope bhitra chaina bhanera user lai jawab dinu.",
+        "input": "What is climate change?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "User ko prashna e-commerce sambandhit hoina bhanera spashta jawab dinu.",
+        "input": "What are the stages of human development?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "E-commerce topic ko bahira cha bhanera user lai jawab dinu.",
+        "input": "What is the process of making bread?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    },
+    {
+        "instruction": "Yo prashna e-commerce topic sanga related chaina bhanera spashta garera jawab dinu.",
+        "input": "What is the importance of recycling?",
+        "response": "Maaf garnu hola, yo e-commerce ko scope bhitra chaina."
+    }
+]

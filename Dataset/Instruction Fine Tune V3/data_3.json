@@ -1,0 +1,727 @@
+[
+    {
+        "instruction": "Mero lagi ek jodi ramro kitab recommend garna.",
+        "input": "",
+        "output": "Timi Harry Potter series ra The Alchemist padhna sakchau."
+    },
+    {
+        "instruction": "Yo English sentence ko Roman Nepali ma translate gara: 'The weather is nice today.'",
+        "input": "The weather is nice today.",
+        "output": "Aja ko mausam dherai ramro cha."
+    },
+    {
+        "instruction": "Ke timi malai coffee banaune process explain garna sakchau?",
+        "input": "",
+        "output": "Ho, sabai bhanda pahile water boil gara. Tespachi coffee powder ra sugar add garera mix gara. Antim ma milk add garera taste anusar stir gara."
+    },
+    {
+        "instruction": "Yo math problem solve gara: 25 + 75.",
+        "input": "25 + 75",
+        "output": "Jawaf ho: 100."
+    },
+    {
+        "instruction": "Yo paragraph summarize gara: 'Nepal ek sundar desh ho, jaha Himalaya parbat ra anek sanskritik diversity cha.'",
+        "input": "Nepal ek sundar desh ho, jaha Himalaya parbat ra anek sanskritik diversity cha.",
+        "output": "Nepal ek sundar desh ho Himalaya ra cultural diversity ko lagi."
+    },
+    {
+        "instruction": "Ek simple dal recipe bataideu.",
+        "input": "",
+        "output": "Pahile dal clean garera boil gara. Tespachi oil ma jeera, lasun, pyaj fry gara ra dal add gara. Taste anusar nun ra masala rakhera serve gara."
+    },
+    {
+        "instruction": "Timi malai din ko suru kasari productive banne bhanera suggest garna sakchau?",
+        "input": "",
+        "output": "Sure, subha bihana early uthera exercise gara, healthy breakfast le, ra to-do list banayera din ko planning gara."
+    },
+    {
+        "instruction": "Yo code ko kaam bhanera bujhai deu: 'print(5 + 10)'",
+        "input": "print(5 + 10)",
+        "output": "Yo code le 5 ra 10 ko sum calculate garera screen ma print garxa, output 15 huncha."
+    },
+    {
+        "instruction": "Malai 'happy birthday' ko Roman Nepali translation lekhi deu.",
+        "input": "Happy Birthday",
+        "output": "Janmadin ko subhakamana."
+    },
+    {
+        "instruction": "Ek motivational quote lekhi deu.",
+        "input": "",
+        "output": "Jindagi ma success ko lagi mehnat ra lagan kehi important kura hun."
+    },
+    {
+        "instruction": "Yo data analyze garna timro suggestion cha?: [12, 15, 20, 25, 30]",
+        "input": "[12, 15, 20, 25, 30]",
+        "output": "Data ma numbers sequentially increase gardai gako jasto dekhcha, yo ek arithmetic progression ho."
+    },
+    {
+        "instruction": "Malai Nepali new year wish Roman Nepali ma banaideu.",
+        "input": "",
+        "output": "Naya barsha ko subhakamana! Timi ko din sukhad ra safal hos!"
+    },
+    {
+        "instruction": "Ek healthy diet plan suggest garna sakchau?",
+        "input": "",
+        "output": "Breakfast ma oats ra fruits, lunch ma brown rice ra vegetables, snacks ma nuts, ra dinner ma light soup ya grilled chicken suggest garna sakchhu."
+    },
+    {
+        "instruction": "Yo address ko translation gara: 'Kathmandu, Bagmati Province, Nepal'",
+        "input": "Kathmandu, Bagmati Province, Nepal",
+        "output": "Kathmandu, Bagmati Pradesh, Nepal."
+    },
+    {
+        "instruction": "Ekta romantic Nepali movie suggest gara.",
+        "input": "",
+        "output": "Prem Geet ekdam ramro romantic movie ho."
+    },
+    {
+        "instruction": "Timi malai travel tips for Nepal batauna sakchau?",
+        "input": "",
+        "output": "Ho, Nepal ma travel garna easy banauna local currency carry gara, trekking shoes lagau, ra water bottle sadhai carry gara. Weather anusar clothes linu ani local guides ko sahayog lina useful huncha."
+    },
+    {
+        "instruction": "Yo email professional banayera lekha: 'Hi, Please send me the files.'",
+        "input": "Hi, Please send me the files.",
+        "output": "Dear Sir/Madam, Kripaya required files timely send garna saknuhuncha bhane grateful huney thiye. Regards, [Tapaiko naam]."
+    },
+    {
+        "instruction": "Malai yo English sentence ko Roman Nepali ma answer garna madad gara: 'What is the capital city of Nepal?'",
+        "input": "What is the capital city of Nepal?",
+        "output": "Nepal ko capital city Kathmandu ho."
+    },
+    {
+        "instruction": "Ekta funny joke lekha.",
+        "input": "",
+        "output": "Teacher: Timro homework kata ho? Student: Dog le khayo. Teacher: Ani homework ma ke thiyo? Student: Tyo ta maile thaha pauna napugera dog le khayo!"
+    },
+    {
+        "instruction": "Weather ko update kasari check garna sakinchha? Explain gara.",
+        "input": "",
+        "output": "Weather update check garna online apps jastai Accuweather ya Google ma search garera dekhna sakinchha. Tyo sanga local radio ya news channels ma pani weather ko jankari cha."
+    },
+    {
+        "instruction": "Ekta short positive message lekhi deu.",
+        "input": "",
+        "output": "Jindagi ma jati problem aaye pani, hard work ra patience le sabai kura sambhaw huncha!"
+    },
+    {
+        "instruction": "Yo Nepali sentence ko English ma translation gara: 'Tyo ghar dherai ramro cha.'",
+        "input": "Tyo ghar dherai ramro cha.",
+        "output": "That house is very beautiful."
+    },
+    {
+        "instruction": "Euta basic Nepali grammar rule explain gara.",
+        "input": "",
+        "output": "Nepali ma gender-anusar sentence form huncha. Male ko lagi 'u' ra female ko lagi 'uni' bhanne subject use garincha. Jaise: 'u ayo' (he came) ra 'uni ayin' (she came)."
+    },
+    {
+        "instruction": "Ekta inspirational Nepali personality ko naam ra unko contribution bataideu.",
+        "input": "",
+        "output": "Pasang Lhamu Sherpa Nepal ko pahilo female Everest climber thiin, jasko contribution Nepali women empowerment ma thulo cha."
+    },
+    {
+        "instruction": "Timi malai ekta Nepali idiom ko meaning batauna sakchau?",
+        "input": "Nai nabhaye goru ko singh pani ramro.",
+        "output": "Idiom ko matlab ho, aru options chaina bhane available kura le kaam chalau."
+    },
+    {
+        "instruction": "Ekta positive quality list gara jo ek good leader ma huncha.",
+        "input": "",
+        "output": "Good leader ko qualities: honesty, communication skills, empathy, decisiveness, ra confidence."
+    },
+    {
+        "instruction": "Nepali ma 'Respect' kasari express garna sakinchha?",
+        "input": "",
+        "output": "Respect express garna 'Namaste' garera, 'tapaiko mahan kaam ko mai sarahana garchhu' bhanera ya vinamra shabdharu prayog garna sakinchha."
+    },
+    {
+        "instruction": "Ekta e-learning platform ko naam suggest gara Nepali students ko lagi.",
+        "input": "",
+        "output": "Nepali students ko lagi Midas eLearning Platform ramro ho."
+    },
+    {
+        "instruction": "Nepali music ma ekta popular song ko naam bataideu.",
+        "input": "",
+        "output": "Popular Nepali song ho: 'Resham Firiri'."
+    },
+    {
+        "instruction": "Nepal ko National Flower ko naam ra color bhanera bataa.",
+        "input": "",
+        "output": "Nepal ko National Flower ho Laliguras, jun red color ko huncha."
+    },
+    {
+        "instruction": "Euta beginner level ko meditation technique explain gara.",
+        "input": "",
+        "output": "Beginner meditation ma comfortable basera, eyes close garera deep breathing gara. Focus breathing ma rakh, aru thoughts ignore gara."
+    },
+    {
+        "instruction": "Nepal ma famous street food ko list bana.",
+        "input": "",
+        "output": "Nepal ma famous street food haru: momo, chatpate, panipuri, ra sekuwa."
+    },
+    {
+        "instruction": "Timro favorite movie explain garna lekh.",
+        "input": "",
+        "output": "Mero favorite movie ho 'Kabaddi', yo comedy ra romantic drama ho, jasma Nepali village life ra relationships depict gareko cha."
+    },
+    {
+        "instruction": "Nepali ma tihar festival explain gara.",
+        "input": "",
+        "output": "Tihar ek 5 din ko festival ho jasma Laxmi puja, bhai tika, ra lights ko celebration huncha. Yo festival family unity ko lagi important ho."
+    },
+    {
+        "instruction": "Malai Nepali political system explain garera simple words ma bujhau.",
+        "input": "",
+        "output": "Nepal ma federal democratic republic system cha jasma president head of state huncha ra prime minister head of government huncha. Nepal 7 provinces ma divide gareko cha."
+    },
+    {
+        "instruction": "Nepal ko historical site ko naam ra thaha bhaye thyo significance explain gara.",
+        "input": "",
+        "output": "Bhaktapur Durbar Square ek historical site ho. Yo UNESCO World Heritage Site pani ho, jasma ancient architecture, temples, ra Nepali history represent gareko cha."
+    },
+    {
+        "instruction": "Ekta easy Nepali proverb share gara ra tyo ko meaning explain gara.",
+        "input": "",
+        "output": "'Haati ayo, haati ayo, fuskyo' ko matlab ho, dherai hype banaune kura ant ma meaningless hun sakcha."
+    },
+    {
+        "instruction": "Yo question ko answer de: 'Nepal ma kati jana provinces cha?'",
+        "input": "Nepal ma kati jana provinces cha?",
+        "output": "Nepal ma 7 ota provinces cha."
+    },
+    {
+        "instruction": "Nepal ma tourist haru ko lagi sabai bhanda ramro trekking route ko naam bata.",
+        "input": "",
+        "output": "Tourist haru ko lagi Annapurna Circuit trekking route dherai popular cha."
+    },
+    {
+        "instruction": "Timro Nepali traditional dress ma favorite item explain gar.",
+        "input": "",
+        "output": "Mero favorite Nepali traditional dress item ho 'Daura Suruwal', jun male ko traditional outfit ho."
+    },
+    {
+        "instruction": "Nepali ma 'Environment Protection' ko importance lekha.",
+        "input": "",
+        "output": "Environment protection important ho kinabhane yo hamro natural resources, animals, ra human health ko lagi necessary cha."
+    },
+    {
+        "instruction": "Euta motivational Nepali phrase lekhi deu.",
+        "input": "",
+        "output": "'Asa gardaiy gaye ko manchhe ko sadhai raah niskincha.'"
+    },
+    {
+        "instruction": "Nepal ma popular traditional food dish suggest gara.",
+        "input": "",
+        "output": "Nepal ko popular traditional dish ho Dal Bhat Tarkari."
+    },
+    {
+        "instruction": "Ek din ma productive kasari hunu? Simple steps ma lekha.",
+        "input": "",
+        "output": "1. Subha bihana early uthera planning gara. 2. Clear goal set gara. 3. Break leu, overwork nagara. 4. Prioritize kaam important kura le start garera."
+    },
+    {
+        "instruction": "Nepali culture ma Dashain festival ko importance explain gara.",
+        "input": "",
+        "output": "Dashain Nepali culture ma sabai bhanda thulo festival ho. Family gathering, tika, ra jamara ko rituals le unity represent garcha."
+    },
+    {
+        "instruction": "Yo Nepali sentence ko Roman Nepali ma spelling correct gara: 'Yo yatra ko suru ho, hoina antya.'",
+        "input": "Yo yatra ko suru ho, hoina antya.",
+        "output": "Yo yatra ko suruwat ho, hoina antya."
+    },
+    {
+        "instruction": "Timi kasari ek sustainable lifestyle lead garna sakchau? Bataideu.",
+        "input": "",
+        "output": "Sustainable lifestyle lead garna reuse and recycle gara, single-use plastic avoid gara, local products support gara, ra energy-saving tips follow gara."
+    },
+    {
+        "instruction": "Timro Nepali movie industry ko future ko barema opinion share gara.",
+        "input": "",
+        "output": "Nepali movie industry ma creative content ra international-level production le bright future possible cha."
+    },
+    {
+        "instruction": "Nepali alphabet ko Roman ma 5 vowel letters lekha.",
+        "input": "",
+        "output": "Nepali alphabet ko vowels Roman ma: a, aa, i, ii, u."
+    },
+    {
+        "instruction": "Nepali youth generation ko sabai bhanda common issue bata ra solution suggest gara.",
+        "input": "",
+        "output": "Common issue ho unemployment. Solution ho skill development ko lagi vocational training programs expand garnu ra entrepreneurship promote garnu."
+    },
+    {
+        "instruction": "Nepal ma mobile payment kasari popular bhaeko cha? Explain gara.",
+        "input": "",
+        "output": "Nepal ma eSewa, Khalti jasta digital wallets le online payment easy banako cha. Pandemic pachhi digital transactions ko demand ajha badeko cha."
+    },
+    {
+        "instruction": "Timro sabai bhanda manparne Nepali location ko barema describe gara.",
+        "input": "",
+        "output": "Pokhara mero sabai bhanda manparne location ho. Yo sundar lakes jastai Phewa Lake ra Himalaya ko view ko lagi famous cha."
+    },
+    {
+        "instruction": "Nepali ma good sleep ko lagi 3 tips lekha.",
+        "input": "",
+        "output": "1. Sadhai same time ma sut. 2. Sleep ko aghadi phone ya screen avoid gara. 3. Light dinner khayera relax gara."
+    },
+    {
+        "instruction": "Yo English sentence ko meaning bata: 'Actions speak louder than words.'",
+        "input": "Actions speak louder than words.",
+        "output": "Yo ko meaning ho, kura bhanda kaam ko impact badhi huncha."
+    },
+    {
+        "instruction": "Nepali language ma polite ways ma kasari help maagnu sakinchha?",
+        "input": "",
+        "output": "Polite way ma 'Kripaya malai yo ma sahayog garna sakchhau?' ya 'Ma thoda madad pauna sakchhu?' bhanera help maagna sakchhau."
+    },
+    {
+        "instruction": "Nepal ma popular adventure activities ko naam lekha.",
+        "input": "",
+        "output": "Popular adventure activities Nepal ma: trekking, paragliding, rafting, bungee jumping, ra mountaineering."
+    },
+    {
+        "instruction": "Ekta Nepali mythological story ko short summary gara.",
+        "input": "",
+        "output": "Manakamana Devi ko katha ek rani ko chha, jun unko wish-fulfilling power ko karan le famous cha. Unko mandir Gorkha ma cha, jun pilgrimages ko lagi important huncha."
+    },
+    {
+        "instruction": "Nepali ma ekta good work ethic ko 3 examples bata.",
+        "input": "",
+        "output": "1. Time ma kaam sakne habit. 2. Har din mehnat ra dedication le kaam garnu. 3. Teamwork ma respect ra cooperation dekhau."
+    },
+    {
+        "instruction": "Timi kasari ekta clear communication karna sakchhau? Bataideu.",
+        "input": "",
+        "output": "Clear communication ko lagi simple language use gara, directly kura gar, ra actively sunera feedback dina ready hunu."
+    },
+    {
+        "instruction": "Nepal ma natural resources ko utilization kasari sudharna sakinchha? Explain gara.",
+        "input": "",
+        "output": "Natural resources sudharna sustainable policies implement garnu parcha, local community ko involvement le efficient use garna sakinchha, ra technology ko sahayog linu parcha."
+    },
+    {
+        "instruction": "Nepali language ko importance worldwide context ma explain gara.",
+        "input": "",
+        "output": "Nepali language worldwide context ma important ho kinabhane diaspora community le use garcha, tourism industry ko lagi useful huncha, ra ancient literature ko preservation ko lagi."
+    },
+    {
+        "instruction": "Ekta healthy Nepali snack recipe bata.",
+        "input": "",
+        "output": "Healthy Nepali snack ko lagi roasted makai (corn) ko recipe bana: Makai roast gara, nun rakhera halka butter ma mix gara."
+    },
+    {
+        "instruction": "Nepali culture ma elders lai kasari respect garinchha?",
+        "input": "",
+        "output": "Elders lai respect garna 'Namaste' ya 'Pranam' garincha, uniharulai vinamra bhaab le bolincha, ra unko advice manincha."
+    },
+    {
+        "instruction": "Nepali ko sabai bhanda thulo festival ko naam ra time explain gara.",
+        "input": "",
+        "output": "Dashain sabai bhanda thulo festival ho, yo September-October ko time ma parcha ra 15 din samma celebrate garincha."
+    },
+    {
+        "instruction": "Nepal ma hydropower project ko importance explain gara.",
+        "input": "",
+        "output": "Hydropower projects Nepal ko energy independence ko lagi important hun, electricity export le economy sudharcha, ra renewable energy source ho."
+    },
+    {
+        "instruction": "Timro sabai bhanda memorable trip ko barema 3 sentence ma lekha.",
+        "input": "",
+        "output": "Pokhara ma mero sabai bhanda memorable trip bhayo. Mero friends sanga boating garera sunrise herna gayeko thiye. Yo trip ko memories ajhai pani special lagcha."
+    },
+    {
+        "instruction": "Nepali ma ekta short poem compose gara.",
+        "input": "",
+        "output": "Ghaam ko kiran ujyalo din, \nChiso hawa ma mitho chin. \nNepali dharti ko sundarta, \nHamesha rahos yo pratibimba."
+    },
+    {
+        "instruction": "Nepali sports ko ekta achievement explain gara.",
+        "input": "",
+        "output": "Nepal ko cricket team le ICC World Cup Qualifier ma dherai ramro performance diyeko thiyo, jun national pride ko kura ho."
+    },
+    {
+        "instruction": "Ekta environmental problem ra tesko solution bata Nepal ko context ma.",
+        "input": "",
+        "output": "Deforestation ek major problem ho. Solution ma community forests promote garna, plantation programs badhauna, ra illegal logging control garna parcha."
+    },
+    {
+        "instruction": "Nepal ma ajkal ko education system ko ekta challenge lekha.",
+        "input": "",
+        "output": "Nepali education system ma practical learning ko kami ek thulo challenge ho, kina bhane theoretical knowledge le matrai focus gareko cha."
+    },
+    {
+        "instruction": "Ekta creative Nepali dish suggest gara jo unique ho.",
+        "input": "",
+        "output": "Newari cuisine ma yomari ek unique dish ho, jun sweet stuffing ra rice dough le bancha."
+    },
+    {
+        "instruction": "Yo question ko Roman Nepali ma answer gara: 'What is 12 divided by 4?'",
+        "input": "What is 12 divided by 4?",
+        "output": "Jawaf ho: 3."
+    },
+    {
+        "instruction": "Timro life ma kasari self-improvement ko lagi daily routine banauna sakchhau?",
+        "input": "",
+        "output": "Daily routine ko lagi subha exercise gar, new skill sik, positive books padh, ra din ko ant ma reflection gar."
+    },
+    {
+        "instruction": "Nepali students ko lagi ekta study technique suggest gara.",
+        "input": "",
+        "output": "Pomodoro technique use garna useful huncha, 25 minutes study ra 5 minutes ko break le productivity badhcha."
+    },
+    {
+        "instruction": "Timi kasari online safety ko lagi tips dina sakchhau?",
+        "input": "",
+        "output": "Online safety ko lagi strong passwords use gara, unknown links ma click nagara, ra two-factor authentication enable gara."
+    },
+    {
+        "instruction": "Nepali music ko ekta modern trend explain gara.",
+        "input": "",
+        "output": "Nepali music ma ajkal fusion style popular cha, jasma traditional Nepali instruments ra modern beats combine gareko huncha."
+    },
+    {
+        "instruction": "Nepal ma tourism promote garna ka lagi timro idea share gara.",
+        "input": "",
+        "output": "Tourism promote garna local culture ko digital marketing garnu parcha, travel-friendly infrastructure develop garna parcha, ra international campaigns ma focus garna parcha."
+    },
+    {
+        "instruction": "Ekta short Nepali joke share gara.",
+        "input": "",
+        "output": "Doctor: Timro blood test ko report ma caffeine nai caffeine cha! Patient: Aba chai coffee banda garnu parcha? Doctor: Ho, aba tea start garna parcha!"
+    },
+    {
+        "instruction": "Nepali ma ekta 5-minute morning workout routine suggest gara.",
+        "input": "",
+        "output": "1. 1 minute jumping jacks gar. 2. 1 minute plank hold gar. 3. 1 minute squats gar. 4. 1 minute push-ups gar. 5. 1 minute stretching gar."
+    },
+    {
+        "instruction": "Nepali ma ekta good study habit ko barema bata.",
+        "input": "",
+        "output": "Good study habit ho daily fixed time ma padhne routine banaune, distractions avoid garne, ra short breaks liera padne."
+    },
+    {
+        "instruction": "Nepali language sikna ko lagi ekdam beginner-friendly method suggest gara.",
+        "input": "",
+        "output": "Beginners ko lagi Nepali language sikna flashcards use garna useful huncha, basic phrases daily bolna practice gar, ra Nepali songs sunera pronunciation sikna sakinchha."
+    },
+    {
+        "instruction": "Nepal ma road safety improve garna ke tips dina sakinchha?",
+        "input": "",
+        "output": "1. Traffic rules strictly enforce gar. 2. Road signs clear rakha. 3. Pedestrian crossings visible bana. 4. Public awareness campaigns suru gar."
+    },
+    {
+        "instruction": "Nepali ma ekta quick and healthy dinner recipe lekha.",
+        "input": "",
+        "output": "Quick ra healthy dinner ko lagi steamed vegetables, grilled chicken, ra brown rice combination ramro huncha."
+    },
+    {
+        "instruction": "Nepali economy sudharna kasari entrepreneurship promote garna sakinchha?",
+        "input": "",
+        "output": "Entrepreneurship promote garna youth-focused training programs suru gar, startups ko lagi loans ra grants provide gar, ra local products ko marketing ma help gar."
+    },
+    {
+        "instruction": "Nepali proverb ko example dinus ra tesko matlab explain garnus.",
+        "input": "",
+        "output": "'Bato birayo bhanera gaai biraudaina' ko matlab ho, ek choti galti bhayo bhanera hamesha afno identity ya quality change hudaina."
+    },
+    {
+        "instruction": "Nepali traditional festivals ma eco-friendly practices promote garna kasari sakinchha?",
+        "input": "",
+        "output": "Eco-friendly practices ko lagi plastic ko jagah reusable decorations use gar, natural colors le tika bana, ra tree plantation campaigns suru gar Dashain-Tihar ko samay ma."
+    },
+    {
+        "instruction": "Nepali ma ekta inspirational story bata.",
+        "input": "",
+        "output": "Pasang Lhamu Sherpa ko story ek inspiration ho, jun ma uniharu Nepal ki pahilo female mountaineer hun jasma Everest summit gare. Unle hami sabailai dream chase garna sikai diyen."
+    },
+    {
+        "instruction": "Nepali students ko lagi stress manage garna 3 easy techniques suggest gara.",
+        "input": "",
+        "output": "1. Daily meditation ya yoga gar. 2. Time management ma kaam garera workload minimize gar. 3. Hobbies ma time spend garera refresh feel gar."
+    },
+    {
+        "instruction": "Nepali literature ko ekta famous writer ko naam ra unko karya ko naam mention gara.",
+        "input": "",
+        "output": "Famous Nepali writer ho Laxmi Prasad Devkota, ra unko karya 'Muna Madan' dherai prasiddha cha."
+    },
+    {
+        "instruction": "Nepal ko current energy crisis solve garna ke steps linu parcha?",
+        "input": "",
+        "output": "Energy crisis solve garna renewable sources ma investment gar, energy conservation awareness campaigns suru gar, ra cross-border energy partnerships expand gar."
+    },
+    {
+        "instruction": "Ekta 2-minute relaxation exercise ko steps suggest gara.",
+        "input": "",
+        "output": "1. Comfortable position ma base, eyes close gar. 2. Deep breath in liera 5 seconds samma hold gar. 3. Slowly exhale gar, yo process 4-5 choti repeat gar."
+    },
+    {
+        "instruction": "Nepali youth ko entrepreneurship ma interest badhauna ke campaigns effective huncha?",
+        "input": "",
+        "output": "Entrepreneurship ma interest badhauna startup success stories ko events, mentorship programs, ra innovation competitions dherai effective huncha."
+    },
+    {
+        "instruction": "Nepal ma education inequality reduce garna kasari sakinchha?",
+        "input": "",
+        "output": "Remote areas ma access sudharna online education platforms use garna sakinchha, free educational resources provide gar, ra equal scholarship opportunities dina parcha."
+    },
+    {
+        "instruction": "Nepali traditional art form ko ekta example ra tesko importance explain gara.",
+        "input": "",
+        "output": "Nepali traditional art form ko example ho Paubha painting, jun Buddhist culture ko visual representation ho ra spiritual significance hold garcha."
+    },
+    {
+        "instruction": "Nepali ma ekta morning mantra lekha jun positive energy dincha.",
+        "input": "",
+        "output": "'Mero din ramro hunecha, mero sabai kaam safal hunecha, ra sabai thau ma positivity cha.'"
+    },
+    {
+        "instruction": "Nepali ko current political challenges explain garna short summary de.",
+        "input": "",
+        "output": "Nepali ko current political challenges ma stability ko kami, frequent government changes, ra development policies ko slow implementation sammilit cha."
+    },
+    {
+        "instruction": "Nepali ma ekta motivational message lekha.",
+        "input": "",
+        "output": "'Je gare pani afno 100% dinu. Samasya haru temporary hun, tapaiko mehnat le future brighter banauchha.'"
+    },
+    {
+        "instruction": "Nepali ma weather ko barema ekta short update gar.",
+        "input": "",
+        "output": "Kathmandu ma ajkal ko weather cloudy cha, halka chiso cha ra din ma thikai ramailo temperature cha."
+    },
+    {
+        "instruction": "Ekta short travel itinerary banauna help gara Pokhara ko lagi.",
+        "input": "",
+        "output": "1. Day 1: Phewa Lake ma boating gar ra Tal Barahi Temple visit gar. 2. Day 2: Sarangkot ma sunrise her, paragliding gar. 3. Day 3: Davis Falls, Gupteshwor Cave ra Bindabasini Temple visit gar."
+    },
+    {
+        "instruction": "Nepali traditional attire ko ekta example ra tesko description de.",
+        "input": "",
+        "output": "Traditional attire ho 'Daura Suruwal' (male) ra 'Gunyo Cholo' (female). Yo attire cultural events ra special occasions ma lagaincha."
+    },
+    {
+        "instruction": "Nepali ma ekta 3-sentence motivational speech lekha.",
+        "input": "",
+        "output": "Tapaiko mehnat le ajhai dherai opportunities khulcha. Harek din ek naya chance ho afno dream chase garna. Samasya haru chai sikne abaash matra ho."
+    },
+    {
+        "instruction": "Nepali ma ekta positive social behavior explain gar.",
+        "input": "",
+        "output": "Positive social behavior ho mutual respect dekhau, jasle community ma harmony leauchha ra sabailai samanta ko bhaaw dinchha."
+    },
+    {
+        "instruction": "Nepali ma technology ko development ko ekta recent example de.",
+        "input": "",
+        "output": "Recent example ho Nepal ma digital payment systems jaise eSewa ra Khalti ko development, jasle cashless transactions promote gareko cha."
+    },
+    {
+        "instruction": "Nepali ma ekta dream job ko description lekh.",
+        "input": "",
+        "output": "Mero dream job ho software engineer banna. Flexible work environment, creativity le kaam garna inspiration dinu ra duniya ma impact garna milos bhanne soch ho."
+    },
+    {
+        "instruction": "Nepali ma ekta self-discipline ko example dinus.",
+        "input": "",
+        "output": "Self-discipline ko example ho daily exercise routine banaera consistently follow garnu, jasma excuses nakam garikanchha."
+    },
+    {
+        "instruction": "Nepal ma ajkal ko youth ma sabai bhanda popular activity k ho?",
+        "input": "",
+        "output": "Ajkal ko youth ma sabai bhanda popular activity ho social media use garne ra trekking jasto outdoor adventures ma jaana."
+    },
+    {
+        "instruction": "Ekta educational app suggest gara Nepali students ko lagi.",
+        "input": "",
+        "output": "Nepali students ko lagi MeroSchool app ramro ho, jasle online classes, study materials, ra exams preparation tools provide garcha."
+    },
+    {
+        "instruction": "Nepali ma ekta traditional food describe gar.",
+        "input": "",
+        "output": "Dal Bhat tarkari ek traditional Nepali food ho, jas ma steamed rice, lentil soup, seasonal vegetables ra achar sammilit huncha."
+    },
+    {
+        "instruction": "Nepali culture ma marriage ceremony kasari celebrate garincha? Short summary de.",
+        "input": "",
+        "output": "Nepali culture ma marriage ceremony ma rituals jastai kanyadaan, sindoor halne, ra reception party garincha, jasma dherai music ra dancing pani huncha."
+    },
+    {
+        "instruction": "Nepali ma ekta fitness-related tips de.",
+        "input": "",
+        "output": "Fitness maintain garna din ko 30 minutes walk gar, balanced diet follow gar ra sugary drinks avoid gar."
+    },
+    {
+        "instruction": "Nepali ma ekta positive habit sikna kasari start garna sakchhau?",
+        "input": "",
+        "output": "Positive habit sikna small steps le suru gar, daily consistent practice gar, ra progress track garna reminder set gar."
+    },
+    {
+        "instruction": "Nepali ma ekta startup idea propose gara.",
+        "input": "",
+        "output": "Ekta startup idea ho eco-friendly packaging products banera Nepali local market ra export ko lagi promote garne."
+    },
+    {
+        "instruction": "Nepali ma ekta quick morning routine plan gar.",
+        "input": "",
+        "output": "1. Early 6 baje uth, 2. 10-minute yoga gar, 3. Healthy breakfast kha, ra 4. Din ko priorities list bana."
+    },
+    {
+        "instruction": "Nepali wildlife ko ekta endangered species ko naam de ra usko importance explain gara.",
+        "input": "",
+        "output": "Endangered species ho Red Panda, jun Nepal ko Himalayan forests ma paaincha. Usko presence ecosystem ko balance ma madad garcha."
+    },
+    {
+        "instruction": "Nepali students ko lagi ekta good financial management tip suggest gara.",
+        "input": "",
+        "output": "Financial management ko lagi budget prepare gar, unnecessary expenses avoid gar, ra saving habits develop gar."
+    },
+    {
+        "instruction": "Nepali ma ekta mental health ko importance explain gara.",
+        "input": "",
+        "output": "Mental health ko importance ho stress handle garna, productive life lead garna ra overall wellbeing maintain garna madad garcha."
+    },
+    {
+        "instruction": "Nepali history ma significant event ko ekta short summary de.",
+        "input": "",
+        "output": "Nepal ko unification process Prithvi Narayan Shah le suru gare, jasma usle chhoto rajya harulai milaera ek united Nepal banaune kaam gare."
+    },
+    {
+        "instruction": "Nepali ma ekta personal development goal set garna example de.",
+        "input": "",
+        "output": "Personal development goal ho ek mahina ma ek naya skill sikne, jasto ki basic cooking ya new language ko basics master garna."
+    },
+    {
+        "instruction": "Nepali ma ekta effective time management tip de.",
+        "input": "",
+        "output": "Time management ko lagi priority list bana, sabai kaam important level anusar divide gar, ra distractions minimize gar."
+    },
+    {
+        "instruction": "Nepali ma ekta inspiring historical figure ko naam de ra unko contribution explain gar.",
+        "input": "",
+        "output": "Bhanu Bhakta Acharya ko contribution Nepali literature ma dherai thulo cha, uniharu le Ramayan lai Nepali ma translate garera literature popular banaye."
+    },
+    {
+        "instruction": "Nepali language sikna beginner haru ko lagi ekta 5 din ko plan bana.",
+        "input": "",
+        "output": "Day 1: Basic phrases jaise 'Namaste,' 'Tapai ko naam ke ho?' sik. Day 2: Numbers ra days of the week sik. Day 3: Daily life ma use hune sentences jaise 'Malai yo dinus' sik. Day 4: Nepali songs ya podcasts sunnu. Day 5: Learned words le short conversation practice gar."
+    },
+    {
+        "instruction": "Nepali ma ekta career planning tips de.",
+        "input": "",
+        "output": "Career planning ko lagi afno interest ra strengths identify gar, relevant skills sikne plan bana ra networking ma focus gar."
+    },
+    {
+        "instruction": "Nepal ko popular tourist spot ko naam ra why it's special explain gara.",
+        "input": "",
+        "output": "Popular spot ho Annapurna Base Camp. Yo trekking route le natural beauty, Himalayan views ra diverse culture experience garna milcha."
+    },
+    {
+        "instruction": "Nepali ma healthy diet maintain garna ko lagi tips de.",
+        "input": "",
+        "output": "1. Balanced diet kha jasma protein, carbs, ra vitamins huncha. 2. Processed food avoid gar. 3. Regular pani khanu mandatory cha."
+    },
+    {
+        "instruction": "Nepali students lai motivation dina short message lekha.",
+        "input": "",
+        "output": "Sikne process ma patience ra consistency important ho. Galti hunecha tara tyo sikne part matra ho. Tapai ko mehnat le ek din safal banauchha."
+    },
+    {
+        "instruction": "Nepali ma ekta environmental conservation ko idea propose gara.",
+        "input": "",
+        "output": "Community-level tree plantation programs suru gar, reusable products promote gar ra river clean-up campaigns organize gar."
+    },
+    {
+        "instruction": "Nepali ma ekta public speaking tips de.",
+        "input": "",
+        "output": "1. Speech ko outline clear bana. 2. Practice garera confidence develop gar. 3. Audience ko attention ma focus gara ra engaging example de."
+    },
+    {
+        "instruction": "Nepali ma ekta simple recipe lekha chai banune.",
+        "input": "",
+        "output": "1. Pani taat gar. 2. Ek chamcha chiya pati ra sugar add gar. 3. Milk add garera 5 minutes samma boil gar. 4. Strain garera serve gar."
+    },
+    {
+        "instruction": "Nepali youths lai encourage garna entrepreneurship ko barema short advice de.",
+        "input": "",
+        "output": "Small start garna timid nabanna. Afno passion lai business idea ma convert gar ra continuous learning ma focus gar."
+    },
+    {
+        "instruction": "Nepali ma ekta positive mindset maintain garna tips de.",
+        "input": "",
+        "output": "1. Gratitude practice gar. 2. Negative thoughts avoid garera solution-oriented ban. 3. Daily positive affirmations repeat gar."
+    },
+    {
+        "instruction": "Nepali movies bata ekta inspiring dialogue share gar.",
+        "input": "",
+        "output": "'Sapana dekhera sabai safal hunchha bhanne hoina, sapana ko pachi mahnat garera lagatar ko koshish le safalta aaucha.'"
+    },
+    {
+        "instruction": "Nepali ma ekta productivity tips share gar.",
+        "input": "",
+        "output": "Productivity badhauna multitasking avoid garera ek kaam ma focus gar, distraction-free environment ma kaam gar ra breaks liera energy maintain gar."
+    },
+    {
+        "instruction": "Nepal ma local business support garna ko lagi ideas suggest gara.",
+        "input": "",
+        "output": "Local products kinera promote gar, social media ma reviews share gar ra word of mouth le local entrepreneurs lai support gar."
+    },
+    {
+        "instruction": "Nepali ma ekta small savings plan ko idea de.",
+        "input": "",
+        "output": "Monthly income ko 20% saving gar. Saving account ya digital wallet ma deposit garera consistent habit develop gar."
+    },
+    {
+        "instruction": "Nepali ma ekta self-care routine describe gar.",
+        "input": "",
+        "output": "Self-care ko lagi morning ma yoga ya stretching gar, nutritious khana kha ra evening ma journaling gar."
+    },
+    {
+        "instruction": "Nepali history ma Lumbini ko importance explain gar.",
+        "input": "",
+        "output": "Lumbini Gautam Buddha ko janma sthal ho. Yo UNESCO World Heritage Site ho ra worldwide religious significance hold garcha."
+    },
+    {
+        "instruction": "Nepali ma ekta group project successfully complete garna ko lagi tips de.",
+        "input": "",
+        "output": "Group ma roles divide gar, clear timeline bana ra regular communication maintain gar."
+    },
+    {
+        "instruction": "Nepali ma ekta time waste garne habits ko example de ra teslai kasari avoid garne suggest gara.",
+        "input": "",
+        "output": "Example ho excessive social media use. Avoid garna time limit set gar ra productive activities ma focus gar."
+    },
+    {
+        "instruction": "Nepali ma ekta smart shopping tips de.",
+        "input": "",
+        "output": "1. Shopping list prepare gar. 2. Discount ra offers check gar. 3. Impulse buying avoid gar."
+    },
+    {
+        "instruction": "Nepali ma ekta good team leader ko qualities explain gara.",
+        "input": "",
+        "output": "Good team leader ko qualities ho clear communication, problem-solving skills, empathy ra team lai inspire garna sakne capacity."
+    },
+    {
+        "instruction": "Nepali ma ekta personal goal setting ko simple framework de.",
+        "input": "",
+        "output": "SMART framework use gar: Specific, Measurable, Achievable, Relevant, Time-bound goals set gar."
+    },
+    {
+        "instruction": "Nepali ma ekta quick evening snack recipe suggest gara.",
+        "input": "",
+        "output": "1. Ek bowl ma chiura rakh. 2. Piro achar mix gar. 3. Top ma onions ra lemon squeeze garera serve gar."
+    },
+    {
+        "instruction": "Nepali ma ekta funny story lekha short.",
+        "input": "",
+        "output": "Ek din teacher le Ramu lai sodhe, 'Ramayan ko writer ko naam?'. Ramu le chill voice ma bhancha, 'Sanskrit.'"
+    },
+    {
+        "instruction": "Nepali ma ekta self-improvement journey kasari suru garna sakchha explain gara.",
+        "input": "",
+        "output": "Self-improvement suru garna afno weaknesses identify gar, clear goals set gar ra small positive habits develop gar."
+    },
+    {
+        "instruction": "Nepali ma ekta public awareness campaign design garna tips de.",
+        "input": "",
+        "output": "Campaign design garna clear message define gar, social media use gar ra interactive activities organize gar."
+    }
+]

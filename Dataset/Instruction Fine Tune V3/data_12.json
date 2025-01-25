@@ -1,0 +1,487 @@
+[
+    {
+        "topic": "Culture",
+        "question": "Nepal ma parba haru kina dherai maninchha?",
+        "answer": "Nepal ma parba haru dherai maninchha kinaki yaha dherai jaati ra jatigat samudaya chan. Haru parba le uniharuko sanskriti, parampara, ra itihas lai samjhunchha. Dashain, Tihar, Chhath, Teej jasto parbaharu le mancheharu lai ekata ma lyunchha ra sanskritik gaurava jahana dinchha."
+    },
+    {
+        "topic": "Culture",
+        "question": "Nepali sanskriti ma ghar ko mahatwa ke chha?",
+        "answer": "Nepali sanskriti ma ghar ko mahatwa dherai chha. Ghar lai paribar ko kendra manaunchha ra yaha bata sanskar, sabhyata, ra parampara sikinchha. Ghar le mancheharu laai suraksha, pyar, ra samman ko bhawna dinchha."
+    },
+    {
+        "topic": "Technology",
+        "question": "Technology le Nepal ko vikas ma kasto sahayog diyeko chha?",
+        "answer": "Technology le Nepal ko vikas ma dherai sahayog diyeko chha. Internet ra mobile technology le mancheharu lai gyan ra samachar pugai diyeko chha. E-governance, online banking, ra e-commerce le Nepal ko arthik vyavastha lai dherai faida pugayeko chha."
+    },
+    {
+        "topic": "Technology",
+        "question": "Artificial Intelligence le hamro jindagi ma kasto prabhav parnechha?",
+        "answer": "Artificial Intelligence (AI) le hamro jindagi ma dherai prabhav parnechha. AI le swasthya, shiksha, ra udyog kshetra ma dherai sahayog garna sakchha. Tara yasle kehi rojgar haru hatauna sakchha bhanne chinta pani chha."
+    },
+    {
+        "topic": "Education",
+        "question": "Nepal ko shiksha vyavastha ma k kura sudharna parchha?",
+        "answer": "Nepal ko shiksha vyavastha ma dherai kura sudharna parchha. Shiksha ko quality, shikshak haru ko training, ra infrastructure lai sudharna parchha. Sathai, gareeb ra samanata ko adhar ma shiksha pugai garnu pani avashyak chha."
+    },
+    {
+        "topic": "Education",
+        "question": "Online shiksha ko faida ra haani ke ke hun?",
+        "answer": "Online shiksha ko faida ma mancheharu le ghar batai shikna sakchhan ra flexible time table hunchha. Tara haani ko roopma internet ra device ko access na hune, ra shikshak ra bidhyarthi ko bich direct interaction kam hunchha."
+    },
+    {
+        "topic": "Personal Development",
+        "question": "Safalta pauna ke ke garna parchha?",
+        "answer": "Safalta pauna lai lakshya nirdharan, mehanat, ra disha nirdesh garnu parchha. Sathai, aaphulai motivate rakhna, galti bata sikna, ra samay ko sadupyog garnu pani avashyak chha."
+    },
+    {
+        "topic": "Personal Development",
+        "question": "Jindagi ma santusti kasari pauna sakinchha?",
+        "answer": "Jindagi ma santusti pauna lai aaphno ichchha ra avashyakta ko bich ko santulan banauna parchha. Sathai, aaphno achievement lai samjhera khusi huna ra aru ko saath samuhik bhawna rakhna pani mahatwopurna chha."
+    },
+    {
+        "topic": "Culture",
+        "question": "Nepal ma parba haru kina dherai maninchha?",
+        "answer": "Nepal ma parba haru dherai maninchha kinaki yaha dherai jaati ra jatigat samudaya chan. Haru parba le uniharuko sanskriti, parampara, ra itihas lai samjhunchha. Dashain, Tihar, Chhath, Teej jasto parbaharu le mancheharu lai ekata ma lyunchha ra sanskritik gaurava jahana dinchha."
+    },
+    {
+        "topic": "Culture",
+        "question": "Nepali sanskriti ma ghar ko mahatwa ke chha?",
+        "answer": "Nepali sanskriti ma ghar ko mahatwa dherai chha. Ghar lai paribar ko kendra manaunchha ra yaha bata sanskar, sabhyata, ra parampara sikinchha. Ghar le mancheharu laai suraksha, pyar, ra samman ko bhawna dinchha."
+    },
+    {
+        "topic": "Technology",
+        "question": "Technology le Nepal ko vikas ma kasto sahayog diyeko chha?",
+        "answer": "Technology le Nepal ko vikas ma dherai sahayog diyeko chha. Internet ra mobile technology le mancheharu lai gyan ra samachar pugai diyeko chha. E-governance, online banking, ra e-commerce le Nepal ko arthik vyavastha lai dherai faida pugayeko chha."
+    },
+    {
+        "topic": "Technology",
+        "question": "Artificial Intelligence le hamro jindagi ma kasto prabhav parnechha?",
+        "answer": "Artificial Intelligence (AI) le hamro jindagi ma dherai prabhav parnechha. AI le swasthya, shiksha, ra udyog kshetra ma dherai sahayog garna sakchha. Tara yasle kehi rojgar haru hatauna sakchha bhanne chinta pani chha."
+    },
+    {
+        "topic": "Education",
+        "question": "Nepal ko shiksha vyavastha ma k kura sudharna parchha?",
+        "answer": "Nepal ko shiksha vyavastha ma dherai kura sudharna parchha. Shiksha ko quality, shikshak haru ko training, ra infrastructure lai sudharna parchha. Sathai, gareeb ra samanata ko adhar ma shiksha pugai garnu pani avashyak chha."
+    },
+    {
+        "topic": "Education",
+        "question": "Online shiksha ko faida ra haani ke ke hun?",
+        "answer": "Online shiksha ko faida ma mancheharu le ghar batai shikna sakchhan ra flexible time table hunchha. Tara haani ko roopma internet ra device ko access na hune, ra shikshak ra bidhyarthi ko bich direct interaction kam hunchha."
+    },
+    {
+        "topic": "Personal Development",
+        "question": "Safalta pauna ke ke garna parchha?",
+        "answer": "Safalta pauna lai lakshya nirdharan, mehanat, ra disha nirdesh garnu parchha. Sathai, aaphulai motivate rakhna, galti bata sikna, ra samay ko sadupyog garnu pani avashyak chha."
+    },
+    {
+        "topic": "Personal Development",
+        "question": "Jindagi ma santusti kasari pauna sakinchha?",
+        "answer": "Jindagi ma santusti pauna lai aaphno ichchha ra avashyakta ko bich ko santulan banauna parchha. Sathai, aaphno achievement lai samjhera khusi huna ra aru ko saath samuhik bhawna rakhna pani mahatwopurna chha."
+    },
+    {
+        "topic": "Environment",
+        "question": "Nepal ma paryavaran samrakshan ko lagi ke garnu parchha?",
+        "answer": "Nepal ma paryavaran samrakshan ko lagi mancheharu le jaggako mahatwa bujhna parchha. Rukh ropan, plastic ko prayog kam garnu, ra prakritik sansadhan haru ko durupyog roknu parchha. Sathai, sarkar le pani paryavaran niyam haru lai kathor banauna parchha."
+    },
+    {
+        "topic": "Environment",
+        "question": "Global warming le Nepal lai kasto prabhav parnechha?",
+        "answer": "Global warming le Nepal lai dherai prabhav parnechha. Himalaya ko himal haru pighalna thaleko chha, jasle pani ko samasya utpanna hunchha. Sathai, mausam ko parivartan le kheti ra jeevan shaili ma pani asar parnechha."
+    },
+    {
+        "topic": "Health",
+        "question": "Swastya jeevan jeerna ko lagi ke garnu parchha?",
+        "answer": "Swastya jeevan jeerna ko lagi sanchit khana khanu, nitya sharirik vyayam garnu, ra manasik swasthya ko dhyan dinu parchha. Sathai, nasa ra durvyasan bata tadha rahna pani avashyak chha."
+    },
+    {
+        "topic": "Health",
+        "question": "Nepal ma swasthya sewa ko samasya ke chha?",
+        "answer": "Nepal ma swasthya sewa ko samasya ma infrastructure ko kami, shikshit swasthya karmi haru ko abhab, ra gareebi le garda mancheharu lai ramro swasthya sewa pugai napugnu parne samasya chha."
+    },
+    {
+        "topic": "Economy",
+        "question": "Nepal ko arthik sthiti sudharna ko lagi ke garnu parchha?",
+        "answer": "Nepal ko arthik sthiti sudharna ko lagi udyogikaran, kheti ma naya technology ko prayog, ra prabasi shramik haru ko kaushal lai desh ma nai prayog garna parchha. Sathai, bhrastachar kam garnu pani avashyak chha."
+    },
+    {
+        "topic": "Economy",
+        "question": "Nepal ko prabasi shramik haru ko bhumika ke chha?",
+        "answer": "Nepal ko prabasi shramik haru le desh ko arthik vyavastha ma dherai sahayog diyeko chha. Uniharuko remittance le Nepal ko GDP ma dherai yogdan dinchha. Tara uniharuko suraksha ra samman ko lagi pani dhyan dinu parchha."
+    },
+    {
+        "topic": "Politics",
+        "question": "Nepal ko rajnitik sthiti kasari sudharna sakinchha?",
+        "answer": "Nepal ko rajnitik sthiti sudharna ko lagi naitikta, imandari, ra janata ko bichma bharosa badhauna parchha. Sathai, rajnitik dal haru le desh ko hit ma adharit nirnaya lina parchha."
+    },
+    {
+        "topic": "Politics",
+        "question": "Nepal ma samabesi sambidhan ko karyanvayan ma ke samasya chha?",
+        "answer": "Nepal ma samabesi sambidhan ko karyanvayan ma rajnitik dal haruko biprit bichar, karmachari haruko abhab, ra janata ko bichma bharosa ko kami jasto samasya haru chha."
+    },
+    {
+        "topic": "Science",
+        "question": "Prithvi ko aakarshan bal kasle karya garchha?",
+        "answer": "Prithvi ko aakarshan bal le karya garchha. Yesto bal lai gravity bhaninchha. Gravity le nai hamilai prithvi ma tikeko rakhchha ra yo bal le surya ra graha haru ko gati lai ni niyantran garchha."
+    },
+    {
+        "topic": "Science",
+        "question": "Pani kasaile baneko ho?",
+        "answer": "Pani hydrogen ra oxygen ko milan bata baneko ho. Euta pani ko molecule ma duita hydrogen ra euta oxygen atom hunchha. Yesto milan lai chemical reaction bhaninchha."
+    },
+    {
+        "topic": "Science",
+        "question": "Manche ko sharir ma oxygen ko bhumika ke ho?",
+        "answer": "Manche ko sharir ma oxygen ko bhumika dherai mahatwapurna ho. Oxygen le sharir ko sabai koshika haru lai energy dinchha. Pranabayu ma oxygen le raktako madhyam bata koshika haru ma pugchha ra energy ko utpadan garchha."
+    },
+    {
+        "topic": "History",
+        "question": "Nepal ko itihas ma Prithvi Narayan Shah ko bhumika ke ho?",
+        "answer": "Prithvi Narayan Shah le Nepal lai ekarikaran gareka thie. Uniharu le sano sano rajya haru lai ekaikrit gari Nepal ko rupma sthapana gareka thie. Uniharu ko sahas ra rajnitik chaturai le Nepal lai euta shakttishali rastra banauna sahayog diyo."
+    },
+    {
+        "topic": "History",
+        "question": "Siddhartha Gautama ko ke siddhanta thiyo?",
+        "answer": "Siddhartha Gautama, jasalai Buddha pani bhaninchha, uniharu le dukha ra dukha ko nivaran ko barema siksha diyeka thie. Uniharu ko char arya satya ra astangik marg le mancheharu lai dukha bata mukti pauna sahayog garchha."
+    },
+    {
+        "topic": "Geography",
+        "question": "Nepal ko bhugolik sthiti kasto chha?",
+        "answer": "Nepal ko bhugolik sthiti dherai bichitra chha. Yaha terai, pahad, ra himal tina kshetra haru chan. Nepal ko himalaya parbatmala duniya ko sabai bhanda unchaa parbat haru ko ghar ho, jasma sagarmatha pani chha."
+    },
+    {
+        "topic": "Geography",
+        "question": "Sagarmatha ko unchai kati chha?",
+        "answer": "Sagarmatha ko unchai 8,848.86 meter chha. Yo duniya ko sabai bhanda unchaa chuchuro ho ra yaslai Mount Everest pani bhaninchha."
+    },
+    {
+        "topic": "Philosophy",
+        "question": "Jindagi ko arth ke ho?",
+        "answer": "Jindagi ko arth haru ko anusar farak huna sakchha. Koi ko lagi jindagi bhaneko sukha ra santusti khojnu ho bhane koi ko lagi gyan ra anubhav prapta garnu ho. Jindagi ko arth aaphule nai nirdharan garna parchha."
+    },
+    {
+        "topic": "Philosophy",
+        "question": "Dharma ra adharma ko bich ko farak ke ho?",
+        "answer": "Dharma bhaneko naitikta ra satya ko marg ho bhane adharma bhaneko anyaya ra ahitkari vyavahar ho. Dharma le samaj lai ekata ra nyaya ko adhar dinchha bhane adharma le samaj ma bhrastachar ra anarchy failauchha."
+    },
+    {
+        "topic": "Astronomy",
+        "question": "Surya ko aayu kati chha?",
+        "answer": "Surya ko aayu lagbhag 4.6 billion barsha chha. Yo euta yellow dwarf star ho ra yo hamro solar system ko kendra ma chha."
+    },
+    {
+        "topic": "Astronomy",
+        "question": "Chandra prithvi bata kati tadha chha?",
+        "answer": "Chandra prithvi bata lagbhag 384,400 kilometer tadha chha. Yo prithvi ko eklotai upagraha ho ra prithvi ko gurutvakarshan le yaslai bandheko chha."
+    },
+    {
+        "topic": "Mathematics",
+        "question": "Pi (π) ko value kati ho?",
+        "answer": "Pi (π) ko value lagbhag 3.14159 ho. Yo euta irrational number ho ra yaslai circle ko circumference ra diameter ko ratio bhanera define garchha."
+    },
+    {
+        "topic": "Mathematics",
+        "question": "Zero ko icchharya ke ho?",
+        "answer": "Zero ko icchharya yo ho ki yasle kasaile pani value lai shunya banaidinchha. Zero le mathematics ma euta khaali sthan lai represent garchha ra yasle number system lai dherai sajilo banayeko chha."
+    },
+    {
+        "topic": "Biology",
+        "question": "Manche ko sharir ma sabai bhanda dherai koshika kun chha?",
+        "answer": "Manche ko sharir ma sabai bhanda dherai koshika raktako koshika haru hun. Yini haru le oxygen ra poshak tattva sharir ko sabai bhag ma puryauchhan."
+    },
+    {
+        "topic": "Biology",
+        "question": "DNA ko bhumika ke ho?",
+        "answer": "DNA (Deoxyribonucleic Acid) le manche ko sharir ko sabai janmik tathya haru lai store garchha. Yo genetic code ho jo hamro sharir ko vikas ra karya ko niyantran garchha."
+    },
+    {
+        "topic": "Physics",
+        "question": "Prakritik prakriya haru ma energy ko sanrakshan ko niyam ke ho?",
+        "answer": "Energy ko sanrakshan ko niyam bhaneko energy lai nai banai ra nashta garna sakinchha, tara yaslai euta roop bata arko roop ma matra parivartan garna sakinchha. Yahani energy ko matra saman rahunchha."
+    },
+    {
+        "topic": "Physics",
+        "question": "Light ko speed kati ho?",
+        "answer": "Light ko speed lagbhag 299,792 kilometers per second ho. Yo duniya ko sabai bhanda teji gati ho ra yasle vacuum ma gati garchha."
+    },
+    {
+        "topic": "Science",
+        "question": "Gravity le hamro life ma kasto role play garchha?",
+        "answer": "Gravity le hamro life ma euta important role play garchha. Yo force le garda nai hamile ground ma walk garna sakchhau ra planets haru afno orbit ma rahna sakchhan. Without gravity, everything would just float away."
+    },
+    {
+        "topic": "Science",
+        "question": "Water cycle kasari work garchha?",
+        "answer": "Water cycle ma pani evaporate hunchha, clouds form hunchha, ra feri precipitation ko rup ma pani jasto barsha hunchha. Yo process continuous hunchha ra yasle nai hamro planet ma pani ko balance lai maintain garchha."
+    },
+    {
+        "topic": "History",
+        "question": "Nepal ko unification kasari bhayeko thiyo?",
+        "answer": "Nepal ko unification King Prithvi Narayan Shah le gareka thie. Uniharu le small small states haru lai ekaikrit gari euta strong nation banayeka thie. Yo unification process ma diplomacy ra warfare donai use bhayeko thiyo."
+    },
+    {
+        "topic": "History",
+        "question": "Buddha ko teachings ko ke ke main points thiyo?",
+        "answer": "Buddha ko teachings ko main points ma Four Noble Truths ra Eightfold Path parnechha. Uniharu le suffering ko cause ra yasbata mukti paune bato barema siksha diyeka thie. Compassion ra mindfulness pani uniharu ko teachings ko important part ho."
+    },
+    {
+        "topic": "Geography",
+        "question": "Nepal ko climate kasto diverse chha?",
+        "answer": "Nepal ko climate ekdum diverse chha. Terai region ma tropical climate hunchha, hills ma temperate, ra Himalayas ma alpine climate hunchha. Yo diversity le Nepal lai biodiversity ko lagi rich banayeko chha."
+    },
+    {
+        "topic": "Geography",
+        "question": "Mount Everest ko height kati chha?",
+        "answer": "Mount Everest ko height 8,848.86 meters chha. Yo duniya ko highest peak ho ra yaslai climb garnu euta challenging task ho."
+    },
+    {
+        "topic": "Philosophy",
+        "question": "Karma ko concept ke ho?",
+        "answer": "Karma ko concept bhaneko hamro actions ko consequences ho. Good karma le positive results dinchha bhane bad karma le negative results dinchha. Yo concept le mancheharu lai responsible ra mindful banauna help garchha."
+    },
+    {
+        "topic": "Philosophy",
+        "question": "Happiness pauna ko lagi ke garnu parchha?",
+        "answer": "Happiness pauna ko lagi positive mindset ra gratitude practice garnu parchha. Material things bhanda pani relationships, experiences, ra personal growth le happiness dinchha. Mindfulness ra meditation pani helpful hun sakchha."
+    },
+    {
+        "topic": "Astronomy",
+        "question": "Solar system ko sabai bhanda sano planet kun ho?",
+        "answer": "Solar system ko sabai bhanda sano planet Mercury ho. Yo sun ko najik chha ra yasko surface ekdum garam ra cratered chha."
+    },
+    {
+        "topic": "Astronomy",
+        "question": "Black hole ke ho?",
+        "answer": "Black hole euta extremely dense object ho jasko gravity itno strong chha ki even light pani escape garna sakdaina. Yo massive stars ko death pachi form hunchha."
+    },
+    {
+        "topic": "Mathematics",
+        "question": "Algebra ko importance ke ho?",
+        "answer": "Algebra ko importance yo ho ki yasle mathematical problems lai solve garna help garchha. Yo equations ra variables ko use garera real-life situations lai represent garchha. Algebra le logical thinking ra problem-solving skills lai develop garchha."
+    },
+    {
+        "topic": "Mathematics",
+        "question": "Geometry ma Pythagoras theorem ke ho?",
+        "answer": "Pythagoras theorem bhaneko right-angled triangle ma hypotenuse ko square equal hunchha arko duita sides ko squares ko sum ko. Formula ho: a² + b² = c²."
+    },
+    {
+        "topic": "Biology",
+        "question": "Photosynthesis kasari work garchha?",
+        "answer": "Photosynthesis ma plants le sunlight, carbon dioxide, ra water use garera glucose ra oxygen produce garchhan. Yo process le nai plants afno food banau chhan ra oxygen hamro lagi provide garchhan."
+    },
+    {
+        "topic": "Biology",
+        "question": "Human body ko strongest muscle kun ho?",
+        "answer": "Human body ko strongest muscle masseter ho, which is the jaw muscle. Yo muscle le chewing ra biting garna help garchha."
+    },
+    {
+        "topic": "Physics",
+        "question": "Newton ko motion ko laws ke ke hun?",
+        "answer": "Newton ko motion ko laws tinwota chan: (1) Euta object afno state of rest or uniform motion ma taba samma rahchha jabaki yasma external force apply nagariyos. (2) Force equals mass times acceleration. (3) Every action ko equal ra opposite reaction hunchha."
+    },
+    {
+        "topic": "Physics",
+        "question": "Electricity kasari produce hunchha?",
+        "answer": "Electricity generators le mechanical energy lai electrical energy ma convert garchhan. Yo process ma magnets ra coils ko use hunchha. Hydro, thermal, ra wind power le pani electricity produce garna sakchha."
+    },
+    {
+        "topic": "Technology",
+        "question": "Internet kasari work garchha?",
+        "answer": "Internet euta global network ho jasma data packets haru lai transfer garchha through cables, satellites, ra wireless signals. Yo system le nai hamile information share ra communicate garna sakchhau."
+    },
+    {
+        "topic": "Technology",
+        "question": "AI le future ma kasto impact hunchha?",
+        "answer": "AI le future ma dherai impact hunchha. Yo healthcare, education, ra industries ma revolution lyauna sakchha. Tara sathai, job displacement ra ethical concerns jasto challenges pani hunchha."
+    },
+    {
+        "topic": "Environment",
+        "question": "Climate change ko effects ke ke hun?",
+        "answer": "Climate change ko effects ma temperature increase, glaciers melting, sea levels rising, ra extreme weather events haru parnechha. Yo le ecosystems ra human life lai dherai affect garchha."
+    },
+    {
+        "topic": "Environment",
+        "question": "Renewable energy ko importance ke ho?",
+        "answer": "Renewable energy ko importance yo ho ki yasle fossil fuels ko dependency kam garchha ra environment lai protect garchha. Solar, wind, ra hydro power jasto sources sustainable hun ra pollution kam garchhan."
+    },
+    {
+        "topic": "Art",
+        "question": "Art ko importance hamro life ma ke ho?",
+        "answer": "Art ko importance yo ho ki yasle hamro emotions, thoughts, ra culture lai express garna help garchha. Art le creativity ra imagination lai promote garchha ra society ma critical thinking lai encourage garchha."
+    },
+    {
+        "topic": "Art",
+        "question": "Mona Lisa painting ko ke special chha?",
+        "answer": "Mona Lisa painting ko special chha ki yo Leonardo da Vinci le banayeka ho ra yasko mysterious smile ra detailed technique le yaslai world ko sabai bhanda famous painting banayeko chha."
+    },
+    {
+        "topic": "Literature",
+        "question": "Shakespeare ko contribution literature ma ke ho?",
+        "answer": "Shakespeare le literature ma dherai contribution diyeka chhan. Uniharu le plays ra sonnets haru le human emotions ra relationships lai deeply explore gareka chhan. Uniharu ko works modern literature ra drama ma pani influence garchha."
+    },
+    {
+        "topic": "Literature",
+        "question": "Nepali literature ko ke ke unique features hun?",
+        "answer": "Nepali literature ko unique features ma yasle Nepali culture, traditions, ra social issues lai reflect garchha. Yo literature ma poetry, novels, ra essays haru through Nepal ko history ra identity lai capture garchha."
+    },
+    {
+        "topic": "Economics",
+        "question": "Inflation ko effect economy ma kasto hunchha?",
+        "answer": "Inflation ko effect economy ma yo hunchha ki prices badhchhan ra purchasing power kam hunchha. Yo le savings lai affect garchha ra businesses haru lai production costs badhna sakchha."
+    },
+    {
+        "topic": "Economics",
+        "question": "Globalization le Nepal ko economy lai kasto affect gareko chha?",
+        "answer": "Globalization le Nepal ko economy lai positive ra negative donai tarika le affect gareko chha. Yo le trade ra investment ko opportunities diyeko chha tara sathai local industries lai competition face garnu parne bhayeko chha."
+    },
+    {
+        "topic": "Psychology",
+        "question": "Stress lai kasari manage garna sakinchha?",
+        "answer": "Stress lai manage garna ko lagi mindfulness, exercise, ra healthy lifestyle follow garnu parchha. Sathai, time management ra relaxation techniques pani helpful hun sakchha."
+    },
+    {
+        "topic": "Psychology",
+        "question": "Positive thinking ko benefits ke ke hun?",
+        "answer": "Positive thinking ko benefits ma better mental health, improved relationships, ra increased resilience parnechha. Yo le mancheharu lai challenges lai overcome garna help garchha."
+    },
+    {
+        "topic": "Space Exploration",
+        "question": "Moon ma landing kasari gariyo?",
+        "answer": "Moon ma landing Apollo 11 mission le gareko thiyo. Astronauts Neil Armstrong ra Buzz Aldrin le 1969 ma moon ko surface ma step hane. Yo mission le space exploration ma euta milestone set garyo."
+    },
+    {
+        "topic": "Space Exploration",
+        "question": "Mars ma colony banauna ko challenges ke ke hun?",
+        "answer": "Mars ma colony banauna ko challenges ma extreme temperatures, radiation, ra oxygen ko kami parnechha. Sathai, resources ko scarcity ra psychological effects pani major concerns hun."
+    },
+    {
+        "topic": "Health",
+        "question": "Vaccines ko importance ke ho?",
+        "answer": "Vaccines ko importance yo ho ki yini haru le infectious diseases lai prevent garchhan. Vaccines le immune system lai train garchhan ra yasle epidemics ra pandemics lai control garna help garchha."
+    },
+    {
+        "topic": "Health",
+        "question": "Exercise le body lai kasto help garchha?",
+        "answer": "Exercise le body lai physical ra mental donai tarika le help garchha. Yo le weight control garchha, heart health lai improve garchha, ra stress lai reduce garchha."
+    },
+    {
+        "topic": "Technology",
+        "question": "Blockchain technology kasari work garchha?",
+        "answer": "Blockchain technology le digital records lai secure ra transparent banayeko chha. Yo decentralized system ma data blocks ma store hunchha ra yasle transactions lai tamper-proof banayeko chha."
+    },
+    {
+        "topic": "Technology",
+        "question": "5G technology ko benefits ke ke hun?",
+        "answer": "5G technology ko benefits ma faster internet speed, lower latency, ra better connectivity parnechha. Yo le IoT (Internet of Things) ra smart devices lai pani improve garchha."
+    },
+    {
+        "topic": "Environment",
+        "question": "Plastic pollution ko effects ke ke hun?",
+        "answer": "Plastic pollution ko effects ma marine life ko harm, soil contamination, ra human health ma negative impact parnechha. Plastic decompose huna dherai time linchha ra yasle environment lai long-term damage garchha."
+    },
+    {
+        "topic": "Environment",
+        "question": "Deforestation le climate change lai kasto affect garchha?",
+        "answer": "Deforestation le climate change lai carbon dioxide ko levels badhayera affect garchha. Trees haru carbon dioxide absorb garchhan, tara deforestation le greenhouse gases ko amount badhauchha ra global warming lai accelerate garchha."
+    },
+    {
+        "topic": "Philosophy",
+        "question": "Free will ra destiny ko bich ko difference ke ho?",
+        "answer": "Free will bhaneko mancheharu ko afno decisions garna ko ability ho bhane destiny bhaneko life ko events predetermined hunchhan bhanne belief ho. Yini haru ko bich ko debate philosophy ma common chha."
+    },
+    {
+        "topic": "Philosophy",
+        "question": "Morality ra ethics ko bich ko difference ke ho?",
+        "answer": "Morality bhaneko personal beliefs about right ra wrong ho bhane ethics bhaneko rules ra guidelines hun jo society le follow garchha. Morality subjective hunchha bhane ethics lai formal ra universal manaunchha."
+    },
+    {
+        "topic": "Sports",
+        "question": "Cricket ma Nepal ko performance kasto chha?",
+        "answer": "Nepal le cricket ma dherai improvement gareko chha ra international level ma afno presence establish gari sakeko chha. Nepal le T20 World Cup jasto tournaments ma participate gari sakeko chha ra young players haru le potential dekhaeka chhan."
+    },
+    {
+        "topic": "Sports",
+        "question": "Football ko popularity Nepal ma kasto chha?",
+        "answer": "Football ko popularity Nepal ma ekdum high chha, especially among youth. Nepal ko national team le AFC Cup jasto tournaments ma participate garchha ra local leagues pani dherai popular chhan."
+    },
+    {
+        "topic": "Food",
+        "question": "Nepali cuisine ko ke ke special dishes hun?",
+        "answer": "Nepali cuisine ma dal-bhat-tarkari, momo, sel roti, ra gundruk jasto dishes popular chhan. Yini haru le Nepal ko culture ra taste lai represent garchhan."
+    },
+    {
+        "topic": "Food",
+        "question": "Momo kasari popular bhayeko ho?",
+        "answer": "Momo Nepal ma popular bhayeko ho yasle garda ki yo tasty, easy to prepare, ra affordable chha. Yo dish le Nepali ra international donai taste buds lai attract gareko chha."
+    },
+    {
+        "topic": "Travel",
+        "question": "Nepal ma trekking garna ko lagi best places kun hun?",
+        "answer": "Nepal ma trekking garna ko lagi Everest Base Camp, Annapurna Circuit, ra Langtang Valley jasto places best hun. Yini haru le natural beauty ra adventure ko combination provide garchhan."
+    },
+    {
+        "topic": "Travel",
+        "question": "Tourism le Nepal ko economy lai kasto help gareko chha?",
+        "answer": "Tourism le Nepal ko economy lai dherai help gareko chha. Yo le employment generate garchha, local businesses lai support garchha, ra foreign currency earn garchha. Nepal ko natural beauty ra culture le tourists lai attract garchha."
+    },
+    {
+        "topic": "Innovation",
+        "question": "Nepal ma innovation ko lagi ke ke challenges hun?",
+        "answer": "Nepal ma innovation ko lagi challenges ma lack of funding, proper infrastructure, ra skilled manpower parnechha. Sathai, research ra development ma investment pani kam chha."
+    },
+    {
+        "topic": "Innovation",
+        "question": "Startups le Nepal ko economy lai kasto impact diyeko chha?",
+        "answer": "Startups le Nepal ko economy lai positive impact diyeko chha. Yini haru le new jobs create gareka chhan, technology lai promote gareka chhan, ra traditional industries lai modernize garna help gareka chhan."
+    },
+    {
+        "topic": "Social Issues",
+        "question": "Gender equality achieve garna ko lagi ke garnu parchha?",
+        "answer": "Gender equality achieve garna ko lagi education, awareness, ra equal opportunities provide garnu parchha. Sathai, laws ra policies lai pani enforce garnu parchha ra stereotypes lai challenge garnu parchha."
+    },
+    {
+        "topic": "Social Issues",
+        "question": "Poverty ko problem kasari solve garna sakinchha?",
+        "answer": "Poverty ko problem solve garna ko lagi sustainable development, education, ra employment opportunities provide garnu parchha. Sathai, social welfare programs ra community support pani important chha."
+    },
+    {
+        "topic": "Health",
+        "question": "Mental health ko importance ke ho?",
+        "answer": "Mental health ko importance yo ho ki yasle hamro overall well-being lai affect garchha. Good mental health le physical health, relationships, ra productivity lai improve garchha."
+    },
+    {
+        "topic": "Health",
+        "question": "Yoga le health lai kasto benefit dinchha?",
+        "answer": "Yoga le health lai physical, mental, ra emotional benefits dinchha. Yo le flexibility, strength, ra relaxation provide garchha ra stress lai reduce garchha."
+    },
+    {
+        "topic": "Technology",
+        "question": "Nepal ma internet penetration kasto chha?",
+        "answer": "Nepal ma internet penetration badhdaichha tara rural areas ma access limited chha. Urban areas ma internet use dherai chha ra yo le education, business, ra communication lai improve gareko chha."
+    },
+    {
+        "topic": "Technology",
+        "question": "E-commerce le Nepal ko market lai kasto change gareko chha?",
+        "answer": "E-commerce le Nepal ko market lai digital transformation diyeko chha. Yo le consumers lai convenience diyeko chha ra businesses lai wider audience reach garna sahayog gareko chha."
+    },
+    {
+        "topic": "Environment",
+        "question": "Renewable energy ko use kasari badhauna sakinchha?",
+        "answer": "Renewable energy ko use badhauna ko lagi government le policies ra incentives provide garnu parchha. Sathai, public awareness ra investment pani badhauna parchha."
+    },
+    {
+        "topic": "Environment",
+        "question": "Waste management ko importance ke ho?",
+        "answer": "Waste management ko importance yo ho ki yasle environment lai clean ra healthy rakhn ma help garchha. Proper waste management le pollution lai reduce garchha ra resources lai conserve garchha."
+    },
+    {
+        "topic": "Philosophy",
+        "question": "Happiness ra success ko bich ko relation ke ho?",
+        "answer": "Happiness ra success ko bich ko relation yo ho ki success le happiness lyauna sakchha tara happiness success ko lagi mandatory chaina. True happiness often comes from within ra personal fulfillment."
+    },
+    {
+        "topic": "Philosophy",
+        "question": "Life ma failure ko role ke ho?",
+        "answer": "Life ma failure ko role yo ho ki yasle hamilaai sikna ko opportunity dinchha. Failure le resilience ra determination build garchha ra success ko lagi better prepare garchha."
+    }
+]

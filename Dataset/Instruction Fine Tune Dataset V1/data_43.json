@@ -1,0 +1,597 @@
+[
+    {
+        "question": "Mero order kahan pugi sakyo?",
+        "context": "Tapai ko order 'In Transit' status ma cha ra agami 2 din ma deliver huney cha.",
+        "response": "Order agadi badhira cha! Aba 2 din ma tapai ko ghar ma pugi sakcha. Aaja ko update ko lagi hami lai sampark garnus!"
+    },
+    {
+        "question": "Refund kasari claim garne?",
+        "context": "Refund ko lagi 'My Orders' section ma refund request submit garna parcha.",
+        "response": "Refund ko lagi simply 'My Orders' ma refund request halnus hai! Kaha confuse bhayo bhane hami lai sodhnus."
+    },
+    {
+        "question": "Customer support ko number ke ho?",
+        "context": "Hamro customer support number 123-456789 ho.",
+        "response": "Yo ho hami ko support number: 123-456789. Kahi help chahiyo bhane call garera sodhnus ni!"
+    },
+    {
+        "question": "Delivery late kina bhayo?",
+        "context": "Delivery traffic ko karan le thoda late bha cha.",
+        "response": "Sorry hai! Traffic ko karan le time lagyo jasto cha, tara aba turuntai delivery team le kaam gari raheko cha."
+    },
+    {
+        "question": "Return policy ke ho?",
+        "context": "Hamro return policy anusar 7 din bhitra product return garna milcha.",
+        "response": "Return policy ta simple cha! 7 din bhitra product ko receipt ko saath pathaide huncha."
+    },
+    {
+        "question": "Warranty claim kasari garne?",
+        "context": "Warranty claim ko lagi invoice ya receipt chahinchha ra warranty center ma contact garna parcha.",
+        "response": "Warranty claim garna receipt dekhaidey huncha! Warranty center visit garnu, sab ready huncha."
+    },
+    {
+        "question": "Delivery charge kati ho?",
+        "context": "Delivery charge location anusar Rs. 50-100 ho.",
+        "response": "Tapai ko location ko base ma Rs. 50-100 parcha hai! Exact charge thaha cha bhane sodhnus."
+    },
+    {
+        "question": "Product exchange garna milcha?",
+        "context": "Exchange ko lagi 7 din bhitra request garnu parcha.",
+        "response": "Ho milcha! Tara time cha 7 din ko, aba time ma request pathaidey huncha."
+    },
+    {
+        "question": "App login garna problem bhayo.",
+        "context": "Password reset garna parcha ya support team sanga contact garna sakcha.",
+        "response": "Login problem? Password reset garera try garnus, nabhaye hami sangai samparka garnus ni!"
+    },
+    {
+        "question": "Order cancel garna milcha?",
+        "context": "Order cancel garna 'My Orders' section ma cancel request submit garna parcha.",
+        "response": "Cancel garna cha? My Orders section ma janus ani cancel button dabai dinus!"
+    },
+    {
+        "question": "Mero order ko status update dinus na?",
+        "context": "Tapai ko order ID 12345 'In Transit' cha. Courier service le tapai ko order pick up garisakyo ani aba local delivery partner ko through distribute huney cha. Expected delivery date cha 2025-01-12. Courier tracking ID: ABCD5678.",
+        "response": "Tapai ko order track garna Courier ID ABCD5678 use garnus. Aba 2025-01-12 ma deliver huncha. Sab thik cha jasto cha!"
+    },
+    {
+        "question": "Refund process ma kati din lagcha?",
+        "context": "Refund request submit garepachi hamro team le 48 ghanta vitra process start garcha. Refund ko amount bank account ma deposit hunalai 5-7 working days lagcha. Euta confirmation email pani send garincha.",
+        "response": "Refund ko lagi 48 ghanta ma process start huncha ra aba 5-7 working days ma bank ma paisa aai halcha. Kahi confuse cha bhane sodhnus ni!"
+    },
+    {
+        "question": "Delivery charge kina alikati mahango cha?",
+        "context": "Tapai le select gareko product bulky ra large size category ma parcha, jasle gari delivery cost normal products ko bhanda thulo huncha. Delivery partner ko charges weight ra distance ko base ma calculate huncha.",
+        "response": "Tapai ko product alik thulo cha ni, delivery ma ali cost badcha. Tara quality assured cha hai, delivery thik taim ma huncha."
+    },
+    {
+        "question": "Exchange request kasari process huncha?",
+        "context": "Exchange process ko lagi, tapai le first product ko photo upload garna parcha 'My Orders' section ma. Tespachi, hamro team le product verify garera exchange approval ko lagi 24-48 ghanta lincha. Approved bhaepachi courier team le tapai ko current product pick up garcha ani naya product deliver garcha.",
+        "response": "Exchange simple cha! Product ko photo upload garnus ani 24-48 ghanta ma approval aauchha. Courier team pick up ani naya product deliver garcha."
+    },
+    {
+        "question": "Delivery ko expected time kati ho?",
+        "context": "Hamro standard delivery timeline normal conditions ma 3-5 working days ho. Tarika ni, tapai ko location rural area ma cha bhane 7 working days lagna sakcha. Courier partner le tracking updates provide garcha.",
+        "response": "Normally 3-5 working days ma delivery huncha. Rural cha bhane aba 7 din laagn sakcha. Track garna update check garnus hai!"
+    },
+    {
+        "question": "Payment failed bhayo, aba ke garne?",
+        "context": "Payment failed bhaepachi, refund amount automatically 3-5 working days vitra tapai ko original payment method ma refund huncha. Agar 7 din bhitra refund aayena bhane support team sanga contact garnus.",
+        "response": "Payment failed? Aba 3-5 din ma paisa wapas huncha. Nabhaye hami sangai contact garnus hai, help garcha."
+    },
+    {
+        "question": "Order cancel garna dherai time lagcha jasto cha.",
+        "context": "Cancel request submit garepachi 24-48 ghanta ko time le hamro team le request process garcha. Agar order already dispatch bha cha bhane cancel ko lagi additional time lagna sakcha courier team sanga coordination garna parcha.",
+        "response": "Cancel time lagcha bhane order dispatch ko status check garnus. Dispatch bha cha bhane ali time lagcha, nai bhaye aba 48 ghanta ma handle huncha."
+    },
+    {
+        "question": "App crash bhayo ra order garna nasakne.",
+        "context": "App crash issue temporary ho ra update install garepachi fix huncha. Agar problem continue bhayo bhane, clear cache garera try garnus ya hamro web version use garnus. Hamro team le aba ko app version ma bug fix gardai cha.",
+        "response": "App crash bhayo bhane clear cache garnus ani retry garnus. Agar nahi fix bhaena bhane hamro website use garnus hai!"
+    },
+    {
+        "question": "Discount code kasari use garne?",
+        "context": "Discount code apply garna, tapai le cart ma 'Apply Coupon' option ma click garnu parcha ani discount code enter garera apply garna parcha. Ensure garnus ki code valid cha ra expiry time cross gareko chaina.",
+        "response": "Cart ma 'Apply Coupon' click garnus ani code halnus hai. Expired chaina confirm garnus aba discount milcha!"
+    },
+    {
+        "question": "Warranty ko coverage ma ke ke include huncha?",
+        "context": "Warranty ko under manufacturing defects jasto ki faulty hardware ya functional issues aauchha. Physical damage ya misuse warranty ma cover hudaina. Detailed warranty terms tapai ko product manual ma cha.",
+        "response": "Warranty manufacturing defect lai cover garcha, tara misuse ya physical damage ma cover hudaina. Manual hernus for details!"
+    },
+    {
+        "question": "Order confirm bhaepachi cancel garna milcha?",
+        "context": "Order confirm bhaepachi, cancel garna 'My Orders' section ma janus ani 'Cancel Order' option select garnus. Tarika order dispatch bhae bhane cancel process courier partner sanga coordination garera garincha, jasle time alik badcha.",
+        "response": "Order confirm bhaepachi cancel garna milcha, tara dispatch bhae bhane ali late huna sakcha. My Orders ma try garnus hai!"
+    },
+    {
+        "question": "Late delivery ko case ma compensation dincha?",
+        "context": "Hamro policy anusar late delivery ko case ma, agar delivery 5 working days ko limit cross garcha bhane tapai le delivery charge refund ko lagi request garna saknuhuncha. Compensation amount specific cases ma vary garcha.",
+        "response": "Late delivery ko case ma delivery charge wapas milna sakcha. Compensation chahiyo bhane specific case ma sodhnus ni."
+    },
+    {
+        "question": "Mero order duplicate cha, aba ke garne?",
+        "context": "Duplicate product ko case ma, hamro team le product ko photo ra invoice verify garcha. Verification complete bhaepachi, duplicate product pick up garna courier partner assign garincha ra correct product dispatch huncha.",
+        "response": "Duplicate product? Hamro team verify garera courier le pick up garcha ani correct product dispatch huncha!"
+    },
+    {
+        "question": "Product damage ma aayo, refund kasari milcha?",
+        "context": "Product damage case ma, tapai le damage photo 'My Orders' section ma upload garna parcha. Verification ko lagi 24-48 ghanta lagcha. Agar approved cha bhane, refund amount 5-7 working days vitra account ma aauchha.",
+        "response": "Damage photo upload garnus 'My Orders' ma. 48 ghanta ma verify huncha ani paisa 5-7 din ma account ma auncha."
+    },
+    {
+        "question": "Order modify garna milcha?",
+        "context": "Order modify kasari garne? Tapai ko order dispatch bhaisakeko cha bhane modify garna mildaina. Dispatch bhayeko cha ki chaina 'My Orders' ma check garnus. Agar modify garna milcha bhane customer support team le help garcha.",
+        "response": "Order modify garna cha? Dispatch bhaisakeko chaina bhane hami le help garcha. Dispatch status check garnus hai."
+    },
+    {
+        "question": "Delivery location change garna milcha?",
+        "context": "Delivery location modify garna ko lagi, tapai le dispatch bhaisakeko cha ki chaina check garnu parcha. Dispatch bhaye bhane location change garna mildaina. Agar change garna milcha bhane, hamro support team le 24 ghanta bhitra update garcha.",
+        "response": "Location change cha? Dispatch nai bhaisakeko chaina bhane change garna milcha. Support team le handle garcha aba."
+    },
+    {
+        "question": "Promo code invalid dekhayo.",
+        "context": "Promo code invalid dekhayo bhane check garnus ki code expiry time cross cha ki chaina. Agar sabai thik cha tara problem cha bhane customer support team lai contact garnus. Promo codes limited users ko lagi ho sakcha.",
+        "response": "Promo code invalid cha? Expiry check garnus hai. Nabhaye support team le turuntai fix garcha."
+    },
+    {
+        "question": "Account ban gareko message ayo, aba ke garne?",
+        "context": "Account ban garne karan unusual activity jasto ki suspicious login attempt ya policy violation huncha. Tapai le support team sanga contact garera appeal garna saknuhuncha. Verification process complete bhaye bhane account reactivate huncha.",
+        "response": "Account ban bha cha? Support team sanga contact garnus ani appeal process suru garnus. Aba verification bhaye reactivate huncha."
+    },
+    {
+        "question": "Delivery ma alikati deri huncha jasto cha, confirm garnus na.",
+        "context": "Delivery delay ko reason traffic, weather ya courier logistics issues huncha. Tapai ko order abadhik time ma deliver huncha ki chaina tracking ID ko through check garnus. Delay cha bhane hamro team le issue resolve garcha.",
+        "response": "Delivery delay ko possibility cha jasto lagcha. Tracking ID le status hernus, ra issue cha bhane hami le fix garcha."
+    },
+    {
+        "question": "Order ko partial delivery bha cha.",
+        "context": "Partial delivery ko karan multiple items different warehouse ma available huncha. Baaki items ko dispatch next 24-48 ghanta ma huncha ani tracking ID update garincha.",
+        "response": "Partial delivery ko karan baaki items different warehouse ma cha. Aba 24-48 ghanta ma dispatch huncha!"
+    },
+    {
+        "question": "Order track garna kasari garne?",
+        "context": "Order track garna tapai ko confirmation email ma tracking ID cha. Website ya app ko 'Track Order' section ma ID enter garera live status herna milcha. Courier partner le updates send garcha.",
+        "response": "Tracking ID le website ya app ma status hernus. Updates ta courier le dekhai dincha ni!"
+    },
+    {
+        "question": "Out of stock item kasari notify huncha?",
+        "context": "Out of stock product ko lagi 'Notify Me' option select garera email ya SMS updates ko lagi register garnus. Stock ma aayepachi tapai lai turuntai notify garincha.",
+        "response": "'Notify Me' button dabaera updates ko lagi register garnus. Aba stock ma aune bittikai email aauchha."
+    },
+    {
+        "question": "Mero package lost bhayo, aba ke garne?",
+        "context": "Lost package case ma courier partner sanga contact garera investigation process suru garincha. Process complete garna 5-7 working days lagcha. Agar package lost confirm huncha bhane, tapai lai full refund ya replacement provide garincha.",
+        "response": "Package lost jasto cha? Courier partner le investigate garcha, 5-7 din ma confirm huncha ani refund ya replacement dincha."
+    },
+    {
+        "question": "Order delay ko update dinus.",
+        "context": "Order delay ko karan unexpected courier backlog ho. Aba dispatch team le priority delivery ma kaam gariraheko cha. Tapai ko order ko expected delivery next 3 days vitra cha.",
+        "response": "Delay ko karan courier backlog cha. Aba 3 din vitra delivery huncha jasto cha. Update chai turuntai dincha."
+    },
+    {
+        "question": "Mero account ma login problem cha.",
+        "context": "Login problem ko karan password bhulnu, incorrect credentials, ya account lock huncha. Password reset option try garnus. Agar login abhae bhane support team sanga contact garnus. Issue fix garna 24-48 hours lagcha.",
+        "response": "Login garna mildaina? Password reset try garnus. Aba pani chaina bhane support team lai message garnus hai!"
+    },
+    {
+        "question": "Mero order wrong address ma deliver bhayo.",
+        "context": "Wrong address ma deliver bhae ko case ma courier partner le package locate garera wapas pick up garcha. Naya address confirm garera 2-3 days vitra correct location ma deliver garcha.",
+        "response": "Wrong address ma gayo jasto cha. Courier team le wapas pick garcha ani aba 2-3 din ma thik address ma aauchha."
+    },
+    {
+        "question": "Order pre-order ma cha, kati din lagcha?",
+        "context": "Pre-order products dispatch ko timeline hamro website ma clearly mentioned cha. Normally, pre-order products dispatch 7-10 days lagcha. Dispatch bhaye pachi courier tracking ID provide huncha.",
+        "response": "Pre-order cha ni, ta aba 7-10 din ma dispatch huncha. Dispatch bhaye pachi tracking ID dincha."
+    },
+    {
+        "question": "Warranty process ma extra charge lagcha?",
+        "context": "Warranty claims ma normally extra charges lagdaina. Tara agar repair replacement ma non-warranty issues huncha bhane additional charges applicable huncha. Warranty document thoroughly check garnus.",
+        "response": "Warranty ma free cha, tara non-warranty issues cha bhane paisa lagcha. Warranty document hernus ni."
+    },
+    {
+        "question": "Delivery slot fix garna milcha?",
+        "context": "Delivery slot fix garna, tapai le 'Preferred Delivery Time' option checkout ma select garnu parcha. Agar checkout pachi change garna parcha bhane, courier team le timing confirm garcha.",
+        "response": "Delivery slot ta checkout ma select garnus. Aba change garna cha bhane courier team confirm garcha."
+    },
+    {
+        "question": "COD available cha ki chaina?",
+        "context": "Cash on Delivery (COD) option specific locations ko lagi available cha. Checkout ma delivery address enter garepachi, COD option show huncha ki chaina confirm huncha.",
+        "response": "COD available cha location anusar. Checkout ma address halnus ani thik huncha ki chaina hernus."
+    },
+    {
+        "question": "Replacement process kati din lagcha?",
+        "context": "Replacement process ko lagi product pick up bhaepachi 5-7 working days ma naya product dispatch huncha. Courier tracking ID replacement dispatch sanga provide garincha.",
+        "response": "Replacement ta pick up bhaepachi aba 5-7 din ma dispatch huncha. Tracking ID pani dincha."
+    },
+    {
+        "question": "Product ka guarantee ko barema thaha dinus.",
+        "context": "Product ko guarantee coverage ma manufacturing defects include huncha, tara wear and tear ya misuse cover hudaina. Guarantee claim ko lagi invoice ya purchase receipt chahincha.",
+        "response": "Guarantee manufacturing defects lai cover garcha, tara misuse ya wear and tear cover hudaina. Invoice chahincha hai!"
+    },
+    {
+        "question": "Tracking ID invalid dekhauna cha.",
+        "context": "Invalid tracking ID dekhaune karan courier system ma delay huncha ya tracking ID galat enter garincha. Courier partner ko system ma ID update 24 hours lagna sakcha. Correct tracking ID confirm garnus.",
+        "response": "Tracking ID invalid cha? 24 hours ma update huncha jasto cha. Milayera ID feri halnus ni."
+    },
+    {
+        "question": "Return garna courier le pick up garna kati time lagcha?",
+        "context": "Return pickup ko process normally request submit garepachi 2-3 working days lagcha. Pickup confirmation email ya SMS pani send garincha.",
+        "response": "Return ko pickup ta 2-3 din ma aai halcha. Email ya SMS ko lagi alert rahnus!"
+    },
+    {
+        "question": "Discount offers ko update dinus.",
+        "context": "Discount offers regularly hamro website ra app ma update garincha. Special offers festivals, weekends ya clearance sales ko lagi provide garincha. Notification enable garnus updated rahna.",
+        "response": "Offers check garnus hamro app ya website ma. Notification enable garera updated rahnus hai!"
+    },
+    {
+        "question": "Courier partner le call garena.",
+        "context": "Courier partner le call garna sakcha, tara address ma deliver garna problem bhayo bhane call garincha. Courier delay cha bhane tracking ID use garnus. Direct delivery center ma contact garna pani milcha.",
+        "response": "Courier call garena jasto cha? Tracking ID hernus ani delivery center sanga sodhnus."
+    },
+    {
+        "question": "Mero app ma notification aaidaina, aba ke garne?",
+        "context": "Notification kaam nagarne karan app settings ma notifications disable cha ya phone ko Do Not Disturb mode on cha. Tapai le settings ma permissions check garnu parcha. Agar sab thik cha, app update try garnus.",
+        "response": "Notification aaidaina? Settings ma permission check garnus ani app update gardinuhos. Sab thik huncha!"
+    },
+    {
+        "question": "Mero EMI payment fail bhayo.",
+        "context": "EMI payment fail bhae bhane, check garnus ki tapai ko bank account ma sufficient balance cha ki chaina. Agar payment attempt garna sakdainu bhane, alternative payment method try garnus ya support team lai sodhnus.",
+        "response": "EMI fail bhayo? Balance check garnus. Nabhaye alternative payment try garnus hai."
+    },
+    {
+        "question": "Gift card kasari redeem garne?",
+        "context": "Gift card redeem garna checkout ma 'Apply Gift Card' option ma code enter garnus. Ensure garnus ki code valid cha ra balance cha. Agar problem cha bhane support team le check garcha.",
+        "response": "Checkout ma gift card code halnus ani apply garnus. Balance chaina jasto cha bhane hami check garcha."
+    },
+    {
+        "question": "Membership renew garna milcha ki chaina?",
+        "context": "Membership renew automatically huncha agar auto-renewal enabled cha. Manual renew ko lagi 'My Membership' section ma jayera renew button click garnus. Renew ko confirmation email aauchha.",
+        "response": "Membership renew ta auto huncha. Nabhaye manual renew ma jayera button dabaidinus ni."
+    },
+    {
+        "question": "Subscription cancel garna parcha.",
+        "context": "Subscription cancel garna, 'My Account' ma jayera active subscription section ma 'Cancel' option select garnus. Cancellation confirmation email pani send garincha. Refund policy anusar amount wapas huncha.",
+        "response": "Subscription cancel? 'My Account' ma jayera cancel garnus. Aba email ma confirmation aauchha."
+    },
+    {
+        "question": "Product customize garna milcha?",
+        "context": "Product customization selected items ko lagi available cha. Tapai le product page ma 'Customize' option click garera details fill garna parcha. Customization order ko lagi additional charge lagna sakcha.",
+        "response": "Customize garna cha? Product page ma 'Customize' click garnus. Extra charge huncha ki chaina confirm garnus hai."
+    },
+    {
+        "question": "Service ko feedback kasari dina milcha?",
+        "context": "Feedback dina, tapai le app ya website ko 'Feedback' section ma jayera comments submit garna saknuhuncha. Hamro team regularly feedback analyze garera improvement ma kaam garcha.",
+        "response": "Feedback dina cha? App ya website ma 'Feedback' section ma janus ani comments halnus ni!"
+    },
+    {
+        "question": "Mero wallet ma paisa deduct bhayo tara order confirm chaina.",
+        "context": "Wallet paisa deduct tara order confirm chaina bhane, payment gateway ko processing delay cha. Transaction verify garna 24-48 ghanta lagna sakcha. Agar confirm hudaina bhane wallet ma paisa wapas huncha.",
+        "response": "Wallet paisa deduct? Aba 24-48 ghanta ma confirm huncha. Nabhaye paisa wallet ma wapas huncha ni."
+    },
+    {
+        "question": "Product review kasari upload garne?",
+        "context": "Product review upload garna, 'My Orders' section ma product select garnus ani 'Write a Review' option ma jayera stars ra comments submit garnus. Photos upload garna cha bhane add photo button use garnus.",
+        "response": "Review dina? 'My Orders' ma janus ani 'Write a Review' click garnus. Aba stars ani comments halnus hai!"
+    },
+    {
+        "question": "Service appointment reschedule garna parcha.",
+        "context": "Appointment reschedule garna tapai ko app ko 'My Appointments' section ma janus ani reschedule option select garnus. Time slot choose garera confirm garna parcha. Service team confirm garera update garcha.",
+        "response": "Appointment reschedule? App ma 'My Appointments' janus ani naya time slot select garnus hai."
+    },
+    {
+        "question": "Courier partner le wrong OTP maagnu cha.",
+        "context": "Courier partner wrong OTP maagnu bhaye bhane, turuntai customer support lai contact garnus. OTP verify garna thik number confirm garnus ani fake requests avoid garnus.",
+        "response": "Wrong OTP? Courier sanga confirm garnus ani support team lai inform garnus turuntai!"
+    },
+    {
+        "question": "Mero account ko data delete garna cha.",
+        "context": "Account data delete garna, 'Privacy Settings' section ma janus ani 'Delete My Data' request submit garnus. Hamro team le request verify garera 7 days bhitra process garcha.",
+        "response": "Account data delete? Privacy settings ma janus ani request halnus. 7 din ma sab delete huncha."
+    },
+    {
+        "question": "Gift wrapping option available cha ki chaina?",
+        "context": "Gift wrapping option checkout process ma available cha. Tapai le 'Add Gift Wrap' checkbox select garera message customize garna saknuhuncha. Additional charge lagna sakcha.",
+        "response": "Gift wrapping cha checkout ma. 'Add Gift Wrap' select garnus ani aba customize garnus."
+    },
+    {
+        "question": "Product demo request garna milcha?",
+        "context": "Product demo ko lagi 'Request Demo' button product page ma huncha. Tapai ko location ma available cha bhane, hamro team demo schedule garcha ra confirm garcha.",
+        "response": "Demo chahincha? Product page ma 'Request Demo' click garnus. Location available cha bhane hami contact garcha."
+    },
+    {
+        "question": "Mero refer code kasari use huncha?",
+        "context": "Refer code use garna, tapai le signup ko bela 'Referral Code' section ma code enter garna parcha. Agar new user le referral code use garcha bhane tapai ko account ma bonus credit aauchha.",
+        "response": "Refer code signup ma enter garnus. Aba new user le use gare bhane bonus credit milcha ni."
+    },
+    {
+        "question": "App update nagareko le features kaam nagare jasto cha.",
+        "context": "App update nagareko karan naye features compatible nahuna sakcha. Play Store ya App Store ma jayera latest version download garnus. Update pachi app smooth kaam garcha.",
+        "response": "App update gareko cha? Latest version download garnus ani aba sab features kaam garcha."
+    },
+    {
+        "question": "Mero order ko return window expire bhayo, aba ke garne?",
+        "context": "Return window expire bhayo bhane, special cases jastai defective ya wrong product ko lagi support team le exception consider garna sakcha. Policy anusar process suru huncha.",
+        "response": "Return window ta expire bhayo jasto cha. Support team sanga sodhnus, defective cha bhane exception ma huncha."
+    },
+    {
+        "question": "Cashback account ma deposit hunai sakena.",
+        "context": "Cashback normally transaction complete bhaepachi 2-3 working days ma deposit huncha. Agar balance dekhiyeko chaina bhane, support team lai transaction ID provide garera inquiry garnus.",
+        "response": "Cashback chaina? Aba 2-3 din ma huncha, nabhaye support lai transaction ID pathaunus."
+    },
+    {
+        "question": "Mero service complaint ka status kasari herne?",
+        "context": "Service complaint status check garna app ya website ma 'Track Complaints' section use garnus. Complaint ID enter garepachi real-time status herna milcha.",
+        "response": "Complaint status check garnus app ma 'Track Complaints' section bata. Complaint ID halnus ani aba status dekhincha."
+    },
+    {
+        "question": "Courier partner le extra charge magyo, aba ke garne?",
+        "context": "Courier partner le extra charge magyo bhane turuntai customer support ma report garnus. Courier policy anusar koi additional charge applicable hudaina unless previously communicated.",
+        "response": "Courier le extra charge magcha? Support team lai report garnus, policy anusar yo thik hudaina."
+    },
+    {
+        "question": "Mero payment installment option activate garna parcha.",
+        "context": "Installment option activate garna checkout process ma 'EMI Options' select garnus. Bank eligibility criteria anusar installment available huncha. Agar activate ma problem cha bhane support sanga contact garnus.",
+        "response": "Installment activate garna 'EMI Options' select garnus. Problem cha bhane support sanga sodhnus ni."
+    },
+    {
+        "question": "Free trial ma service cancel garna mildaina jasto cha.",
+        "context": "Free trial cancel garna 'Subscriptions' section ma janus ani cancel option select garnus. Agar cancel ma issue cha bhane, hami le manually verify garera process garcha.",
+        "response": "Free trial cancel mildaina? 'Subscriptions' section hernus. Aba pani chaina bhane support lai sodhnus hai."
+    },
+    {
+        "question": "App ko login credentials reset kasari garne?",
+        "context": "Login credentials reset garna 'Forgot Password' option click garnus. Registered email ID ma reset link aauchha. New password set garera login garnus.",
+        "response": "Login reset chahincha? 'Forgot Password' dabaera email bata naya password set garnus ni!"
+    },
+    {
+        "question": "Delivery rider le wrong timing ma aayo.",
+        "context": "Delivery rider wrong timing ma aayeko cha bhane, support team sanga timing coordinate garnus. Rider le naya slot ko lagi confirmation garera delivery re-attempt garcha.",
+        "response": "Wrong timing ma rider aayo? Support team sanga sodhnus ani naya slot confirm huncha."
+    },
+    {
+        "question": "Prepaid order ko refund kati din lagcha?",
+        "context": "Prepaid order refund ko lagi request submit garepachi 5-7 working days lagcha. Refund process complete bhaepachi tapai ko account ma paisa deposit huncha.",
+        "response": "Prepaid refund ta 5-7 din lagcha. Aba account ma paisa aauchha."
+    },
+    {
+        "question": "Service charge ma hidden fee cha ki chaina?",
+        "context": "Service charge normally transparent huncha, invoice ma clearly breakdown mention huncha. Hidden charges cha ki chaina detail verify garna saknuhuncha. Agar confusion cha bhane support lai sodhnus.",
+        "response": "Service charge detail invoice ma huncha. Hidden cha jasto lagcha bhane hami verify garera bataincha."
+    },
+    {
+        "question": "Wallet balance ko expiry date kasari check garne?",
+        "context": "Wallet balance expiry check garna, app ya website ma 'My Wallet' section ma janus. Balance ko expiry date clearly mentioned huncha.",
+        "response": "Wallet balance expiry ta 'My Wallet' ma hernus. Aba expiry date clearly dekhincha ni!"
+    },
+    {
+        "question": "Order ko packaging damage cha, exchange milcha?",
+        "context": "Packaging damage cha bhane, damage photo upload garera 'My Orders' section ma complaint file garnus. Exchange request approve huncha bhane replacement process suru huncha.",
+        "response": "Packaging damage? Photo upload garnus ani 'My Orders' ma exchange request file garnus."
+    },
+    {
+        "question": "Mero warranty card harayo, aba ke garne?",
+        "context": "Warranty card harayo bhane, purchase invoice le alternative kaam garcha. Invoice upload garera claim process suru garna milcha.",
+        "response": "Warranty card chaina? Invoice upload garnus, tesle warranty claim ko kaam garcha."
+    },
+    {
+        "question": "International shipping ko update dinus.",
+        "context": "International shipping ko lagi delivery timeline country anusar vary garcha. Shipping charges checkout process ma automatically calculate huncha. Tracking ID le parcel ko real-time status herna milcha.",
+        "response": "International shipping cha? Timeline ta country anusar huncha. Tracking ID use garnus status herna."
+    },
+    {
+        "question": "Discount coupon kasari pay garnu?",
+        "context": "Discount coupon apply garna, checkout page ma 'Apply Coupon' section ma coupon code enter garnus. Code valid cha bhane discount amount total bata deduct huncha.",
+        "response": "Coupon apply garna checkout ma code halnus ani aba discount deduct huncha."
+    },
+    {
+        "question": "Membership upgrade kasari garne?",
+        "context": "Membership upgrade garna 'My Membership' section ma janus. Upgrade plan select garera payment confirm garnus. Upgraded membership benefits immediately active huncha.",
+        "response": "Membership upgrade cha? 'My Membership' ma janus ani naya plan select garnus. Aba benefits suru huncha."
+    },
+    {
+        "question": "Mero account lock bhayo, access kasari garne?",
+        "context": "Account lock unlock garna, 'Forgot Password' option try garnus. Agar issue solve hudaina bhane, support team le verification complete garera unlock garcha.",
+        "response": "Account lock cha? Password reset try garnus. Aba pani chaina bhane support team sanga sodhnus."
+    },
+    {
+        "question": "Mero internet speed ekdam slow cha, aba ke garne?",
+        "context": "Internet slow cha bhane router restart garnus ani nearby devices ko interference check garnus. Aba pani problem solve hudaina bhane, provider ko support team sanga contact garnus.",
+        "response": "Internet slow cha? Router restart garnus ani aba pani solve hudaina bhane provider lai call garnus."
+    },
+    {
+        "question": "Refund ko confirmation email aayeko chaina.",
+        "context": "Refund request process pachi confirmation email normally 24-48 hours ma aauchha. Agar email aayeko chaina bhane spam/junk folder check garnus. Aba pani chaina bhane support team sanga sodhnus.",
+        "response": "Refund ko email 48 ghanta ma aauchha. Spam folder check garnus. Chaina bhane support lai sodhnus."
+    },
+    {
+        "question": "Exchange policy clearly bujhena, aba explain garnus.",
+        "context": "Exchange policy product delivery ko 7 din bhitra applicable cha. Product unused ani original condition ma hunu parcha. Exchange ko lagi additional charges lagna sakcha.",
+        "response": "Exchange policy ta delivery ko 7 din ma applicable cha. Product original ma hunu parcha ni."
+    },
+    {
+        "question": "Order track garna sakdina.",
+        "context": "Order track garna, 'My Orders' section ma jayera tracking ID enter garnus. Agar order ko status update dekhinna bhane, courier partner ko delay hunu sakcha.",
+        "response": "Order track chaina? 'My Orders' ma tracking ID halnus. Delay cha jasto cha courier partner sanga."
+    },
+    {
+        "question": "New device setup ma help chahincha.",
+        "context": "New device setup ko lagi user manual follow garnus. Agar manual bujhna garo cha bhane, support team ko assistance lai contact garnus.",
+        "response": "Device setup? User manual hernus. Aba pani garo cha bhane hami help garcha."
+    },
+    {
+        "question": "Event ticket confirm bhaena, ke garne?",
+        "context": "Event ticket confirm bhaena bhane payment ko status check garnus. Payment deduct bhaecha bhane support team sanga ticket confirmation request garnus.",
+        "response": "Ticket confirm chaina? Payment check garnus ani aba support sanga confirm garnus."
+    },
+    {
+        "question": "Account verify kasari garne?",
+        "context": "Account verify garna registered email ya phone number ma pathaeko OTP use garnus. Agar OTP kaam nagarcha bhane, manual verification ko lagi support team sanga contact garnus.",
+        "response": "Account verify? Email ya phone ko OTP halnus. Chaina bhane support team lai sodhnus hai."
+    },
+    {
+        "question": "Service ko quality ekdam low lagcha.",
+        "context": "Service quality low lagcha bhane feedback section ma comments halnus. Detailed explanation le fast resolution ko lagi helpful huncha.",
+        "response": "Service low cha? Feedback dinus ani aba team le improve garna kaam garcha."
+    },
+    {
+        "question": "Mero gift card code invalid dekhaudai cha.",
+        "context": "Gift card code invalid dekhaudai cha bhane expiry date check garnus. Agar valid cha bhane, code re-enter garera try garnus ya support team sanga inquiry garnus.",
+        "response": "Gift card invalid dekhaudai cha? Expiry check garnus. Aba pani thik chaina bhane hami check garcha."
+    },
+    {
+        "question": "Phone recharge ka amount deduct bhayo tara recharge success bhaena.",
+        "context": "Recharge amount deduct bhayo tara success bhaena bhane, transaction ID verify garnus. Refund ya recharge complete hunu 24-48 hours lagna sakcha.",
+        "response": "Recharge success bhaena? 24-48 ghanta ma thik huncha. Aba transaction ID support lai dinus."
+    },
+    {
+        "question": "Auto-debit subscription cancel kasari garne?",
+        "context": "Auto-debit subscription cancel garna, 'Payment Settings' ma janus ani auto-debit option disable garnus. Confirm pachi subscription manually renew huncha.",
+        "response": "Auto-debit cancel? Payment settings ma disable garnus ani manual renew garnus aba."
+    },
+    {
+        "question": "Payment gateway error dekhaudai cha.",
+        "context": "Payment gateway error dekhaudai cha bhane, alternate payment method try garnus. Agar error continuous cha bhane, payment provider sanga support ma sodhnus.",
+        "response": "Gateway error? Alternative payment method try garnus. Aba pani issue cha bhane support sanga contact garnus."
+    },
+    {
+        "question": "Delivery location update garna parcha.",
+        "context": "Delivery location update garna 'My Orders' section ma order select garera 'Edit Address' option use garnus. Update timing depend garcha order dispatch bhako cha ki chaina.",
+        "response": "Delivery location change cha? My Orders ma address edit garnus. Dispatch bhako cha bhane possible nahuna sakcha."
+    },
+    {
+        "question": "Courier ko number ma contact garna milena.",
+        "context": "Courier ko number busy ya unreachable cha bhane, support team le alternate contact arrange garna sakcha. Delivery delay cha bhane issue escalate garnus.",
+        "response": "Courier ko number ma contact chaina? Support team lai sodhnus aba."
+    },
+    {
+        "question": "Free samples ko offer kati din lagi applicable cha?",
+        "context": "Free samples ko offer limited duration ko lagi applicable cha. Expiry date campaign details ma clearly mention huncha.",
+        "response": "Free samples ta limited time ma cha. Campaign details ma expiry check garnus."
+    },
+    {
+        "question": "Product ka duplicate items receive bhayo.",
+        "context": "Duplicate items receive bhaye bhane, immediately 'My Orders' ma complaint file garnus. Team le verify garera solution offer garcha.",
+        "response": "Duplicate product receive? My Orders ma complaint halnus aba team check garcha."
+    },
+    {
+        "question": "Delivery delay bhaera urgent product chahincha.",
+        "context": "Delivery delay cha bhane, urgent product ka lagi nearest store option explore garnus ya express delivery ka availability check garnus.",
+        "response": "Urgent chahincha? Express delivery ya nearby store ma check garnus."
+    },
+    {
+        "question": "Device upgrade ko option available cha ki chaina?",
+        "context": "Device upgrade option available cha bhane, 'Upgrade Plan' section ma device details enter garera eligibility check garnus. Upgrade offer depend garcha device model ra condition ma.",
+        "response": "Device upgrade? Upgrade plan ma janus ani eligibility check garnus aba."
+    },
+    {
+        "question": "Product ko warranty ma exchange ki repair better huncha?",
+        "context": "Warranty condition ma exchange ya repair options depend garcha. Minor defect cha bhane repair faster option huncha. Major defect cha bhane exchange preferable huncha.",
+        "response": "Warranty ma minor cha bhane repair garnus. Major defect cha bhane exchange better huncha."
+    },
+    {
+        "question": "Custom order tracking update aaidaina.",
+        "context": "Custom order tracking update delay cha bhane, production process le additional time lagna sakcha. Courier partner le update dinu bitra 24-48 ghanta lagi sakcha.",
+        "response": "Custom tracking cha? 48 ghanta ma courier update huncha, nahune bhaye support lai sodhnus."
+    },
+    {
+        "question": "Internet connection barambar katdai cha, aba ke garne?",
+        "context": "Internet barambar katdai cha bhane, router restart garnus. Aba pani problem solve hudaina bhane, provider lai call garera complaint file garnus.",
+        "response": "Internet dherai katdai cha? Router restart garnus. Aba pani kaam nagare provider sanga contact garnus."
+    },
+    {
+        "question": "Order wrong address ma gayo, aba thik kasari garne?",
+        "context": "Order wrong address ma gayo bhane, delivery partner sanga contact garnus ani naya address provide garnus. Agar already deliver bhaisakyo bhane support team sanga sodhnus.",
+        "response": "Wrong address ma gayo? Delivery partner sanga address update garnus. Deliver bhaisakyo bhane support team lai sodhnus."
+    },
+    {
+        "question": "Free gift kahan cha, delivery ma include bhaena jasto cha?",
+        "context": "Free gift missing cha bhane, order ko invoice ani details verify garnus. Aba support team lai issue report garnus.",
+        "response": "Free gift chaiye thikcha? Support team sanga sodhnus, aba check garcha."
+    },
+    {
+        "question": "Mero ID verification pending cha, confirm kasari garne?",
+        "context": "ID verification pending cha bhane, uploaded document ko clarity check garnus. Aba pani verification success hudaina bhane, support team sanga manual verify ko lagi contact garnus.",
+        "response": "ID verify chaina? Document hernus clear cha ki. Aba pani hudaina bhane support lai sodhnus."
+    },
+    {
+        "question": "Loyalty points kahan use garna milcha?",
+        "context": "Loyalty points checkout process ma use garna milcha. Point balance ani eligible items checkout page ma auto-apply huncha.",
+        "response": "Points use garna checkout ma janus. Eligible item cha bhane auto lagcha."
+    },
+    {
+        "question": "Call center ma kohi response gardaina, aba ke garne?",
+        "context": "Call center ma response chaina bhane, live chat ya email ko option use garnus. Issue priority mark garnus fast response ko lagi.",
+        "response": "Call center busy cha? Chat ya email try garnus ani aba fast response ka lagi priority halnus."
+    },
+    {
+        "question": "EMI payment ko due reminder aayena.",
+        "context": "EMI reminder aayena bhane, EMI dashboard ma due date check garnus. Aba pani confusion cha bhane, bank sanga contact garnus.",
+        "response": "EMI reminder chaina? Dashboard ma due date hernus. Aba bank lai sodhnus."
+    },
+    {
+        "question": "Warranty claim process dherai time lagcha.",
+        "context": "Warranty claim process normally 5-7 din lagcha. Aba time exceed bhaecha bhane, case escalate garna support sanga sodhnus.",
+        "response": "Warranty process dherai time lagcha? Escalate garna support sanga sodhnus."
+    },
+    {
+        "question": "Mobile recharge ko plan galat select bhayo, refund milcha?",
+        "context": "Recharge galat plan ma bhaecha bhane, refund ko lagi provider sanga complaint garnus. Refund eligibility plan type anusar depend garcha.",
+        "response": "Recharge galat cha? Provider lai sodhnus refund possible cha ki."
+    },
+    {
+        "question": "Order delivery timing ma coordinate garna sakdina.",
+        "context": "Delivery timing coordinate garna delivery partner sanga contact garnus. Special timing ma delivery cha bhane support team le assistance dincha.",
+        "response": "Timing milcha chaina? Delivery partner sanga milaunus. Special delivery cha bhane support lai sodhnus."
+    },
+    {
+        "question": "Mero wallet amount deduct bhayo, aba refund kati din lagcha?",
+        "context": "Wallet amount deduct bhayo bhane, refund 2-3 working days ma aauchha. Agar account ma deposit dekhaudaina bhane support team sanga sodhnus.",
+        "response": "Wallet deduct bhayo? 2-3 din ma paisa aauchha. Aba support lai sodhnus."
+    },
+    {
+        "question": "App crash hune problem cha, aba kasari thik garne?",
+        "context": "App crash bhane latest version install garnus ani phone restart garnus. Aba pani kaam nagarcha bhane app ko cache clear garnus.",
+        "response": "App crash? Latest version install garnus ani cache clear garera try garnus."
+    },
+    {
+        "question": "Account ma unauthorized login dekhiyo, aba ke garne?",
+        "context": "Unauthorized login dekhiyo bhane password immediately reset garnus. Two-factor authentication enable garnus for extra security.",
+        "response": "Unauthorized login? Password reset garnus ani 2FA enable garnus aba."
+    },
+    {
+        "question": "Delivery charge free cha ki applicable cha?",
+        "context": "Delivery charge eligibility order amount ya offer ko terms anusar depend garcha. Terms clear garna support sanga sodhnus.",
+        "response": "Delivery charge free cha? Order amount ya terms check garnus. Aba support lai sodhnus clear garna."
+    },
+    {
+        "question": "Mero previous complaint ko update aayeko chaina.",
+        "context": "Complaint ko update regularly 'My Complaints' section ma check garnus. Agar response delay cha bhane, support lai escalate request garnus.",
+        "response": "Complaint update chaina? 'My Complaints' hernus ani escalate request garnus aba."
+    },
+    {
+        "question": "New account ko welcome offer kasari claim garne?",
+        "context": "Welcome offer claim garna, new account sign-up pachi offer code apply garnus. Agar issue cha bhane, support team sanga confirmation garnus.",
+        "response": "Welcome offer claim? Sign-up pachi offer code halnus. Aba support sanga confirm garnus."
+    },
+    {
+        "question": "Discount apply hunai sakena, aba ke garne?",
+        "context": "Discount apply nagareko bhane code validity ya eligibility items verify garnus. Aba pani thik chaina bhane, support team lai sodhnus.",
+        "response": "Discount nagareko? Code valid cha ki check garnus. Aba support lai sodhnus."
+    },
+    {
+        "question": "Courier delay ko update dinus.",
+        "context": "Courier delay weather ya other reasons le huna sakcha. Tracking ID use garera status check garnus. Aba pani clear hudaina bhane support lai sodhnus.",
+        "response": "Courier delay cha? Tracking ID use garera check garnus. Aba support lai sodhnus."
+    },
+    {
+        "question": "App ko notification kaam garena.",
+        "context": "Notification issue cha bhane phone settings ma app permissions ani notification enable garnus. Aba pani problem cha bhane app update garnus.",
+        "response": "Notification kaam garena? Phone settings check garnus ani update try garnus aba."
+    },
+    {
+        "question": "Free trial ko reminder chahi cha, kasari set garne?",
+        "context": "Free trial ko reminder set garna app ma 'Reminders' section ya phone calendar use garnus. Trial expire hunu 1 din agadi alert aauchha.",
+        "response": "Trial reminder? App ko 'Reminders' section ya calendar ma set garnus aba."
+    }
+]

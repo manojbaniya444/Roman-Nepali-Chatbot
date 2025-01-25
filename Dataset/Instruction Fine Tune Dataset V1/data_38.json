@@ -1,0 +1,442 @@
+[
+    {
+        "question": "Kathmandu ko population kati cha?",
+        "context": "Nepal ko Kathmandu sahar ko population 2022 ko ankada anusar karib 1.5 million cha. Yo sahar Nepal ko rajdhani ho ra samyukta sanskritik thau haru ko liyera bishesh cha.",
+        "answer": "Kathmandu ko population 1.5 million ho."
+    },
+    {
+        "question": "Mount Everest ko unchai kati ho?",
+        "context": "Mount Everest, jun sansarma sabai bhanda uncha chuchuro ho, ko unchai 8848.86 meter cha. Yo sagarmatha ra chomolungma pani bhanincha.",
+        "answer": "Mount Everest ko unchai 8848.86 meter ho."
+    },
+    {
+        "question": "Pashupatinath mandir kata cha?",
+        "context": "Pashupatinath mandir Kathmandu, Nepal ma cha. Yo mandir Hindu dharma ko mahatwapurna thau ho ra Vishwako dharmik sthalaharu ma ek ho.",
+        "answer": "Pashupatinath mandir Kathmandu ma cha."
+    },
+    {
+        "question": "Nepal ko rajdhani kata ho?",
+        "context": "Nepal ko rajdhani Kathmandu ho. Kathmandu sahar Nepal ko sabai bhanda thulo sahar pani ho ra ya jatiya bibidhata dekhincha.",
+        "answer": "Nepal ko rajdhani Kathmandu ho."
+    },
+    {
+        "question": "Pokhara ma ke ke famous cha?",
+        "context": "Pokhara, Nepal ko ek sundar sahar ho, jun Fewa taal, Mahendra gufa, Bindyabasini mandir ra sarangkot jasta thau haru ko lagi famous cha.",
+        "answer": "Pokhara ma Fewa taal, Mahendra gufa, Bindyabasini mandir ra sarangkot famous cha."
+    },
+    {
+        "question": "Mero order ko status k ho?",
+        "context": "Tapaiko order #12345 ko status 'Shipped' cha. Yo 5 din bhitra tapaiko thau ma delivery huney cha. Delivery partner ko tracking ID: ABC12345.",
+        "answer": "Tapaiko order ko status 'Shipped' cha. Delivery 5 din bhitra huney cha."
+    },
+    {
+        "question": "Refund process garna kasto time lagcha?",
+        "context": "Refund process 7-10 working din lagcha. Tapaiko bank account ma amount transfer huney cha, jaba process complete huncha. Refund ID #RF123456 ko barema status check garna customer support lai samparka garnu hos.",
+        "answer": "Refund process 7-10 working din lagcha."
+    },
+    {
+        "question": "Product exchange garna milcha?",
+        "context": "Exchange policy anusar, product delivery bhayeko 10 din bhitra exchange request garna milcha. Exchange request approval pachi naya product 5 din ma dispatch huney cha.",
+        "answer": "Product exchange garna milcha, tara 10 din bhitra request garnu parcha."
+    },
+    {
+        "question": "Discount code kasari use garne?",
+        "context": "Discount code use garna checkout page ma 'Apply Discount Code' bhanne box ma code halnu hos. Promo code valid cha bhane discount automatic apply huncha.",
+        "answer": "Checkout page ma 'Apply Discount Code' box ma code halera discount use garna saknuhuncha."
+    },
+    {
+        "question": "Warranty claim garna ke garnu parcha?",
+        "context": "Warranty claim garna tapaiko invoice ko copy ra product ko defect ko photo pathaunu parcha. Claim process complete huney bitikai 7 din ma replacement athwa repair garna milcha.",
+        "answer": "Warranty claim garna invoice ra defect ko photo pathaunu parcha."
+    },
+    {
+        "question": "Delivery charge kati cha?",
+        "context": "Delivery charge Rs. 100 cha, tara order amount Rs. 2000 bhanda mathi bhaye free delivery cha.",
+        "answer": "Delivery charge Rs. 100 cha, tara Rs. 2000 bhanda mathi free cha."
+    },
+    {
+        "question": "Return policy ke cha?",
+        "context": "Return policy anusar, tapaile product 15 din bhitra return garna milcha, tara product original condition ma hunu parcha. Return approval pachi refund 7 din ma milcha.",
+        "answer": "Tapaile 15 din bhitra product return garna milcha, original condition ma."
+    },
+    {
+        "question": "Product kasari track garne?",
+        "context": "Product track garna tracking ID use garera delivery partner ko website ma januhos. Tracking ID tapaiko order confirmation email ma cha.",
+        "answer": "Delivery partner ko website ma tracking ID halera product track garna saknuhuncha."
+    },
+    {
+        "question": "Offer haru ko barema janakari dinu?",
+        "context": "Hami le aba Rs. 1500 ko mathi ko order ma 10% discount offer gari raheko chau. Promo code 'FESTIVE10' use garna parcha. Offer 20th January samma valid cha.",
+        "answer": "Rs. 1500 mathi ko order ma 10% discount cha. Promo code 'FESTIVE10' 20th January samma valid cha."
+    },
+    {
+        "question": "Mero account ko details update garna sakchhu?",
+        "context": "Account details update garna 'My Account' section ma januhos. Email, phone number ra address update garna milcha. Update garnay pachi OTP confirm garnu parcha.",
+        "answer": "Tapaile 'My Account' section bata details update garna saknuhuncha."
+    },
+    {
+        "question": "Damaged product ko barema complain kasari garne?",
+        "context": "Damaged product complain garna 'Contact Us' section ma januhos ra complaint form bharna parcha. Photo proof ra order ID provide garnu parcha. Complaint register pachi 48 ghanta bhitra feedback milcha.",
+        "answer": "Damaged product complain 'Contact Us' section bata garna saknuhuncha."
+    },
+    {
+        "question": "Store timing ke ho?",
+        "context": "Hamara store Monday dekhi Saturday samma 10 AM dekhi 8 PM samma khula huncha. Sunday ma store band huncha.",
+        "answer": "Store timing Monday dekhi Saturday samma 10 AM dekhi 8 PM ho. Sunday band huncha."
+    },
+    {
+        "question": "Loyalty points kasari redeem garne?",
+        "context": "Loyalty points redeem garna checkout page ma 'Redeem Points' option select garnu parcha. 100 points le Rs. 10 discount ko barabar huncha. Minimum 500 points cha bhane matra redeem garna milcha.",
+        "answer": "Checkout page ma 'Redeem Points' option select garera loyalty points use garna saknuhuncha."
+    },
+    {
+        "question": "Gift wrap option available cha?",
+        "context": "Gift wrap option checkout page ma cha. Rs. 50 ko additional charge cha. Tapaile wrapping style ra message select garna saknuhuncha.",
+        "answer": "Gift wrap option available cha, Rs. 50 ko additional charge sath."
+    },
+    {
+        "question": "Cash on delivery available cha?",
+        "context": "Cash on delivery (COD) option orders ko lagi available cha, tara maximum Rs. 5000 ko limit sath. COD use garnay orders ma additional Rs. 30 charge lagcha.",
+        "answer": "Cash on delivery available cha, tara Rs. 5000 ko limit sath ra Rs. 30 ko charge lagcha."
+    },
+    {
+        "question": "Out of stock product phiri available huncha?",
+        "context": "Out of stock product 15 din bhitra phiri stock ma huncha. Tapaile 'Notify Me' option click garera email notification ko lagi subscribe garna saknuhuncha.",
+        "answer": "Out of stock product 15 din bhitra available huncha."
+    },
+    {
+        "question": "Bulk order discount cha?",
+        "context": "Bulk order ko lagi hami le special discount provide garchau. 10 units ko mathi ko orders ma custom pricing ko lagi support team sanga samparka garnu hos.",
+        "answer": "Bulk order ko lagi special discount cha. Support team sanga samparka garnuhos."
+    },
+    {
+        "question": "Subscription cancel kasari garne?",
+        "context": "Subscription cancel garna 'My Subscriptions' section ma januhos ra 'Cancel Subscription' button click garnu hos. Cancellation confirm hunay pachi email aauxa.",
+        "answer": "Tapaile 'My Subscriptions' section ma janera subscription cancel garna saknuhuncha."
+    },
+    {
+        "question": "Mero product customize garna milcha?",
+        "context": "Customized product order garna milcha. Tapaile 'Customization' section ma janera apno preferences provide garna saknuhuncha. Delivery time 5 din thap huncha.",
+        "answer": "Product customize garna milcha. Delivery time 5 din thap huncha."
+    },
+    {
+        "question": "International shipping available cha?",
+        "context": "International shipping available cha. Shipping charges country anusar vary huncha ra delivery time 10-15 din lagcha.",
+        "answer": "International shipping available cha, 10-15 din lagcha."
+    },
+    {
+        "question": "Order cancel garna milcha?",
+        "context": "Order dispatch bhanda pahila cancel garna milcha. 'My Orders' section ma janera 'Cancel Order' button click garnu hos.",
+        "answer": "Dispatch bhanda pahila order cancel garna milcha."
+    },
+    {
+        "question": "Delivery delay bhaye ke garne?",
+        "context": "Delivery delay bhaye tapaile 'My Orders' section ma janera 'Raise Issue' button click garna saknuhuncha. Hami le tapaiko issue 24 ghanta bhitra review garchau ra update dinchau.",
+        "answer": "Delivery delay bhaye 'My Orders' section bata 'Raise Issue' garna saknuhuncha."
+    },
+    {
+        "question": "Payment fail bhayo vane aba ke garne?",
+        "context": "Payment fail bhaye pachi, bank account ko statement check garnu hos. Paisa deduct bhayeko cha bhane hami le 7 din bhitra refund garchau. Refund status check garna customer support sanga samparka garnuhos.",
+        "answer": "Payment fail bhaye bank statement check garnu hos, refund 7 din bhitra huncha."
+    },
+    {
+        "question": "Prepaid orders cancel garepachi paisa refund huncha?",
+        "context": "Prepaid orders cancel garepachi paisa 7-10 working din bhitra tapaiko original payment method ma refund huncha.",
+        "answer": "Prepaid orders cancel garepachi paisa 7-10 din bhitra refund huncha."
+    },
+    {
+        "question": "Free delivery kasari paune?",
+        "context": "Free delivery ko lagi, order amount Rs. 2000 ko mathi hunu parcha. Tyo amount bhanda kam order ma Rs. 100 ko delivery charge lagcha.",
+        "answer": "Order Rs. 2000 mathi bhaye free delivery pauna saknuhuncha."
+    },
+    {
+        "question": "Packaging damaged cha, ke garne?",
+        "context": "Packaging damaged cha bhane, package kholnu agadi photo linu hos ra 'Contact Us' section ma photo pathaera complaint garna saknuhuncha. Hami le 48 ghanta bhitra response dinchau.",
+        "answer": "Packaging damaged cha bhane photo liera 'Contact Us' section ma complaint garna saknuhuncha."
+    },
+    {
+        "question": "Discount code invalid dekhaudai cha, ke garne?",
+        "context": "Discount code invalid dekhaudai cha bhane code ko expiry date check garnuhos. Code valid cha bhane customer support sanga samparka garnuhos.",
+        "answer": "Discount code invalid cha bhane expiry date check garnuhos, support sanga samparka garnuhos."
+    },
+    {
+        "question": "Product return ma charge lagcha?",
+        "context": "Product return ma additional charge lagdaina, tara product original condition ma hunu parcha. Courier partner free pickup ko lagi coordinate garchan.",
+        "answer": "Product return ma charge lagdaina, original condition ma hunu parcha."
+    },
+    {
+        "question": "Mero order confirm bhayo ki bhayena?",
+        "context": "Order confirm bhaye pachi tapaile confirmation email ra SMS prapt garnu huncha. Tapaiko order ID #56789 confirm cha.",
+        "answer": "Tapaiko order ID #56789 confirm cha."
+    },
+    {
+        "question": "Payment options ke ke cha?",
+        "context": "Payment options ma credit card, debit card, net banking, UPI, wallet, ra cash on delivery (COD) available cha.",
+        "answer": "Credit card, debit card, net banking, UPI, wallet, ra COD available cha."
+    },
+    {
+        "question": "Order tracking ko lagi email aako chaina, ke garne?",
+        "context": "Order tracking ko lagi email chaina bhane spam folder check garnuhos. Email tyaha pani chaina bhane customer support sanga samparka garnuhos.",
+        "answer": "Spam folder check garnuhos, email chaina bhane support sanga samparka garnuhos."
+    },
+    {
+        "question": "Product ko warranty card aayena, ke garne?",
+        "context": "Warranty card na aayeko cha bhane order ID #12345 pathaera customer support lai inform garnuhos. Hami duplicate card dispatch garchau.",
+        "answer": "Order ID pathaera support lai inform garnuhos, hami duplicate warranty card dispatch garchau."
+    },
+    {
+        "question": "Installation service ko lagi contact kasari garne?",
+        "context": "Installation service ko lagi confirmation email ma diyeko number ma samparka garnuhos. Service schedule garna hami le 24 ghanta bhitra confirm garchau.",
+        "answer": "Email ma diyeko number ma samparka garnuhos, hami service confirm garchau."
+    },
+    {
+        "question": "Mero membership card renew garna cha?",
+        "context": "Membership card renew garna 'My Membership' section ma janera 'Renew Now' button click garnuhos. Renewal charge Rs. 500 cha.",
+        "answer": "Membership card renew 'My Membership' section bata garna saknuhuncha."
+    },
+    {
+        "question": "Gift card kasari use garne?",
+        "context": "Gift card use garna checkout page ma 'Apply Gift Card' section ma code halnu hos. Remaining balance future orders ma pani use garna milcha.",
+        "answer": "Checkout page ma 'Apply Gift Card' section ma code halera use garna saknuhuncha."
+    },
+    {
+        "question": "Delayed delivery ko compensation cha?",
+        "context": "Delayed delivery ko lagi compensation policy anusar, hami le delivery charge refund garna sakchau. Please 'Raise Issue' section ma janera claim garnuhos.",
+        "answer": "Delivery charge refund ko lagi 'Raise Issue' section ma claim garnuhos."
+    },
+    {
+        "question": "Mero order ko status k ho?",
+        "context": "Order status ko barema janakari ko lagi, hami le hamesha 'My Orders' section ma tapaiko order ko sabai update rakhdai aayeko cha. Tapaiko order #12345 ko status 'Shipped' cha. Courier partner: FastExpress. Tracking ID: ABC12345. Tapaiko order hami le 5th January 2025 ma dispatch gareko thiyau, ra yo delivery location ma 10th January 2025 samma pugdai cha. Delivery partner le yo samayama tapaiko order deliver garna nahi priority rakheko cha. Delivery ma kunai samasya aayeko cha bhane, kripaya hami sanga turuntai samparka garnuhos.",
+        "answer": "Tapaiko order ko status 'Shipped' cha. Delivery 10th January samma huney cha."
+    },
+    {
+        "question": "Refund process garna kasto time lagcha?",
+        "context": "Refund process ko barema janakari ko lagi: Tapaiko order refund ko lagi eligibility check huncha, jasma order cancel garne ya return garne kaaran ko review garincha. Refund process suru hunay pachi hami le tapaiko refund 7-10 working din bhitra original payment method ma transfer garchau. Debit/credit card ko lagi processing bank le samaya lagcha. Wallet users ko lagi refund turunta huncha. Tapaiko refund request ID: RF123456 hami le 8th January 2025 ma receive gareko thiyau, ra yo abastama processing ma cha. Refund ma kunai samasya aayeko cha bhane, kripaya hami sanga turuntai samparka garnuhos.",
+        "answer": "Refund process 7-10 working din lagcha. Tapaiko request processing ma cha."
+    },
+    {
+        "question": "Product exchange garna milcha?",
+        "context": "Exchange policy: Exchange request product delivery ko 10 din bhitra garna parcha. Product exchange garna product unused ra original packaging ma hunu parcha. Exchange process start garna 'My Orders' section ma janera 'Request Exchange' button click garnuhos. Tapaiko request hami le 48 ghanta bhitra review garchau. Exchange approval pachi, hami le 5 din bhitra naya product dispatch garna suru garchau. Delivery timeline hami le courier partner ko samayama nirbhar garera finalize garchau. Tapaiko current order eligible cha bhane, yo process turunta start garna saknuhuncha.",
+        "answer": "Product exchange garna milcha, tara 10 din bhitra request garnu parcha."
+    },
+    {
+        "question": "Warranty claim garna ke garnu parcha?",
+        "context": "Warranty claim ko lagi, tapaiko product le manufacturer warranty ko terms meet garnu parcha. Invoice ko copy, product defect ko photo/video ra order ID provide garnu parcha. Warranty claim ko lagi, tapaiko request hami le receive gareko 24-48 ghanta bhitra process huncha. Manufacturer le warranty request approve garna turunta samparka garcha. Product replacement ya repair ko lagi, aba 7 din sama samaya lagna sakcha. Tapaiko warranty request ID: WC98765 ko status update ma email ra SMS pathaune garchau. Kripaya aba ko samaya ma email check garna nabirsanuhos.",
+        "answer": "Warranty claim garna invoice ra defect ko photo pathaunu parcha. Process 7 din ma complete huncha."
+    },
+    {
+        "question": "Return policy ke cha?",
+        "context": "Hami le transparent return policy ko lagi commitment gareka chau. Product return ko lagi 15 din ko samaya diinchau, tara product original condition ma hunu parcha. Return request suru garna 'My Orders' section ma 'Request Return' button click garnuhos. Return pickup service free cha, tara remote areas ma kunai courier charges applicable huncha. Return approval bhayepachi hami le 7 working din bhitra refund process garchau. Refund original payment method ma huncha. Digital wallet users ko lagi refund process faster huncha. Return policy ka details 'Terms & Conditions' section ma pani available cha.",
+        "answer": "15 din bhitra product return garna milcha, original condition ma hunu parcha."
+    },
+    {
+        "question": "Gift wrap option available cha?",
+        "context": "Gift wrap option checkout page ma available cha. Yo service le tapaiko product lai sundar gift wrapping ma provide garna sahayog garcha. Gift wrap ko lagi Rs. 50 ko additional charge lagcha. Tapaile wrapping style (classic ya modern) ra personal message choose garna saknuhuncha. Delivery ma wrapping process le 1 additional day samaya lagna sakcha. Tapaiko order ID: GIFT12345 le gift wrap request include gareko cha, ra wrapping process aba suru hune cha. Wrapping quality ma kahile compromise garna mandainau, tapaiko gift perfect present huncha.",
+        "answer": "Gift wrap option available cha, Rs. 50 ko charge sath."
+    },
+    {
+        "question": "Bulk order discount cha?",
+        "context": "Bulk order ka lagi hami le customized pricing ra discount options provide garchau. Minimum 10 units ko order hunuparcha bulk discount claim garna. Discount rate product category, quantity, ra location anusar differ huncha. Bulk order request garna, tapaile 'Contact Us' section ma janera inquiry form fill garna parcha. Hami le 48 ghanta bhitra quote provide garchau. Special requests jasto delivery timeline adjustments ya packaging specifications hami customize garna tayar chau. Tapaiko bulk order inquiry ID: BULK9876 abastama processing ma cha.",
+        "answer": "Bulk order ka lagi special discount cha. Inquiry form fill garnuhos."
+    },
+    {
+        "question": "Delivery charge kati cha?",
+        "context": "Delivery charge Rs. 100 cha, tara order amount Rs. 2000 bhanda mathi bhaye free delivery provide huncha. Remote areas ka lagi delivery charge Rs. 150 huncha. Tapaiko order total amount Rs. 2200 cha, jasle free delivery qualify garcha. Free delivery ka lagi eligibility automatic system dwara calculate huncha. Delivery samayama courier partner le kunai update provide gare bhane tapaile email ya SMS dwara notification prapt garnuhuncha. Hami le delivery charge transparent rakheko chau ra kunai hidden charges lagdainau.",
+        "answer": "Delivery charge Rs. 100 cha, tara Rs. 2000 bhanda mathi free cha."
+    },
+    {
+        "question": "Subscription pause garna milcha?",
+        "context": "Subscription pause garna hami le tapaiko 'Account Settings' ma option provide gareka chau. Subscription pause ko lagi maximum 3 mahina samma limit cha. Pause ko samaya ma billing suspend huncha, tara pause pachi service automatically resume huncha. Tapaiko subscription ID: SUB12345 le active pause request ma cha, ra yo 15th January 2025 dekhi 15th April 2025 samma effective huncha. Subscription pause cancel garna chahanu huncha bhane, hami sanga turunta samparka garnuhos.",
+        "answer": "Subscription 3 mahina samma pause garna milcha, billing suspend huncha."
+    },
+    {
+        "question": "Home loan ko interest rate kati cha?",
+        "context": "Hami le home loan ko lagi competitive interest rates provide gareka chau. Interest rate loan amount, tenure, ra credit score ko aadhar ma vary huncha. Current floating rate: 8.5% per annum, fixed rate: 9.0% per annum. Loan processing fees: 0.5% of the loan amount cha. Loan ka lagi required documents ma identity proof, address proof, income proof, ra property documents sammilit huncha. Tapaiko inquiry ID: HL987654 processing ma cha, ra hami le 3-5 working din ma rate finalize garchau.",
+        "answer": "Home loan interest floating rate 8.5%, fixed rate 9.0% per annum cha."
+    },
+    {
+        "question": "Flight ticket reschedule garna milcha?",
+        "context": "Flight ticket reschedule garna 'My Bookings' section ma janera 'Reschedule' option select garnu parcha. Reschedule request suru garnay pachi, additional fees ya fare difference applicable huncha. Tapaiko booking ID: FL123456 ko flight 'Kathmandu to Delhi' cha, original departure date 20th January 2025. New date ko lagi availability check gare pachi hami le confirmation dinchau. Reschedule request submit garisakepachi kunai cancellation policy valid hudaina. Travel ma changes chahanu huncha bhane, turunta email ya phone dwara hami lai inform garnuhos.",
+        "answer": "Flight ticket reschedule 'My Bookings' section bata garna milcha, extra fees lagna sakcha."
+    },
+    {
+        "question": "Electricity bill auto-payment kasari suru garne?",
+        "context": "Electricity bill auto-payment suru garna 'Bill Payments' section ma janera auto-debit option enable garnuhos. Tapaiko bank details ya wallet link garna parcha. Auto-payment suru bhayepachi, due date ma automatic payment process huncha ra successful payment ko confirmation SMS ya email dwara prapt huncha. Auto-payment disable garna same section ma 'Disable Auto-Debit' option available cha. Tapaiko auto-payment ID: EBILL98765 activate cha ra hami le tapaiko next due date 5th February 2025 ma charge garna suru garchau.",
+        "answer": "Electricity bill auto-payment 'Bill Payments' section ma enable garna saknuhuncha."
+    },
+    {
+        "question": "Online course access expire bhayo, renew garna milcha?",
+        "context": "Online course renew garna 'My Courses' section ma janera renew option click garnuhos. Renew fee hami le course category ko aadhar ma charge garchau. Tapaiko course: 'Data Science Basics' expire date 10th January 2025 ma thiyo. Renew garepachi 6 mahina samma additional access milcha. Renewal request suru pachi, course progress same raheko huncha, ra kunai naya features add bhaye access automatically available huncha. Tapaiko request ID: COURSE12345 abastama pending cha.",
+        "answer": "Online course renew 'My Courses' section ma garna milcha, 6 mahina samma additional access huncha."
+    },
+    {
+        "question": "Vehicle service schedule garna sakchhu?",
+        "context": "Vehicle service schedule garna 'Service Booking' section ma janera vehicle details ra preferred date select garnuhos. Hami le doorstep pickup ya service center visit ko option provide garchau. Regular service package ma oil change, tire rotation, ra basic inspection include huncha. Service charges Rs. 1500 dekhi Rs. 3000 samma vehicle type ko aadhar ma vary huncha. Tapaiko vehicle ID: VH12345 ko last service 6th October 2024 ma bhaeko thiyo. Recommended service interval 6 mahina ko cha.",
+        "answer": "Vehicle service 'Service Booking' section ma schedule garna milcha, doorstep pickup option available cha."
+    },
+    {
+        "question": "Courier package lost bhayo, aba ke garne?",
+        "context": "Courier package lost huncha bhane compensation ya replacement claim ko process suru garna hami le form fill option rakheko chau. 'Contact Us' section ma janera package details ra invoice upload garna parcha. Claim ko lagi 7-10 din lagcha, ra investigation pachi compensation provide huncha. Tapaiko tracking ID: PKG123456 last update 5th January 2025 ma 'In Transit' dekhiyo. Courier partner sanga inquiry abastama cha. Kunai update pachi email ya SMS ma notification pathaune garincha.",
+        "answer": "Courier lost ko lagi 'Contact Us' ma form fill garera compensation ya replacement claim garna saknuhuncha."
+    },
+    {
+        "question": "Gym membership suspend garna milcha?",
+        "context": "Gym membership suspend garna medical ya travel reasons provide garnu parcha. Suspend request ko lagi 'Membership' section ma form submit garna parcha. Maximum suspend time 3 mahina samma cha. Suspend samaya ma monthly charges stop huncha, tara reactivation pachi normal billing resume huncha. Tapaiko membership ID: GYM98765 suspend request 12th January 2025 ma submit bhaeko cha. Reactivate garna chahanu huncha bhane 'Reactivate Membership' option click garnuhos.",
+        "answer": "Gym membership medical ya travel reasons ko lagi 3 mahina samma suspend garna milcha."
+    },
+    {
+        "question": "Festival sale ma k k offers available cha?",
+        "context": "Hami le festival sale ma special discounts provide gareka chau. Electronics ma up to 40% off, clothing ma flat 30% off, ra home appliances ma buy 1 get 1 free offer available cha. Sale period 15th January 2025 dekhi 20th January 2025 samma cha. Additional cashback offers credit card users ko lagi applicable huncha. Offers ko details 'Festival Sale' section ma mention gareka cha. Tapaiko order ID: FEST12345 aba processing ma cha ra discount apply bhaeko cha.",
+        "answer": "Festival sale ma electronics ma 40% off, clothing ma 30% off, ra home appliances ma BOGO offer cha."
+    },
+    {
+        "question": "Mero broadband connection slow cha, aba ke garne?",
+        "context": "Broadband connection slow bhaye ko lagi hami le troubleshooting guide provide gareka chau. Sabai devices restart garnu, router ko placement change garera signal check garnu, ra hami ko speed test tool use garnuhos. Connection issue resolve na bhaye, 'Support' section ma complaint register garna saknuhuncha. Tapaiko broadband ID: BB12345 ma 9th January 2025 ma complaint register bhaeko cha, ra technician visit 12th January 2025 ma scheduled cha. Temporary solution ko lagi alternate network use garna recommend garchau.",
+        "answer": "Broadband slow cha bhane troubleshooting guide follow garnu, complaint 'Support' section ma register garnuhos."
+    },
+    {
+        "question": "Hospital appointment cancel garna milcha?",
+        "context": "Hospital appointment cancel garna 'My Appointments' section ma janera 'Cancel Appointment' option select garnu parcha. Cancelation policy anusaar, appointment cancel 24 ghanta bhitra gare refund full huncha. Late cancelation ma partial refund applicable huncha. Tapaiko appointment ID: HOSP98765 for Dr. Sharma ko 15th January 2025, 10:00 AM ma scheduled cha. Refund process cancel request submit pachi 5-7 working days ma complete huncha. Kunai urgency cha bhane, hospital ko helpline ma contact garnuhos.",
+        "answer": "Appointment cancel garna 'My Appointments' ma januhos, 24 ghanta bhitra cancel bhaye full refund milcha."
+    },
+    {
+        "question": "Car insurance renewal kasari garne?",
+        "context": "Car insurance renewal ko lagi 'Insurance Services' section ma janera renewal form fill garnu parcha. Renewal policy ko lagi premium Rs. 10,000 annually cha, ra last policy ID: CARINS12345 ko expire date 20th January 2025 ma cha. Renewal pachi updated policy document tapaiko registered email ma send huncha. Additional add-ons jasto ki 'Roadside Assistance' ya 'Zero Depreciation' select garna milcha. Renewal process successful bhaye pachi, policy activate turunta huncha.",
+        "answer": "Car insurance renewal 'Insurance Services' section ma garna milcha, premium Rs. 10,000 annually cha."
+    },
+    {
+        "question": "Blood test report kasari download garne?",
+        "context": "Blood test report download garna 'Health Reports' section ma januhos ra login garera report ID enter garnuhos. Tapaiko blood test ID: LAB12345 ko report upload 11th January 2025 ma bhaeko cha. Report PDF format ma download garna milcha. Report ko barema kunai confusion cha bhane, lab helpline ma contact garnuhos. Mobile app users ko lagi direct notification pathaune feature available cha.",
+        "answer": "Blood test report 'Health Reports' section ma download garna milcha, PDF format ma available cha."
+    },
+    {
+        "question": "Hotel booking reschedule garna milcha?",
+        "context": "Hotel booking reschedule garna 'My Bookings' section ma janera 'Modify Booking' option click garnuhos. Booking reschedule ko lagi room availability ra fare difference ko aadhar ma charges lagna sakcha. Tapaiko booking ID: HTL12345 ko original check-in date 20th January 2025, ra naya preferred date 25th January 2025 cha. Confirmation email naya date ko approval pachi send huncha. Reschedule request submit bhayepachi, kunai cancellation option available hudaina.",
+        "answer": "Hotel booking reschedule 'My Bookings' ma garna milcha, availability anusar charges lagna sakcha."
+    },
+    {
+        "question": "University admission form ko last date k ho?",
+        "context": "University admission form fill garna 'Admissions' section ma janera form fill garnuhos. Admission ID: UNI987654 ma enrollment ongoing cha. Last date form submit garna 31st January 2025 cha. Required documents: academic transcripts, photo ID, passport-size photo, ra recommendation letter. Application fee Rs. 2000 cha, jun online ya offline payment dwara pay garna milcha. Form submit gare pachi status track 'Admissions Status' section ma garna saknuhuncha.",
+        "answer": "University admission form ko last date 31st January 2025 ho."
+    },
+    {
+        "question": "Lost baggage claim kasari garne?",
+        "context": "Lost baggage claim ko lagi, airport counter ma report file garnu parcha. Claim ID generate gare pachi, baggage ko details (color, size, tag number) mention garna parcha. Compensation policy airline ko terms ma dependent huncha. Tapaiko claim ID: BAG12345 register 10th January 2025 ma gareko cha, ra inquiry abastama cha. Updates regularly SMS ya email dwara provide garincha. Compensation approval pachi, paisa 15 din ma transfer huncha.",
+        "answer": "Lost baggage claim report file garera process start garna milcha. Updates SMS ya email ma milcha."
+    },
+    {
+        "question": "Water purifier ko filter change kasari order garne?",
+        "context": "Water purifier ko filter change order garna hami le 'Product Services' section ma online order option provide gareka chau. Tapaiko purifier ID: WPUR123456 ko recommended filter replacement interval 6 mahina cha. Filter order gare pachi, 5-7 din ma delivery huncha. Installation ko lagi technician service separate chargeable cha. Tapaiko last filter change 1st July 2024 ma bhaeko thiyo, ra aba replacement due cha. Filter availability ko lagi stock regularly check garnuhos.",
+        "answer": "Water purifier filter 'Product Services' section ma order garna milcha, delivery 5-7 din ma huncha."
+    },
+    {
+        "question": "Tax filing ko deadline k ho?",
+        "context": "Tax filing ko lagi hami le official website ma details update gareka chau. Individual taxpayers ko lagi filing deadline 31st March 2025 cha. Late filing ko lagi penalty applicable huncha, ra interest per day charge huncha. Required documents ma Form 16, income proof, ra investment details sammilit huncha. Tax consultant ko assistance cha bhane, hami ko helpline dwara samparka garna milcha. Filing process complete bhayepachi confirmation email provide garincha.",
+        "answer": "Tax filing ko deadline 31st March 2025 ho. Late filing ma penalty lagcha."
+    },
+    {
+        "question": "Data plan auto-renew off kasari garne?",
+        "context": "Data plan auto-renew off garna 'Manage Subscriptions' section ma janera toggle button off garnuhos. Auto-renew disable bhayepachi, current plan expire bhaye pachi renewal stop huncha. Tapaiko data plan ID: DP98765 currently active cha, ra renewal 20th January 2025 ma schedule cha. Plan renew garna chahanu huncha bhane, manually recharge garna milcha. Plan related kunai confusion cha bhane, 24/7 customer support available cha.",
+        "answer": "Data plan auto-renew 'Manage Subscriptions' ma toggle off garera disable garna milcha."
+    },
+    {
+        "question": "Online order ko delivery delay cha, ke garne?",
+        "context": "Online order delivery delay ko lagi hami le 'Track Order' section provide gareka chau. Tapaiko order ID: ORD987654 ko delivery estimated date 15th January 2025 ho, tara logistics partner sanga delay update aaye ko cha. Compensation ya refund ko lagi complaint 'Support' section ma register garna parcha. Hami le complaint ID generate garepachi 5-7 working days ma inquiry garchau. Temporary solution ko lagi, alternate product select garna 'Product Replacement' option available cha.",
+        "answer": "Delivery delay cha bhane 'Track Order' section ma status check garnuhos, ya 'Support' section ma complaint garna milcha."
+    },
+    {
+        "question": "Electric vehicle charging station kasaile book garne?",
+        "context": "Electric vehicle (EV) charging station book garna 'Charging Stations' app ma janera nearest station select garnuhos. Booking ID generate bhayepachi 30 minutes samma slot reserve huncha. Tapaiko EV ID: EV12345 ko charging session 11th January 2025 ma confirmed cha. Payment session complete bhayepachi, receipt download option available huncha. Kunai slot conflict cha bhane, hami le alternate timing suggest garchau.",
+        "answer": "EV charging station 'Charging Stations' app bata book garna saknuhuncha, slot reserve 30 minutes samma huncha."
+    },
+    {
+        "question": "Stock market account kasari kholne?",
+        "context": "Stock market account kholna hami le 'Investment Services' portal provide gareka chau. Required documents ma PAN card, address proof, ra bank statement sammilit cha. Application form fill garisakepachi account ID generate huncha. Tapaiko application ID: STOCK123456 abastama review ma cha, ra 5-7 working days ma activation expected cha. Online trading platform access pachi stock research tools pani available huncha.",
+        "answer": "Stock market account 'Investment Services' portal ma documents upload garera kholna saknuhuncha."
+    },
+    {
+        "question": "E-wallet balance kasari refund garne?",
+        "context": "E-wallet balance refund garna hami le 'Transactions' section ma refund request option rakheko chau. Tapaiko wallet ID: WAL123456 ko pending balance Rs. 1500 ho. Refund request submit garisakepachi, bank account details verify garnu parcha. Refund process complete hunalai 3-5 working days lagna sakcha. Kunai error cha bhane, screenshot attach garera complaint raise garnuhos.",
+        "answer": "E-wallet refund 'Transactions' section ma request garera bank account verify garna parcha."
+    },
+    {
+        "question": "Prepaid meter recharge kasari garne?",
+        "context": "Prepaid meter recharge garna hami le 'Electricity Services' section ma option provide gareka chau. Meter ID enter garera recharge amount select garnuhos. Payment confirmation pachi recharge token generate huncha, jaslai meter ma enter garna parcha. Tapaiko prepaid meter ID: PRE123456 ko recharge pending cha, ra balance low notification 9th January 2025 ma pathauncha. Timely recharge na gare ko condition ma supply automatically suspend huncha.",
+        "answer": "Prepaid meter recharge 'Electricity Services' section ma token generate garera meter ma enter garna parcha."
+    },
+    {
+        "question": "Travel visa apply garna process kasto cha?",
+        "context": "Travel visa apply garna hami le 'Visa Assistance' portal rakheko chau. Required documents ma passport, photo, flight itinerary, ra financial proof huncha. Application ID generate pachi processing time 7-10 working days lagcha. Tapaiko visa application ID: VISA12345 abastama processing cha. Updates ko lagi SMS ya email dwara janakari pathaune garchau. Urgent processing cha bhane, additional fees lagna sakcha.",
+        "answer": "Travel visa apply 'Visa Assistance' portal ma documents upload garera process suru garna milcha."
+    },
+    {
+        "question": "Gym ko trainer personal session kasari book garne?",
+        "context": "Gym trainer ko personal session book garna 'Trainer Booking' section ma trainer ko profile select garnuhos. Availability calendar check garepachi preferred time book garna saknuhuncha. Tapaiko membership ID: GYM123456 ko current package ma 5 free sessions include cha. Additional sessions ko lagi Rs. 1000 per hour charge lagcha. Booking pachi confirmation SMS ya email pathaune huncha.",
+        "answer": "Personal training session 'Trainer Booking' section ma profile ra time select garera book garna milcha."
+    },
+    {
+        "question": "Cloud storage ko backup kasari setup garne?",
+        "context": "Cloud storage backup setup ko lagi hami le 'Settings' section ma option provide gareka chau. Tapaiko account ID: CLOUD123456 ma 50 GB free storage available cha. Automatic backup enable garnu ko lagi device folder select garnuhos. Backup complete bhayepachi confirmation notification pathaune garincha. Additional storage ko lagi subscription upgrade garna milcha.",
+        "answer": "Cloud storage backup 'Settings' ma folder select ra automatic backup enable garera setup garna milcha."
+    },
+    {
+        "question": "Bike loan payment due cha, aba ke garne?",
+        "context": "Bike loan payment due cha bhane 'Loan Services' section ma login garera overdue amount pay garnuhos. Late payment ko lagi 2% penalty applicable huncha. Tapaiko loan ID: BIKE987654 ko due Rs. 15,000 ho, ra late fee Rs. 300 add bhaeko cha. Payment complete garisakepachi updated schedule generate huncha. Kunai assistance cha bhane, hami ko customer helpline ma contact garnuhos.",
+        "answer": "Bike loan due 'Loan Services' section ma overdue amount pay garera clear garna milcha."
+    },
+    {
+        "question": "Digital certificate kasari verify garne?",
+        "context": "Digital certificate verify garna hami le 'Verification Services' section ma unique certificate ID enter garne system provide gareka chau. Tapaiko certificate ID: CERT987654 ko validity 31st December 2025 samma cha. Verification result download ko lagi PDF format option available cha. Unauthorized certificate paaye contact email dwara complaint raise garna saknuhuncha.",
+        "answer": "Digital certificate verify 'Verification Services' ma certificate ID enter garera garna milcha."
+    },
+    {
+        "question": "Mero life insurance premium due cha, kasari pay garne?",
+        "context": "Life insurance premium pay garna hami le 'Policy Services' section provide gareka chau. Tapaiko policy ID: LIFE123456 ko premium Rs. 15,000 yearly ho, ra due date 20th January 2025 cha. Late payment ma 1% penalty charge lagcha. Online payment options jasto ki net banking, UPI, ya debit card available cha. Payment receipt generate bhayepachi, tapaiko email ma automatically send garincha. Policy lapse prevent garna, timely payment mandatory cha.",
+        "answer": "Life insurance premium 'Policy Services' section ma online pay garna milcha. Late payment ma penalty lagcha."
+    },
+    {
+        "question": "Student loan ko EMI postpone garna milcha?",
+        "context": "Student loan EMI postpone garna, 'Loan Management' portal ma 'Request Deferment' option select garnuhos. Deferment ko lagi valid reason, documents (e.g., financial hardship proof), ra loan officer ko approval chaheko cha. Tapaiko loan ID: STUD123456 ko current EMI Rs. 8,000 monthly ho, ra next due date 10th February 2025 cha. Deferment approved bhaye 3 mahina samma EMI suspend garna milcha, tara additional interest accumulate huncha.",
+        "answer": "Student loan EMI postpone 'Loan Management' portal ma request ra valid documents upload garera garna milcha."
+    },
+    {
+        "question": "Home loan interest rate reduce garna request garna milcha?",
+        "context": "Home loan ko interest rate reduce garna, 'Rate Revision Request' option 'Loan Services' portal ma available cha. Required criteria include consistent repayment history, updated credit score, ra competitive market rates ko comparison. Tapaiko home loan ID: HOME12345 ko current interest rate 8.5% annually ho, ra revision request process 7-10 working days ma complete huncha. Request approve bhaye pachi, updated EMI schedule pathaune garchau.",
+        "answer": "Home loan interest rate reduce 'Loan Services' portal ma request garna milcha, criteria fullfilled hunuparcha."
+    },
+    {
+        "question": "International flight ticket reschedule garna milcha?",
+        "context": "International flight ticket reschedule garna hami le 'My Flights' section provide gareka chau. Tapaiko booking ID: INT123456 ko flight 25th January 2025 ma scheduled cha, ra preferred reschedule date 28th January 2025 cha. Reschedule charges, fare difference, ra seat availability ko aadhar ma lagcha. Payment complete bhaye pachi, naya e-ticket tapaiko email ma send huncha. Reschedule deadline flight departure 24 ghanta agadi samma ho.",
+        "answer": "International flight reschedule 'My Flights' section ma garna milcha, charges seat availability anusar huncha."
+    },
+    {
+        "question": "Electricity bill ko overcharge complaint kasari file garne?",
+        "context": "Electricity bill overcharge complaint file garna 'Billing Issues' section ma complaint register garnuhos. Required details include bill ID, consumption history, ra overcharge ko proof. Tapaiko bill ID: BILL123456 ko current bill Rs. 5,000 ho, tara previous average Rs. 3,000 monthly thiyo. Complaint ID generate bhayepachi 15 working days ma inquiry complete huncha. Overcharge confirm bhaye pachi, refund next bill ma adjust garincha.",
+        "answer": "Electricity bill overcharge complaint 'Billing Issues' section ma file garna milcha, proof submit garnuhos."
+    },
+    {
+        "question": "Mobile app ma login problem solve kasari garne?",
+        "context": "Mobile app login problem ko lagi, 'Help & Support' section ma troubleshooting steps provide cha. Common issues include incorrect password, outdated app version, ya account lock. Tapaiko account ID: APP12345 ko reset link tapaiko email 10th January 2025 ma pathaune bhaeko cha. App update pachi pani problem solve na bhaye, 'Report Issue' option use garnuhos.",
+        "answer": "Mobile app login issue solve 'Help & Support' section ma steps follow ya password reset garera garna milcha."
+    },
+    {
+        "question": "Courier package ko wrong delivery address update bhaye, ke garne?",
+        "context": "Wrong delivery address update problem ko lagi, 'Modify Address' section ma complaint file garnuhos. Tapaiko courier ID: COURIER12345 ko delivery 12th January 2025 ma attempt bhaeko thiyo, tara incorrect address ma pathaune ko karan delivery fail bhaeko cha. Correct address provide pachi 2-3 din ma reattempt huncha. Delivery partner ko helpline ma samparka garna milcha urgent delivery ko lagi.",
+        "answer": "Courier address update 'Modify Address' section ma correct address submit garera garna milcha."
+    },
+    {
+        "question": "Credit card ka reward points kasari redeem garne?",
+        "context": "Credit card reward points redeem garna, 'Rewards Portal' ma login garera available options (e.g., vouchers, cashback, travel discounts) select garnuhos. Tapaiko card ID: CC123456 ma 10,000 reward points available cha, jun Rs. 2,500 ko equivalent ho. Redeem request complete bhaye pachi, voucher code ya cashback 24-48 hours ma process huncha. Reward points expire date 31st March 2025 ho.",
+        "answer": "Reward points redeem 'Rewards Portal' ma login garera options select garna milcha."
+    },
+    {
+        "question": "Hospital discharge process kasari huncha?",
+        "context": "Hospital discharge process ma doctor ko approval, pending bill payment, ra discharge summary collect garna parcha. Tapaiko patient ID: PAT123456 ko discharge date 15th January 2025 confirmed cha. Final bill Rs. 50,000 cha, ra discharge summary counter ma available cha. Any pending test results discharge pachi email ma send garincha. Insurance settlement applicable cha bhane, documents submit garnuhos.",
+        "answer": "Hospital discharge process ma doctor approval ra bill payment pachi discharge summary collect garna milcha."
+    },
+    {
+        "question": "Real estate property ko site visit kasari book garne?",
+        "context": "Real estate property ko site visit book garna 'Schedule Visit' portal ma date ra time select garnuhos. Tapaiko inquiry ID: PROP123456 ma preferred date 20th January 2025 request gareko cha. Site visit confirmation SMS ya email dwara 24 hours ma pathaune huncha. Site visit ko lagi transport assistance cha bhane, additional charges lagna sakcha.",
+        "answer": "Property site visit 'Schedule Visit' portal ma date ra time select garera book garna milcha."
+    }
+]

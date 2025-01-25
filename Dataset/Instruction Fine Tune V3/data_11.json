@@ -1,0 +1,306 @@
+[
+    {
+        "topic": "Science and Technology",
+        "question": "Artificial Intelligence bhaneko ke ho?",
+        "answer": "Artificial Intelligence (AI) bhaneko computer science ko euta branch ho jasma machines lai human jastai sochne ra sikhne banaiyeko huncha."
+    },
+    {
+        "topic": "Sports",
+        "question": "FIFA World Cup kun desh le sabai bhanda badhi jiteko cha?",
+        "answer": "Brazil le FIFA World Cup sabai bhanda badhi 5 patak jiteko cha."
+    },
+    {
+        "topic": "Health",
+        "question": "Diabetes rokne upaya haru ke ke hun?",
+        "answer": "Diabetes rokne upaya haru ma regular exercise, balanced diet, ra healthy lifestyle maintain garnu parcha."
+    },
+    {
+        "topic": "Psychology",
+        "question": "Stress lai kasari manage garna sakincha?",
+        "answer": "Stress lai manage garna meditation, exercise, ra proper time management jasto upaya haru apnau parcha."
+    },
+    {
+        "topic": "Engineering",
+        "question": "Civil Engineering ko main kam ke ho?",
+        "answer": "Civil Engineering ko main kam infrastructure jasto ki building, bridge, road haru design ra nirman garna ho."
+    },
+    {
+        "topic": "Agriculture",
+        "question": "Nepal ma kati prakar ko fasl haru ughairako cha?",
+        "answer": "Nepal ma dhan, makai, gahu, dalhan, tori, ra aru dherai prakar ko fasl haru ughairako cha."
+    },
+    {
+        "topic": "Economy",
+        "question": "Nepal ko GDP growth rate kati cha?",
+        "answer": "Nepal ko GDP growth rate halka fluctuative huncha, tara aile samma ko data anusar 4% ko around ma cha."
+    },
+    {
+        "topic": "Development",
+        "question": "Sustainable development bhaneko ke ho?",
+        "answer": "Sustainable development bhaneko yo ho ki aaja ko generation ko lagi development gareko kaam le bholi ko generation ko lagi problem nabanaos."
+    },
+    {
+        "question": "Solar energy bhaneko ke ho?",
+        "answer": "Solar energy bhaneko surya ko energy ho, jasalai solar panels ko madhyam bat electricity ma convert garna sakincha."
+    },
+    {
+        "question": "Cristiano Ronaldo le kati ota Ballon d'Or jeeteka chan?",
+        "answer": "Cristiano Ronaldo le 5 ota Ballon d'Or jeeteka chan."
+    },
+    {
+        "question": "Blood pressure lai control garna ke garnu parcha?",
+        "answer": "Blood pressure lai control garna namak kam khane, regular exercise garne, ra stress manage garne garnu parcha."
+    },
+    {
+        "question": "Depression ko lakshan haru ke ke hun?",
+        "answer": "Depression ko lakshan haru ma sadness, nidra naaune, motivation ko kami, ra jindagi ma interest naaune jasto kura haru parcha."
+    },
+    {
+        "question": "Computer engineering ko scope Nepal ma kasto cha?",
+        "answer": "Computer engineering ko scope Nepal ma dherai ramro cha, yo field ma job ra freelancing ko dherai opportunity chan."
+    },
+    {
+        "question": "Organic farming bhaneko ke ho?",
+        "answer": "Organic farming bhaneko chemical fertilizers ra pesticides bina natural tarika le farming garne ho."
+    },
+    {
+        "question": "Nepal ko currency ko naam ke ho?",
+        "answer": "Nepal ko currency ko naam Nepali Rupee ho."
+    },
+    {
+        "question": "Climate change le agriculture lai kasari affect garcha?",
+        "answer": "Climate change le agriculture lai temperature badhne, rainfall pattern change hune, ra natural disaster haru badhne bhayera affect garcha."
+    },
+    {
+        "question": "Internet of Things (IoT) bhaneko ke ho?",
+        "answer": "Internet of Things (IoT) bhaneko physical devices haru lai internet ko madhyam bat connect garera data exchange garne system ho."
+    },
+    {
+        "question": "Nepal ko national game ke ho?",
+        "answer": "Nepal ko national game volleyball ho."
+    },
+    {
+        "question": "Diabetes ko lakshan haru ke ke hun?",
+        "answer": "Diabetes ko lakshan haru ma pyaas badhne, frequent urination, ra weight loss jasto kura haru parcha."
+    },
+    {
+        "question": "Anxiety disorder bhaneko ke ho?",
+        "answer": "Anxiety disorder bhaneko euta mental health condition ho jasma manche lai excessive worry ra fear huncha."
+    },
+    {
+        "question": "Hydropower ko faida haru ke ke hun?",
+        "answer": "Hydropower ko faida haru ma pollution naaune, renewable energy source, ra long-term cost effective hune jasto kura haru parcha."
+    },
+    {
+        "question": "Nepal ma kati ota jilla chan?",
+        "answer": "Nepal ma 77 ota jilla chan."
+    },
+    {
+        "question": "Global warming bhaneko ke ho?",
+        "answer": "Global warming bhaneko dharti ko temperature badhne process ho, jasko karan greenhouse gases ko badhdo chanchal ho."
+    },
+    {
+        "question": "Nepal ko sabai bhanda lambo highway kun ho?",
+        "answer": "Nepal ko sabai bhanda lambo highway Mahendra Highway ho, jasko length 1,024 kilometers cha."
+    },
+    {
+        "question": "Mental health lai improve garna ke garnu parcha?",
+        "answer": "Mental health lai improve garna regular exercise, proper sleep, ra positive thinking garnu parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda agadi ko hydro power project kun ho?",
+        "answer": "Nepal ko sabai bhanda agadi ko hydro power project Pharping Hydro Power Project ho, jasko capacity 500 kW cha."
+    },
+    {
+        "question": "Tourism le Nepal ko economy lai kasari help garcha?",
+        "answer": "Tourism le Nepal ko economy lai foreign currency earn garera, employment generate garera, ra local business lai promote garera help garcha."
+    },
+    {
+        "question": "NASA le Mars ma ke khojirako cha?",
+        "answer": "NASA le Mars ma pani ko khoj ra life ko possibility khojirako cha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda popular festival kun ho?",
+        "answer": "Nepal ko sabai bhanda popular festival Dashain ho."
+    },
+    {
+        "question": "Vaccine bhaneko ke ho?",
+        "answer": "Vaccine bhaneko euta biological preparation ho jasto ki body lai disease ko against ma immune bancha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda umer badhi ko jilla kun ho?",
+        "answer": "Nepal ko sabai bhanda umer badhi ko jilla Dolpa ho."
+    },
+    {
+        "question": "Blockchain technology bhaneko ke ho?",
+        "answer": "Blockchain technology bhaneko euta decentralized digital ledger ho jasma data lai secure ra transparent tarika le store garcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi population bhayeko jilla kun ho?",
+        "answer": "Nepal ko sabai bhanda badhi population bhayeko jilla Kathmandu ho."
+    },
+    {
+        "question": "Heart attack ko lakshan haru ke ke hun?",
+        "answer": "Heart attack ko lakshan haru ma chest pain, breathing problem, ra sweating jasto kura haru parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi altitude bhayeko jilla kun ho?",
+        "answer": "Nepal ko sabai bhanda badhi altitude bhayeko jilla Solukhumbu ho."
+    },
+    {
+        "question": "Quantum computing bhaneko ke ho?",
+        "answer": "Quantum computing bhaneko euta advanced computing technology ho jasma quantum bits (qubits) ko use garera complex calculations garna sakincha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi rainfall bhayeko thau kun ho?",
+        "answer": "Nepal ko sabai bhanda badhi rainfall bhayeko thau Lumle, Kaski ho."
+    },
+    {
+        "question": "Malaria ko lakshan haru ke ke hun?",
+        "answer": "Malaria ko lakshan haru ma fever, chills, ra headache jasto kura haru parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer badhi ko manche ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer badhi ko manche ko naam Chandra Bahadur Dangi ho."
+    },
+    {
+        "question": "5G technology bhaneko ke ho?",
+        "answer": "5G technology bhaneko euta advanced wireless technology ho jasma faster internet speed ra better connectivity provide garcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer kam ko manche ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer kam ko manche ko naam Ramjit Raghav ho."
+    },
+    {
+        "question": "Cholesterol lai control garna ke garnu parcha?",
+        "answer": "Cholesterol lai control garna healthy diet, regular exercise, ra smoking chodnu parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer badhi ko mahila ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer badhi ko mahila ko naam Durga Kami ho."
+    },
+    {
+        "question": "Artificial Intelligence le ke ke garna sakcha?",
+        "answer": "Artificial Intelligence le data analysis, automation, ra decision-making jasto kura haru garna sakcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer kam ko mahila ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer kam ko mahila ko naam Laxmi Sharma ho."
+    },
+    {
+        "question": "COVID-19 ko vaccine ko naam ke ke chan?",
+        "answer": "COVID-19 ko vaccine ko naam AstraZeneca, Pfizer, ra Moderna chan."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer badhi ko kukur ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer badhi ko kukur ko naam Bhote Kukur ho."
+    },
+    {
+        "question": "Robotics bhaneko ke ho?",
+        "answer": "Robotics bhaneko euta engineering ko branch ho jasma robots haru design ra construct gariyeko huncha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer kam ko kukur ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer kam ko kukur ko naam Chihuahua ho."
+    },
+    {
+        "question": "Cancer ko lakshan haru ke ke hun?",
+        "answer": "Cancer ko lakshan haru ma weight loss, fatigue, ra lumps jasto kura haru parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer badhi ko bagh ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer badhi ko bagh ko naam Royal Bengal Tiger ho."
+    },
+    {
+        "question": "Machine learning bhaneko ke ho?",
+        "answer": "Machine learning bhaneko euta AI ko branch ho jasma machines lai data ko adhar ma sikhne banaiyeko huncha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer kam ko bagh ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer kam ko bagh ko naam Snow Leopard ho."
+    },
+    {
+        "question": "Diabetes ko lakshan haru ke ke hun?",
+        "answer": "Diabetes ko lakshan haru ma pyaas badhne, frequent urination, ra weight loss jasto kura haru parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer badhi ko machha ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer badhi ko machha ko naam Golden Mahseer ho."
+    },
+    {
+        "question": "Big data bhaneko ke ho?",
+        "answer": "Big data bhaneko euta large volume of data ho jasto ki traditional methods le process garna sakdaina."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer kam ko machha ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer kam ko machha ko naam Rainbow Trout ho."
+    },
+    {
+        "question": "Hypertension ko lakshan haru ke ke hun?",
+        "answer": "Hypertension ko lakshan haru ma headache, dizziness, ra blurred vision jasto kura haru parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer badhi ko chara ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer badhi ko chara ko naam Spiny Babbler ho."
+    },
+    {
+        "question": "Cloud computing bhaneko ke ho?",
+        "answer": "Cloud computing bhaneko euta technology ho jasma data ra applications lai internet ko madhyam bat access garna sakincha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer kam ko chara ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer kam ko chara ko naam Himalayan Monal ho."
+    },
+    {
+        "question": "Asthma ko lakshan haru ke ke hun?",
+        "answer": "Asthma ko lakshan haru ma breathing problem, coughing, ra chest tightness jasto kura haru parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer badhi ko phool ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer badhi ko phool ko naam Rhododendron ho."
+    },
+    {
+        "question": "Cybersecurity bhaneko ke ho?",
+        "answer": "Cybersecurity bhaneko euta practice ho jasma computer systems ra networks lai cyber attacks bata protect gariyeko huncha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer kam ko phool ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer kam ko phool ko naam Marigold ho."
+    },
+    {
+        "question": "Arthritis ko lakshan haru ke ke hun?",
+        "answer": "Arthritis ko lakshan haru ma joint pain, swelling, ra stiffness jasto kura haru parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer badhi ko rukh ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer badhi ko rukh ko naam Peepal ho."
+    },
+    {
+        "question": "Virtual reality bhaneko ke ho?",
+        "answer": "Virtual reality bhaneko euta technology ho jasma computer-generated environment create garera user lai immerse garna sakincha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer kam ko rukh ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer kam ko rukh ko naam Bamboo ho."
+    },
+    {
+        "question": "Osteoporosis ko lakshan haru ke ke hun?",
+        "answer": "Osteoporosis ko lakshan haru ma bone pain, fractures, ra height loss jasto kura haru parcha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer badhi ko dhunga ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer badhi ko dhunga ko naam Ganesh Himal ho."
+    },
+    {
+        "question": "Augmented reality bhaneko ke ho?",
+        "answer": "Augmented reality bhaneko euta technology ho jasma real-world environment ma digital elements add gariyeko huncha."
+    },
+    {
+        "question": "Nepal ko sabai bhanda badhi umer kam ko dhunga ko naam ke ho?",
+        "answer": "Nepal ko sabai bhanda badhi umer kam ko dhunga ko naam Shivapuri ho."
+    },
+    {
+        "question": "Migraine ko lakshan haru ke ke hun?",
+        "answer": "Migraine ko lakshan haru ma severe headache, nausea, ra light sensitivity jasto kura haru parcha."
+    }
+]
