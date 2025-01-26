@@ -76,6 +76,7 @@ class EcommerceBot:
         self.dialogue_manager["intent_satisfied"] = True
         self.dialogue_manager["missing_entity"] = []
         self.dialogue_manager["entity"] = []
+        # self.probability_intent = None
     
     def _predict_intent(self, sentence):
         text = preprocess_text(sentence)

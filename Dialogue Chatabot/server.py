@@ -5,6 +5,7 @@ import random
 
 from fastapi import FastAPI
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
@@ -12,6 +13,14 @@ intent_model = IntentClassificationModel()
 entity_model = CRFModel()
 
 sessions = dict()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 greetings = [
     "Namaskar, Hajurlai k sahayog garna sakchu?",
@@ -38,7 +47,14 @@ async def chat(session_id: str, question: Question):
         
     response = chat_with_bot(question.question, bot)
     chat_states = bot.get_chat_states()
+    print(chat_states)
     return {"response": response, "states": chat_states}
+
+@app.get("/resetChat/${session_id}")
+async def resetChat(session_id: str):
+    if session_id in sessions:
+        bot = sessions.get(session_id)
+        bot._reset_dialogue()
 
 if __name__ == "__main__":
     bot = EcommerceBot(intent_model, entity_model)

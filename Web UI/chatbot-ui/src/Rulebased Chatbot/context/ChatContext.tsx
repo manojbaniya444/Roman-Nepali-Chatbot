@@ -221,7 +221,7 @@ export const ChatContextProvider = ({ children }: { children: any }) => {
         if (!orderId) {
           setIsTyping(true);
           return addMessage(
-            "Kripaya order number dinuhos jun ORD12345 jasto hunxa",
+            "Kripaya order number dinuhos jun ORD baata suru hunxa jastei ORD99999",
             "AI"
           );
         }
