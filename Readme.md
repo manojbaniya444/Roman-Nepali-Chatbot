@@ -1,5 +1,20 @@
 ## Major Project BCT: A Comprehensive Study on the Development of Roman Nepali Chatbot for Ecommerce.
 
-- Rule based chatbot: if else
-- ML chatbot: intent and entity
-- Generative chatbot: fine tuning llm
+Development of Roman Nepali Chatbot exploring different techniques and approaches.
+
+Basically three types of chatbots are here:
+
+## Rule based chatbot: if else
+
+Menu based chatbot which work on certain rule.
+[Rule Based Chatbot](./Menu%20Based%20Chatbot/)
+
+## ML chatbot: intent and entity
+
+This chatbot uses machine learning algorithms to identify user intent and process dialogue with the help of intent and entities collected from user message query.
+[ML Chatbot](./Dialogue%20Chatabot/)
+
+## Generative chatbot: fine tuning llm
+
+This chatbot generates the response using large language model by fine tuning on custom dataset
+[Generative LLM Chatbot](./Generation%20Based%20Language%20Model%20Chatbot%20Fine%20Tune/)
