@@ -1,27 +1,21 @@
-import React, { useState } from "react";
-import { Product, productsList } from "./data/productsData";
-import ProductCard from "./components/ProductCard";
+import { useState } from "react";
 import ChatBot from "./ChatBot";
 
 import { MessageCircleMore } from "lucide-react";
+import { Link, Outlet } from "react-router-dom";
 
-type Props = {};
-
-const RuleBasedPage = (props: Props) => {
+const RuleBasedPage = () => {
   const [showChat, setShowChat] = useState<boolean>(false);
   return (
-    <div className="md:h-dvh h-full w-full flex flex-col bg-slate-200">
+    <div className="h-full w-full flex flex-col bg-slate-200">
       {/* // Navbar */}
       <nav className="bg-blue-600 text-white text-center text-3xl p-4">
-        <h1 className="font-bold">All Electronics Store</h1>
+        <Link to="/rule-based-chatbot">
+          <h1 className="font-bold">All Electronics Store</h1>
+        </Link>
       </nav>
-      {/* // Products Page */}
-      <div className="flex gap-4 flex-wrap justify-center p-4">
-        {productsList &&
-          productsList.map((product: Product) => {
-            return <ProductCard key={product.id} product={product} />;
-          })}
-      </div>
+      {/* // product */}
+      <Outlet />
       {/* // chatbot */}
       <button
         className="fixed bottom-4 right-4 bg-blue-900 text-white p-2 rounded-full shadow-lg cursor-pointer"
