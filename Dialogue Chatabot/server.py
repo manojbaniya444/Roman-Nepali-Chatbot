@@ -23,9 +23,9 @@ app.add_middleware(
 )
 
 greetings = [
-    "Namaskar, Hajurlai k sahayog garna sakchu?",
-    "Hello ma All Electronics store ko AI Chatbot hajurlai ke sahayog garna sakchu?",
-    "Namaste ma k sahayog garna sakchu."
+    "Namaskar, Hajurlai k sahayog garna sakchu?\nHajur lai ma order status track garna, product browse garna, product order garna assist garna sakxu.",
+    "Hello ma All Electronics store ko AI Chatbot hajurlai ke sahayog garna sakchu?\nAvailable services:\n1. Order Tracking\n2. Browse Product \n 3. Order Product",
+    "Namaste ma k sahayog garna sakchu.\nHajur lai ma order track garna, product order garna jasto kurama help garna xakxu."
 ]
 
 class Question(BaseModel):

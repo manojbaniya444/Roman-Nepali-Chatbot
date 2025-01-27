@@ -123,7 +123,7 @@ class EcommerceBot:
                 msg = f"Rs. {product["price"]} parne {product["name"]},\n"
                 message += msg
             else:
-                msg = f"ra Rs. {product["price"]} parne {product["name"]} hami sanga available xa.\n"
+                msg = f"Rs. {product["price"]} parne {product["name"]} hami sanga available xa.\n"
                 message += msg
             
         return message
@@ -193,7 +193,7 @@ class EcommerceBot:
         self.dialogue_manager["intent_satisfied"] = False
         response_sample = [
             "Hami esewa, khalti, mobile banking sabei payment method accept garxau.",
-            "tapai esewa, khalti ya kunei mobile banking baata payment garna saknu huncha.",
+            "Tapai esewa, khalti ya kunei mobile banking baata payment garna saknu huncha.",
         ]
         self._reset_dialogue()
         return random.sample(response_sample, 1)[0]
@@ -256,4 +256,4 @@ class EcommerceBot:
             return self.format_product_inquiry_message(matches)
         else:
             self.dialogue_manager["missing_entity"] = ["Category", "Product", "Brand"]
-            return "Kun product ko barema janna chahau huncha name, category wa brand vannu hola"
+            return "Kun product ko barema janna chahau huncha name, category wa brand vannu hola\nHamro ma sabai prakar ko electronics saman jastei mobile, laptop, calculator, watch haru available xa."
