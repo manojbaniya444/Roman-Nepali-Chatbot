@@ -1,0 +1,1567 @@
+[
+    {
+        "question": "online delivery hunxa?",
+        "context": "Hamro ma delivery all over Nepal hunxa. Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 100 delivery charge laagxa. Delivery 3 din vitra hunxa.",
+        "response": "Hamro ma delivery all over Nepal hunxa. Free delivery inside Kathmandu ra outside Kathmandu Rs. 100 delivery charge laagxa."
+    },
+    {
+        "question": "delivery service xa?",
+        "context": "Hamro ma delivery all over Nepal available xa. City vitra free delivery hunxa ra city bahira Rs. 150 laagxa. Delivery 2-4 din vitra garincha.",
+        "response": "Ho, delivery service available xa. City vitra free delivery hunxa, city bahira Rs. 150 laagxa."
+    },
+    {
+        "question": "kasto prakar ko delivery hunxa?",
+        "context": "Hamro ma standard delivery service available xa. Hamro delivery all over Nepal hunxa. Fast delivery option pauna saknu hunxa extra charge ma.",
+        "response": "Hamro ma standard ra fast delivery service available hunxa. Fast delivery ma extra charge laagxa."
+    },
+    {
+        "question": "delivery option haru k k hunxa?",
+        "context": "Hamro delivery service ma standard delivery hunxa ra express delivery service extra charge ma available hunxa. Hamro delivery all over Nepal hunxa.",
+        "response": "Hamro ma standard delivery ra express delivery option available hunxa."
+    },
+    {
+        "question": "free delivery xa?",
+        "context": "Hamro ma free delivery inside Pokhara available xa. Pokhara bahira Rs. 200 delivery charge laagxa. Delivery within 3-5 din vitra garincha.",
+        "response": "Free delivery Pokhara vitra available xa. Pokhara bahira Rs. 200 delivery charge laagxa."
+    },
+    {
+        "question": "delivery all over Nepal hunxa?",
+        "context": "Hamro ma delivery all over Nepal hunxa. City vitra free delivery hunxa ra city bahira Rs. 150 delivery charge laagxa. Delivery samanya 3-5 din vitra hunxa.",
+        "response": "Ho, hamro ma delivery all over Nepal hunxa. City vitra free delivery hunxa ra bahira Rs. 150 charge laagxa."
+    },
+    {
+        "question": "fast delivery option available xa?",
+        "context": "Hamro ma fast delivery option available xa. Fast delivery ko lagi additional Rs. 200 laagxa. Hamro delivery all over Nepal hunxa.",
+        "response": "Ho, fast delivery option available xa. Extra Rs. 200 laagxa fast delivery ko lagi."
+    },
+    {
+        "question": "free delivery kati bela hunxa?",
+        "context": "Hamro ma free delivery Kathmandu ra Bhaktapur ma special offer ko time ma hunxa. Free delivery Kathmandu ra Bhaktapur vitra matra applicable hunxa.",
+        "response": "Free delivery Kathmandu ra Bhaktapur ma special offer ko samay ma hunxa."
+    },
+    {
+        "question": "delivery time kasto hunxa?",
+        "context": "Delivery time location anusar farak hunxa. City vitra 2 din ma delivery hunxa ra city bahira 3-5 din lagxa.",
+        "response": "City vitra 2 din ma delivery hunxa ra city bahira 3-5 din lagxa."
+    },
+    {
+        "question": "outside valley delivery hunxa?",
+        "context": "Hamro ma Kathmandu valley bahira pani delivery hunxa. Delivery charge location anusar Rs. 100-300 lagna sakxa.",
+        "response": "Ho, Kathmandu valley bahira pani delivery hunxa. Delivery charge location anusar farak parxa."
+    },
+    {
+        "question": "delivery time kati din lagxa?",
+        "context": "Hamro delivery time city vitra 2-3 din lagxa ra city bahira 4-5 din lagxa. Samaya weather ra traffic condition ma pani depend hunxa.",
+        "response": "Delivery time city vitra 2-3 din ra city bahira 4-5 din lagxa."
+    },
+    {
+        "question": "express delivery hunxa?",
+        "context": "Hamro ma express delivery option available xa. Express delivery ma samma 1 din vitra delivery hunxa. Extra Rs. 250 lagxa.",
+        "response": "Ho, express delivery available xa. 1 din vitra delivery hunxa extra Rs. 250 charge ma."
+    },
+    {
+        "question": "free shipping xa?",
+        "context": "Hamro ma free shipping special occasion ma hunxa. Normally, Kathmandu vitra free delivery hunxa ra bahira Rs. 100 charge hunxa.",
+        "response": "Special occasion ma free shipping hunxa. Kathmandu vitra normally free delivery hunxa."
+    },
+    {
+        "question": "international delivery xa?",
+        "context": "Hamro ma abhile international delivery available chaina. Hamro delivery all over Nepal matra limited xa.",
+        "response": "Abhile international delivery available chaina. Delivery all over Nepal matra xa."
+    },
+    {
+        "question": "delivery free hunxa?",
+        "context": "Hamro ma Kathmandu vitra Rs. 1000 bhanda mathi ko order ma free delivery hunxa. Kathmandu bahira delivery charge Rs. 200 laagxa.",
+        "response": "Kathmandu vitra Rs. 1000 bhanda mathi ko order ma free delivery hunxa."
+    },
+    {
+        "question": "home delivery hunxa?",
+        "context": "Hamro ma home delivery available hunxa. Delivery all over Nepal ma garincha. City vitra free hunxa ra bahira Rs. 150 laagxa.",
+        "response": "Ho, home delivery available hunxa. City vitra free ra city bahira Rs. 150 laagxa."
+    },
+    {
+        "question": "delivery location k k hunxa?",
+        "context": "Hamro delivery location all over Nepal xa. City vitra free delivery hunxa ra city bahira additional charge lagxa.",
+        "response": "Delivery location all over Nepal xa. City vitra free delivery hunxa."
+    },
+    {
+        "question": "weekend ma pani delivery hunxa?",
+        "context": "Ho, weekend ma pani delivery garincha. Hamro delivery service Sunday dekhi Saturday samma active xa.",
+        "response": "Ho, weekend ma pani delivery garincha."
+    },
+    {
+        "question": "COD available xa?",
+        "context": "Hamro ma cash on delivery (COD) option available xa. Delivery ko time ma paisa tirna saknu hunxa.",
+        "response": "Ho, cash on delivery (COD) option available xa."
+    },
+    {
+        "question": "minimum order amount cha delivery ko lagi?",
+        "context": "Kathmandu vitra free delivery ko lagi minimum order Rs. 500 hunuparcha. Kathmandu bahira order ko lagi limit chaina, tara delivery charge lagxa.",
+        "response": "Kathmandu vitra free delivery ko lagi minimum order Rs. 500 cha."
+    },
+    {
+        "question": "online delivery hunxa?",
+        "context": "Hamro ma delivery all over Nepal hunxa. Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 100 laagxa. Delivery within 2-3 days lagxa.",
+        "response": "Hamro ma delivery all over Nepal hunxa. Inside Kathmandu free delivery xa ra outside Kathmandu Rs. 100 laagxa."
+    },
+    {
+        "question": "delivery service xa?",
+        "context": "Hamro delivery service all over Nepal hunxa. Inside Pokhara free delivery hunxa ra outside Pokhara Rs. 150 delivery charge laagxa. Delivery 3-5 din lagxa.",
+        "response": "Ho, hamro delivery service available xa all over Nepal. Inside Pokhara free delivery hunxa ra outside Rs. 150 laagxa."
+    },
+    {
+        "question": "kasto prakar ko delivery hunxa?",
+        "context": "Hamro ma standard delivery service hunxa. Delivery all over Nepal available xa. City vitra free delivery hunxa ra bahira Rs. 120 laagxa.",
+        "response": "Hamro ma standard delivery service hunxa. City vitra free xa ra bahira Rs. 120 laagxa."
+    },
+    {
+        "question": "delivery time kati lagxa?",
+        "context": "Hamro delivery city vitra 2-3 din ma hunxa ra city bahira 4-5 din lagxa. Delivery timing weather ra traffic condition ma depend hunxa.",
+        "response": "Hamro delivery city vitra 2-3 din lagxa ra city bahira 4-5 din lagxa."
+    },
+    {
+        "question": "delivery service available xa?",
+        "context": "Hamro delivery service all over Nepal available xa. Kathmandu vitra free delivery hunxa ra bahira Rs. 150 laagxa.",
+        "response": "Ho, hamro delivery service available xa. Kathmandu vitra free xa ra bahira Rs. 150 laagxa."
+    },
+    {
+        "question": "free delivery hunxa?",
+        "context": "Hamro ma Kathmandu vitra free delivery xa. Outside Kathmandu delivery ko lagi Rs. 100 charge hunxa.",
+        "response": "Ho, Kathmandu vitra free delivery hunxa. Outside Kathmandu Rs. 100 charge laagxa."
+    },
+    {
+        "question": "express delivery available xa?",
+        "context": "Hamro ma express delivery option available xa. Extra Rs. 250 charge hunxa ra delivery 1 din vitra garincha.",
+        "response": "Ho, express delivery available xa. Extra Rs. 250 charge hunxa."
+    },
+    {
+        "question": "delivery Nepal ma hunxa?",
+        "context": "Hamro ma delivery all over Nepal hunxa. Delivery charge city vitra free xa ra bahira Rs. 200 laagxa. Delivery 2-4 din vitra garincha.",
+        "response": "Ho, hamro delivery all over Nepal hunxa. City vitra free delivery xa ra bahira Rs. 200 laagxa."
+    },
+    {
+        "question": "fast delivery hunxa?",
+        "context": "Hamro ma fast delivery option available xa. Fast delivery ko lagi Rs. 300 charge hunxa ra delivery 1-2 din vitra hunxa.",
+        "response": "Ho, fast delivery option available xa. Rs. 300 charge hunxa ra 1-2 din vitra delivery hunxa."
+    },
+    {
+        "question": "delivery charge kati lagxa?",
+        "context": "Delivery charge city vitra free hunxa. City bahira Rs. 150 charge hunxa. Delivery all over Nepal available xa.",
+        "response": "City vitra delivery free hunxa. City bahira Rs. 150 charge hunxa."
+    },
+    {
+        "question": "home delivery available xa?",
+        "context": "Hamro ma home delivery all over Nepal hunxa. City vitra free delivery hunxa ra city bahira Rs. 120 delivery charge laagxa. Delivery 2-3 din vitra garincha.",
+        "response": "Ho, hamro ma home delivery available xa all over Nepal. City vitra free xa ra city bahira Rs. 120 laagxa."
+    },
+    {
+        "question": "delivery charge kati hunxa?",
+        "context": "Hamro ma city vitra free delivery xa. City bahira delivery ko lagi Rs. 150 charge laagxa. Delivery 3-5 din vitra garincha.",
+        "response": "City vitra delivery free xa ra city bahira Rs. 150 charge laagxa."
+    },
+    {
+        "question": "delivery Kathmandu ma hunxa?",
+        "context": "Hamro ma Kathmandu vitra free delivery hunxa. Kathmandu bahira delivery ko lagi Rs. 100 charge laagxa. Delivery 2-4 din vitra garincha.",
+        "response": "Ho, Kathmandu vitra free delivery hunxa ra bahira Rs. 100 charge laagxa."
+    },
+    {
+        "question": "delivery option haru k k hunxa?",
+        "context": "Hamro delivery option ma standard delivery ra express delivery available hunxa. Express delivery ko lagi extra charge hunxa.",
+        "response": "Hamro delivery option ma standard ra express delivery available hunxa."
+    },
+    {
+        "question": "delivery kaha kaha hunxa?",
+        "context": "Hamro delivery service all over Nepal hunxa. City vitra free delivery hunxa ra city bahira additional charge laagxa.",
+        "response": "Hamro delivery all over Nepal hunxa. City vitra free xa ra bahira charge laagxa."
+    },
+    {
+        "question": "delivery kati time lagxa?",
+        "context": "Hamro delivery city vitra 2 din vitra garincha. City bahira delivery 4-5 din vitra complete hunxa.",
+        "response": "City vitra delivery 2 din lagxa ra city bahira 4-5 din lagxa."
+    },
+    {
+        "question": "delivery Kathmandu valley bahira hunxa?",
+        "context": "Hamro delivery service Kathmandu valley bahira pani hunxa. Valley bahira delivery ko lagi Rs. 200 charge laagxa ra delivery 3-5 din vitra hunxa.",
+        "response": "Ho, Kathmandu valley bahira delivery hunxa. Rs. 200 charge laagxa ra 3-5 din lagxa."
+    },
+    {
+        "question": "minimum order amount delivery ko lagi kati hunuparcha?",
+        "context": "Hamro ma minimum order Rs. 500 hunuparcha free delivery ko lagi. Otherwise, Rs. 100 delivery charge laagxa.",
+        "response": "Free delivery ko lagi minimum order Rs. 500 hunuparcha."
+    },
+    {
+        "question": "delivery service kasto hunxa?",
+        "context": "Hamro delivery service reliable xa ra all over Nepal hunxa. Free delivery city vitra hunxa ra bahira Rs. 150 laagxa.",
+        "response": "Hamro delivery service reliable xa ra city vitra free delivery hunxa."
+    },
+    {
+        "question": "delivery same day ma hunxa?",
+        "context": "Same day delivery option abhile available chaina. Delivery samanya 2-3 din vitra hunxa city vitra.",
+        "response": "Same day delivery abhile available chaina. Delivery 2-3 din lagxa."
+    },
+    {
+        "question": "free delivery option xa?",
+        "context": "Hamro free delivery option Kathmandu vitra matra available xa. Kathmandu bahira delivery ko lagi Rs. 100 charge laagxa.",
+        "response": "Kathmandu vitra free delivery available xa ra bahira Rs. 100 charge laagxa."
+    },
+    {
+        "question": "express delivery option xa?",
+        "context": "Hamro ma express delivery option available xa. Express delivery 1 din vitra complete hunxa ra extra Rs. 250 charge hunxa.",
+        "response": "Ho, express delivery option available xa. Extra Rs. 250 charge hunxa."
+    },
+    {
+        "question": "international delivery hunxa?",
+        "context": "Hamro ma international delivery abhile available chaina. Delivery all over Nepal matra hunxa.",
+        "response": "International delivery abhile available chaina. Delivery all over Nepal matra hunxa."
+    },
+    {
+        "question": "delivery weekend ma pani hunxa?",
+        "context": "Hamro delivery service Sunday dekhi Saturday samma active hunxa. Weekend ma pani delivery garincha.",
+        "response": "Ho, weekend ma pani delivery garincha."
+    },
+    {
+        "question": "online order ko delivery hunxa?",
+        "context": "Hamro online order ko lagi delivery all over Nepal hunxa. City vitra free delivery hunxa ra city bahira Rs. 150 laagxa.",
+        "response": "Ho, online order ko delivery all over Nepal hunxa. City vitra free xa ra bahira Rs. 150 laagxa."
+    },
+    {
+        "question": "delivery all over Nepal hunxa?",
+        "context": "Hamro ma delivery all over Nepal hunxa. City vitra free delivery hunxa ra city bahira Rs. 120 laagxa. Delivery 3-5 din vitra garincha.",
+        "response": "Ho, delivery all over Nepal hunxa. City vitra free xa ra bahira Rs. 120 laagxa."
+    },
+    {
+        "question": "outside city delivery hunxa?",
+        "context": "Hamro ma city bahira delivery available xa. Delivery charge Rs. 150 hunxa ra delivery 4 din vitra garincha.",
+        "response": "Ho, city bahira delivery available xa. Rs. 150 charge hunxa."
+    },
+    {
+        "question": "COD delivery hunxa?",
+        "context": "Hamro ma cash on delivery (COD) option available xa. Delivery all over Nepal hunxa.",
+        "response": "Ho, cash on delivery (COD) option available xa all over Nepal."
+    },
+    {
+        "question": "fast delivery kati din lagxa?",
+        "context": "Hamro fast delivery ko lagi 1 din lagxa. Extra Rs. 200 charge laagxa.",
+        "response": "Fast delivery 1 din lagxa ra Rs. 200 extra charge hunxa."
+    },
+    {
+        "question": "delivery Kathmandu bahira hunxa?",
+        "context": "Hamro delivery Kathmandu bahira pani hunxa. Outside Kathmandu Rs. 150 charge hunxa ra delivery 3-4 din lagxa.",
+        "response": "Ho, Kathmandu bahira delivery hunxa. Rs. 150 charge hunxa ra 3-4 din lagxa."
+    },
+    {
+        "question": "delivery within valley free xa?",
+        "context": "Hamro Kathmandu valley vitra delivery free xa. Valley bahira delivery ko lagi Rs. 200 charge laagxa.",
+        "response": "Ho, Kathmandu valley vitra delivery free hunxa."
+    },
+    {
+        "question": "home delivery kati bela garincha?",
+        "context": "Hamro home delivery 10 baje dekhi 6 baje samma garincha. Delivery timing working hours vitra hunxa.",
+        "response": "Home delivery 10 baje dekhi 6 baje samma garincha."
+    },
+    {
+        "question": "delivery charge kati cha?",
+        "context": "Hamro city vitra free delivery hunxa ra city bahira Rs. 100 delivery charge hunxa.",
+        "response": "City vitra free delivery xa ra city bahira Rs. 100 laagxa."
+    },
+    {
+        "question": "express delivery kati din ma hunxa?",
+        "context": "Hamro express delivery 1 din ma garincha. Express delivery ko lagi Rs. 250 charge hunxa.",
+        "response": "Express delivery 1 din vitra hunxa ra Rs. 250 charge laagxa."
+    },
+    {
+        "question": "delivery time fixed hunxa?",
+        "context": "Hamro delivery ko lagi time fixed chaina, tara normally 2-4 din vitra garincha.",
+        "response": "Delivery time fixed chaina, tara 2-4 din vitra delivery hunxa."
+    },
+    {
+        "question": "online delivery kati din lagxa?",
+        "context": "Hamro online delivery city vitra 2-3 din ma garincha ra city bahira 4-5 din lagxa.",
+        "response": "Online delivery city vitra 2-3 din ra city bahira 4-5 din lagxa."
+    },
+    {
+        "question": "free delivery kaha kaha hunxa?",
+        "context": "Hamro free delivery Kathmandu ra Bhaktapur vitra available xa. Outside Bhaktapur delivery charge laagxa.",
+        "response": "Free delivery Kathmandu ra Bhaktapur vitra available xa."
+    },
+    {
+        "question": "delivery ko lagi contact garna milxa?",
+        "context": "Hamro delivery ko lagi 24/7 customer support available xa. Contact number website ma xa.",
+        "response": "Ho, delivery ko lagi contact garna milxa. 24/7 support available xa."
+    },
+    {
+        "question": "minimum delivery charge kati hunxa?",
+        "context": "Hamro minimum delivery charge Rs. 100 xa for city bahira. City vitra free delivery hunxa.",
+        "response": "Minimum delivery charge Rs. 100 xa for city bahira."
+    },
+    {
+        "question": "delivery during holiday hunxa?",
+        "context": "Hamro delivery service holiday ma pani available xa. Timing 10 baje dekhi 3 baje samma hunxa.",
+        "response": "Ho, delivery service holiday ma available xa."
+    },
+    {
+        "question": "same day delivery possible xa?",
+        "context": "Hamro ma same day delivery option available xa for city vitra matra. Extra Rs. 300 charge laagxa.",
+        "response": "Ho, same day delivery city vitra possible xa. Rs. 300 extra charge laagxa."
+    },
+    {
+        "question": "delivery valley ko bahira hunxa?",
+        "context": "Hamro ma Kathmandu valley bahira delivery service available xa. Rs. 200 charge hunxa ra delivery 3 din vitra garincha.",
+        "response": "Ho, valley bahira delivery available xa. Rs. 200 charge hunxa."
+    },
+    {
+        "question": "delivery order cancel garna milxa?",
+        "context": "Delivery order cancel garna 24 hours vitra request garna parcha. Cancelation fee Rs. 50 laagxa.",
+        "response": "Ho, delivery order cancel garna milxa 24 hours vitra."
+    },
+    {
+        "question": "delivery cash payment possible xa?",
+        "context": "Hamro delivery ma cash payment (COD) option available xa. Delivery ko time ma paisa tirna milxa.",
+        "response": "Ho, cash payment delivery ko time ma possible xa."
+    },
+    {
+        "question": "delivery outside valley hunxa?",
+        "context": "Hamro delivery service valley bahira pani available xa. Delivery charge Rs. 150 hunxa ra delivery 3-5 din vitra complete garincha.",
+        "response": "Ho, valley bahira delivery available xa. Rs. 150 charge hunxa ra 3-5 din lagxa."
+    },
+    {
+        "question": "delivery confirm garna kati time lagxa?",
+        "context": "Delivery confirm garna order ko details verify garincha. Confirmation process ma 1-2 ghanta lagxa.",
+        "response": "Delivery confirm garna 1-2 ghanta lagxa."
+    },
+    {
+        "question": "return delivery option xa?",
+        "context": "Hamro return delivery policy available xa. Product return garna free pickup ko lagi 7 din ko time frame xa.",
+        "response": "Ho, return delivery option xa. Free pickup 7 din vitra garincha."
+    },
+    {
+        "question": "delivery free hunxa?",
+        "context": "Hamro Kathmandu vitra delivery free xa. Outside Kathmandu Rs. 200 charge laagxa.",
+        "response": "Kathmandu vitra free delivery xa. Outside Kathmandu Rs. 200 charge laagxa."
+    },
+    {
+        "question": "urgent delivery ko lagi option xa?",
+        "context": "Hamro ma urgent delivery ko lagi express service available xa. Extra Rs. 300 charge hunxa ra delivery same day ma garincha.",
+        "response": "Ho, urgent delivery ko lagi express option available xa. Rs. 300 extra charge hunxa."
+    },
+    {
+        "question": "delivery Kathmandu ko bahira lagcha?",
+        "context": "Hamro delivery Kathmandu ko bahira pani garincha. Delivery charge Rs. 120 hunxa ra 2-3 din lagcha.",
+        "response": "Ho, Kathmandu ko bahira delivery hunxa. Rs. 120 charge laagxa."
+    },
+    {
+        "question": "bulk delivery available xa?",
+        "context": "Hamro ma bulk delivery option available xa. Bulk order ko lagi delivery charge discount garincha.",
+        "response": "Ho, bulk delivery available xa. Delivery charge discount garincha."
+    },
+    {
+        "question": "delivery samaya kati cha?",
+        "context": "Delivery samanya 10 baje dekhi 6 baje samma garincha. Delivery timing working hours vitra hunxa.",
+        "response": "Delivery 10 baje dekhi 6 baje samma hunxa."
+    },
+    {
+        "question": "Nepal bhar delivery hunxa?",
+        "context": "Hamro delivery service Nepal bhar available xa. City vitra free delivery hunxa ra city bahira Rs. 150 laagxa.",
+        "response": "Ho, Nepal bhar delivery available xa. City vitra free hunxa ra bahira Rs. 150 laagxa."
+    },
+    {
+        "question": "delivery weekend ma available hunxa?",
+        "context": "Hamro delivery service weekend ma pani active hunxa. Sunday dekhi Saturday samma delivery garincha.",
+        "response": "Ho, weekend ma delivery available hunxa."
+    },
+    {
+        "question": "holiday ma delivery hunxa?",
+        "context": "Hamro delivery service public holiday ma pani operate hunxa. Timing 10 baje dekhi 3 baje samma hunxa.",
+        "response": "Ho, holiday ma delivery available xa."
+    },
+    {
+        "question": "same day delivery kati ko hunxa?",
+        "context": "Same day delivery ko lagi Rs. 300 extra charge laagxa. Delivery city vitra matra available xa.",
+        "response": "Same day delivery Rs. 300 ko hunxa ra city vitra matra available xa."
+    },
+    {
+        "question": "delivery service customer care hunxa?",
+        "context": "Hamro customer care 24/7 available xa. Delivery related queries ko lagi contact garna milxa.",
+        "response": "Ho, delivery service customer care available xa."
+    },
+    {
+        "question": "return delivery ko lagi charge lagcha?",
+        "context": "Return delivery ko lagi city vitra free hunxa. City bahira ko lagi Rs. 100 return charge hunxa.",
+        "response": "City vitra return free hunxa ra bahira Rs. 100 charge hunxa."
+    },
+    {
+        "question": "order track garna milxa?",
+        "context": "Hamro system ma order track garna milxa. Tracking link email ra SMS ma provide garincha.",
+        "response": "Ho, order track garna milxa. Tracking link provide garincha."
+    },
+    {
+        "question": "delivery process kati bela suru hunxa?",
+        "context": "Delivery process order confirm bhaisake pachi turunta suru garincha. 24 hours vitra dispatch hunxa.",
+        "response": "Delivery process confirm pachi turunta suru hunxa."
+    },
+    {
+        "question": "delivery ko lagi specific time select garna milxa?",
+        "context": "Hamro delivery system ma specific time select garne option abhile chaina. Delivery 10 baje dekhi 6 baje samma garincha.",
+        "response": "Specific time select garna milcha chaina, delivery 10 baje dekhi 6 baje samma hunxa."
+    },
+    {
+        "question": "delivery packaging secure hunxa?",
+        "context": "Hamro delivery packaging tamper-proof hunxa. Product ko safety ko lagi bubble wrap ra strong box use garincha.",
+        "response": "Ho, delivery packaging secure hunxa ra tamper-proof hunxa."
+    },
+    {
+        "question": "delivery postpaid xa?",
+        "context": "Hamro ma delivery postpaid (COD) option available xa. Payment delivery ko time ma garna milxa.",
+        "response": "Ho, delivery postpaid xa. Payment COD ko time ma garna milxa."
+    },
+    {
+        "question": "order cancel gare delivery charge refund hunxa?",
+        "context": "Order cancel gare delivery charge refund hudaina. Cancelation charge alag laagxa.",
+        "response": "Order cancel gare delivery charge refund hudaina."
+    },
+    {
+        "question": "delivery ko timing kati ho?",
+        "context": "Hamro delivery timing morning 10 baje dekhi evening 6 baje samma ho. Special request ma timing adjust garincha.",
+        "response": "Delivery timing morning 10 baje dekhi evening 6 baje samma ho."
+    },
+    {
+        "question": "outside valley delivery charge kati hunxa?",
+        "context": "Hamro ma Kathmandu valley bahira delivery ko lagi Rs. 150 charge laagxa. Delivery 3-5 din vitra garincha.",
+        "response": "Outside valley delivery ko lagi Rs. 150 charge laagxa."
+    },
+    {
+        "question": "COD delivery everywhere hunxa?",
+        "context": "Hamro COD service all over Nepal available xa. Delivery timing 2-5 din vitra hunxa.",
+        "response": "Ho, COD delivery all over Nepal available xa."
+    },
+    {
+        "question": "delivery same day ma possible hunxa?",
+        "context": "Hamro same day delivery service city vitra matra available xa. Extra Rs. 250 charge laagxa.",
+        "response": "Same day delivery city vitra matra possible hunxa. Extra Rs. 250 charge laagxa."
+    },
+    {
+        "question": "minimum order free delivery ko lagi kati hunuparcha?",
+        "context": "Hamro minimum order Rs. 500 hunuparcha free delivery ko lagi. City bahira delivery ma charge laagxa.",
+        "response": "Free delivery ko lagi minimum order Rs. 500 hunuparcha."
+    },
+    {
+        "question": "delivery weekend ma garincha?",
+        "context": "Hamro delivery service weekend ma pani available xa. Timing morning 10 baje dekhi evening 6 baje samma ho.",
+        "response": "Ho, delivery weekend ma garincha."
+    },
+    {
+        "question": "delivery order track garna milxa?",
+        "context": "Hamro system ma delivery order track garna milxa. Tracking link confirmation email ma provide garincha.",
+        "response": "Ho, delivery order track garna milxa."
+    },
+    {
+        "question": "delivery ko lagi contact kasari garne?",
+        "context": "Hamro customer support delivery related queries ko lagi contact garna 24/7 available xa. Toll-free number website ma xa.",
+        "response": "Delivery ko lagi contact garna toll-free number use garna milxa."
+    },
+    {
+        "question": "holiday delivery available hunxa?",
+        "context": "Hamro holiday delivery service active hunxa. Delivery timing holiday ma 10 baje dekhi 3 baje samma ho.",
+        "response": "Ho, holiday delivery available hunxa."
+    },
+    {
+        "question": "free delivery kati bela hunxa?",
+        "context": "Hamro free delivery Kathmandu valley vitra available xa. Valley bahira delivery ma charge laagxa.",
+        "response": "Free delivery Kathmandu valley vitra matra hunxa."
+    },
+    {
+        "question": "delivery secure hunxa?",
+        "context": "Hamro delivery service secure hunxa. Tamper-proof packaging ra insured shipping use garincha.",
+        "response": "Ho, delivery secure hunxa."
+    },
+    {
+        "question": "urgent delivery ko lagi contact garna milxa?",
+        "context": "Urgent delivery ko lagi special helpline available xa. Customer support 24/7 active hunxa.",
+        "response": "Ho, urgent delivery ko lagi contact garna milxa."
+    },
+    {
+        "question": "delivery options k k hunxa?",
+        "context": "Hamro delivery options ma standard delivery ra express delivery available xa. Express delivery ma additional charge hunxa.",
+        "response": "Delivery options ma standard delivery ra express delivery available hunxa."
+    },
+    {
+        "question": "delivery same address ma garna milxa?",
+        "context": "Hamro delivery service ma same address ma delivery garna milxa. Address confirm garepachi dispatch hunxa.",
+        "response": "Ho, delivery same address ma garna milxa."
+    },
+    {
+        "question": "return delivery process kasari hunxa?",
+        "context": "Return delivery process 7 din vitra request garna parcha. Pickup free xa city vitra.",
+        "response": "Return delivery process 7 din vitra suru hunxa."
+    },
+    {
+        "question": "delivery guarantee hunxa?",
+        "context": "Hamro delivery 100% guarantee xa. Timely delivery ko lagi customer support active hunxa.",
+        "response": "Ho, delivery 100% guarantee hunxa."
+    },
+    {
+        "question": "order cancel gare charge lagxa?",
+        "context": "Hamro ma order cancel gare Rs. 50 charge lagcha. Refund delivery charge vitra include hudaina.",
+        "response": "Order cancel gare Rs. 50 charge laagxa."
+    },
+    {
+        "question": "express delivery charge kati hunxa?",
+        "context": "Hamro express delivery ko lagi Rs. 300 extra charge laagxa. Delivery 1 din vitra hunxa.",
+        "response": "Express delivery ko lagi Rs. 300 charge hunxa."
+    },
+    {
+        "question": "bulk order ko delivery possible hunxa?",
+        "context": "Hamro bulk order delivery ko lagi alag scheduling hunxa. Delivery charge discount pani garincha.",
+        "response": "Ho, bulk order delivery possible hunxa."
+    },
+    {
+        "question": "delivery suru garna k garna parcha?",
+        "context": "Hamro delivery suru garna online order confirm garnu parcha. Payment method select garepachi delivery process suru hunxa.",
+        "response": "Delivery suru garna order confirm garna parcha."
+    },
+    {
+        "question": "delivery service available xa?",
+        "context": "Hamro delivery service all over Nepal available xa. City vitra free delivery xa ra city bahira Rs. 150 laagxa.",
+        "response": "Ho, delivery service available xa. City vitra free xa, city bahira Rs. 150 laagxa."
+    },
+    {
+        "question": "delivery charge kati hunxa?",
+        "context": "Hamro Kathmandu valley vitra delivery free hunxa. Outside valley Rs. 200 charge laagxa.",
+        "response": "Kathmandu valley vitra free xa, outside valley Rs. 200 charge hunxa."
+    },
+    {
+        "question": "delivery all over Nepal hunxa?",
+        "context": "Hamro delivery service all over Nepal hunxa. Delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Ho, all over Nepal delivery hunxa. Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery ko lagi charge kati lagxa?",
+        "context": "Hamro ma inside Pokhara delivery free hunxa. Outside Pokhara delivery ko lagi Rs. 100 charge hunxa.",
+        "response": "Inside Pokhara free xa, outside Rs. 100 charge hunxa."
+    },
+    {
+        "question": "Nepal bhar delivery available hunxa?",
+        "context": "Hamro service Nepal bhar delivery garna milxa. Rs. 150 charge lageko hunxa sabai location ma.",
+        "response": "Ho, Nepal bhar delivery available xa. Rs. 150 charge hunxa."
+    },
+    {
+        "question": "delivery ko lagi minimum charge kati ho?",
+        "context": "Hamro delivery Kathmandu valley vitra free hunxa. Valley bahira minimum Rs. 120 charge laagxa.",
+        "response": "Valley vitra free xa, bahira minimum Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery charge Kathmandu ko bahira kati hunxa?",
+        "context": "Hamro Kathmandu ko bahira delivery ko lagi Rs. 150 charge laagxa. Delivery 3-5 din vitra hunxa.",
+        "response": "Kathmandu bahira Rs. 150 charge hunxa."
+    },
+    {
+        "question": "free delivery available xa?",
+        "context": "Hamro Kathmandu city vitra free delivery hunxa. Outside Kathmandu ko lagi Rs. 180 charge laagxa.",
+        "response": "Kathmandu city vitra free delivery xa, outside Rs. 180 charge hunxa."
+    },
+    {
+        "question": "delivery charge fixed xa?",
+        "context": "Delivery charge fixed xa. City vitra Rs. 50 hunxa, city bahira Rs. 150.",
+        "response": "Ho, delivery charge fixed xa. City vitra Rs. 50 ra city bahira Rs. 150 hunxa."
+    },
+    {
+        "question": "delivery hunxa ki hudaina?",
+        "context": "Hamro service ma delivery sabai thau ma hunxa. Delivery cost Rs. 200 laagxa.",
+        "response": "Ho, delivery sabai thau ma hunxa. Rs. 200 charge hunxa."
+    },
+    {
+        "question": "inside valley free delivery hunxa?",
+        "context": "Inside valley free delivery hunxa. Outside valley ko lagi Rs. 250 laagxa.",
+        "response": "Ho, inside valley free delivery hunxa."
+    },
+    {
+        "question": "delivery Kathmandu ma matra ho?",
+        "context": "Hamro delivery service Kathmandu ma matra hoina, all over Nepal hunxa. Kathmandu vitra free xa, bahira Rs. 150 charge laagxa.",
+        "response": "Hoina, Kathmandu matra hoina, all over Nepal delivery hunxa."
+    },
+    {
+        "question": "delivery cost kati ho?",
+        "context": "Delivery cost city vitra Rs. 70 xa. City bahira Rs. 200 laagxa.",
+        "response": "City vitra Rs. 70 ra city bahira Rs. 200 delivery cost hunxa."
+    },
+    {
+        "question": "free delivery only Kathmandu ma ho?",
+        "context": "Ho, Kathmandu vitra matra free delivery hunxa. Outside Kathmandu Rs. 150 charge laagxa.",
+        "response": "Ho, free delivery Kathmandu ma matra ho."
+    },
+    {
+        "question": "delivery ghar ghar ma hunxa?",
+        "context": "Hamro delivery ghar ghar ma hunxa. Charge city vitra Rs. 50 ra city bahira Rs. 150 hunxa.",
+        "response": "Ho, delivery ghar ghar ma hunxa. City vitra Rs. 50, city bahira Rs. 150 charge hunxa."
+    },
+    {
+        "question": "delivery outside Nepal hunxa?",
+        "context": "Hamro delivery service Nepal bhitra matra ho. Nepal bahira delivery currently available chaina.",
+        "response": "Hoina, delivery Nepal bhitra matra available xa."
+    },
+    {
+        "question": "delivery charges kasto xa?",
+        "context": "Delivery charge inside valley Rs. 100 hunxa. Valley bahira ko lagi Rs. 200 laagxa.",
+        "response": "Inside valley Rs. 100 xa ra outside valley Rs. 200 hunxa."
+    },
+    {
+        "question": "kasto delivery charge hunxa?",
+        "context": "Delivery charge city vitra free hunxa. City bahira ko lagi Rs. 150 laagxa.",
+        "response": "City vitra free hunxa, city bahira Rs. 150 hunxa."
+    },
+    {
+        "question": "delivery minimum charge kati ho?",
+        "context": "Minimum delivery charge Rs. 50 ho. Long distance delivery ko lagi Rs. 200 laagxa.",
+        "response": "Minimum charge Rs. 50 ho ra long distance delivery ko lagi Rs. 200 laagxa."
+    },
+    {
+        "question": "valley bhitra delivery free xa?",
+        "context": "Ho, valley bhitra delivery free hunxa. Valley bahira ko lagi Rs. 100 charge laagxa.",
+        "response": "Ho, valley bhitra delivery free xa."
+    },
+    {
+        "question": "delivery available xa?",
+        "context": "Hamro delivery service available xa. Dharan vitra free delivery hunxa ra Dharan bahira Rs. 120 charge laagxa. Delivery 2-3 din vitra garincha.",
+        "response": "Ho, delivery service available xa. Dharan vitra free delivery hunxa ra bahira Rs. 120 laagxa."
+    },
+    {
+        "question": "delivery charge kati hunxa?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge laagxa. Delivery 2-3 din vitra hunxa.",
+        "response": "Dharan vitra free xa, Dharan bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan bhitra free delivery hunxa?",
+        "context": "Ho, Dharan bhitra free delivery hunxa. Bahira ko lagi Rs. 120 charge laagxa ra delivery 2-3 din vitra hunxa.",
+        "response": "Ho, Dharan bhitra free delivery hunxa."
+    },
+    {
+        "question": "delivery ko timing kati ho?",
+        "context": "Hamro delivery timing Dharan bhitra 1 din vitra ho. Dharan bahira 2-3 din lagcha, Rs. 120 charge laagxa.",
+        "response": "Dharan vitra delivery 1 din vitra hunxa, bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "free delivery available xa?",
+        "context": "Dharan vitra free delivery xa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra hunxa.",
+        "response": "Ho, Dharan vitra free delivery xa."
+    },
+    {
+        "question": "delivery cost kati lagcha?",
+        "context": "Delivery Dharan vitra free xa. Bahira ko lagi Rs. 120 charge hunxa ra delivery 2-3 din vitra hunxa.",
+        "response": "Dharan vitra free xa, Dharan bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery Nepal bhar hunxa?",
+        "context": "Delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, delivery Nepal bhar hunxa. Dharan vitra free hunxa ra bahira Rs. 120 charge laagxa."
+    },
+    {
+        "question": "outside Dharan delivery hunxa?",
+        "context": "Ho, outside Dharan delivery available xa. Delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Ho, outside Dharan delivery hunxa. Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery charge kati ho?",
+        "context": "Delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 laagxa ra delivery 2-3 din vitra hunxa.",
+        "response": "Dharan vitra free hunxa, Dharan bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery ghar ma hunxa?",
+        "context": "Hamro delivery ghar ghar ma hunxa. Dharan vitra free xa, Dharan bahira Rs. 120 charge laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, delivery ghar ghar ma hunxa. Dharan vitra free xa ra bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan bahira delivery garincha?",
+        "context": "Ho, Dharan bahira delivery garincha. Rs. 120 charge laagxa ra delivery 2-3 din vitra hunxa.",
+        "response": "Ho, Dharan bahira delivery garincha. Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery ko lagi kati din lagxa?",
+        "context": "Hamro delivery Dharan vitra same day hunxa. Dharan bahira ko lagi 2-3 din lagcha ra Rs. 120 charge laagxa.",
+        "response": "Dharan vitra same day hunxa, Dharan bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery options kasto xa?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Dharan bahira Rs. 120 laagxa ra delivery 2-3 din vitra hunxa.",
+        "response": "Delivery options ma Dharan vitra free delivery xa ra bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery kaha samma possible xa?",
+        "context": "Hamro delivery Nepal bhar available xa. Dharan vitra free xa ra bahira Rs. 120 laagxa. Delivery 2-3 din vitra hunxa.",
+        "response": "Delivery Nepal bhar possible xa. Dharan vitra free hunxa ra bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "free delivery Dharan vitra ho?",
+        "context": "Ho, Dharan vitra free delivery hunxa. Bahira Rs. 120 laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery hunxa."
+    },
+    {
+        "question": "Dharan ko bahira ko lagi delivery charge kati ho?",
+        "context": "Dharan ko bahira delivery ko lagi Rs. 120 charge hunxa. Delivery 2-3 din vitra garincha.",
+        "response": "Dharan bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery service fast hunxa?",
+        "context": "Hamro delivery service Dharan vitra same day hunxa. Dharan bahira 2-3 din lagcha ra Rs. 120 charge laagxa.",
+        "response": "Ho, delivery service fast xa. Dharan vitra same day ra bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery Nepal bhar hunxa ki hoina?",
+        "context": "Hamro delivery Nepal bhar available xa. Dharan vitra free delivery xa ra Dharan bahira Rs. 120 laagxa. Delivery 2-3 din vitra hunxa.",
+        "response": "Ho, delivery Nepal bhar hunxa. Dharan vitra free xa ra bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery cost free xa?",
+        "context": "Dharan vitra delivery cost free hunxa. Bahira Rs. 120 charge laagxa ra 2-3 din vitra garincha.",
+        "response": "Dharan vitra free xa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery charge kasto hunxa?",
+        "context": "Hamro delivery charge Dharan vitra free xa. Dharan bahira Rs. 120 laagxa ra delivery 2-3 din vitra hunxa.",
+        "response": "Dharan vitra free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan bhitra delivery free hunxa?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Dharan bahira delivery charge Rs. 120 laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan bhitra free delivery hunxa."
+    },
+    {
+        "question": "delivery charge kati lagcha?",
+        "context": "Dharan vitra free delivery hunxa. Dharan bahira ko lagi Rs. 120 charge laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, Dharan bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery kati din lagxa?",
+        "context": "Hamro delivery Dharan vitra same day hunxa. Dharan bahira 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery hunxa, Dharan bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery ko charge kati ho?",
+        "context": "Hamro delivery charge Dharan vitra free ho. Bahira Rs. 120 charge laagxa ra 2-3 din vitra delivery garincha.",
+        "response": "Dharan vitra free xa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "outside Dharan delivery charge kati ho?",
+        "context": "Dharan vitra free delivery hunxa. Outside Dharan delivery ko lagi Rs. 120 charge laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Outside Dharan delivery ko lagi Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery free ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery hunxa."
+    },
+    {
+        "question": "delivery ko lagi kati din lagxa?",
+        "context": "Hamro delivery Dharan vitra 1 din vitra garincha. Outside Dharan delivery ko lagi 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra 1 din vitra garincha, bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "free delivery Dharan ko lagi ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Dharan bahira Rs. 120 charge laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery hunxa."
+    },
+    {
+        "question": "delivery ko charge kati ho?",
+        "context": "Hamro delivery charge Dharan vitra free ho. Dharan bahira Rs. 120 laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, Dharan bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery kasto ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa ra 2-3 din vitra garincha. Outside Dharan delivery charge Rs. 120 laagxa.",
+        "response": "Dharan vitra free delivery ho, outside Dharan Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan bahira delivery garincha?",
+        "context": "Ho, Dharan bahira delivery garincha. Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan bahira delivery garincha. Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery charge kati ho?",
+        "context": "Dharan vitra delivery free hunxa. Outside Dharan Rs. 120 charge laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, outside Dharan Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery charge free hunxa?",
+        "context": "Hamro delivery charge Dharan vitra free hunxa. Outside Dharan Rs. 120 charge laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, outside Dharan Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery Kathmandu ma matra ho?",
+        "context": "Hamro delivery Kathmandu vitra free hunxa. Outside Kathmandu delivery Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Hamro delivery Kathmandu vitra free ho, outside Kathmandu Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra free delivery garincha?",
+        "context": "Ho, Dharan vitra free delivery garincha. Outside Dharan Rs. 120 charge laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery garincha."
+    },
+    {
+        "question": "outside Dharan delivery garincha?",
+        "context": "Ho, outside Dharan delivery garincha. Rs. 120 charge laagxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, outside Dharan delivery garincha. Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan ma delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, Dharan bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery Kathmandu ma matra ho?",
+        "context": "Hamro delivery Kathmandu ma matra available ho. Dharan vitra free delivery hunxa ra Dharan bahira Rs. 120 charge laagxa.",
+        "response": "Ho, delivery Kathmandu ma matra ho."
+    },
+    {
+        "question": "Dharan ko vitra delivery free xa?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira delivery Rs. 120 charge hunxa ra 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ko vitra delivery free xa."
+    },
+    {
+        "question": "Dharan ko bahira ko lagi delivery charge kati ho?",
+        "context": "Dharan bahira delivery charge Rs. 120 hunxa ra delivery 2-3 din vitra hunxa.",
+        "response": "Dharan ko bahira ko lagi delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "delivery charge kati lagxa Dharan bahira?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira delivery charge Rs. 120 hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan bahira delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "delivery cost free ho?",
+        "context": "Dharan vitra delivery free ho. Dharan bahira delivery Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free delivery hunxa, Dharan bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery 2 din ma garincha?",
+        "context": "Hamro delivery service Dharan vitra same day hunxa. Dharan bahira delivery ko lagi 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery hunxa, Dharan bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery kitne din ma hunxa?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha, Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day hunxa, Dharan bahira 2-3 din vitra garincha."
+    },
+    {
+        "question": "delivery kasto cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Dharan vitra free delivery cha, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan ko bahira delivery garincha?",
+        "context": "Ho, Dharan ko bahira delivery garincha. Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ko bahira delivery garincha. Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan bahira delivery charge kati ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Dharan bahira delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Dharan bahira delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "delivery ko timing kati ho?",
+        "context": "Hamro delivery service Dharan vitra same day hunxa. Dharan bahira delivery ko lagi 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery hunxa, bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery kasto fast xa?",
+        "context": "Dharan vitra delivery fast hunxa, same day garincha. Dharan bahira 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra fast delivery garincha, bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery ko charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira delivery charge Rs. 120 hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra free delivery hunxa?",
+        "context": "Ho, Dharan vitra free delivery hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery hunxa."
+    },
+    {
+        "question": "Dharan ko bahira delivery garincha?",
+        "context": "Ho, Dharan ko bahira delivery garincha. Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ko bahira delivery garincha. Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan ko vitra delivery kati din ma garincha?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Dharan bahira delivery ko lagi 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, Dharan bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery charge free cha?",
+        "context": "Dharan vitra free delivery cha. Bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free delivery cha, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery ko charge kati ho Dharan ma?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, Dharan bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan ma matra delivery ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge laagxa ra 2-3 din vitra delivery garincha.",
+        "response": "Ho, Dharan ma matra delivery hunxa. Outside Dharan Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan ko vitra delivery charge free ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ko vitra delivery charge free ho."
+    },
+    {
+        "question": "delivery ko charge kati ho Dharan bahira?",
+        "context": "Dharan vitra free delivery hunxa. Dharan bahira delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Dharan bahira delivery ko charge Rs. 120 hunxa."
+    },
+    {
+        "question": "delivery charge kasto ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra 2-3 din vitra delivery garincha.",
+        "response": "Dharan vitra free delivery hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan bahira delivery kasto ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan bahira delivery Rs. 120 charge hunxa ra 2-3 din vitra garincha."
+    },
+    {
+        "question": "outside Dharan delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan bahira delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "Dharan ko vitra delivery free cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ko vitra delivery free cha."
+    },
+    {
+        "question": "delivery ko time kati ho?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, Dharan bahira 2-3 din vitra garincha."
+    },
+    {
+        "question": "Dharan ma matra delivery garincha?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ma matra delivery garincha."
+    },
+    {
+        "question": "delivery 2 din ma garincha?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Outside Dharan delivery ko lagi 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra free delivery garincha?",
+        "context": "Ho, Dharan vitra free delivery garincha. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery garincha."
+    },
+    {
+        "question": "delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan bahira delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery Rs. 120 charge hunxa ra 2-3 din vitra garincha.",
+        "response": "Outside Dharan delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery same day garincha?",
+        "context": "Ho, Dharan vitra delivery same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Ho, Dharan vitra delivery same day garincha."
+    },
+    {
+        "question": "Dharan ma delivery free cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ma delivery free cha."
+    },
+    {
+        "question": "delivery kati din ma garincha?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery ko lagi 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day garincha, bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra free delivery garincha?",
+        "context": "Ho, Dharan vitra free delivery garincha. Outside Dharan delivery charge Rs. 120 hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery garincha."
+    },
+    {
+        "question": "Dharan bahira ko lagi delivery charge kati ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Outside Dharan delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "Hamro delivery service kati din ma garincha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery hunxa, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery kasto garincha?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free delivery garincha, bahira Rs. 120 charge hunxa ra 2-3 din lagcha."
+    },
+    {
+        "question": "delivery ko time kati ho?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery hunxa, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "kaha samma delivery garincha?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Hamro delivery service all over Nepal ma garincha. Dharan vitra free ho, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery kati din lagxa?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Dharan bahira delivery ko lagi 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery hunxa, bahira 2-3 din vitra garincha."
+    },
+    {
+        "question": "kati din lagne ho delivery garna?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day hunxa, bahira 2-3 din lagcha ra Rs. 120 charge hunxa."
+    },
+    {
+        "question": "kaha bata delivery garincha?",
+        "context": "Hamro delivery service all over Nepal ma garincha. Dharan vitra free hunxa, bahira Rs. 120 charge hunxa ra 2-3 din vitra garincha.",
+        "response": "Hamro delivery service all over Nepal ma garincha. Dharan vitra free, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery charge kati ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free delivery ho, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery kasto fast garincha?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Outside Dharan delivery ko lagi 2-3 din lagcha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery ko service kasto cha?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Hamro delivery service fast ra reliable cha. Dharan vitra free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery free cha?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Dharan vitra free delivery cha, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery ko price kati ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery kasto cha?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Hamro delivery service fast ra reliable cha. Dharan vitra free, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan ko vitra delivery garincha?",
+        "context": "Ho, Dharan vitra delivery free garincha. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery garincha."
+    },
+    {
+        "question": "delivery charge free ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery garne ho?",
+        "context": "Ho, Dharan vitra delivery free garincha. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery garincha."
+    },
+    {
+        "question": "Dharan ko vitra delivery kasto garincha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra delivery free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan ko vitra delivery same day garincha?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Dharan bahira Rs. 120 charge hunxa ra 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra same day delivery garincha."
+    },
+    {
+        "question": "delivery free cha Dharan ma?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira delivery Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ma delivery free cha."
+    },
+    {
+        "question": "delivery charge kati ho Dharan vitra?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira delivery Rs. 120 charge hunxa ra 2-3 din vitra garincha.",
+        "response": "Dharan vitra delivery charge free ho."
+    },
+    {
+        "question": "delivery charge kati ho outside Dharan?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Outside Dharan delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "delivery kati din ma garincha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira 2-3 din ma garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day hunxa, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery garne samay kati ho?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery charge kati ho 2-3 din ma?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Dharan bahira delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery garne time kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery service kati din ma garincha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan vitra delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra delivery charge free ho, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery ma kati din lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira 2-3 din ma delivery garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day hunxa, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery ko time kati ho?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery free cha ya charge ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free delivery hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery ko lagi charge kati ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery garne ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery garincha."
+    },
+    {
+        "question": "delivery time kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day delivery hunxa, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan vitra delivery free ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra delivery free ho."
+    },
+    {
+        "question": "delivery ko cost kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery charge Rs. 120 hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra delivery free ho, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra delivery charge free ho."
+    },
+    {
+        "question": "delivery kati din ma garincha Dharan bahira?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan bahira delivery 2-3 din ma garincha."
+    },
+    {
+        "question": "delivery ko samay kati ho Dharan ma?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Outside Dharan delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra delivery same day garincha."
+    },
+    {
+        "question": "delivery free cha ke charge ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free cha, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra free delivery cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra free delivery cha."
+    },
+    {
+        "question": "delivery kati din ma garincha Dharan ko bahira?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ko bahira delivery 2-3 din ma garincha."
+    },
+    {
+        "question": "delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free ho, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery fast ho ke dherai din lagcha?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery ko time kati ho?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery ko price kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free ho, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery garne ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra delivery free garincha."
+    },
+    {
+        "question": "delivery kati din lagcha?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan ma delivery cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ma free delivery cha."
+    },
+    {
+        "question": "Dharan ko bahira delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Outside Dharan delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "delivery ko samay kati ho?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan vitra free delivery cha ki charge ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free delivery cha, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery service kahan samma cha?",
+        "context": "Hamro delivery service all over Nepal ma cha. Dharan vitra free delivery ho, bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Hamro delivery service all over Nepal ma cha."
+    },
+    {
+        "question": "delivery charge kahan samma lagcha?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan delivery charge Rs. 120 hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free hunxa, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan ko vitra delivery garna kati din lagcha?",
+        "context": "Hamro delivery service Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha."
+    },
+    {
+        "question": "delivery samay kati din lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan ko bahira delivery garne samay kati ho?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ko bahira delivery 2-3 din ma garincha."
+    },
+    {
+        "question": "delivery charge kati ho Dharan ko bahira?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Outside Dharan delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "Dharan ma delivery service cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ma delivery service cha."
+    },
+    {
+        "question": "delivery garna kati din lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira 2-3 din ma garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan ko vitra free delivery cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ma free delivery cha."
+    },
+    {
+        "question": "delivery fast cha?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery kasko samay ho?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery free cha ya charge lagcha?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Dharan vitra free cha, bahira Rs. 120 charge lagcha."
+    },
+    {
+        "question": "Dharan ma delivery free cha ki charge lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ma delivery free cha, bahira Rs. 120 charge lagcha."
+    },
+    {
+        "question": "delivery ko timing kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery ko time kati din lagcha?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery free ho ya charge ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery charge Rs. 120 hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free ho, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery free cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra delivery free cha."
+    },
+    {
+        "question": "delivery charge kati ho Dharan ko bahira?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Outside Dharan delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "delivery free cha ya charge ho Dharan ma?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra 2-3 din vitra garincha.",
+        "response": "Dharan ma free delivery cha, bahira Rs. 120 charge ho."
+    },
+    {
+        "question": "delivery service kasari garincha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery charge Rs. 120 hunxa ra 2-3 din vitra garincha.",
+        "response": "Hamro delivery service Dharan ma free ho ra bahira Rs. 120 charge ho."
+    },
+    {
+        "question": "Dharan ko bahira delivery kati din ma garincha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ko bahira delivery 2-3 din ma garincha."
+    },
+    {
+        "question": "Dharan ko bahira delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ko bahira delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "Dharan vitra free delivery cha ki charge lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra 2-3 din vitra garincha.",
+        "response": "Dharan vitra free delivery cha, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery ko samay kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day delivery hunxa, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery ko time kati ho Dharan ma?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan ma delivery same day garincha."
+    },
+    {
+        "question": "delivery charge kati ho Dharan vitra?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra delivery free cha."
+    },
+    {
+        "question": "delivery charge kati ho 2-3 din vitra?",
+        "context": "Hamro delivery service Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free cha, bahira Rs. 120 charge hunxa."
+    },
+    {
+        "question": "delivery time kati ho Dharan ma?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Dharan bahira Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ma delivery same day garincha."
+    },
+    {
+        "question": "Dharan ko bahira delivery kasto garincha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Outside Dharan delivery 2-3 din ma garincha."
+    },
+    {
+        "question": "delivery garne samay kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day hunxa, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan ko vitra delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra delivery charge free ho."
+    },
+    {
+        "question": "delivery garna kati din lagcha Dharan ma?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan ma same day delivery garincha."
+    },
+    {
+        "question": "Dharan ma delivery garne ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ma delivery garne ho, free cha."
+    },
+    {
+        "question": "Dharan bahira delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan bahira delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "delivery ko samay kati ho Dharan bahira?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Outside Dharan delivery 2-3 din vitra garincha."
+    },
+    {
+        "question": "delivery fast ho ki dherai din lagcha?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery service kati din lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan vitra delivery cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra delivery cha, free cha."
+    },
+    {
+        "question": "delivery ko cost kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free cha, bahira Rs. 120 charge ho."
+    },
+    {
+        "question": "delivery garne samay kati ho?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan ma delivery ko timing kati ho?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Outside Dharan delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan ma delivery same day garincha."
+    },
+    {
+        "question": "Dharan ma delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ma delivery charge free cha."
+    },
+    {
+        "question": "Dharan ko vitra delivery garne samay kati ho?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Outside Dharan delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan ko vitra same day delivery garincha."
+    },
+    {
+        "question": "delivery charge free cha Dharan ma?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ma delivery charge free cha."
+    },
+    {
+        "question": "Dharan vitra delivery free cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra delivery free cha."
+    },
+    {
+        "question": "Dharan ko bahira delivery 2-3 din lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ko bahira delivery 2-3 din lagcha."
+    },
+    {
+        "question": "delivery service cha Dharan ko bahira?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ko bahira delivery service cha, Rs. 120 charge ho."
+    },
+    {
+        "question": "delivery ko samay kasto cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan delivery Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "delivery same day garincha Dharan ma?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Outside Dharan delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Ho, Dharan ma delivery same day garincha."
+    },
+    {
+        "question": "Dharan ko bahira delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ko bahira delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery free cha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan vitra delivery free cha."
+    },
+    {
+        "question": "delivery samay kati din lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day delivery garincha, bahira 2-3 din lagcha."
+    },
+    {
+        "question": "Dharan ko bahira delivery kati din lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ko bahira delivery 2-3 din vitra garincha."
+    },
+    {
+        "question": "delivery free cha ki charge ho Dharan ma?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ma free delivery cha, bahira Rs. 120 charge ho."
+    },
+    {
+        "question": "delivery garne samay kati ho Dharan ma?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Dharan bahira delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Dharan ma delivery same day garincha."
+    },
+    {
+        "question": "Dharan vitra delivery free ho ya charge ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra delivery free ho, bahira Rs. 120 charge ho."
+    },
+    {
+        "question": "delivery free ho ya charge lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra free ho, bahira Rs. 120 charge lagcha."
+    },
+    {
+        "question": "delivery samay kati din lagcha Dharan vitra?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day delivery garincha."
+    },
+    {
+        "question": "Dharan ko vitra delivery same day garincha?",
+        "context": "Hamro delivery Dharan vitra same day garincha. Outside Dharan delivery 2-3 din vitra garincha ra Rs. 120 charge hunxa.",
+        "response": "Ho, Dharan ma same day delivery garincha."
+    },
+    {
+        "question": "delivery free cha Dharan ko vitra?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ko vitra delivery free cha."
+    },
+    {
+        "question": "Dharan ko bahira delivery charge kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan ko bahira delivery charge Rs. 120 hunxa."
+    },
+    {
+        "question": "Dharan vitra delivery time kati ho?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra same day delivery garincha."
+    },
+    {
+        "question": "Dharan ko bahira delivery 2-3 din ma garincha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Ho, Dharan ko bahira delivery 2-3 din lagcha."
+    },
+    {
+        "question": "delivery service sabai Nepal ma cha?",
+        "context": "Hamro delivery service all over Nepal ma cha. Dharan vitra free hunxa ra bahira Rs. 120 charge hunxa. Delivery 2-3 din vitra garincha.",
+        "response": "Ho, hamro delivery service all over Nepal ma cha."
+    },
+    {
+        "question": "delivery kasko lagcha?",
+        "context": "Hamro delivery Dharan vitra free hunxa. Outside Dharan Rs. 120 charge hunxa ra delivery 2-3 din vitra garincha.",
+        "response": "Dharan vitra delivery free cha, bahira Rs. 120 charge lagcha."
+    }
+]

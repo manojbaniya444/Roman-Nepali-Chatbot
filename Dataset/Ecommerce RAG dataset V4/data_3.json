@@ -1,0 +1,1452 @@
+[
+    {
+        "question": "Store ko location kaha xa?",
+        "context": "Hamro store ko name [XYZ] ho, hamro store XXX ma xa, Kathmandu, Nepal.",
+        "response": "Hamro store XXX ma xa, Kathmandu, Nepal."
+    },
+    {
+        "question": "Redmi Note 9 ko price kati ho?",
+        "context": "Product Details: name: Redmi Note 9 pro, price: 10100, stock: True, description: 6.67-inch FHD+ display, 5020mAh battery, 64MP quad camera.",
+        "response": "Redmi Note 9 ko price Rs. 10100 ho."
+    },
+    {
+        "question": "Redmi Note 9 stock ma xa ki xaina?",
+        "context": "Product Details: name: Redmi Note 9 pro, price: 10100, stock: True, description: 6.67-inch FHD+ display, 5020mAh battery, 64MP quad camera.",
+        "response": "Redmi Note 9 pro stock ma available xa."
+    },
+    {
+        "question": "Redmi Note 9 pro available xa?",
+        "context": "Product Details: name: Redmi Note 9 pro, price: 10100, stock: False, description: 6.67-inch FHD+ display, 5020mAh battery, 64MP quad camera.",
+        "response": "Redmi Note 9 pro stock ma available xaina."
+    },
+    {
+        "question": "Delivery charge kati ho?",
+        "context": "Delivery Details: Inside Kathmandu: Rs. 100, Outside Kathmandu: Rs. 200, Remote Areas: Rs. 300.",
+        "response": "Kathmandu bhitra delivery charge Rs. 100 ho, Kathmandu bahira Rs. 200 ho, remote areas ma Rs. 300 ho."
+    },
+    {
+        "question": "Cash on delivery available xa?",
+        "context": "Payment Methods: Cash on Delivery (COD), Credit/Debit Card, Esewa, Khalti.",
+        "response": "Hajur, cash on delivery available xa."
+    },
+    {
+        "question": "Esewa bata payment garna milxa?",
+        "context": "Payment Methods: Cash on Delivery (COD), Credit/Debit Card, Esewa, Khalti.",
+        "response": "Hajur, esewa bata payment garna milxa."
+    },
+    {
+        "question": "Discount ko offer xa?",
+        "context": "Current Offers: 10% discount on all electronics, 5% discount on first order, free delivery on orders above Rs. 5000.",
+        "response": "Hajur, electronics ma 10% discount xa, first order ma 5% discount xa, ra Rs. 5000 mathiko order ma free delivery xa."
+    },
+    {
+        "question": "Order cancel garna milxa?",
+        "context": "Cancellation Policy: Orders can be canceled within 24 hours of placement. After 24 hours, cancellation is not possible.",
+        "response": "Hajur, order place gareko 24 hours bhitra cancel garna milxa. 24 hours pachi cancel garna mildaina."
+    },
+    {
+        "question": "Refund process k xa?",
+        "context": "Refund Policy: Refunds are processed within 7-10 business days after the returned item is received and inspected.",
+        "response": "Refund process ma returned item receive ra inspect garepachi 7-10 business days bhitra refund process huncha."
+    },
+    {
+        "question": "Product return garna milxa?",
+        "context": "Return Policy: Products can be returned within 7 days of delivery if they are unused and in original packaging.",
+        "response": "Hajur, product deliver bhayeko 7 days bhitra return garna milxa, yadi product unused ra original packaging ma xa bhane."
+    },
+    {
+        "question": "Order track kasari garne?",
+        "context": "Tracking Details: You can track your order by logging into your account and visiting the 'Order History' section.",
+        "response": "Hajur, order track garna account ma login garera 'Order History' section ma jada milcha."
+    },
+    {
+        "question": "Customer support number k ho?",
+        "context": "Contact Details: Customer support number: 01-1234567, Email: support@xyz.com, Available: 9 AM - 6 PM, Sunday to Friday.",
+        "response": "Customer support number 01-1234567 ho. Support email support@xyz.com ho. Support hours 9 AM - 6 PM, Sunday to Friday ho."
+    },
+    {
+        "question": "Product warranty kati din ko xa?",
+        "context": "Warranty Details: All electronics come with a 1-year manufacturer warranty. Warranty does not cover physical damage.",
+        "response": "Product ko 1-year manufacturer warranty xa. Warranty ma physical damage cover hudaina."
+    },
+    {
+        "question": "Order status k xa?",
+        "context": "Order Details: Order ID 12345, Status: Shipped, Estimated Delivery: 3-5 business days.",
+        "response": "Hajur, order ID 12345 ko status shipped ho. Estimated delivery 3-5 business days ho."
+    },
+    {
+        "question": "International delivery available xa?",
+        "context": "Delivery Details: Currently, we only deliver within Nepal. International delivery is not available.",
+        "response": "Hajur, hami Nepal bhitra matra delivery gardachau. International delivery available xaina."
+    },
+    {
+        "question": "Product ko color option k xa?",
+        "context": "Product Details: name: Redmi Note 9 pro, color options: Aurora Blue, Glacier White, Interstellar Black.",
+        "response": "Redmi Note 9 pro ko color options Aurora Blue, Glacier White, ra Interstellar Black ho."
+    },
+    {
+        "question": "Product ko description ma k k xa?",
+        "context": "Product Details: name: Redmi Note 9 pro, description: 6.67-inch FHD+ display, 5020mAh battery, 64MP quad camera, 128GB storage, 6GB RAM.",
+        "response": "Redmi Note 9 pro ko description ma 6.67-inch FHD+ display, 5020mAh battery, 64MP quad camera, 128GB storage, ra 6GB RAM xa."
+    },
+    {
+        "question": "Order ma gift wrapping available xa?",
+        "context": "Additional Services: Gift wrapping is available for an additional charge of Rs. 100.",
+        "response": "Hajur, gift wrapping available xa ra additional Rs. 100 charge huncha."
+    },
+    {
+        "question": "Product ko review kasto xa?",
+        "context": "Product Reviews: Average rating: 4.5/5, Total reviews: 1200. Most customers praise the battery life and camera quality.",
+        "response": "Product ko average rating 4.5/5 ho ra 1200 reviews xan. Dherai customers le battery life ra camera quality lai ramro bhaneka chan."
+    },
+    {
+        "question": "iPhone 13 ko price kati ho?",
+        "context": "Product Details: name: iPhone 13, price: 120000, stock: True, description: 6.1-inch Super Retina XDR display, A15 Bionic chip, 128GB storage, dual-camera system.",
+        "response": "iPhone 13 ko price Rs. 120000 ho."
+    },
+    {
+        "question": "iPhone 13 stock ma xa ki xaina?",
+        "context": "Product Details: name: iPhone 13, price: 120000, stock: True, description: 6.1-inch Super Retina XDR display, A15 Bionic chip, 128GB storage, dual-camera system.",
+        "response": "Hajur, iPhone 13 stock ma available xa."
+    },
+    {
+        "question": "Samsung Galaxy S21 Ultra ko description ma k k xa?",
+        "context": "Product Details: name: Samsung Galaxy S21 Ultra, price: 150000, stock: True, description: 6.8-inch Dynamic AMOLED display, 108MP camera, 5000mAh battery, 256GB storage.",
+        "response": "Samsung Galaxy S21 Ultra ko description ma 6.8-inch Dynamic AMOLED display, 108MP camera, 5000mAh battery, ra 256GB storage xa."
+    },
+    {
+        "question": "Samsung Galaxy S21 Ultra ko price kati ho?",
+        "context": "Product Details: name: Samsung Galaxy S21 Ultra, price: 150000, stock: True, description: 6.8-inch Dynamic AMOLED display, 108MP camera, 5000mAh battery, 256GB storage.",
+        "response": "Samsung Galaxy S21 Ultra ko price Rs. 150000 ho."
+    },
+    {
+        "question": "MacBook Air M1 ko stock ma xa?",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: False, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "Hajur, MacBook Air M1 stock ma available xaina."
+    },
+    {
+        "question": "MacBook Air M1 ko description ma k k xa?",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: False, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "MacBook Air M1 ko description ma 13.3-inch Retina display, Apple M1 chip, 8GB RAM, ra 256GB SSD xa."
+    },
+    {
+        "question": "Nike Air Max 270 ko price kati ho?",
+        "context": "Product Details: name: Nike Air Max 270, price: 15000, stock: True, description: Men's running shoes, breathable mesh upper, Max Air unit for cushioning.",
+        "response": "Nike Air Max 270 ko price Rs. 15000 ho."
+    },
+    {
+        "question": "Nike Air Max 270 stock ma xa?",
+        "context": "Product Details: name: Nike Air Max 270, price: 15000, stock: True, description: Men's running shoes, breathable mesh upper, Max Air unit for cushioning.",
+        "response": "Hajur, Nike Air Max 270 stock ma available xa."
+    },
+    {
+        "question": "Adidas Ultraboost 22 ko description ma k k xa?",
+        "context": "Product Details: name: Adidas Ultraboost 22, price: 18000, stock: True, description: Women's running shoes, Primeknit upper, Boost midsole for energy return.",
+        "response": "Adidas Ultraboost 22 ko description ma women's running shoes, Primeknit upper, ra Boost midsole for energy return xa."
+    },
+    {
+        "question": "Adidas Ultraboost 22 ko price kati ho?",
+        "context": "Product Details: name: Adidas Ultraboost 22, price: 18000, stock: True, description: Women's running shoes, Primeknit upper, Boost midsole for energy return.",
+        "response": "Adidas Ultraboost 22 ko price Rs. 18000 ho."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko stock ma xa?",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: False, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Hajur, Sony WH-1000XM4 stock ma available xaina."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko description ma k k xa?",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: False, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Sony WH-1000XM4 ko description ma wireless noise-canceling headphones, 30-hour battery life, ra touch sensor controls xa."
+    },
+    {
+        "question": "Canon EOS R6 ko price kati ho?",
+        "context": "Product Details: name: Canon EOS R6, price: 250000, stock: True, description: Mirrorless camera, 20.1MP sensor, 4K video recording, dual pixel autofocus.",
+        "response": "Canon EOS R6 ko price Rs. 250000 ho."
+    },
+    {
+        "question": "Canon EOS R6 stock ma xa?",
+        "context": "Product Details: name: Canon EOS R6, price: 250000, stock: True, description: Mirrorless camera, 20.1MP sensor, 4K video recording, dual pixel autofocus.",
+        "response": "Hajur, Canon EOS R6 stock ma available xa."
+    },
+    {
+        "question": "Dell XPS 13 ko description ma k k xa?",
+        "context": "Product Details: name: Dell XPS 13, price: 180000, stock: True, description: 13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, InfinityEdge display.",
+        "response": "Dell XPS 13 ko description ma 13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, ra InfinityEdge display xa."
+    },
+    {
+        "question": "Dell XPS 13 ko price kati ho?",
+        "context": "Product Details: name: Dell XPS 13, price: 180000, stock: True, description: 13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, InfinityEdge display.",
+        "response": "Dell XPS 13 ko price Rs. 180000 ho."
+    },
+    {
+        "question": "LG OLED C1 55-inch ko stock ma xa?",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: False, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "Hajur, LG OLED C1 55-inch stock ma available xaina."
+    },
+    {
+        "question": "LG OLED C1 55-inch ko description ma k k xa?",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: False, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "LG OLED C1 55-inch ko description ma 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, ra HDMI 2.1 xa."
+    },
+    {
+        "question": "Bose QuietComfort 45 ko price kati ho?",
+        "context": "Product Details: name: Bose QuietComfort 45, price: 30000, stock: True, description: Wireless noise-canceling headphones, 24-hour battery life, TriPort acoustic architecture.",
+        "response": "Bose QuietComfort 45 ko price Rs. 30000 ho."
+    },
+    {
+        "question": "Bose QuietComfort 45 stock ma xa?",
+        "context": "Product Details: name: Bose QuietComfort 45, price: 30000, stock: True, description: Wireless noise-canceling headphones, 24-hour battery life, TriPort acoustic architecture.",
+        "response": "Hajur, Bose QuietComfort 45 stock ma available xa."
+    },
+    {
+        "question": "iPhone 14 Pro Max ko price kati ho?",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: True, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "iPhone 14 Pro Max ko price Rs. 200000 ho."
+    },
+    {
+        "question": "iPhone 14 Pro Max stock ma xa?",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: True, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "Hajur, iPhone 14 Pro Max stock ma available xa."
+    },
+    {
+        "question": "Casio FX-991EX ko description ma k k xa?",
+        "context": "Product Details: name: Casio FX-991EX, price: 2500, stock: True, description: Scientific calculator, 552 functions, natural textbook display, solar-powered.",
+        "response": "Casio FX-991EX ko description ma scientific calculator, 552 functions, natural textbook display, ra solar-powered xa."
+    },
+    {
+        "question": "Casio FX-991EX ko price kati ho?",
+        "context": "Product Details: name: Casio FX-991EX, price: 2500, stock: True, description: Scientific calculator, 552 functions, natural textbook display, solar-powered.",
+        "response": "Casio FX-991EX ko price Rs. 2500 ho."
+    },
+    {
+        "question": "HP Pavilion 15 ko stock ma xa?",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: False, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "Hajur, HP Pavilion 15 stock ma available xaina."
+    },
+    {
+        "question": "HP Pavilion 15 ko description ma k k xa?",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: False, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "HP Pavilion 15 ko description ma 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, ra backlit keyboard xa."
+    },
+    {
+        "question": "Samsung 65-inch QLED TV ko price kati ho?",
+        "context": "Product Details: name: Samsung 65-inch QLED TV, price: 300000, stock: True, description: 65-inch 4K QLED display, Quantum HDR, Smart TV with Alexa built-in.",
+        "response": "Samsung 65-inch QLED TV ko price Rs. 300000 ho."
+    },
+    {
+        "question": "Samsung 65-inch QLED TV stock ma xa?",
+        "context": "Product Details: name: Samsung 65-inch QLED TV, price: 300000, stock: True, description: 65-inch 4K QLED display, Quantum HDR, Smart TV with Alexa built-in.",
+        "response": "Hajur, Samsung 65-inch QLED TV stock ma available xa."
+    },
+    {
+        "question": "Apple Watch Series 8 ko description ma k k xa?",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: True, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Apple Watch Series 8 ko description ma 45mm GPS + Cellular, blood oxygen sensor, ECG app, ra always-on Retina display xa."
+    },
+    {
+        "question": "Apple Watch Series 8 ko price kati ho?",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: True, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Apple Watch Series 8 ko price Rs. 80000 ho."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 ko stock ma xa?",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: True, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Hajur, Xiaomi Mi Band 7 stock ma available xa."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 ko description ma k k xa?",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: True, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Xiaomi Mi Band 7 ko description ma fitness tracker, 1.62-inch AMOLED display, 120 sports modes, ra 14-day battery life xa."
+    },
+    {
+        "question": "Sony Bravia 55-inch 4K TV ko price kati ho?",
+        "context": "Product Details: name: Sony Bravia 55-inch 4K TV, price: 180000, stock: True, description: 55-inch 4K HDR Smart TV, Dolby Vision, Android TV, X1 4K processor.",
+        "response": "Sony Bravia 55-inch 4K TV ko price Rs. 180000 ho."
+    },
+    {
+        "question": "Sony Bravia 55-inch 4K TV stock ma xa?",
+        "context": "Product Details: name: Sony Bravia 55-inch 4K TV, price: 180000, stock: True, description: 55-inch 4K HDR Smart TV, Dolby Vision, Android TV, X1 4K processor.",
+        "response": "Hajur, Sony Bravia 55-inch 4K TV stock ma available xa."
+    },
+    {
+        "question": "OnePlus Nord CE 2 ko description ma k k xa?",
+        "context": "Product Details: name: OnePlus Nord CE 2, price: 45000, stock: True, description: 6.43-inch AMOLED display, MediaTek Dimensity 900, 8GB RAM, 128GB storage, 65W fast charging.",
+        "response": "OnePlus Nord CE 2 ko description ma 6.43-inch AMOLED display, MediaTek Dimensity 900, 8GB RAM, 128GB storage, ra 65W fast charging xa."
+    },
+    {
+        "question": "OnePlus Nord CE 2 ko price kati ho?",
+        "context": "Product Details: name: OnePlus Nord CE 2, price: 45000, stock: True, description: 6.43-inch AMOLED display, MediaTek Dimensity 900, 8GB RAM, 128GB storage, 65W fast charging.",
+        "response": "OnePlus Nord CE 2 ko price Rs. 45000 ho."
+    },
+    {
+        "question": "Dell Inspiron 14 ko stock ma xa?",
+        "context": "Product Details: name: Dell Inspiron 14, price: 90000, stock: False, description: 14-inch FHD display, Intel Core i3, 8GB RAM, 256GB SSD, Windows 11.",
+        "response": "Hajur, Dell Inspiron 14 stock ma available xaina."
+    },
+    {
+        "question": "Dell Inspiron 14 ko description ma k k xa?",
+        "context": "Product Details: name: Dell Inspiron 14, price: 90000, stock: False, description: 14-inch FHD display, Intel Core i3, 8GB RAM, 256GB SSD, Windows 11.",
+        "response": "Dell Inspiron 14 ko description ma 14-inch FHD display, Intel Core i3, 8GB RAM, 256GB SSD, ra Windows 11 xa."
+    },
+    {
+        "question": "Samsung Galaxy Watch 5 ko price kati ho?",
+        "context": "Product Details: name: Samsung Galaxy Watch 5, price: 40000, stock: True, description: 44mm Bluetooth, sapphire crystal glass, bioelectrical impedance analysis, sleep tracking.",
+        "response": "Samsung Galaxy Watch 5 ko price Rs. 40000 ho."
+    },
+    {
+        "question": "Samsung Galaxy Watch 5 stock ma xa?",
+        "context": "Product Details: name: Samsung Galaxy Watch 5, price: 40000, stock: True, description: 44mm Bluetooth, sapphire crystal glass, bioelectrical impedance analysis, sleep tracking.",
+        "response": "Hajur, Samsung Galaxy Watch 5 stock ma available xa."
+    },
+    {
+        "question": "Canon Pixma MG2577s ko description ma k k xa?",
+        "context": "Product Details: name: Canon Pixma MG2577s, price: 8000, stock: True, description: All-in-one inkjet printer, print, scan, copy, compact design.",
+        "response": "Canon Pixma MG2577s ko description ma all-in-one inkjet printer, print, scan, copy, ra compact design xa."
+    },
+    {
+        "question": "Canon Pixma MG2577s ko price kati ho?",
+        "context": "Product Details: name: Canon Pixma MG2577s, price: 8000, stock: True, description: All-in-one inkjet printer, print, scan, copy, compact design.",
+        "response": "Canon Pixma MG2577s ko price Rs. 8000 ho."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra ko price kati ho?",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: True, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Samsung Galaxy S22 Ultra ko price Rs. 180000 ho."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra stock ma xa?",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: True, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Hajur, Samsung Galaxy S22 Ultra stock ma available xa."
+    },
+    {
+        "question": "HP 15s ko description ma k k xa?",
+        "context": "Product Details: name: HP 15s, price: 75000, stock: True, description: 15.6-inch HD display, Intel Core i3, 8GB RAM, 256GB SSD, Windows 11, lightweight design.",
+        "response": "HP 15s ko description ma 15.6-inch HD display, Intel Core i3, 8GB RAM, 256GB SSD, Windows 11, ra lightweight design xa."
+    },
+    {
+        "question": "HP 15s ko price kati ho?",
+        "context": "Product Details: name: HP 15s, price: 75000, stock: True, description: 15.6-inch HD display, Intel Core i3, 8GB RAM, 256GB SSD, Windows 11, lightweight design.",
+        "response": "HP 15s ko price Rs. 75000 ho."
+    },
+    {
+        "question": "LG 43-inch LED TV ko stock ma xa?",
+        "context": "Product Details: name: LG 43-inch LED TV, price: 60000, stock: False, description: 43-inch Full HD LED TV, webOS Smart TV, AI ThinQ, 20W speakers.",
+        "response": "Hajur, LG 43-inch LED TV stock ma available xaina."
+    },
+    {
+        "question": "LG 43-inch LED TV ko description ma k k xa?",
+        "context": "Product Details: name: LG 43-inch LED TV, price: 60000, stock: False, description: 43-inch Full HD LED TV, webOS Smart TV, AI ThinQ, 20W speakers.",
+        "response": "LG 43-inch LED TV ko description ma 43-inch Full HD LED TV, webOS Smart TV, AI ThinQ, ra 20W speakers xa."
+    },
+    {
+        "question": "Apple AirPods Pro ko price kati ho?",
+        "context": "Product Details: name: Apple AirPods Pro, price: 35000, stock: True, description: Active noise cancellation, adaptive EQ, sweat and water-resistant, wireless charging case.",
+        "response": "Apple AirPods Pro ko price Rs. 35000 ho."
+    },
+    {
+        "question": "Apple AirPods Pro stock ma xa?",
+        "context": "Product Details: name: Apple AirPods Pro, price: 35000, stock: True, description: Active noise cancellation, adaptive EQ, sweat and water-resistant, wireless charging case.",
+        "response": "Hajur, Apple AirPods Pro stock ma available xa."
+    },
+    {
+        "question": "Xiaomi Redmi Note 11 ko description ma k k xa?",
+        "context": "Product Details: name: Xiaomi Redmi Note 11, price: 30000, stock: True, description: 6.43-inch AMOLED display, Snapdragon 680, 6GB RAM, 128GB storage, 5000mAh battery.",
+        "response": "Xiaomi Redmi Note 11 ko description ma 6.43-inch AMOLED display, Snapdragon 680, 6GB RAM, 128GB storage, ra 5000mAh battery xa."
+    },
+    {
+        "question": "Xiaomi Redmi Note 11 ko price kati ho?",
+        "context": "Product Details: name: Xiaomi Redmi Note 11, price: 30000, stock: True, description: 6.43-inch AMOLED display, Snapdragon 680, 6GB RAM, 128GB storage, 5000mAh battery.",
+        "response": "Xiaomi Redmi Note 11 ko price Rs. 30000 ho."
+    },
+    {
+        "question": "Asus ROG Zephyrus G14 ko stock ma xa?",
+        "context": "Product Details: name: Asus ROG Zephyrus G14, price: 250000, stock: False, description: 14-inch QHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "Hajur, Asus ROG Zephyrus G14 stock ma available xaina."
+    },
+    {
+        "question": "Asus ROG Zephyrus G14 ko description ma k k xa?",
+        "context": "Product Details: name: Asus ROG Zephyrus G14, price: 250000, stock: False, description: 14-inch QHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "Asus ROG Zephyrus G14 ko description ma 14-inch QHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, ra gaming laptop xa."
+    },
+    {
+        "question": "Sony WH-CH710N ko price kati ho?",
+        "context": "Product Details: name: Sony WH-CH710N, price: 15000, stock: True, description: Wireless noise-canceling headphones, 35-hour battery life, Bluetooth, lightweight design.",
+        "response": "Sony WH-CH710N ko price Rs. 15000 ho."
+    },
+    {
+        "question": "Sony WH-CH710N stock ma xa?",
+        "context": "Product Details: name: Sony WH-CH710N, price: 15000, stock: True, description: Wireless noise-canceling headphones, 35-hour battery life, Bluetooth, lightweight design.",
+        "response": "Hajur, Sony WH-CH710N stock ma available xa."
+    },
+    {
+        "question": "Canon EOS M50 Mark II ko description ma k k xa?",
+        "context": "Product Details: name: Canon EOS M50 Mark II, price: 120000, stock: True, description: Mirrorless camera, 24.1MP sensor, 4K video, dual pixel autofocus, flip-out touchscreen.",
+        "response": "Canon EOS M50 Mark II ko description ma mirrorless camera, 24.1MP sensor, 4K video, dual pixel autofocus, ra flip-out touchscreen xa."
+    },
+    {
+        "question": "Canon EOS M50 Mark II ko price kati ho?",
+        "context": "Product Details: name: Canon EOS M50 Mark II, price: 120000, stock: True, description: Mirrorless camera, 24.1MP sensor, 4K video, dual pixel autofocus, flip-out touchscreen.",
+        "response": "Canon EOS M50 Mark II ko price Rs. 120000 ho."
+    },
+    {
+        "question": "Logitech G502 Hero ko stock ma xa?",
+        "context": "Product Details: name: Logitech G502 Hero, price: 10000, stock: True, description: Gaming mouse, 11 programmable buttons, RGB lighting, adjustable weight system.",
+        "response": "Hajur, Logitech G502 Hero stock ma available xa."
+    },
+    {
+        "question": "Logitech G502 Hero ko description ma k k xa?",
+        "context": "Product Details: name: Logitech G502 Hero, price: 10000, stock: True, description: Gaming mouse, 11 programmable buttons, RGB lighting, adjustable weight system.",
+        "response": "Logitech G502 Hero ko description ma gaming mouse, 11 programmable buttons, RGB lighting, ra adjustable weight system xa."
+    },
+    {
+        "question": "JBL Flip 6 ko price kati ho?",
+        "context": "Product Details: name: JBL Flip 6, price: 12000, stock: True, description: Portable Bluetooth speaker, IP67 waterproof, 12 hours battery life, PartyBoost for stereo sound.",
+        "response": "JBL Flip 6 ko price Rs. 12000 ho."
+    },
+    {
+        "question": "JBL Flip 6 stock ma xa?",
+        "context": "Product Details: name: JBL Flip 6, price: 12000, stock: True, description: Portable Bluetooth speaker, IP67 waterproof, 12 hours battery life, PartyBoost for stereo sound.",
+        "response": "Hajur, JBL Flip 6 stock ma available xa."
+    },
+    {
+        "question": "Google Pixel 7 Pro ko price kati ho?",
+        "context": "Product Details: name: Google Pixel 7 Pro, price: 150000, stock: True, description: 6.7-inch QHD+ OLED display, Tensor G2 chip, 12GB RAM, 128GB storage, triple-camera system.",
+        "response": "Google Pixel 7 Pro ko price Rs. 150000 ho."
+    },
+    {
+        "question": "Google Pixel 7 Pro stock ma xa?",
+        "context": "Product Details: name: Google Pixel 7 Pro, price: 150000, stock: True, description: 6.7-inch QHD+ OLED display, Tensor G2 chip, 12GB RAM, 128GB storage, triple-camera system.",
+        "response": "Hajur, Google Pixel 7 Pro stock ma available xa."
+    },
+    {
+        "question": "Acer Nitro 5 ko description ma k k xa?",
+        "context": "Product Details: name: Acer Nitro 5, price: 130000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GTX 1650, gaming laptop.",
+        "response": "Acer Nitro 5 ko description ma 15.6-inch FHD display, Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GTX 1650, ra gaming laptop xa."
+    },
+    {
+        "question": "Acer Nitro 5 ko price kati ho?",
+        "context": "Product Details: name: Acer Nitro 5, price: 130000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GTX 1650, gaming laptop.",
+        "response": "Acer Nitro 5 ko price Rs. 130000 ho."
+    },
+    {
+        "question": "Sony PlayStation 5 ko stock ma xa?",
+        "context": "Product Details: name: Sony PlayStation 5, price: 100000, stock: False, description: Next-gen gaming console, 4K UHD Blu-ray, 825GB SSD, DualSense wireless controller.",
+        "response": "Hajur, Sony PlayStation 5 stock ma available xaina."
+    },
+    {
+        "question": "Sony PlayStation 5 ko description ma k k xa?",
+        "context": "Product Details: name: Sony PlayStation 5, price: 100000, stock: False, description: Next-gen gaming console, 4K UHD Blu-ray, 825GB SSD, DualSense wireless controller.",
+        "response": "Sony PlayStation 5 ko description ma next-gen gaming console, 4K UHD Blu-ray, 825GB SSD, ra DualSense wireless controller xa."
+    },
+    {
+        "question": "Bose SoundLink Revolve ko price kati ho?",
+        "context": "Product Details: name: Bose SoundLink Revolve, price: 25000, stock: True, description: 360-degree Bluetooth speaker, 12-hour battery life, water-resistant, voice assistant support.",
+        "response": "Bose SoundLink Revolve ko price Rs. 25000 ho."
+    },
+    {
+        "question": "Bose SoundLink Revolve stock ma xa?",
+        "context": "Product Details: name: Bose SoundLink Revolve, price: 25000, stock: True, description: 360-degree Bluetooth speaker, 12-hour battery life, water-resistant, voice assistant support.",
+        "response": "Hajur, Bose SoundLink Revolve stock ma available xa."
+    },
+    {
+        "question": "Nikon Z50 ko description ma k k xa?",
+        "context": "Product Details: name: Nikon Z50, price: 110000, stock: True, description: Mirrorless camera, 20.9MP sensor, 4K video, tilting touchscreen, compact design.",
+        "response": "Nikon Z50 ko description ma mirrorless camera, 20.9MP sensor, 4K video, tilting touchscreen, ra compact design xa."
+    },
+    {
+        "question": "Nikon Z50 ko price kati ho?",
+        "context": "Product Details: name: Nikon Z50, price: 110000, stock: True, description: Mirrorless camera, 20.9MP sensor, 4K video, tilting touchscreen, compact design.",
+        "response": "Nikon Z50 ko price Rs. 110000 ho."
+    },
+    {
+        "question": "Razer BlackWidow V3 ko stock ma xa?",
+        "context": "Product Details: name: Razer BlackWidow V3, price: 15000, stock: True, description: Mechanical gaming keyboard, RGB lighting, programmable macros, durable build.",
+        "response": "Hajur, Razer BlackWidow V3 stock ma available xa."
+    },
+    {
+        "question": "Razer BlackWidow V3 ko description ma k k xa?",
+        "context": "Product Details: name: Razer BlackWidow V3, price: 15000, stock: True, description: Mechanical gaming keyboard, RGB lighting, programmable macros, durable build.",
+        "response": "Razer BlackWidow V3 ko description ma mechanical gaming keyboard, RGB lighting, programmable macros, ra durable build xa."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 ko price kati ho?",
+        "context": "Product Details: name: Samsung Galaxy Buds 2, price: 18000, stock: True, description: True wireless earbuds, ANC, 20-hour battery life, lightweight design.",
+        "response": "Samsung Galaxy Buds 2 ko price Rs. 18000 ho."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 stock ma xa?",
+        "context": "Product Details: name: Samsung Galaxy Buds 2, price: 18000, stock: True, description: True wireless earbuds, ANC, 20-hour battery life, lightweight design.",
+        "response": "Hajur, Samsung Galaxy Buds 2 stock ma available xa."
+    },
+    {
+        "question": "LG Gram 17 ko description ma k k xa?",
+        "context": "Product Details: name: LG Gram 17, price: 200000, stock: True, description: 17-inch ultra-lightweight laptop, Intel Core i7, 16GB RAM, 1TB SSD, long battery life.",
+        "response": "LG Gram 17 ko description ma 17-inch ultra-lightweight laptop, Intel Core i7, 16GB RAM, 1TB SSD, ra long battery life xa."
+    },
+    {
+        "question": "LG Gram 17 ko price kati ho?",
+        "context": "Product Details: name: LG Gram 17, price: 200000, stock: True, description: 17-inch ultra-lightweight laptop, Intel Core i7, 16GB RAM, 1TB SSD, long battery life.",
+        "response": "LG Gram 17 ko price Rs. 200000 ho."
+    },
+    {
+        "question": "Xbox Series X ko stock ma xa?",
+        "context": "Product Details: name: Xbox Series X, price: 90000, stock: False, description: Next-gen gaming console, 4K gaming, 1TB SSD, backward compatibility, Xbox Game Pass.",
+        "response": "Hajur, Xbox Series X stock ma available xaina."
+    },
+    {
+        "question": "Xbox Series X ko description ma k k xa?",
+        "context": "Product Details: name: Xbox Series X, price: 90000, stock: False, description: Next-gen gaming console, 4K gaming, 1TB SSD, backward compatibility, Xbox Game Pass.",
+        "response": "Xbox Series X ko description ma next-gen gaming console, 4K gaming, 1TB SSD, backward compatibility, ra Xbox Game Pass xa."
+    },
+    {
+        "question": "DJI Mavic Air 2 ko price kati ho?",
+        "context": "Product Details: name: DJI Mavic Air 2, price: 150000, stock: True, description: Drone with 4K camera, 34-minute flight time, 10km HD video transmission, intelligent shooting modes.",
+        "response": "DJI Mavic Air 2 ko price Rs. 150000 ho."
+    },
+    {
+        "question": "DJI Mavic Air 2 stock ma xa?",
+        "context": "Product Details: name: DJI Mavic Air 2, price: 150000, stock: True, description: Drone with 4K camera, 34-minute flight time, 10km HD video transmission, intelligent shooting modes.",
+        "response": "Hajur, DJI Mavic Air 2 stock ma available xa."
+    },
+    {
+        "question": "OnePlus 10 Pro ko price kati ho?",
+        "context": "Product Details: name: OnePlus 10 Pro, price: 140000, stock: True, description: 6.7-inch QHD+ AMOLED display, Snapdragon 8 Gen 1, 12GB RAM, 256GB storage, Hasselblad camera.",
+        "response": "OnePlus 10 Pro ko price Rs. 140000 ho."
+    },
+    {
+        "question": "OnePlus 10 Pro stock ma xa?",
+        "context": "Product Details: name: OnePlus 10 Pro, price: 140000, stock: True, description: 6.7-inch QHD+ AMOLED display, Snapdragon 8 Gen 1, 12GB RAM, 256GB storage, Hasselblad camera.",
+        "response": "Hajur, OnePlus 10 Pro stock ma available xa."
+    },
+    {
+        "question": "Lenovo Legion 5 ko description ma k k xa?",
+        "context": "Product Details: name: Lenovo Legion 5, price: 160000, stock: True, description: 15.6-inch FHD display, AMD Ryzen 7, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "Lenovo Legion 5 ko description ma 15.6-inch FHD display, AMD Ryzen 7, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, ra gaming laptop xa."
+    },
+    {
+        "question": "Lenovo Legion 5 ko price kati ho?",
+        "context": "Product Details: name: Lenovo Legion 5, price: 160000, stock: True, description: 15.6-inch FHD display, AMD Ryzen 7, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "Lenovo Legion 5 ko price Rs. 160000 ho."
+    },
+    {
+        "question": "Sony Xperia 1 IV ko stock ma xa?",
+        "context": "Product Details: name: Sony Xperia 1 IV, price: 170000, stock: False, description: 6.5-inch 4K OLED display, Snapdragon 8 Gen 1, 12GB RAM, 256GB storage, triple-camera system.",
+        "response": "Hajur, Sony Xperia 1 IV stock ma available xaina."
+    },
+    {
+        "question": "Sony Xperia 1 IV ko description ma k k xa?",
+        "context": "Product Details: name: Sony Xperia 1 IV, price: 170000, stock: False, description: 6.5-inch 4K OLED display, Snapdragon 8 Gen 1, 12GB RAM, 256GB storage, triple-camera system.",
+        "response": "Sony Xperia 1 IV ko description ma 6.5-inch 4K OLED display, Snapdragon 8 Gen 1, 12GB RAM, 256GB storage, ra triple-camera system xa."
+    },
+    {
+        "question": "JBL Charge 5 ko price kati ho?",
+        "context": "Product Details: name: JBL Charge 5, price: 15000, stock: True, description: Portable Bluetooth speaker, IP67 waterproof, 20-hour battery life, PartyBoost for stereo sound.",
+        "response": "JBL Charge 5 ko price Rs. 15000 ho."
+    },
+    {
+        "question": "JBL Charge 5 stock ma xa?",
+        "context": "Product Details: name: JBL Charge 5, price: 15000, stock: True, description: Portable Bluetooth speaker, IP67 waterproof, 20-hour battery life, PartyBoost for stereo sound.",
+        "response": "Hajur, JBL Charge 5 stock ma available xa."
+    },
+    {
+        "question": "Fujifilm X-T4 ko description ma k k xa?",
+        "context": "Product Details: name: Fujifilm X-T4, price: 180000, stock: True, description: Mirrorless camera, 26.1MP sensor, 4K video, in-body image stabilization, weather-resistant design.",
+        "response": "Fujifilm X-T4 ko description ma mirrorless camera, 26.1MP sensor, 4K video, in-body image stabilization, ra weather-resistant design xa."
+    },
+    {
+        "question": "Fujifilm X-T4 ko price kati ho?",
+        "context": "Product Details: name: Fujifilm X-T4, price: 180000, stock: True, description: Mirrorless camera, 26.1MP sensor, 4K video, in-body image stabilization, weather-resistant design.",
+        "response": "Fujifilm X-T4 ko price Rs. 180000 ho."
+    },
+    {
+        "question": "SteelSeries Arctis 7 ko stock ma xa?",
+        "context": "Product Details: name: SteelSeries Arctis 7, price: 20000, stock: True, description: Wireless gaming headset, 24-hour battery life, DTS Headphone:X 2.0, ClearCast microphone.",
+        "response": "Hajur, SteelSeries Arctis 7 stock ma available xa."
+    },
+    {
+        "question": "SteelSeries Arctis 7 ko description ma k k xa?",
+        "context": "Product Details: name: SteelSeries Arctis 7, price: 20000, stock: True, description: Wireless gaming headset, 24-hour battery life, DTS Headphone:X 2.0, ClearCast microphone.",
+        "response": "SteelSeries Arctis 7 ko description ma wireless gaming headset, 24-hour battery life, DTS Headphone:X 2.0, ra ClearCast microphone xa."
+    },
+    {
+        "question": "GoPro Hero 10 Black ko price kati ho?",
+        "context": "Product Details: name: GoPro Hero 10 Black, price: 60000, stock: True, description: Action camera, 5.3K video, HyperSmooth 4.0 stabilization, waterproof up to 33ft.",
+        "response": "GoPro Hero 10 Black ko price Rs. 60000 ho."
+    },
+    {
+        "question": "GoPro Hero 10 Black stock ma xa?",
+        "context": "Product Details: name: GoPro Hero 10 Black, price: 60000, stock: True, description: Action camera, 5.3K video, HyperSmooth 4.0 stabilization, waterproof up to 33ft.",
+        "response": "Hajur, GoPro Hero 10 Black stock ma available xa."
+    },
+    {
+        "question": "MSI GF63 Thin ko description ma k k xa?",
+        "context": "Product Details: name: MSI GF63 Thin, price: 120000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, NVIDIA GTX 1650, gaming laptop.",
+        "response": "MSI GF63 Thin ko description ma 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, NVIDIA GTX 1650, ra gaming laptop xa."
+    },
+    {
+        "question": "MSI GF63 Thin ko price kati ho?",
+        "context": "Product Details: name: MSI GF63 Thin, price: 120000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, NVIDIA GTX 1650, gaming laptop.",
+        "response": "MSI GF63 Thin ko price Rs. 120000 ho."
+    },
+    {
+        "question": "Nintendo Switch OLED ko stock ma xa?",
+        "context": "Product Details: name: Nintendo Switch OLED, price: 50000, stock: False, description: Gaming console, 7-inch OLED display, 64GB storage, detachable Joy-Con controllers.",
+        "response": "Hajur, Nintendo Switch OLED stock ma available xaina."
+    },
+    {
+        "question": "Nintendo Switch OLED ko description ma k k xa?",
+        "context": "Product Details: name: Nintendo Switch OLED, price: 50000, stock: False, description: Gaming console, 7-inch OLED display, 64GB storage, detachable Joy-Con controllers.",
+        "response": "Nintendo Switch OLED ko description ma gaming console, 7-inch OLED display, 64GB storage, ra detachable Joy-Con controllers xa."
+    },
+    {
+        "question": "DJI Mini 3 Pro ko price kati ho?",
+        "context": "Product Details: name: DJI Mini 3 Pro, price: 120000, stock: True, description: Compact drone, 4K camera, 34-minute flight time, obstacle avoidance, lightweight design.",
+        "response": "DJI Mini 3 Pro ko price Rs. 120000 ho."
+    },
+    {
+        "question": "DJI Mini 3 Pro stock ma xa?",
+        "context": "Product Details: name: DJI Mini 3 Pro, price: 120000, stock: True, description: Compact drone, 4K camera, 34-minute flight time, obstacle avoidance, lightweight design.",
+        "response": "Hajur, DJI Mini 3 Pro stock ma available xa."
+    },
+    {
+        "question": "iPhone 14 Pro Max ko spec vanidinu",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: True, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "iPhone 14 Pro Max ko spec ma 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, ra triple-camera system xa."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra ko barema jankari dinu",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: True, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Samsung Galaxy S22 Ultra ko barema jankari ma 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, ra 5000mAh battery xa."
+    },
+    {
+        "question": "HP Pavilion 15 ko barema thap jankari dinu",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: False, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "HP Pavilion 15 ko barema thap jankari ma 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, ra backlit keyboard xa."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko description dinu",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: True, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Sony WH-1000XM4 ko description ma wireless noise-canceling headphones, 30-hour battery life, ra touch sensor controls xa."
+    },
+    {
+        "question": "MacBook Air M1 ko spec vanidinu",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: True, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "MacBook Air M1 ko spec ma 13.3-inch Retina display, Apple M1 chip, 8GB RAM, ra 256GB SSD xa."
+    },
+    {
+        "question": "LG OLED C1 55-inch ko barema jankari dinu",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: True, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "LG OLED C1 55-inch ko barema jankari ma 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, ra HDMI 2.1 xa."
+    },
+    {
+        "question": "Apple Watch Series 8 ko barema thap jankari dinu",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: True, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Apple Watch Series 8 ko barema thap jankari ma 45mm GPS + Cellular, blood oxygen sensor, ECG app, ra always-on Retina display xa."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 ko description dinu",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: True, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Xiaomi Mi Band 7 ko description ma fitness tracker, 1.62-inch AMOLED display, 120 sports modes, ra 14-day battery life xa."
+    },
+    {
+        "question": "Canon EOS R6 ko spec vanidinu",
+        "context": "Product Details: name: Canon EOS R6, price: 250000, stock: True, description: Mirrorless camera, 20.1MP sensor, 4K video recording, dual pixel autofocus.",
+        "response": "Canon EOS R6 ko spec ma mirrorless camera, 20.1MP sensor, 4K video recording, ra dual pixel autofocus xa."
+    },
+    {
+        "question": "Dell XPS 13 ko barema jankari dinu",
+        "context": "Product Details: name: Dell XPS 13, price: 180000, stock: True, description: 13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, InfinityEdge display.",
+        "response": "Dell XPS 13 ko barema jankari ma 13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, ra InfinityEdge display xa."
+    },
+    {
+        "question": "Bose QuietComfort 45 ko barema thap jankari dinu",
+        "context": "Product Details: name: Bose QuietComfort 45, price: 30000, stock: True, description: Wireless noise-canceling headphones, 24-hour battery life, TriPort acoustic architecture.",
+        "response": "Bose QuietComfort 45 ko barema thap jankari ma wireless noise-canceling headphones, 24-hour battery life, ra TriPort acoustic architecture xa."
+    },
+    {
+        "question": "Sony PlayStation 5 ko description dinu",
+        "context": "Product Details: name: Sony PlayStation 5, price: 100000, stock: False, description: Next-gen gaming console, 4K UHD Blu-ray, 825GB SSD, DualSense wireless controller.",
+        "response": "Sony PlayStation 5 ko description ma next-gen gaming console, 4K UHD Blu-ray, 825GB SSD, ra DualSense wireless controller xa."
+    },
+    {
+        "question": "Asus ROG Zephyrus G14 ko spec vanidinu",
+        "context": "Product Details: name: Asus ROG Zephyrus G14, price: 250000, stock: True, description: 14-inch QHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "Asus ROG Zephyrus G14 ko spec ma 14-inch QHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, ra gaming laptop xa."
+    },
+    {
+        "question": "JBL Flip 6 ko barema jankari dinu",
+        "context": "Product Details: name: JBL Flip 6, price: 12000, stock: True, description: Portable Bluetooth speaker, IP67 waterproof, 12-hour battery life, PartyBoost for stereo sound.",
+        "response": "JBL Flip 6 ko barema jankari ma portable Bluetooth speaker, IP67 waterproof, 12-hour battery life, ra PartyBoost for stereo sound xa."
+    },
+    {
+        "question": "Nikon Z50 ko barema thap jankari dinu",
+        "context": "Product Details: name: Nikon Z50, price: 110000, stock: True, description: Mirrorless camera, 20.9MP sensor, 4K video, tilting touchscreen, compact design.",
+        "response": "Nikon Z50 ko barema thap jankari ma mirrorless camera, 20.9MP sensor, 4K video, tilting touchscreen, ra compact design xa."
+    },
+    {
+        "question": "Logitech G502 Hero ko description dinu",
+        "context": "Product Details: name: Logitech G502 Hero, price: 10000, stock: True, description: Gaming mouse, 11 programmable buttons, RGB lighting, adjustable weight system.",
+        "response": "Logitech G502 Hero ko description ma gaming mouse, 11 programmable buttons, RGB lighting, ra adjustable weight system xa."
+    },
+    {
+        "question": "DJI Mavic Air 2 ko spec vanidinu",
+        "context": "Product Details: name: DJI Mavic Air 2, price: 150000, stock: True, description: Drone with 4K camera, 34-minute flight time, 10km HD video transmission, intelligent shooting modes.",
+        "response": "DJI Mavic Air 2 ko spec ma drone with 4K camera, 34-minute flight time, 10km HD video transmission, ra intelligent shooting modes xa."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 ko barema jankari dinu",
+        "context": "Product Details: name: Samsung Galaxy Buds 2, price: 18000, stock: True, description: True wireless earbuds, ANC, 20-hour battery life, lightweight design.",
+        "response": "Samsung Galaxy Buds 2 ko barema jankari ma true wireless earbuds, ANC, 20-hour battery life, ra lightweight design xa."
+    },
+    {
+        "question": "Xbox Series X ko barema thap jankari dinu",
+        "context": "Product Details: name: Xbox Series X, price: 90000, stock: False, description: Next-gen gaming console, 4K gaming, 1TB SSD, backward compatibility, Xbox Game Pass.",
+        "response": "Xbox Series X ko barema thap jankari ma next-gen gaming console, 4K gaming, 1TB SSD, backward compatibility, ra Xbox Game Pass xa."
+    },
+    {
+        "question": "GoPro Hero 10 Black ko description dinu",
+        "context": "Product Details: name: GoPro Hero 10 Black, price: 60000, stock: True, description: Action camera, 5.3K video, HyperSmooth 4.0 stabilization, waterproof up to 33ft.",
+        "response": "GoPro Hero 10 Black ko description ma action camera, 5.3K video, HyperSmooth 4.0 stabilization, ra waterproof up to 33ft xa."
+    },
+    {
+        "question": "Google Pixel 7 ko spec vanidinu",
+        "context": "Product Details: name: Google Pixel 7, price: 120000, stock: True, description: 6.3-inch FHD+ OLED display, Tensor G2 chip, 8GB RAM, 128GB storage, dual-camera system.",
+        "response": "Google Pixel 7 ko spec ma 6.3-inch FHD+ OLED display, Tensor G2 chip, 8GB RAM, 128GB storage, ra dual-camera system xa."
+    },
+    {
+        "question": "Acer Nitro 5 ko barema jankari dinu",
+        "context": "Product Details: name: Acer Nitro 5, price: 130000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GTX 1650, gaming laptop.",
+        "response": "Acer Nitro 5 ko barema jankari ma 15.6-inch FHD display, Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GTX 1650, ra gaming laptop xa."
+    },
+    {
+        "question": "Sony Xperia 5 IV ko barema thap jankari dinu",
+        "context": "Product Details: name: Sony Xperia 5 IV, price: 140000, stock: False, description: 6.1-inch OLED display, Snapdragon 8 Gen 1, 8GB RAM, 128GB storage, triple-camera system.",
+        "response": "Sony Xperia 5 IV ko barema thap jankari ma 6.1-inch OLED display, Snapdragon 8 Gen 1, 8GB RAM, 128GB storage, ra triple-camera system xa."
+    },
+    {
+        "question": "Bose SoundLink Revolve ko description dinu",
+        "context": "Product Details: name: Bose SoundLink Revolve, price: 25000, stock: True, description: 360-degree Bluetooth speaker, 12-hour battery life, water-resistant, voice assistant support.",
+        "response": "Bose SoundLink Revolve ko description ma 360-degree Bluetooth speaker, 12-hour battery life, water-resistant, ra voice assistant support xa."
+    },
+    {
+        "question": "Fujifilm X-T30 ko spec vanidinu",
+        "context": "Product Details: name: Fujifilm X-T30, price: 110000, stock: True, description: Mirrorless camera, 26.1MP sensor, 4K video, compact design, tilting touchscreen.",
+        "response": "Fujifilm X-T30 ko spec ma mirrorless camera, 26.1MP sensor, 4K video, compact design, ra tilting touchscreen xa."
+    },
+    {
+        "question": "Razer BlackWidow V3 Pro ko barema jankari dinu",
+        "context": "Product Details: name: Razer BlackWidow V3 Pro, price: 20000, stock: True, description: Wireless mechanical gaming keyboard, RGB lighting, programmable macros, durable build.",
+        "response": "Razer BlackWidow V3 Pro ko barema jankari ma wireless mechanical gaming keyboard, RGB lighting, programmable macros, ra durable build xa."
+    },
+    {
+        "question": "Sony WH-CH720N ko barema thap jankari dinu",
+        "context": "Product Details: name: Sony WH-CH720N, price: 18000, stock: True, description: Wireless noise-canceling headphones, 35-hour battery life, Bluetooth, lightweight design.",
+        "response": "Sony WH-CH720N ko barema thap jankari ma wireless noise-canceling headphones, 35-hour battery life, Bluetooth, ra lightweight design xa."
+    },
+    {
+        "question": "DJI Mini 2 ko description dinu",
+        "context": "Product Details: name: DJI Mini 2, price: 80000, stock: True, description: Compact drone, 4K camera, 31-minute flight time, lightweight design, easy to fly.",
+        "response": "DJI Mini 2 ko description ma compact drone, 4K camera, 31-minute flight time, lightweight design, ra easy to fly xa."
+    },
+    {
+        "question": "MSI GF65 Thin ko spec vanidinu",
+        "context": "Product Details: name: MSI GF65 Thin, price: 140000, stock: True, description: 15.6-inch FHD display, Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "MSI GF65 Thin ko spec ma 15.6-inch FHD display, Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA RTX 3060, ra gaming laptop xa."
+    },
+    {
+        "question": "Nintendo Switch Lite ko barema jankari dinu",
+        "context": "Product Details: name: Nintendo Switch Lite, price: 30000, stock: True, description: Handheld gaming console, 5.5-inch touchscreen, 32GB storage, lightweight design.",
+        "response": "Nintendo Switch Lite ko barema jankari ma handheld gaming console, 5.5-inch touchscreen, 32GB storage, ra lightweight design xa."
+    },
+    {
+        "question": "JBL Clip 4 ko barema thap jankari dinu",
+        "context": "Product Details: name: JBL Clip 4, price: 8000, stock: True, description: Portable Bluetooth speaker, IP67 waterproof, 10-hour battery life, carabiner hook.",
+        "response": "JBL Clip 4 ko barema thap jankari ma portable Bluetooth speaker, IP67 waterproof, 10-hour battery life, ra carabiner hook xa."
+    },
+    {
+        "question": "Canon EOS M200 ko description dinu",
+        "context": "Product Details: name: Canon EOS M200, price: 70000, stock: True, description: Mirrorless camera, 24.1MP sensor, 4K video, flip-up touchscreen, compact design.",
+        "response": "Canon EOS M200 ko description ma mirrorless camera, 24.1MP sensor, 4K video, flip-up touchscreen, ra compact design xa."
+    },
+    {
+        "question": "SteelSeries Rival 3 ko spec vanidinu",
+        "context": "Product Details: name: SteelSeries Rival 3, price: 6000, stock: True, description: Gaming mouse, 8,500 CPI, RGB lighting, durable build, lightweight design.",
+        "response": "SteelSeries Rival 3 ko spec ma gaming mouse, 8,500 CPI, RGB lighting, durable build, ra lightweight design xa."
+    },
+    {
+        "question": "Xiaomi Redmi Watch 3 ko barema jankari dinu",
+        "context": "Product Details: name: Xiaomi Redmi Watch 3, price: 10000, stock: True, description: Smartwatch, 1.75-inch AMOLED display, 12-day battery life, 120 sports modes.",
+        "response": "Xiaomi Redmi Watch 3 ko barema jankari ma smartwatch, 1.75-inch AMOLED display, 12-day battery life, ra 120 sports modes xa."
+    },
+    {
+        "question": "LG UltraFine 27UN880-B ko barema thap jankari dinu",
+        "context": "Product Details: name: LG UltraFine 27UN880-B, price: 90000, stock: True, description: 27-inch 4K UHD monitor, HDR10, USB-C connectivity, ergonomic design.",
+        "response": "LG UltraFine 27UN880-B ko barema thap jankari ma 27-inch 4K UHD monitor, HDR10, USB-C connectivity, ra ergonomic design xa."
+    },
+    {
+        "question": "Samsung Galaxy Tab S8 ko description dinu",
+        "context": "Product Details: name: Samsung Galaxy Tab S8, price: 150000, stock: True, description: 11-inch LTPS TFT display, Snapdragon 8 Gen 1, 8GB RAM, 128GB storage, S Pen included.",
+        "response": "Samsung Galaxy Tab S8 ko description ma 11-inch LTPS TFT display, Snapdragon 8 Gen 1, 8GB RAM, 128GB storage, ra S Pen included xa."
+    },
+    {
+        "question": "OnePlus Nord Buds 2 ko spec vanidinu",
+        "context": "Product Details: name: OnePlus Nord Buds 2, price: 7000, stock: True, description: True wireless earbuds, ANC, 30-hour battery life, fast charging, Dolby Atmos support.",
+        "response": "OnePlus Nord Buds 2 ko spec ma true wireless earbuds, ANC, 30-hour battery life, fast charging, ra Dolby Atmos support xa."
+    },
+    {
+        "question": "HP Envy x360 ko barema jankari dinu",
+        "context": "Product Details: name: HP Envy x360, price: 160000, stock: True, description: 13.3-inch FHD touchscreen, AMD Ryzen 5, 8GB RAM, 512GB SSD, 2-in-1 convertible laptop.",
+        "response": "HP Envy x360 ko barema jankari ma 13.3-inch FHD touchscreen, AMD Ryzen 5, 8GB RAM, 512GB SSD, ra 2-in-1 convertible laptop xa."
+    },
+    {
+        "question": "DJI Osmo Pocket ko barema thap jankari dinu",
+        "context": "Product Details: name: DJI Osmo Pocket, price: 90000, stock: True, description: Handheld 4K camera, 3-axis gimbal stabilization, 12MP camera, compact design.",
+        "response": "DJI Osmo Pocket ko barema thap jankari ma handheld 4K camera, 3-axis gimbal stabilization, 12MP camera, ra compact design xa."
+    },
+    {
+        "question": "Logitech MX Master 3S ko description dinu",
+        "context": "Product Details: name: Logitech MX Master 3S, price: 15000, stock: True, description: Wireless mouse, 8,000 DPI, ergonomic design, multi-device connectivity, silent clicks.",
+        "response": "Logitech MX Master 3S ko description ma wireless mouse, 8,000 DPI, ergonomic design, multi-device connectivity, ra silent clicks xa."
+    },
+    {
+        "question": "iPhone 14 Pro Max stock ma xa?",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: True, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "Hajur, iPhone 14 Pro Max stock ma available xa."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra available xa?",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: False, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Hajur, Samsung Galaxy S22 Ultra stock ma available xaina."
+    },
+    {
+        "question": "HP Pavilion 15 pauxa ki painna?",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "Hajur, HP Pavilion 15 stock ma available xa."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko stock status k ho?",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: False, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Hajur, Sony WH-1000XM4 stock ma available xaina."
+    },
+    {
+        "question": "MacBook Air M1 stock ma xa?",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: True, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "Hajur, MacBook Air M1 stock ma available xa."
+    },
+    {
+        "question": "LG OLED C1 55-inch available xa?",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: False, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "Hajur, LG OLED C1 55-inch stock ma available xaina."
+    },
+    {
+        "question": "Apple Watch Series 8 pauxa ki painna?",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: True, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Hajur, Apple Watch Series 8 stock ma available xa."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 ko stock status k ho?",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: True, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Hajur, Xiaomi Mi Band 7 stock ma available xa."
+    },
+    {
+        "question": "Canon EOS R6 stock ma xa?",
+        "context": "Product Details: name: Canon EOS R6, price: 250000, stock: False, description: Mirrorless camera, 20.1MP sensor, 4K video recording, dual pixel autofocus.",
+        "response": "Hajur, Canon EOS R6 stock ma available xaina."
+    },
+    {
+        "question": "Dell XPS 13 available xa?",
+        "context": "Product Details: name: Dell XPS 13, price: 180000, stock: True, description: 13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, InfinityEdge display.",
+        "response": "Hajur, Dell XPS 13 stock ma available xa."
+    },
+    {
+        "question": "Bose QuietComfort 45 pauxa ki painna?",
+        "context": "Product Details: name: Bose QuietComfort 45, price: 30000, stock: True, description: Wireless noise-canceling headphones, 24-hour battery life, TriPort acoustic architecture.",
+        "response": "Hajur, Bose QuietComfort 45 stock ma available xa."
+    },
+    {
+        "question": "Sony PlayStation 5 ko stock status k ho?",
+        "context": "Product Details: name: Sony PlayStation 5, price: 100000, stock: False, description: Next-gen gaming console, 4K UHD Blu-ray, 825GB SSD, DualSense wireless controller.",
+        "response": "Hajur, Sony PlayStation 5 stock ma available xaina."
+    },
+    {
+        "question": "Asus ROG Zephyrus G14 stock ma xa?",
+        "context": "Product Details: name: Asus ROG Zephyrus G14, price: 250000, stock: True, description: 14-inch QHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "Hajur, Asus ROG Zephyrus G14 stock ma available xa."
+    },
+    {
+        "question": "JBL Flip 6 available xa?",
+        "context": "Product Details: name: JBL Flip 6, price: 12000, stock: False, description: Portable Bluetooth speaker, IP67 waterproof, 12-hour battery life, PartyBoost for stereo sound.",
+        "response": "Hajur, JBL Flip 6 stock ma available xaina."
+    },
+    {
+        "question": "Nikon Z50 pauxa ki painna?",
+        "context": "Product Details: name: Nikon Z50, price: 110000, stock: True, description: Mirrorless camera, 20.9MP sensor, 4K video, tilting touchscreen, compact design.",
+        "response": "Hajur, Nikon Z50 stock ma available xa."
+    },
+    {
+        "question": "Logitech G502 Hero ko stock status k ho?",
+        "context": "Product Details: name: Logitech G502 Hero, price: 10000, stock: True, description: Gaming mouse, 11 programmable buttons, RGB lighting, adjustable weight system.",
+        "response": "Hajur, Logitech G502 Hero stock ma available xa."
+    },
+    {
+        "question": "DJI Mavic Air 2 stock ma xa?",
+        "context": "Product Details: name: DJI Mavic Air 2, price: 150000, stock: False, description: Drone with 4K camera, 34-minute flight time, 10km HD video transmission, intelligent shooting modes.",
+        "response": "Hajur, DJI Mavic Air 2 stock ma available xaina."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 available xa?",
+        "context": "Product Details: name: Samsung Galaxy Buds 2, price: 18000, stock: True, description: True wireless earbuds, ANC, 20-hour battery life, lightweight design.",
+        "response": "Hajur, Samsung Galaxy Buds 2 stock ma available xa."
+    },
+    {
+        "question": "Xbox Series X pauxa ki painna?",
+        "context": "Product Details: name: Xbox Series X, price: 90000, stock: False, description: Next-gen gaming console, 4K gaming, 1TB SSD, backward compatibility, Xbox Game Pass.",
+        "response": "Hajur, Xbox Series X stock ma available xaina."
+    },
+    {
+        "question": "GoPro Hero 10 Black ko stock status k ho?",
+        "context": "Product Details: name: GoPro Hero 10 Black, price: 60000, stock: True, description: Action camera, 5.3K video, HyperSmooth 4.0 stabilization, waterproof up to 33ft.",
+        "response": "Hajur, GoPro Hero 10 Black stock ma available xa."
+    },
+    {
+        "question": "iPhone 14 Pro Max stock ma xa?",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: True, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "Hajur, iPhone 14 Pro Max pauxa."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra available xa?",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: False, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Hajur, Samsung Galaxy S22 Ultra painna."
+    },
+    {
+        "question": "HP Pavilion 15 pauxa ki painna?",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "Hajur, HP Pavilion 15 pauxa."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko stock status k ho?",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: False, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Hajur, Sony WH-1000XM4 painna."
+    },
+    {
+        "question": "MacBook Air M1 stock ma xa?",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: True, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "Hajur, MacBook Air M1 pauxa."
+    },
+    {
+        "question": "LG OLED C1 55-inch available xa?",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: False, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "Hajur, LG OLED C1 55-inch painna."
+    },
+    {
+        "question": "Apple Watch Series 8 pauxa ki painna?",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: True, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Hajur, Apple Watch Series 8 pauxa."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 ko stock status k ho?",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: True, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Hajur, Xiaomi Mi Band 7 pauxa."
+    },
+    {
+        "question": "Canon EOS R6 stock ma xa?",
+        "context": "Product Details: name: Canon EOS R6, price: 250000, stock: False, description: Mirrorless camera, 20.1MP sensor, 4K video recording, dual pixel autofocus.",
+        "response": "Hajur, Canon EOS R6 painna."
+    },
+    {
+        "question": "Dell XPS 13 available xa?",
+        "context": "Product Details: name: Dell XPS 13, price: 180000, stock: True, description: 13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, InfinityEdge display.",
+        "response": "Hajur, Dell XPS 13 pauxa."
+    },
+    {
+        "question": "Bose QuietComfort 45 pauxa ki painna?",
+        "context": "Product Details: name: Bose QuietComfort 45, price: 30000, stock: True, description: Wireless noise-canceling headphones, 24-hour battery life, TriPort acoustic architecture.",
+        "response": "Hajur, Bose QuietComfort 45 pauxa."
+    },
+    {
+        "question": "Sony PlayStation 5 ko stock status k ho?",
+        "context": "Product Details: name: Sony PlayStation 5, price: 100000, stock: False, description: Next-gen gaming console, 4K UHD Blu-ray, 825GB SSD, DualSense wireless controller.",
+        "response": "Hajur, Sony PlayStation 5 painna."
+    },
+    {
+        "question": "Asus ROG Zephyrus G14 stock ma xa?",
+        "context": "Product Details: name: Asus ROG Zephyrus G14, price: 250000, stock: True, description: 14-inch QHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "Hajur, Asus ROG Zephyrus G14 pauxa."
+    },
+    {
+        "question": "JBL Flip 6 available xa?",
+        "context": "Product Details: name: JBL Flip 6, price: 12000, stock: False, description: Portable Bluetooth speaker, IP67 waterproof, 12-hour battery life, PartyBoost for stereo sound.",
+        "response": "Hajur, JBL Flip 6 painna."
+    },
+    {
+        "question": "Nikon Z50 pauxa ki painna?",
+        "context": "Product Details: name: Nikon Z50, price: 110000, stock: True, description: Mirrorless camera, 20.9MP sensor, 4K video, tilting touchscreen, compact design.",
+        "response": "Hajur, Nikon Z50 pauxa."
+    },
+    {
+        "question": "Logitech G502 Hero ko stock status k ho?",
+        "context": "Product Details: name: Logitech G502 Hero, price: 10000, stock: True, description: Gaming mouse, 11 programmable buttons, RGB lighting, adjustable weight system.",
+        "response": "Hajur, Logitech G502 Hero pauxa."
+    },
+    {
+        "question": "DJI Mavic Air 2 stock ma xa?",
+        "context": "Product Details: name: DJI Mavic Air 2, price: 150000, stock: False, description: Drone with 4K camera, 34-minute flight time, 10km HD video transmission, intelligent shooting modes.",
+        "response": "Hajur, DJI Mavic Air 2 painna."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 available xa?",
+        "context": "Product Details: name: Samsung Galaxy Buds 2, price: 18000, stock: True, description: True wireless earbuds, ANC, 20-hour battery life, lightweight design.",
+        "response": "Hajur, Samsung Galaxy Buds 2 pauxa."
+    },
+    {
+        "question": "Xbox Series X pauxa ki painna?",
+        "context": "Product Details: name: Xbox Series X, price: 90000, stock: False, description: Next-gen gaming console, 4K gaming, 1TB SSD, backward compatibility, Xbox Game Pass.",
+        "response": "Hajur, Xbox Series X painna."
+    },
+    {
+        "question": "GoPro Hero 10 Black ko stock status k ho?",
+        "context": "Product Details: name: GoPro Hero 10 Black, price: 60000, stock: True, description: Action camera, 5.3K video, HyperSmooth 4.0 stabilization, waterproof up to 33ft.",
+        "response": "Hajur, GoPro Hero 10 Black pauxa."
+    },
+    {
+        "question": "OnePlus 10 Pro stock ma xa?",
+        "context": "Product Details: name: OnePlus 10 Pro, price: 140000, stock: True, description: 6.7-inch QHD+ AMOLED display, Snapdragon 8 Gen 1, 12GB RAM, 256GB storage, Hasselblad camera.",
+        "response": "Hajur, OnePlus 10 Pro pauxa."
+    },
+    {
+        "question": "Acer Nitro 5 available xa?",
+        "context": "Product Details: name: Acer Nitro 5, price: 130000, stock: False, description: 15.6-inch FHD display, Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GTX 1650, gaming laptop.",
+        "response": "Hajur, Acer Nitro 5 painna."
+    },
+    {
+        "question": "Sony Xperia 5 IV pauxa ki painna?",
+        "context": "Product Details: name: Sony Xperia 5 IV, price: 140000, stock: True, description: 6.1-inch OLED display, Snapdragon 8 Gen 1, 8GB RAM, 128GB storage, triple-camera system.",
+        "response": "Hajur, Sony Xperia 5 IV pauxa."
+    },
+    {
+        "question": "Bose SoundLink Revolve ko stock status k ho?",
+        "context": "Product Details: name: Bose SoundLink Revolve, price: 25000, stock: True, description: 360-degree Bluetooth speaker, 12-hour battery life, water-resistant, voice assistant support.",
+        "response": "Hajur, Bose SoundLink Revolve pauxa."
+    },
+    {
+        "question": "Fujifilm X-T30 stock ma xa?",
+        "context": "Product Details: name: Fujifilm X-T30, price: 110000, stock: False, description: Mirrorless camera, 26.1MP sensor, 4K video, compact design, tilting touchscreen.",
+        "response": "Hajur, Fujifilm X-T30 painna."
+    },
+    {
+        "question": "Razer BlackWidow V3 Pro available xa?",
+        "context": "Product Details: name: Razer BlackWidow V3 Pro, price: 20000, stock: True, description: Wireless mechanical gaming keyboard, RGB lighting, programmable macros, durable build.",
+        "response": "Hajur, Razer BlackWidow V3 Pro pauxa."
+    },
+    {
+        "question": "Sony WH-CH720N pauxa ki painna?",
+        "context": "Product Details: name: Sony WH-CH720N, price: 18000, stock: True, description: Wireless noise-canceling headphones, 35-hour battery life, Bluetooth, lightweight design.",
+        "response": "Hajur, Sony WH-CH720N pauxa."
+    },
+    {
+        "question": "DJI Mini 2 ko stock status k ho?",
+        "context": "Product Details: name: DJI Mini 2, price: 80000, stock: False, description: Compact drone, 4K camera, 31-minute flight time, lightweight design, easy to fly.",
+        "response": "Hajur, DJI Mini 2 painna."
+    },
+    {
+        "question": "iPhone 14 Pro Max stock ma xa?",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: False, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "Hajur, iPhone 14 Pro Max aile stock ma xaina."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra available xa?",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: False, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Hajur, Samsung Galaxy S22 Ultra aile available xaina."
+    },
+    {
+        "question": "HP Pavilion 15 pauxa ki painna?",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: False, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "Hajur, HP Pavilion 15 ko stock aile xaina."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko stock status k ho?",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: False, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Hajur, Sony WH-1000XM4 ko availability aile chaina."
+    },
+    {
+        "question": "MacBook Air M1 stock ma xa?",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: False, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "Hajur, MacBook Air M1 aile stock ma xaina."
+    },
+    {
+        "question": "LG OLED C1 55-inch available xa?",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: False, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "Hajur, LG OLED C1 55-inch aile available xaina."
+    },
+    {
+        "question": "Apple Watch Series 8 pauxa ki painna?",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: False, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Hajur, Apple Watch Series 8 ko stock aile xaina."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 ko stock status k ho?",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: False, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Hajur, Xiaomi Mi Band 7 ko availability aile chaina."
+    },
+    {
+        "question": "Canon EOS R6 stock ma xa?",
+        "context": "Product Details: name: Canon EOS R6, price: 250000, stock: False, description: Mirrorless camera, 20.1MP sensor, 4K video recording, dual pixel autofocus.",
+        "response": "Hajur, Canon EOS R6 aile stock ma xaina."
+    },
+    {
+        "question": "Dell XPS 13 available xa?",
+        "context": "Product Details: name: Dell XPS 13, price: 180000, stock: False, description: 13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, InfinityEdge display.",
+        "response": "Hajur, Dell XPS 13 aile available xaina."
+    },
+    {
+        "question": "Bose QuietComfort 45 pauxa ki painna?",
+        "context": "Product Details: name: Bose QuietComfort 45, price: 30000, stock: False, description: Wireless noise-canceling headphones, 24-hour battery life, TriPort acoustic architecture.",
+        "response": "Hajur, Bose QuietComfort 45 ko stock aile xaina."
+    },
+    {
+        "question": "Sony PlayStation 5 ko stock status k ho?",
+        "context": "Product Details: name: Sony PlayStation 5, price: 100000, stock: False, description: Next-gen gaming console, 4K UHD Blu-ray, 825GB SSD, DualSense wireless controller.",
+        "response": "Hajur, Sony PlayStation 5 ko availability aile chaina."
+    },
+    {
+        "question": "Asus ROG Zephyrus G14 stock ma xa?",
+        "context": "Product Details: name: Asus ROG Zephyrus G14, price: 250000, stock: False, description: 14-inch QHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "Hajur, Asus ROG Zephyrus G14 aile stock ma xaina."
+    },
+    {
+        "question": "JBL Flip 6 available xa?",
+        "context": "Product Details: name: JBL Flip 6, price: 12000, stock: False, description: Portable Bluetooth speaker, IP67 waterproof, 12-hour battery life, PartyBoost for stereo sound.",
+        "response": "Hajur, JBL Flip 6 aile available xaina."
+    },
+    {
+        "question": "Nikon Z50 pauxa ki painna?",
+        "context": "Product Details: name: Nikon Z50, price: 110000, stock: False, description: Mirrorless camera, 20.9MP sensor, 4K video, tilting touchscreen, compact design.",
+        "response": "Hajur, Nikon Z50 ko stock aile xaina."
+    },
+    {
+        "question": "Logitech G502 Hero ko stock status k ho?",
+        "context": "Product Details: name: Logitech G502 Hero, price: 10000, stock: False, description: Gaming mouse, 11 programmable buttons, RGB lighting, adjustable weight system.",
+        "response": "Hajur, Logitech G502 Hero ko availability aile chaina."
+    },
+    {
+        "question": "DJI Mavic Air 2 stock ma xa?",
+        "context": "Product Details: name: DJI Mavic Air 2, price: 150000, stock: False, description: Drone with 4K camera, 34-minute flight time, 10km HD video transmission, intelligent shooting modes.",
+        "response": "Hajur, DJI Mavic Air 2 aile stock ma xaina."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 available xa?",
+        "context": "Product Details: name: Samsung Galaxy Buds 2, price: 18000, stock: False, description: True wireless earbuds, ANC, 20-hour battery life, lightweight design.",
+        "response": "Hajur, Samsung Galaxy Buds 2 aile available xaina."
+    },
+    {
+        "question": "Xbox Series X pauxa ki painna?",
+        "context": "Product Details: name: Xbox Series X, price: 90000, stock: False, description: Next-gen gaming console, 4K gaming, 1TB SSD, backward compatibility, Xbox Game Pass.",
+        "response": "Hajur, Xbox Series X ko stock aile xaina."
+    },
+    {
+        "question": "GoPro Hero 10 Black ko stock status k ho?",
+        "context": "Product Details: name: GoPro Hero 10 Black, price: 60000, stock: False, description: Action camera, 5.3K video, HyperSmooth 4.0 stabilization, waterproof up to 33ft.",
+        "response": "Hajur, GoPro Hero 10 Black ko availability aile chaina."
+    },
+    {
+        "question": "OnePlus 10 Pro stock ma xa?",
+        "context": "Product Details: name: OnePlus 10 Pro, price: 140000, stock: False, description: 6.7-inch QHD+ AMOLED display, Snapdragon 8 Gen 1, 12GB RAM, 256GB storage, Hasselblad camera.",
+        "response": "Hajur, OnePlus 10 Pro aile stock ma xaina."
+    },
+    {
+        "question": "Acer Nitro 5 available xa?",
+        "context": "Product Details: name: Acer Nitro 5, price: 130000, stock: False, description: 15.6-inch FHD display, Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GTX 1650, gaming laptop.",
+        "response": "Hajur, Acer Nitro 5 aile available xaina."
+    },
+    {
+        "question": "Sony Xperia 5 IV pauxa ki painna?",
+        "context": "Product Details: name: Sony Xperia 5 IV, price: 140000, stock: False, description: 6.1-inch OLED display, Snapdragon 8 Gen 1, 8GB RAM, 128GB storage, triple-camera system.",
+        "response": "Hajur, Sony Xperia 5 IV ko stock aile xaina."
+    },
+    {
+        "question": "Bose SoundLink Revolve ko stock status k ho?",
+        "context": "Product Details: name: Bose SoundLink Revolve, price: 25000, stock: False, description: 360-degree Bluetooth speaker, 12-hour battery life, water-resistant, voice assistant support.",
+        "response": "Hajur, Bose SoundLink Revolve ko availability aile chaina."
+    },
+    {
+        "question": "Fujifilm X-T30 stock ma xa?",
+        "context": "Product Details: name: Fujifilm X-T30, price: 110000, stock: False, description: Mirrorless camera, 26.1MP sensor, 4K video, compact design, tilting touchscreen.",
+        "response": "Hajur, Fujifilm X-T30 aile stock ma xaina."
+    },
+    {
+        "question": "Razer BlackWidow V3 Pro available xa?",
+        "context": "Product Details: name: Razer BlackWidow V3 Pro, price: 20000, stock: False, description: Wireless mechanical gaming keyboard, RGB lighting, programmable macros, durable build.",
+        "response": "Hajur, Razer BlackWidow V3 Pro aile available xaina."
+    },
+    {
+        "question": "Sony WH-CH720N pauxa ki painna?",
+        "context": "Product Details: name: Sony WH-CH720N, price: 18000, stock: False, description: Wireless noise-canceling headphones, 35-hour battery life, Bluetooth, lightweight design.",
+        "response": "Hajur, Sony WH-CH720N ko stock aile xaina."
+    },
+    {
+        "question": "DJI Mini 2 ko stock status k ho?",
+        "context": "Product Details: name: DJI Mini 2, price: 80000, stock: False, description: Compact drone, 4K camera, 31-minute flight time, lightweight design, easy to fly.",
+        "response": "Hajur, DJI Mini 2 ko availability aile chaina."
+    },
+    {
+        "question": "iPhone 14 Pro Max stock ma xa?",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: True, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "Hajur, iPhone 14 Pro Max aile stock ma xa."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra available xa?",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: True, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Hajur, Samsung Galaxy S22 Ultra aile available xa."
+    },
+    {
+        "question": "HP Pavilion 15 pauxa ki painna?",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "Hajur, HP Pavilion 15 ko stock aile xa."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko stock status k ho?",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: True, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Hajur, Sony WH-1000XM4 ko availability aile cha."
+    },
+    {
+        "question": "MacBook Air M1 stock ma xa?",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: True, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "Hajur, MacBook Air M1 aile stock ma xa."
+    },
+    {
+        "question": "LG OLED C1 55-inch available xa?",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: True, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "Hajur, LG OLED C1 55-inch aile available xa."
+    },
+    {
+        "question": "Apple Watch Series 8 pauxa ki painna?",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: True, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Hajur, Apple Watch Series 8 ko stock aile xa."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 ko stock status k ho?",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: True, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Hajur, Xiaomi Mi Band 7 ko availability aile cha."
+    },
+    {
+        "question": "Canon EOS R6 stock ma xa?",
+        "context": "Product Details: name: Canon EOS R6, price: 250000, stock: True, description: Mirrorless camera, 20.1MP sensor, 4K video recording, dual pixel autofocus.",
+        "response": "Hajur, Canon EOS R6 aile stock ma xa."
+    },
+    {
+        "question": "Dell XPS 13 available xa?",
+        "context": "Product Details: name: Dell XPS 13, price: 180000, stock: True, description: 13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, InfinityEdge display.",
+        "response": "Hajur, Dell XPS 13 aile available xa."
+    },
+    {
+        "question": "Bose QuietComfort 45 pauxa ki painna?",
+        "context": "Product Details: name: Bose QuietComfort 45, price: 30000, stock: True, description: Wireless noise-canceling headphones, 24-hour battery life, TriPort acoustic architecture.",
+        "response": "Hajur, Bose QuietComfort 45 ko stock aile xa."
+    },
+    {
+        "question": "Sony PlayStation 5 ko stock status k ho?",
+        "context": "Product Details: name: Sony PlayStation 5, price: 100000, stock: True, description: Next-gen gaming console, 4K UHD Blu-ray, 825GB SSD, DualSense wireless controller.",
+        "response": "Hajur, Sony PlayStation 5 ko availability aile cha."
+    },
+    {
+        "question": "Asus ROG Zephyrus G14 stock ma xa?",
+        "context": "Product Details: name: Asus ROG Zephyrus G14, price: 250000, stock: True, description: 14-inch QHD display, AMD Ryzen 9, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, gaming laptop.",
+        "response": "Hajur, Asus ROG Zephyrus G14 aile stock ma xa."
+    },
+    {
+        "question": "JBL Flip 6 available xa?",
+        "context": "Product Details: name: JBL Flip 6, price: 12000, stock: True, description: Portable Bluetooth speaker, IP67 waterproof, 12-hour battery life, PartyBoost for stereo sound.",
+        "response": "Hajur, JBL Flip 6 aile available xa."
+    },
+    {
+        "question": "Nikon Z50 pauxa ki painna?",
+        "context": "Product Details: name: Nikon Z50, price: 110000, stock: True, description: Mirrorless camera, 20.9MP sensor, 4K video, tilting touchscreen, compact design.",
+        "response": "Hajur, Nikon Z50 ko stock aile xa."
+    },
+    {
+        "question": "Logitech G502 Hero ko stock status k ho?",
+        "context": "Product Details: name: Logitech G502 Hero, price: 10000, stock: True, description: Gaming mouse, 11 programmable buttons, RGB lighting, adjustable weight system.",
+        "response": "Hajur, Logitech G502 Hero ko availability aile cha."
+    },
+    {
+        "question": "DJI Mavic Air 2 stock ma xa?",
+        "context": "Product Details: name: DJI Mavic Air 2, price: 150000, stock: True, description: Drone with 4K camera, 34-minute flight time, 10km HD video transmission, intelligent shooting modes.",
+        "response": "Hajur, DJI Mavic Air 2 aile stock ma xa."
+    },
+    {
+        "question": "Samsung Galaxy Buds 2 available xa?",
+        "context": "Product Details: name: Samsung Galaxy Buds 2, price: 18000, stock: True, description: True wireless earbuds, ANC, 20-hour battery life, lightweight design.",
+        "response": "Hajur, Samsung Galaxy Buds 2 aile available xa."
+    },
+    {
+        "question": "Xbox Series X pauxa ki painna?",
+        "context": "Product Details: name: Xbox Series X, price: 90000, stock: True, description: Next-gen gaming console, 4K gaming, 1TB SSD, backward compatibility, Xbox Game Pass.",
+        "response": "Hajur, Xbox Series X ko stock aile xa."
+    },
+    {
+        "question": "GoPro Hero 10 Black ko stock status k ho?",
+        "context": "Product Details: name: GoPro Hero 10 Black, price: 60000, stock: True, description: Action camera, 5.3K video, HyperSmooth 4.0 stabilization, waterproof up to 33ft.",
+        "response": "Hajur, GoPro Hero 10 Black ko availability aile cha."
+    },
+    {
+        "question": "OnePlus 10 Pro stock ma xa?",
+        "context": "Product Details: name: OnePlus 10 Pro, price: 140000, stock: True, description: 6.7-inch QHD+ AMOLED display, Snapdragon 8 Gen 1, 12GB RAM, 256GB storage, Hasselblad camera.",
+        "response": "Hajur, OnePlus 10 Pro aile stock ma xa."
+    },
+    {
+        "question": "Acer Nitro 5 available xa?",
+        "context": "Product Details: name: Acer Nitro 5, price: 130000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 16GB RAM, 512GB SSD, NVIDIA GTX 1650, gaming laptop.",
+        "response": "Hajur, Acer Nitro 5 aile available xa."
+    },
+    {
+        "question": "Sony Xperia 5 IV pauxa ki painna?",
+        "context": "Product Details: name: Sony Xperia 5 IV, price: 140000, stock: True, description: 6.1-inch OLED display, Snapdragon 8 Gen 1, 8GB RAM, 128GB storage, triple-camera system.",
+        "response": "Hajur, Sony Xperia 5 IV ko stock aile xa."
+    },
+    {
+        "question": "Bose SoundLink Revolve ko stock status k ho?",
+        "context": "Product Details: name: Bose SoundLink Revolve, price: 25000, stock: True, description: 360-degree Bluetooth speaker, 12-hour battery life, water-resistant, voice assistant support.",
+        "response": "Hajur, Bose SoundLink Revolve ko availability aile cha."
+    },
+    {
+        "question": "Fujifilm X-T30 stock ma xa?",
+        "context": "Product Details: name: Fujifilm X-T30, price: 110000, stock: True, description: Mirrorless camera, 26.1MP sensor, 4K video, compact design, tilting touchscreen.",
+        "response": "Hajur, Fujifilm X-T30 aile stock ma xa."
+    },
+    {
+        "question": "Razer BlackWidow V3 Pro available xa?",
+        "context": "Product Details: name: Razer BlackWidow V3 Pro, price: 20000, stock: True, description: Wireless mechanical gaming keyboard, RGB lighting, programmable macros, durable build.",
+        "response": "Hajur, Razer BlackWidow V3 Pro aile available xa."
+    },
+    {
+        "question": "Sony WH-CH720N pauxa ki painna?",
+        "context": "Product Details: name: Sony WH-CH720N, price: 18000, stock: True, description: Wireless noise-canceling headphones, 35-hour battery life, Bluetooth, lightweight design.",
+        "response": "Hajur, Sony WH-CH720N ko stock aile xa."
+    },
+    {
+        "question": "DJI Mini 2 ko stock status k ho?",
+        "context": "Product Details: name: DJI Mini 2, price: 80000, stock: True, description: Compact drone, 4K camera, 31-minute flight time, lightweight design, easy to fly.",
+        "response": "Hajur, DJI Mini 2 ko availability aile cha."
+    },
+    {
+        "question": "iPhone 14 Pro Max ko price kati ho?",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: True, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "iPhone 14 Pro Max ko price Rs. 200000 ho."
+    },
+    {
+        "question": "iPhone 14 Pro Max stock ma xa?",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: True, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "Hajur, iPhone 14 Pro Max aile stock ma xa."
+    },
+    {
+        "question": "iPhone 14 Pro Max ko description dinu",
+        "context": "Product Details: name: iPhone 14 Pro Max, price: 200000, stock: True, description: 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, triple-camera system.",
+        "response": "iPhone 14 Pro Max ko description ma 6.7-inch Super Retina XDR display, A16 Bionic chip, 256GB storage, ra triple-camera system xa."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra ko price kati ho?",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: True, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Samsung Galaxy S22 Ultra ko price Rs. 180000 ho."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra stock ma xa?",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: True, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Hajur, Samsung Galaxy S22 Ultra aile stock ma xa."
+    },
+    {
+        "question": "Samsung Galaxy S22 Ultra ko barema jankari dinu",
+        "context": "Product Details: name: Samsung Galaxy S22 Ultra, price: 180000, stock: True, description: 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, 5000mAh battery.",
+        "response": "Samsung Galaxy S22 Ultra ko barema jankari ma 6.8-inch Dynamic AMOLED 2X display, 108MP camera, S Pen included, ra 5000mAh battery xa."
+    },
+    {
+        "question": "HP Pavilion 15 ko price kati ho?",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "HP Pavilion 15 ko price Rs. 120000 ho."
+    },
+    {
+        "question": "HP Pavilion 15 stock ma xa?",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "Hajur, HP Pavilion 15 aile stock ma xa."
+    },
+    {
+        "question": "HP Pavilion 15 ko spec vanidinu",
+        "context": "Product Details: name: HP Pavilion 15, price: 120000, stock: True, description: 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, backlit keyboard.",
+        "response": "HP Pavilion 15 ko spec ma 15.6-inch FHD display, Intel Core i5, 8GB RAM, 512GB SSD, ra backlit keyboard xa."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko price kati ho?",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: True, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Sony WH-1000XM4 ko price Rs. 35000 ho."
+    },
+    {
+        "question": "Sony WH-1000XM4 stock ma xa?",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: True, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Hajur, Sony WH-1000XM4 aile stock ma xa."
+    },
+    {
+        "question": "Sony WH-1000XM4 ko barema thap jankari dinu",
+        "context": "Product Details: name: Sony WH-1000XM4, price: 35000, stock: True, description: Wireless noise-canceling headphones, 30-hour battery life, touch sensor controls.",
+        "response": "Sony WH-1000XM4 ko barema thap jankari ma wireless noise-canceling headphones, 30-hour battery life, ra touch sensor controls xa."
+    },
+    {
+        "question": "MacBook Air M1 ko price kati ho?",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: True, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "MacBook Air M1 ko price Rs. 150000 ho."
+    },
+    {
+        "question": "MacBook Air M1 stock ma xa?",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: True, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "Hajur, MacBook Air M1 aile stock ma xa."
+    },
+    {
+        "question": "MacBook Air M1 ko description dinu",
+        "context": "Product Details: name: MacBook Air M1, price: 150000, stock: True, description: 13.3-inch Retina display, Apple M1 chip, 8GB RAM, 256GB SSD.",
+        "response": "MacBook Air M1 ko description ma 13.3-inch Retina display, Apple M1 chip, 8GB RAM, ra 256GB SSD xa."
+    },
+    {
+        "question": "LG OLED C1 55-inch ko price kati ho?",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: True, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "LG OLED C1 55-inch ko price Rs. 220000 ho."
+    },
+    {
+        "question": "LG OLED C1 55-inch stock ma xa?",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: True, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "Hajur, LG OLED C1 55-inch aile stock ma xa."
+    },
+    {
+        "question": "LG OLED C1 55-inch ko barema jankari dinu",
+        "context": "Product Details: name: LG OLED C1 55-inch, price: 220000, stock: True, description: 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, HDMI 2.1.",
+        "response": "LG OLED C1 55-inch ko barema jankari ma 55-inch 4K OLED TV, AI-powered 4K, Dolby Vision IQ, ra HDMI 2.1 xa."
+    },
+    {
+        "question": "Apple Watch Series 8 ko price kati ho?",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: True, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Apple Watch Series 8 ko price Rs. 80000 ho."
+    },
+    {
+        "question": "Apple Watch Series 8 stock ma xa?",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: True, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Hajur, Apple Watch Series 8 aile stock ma xa."
+    },
+    {
+        "question": "Apple Watch Series 8 ko barema thap jankari dinu",
+        "context": "Product Details: name: Apple Watch Series 8, price: 80000, stock: True, description: 45mm GPS + Cellular, blood oxygen sensor, ECG app, always-on Retina display.",
+        "response": "Apple Watch Series 8 ko barema thap jankari ma 45mm GPS + Cellular, blood oxygen sensor, ECG app, ra always-on Retina display xa."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 ko price kati ho?",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: True, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Xiaomi Mi Band 7 ko price Rs. 5000 ho."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 stock ma xa?",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: True, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Hajur, Xiaomi Mi Band 7 aile stock ma xa."
+    },
+    {
+        "question": "Xiaomi Mi Band 7 ko description dinu",
+        "context": "Product Details: name: Xiaomi Mi Band 7, price: 5000, stock: True, description: Fitness tracker, 1.62-inch AMOLED display, 120 sports modes, 14-day battery life.",
+        "response": "Xiaomi Mi Band 7 ko description ma fitness tracker, 1.62-inch AMOLED display, 120 sports modes, ra 14-day battery life xa."
+    }
+]

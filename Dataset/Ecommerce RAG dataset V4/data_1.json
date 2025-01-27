@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "k baata pay garne? kun kun payment method xa? esewa accept garnu hunxa? COD xa?",
+        "context": "Hami esewa, khalti ra kunei pani mobile banking accept garxau. Cash on delivery pani available xa.",
+        "response": "Tapai esewa, khalti wa kunei pani mobile bank baata pay garna saknu hunxa sathai Cash on Delivery pani accept xa."
+    },
+    {
+        "question": "mobile banking le pay garna milcha? card le garna milcha?",
+        "context": "Hami sabai mobile banking service accept garxau, aba card baata pani pay garna milcha.",
+        "response": "Tapai afno mobile banking wa debit/credit card bata pay garna saknu hunxa."
+    },
+    {
+        "question": "cash on delivery available xa?",
+        "context": "Hamro Cash on Delivery service sabai thau ma available chhaina tara jahan available chha tyo check garna saknuhos.",
+        "response": "Tapai afno address ma Cash on Delivery available chha ki nai check garna saknu hunxa hamro website ko delivery options ma."
+    },
+    {
+        "question": "esewa chhodera aru method xa?",
+        "context": "Eswa ko sath-sathai khalti, mobile banking ra debit/credit card pani accept garxau.",
+        "response": "Tapai khalti, mobile banking wa debit/credit card baata pani payment garna saknu hunxa."
+    },
+    {
+        "question": "khalti le payment garna milcha?",
+        "context": "Hami khalti accept garxau aba esewa, card ra mobile banking pani support garxau.",
+        "response": "Tapai khalti bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option xa ki nai?",
+        "context": "Cash on Delivery option thikai thau ma available chha. Sabai product ma huda chhaina.",
+        "response": "Tapai le COD option available chha ki nai confirm garna website ma product details check garnu parcha."
+    },
+    {
+        "question": "kun kun digital wallet chha?",
+        "context": "Hami esewa, khalti, ra aru major digital wallet accept garxau.",
+        "response": "Tapai esewa, khalti ra aru major digital wallet baata payment garna saknu hunxa."
+    },
+    {
+        "question": "international card le payment garna milcha?",
+        "context": "Hamro system le international debit/credit card pani support garxau.",
+        "response": "Tapai le Visa ya MasterCard jasto international card baata payment garna saknu hunxa."
+    },
+    {
+        "question": "aba bank transfer accept garxau?",
+        "context": "Hamro payment options ma aba bank transfer add bhako chha.",
+        "response": "Tapai le bank transfer garera pani payment process garna saknu hunxa."
+    },
+    {
+        "question": "payment garna problem bhayo vane k garne?",
+        "context": "Hamro customer support team le payment problem solve garna madad garxau.",
+        "response": "Tapai le hamro customer support ma contact garna saknu hunxa for payment-related issues."
+    },
+    {
+        "question": "k baata pay garne?",
+        "context": "Hami esewa, khalti ra kunei pani mobile banking accept garxau. Cash on delivery pani available xa.",
+        "response": "Tapai esewa, khalti wa mobile banking bata pay garna saknu hunxa. Cash on delivery pani available chha."
+    },
+    {
+        "question": "kun kun payment method xa?",
+        "context": "Hami esewa, khalti, mobile banking, ra card payment accept garxau.",
+        "response": "Tapai le esewa, khalti, mobile banking, ya card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa accept garnu hunxa?",
+        "context": "Hami esewa accept garxau ra aru payment options pani provide garxau.",
+        "response": "Tapai le esewa bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "COD xa?",
+        "context": "Hami Cash on Delivery option provide garxau sabai product ko lagi available chhaina.",
+        "response": "Tapai ko location ma COD available chha ki nai check garna hamro website ko delivery options hernuhos."
+    },
+    {
+        "question": "khalti le pay garna milcha?",
+        "context": "Hami khalti le payment accept garxau sathai esewa, card, ra mobile banking pani support garxau.",
+        "response": "Tapai khalti bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking le pay garna milcha?",
+        "context": "Hami sabai mobile banking options accept garxau.",
+        "response": "Tapai le afno mobile banking bata payment garna saknu hunxa."
+    },
+    {
+        "question": "card le payment garna milcha?",
+        "context": "Hami debit ra credit card le payment accept garxau.",
+        "response": "Tapai le debit ya credit card bata payment garna saknu hunxa."
+    },
+    {
+        "question": "international card le payment garna milcha?",
+        "context": "Hamro payment system le international card ko support garxau.",
+        "response": "Tapai Visa ya MasterCard jasto international card bata payment garna saknu hunxa."
+    },
+    {
+        "question": "bank transfer le pay garna milcha?",
+        "context": "Hamro system le bank transfer accept garxau.",
+        "response": "Tapai le bank transfer bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option available chha ki nai?",
+        "context": "Hamro COD option sabai product ko lagi available chhaina.",
+        "response": "Tapai le afno location ma COD available chha ki nai confirm garna website ma product details check garna saknu hunxa."
+    },
+    {
+        "question": "cash payment garna milcha?",
+        "context": "Hami cash on delivery ko option provide garxau, tara yo sabai location ma available chhaina.",
+        "response": "Tapai le cash on delivery ko maddat le payment garna saknu hunxa, tara afno location ma available chha ki nai confirm garnuhos."
+    },
+    {
+        "question": "digital wallet ko lagi kun kun option xa?",
+        "context": "Hami esewa, khalti ra aru popular digital wallet accept garxau.",
+        "response": "Tapai le esewa, khalti jasta digital wallet bata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa chhaina bhane aru option chha?",
+        "context": "Hami khalti, mobile banking, ra card payment pani accept garxau.",
+        "response": "Eswa chhaina bhane tapai khalti, mobile banking, ya debit/credit card bata pay garna saknu hunxa."
+    },
+    {
+        "question": "emi payment system xa?",
+        "context": "Hamro platform le EMI system ko lagi certain banks sanga collaboration gareko chha.",
+        "response": "Tapai afno bank ma EMI option chha ki nai check garera payment process suru garna saknu hunxa."
+    },
+    {
+        "question": "payment failed bhayo bhane k garne?",
+        "context": "Hami le payment failed bhaye back-end ma transaction track garna sakchau ra madad garna sakchau.",
+        "response": "Tapai ko payment failed bhaye, hamro customer support team sanga contact garera sahayog lina saknu hunxa."
+    },
+    {
+        "question": "international wallet use garna milcha?",
+        "context": "Hami Nepal bhitra ko payment options accept garxau, international wallet currently support gardainau.",
+        "response": "Sorry, hami international wallet support gardainau. Nepal bhitra ko digital wallets matra accept garxau."
+    },
+    {
+        "question": "debit card accept huncha?",
+        "context": "Hami sabai debit ra credit card accept garxau.",
+        "response": "Tapai le debit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "khalti ko cashback scheme chha?",
+        "context": "Khalti bata payment garera cashback scheme ko benefit lina milcha, aba esewa pani yesto scheme offer gardai chha.",
+        "response": "Tapai khalti ya esewa bata pay garera cashback scheme ko labh uthana saknu hunxa. Tapai le offer details check garnuhos."
+    },
+    {
+        "question": "QR code scan garera payment garna milcha?",
+        "context": "Hami QR code scan garera payment garne option pani provide garxau.",
+        "response": "Tapai le hamro QR code scan garera payment process garna saknu hunxa."
+    },
+    {
+        "question": "instalment ma pay garna milcha?",
+        "context": "Hamro platform le installment plan ko lagi selected products ma option provide garxau.",
+        "response": "Tapai le kunai kunai product installment ma pay garna saknu hunxa. Website ma product ko details check garnuhos."
+    },
+    {
+        "question": "refund payment kasto huncha?",
+        "context": "Refund process hamro policy anusar garincha. Bank ra wallet ma time lagna sakcha.",
+        "response": "Tapai ko refund 5-7 working days bhitra bank ya wallet ma process huncha."
+    },
+    {
+        "question": "cheque bata pay garna milcha?",
+        "context": "Hami cheque payment currently accept gardainau.",
+        "response": "Sorry, hami cheque ko maddat le payment accept gardainau."
+    },
+    {
+        "question": "credit card ko EMI support xa?",
+        "context": "Hamro platform le certain banks ka credit card EMI ko support garxau.",
+        "response": "Tapai le EMI option ko lagi afno bank sanga confirm garera payment process garna saknu hunxa."
+    },
+    {
+        "question": "payment confirmation kasari garne?",
+        "context": "Payment confirmation email ya SMS ko maddat le garincha. Website ma pani details herna milcha.",
+        "response": "Tapai le email ya SMS ma payment confirmation paunu hunxa, website ma pani details confirm garna saknu hunxa."
+    },
+    {
+        "question": "refund ma kati time lagcha?",
+        "context": "Refund process 5-7 working days ma complete huncha.",
+        "response": "Tapai ko refund 5-7 working days ma bank ya wallet ma deposit huncha."
+    },
+    {
+        "question": "partial payment garna milcha?",
+        "context": "Hami partial payment accept gardainau.",
+        "response": "Sorry, hami le full payment matra accept garxau."
+    },
+    {
+        "question": "prepaid card le payment garna milcha?",
+        "context": "Hamro system le prepaid card support garxau.",
+        "response": "Tapai le prepaid card bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "promo code ko lagi discount kasari apply garne?",
+        "context": "Promo code checkout process ma apply garna milcha.",
+        "response": "Tapai checkout page ma promo code enter garera discount apply garna saknu hunxa."
+    },
+    {
+        "question": "delivery boy lai cash dina milcha?",
+        "context": "Delivery boy lai cash dine option Cash on Delivery ko lagi available chha.",
+        "response": "Tapai delivery boy lai cash dina saknu hunxa, COD option select gareko xa bhane."
+    },
+    {
+        "question": "payment receipt kasari paune?",
+        "context": "Hamro system le email ma receipt pathaune cha, afno account ma pani receipt save huncha.",
+        "response": "Tapai le email ma payment receipt paunu hunxa, website account ma login garera pani receipt herna saknu hunxa."
+    },
+    {
+        "question": "k baata pay garne?",
+        "context": "Hami esewa, khalti ra mobile banking accept garxau. Cash on delivery pani available xa.",
+        "response": "Tapai esewa, khalti, wa mobile banking bata pay garna saknu hunxa. Cash on delivery pani option ma chha."
+    },
+    {
+        "question": "kun kun payment method xa?",
+        "context": "Hami esewa, khalti, debit/credit card, ra mobile banking accept garxau.",
+        "response": "Tapai esewa, khalti, debit/credit card, wa mobile banking bata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa accept garnu hunxa?",
+        "context": "Hami esewa ko maddat le payment accept garxau. Aru options pani chha.",
+        "response": "Tapai esewa bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "COD xa?",
+        "context": "Hami Cash on Delivery (COD) option provide garxau. Sabai product ma huda chhaina.",
+        "response": "Tapai ko location ma COD available chha ki nai confirm garna hamro website ma check garnuhos."
+    },
+    {
+        "question": "khalti le pay garna milcha?",
+        "context": "Hami khalti accept garxau ra mobile banking, esewa, debit/credit card pani support garxau.",
+        "response": "Tapai khalti bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking le pay garna milcha?",
+        "context": "Hami sabai mobile banking options accept garxau.",
+        "response": "Tapai le mobile banking ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "card le payment garna milcha?",
+        "context": "Hami debit ra credit card accept garxau.",
+        "response": "Tapai debit ya credit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun digital wallet chha?",
+        "context": "Hami esewa, khalti, ra aru popular digital wallet accept garxau.",
+        "response": "Tapai esewa, khalti, wa aru popular digital wallet baata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa chhaina bhane aru option chha?",
+        "context": "Eswa ko sath-sathai khalti, mobile banking, ra debit/credit card accept garxau.",
+        "response": "Eswa chhaina bhane tapai khalti, mobile banking, ya debit/credit card bata pay garna saknu hunxa."
+    },
+    {
+        "question": "digital wallet le pay garna milcha?",
+        "context": "Hamro system esewa, khalti, ra aru digital wallets support garxau.",
+        "response": "Tapai esewa, khalti jasta digital wallet baata pay garna saknu hunxa."
+    },
+    {
+        "question": "COD option xa ki nai?",
+        "context": "Hamro Cash on Delivery service sabai thau ma available chhaina tara jahan available chha tyo tapai confirm garna saknuhos.",
+        "response": "Tapai le COD option website ko delivery details check garera confirm garna saknu hunxa."
+    },
+    {
+        "question": "kun kun tarika le payment garna milcha?",
+        "context": "Hami esewa, khalti, mobile banking, ra Cash on Delivery accept garxau.",
+        "response": "Tapai esewa, khalti, mobile banking, wa Cash on Delivery bata payment garna saknu hunxa."
+    },
+    {
+        "question": "kun wallet haru support huncha?",
+        "context": "Hami esewa, khalti, ra aru popular wallet accept garxau.",
+        "response": "Tapai esewa, khalti, ra aru digital wallet bata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa ko option chha?",
+        "context": "Eswa hamro payment methods ma include gareko chha.",
+        "response": "Tapai esewa bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking le pay garna milcha ki milcha?",
+        "context": "Hami sabai mobile banking system accept garxau.",
+        "response": "Tapai le mobile banking ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "hami esewa bata payment garna milcha?",
+        "context": "Eswa bata payment garna milcha, sathai khalti, mobile banking, ra COD pani available chha.",
+        "response": "Tapai esewa bata payment garna saknu hunxa. Aru options pani available chha."
+    },
+    {
+        "question": "COD xa ki chhaina?",
+        "context": "Hami Cash on Delivery ko option provide garxau, tara sabai thau ma huda chhaina.",
+        "response": "Tapai ko thau ma COD available chha ki nai, website ma delivery options check garnuhos."
+    },
+    {
+        "question": "khalti ko option chha?",
+        "context": "Hami khalti le payment accept garxau.",
+        "response": "Tapai khalti bata pani payment garna saknu hunxa."
+    },
+    {
+        "question": "card le payment garna milcha ki?",
+        "context": "Hami debit ra credit card accept garxau.",
+        "response": "Tapai le debit ya credit card bata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa chhaina bhane k garne?",
+        "context": "Eswa ko sath-sathai khalti, mobile banking, ra card payment ko option available chha.",
+        "response": "Tapai le khalti, mobile banking, ya debit/credit card bata pay garna saknu hunxa."
+    },
+    {
+        "question": "kunai digital wallet ko support xa?",
+        "context": "Hami esewa, khalti ra aru popular wallet accept garxau.",
+        "response": "Tapai digital wallet jasari esewa ra khalti bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD available chha?",
+        "context": "Hamro platform ma COD option certain location ma matra available chha.",
+        "response": "Tapai le COD option available chha ki nai afno location ko lagi confirm garna saknu hunxa."
+    },
+    {
+        "question": "khalti accept huncha?",
+        "context": "Hamro system khalti ko support garxau.",
+        "response": "Tapai le khalti ko maddat le sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "cash le pay garna milcha?",
+        "context": "Cash on Delivery ko option available chha, tara sabai location ma chhaina.",
+        "response": "Tapai le delivery ko bela cash dina saknu hunxa, COD option available chha bhane."
+    },
+    {
+        "question": "esewa ra khalti duita nai chalxa?",
+        "context": "Eswa ra khalti duita wallet hamro system le accept garxau.",
+        "response": "Tapai esewa wa khalti ma j kunai bata payment garna saknu hunxa."
+    },
+    {
+        "question": "payment kasari garne? kun kun option chha?",
+        "context": "Hami esewa, khalti, mobile banking, ra Cash on Delivery accept garxau.",
+        "response": "Tapai le esewa, khalti, mobile banking, ya Cash on Delivery bata payment garna saknu hunxa."
+    },
+    {
+        "question": "digital wallet le payment garna milcha?",
+        "context": "Hamro system digital wallets jasto ki esewa ra khalti support garxau.",
+        "response": "Tapai le digital wallets jasari esewa ya khalti bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option confirm kasari garne?",
+        "context": "Hamro Cash on Delivery option sabai location ma available chhaina.",
+        "response": "Tapai COD option confirm garna website ko delivery details check garnuhos."
+    },
+    {
+        "question": "khalti chhaina bhane ke garne?",
+        "context": "Hami esewa, mobile banking, debit/credit card ra COD ko option provide garxau.",
+        "response": "Khalti chhaina bhane tapai esewa, mobile banking, ya debit/credit card bata payment garna saknu hunxa."
+    },
+    {
+        "question": "kunai aru wallet xa ki?",
+        "context": "Hami esewa, khalti, ra aru major digital wallets accept garxau.",
+        "response": "Tapai esewa, khalti, wa aru digital wallet bata payment garna saknu hunxa."
+    },
+    {
+        "question": "debit card le pay garna milcha?",
+        "context": "Hamro system le debit ra credit card accept garxau.",
+        "response": "Tapai debit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun digital wallet use garna milcha?",
+        "context": "Hami esewa, khalti, ra aru popular digital wallet accept garxau.",
+        "response": "Tapai esewa, khalti, wa aru popular digital wallet bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD confirm xa ki chhaina?",
+        "context": "Hamro platform ma COD option sabai delivery area ma available chhaina.",
+        "response": "Tapai ko thau ma COD available chha ki nai website ma delivery options check garnuhos."
+    },
+    {
+        "question": "khalti chha bhane payment garna milcha?",
+        "context": "Hamro payment system khalti support garxau.",
+        "response": "Tapai le khalti bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "mobile wallet le payment huncha?",
+        "context": "Hami mobile wallet jasari esewa ra khalti support garxau.",
+        "response": "Tapai esewa, khalti jasta mobile wallet bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD le pay garna milcha?",
+        "context": "Hamro system ma Cash on Delivery option support garxau, tara sabai thau ma available chhaina.",
+        "response": "Tapai le delivery ko bela cash dina saknu hunxa, COD available chha bhane."
+    },
+    {
+        "question": "esewa support xa?",
+        "context": "Hami esewa accept garxau.",
+        "response": "Tapai esewa bata payment garna saknu hunxa."
+    },
+    {
+        "question": "khalti bata pay garna milcha ki nai?",
+        "context": "Hami khalti accept garxau ra aru options jasto ki esewa, mobile banking pani provide garxau.",
+        "response": "Tapai khalti bata payment garna saknu hunxa."
+    },
+    {
+        "question": "debit card bata pay garna milcha?",
+        "context": "Hamro system debit ra credit card accept garxau.",
+        "response": "Tapai le debit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun payment gateway xa?",
+        "context": "Hami esewa, khalti, ra aru popular gateways jasto ki card payment pani accept garxau.",
+        "response": "Tapai esewa, khalti, wa card payment ko maddat le pay garna saknu hunxa."
+    },
+    {
+        "question": "COD service sabai location ma chha?",
+        "context": "Hamro COD service sabai thau ma available chhaina, location anusar farak huncha.",
+        "response": "Tapai ko thau ma COD available chha ki nai hamro website ko delivery options ma check garnuhos."
+    },
+    {
+        "question": "kun kun method le online payment garna milcha?",
+        "context": "Hami esewa, khalti, mobile banking, ra debit/credit card ko maddat le payment accept garxau.",
+        "response": "Tapai le esewa, khalti, mobile banking, ya debit/credit card bata online payment garna saknu hunxa."
+    },
+    {
+        "question": "cash le pay garna milcha ki?",
+        "context": "Hamro Cash on Delivery option certain locations ma available chha.",
+        "response": "Tapai le cash ko maddat le COD option ma pay garna saknu hunxa."
+    },
+    {
+        "question": "khalti accept huncha ki hunna?",
+        "context": "Hamro platform khalti ko support garxau.",
+        "response": "Tapai khalti bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa chha bhane payment garna milcha?",
+        "context": "Hamro platform le esewa ko support garxau.",
+        "response": "Tapai le esewa bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD ko lagi cash dina milcha?",
+        "context": "Hamro COD option ma cash ko maddat le pay garna saknu hunxa.",
+        "response": "Tapai delivery ko bela cash dina saknu hunxa COD option select gareko xa bhane."
+    },
+    {
+        "question": "card payment kasari garne?",
+        "context": "Hamro system ma debit ra credit card accept garxau.",
+        "response": "Tapai checkout page ma debit ya credit card details enter garera payment garna saknu hunxa."
+    },
+    {
+        "question": "digital payment ko lagi kun wallet use garne?",
+        "context": "Hami esewa, khalti, ra aru major digital wallet accept garxau.",
+        "response": "Tapai esewa, khalti, wa aru popular digital wallets ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "COD confirm garna kasari?",
+        "context": "Hamro COD service sabai thau ma available chhaina.",
+        "response": "Tapai ko thau ma COD available chha ki nai, hamro website ma delivery options check garnuhos."
+    },
+    {
+        "question": "payment options bata kun wallet easy huncha?",
+        "context": "Eswa ra khalti hamro sabai users ko lagi sajilo ra popular options hun.",
+        "response": "Tapai le esewa ya khalti jasto easy wallet bata payment garna saknu hunxa."
+    },
+    {
+        "question": "kunai aru payment method xa?",
+        "context": "Hami esewa, khalti, debit/credit card, ra mobile banking accept garxau.",
+        "response": "Tapai esewa, khalti, debit/credit card, wa mobile banking bata payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun payment method use garna milcha?",
+        "context": "Hami esewa, khalti, debit/credit card, ra mobile banking support garxau. Cash on Delivery pani available chha.",
+        "response": "Tapai esewa, khalti, debit/credit card, mobile banking, wa Cash on Delivery bata payment garna saknu hunxa."
+    },
+    {
+        "question": "payment garna ko lagi kun wallet available chha?",
+        "context": "Hamro system esewa, khalti ra aru popular wallet accept garxau.",
+        "response": "Tapai esewa, khalti, ya aru digital wallet bata payment garna saknu hunxa."
+    },
+    {
+        "question": "mobile wallet accept huncha?",
+        "context": "Hamro platform ma esewa ra khalti jasto mobile wallets support hun.",
+        "response": "Tapai mobile wallets jasto ki esewa ra khalti bata payment garna saknu hunxa."
+    },
+    {
+        "question": "kunai wallet le pay garna milcha?",
+        "context": "Hami esewa ra khalti jasta wallets accept garxau.",
+        "response": "Tapai le wallet jasari esewa ya khalti bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "COD support chha ki nai?",
+        "context": "Cash on Delivery option sabai thau ma available chhaina.",
+        "response": "Tapai COD option available chha ki nai confirm garna website ko delivery details check garnuhos."
+    },
+    {
+        "question": "payment kasari garne esewa chhaina bhane?",
+        "context": "Hamro system khalti, mobile banking, ra debit/credit card accept garxau.",
+        "response": "Eswa chhaina bhane tapai khalti, mobile banking, ya debit/credit card bata payment garna saknu hunxa."
+    },
+    {
+        "question": "digital wallet haru ko option xa?",
+        "context": "Hamro platform esewa, khalti, ra aru digital wallets accept garxau.",
+        "response": "Tapai esewa, khalti, ya aru digital wallets bata payment garna saknu hunxa."
+    },
+    {
+        "question": "cash ko maddat le payment garna milcha?",
+        "context": "Hami Cash on Delivery provide garxau tara sabai thau ma huda chhaina.",
+        "response": "Tapai le COD ko bela cash dina saknu hunxa."
+    },
+    {
+        "question": "khalti chha bhane pay garna milcha?",
+        "context": "Hamro platform khalti accept garxau.",
+        "response": "Tapai khalti bata payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun tarika le paisa tirna milcha?",
+        "context": "Hami esewa, khalti, mobile banking, debit/credit card, ra COD options accept garxau.",
+        "response": "Tapai esewa, khalti, mobile banking, debit/credit card, ya Cash on Delivery bata paisa tirna saknu hunxa."
+    },
+    {
+        "question": "card ko maddat le payment huncha ki?",
+        "context": "Hami debit ra credit card accept garxau.",
+        "response": "Tapai debit ya credit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking le paisa tirna milcha ki?",
+        "context": "Hamro system mobile banking ko maddat le payment support garxau.",
+        "response": "Tapai le mobile banking ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa accept huncha ki?",
+        "context": "Hamro platform esewa accept garxau.",
+        "response": "Tapai esewa bata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa ya khalti bata pay garna milcha?",
+        "context": "Hamro payment system esewa ra khalti duita nai accept garxau.",
+        "response": "Tapai esewa ya khalti bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option confirm garna milcha ki?",
+        "context": "Hamro COD service location anusar available huncha.",
+        "response": "Tapai COD option available chha ki nai website ma delivery details check garnuhos."
+    },
+    {
+        "question": "debit ya credit card le pay garna milcha?",
+        "context": "Hamro platform debit ra credit card support garxau.",
+        "response": "Tapai debit ya credit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun wallet le payment support garxau?",
+        "context": "Hami esewa, khalti, ra aru major digital wallets accept garxau.",
+        "response": "Tapai esewa, khalti, wa aru popular digital wallets bata payment garna saknu hunxa."
+    },
+    {
+        "question": "cash tirne option xa?",
+        "context": "Hamro Cash on Delivery option sabai delivery areas ma available chhaina.",
+        "response": "Tapai le COD ko bela cash tirna saknu hunxa, available thau ma."
+    },
+    {
+        "question": "COD option kasto cha?",
+        "context": "Cash on Delivery option location anusar farak huncha.",
+        "response": "Tapai COD option available chha ki nai afno location ko lagi confirm garna saknu hunxa."
+    },
+    {
+        "question": "esewa accept huncha?",
+        "context": "Hamro system le esewa payment accept garxau.",
+        "response": "Tapai esewa ko maddat le sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun wallet le payment garna milcha?",
+        "context": "Hami esewa, khalti, ra aru digital wallets support garxau.",
+        "response": "Tapai esewa, khalti, ya aru digital wallets bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option sabai thau ma chha?",
+        "context": "Hamro COD service location anusar available chha.",
+        "response": "Tapai ko thau ma COD available chha ki nai, website ma delivery options check garnuhos."
+    },
+    {
+        "question": "khalti bata payment garna milcha?",
+        "context": "Hamro platform khalti accept garxau.",
+        "response": "Tapai khalti bata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa chha bhane paisa tirna milcha?",
+        "context": "Hami esewa payment support garxau.",
+        "response": "Tapai esewa ko maddat le sajilo tarikale paisa tirna saknu hunxa."
+    },
+    {
+        "question": "COD confirm garna milcha?",
+        "context": "Hamro Cash on Delivery option location-wise available huncha.",
+        "response": "Tapai COD option available chha ki nai afno location confirm garnuhos."
+    },
+    {
+        "question": "digital wallet ko lagi esewa use garna milcha?",
+        "context": "Hamro platform esewa accept garxau.",
+        "response": "Tapai esewa ko maddat le digital payment garna saknu hunxa."
+    },
+    {
+        "question": "cash payment ko lagi option xa?",
+        "context": "Hamro Cash on Delivery option delivery location anusar available chha.",
+        "response": "Tapai ko delivery area ma COD option xa bhane cash ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun payment gateway support huncha?",
+        "context": "Hami esewa, khalti, debit/credit card, ra mobile banking support garxau.",
+        "response": "Tapai esewa, khalti, debit/credit card, wa mobile banking bata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa ko option chha?",
+        "context": "Hamro system ma esewa bata payment accept garxau.",
+        "response": "Tapai esewa bata payment garna saknu hunxa."
+    },
+    {
+        "question": "khalti accept huncha?",
+        "context": "Hamro platform khalti support garxau.",
+        "response": "Tapai khalti ko maddat le sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking le payment huncha?",
+        "context": "Hami mobile banking ko maddat le payment accept garxau.",
+        "response": "Tapai le mobile banking bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option sabai delivery area ma chha?",
+        "context": "Hamro COD service location-wise available huncha.",
+        "response": "Tapai ko delivery area ma COD chha ki nai confirm garnuhos."
+    },
+    {
+        "question": "esewa ko maddat le paisa tirna milcha?",
+        "context": "Hamro system esewa payment accept garxau.",
+        "response": "Tapai esewa ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "COD le cash payment huncha?",
+        "context": "Hamro Cash on Delivery option cash payment ko lagi available chha.",
+        "response": "Tapai COD option select gareko xa bhane cash ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "debit card ko maddat le payment garna milcha?",
+        "context": "Hamro platform debit ra credit card support garxau.",
+        "response": "Tapai debit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun wallet accept huncha?",
+        "context": "Hamro system esewa, khalti, ra aru major wallets support garxau.",
+        "response": "Tapai esewa, khalti, ya aru popular wallets bata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa bata online payment huncha?",
+        "context": "Hamro platform online payment ko lagi esewa accept garxau.",
+        "response": "Tapai esewa bata online payment garna saknu hunxa."
+    },
+    {
+        "question": "cash delivery ko bela pay garna milcha?",
+        "context": "Hamro COD service delivery ko bela cash payment ko lagi available chha.",
+        "response": "Tapai le delivery ko bela cash tirna saknu hunxa COD select gareko xa bhane."
+    },
+    {
+        "question": "mobile banking le paisa tirna milcha?",
+        "context": "Hamro payment system mobile banking accept garxau.",
+        "response": "Tapai mobile banking ko maddat le paisa tirna saknu hunxa."
+    },
+    {
+        "question": "COD confirm huncha ki nai?",
+        "context": "Cash on Delivery option sabai location ma available chhaina.",
+        "response": "Tapai COD option confirm garna delivery details check garnuhos."
+    },
+    {
+        "question": "credit card le pay garna milcha?",
+        "context": "Hamro system debit ra credit card accept garxau.",
+        "response": "Tapai credit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "wallet bata online pay garna milcha?",
+        "context": "Hami esewa, khalti, ra aru wallets support garxau.",
+        "response": "Tapai esewa, khalti, ya aru digital wallets bata online payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa ma balance xa bhane pay garna milcha?",
+        "context": "Hamro platform esewa accept garxau.",
+        "response": "Tapai esewa ma balance cha bhane sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "COD use garna milcha?",
+        "context": "Cash on Delivery option location-wise available huncha.",
+        "response": "Tapai ko location ma COD available chha ki nai confirm garnuhos."
+    },
+    {
+        "question": "khalti le payment confirm huncha?",
+        "context": "Hamro system khalti bata payment accept garxau.",
+        "response": "Tapai khalti le sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option xa bhane cash payment garna milcha?",
+        "context": "Cash on Delivery ko bela cash accept huncha.",
+        "response": "Tapai COD option select gareko xa bhane cash ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa bata kasto payment process huncha?",
+        "context": "Hamro system esewa payment accept garxau.",
+        "response": "Tapai esewa ko account bata direct payment garna saknu hunxa."
+    },
+    {
+        "question": "digital wallet le pay garna easy huncha?",
+        "context": "Hami esewa ra khalti jasta digital wallets accept garxau.",
+        "response": "Tapai esewa ya khalti jasta digital wallets bata easy payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun option le payment garna milcha?",
+        "context": "Hami esewa, khalti, mobile banking, debit/credit card, ra COD options accept garxau.",
+        "response": "Tapai esewa, khalti, mobile banking, debit/credit card, wa COD ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "COD confirm kasari garne?",
+        "context": "Hamro COD option delivery area anusar available chha.",
+        "response": "Tapai COD option available chha ki nai, delivery details check garnuhos."
+    },
+    {
+        "question": "kun kun online wallet le pay garna milcha?",
+        "context": "Hami esewa ra khalti jasta online wallets accept garxau.",
+        "response": "Tapai esewa ya khalti bata online payment garna saknu hunxa."
+    },
+    {
+        "question": "COD ma cash tirna milcha?",
+        "context": "Hamro COD option cash payment ko lagi available chha.",
+        "response": "Tapai COD option ma cash tirna saknu hunxa."
+    },
+    {
+        "question": "mobile banking bata paisa tirna milcha?",
+        "context": "Hamro platform mobile banking bata payment support garxau.",
+        "response": "Tapai mobile banking bata paisa tirna saknu hunxa."
+    },
+    {
+        "question": "khalti bata paisa pay garna milcha?",
+        "context": "Hamro system khalti payment accept garxau.",
+        "response": "Tapai khalti bata paisa pay garna saknu hunxa."
+    },
+    {
+        "question": "esewa chha bhane payment kasari garne?",
+        "context": "Hamro system esewa payment support garxau.",
+        "response": "Tapai esewa chha bhane sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option kasari confirm garne?",
+        "context": "Hamro COD service location-wise available huncha.",
+        "response": "Tapai ko location ma COD chha ki nai website ko delivery details ma confirm garnuhos."
+    },
+    {
+        "question": "online payment garna kun kun wallet huncha?",
+        "context": "Hamro platform esewa, khalti, ra aru wallets accept garxau.",
+        "response": "Tapai esewa, khalti, wa aru online wallets bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD confirm xa bhane cash payment huncha?",
+        "context": "Hamro COD option cash ko lagi available chha.",
+        "response": "Tapai le cash payment COD select gareko xa bhane garna saknu hunxa."
+    },
+    {
+        "question": "kunai wallet le payment garna milcha?",
+        "context": "Hamro system esewa ra khalti jasta wallets accept garxau.",
+        "response": "Tapai le esewa ya khalti jasta wallet bata payment garna saknu hunxa."
+    },
+    {
+        "question": "debit card le pay garna milcha?",
+        "context": "Hamro platform debit ra credit card support garxau.",
+        "response": "Tapai debit card bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option confirm kasari garne?",
+        "context": "COD option delivery area ko basis ma available chha.",
+        "response": "Tapai ko area ma COD chha ki nai confirm garna website ko delivery options check garnuhos."
+    },
+    {
+        "question": "credit card bata payment garna milcha?",
+        "context": "Hamro system credit card accept garxau.",
+        "response": "Tapai credit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "wallet use garera online payment huncha?",
+        "context": "Hami esewa, khalti, ra aru popular wallets accept garxau.",
+        "response": "Tapai esewa ya khalti bata online payment garna saknu hunxa."
+    },
+    {
+        "question": "COD confirm huncha ki nai?",
+        "context": "Hamro COD option delivery location ko basis ma available chha.",
+        "response": "Tapai COD confirm garna ko lagi delivery details check garnuhos."
+    },
+    {
+        "question": "khalti accept huncha?",
+        "context": "Hamro platform khalti payment accept garxau.",
+        "response": "Tapai khalti bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD ma cash pay garna milcha?",
+        "context": "Hamro COD service cash payment support garxau.",
+        "response": "Tapai le COD select gareko xa bhane cash ma pay garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking le paisa transfer garna milcha?",
+        "context": "Hamro platform ma mobile banking le payment support garxau.",
+        "response": "Tapai mobile banking ko maddat le paisa transfer garna saknu hunxa."
+    },
+    {
+        "question": "kun kun digital wallet ma support xa?",
+        "context": "Hamro platform esewa ra khalti jasta digital wallets support garxau.",
+        "response": "Tapai esewa ya khalti bata payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa le payment confirm huncha?",
+        "context": "Hamro system esewa ko maddat le payment confirm garxau.",
+        "response": "Tapai esewa bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option le cash ma pay garna milcha?",
+        "context": "Cash on Delivery service ma cash payment ko lagi support chha.",
+        "response": "Tapai COD select gareko xa bhane cash ko maddat le pay garna saknu hunxa."
+    },
+    {
+        "question": "debit ya credit card accept huncha?",
+        "context": "Hamro platform debit ra credit card accept garxau.",
+        "response": "Tapai debit ya credit card bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD ko lagi cash dinu parcha?",
+        "context": "Hamro COD service ma cash payment ko lagi option available chha.",
+        "response": "Tapai COD ko lagi cash tirna saknu hunxa."
+    },
+    {
+        "question": "wallet ma esewa ko option chha?",
+        "context": "Hamro platform ma esewa payment accept huncha.",
+        "response": "Tapai esewa ko option le payment garna saknu hunxa."
+    },
+    {
+        "question": "khalti ko through payment huncha?",
+        "context": "Hamro system khalti ko maddat le payment support garxau.",
+        "response": "Tapai khalti bata payment garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking le online payment garna milcha?",
+        "context": "Hamro system mobile banking ko through payment support garxau.",
+        "response": "Tapai mobile banking bata online payment garna saknu hunxa."
+    },
+    {
+        "question": "debit card use garna milcha?",
+        "context": "Hamro platform debit card accept garxau.",
+        "response": "Tapai debit card le sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "khalti ma balance xa bhane payment garna milcha?",
+        "context": "Hamro system khalti ko payment accept garxau.",
+        "response": "Tapai khalti ma balance xa bhane sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "kun kun online payment ko lagi support xa?",
+        "context": "Hami esewa, khalti, debit/credit card, ra mobile banking accept garxau.",
+        "response": "Tapai esewa, khalti, debit/credit card, ya mobile banking bata online payment garna saknu hunxa."
+    },
+    {
+        "question": "cash payment ko lagi COD available chha?",
+        "context": "Hamro COD option cash payment ko lagi available huncha.",
+        "response": "Tapai cash payment COD select gareko xa bhane garna saknu hunxa."
+    },
+    {
+        "question": "esewa bata online payment garna milcha?",
+        "context": "Hamro platform esewa online payment ko lagi support garxau.",
+        "response": "Tapai esewa bata sajilo tarikale online payment garna saknu hunxa."
+    },
+    {
+        "question": "khalti ko through paisa tirna milcha?",
+        "context": "Hami khalti bata payment support garxau.",
+        "response": "Tapai khalti bata paisa tirna saknu hunxa."
+    },
+    {
+        "question": "mobile banking ko option xa?",
+        "context": "Hamro payment system mobile banking ko lagi support garxau.",
+        "response": "Tapai mobile banking ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option ma cash pay garna milcha?",
+        "context": "Hamro COD system ma cash payment ko lagi option available chha.",
+        "response": "Tapai COD ma cash pay garna saknu hunxa."
+    },
+    {
+        "question": "wallet bata payment garna milcha?",
+        "context": "Hami esewa ra khalti jasta wallet bata payment support garxau.",
+        "response": "Tapai wallet bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa accept huncha?",
+        "context": "Hamro system esewa payment accept garxau.",
+        "response": "Tapai le esewa bata payment garna saknu hunxa."
+    },
+    {
+        "question": "cash on delivery ko lagi cash dina milcha?",
+        "context": "COD ma cash ko maddat le payment garna milcha.",
+        "response": "Tapai cash on delivery ko lagi cash pay garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking le confirm payment huncha?",
+        "context": "Hamro platform ma mobile banking payment ko lagi available chha.",
+        "response": "Tapai mobile banking le payment confirm garna saknu hunxa."
+    },
+    {
+        "question": "COD service le cash ko through payment huncha?",
+        "context": "Hamro COD system ma cash payment ko lagi option available chha.",
+        "response": "Tapai COD ma cash ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa ma balance xa bhane payment huncha?",
+        "context": "Hamro system esewa ko payment support garxau.",
+        "response": "Tapai esewa ma balance xa bhane payment garna saknu hunxa."
+    },
+    {
+        "question": "wallet ko lagi khalti use garna milcha?",
+        "context": "Hamro platform khalti wallet accept garxau.",
+        "response": "Tapai khalti wallet le payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option confirm xa bhane cash le payment garna milcha?",
+        "context": "Hamro COD system ma cash payment ko lagi support chha.",
+        "response": "Tapai COD confirm xa bhane cash le payment garna saknu hunxa."
+    },
+    {
+        "question": "online payment ma esewa ko support chha?",
+        "context": "Hamro system online payment ko lagi esewa support garxau.",
+        "response": "Tapai online payment ma esewa use garna saknu hunxa."
+    },
+    {
+        "question": "esewa ko maddat le pay garna milcha?",
+        "context": "Hamro payment system esewa le payment support garxau.",
+        "response": "Tapai esewa ko maddat le sajilo tarikale pay garna saknu hunxa."
+    },
+    {
+        "question": "COD confirm garna kasari garne?",
+        "context": "Hamro COD service location-wise available huncha.",
+        "response": "Tapai le afno delivery address check gari COD confirm garna saknu hunxa."
+    },
+    {
+        "question": "debit card ko maddat le payment garna milcha?",
+        "context": "Hamro platform debit card support garxau.",
+        "response": "Tapai debit card ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "cash payment ko lagi COD available chha?",
+        "context": "Hamro COD option cash payment ko lagi available chha.",
+        "response": "Tapai ko delivery area ma COD available chha bhane cash payment garna saknu hunxa."
+    },
+    {
+        "question": "COD ma cash tirna milcha?",
+        "context": "Hamro COD service cash payment support garxau.",
+        "response": "Tapai COD select gareko chha bhane cash tirna milcha."
+    },
+    {
+        "question": "online wallet ko lagi kun kun option huncha?",
+        "context": "Hami esewa, khalti ra aru wallets accept garxau.",
+        "response": "Tapai esewa, khalti ya aru wallet bata online payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option ko lagi cash dinu parcha?",
+        "context": "Hamro COD service cash ko through payment ko lagi support garxau.",
+        "response": "Tapai le COD ko lagi cash tirna saknu hunxa."
+    },
+    {
+        "question": "credit card bata payment garna milcha?",
+        "context": "Hamro system credit card support garxau.",
+        "response": "Tapai le credit card bata sajilo tarikale payment garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking le paisa transfer garna milcha?",
+        "context": "Hamro system mobile banking le payment ko lagi support garxau.",
+        "response": "Tapai mobile banking le paisa transfer garna saknu hunxa."
+    },
+    {
+        "question": "khalti wallet le online payment huncha?",
+        "context": "Hami khalti wallet bata online payment accept garxau.",
+        "response": "Tapai khalti wallet bata online payment garna saknu hunxa."
+    },
+    {
+        "question": "COD ma cash ma payment confirm huncha?",
+        "context": "Hamro COD service ma cash ko through payment confirm garna milcha.",
+        "response": "Tapai COD ma cash ko through payment confirm garna saknu hunxa."
+    },
+    {
+        "question": "wallet le online pay garna milcha?",
+        "context": "Hamro platform esewa ra khalti jasta wallet accept garxau.",
+        "response": "Tapai wallet bata online pay garna saknu hunxa."
+    },
+    {
+        "question": "mobile banking ko maddat le payment huncha?",
+        "context": "Hami mobile banking ko lagi payment support garxau.",
+        "response": "Tapai mobile banking ko maddat le payment garna saknu hunxa."
+    },
+    {
+        "question": "esewa use garera paisa tirna milcha?",
+        "context": "Hamro platform esewa payment ko lagi available chha.",
+        "response": "Tapai esewa bata sajilo tarikale paisa tirna saknu hunxa."
+    },
+    {
+        "question": "COD ma cash le pay garna milcha?",
+        "context": "Hamro COD service ma cash payment available chha.",
+        "response": "Tapai le COD ma cash le pay garna saknu hunxa."
+    },
+    {
+        "question": "online wallet le payment huncha?",
+        "context": "Hamro system esewa ra khalti jasta online wallets accept garxau.",
+        "response": "Tapai online wallet bata payment garna saknu hunxa."
+    },
+    {
+        "question": "COD option kasari check garne?",
+        "context": "Hamro COD option location-wise available huncha.",
+        "response": "Tapai le website ma afno location check garera COD confirm garna saknu hunxa."
+    }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "question": "Store ko location kaha xa?",
+        "context": "Hamro store ko name [XYZ] ho, hamro store Kathmandu ma xa, Putalisadak ma.",
+        "response": "Hamro store Kathmandu ma xa, Putalisadak ma."
+    },
+    {
+        "question": "Product ko price kati ho?",
+        "context": "Product ABC ko price NPR 1500 ho.",
+        "response": "Product ABC ko price NPR 1500 ho."
+    },
+    {
+        "question": "Delivery option haru k k xan?",
+        "context": "Hamro ecommerce ma delivery option haru ma home delivery ra pickup option xa.",
+        "response": "Hamro ecommerce ma home delivery ra pickup option xa."
+    },
+    {
+        "question": "Payment method k k xan?",
+        "context": "Hamile accept garne payment method haru ma COD, credit card, ra mobile banking xan.",
+        "response": "Hamile COD, credit card, ra mobile banking accept garxau."
+    },
+    {
+        "question": "Discount ko offer k xa?",
+        "context": "Aile hamro ecommerce ma 10% discount ko offer chalirako xa.",
+        "response": "Aile 10% discount ko offer chalirako xa."
+    },
+    {
+        "question": "Product return garna milxa?",
+        "context": "Product return garna milxa, tara 7 days vitra return garnu parxa ra product unused condition ma hunu parxa.",
+        "response": "Hajur, product return garna milxa, 7 days vitra unused condition ma."
+    },
+    {
+        "question": "Order cancel garna milxa?",
+        "context": "Order cancel garna milxa, tara shipment process start vaisakyo bhane cancel garna mildaina.",
+        "response": "Order shipment process start vaisakyo bhane cancel garna mildaina, aru bela milxa."
+    },
+    {
+        "question": "Product ko warranty kati din ko xa?",
+        "context": "Product DEF ko warranty 1 year ko xa.",
+        "response": "Product DEF ko warranty 1 year ko xa."
+    },
+    {
+        "question": "Order status k xa?",
+        "context": "Tapai ko order shipped vaisakyo xa, tracking number 12345 ho.",
+        "response": "Tapai ko order shipped vaisakyo xa, tracking number 12345 ho."
+    },
+    {
+        "question": "International delivery garna milxa?",
+        "context": "Hajur, hamro ecommerce bata international delivery garna milxa.",
+        "response": "Hajur, international delivery garna milxa."
+    },
+    {
+        "question": "Store ko name k ho ra kaha xa?",
+        "context": "Hamro store ko name [XYZ Store] ho, hamro store Kathmandu ma xa, Putalisadak ma. Hamro contact number 01-1234567 ho.",
+        "response": "Hamro store ko name [XYZ Store] ho, Kathmandu, Putalisadak ma xa. Contact number: 01-1234567."
+    },
+    {
+        "question": "Store ko location ra contact number k ho?",
+        "context": "Hamro store ko name [ABC Mart] ho, hamro store Pokhara ma xa, Lakeside ma. Hamro contact number 061-987654 ho.",
+        "response": "Hamro store Pokhara, Lakeside ma xa. Contact number: 061-987654."
+    },
+    {
+        "question": "Store kaha xa ra kasari contact garna milxa?",
+        "context": "Hamro store ko name [PQR Shop] ho, hamro store Biratnagar ma xa, Roadway Chowk ma. Hamro contact number 021-456789 ho.",
+        "response": "Hamro store Biratnagar, Roadway Chowk ma xa. Contact number: 021-456789."
+    },
+    {
+        "question": "Store ko address ra phone number k ho?",
+        "context": "Hamro store ko name [MNO Outlet] ho, hamro store Lalitpur ma xa, Jawalakhel ma. Hamro contact number 01-7654321 ho.",
+        "response": "Hamro store Lalitpur, Jawalakhel ma xa. Contact number: 01-7654321."
+    },
+    {
+        "question": "Store ko location ra contact details k xa?",
+        "context": "Hamro store ko name [EFG Supermarket] ho, hamro store Bhaktapur ma xa, Durbar Square najik. Hamro contact number 01-2345678 ho.",
+        "response": "Hamro store Bhaktapur, Durbar Square najik xa. Contact number: 01-2345678."
+    },
+    {
+        "question": "Store kaha xa ra kasari sampark garna sakinxa?",
+        "context": "Hamro store ko name [RST Fashion] ho, hamro store Chitwan ma xa, Narayangarh ma. Hamro contact number 056-123456 ho.",
+        "response": "Hamro store Chitwan, Narayangarh ma xa. Contact number: 056-123456."
+    },
+    {
+        "question": "Store ko name ra location k ho?",
+        "context": "Hamro store ko name [UVW Electronics] ho, hamro store Dharan ma xa, Bhanu Chowk ma. Hamro contact number 025-654321 ho.",
+        "response": "Hamro store ko name [UVW Electronics] ho, Dharan, Bhanu Chowk ma xa. Contact number: 025-654321."
+    },
+    {
+        "question": "Store ko address ra phone number k xa?",
+        "context": "Hamro store ko name [HIJ Grocery] ho, hamro store Butwal ma xa, Traffic Chowk ma. Hamro contact number 071-123789 ho.",
+        "response": "Hamro store Butwal, Traffic Chowk ma xa. Contact number: 071-123789."
+    },
+    {
+        "question": "Store ko location ra contact k ho?",
+        "context": "Hamro store ko name [KLM Furniture] ho, hamro store Hetauda ma xa, Main Road ma. Hamro contact number 057-987123 ho.",
+        "response": "Hamro store Hetauda, Main Road ma xa. Contact number: 057-987123."
+    },
+    {
+        "question": "Store kaha xa ra kasari contact garna sakinxa?",
+        "context": "Hamro store ko name [NOP Bakery] ho, hamro store Dhangadhi ma xa, Ghodaghodi Chowk ma. Hamro contact number 091-456123 ho.",
+        "response": "Hamro store Dhangadhi, Ghodaghodi Chowk ma xa. Contact number: 091-456123."
+    },
+    {
+        "question": "Store ko contact number k ho?",
+        "context": "Hamro store ko name [XYZ Store] ho, hamro store Kathmandu ma xa, Putalisadak ma. Hamro contact number 01-1234567 ho.",
+        "response": "Hamro contact number 01-1234567 ho."
+    },
+    {
+        "question": "Store lai kasari contact garna milxa?",
+        "context": "Hamro store ko name [ABC Mart] ho, hamro store Pokhara ma xa, Lakeside ma. Hamro contact number 061-987654 ho.",
+        "response": "Hamro contact number 061-987654 ho."
+    },
+    {
+        "question": "Store ko phone number k ho?",
+        "context": "Hamro store ko name [PQR Shop] ho, hamro store Biratnagar ma xa, Roadway Chowk ma. Hamro contact number 021-456789 ho.",
+        "response": "Hamro contact number 021-456789 ho."
+    },
+    {
+        "question": "Store lai call garna ko number k ho?",
+        "context": "Hamro store ko name [MNO Outlet] ho, hamro store Lalitpur ma xa, Jawalakhel ma. Hamro contact number 01-7654321 ho.",
+        "response": "Hamro contact number 01-7654321 ho."
+    },
+    {
+        "question": "Store ko contact details k xa?",
+        "context": "Hamro store ko name [EFG Supermarket] ho, hamro store Bhaktapur ma xa, Durbar Square najik. Hamro contact number 01-2345678 ho.",
+        "response": "Hamro contact number 01-2345678 ho."
+    },
+    {
+        "question": "Store ko phone number k xa?",
+        "context": "Hamro store ko name [RST Fashion] ho, hamro store Chitwan ma xa, Narayangarh ma. Hamro contact number 056-123456 ho.",
+        "response": "Hamro contact number 056-123456 ho."
+    },
+    {
+        "question": "Store lai kasari sampark garna milxa?",
+        "context": "Hamro store ko name [UVW Electronics] ho, hamro store Dharan ma xa, Bhanu Chowk ma. Hamro contact number 025-654321 ho.",
+        "response": "Hamro contact number 025-654321 ho."
+    },
+    {
+        "question": "Store ko contact k ho?",
+        "context": "Hamro store ko name [HIJ Grocery] ho, hamro store Butwal ma xa, Traffic Chowk ma. Hamro contact number 071-123789 ho.",
+        "response": "Hamro contact number 071-123789 ho."
+    },
+    {
+        "question": "Store ko phone number k ho?",
+        "context": "Hamro store ko name [KLM Furniture] ho, hamro store Hetauda ma xa, Main Road ma. Hamro contact number 057-987123 ho.",
+        "response": "Hamro contact number 057-987123 ho."
+    },
+    {
+        "question": "Store lai call garna ko number k xa?",
+        "context": "Hamro store ko name [NOP Bakery] ho, hamro store Dhangadhi ma xa, Ghodaghodi Chowk ma. Hamro contact number 091-456123 ho.",
+        "response": "Hamro contact number 091-456123 ho."
+    },
+    {
+        "question": "Store ko number k ho?",
+        "context": "Hamro store ko name [XYZ Store] ho, hamro store Kathmandu ma xa, Putalisadak ma. Hamro contact number 01-1234567 ho.",
+        "response": "Hamro contact number 01-1234567 ho."
+    },
+    {
+        "question": "Maile store lai kasari call garna sakxu?",
+        "context": "Hamro store ko name [ABC Mart] ho, hamro store Pokhara ma xa, Lakeside ma. Hamro contact number 061-987654 ho.",
+        "response": "Hamro contact number 061-987654 ho."
+    },
+    {
+        "question": "Store ko phone k ho?",
+        "context": "Hamro store ko name [PQR Shop] ho, hamro store Biratnagar ma xa, Roadway Chowk ma. Hamro contact number 021-456789 ho.",
+        "response": "Hamro contact number 021-456789 ho."
+    },
+    {
+        "question": "Store lai phone garna ko number k xa?",
+        "context": "Hamro store ko name [MNO Outlet] ho, hamro store Lalitpur ma xa, Jawalakhel ma. Hamro contact number 01-7654321 ho.",
+        "response": "Hamro contact number 01-7654321 ho."
+    },
+    {
+        "question": "Store ko contact ma k xa?",
+        "context": "Hamro store ko name [EFG Supermarket] ho, hamro store Bhaktapur ma xa, Durbar Square najik. Hamro contact number 01-2345678 ho.",
+        "response": "Hamro contact number 01-2345678 ho."
+    },
+    {
+        "question": "Store lai kasari phone garna milxa?",
+        "context": "Hamro store ko name [RST Fashion] ho, hamro store Chitwan ma xa, Narayangarh ma. Hamro contact number 056-123456 ho.",
+        "response": "Hamro contact number 056-123456 ho."
+    },
+    {
+        "question": "Store ko phone number k xa?",
+        "context": "Hamro store ko name [UVW Electronics] ho, hamro store Dharan ma xa, Bhanu Chowk ma. Hamro contact number 025-654321 ho.",
+        "response": "Hamro contact number 025-654321 ho."
+    },
+    {
+        "question": "Store lai call garna ko contact k ho?",
+        "context": "Hamro store ko name [HIJ Grocery] ho, hamro store Butwal ma xa, Traffic Chowk ma. Hamro contact number 071-123789 ho.",
+        "response": "Hamro contact number 071-123789 ho."
+    },
+    {
+        "question": "Store ko phone garna ko number k ho?",
+        "context": "Hamro store ko name [KLM Furniture] ho, hamro store Hetauda ma xa, Main Road ma. Hamro contact number 057-987123 ho.",
+        "response": "Hamro contact number 057-987123 ho."
+    },
+    {
+        "question": "Store lai sampark garna ko number k xa?",
+        "context": "Hamro store ko name [NOP Bakery] ho, hamro store Dhangadhi ma xa, Ghodaghodi Chowk ma. Hamro contact number 091-456123 ho.",
+        "response": "Hamro contact number 091-456123 ho."
+    },
+    {
+        "question": "Store ko contact info k xa?",
+        "context": "Hamro store ko name [QRS Tech] ho, hamro store Itahari ma xa, BP Chowk ma. Hamro contact number 025-123789 ho.",
+        "response": "Hamro contact number 025-123789 ho."
+    },
+    {
+        "question": "Store lai phone garna ko details k xa?",
+        "context": "Hamro store ko name [TUV Mart] ho, hamro store Nepalgunj ma xa, Birendra Chowk ma. Hamro contact number 081-456789 ho.",
+        "response": "Hamro contact number 081-456789 ho."
+    },
+    {
+        "question": "Store ko call garna ko number k ho?",
+        "context": "Hamro store ko name [WXY Shop] ho, hamro store Dhankuta ma xa, Bazaar area ma. Hamro contact number 026-987654 ho.",
+        "response": "Hamro contact number 026-987654 ho."
+    },
+    {
+        "question": "Store ko phone number kati ho?",
+        "context": "Hamro store ko name [ZAB Outlet] ho, hamro store Janakpur ma xa, Ramananda Chowk ma. Hamro contact number 041-123456 ho.",
+        "response": "Hamro contact number 041-123456 ho."
+    },
+    {
+        "question": "Store lai kasari call garna sakinxa?",
+        "context": "Hamro store ko name [CDE Superstore] ho, hamro store Birgunj ma xa, Ghantaghar ma. Hamro contact number 051-654321 ho.",
+        "response": "Hamro contact number 051-654321 ho."
+    },
+    {
+        "question": "Store ko contact k ho?",
+        "context": "Hamro store ko name [XYZ Store] ho, hamro store Kathmandu ma xa, Putalisadak ma. Hamro contact number 01-1234567 ho.",
+        "response": "Hamro contact number 01-1234567 ho."
+    },
+    {
+        "question": "Store lai phone garna ko number k xa?",
+        "context": "Hamro store ko name [ABC Mart] ho, hamro store Pokhara ma xa, Lakeside ma. Hamro contact number 061-987654 ho.",
+        "response": "Hamro contact number 061-987654 ho."
+    },
+    {
+        "question": "Store ko phone number k ho?",
+        "context": "Hamro store ko name [PQR Shop] ho, hamro store Biratnagar ma xa, Roadway Chowk ma. Hamro contact number 021-456789 ho.",
+        "response": "Hamro contact number 021-456789 ho."
+    },
+    {
+        "question": "Store lai kasari call garna milxa?",
+        "context": "Hamro store ko name [MNO Outlet] ho, hamro store Lalitpur ma xa, Jawalakhel ma. Hamro contact number 01-7654321 ho.",
+        "response": "Hamro contact number 01-7654321 ho."
+    },
+    {
+        "question": "Store ko phone garna ko number k xa?",
+        "context": "Hamro store ko name [EFG Supermarket] ho, hamro store Bhaktapur ma xa, Durbar Square najik. Hamro contact number 01-2345678 ho.",
+        "response": "Hamro contact number 01-2345678 ho."
+    },
+    {
+        "question": "Store ko contact details k xa?",
+        "context": "Hamro store ko name [RST Fashion] ho, hamro store Chitwan ma xa, Narayangarh ma. Hamro contact number 056-123456 ho.",
+        "response": "Hamro contact number 056-123456 ho."
+    },
+    {
+        "question": "Store lai call garna ko number k ho?",
+        "context": "Hamro store ko name [UVW Electronics] ho, hamro store Dharan ma xa, Bhanu Chowk ma. Hamro contact number 025-654321 ho.",
+        "response": "Hamro contact number 025-654321 ho."
+    },
+    {
+        "question": "Store ko phone number kati ho?",
+        "context": "Hamro store ko name [HIJ Grocery] ho, hamro store Butwal ma xa, Traffic Chowk ma. Hamro contact number 071-123789 ho.",
+        "response": "Hamro contact number 071-123789 ho."
+    },
+    {
+        "question": "Store lai kasari phone garna sakinxa?",
+        "context": "Hamro store ko name [KLM Furniture] ho, hamro store Hetauda ma xa, Main Road ma. Hamro contact number 057-987123 ho.",
+        "response": "Hamro contact number 057-987123 ho."
+    },
+    {
+        "question": "Store ko contact info k xa?",
+        "context": "Hamro store ko name [NOP Bakery] ho, hamro store Dhangadhi ma xa, Ghodaghodi Chowk ma. Hamro contact number 091-456123 ho.",
+        "response": "Hamro contact number 091-456123 ho."
+    },
+    {
+        "question": "Store ko phone garna ko details k xa?",
+        "context": "Hamro store ko name [QRS Tech] ho, hamro store Itahari ma xa, BP Chowk ma. Hamro contact number 025-123789 ho.",
+        "response": "Hamro contact number 025-123789 ho."
+    },
+    {
+        "question": "Store lai call garna ko contact k ho?",
+        "context": "Hamro store ko name [TUV Mart] ho, hamro store Nepalgunj ma xa, Birendra Chowk ma. Hamro contact number 081-456789 ho.",
+        "response": "Hamro contact number 081-456789 ho."
+    },
+    {
+        "question": "Store ko phone number k xa?",
+        "context": "Hamro store ko name [WXY Shop] ho, hamro store Dhankuta ma xa, Bazaar area ma. Hamro contact number 026-987654 ho.",
+        "response": "Hamro contact number 026-987654 ho."
+    },
+    {
+        "question": "Store lai kasari sampark garna milxa?",
+        "context": "Hamro store ko name [ZAB Outlet] ho, hamro store Janakpur ma xa, Ramananda Chowk ma. Hamro contact number 041-123456 ho.",
+        "response": "Hamro contact number 041-123456 ho."
+    },
+    {
+        "question": "Store ko contact number k ho?",
+        "context": "Hamro store ko name [CDE Superstore] ho, hamro store Birgunj ma xa, Ghantaghar ma. Hamro contact number 051-654321 ho.",
+        "response": "Hamro contact number 051-654321 ho."
+    },
+    {
+        "question": "Store ko phone garna ko number k ho?",
+        "context": "Hamro store ko name [FGH Mart] ho, hamro store Dhading ma xa, Dhading Besi ma. Hamro contact number 010-123456 ho.",
+        "response": "Hamro contact number 010-123456 ho."
+    },
+    {
+        "question": "Store lai call garna ko number k xa?",
+        "context": "Hamro store ko name [IJK Store] ho, hamro store Kavre ma xa, Banepa ma. Hamro contact number 011-987654 ho.",
+        "response": "Hamro contact number 011-987654 ho."
+    },
+    {
+        "question": "Store ko contact k xa?",
+        "context": "Hamro store ko name [LMN Shop] ho, hamro store Sindhuli ma xa, Kamalamai ma. Hamro contact number 047-123789 ho.",
+        "response": "Hamro contact number 047-123789 ho."
+    },
+    {
+        "question": "Store ko phone number k ho?",
+        "context": "Hamro store ko name [OPQ Mart] ho, hamro store Gorkha ma xa, Prithvi Chowk ma. Hamro contact number 064-456123 ho.",
+        "response": "Hamro contact number 064-456123 ho."
+    },
+    {
+        "question": "Store lai kasari phone garna milxa?",
+        "context": "Hamro store ko name [RST Store] ho, hamro store Nuwakot ma xa, Bidur ma. Hamro contact number 010-654789 ho.",
+        "response": "Hamro contact number 010-654789 ho."
+    },
+    {
+        "question": "Store ko contact number k xa?",
+        "context": "Hamro store ko name [UVW Mart] ho, hamro store Syangja ma xa, Waling ma. Hamro contact number 063-123456 ho.",
+        "response": "Hamro contact number 063-123456 ho."
+    },
+    {
+        "question": "Store ko contact number k ho?",
+        "context": "Hamro store ko name [Green Valley Mart] ho, hamro store Kathmandu ma xa, New Road ma. Hamro contact number 01-1122334 ho.",
+        "response": "Hamro contact number 01-1122334 ho."
+    },
+    {
+        "question": "Store lai kasari call garna milxa?",
+        "context": "Hamro store ko name [Blue Sky Shop] ho, hamro store Pokhara ma xa, Lakeside ma. Hamro contact number 061-9988776 ho.",
+        "response": "Hamro contact number 061-9988776 ho."
+    },
+    {
+        "question": "Store ko phone number k ho?",
+        "context": "Hamro store ko name [Golden Leaf Store] ho, hamro store Biratnagar ma xa, Roadway Chowk ma. Hamro contact number 021-3344556 ho.",
+        "response": "Hamro contact number 021-3344556 ho."
+    },
+    {
+        "question": "Store lai phone garna ko number k xa?",
+        "context": "Hamro store ko name [Sunrise Mart] ho, hamro store Lalitpur ma xa, Jawalakhel ma. Hamro contact number 01-5566778 ho.",
+        "response": "Hamro contact number 01-5566778 ho."
+    },
+    {
+        "question": "Store ko contact details k xa?",
+        "context": "Hamro store ko name [Mountain View Shop] ho, hamro store Bhaktapur ma xa, Durbar Square najik. Hamro contact number 01-7788990 ho.",
+        "response": "Hamro contact number 01-7788990 ho."
+    },
+    {
+        "question": "Store lai kasari phone garna milxa?",
+        "context": "Hamro store ko name [River Side Store] ho, hamro store Chitwan ma xa, Narayangarh ma. Hamro contact number 056-1122334 ho.",
+        "response": "Hamro contact number 056-1122334 ho."
+    },
+    {
+        "question": "Store ko phone number k xa?",
+        "context": "Hamro store ko name [Evergreen Mart] ho, hamro store Dharan ma xa, Bhanu Chowk ma. Hamro contact number 025-4455667 ho.",
+        "response": "Hamro contact number 025-4455667 ho."
+    },
+    {
+        "question": "Store lai call garna ko number k ho?",
+        "context": "Hamro store ko name [Happy Day Shop] ho, hamro store Butwal ma xa, Traffic Chowk ma. Hamro contact number 071-3344556 ho.",
+        "response": "Hamro contact number 071-3344556 ho."
+    },
+    {
+        "question": "Store ko phone garna ko number k xa?",
+        "context": "Hamro store ko name [City Light Store] ho, hamro store Hetauda ma xa, Main Road ma. Hamro contact number 057-5566778 ho.",
+        "response": "Hamro contact number 057-5566778 ho."
+    },
+    {
+        "question": "Store lai sampark garna ko number k xa?",
+        "context": "Hamro store ko name [Fresh Mart] ho, hamro store Dhangadhi ma xa, Ghodaghodi Chowk ma. Hamro contact number 091-7788990 ho.",
+        "response": "Hamro contact number 091-7788990 ho."
+    },
+    {
+        "question": "Store ko contact info k xa?",
+        "context": "Hamro store ko name [Dreamland Shop] ho, hamro store Itahari ma xa, BP Chowk ma. Hamro contact number 025-1122334 ho.",
+        "response": "Hamro contact number 025-1122334 ho."
+    },
+    {
+        "question": "Store ko phone garna ko details k xa?",
+        "context": "Hamro store ko name [Star Mart] ho, hamro store Nepalgunj ma xa, Birendra Chowk ma. Hamro contact number 081-9988776 ho.",
+        "response": "Hamro contact number 081-9988776 ho."
+    },
+    {
+        "question": "Store ko call garna ko number k ho?",
+        "context": "Hamro store ko name [Ocean View Store] ho, hamro store Dhankuta ma xa, Bazaar area ma. Hamro contact number 026-3344556 ho.",
+        "response": "Hamro contact number 026-3344556 ho."
+    },
+    {
+        "question": "Store ko phone number kati ho?",
+        "context": "Hamro store ko name [Green Hills Mart] ho, hamro store Janakpur ma xa, Ramananda Chowk ma. Hamro contact number 041-5566778 ho.",
+        "response": "Hamro contact number 041-5566778 ho."
+    },
+    {
+        "question": "Store lai kasari call garna sakinxa?",
+        "context": "Hamro store ko name [Bright Star Shop] ho, hamro store Birgunj ma xa, Ghantaghar ma. Hamro contact number 051-7788990 ho.",
+        "response": "Hamro contact number 051-7788990 ho."
+    },
+    {
+        "question": "Store ko phone garna ko number k ho?",
+        "context": "Hamro store ko name [Sunny Side Mart] ho, hamro store Dhading ma xa, Dhading Besi ma. Hamro contact number 010-1122334 ho.",
+        "response": "Hamro contact number 010-1122334 ho."
+    },
+    {
+        "question": "Store lai call garna ko number k xa?",
+        "context": "Hamro store ko name [Blue Moon Store] ho, hamro store Kavre ma xa, Banepa ma. Hamro contact number 011-9988776 ho.",
+        "response": "Hamro contact number 011-9988776 ho."
+    },
+    {
+        "question": "Store ko contact k xa?",
+        "context": "Hamro store ko name [Silver Leaf Shop] ho, hamro store Sindhuli ma xa, Kamalamai ma. Hamro contact number 047-3344556 ho.",
+        "response": "Hamro contact number 047-3344556 ho."
+    },
+    {
+        "question": "Store ko phone number k ho?",
+        "context": "Hamro store ko name [Golden Peak Mart] ho, hamro store Gorkha ma xa, Prithvi Chowk ma. Hamro contact number 064-5566778 ho.",
+        "response": "Hamro contact number 064-5566778 ho."
+    },
+    {
+        "question": "Store lai kasari phone garna milxa?",
+        "context": "Hamro store ko name [Happy Valley Store] ho, hamro store Nuwakot ma xa, Bidur ma. Hamro contact number 010-7788990 ho.",
+        "response": "Hamro contact number 010-7788990 ho."
+    },
+    {
+        "question": "Store ko contact number k xa?",
+        "context": "Hamro store ko name [Sunset Mart] ho, hamro store Syangja ma xa, Waling ma. Hamro contact number 063-1122334 ho.",
+        "response": "Hamro contact number 063-1122334 ho."
+    },
+    {
+        "question": "Store ko contact number k ho?",
+        "context": "Hamro store ko name [Green Valley Mart] ho, hamro store Kathmandu ma xa, New Road ma. Hamro contact number 01-1122334 ho ra email contact@greenvalley.com ho.",
+        "response": "Hamro contact number 01-1122334 ho."
+    },
+    {
+        "question": "Store ko email k ho?",
+        "context": "Hamro store ko name [Blue Sky Shop] ho, hamro store Pokhara ma xa, Lakeside ma. Hamro contact number 061-9988776 ho ra email info@bluesky.com ho.",
+        "response": "Hamro email info@bluesky.com ho."
+    },
+    {
+        "question": "Store ko phone number ra email k ho?",
+        "context": "Hamro store ko name [Golden Leaf Store] ho, hamro store Biratnagar ma xa, Roadway Chowk ma. Hamro contact number 021-3344556 ho ra email support@goldenleaf.com ho.",
+        "response": "Hamro contact number 021-3344556 ho ra email support@goldenleaf.com ho."
+    },
+    {
+        "question": "Store lai email kasari garna milxa?",
+        "context": "Hamro store ko name [Sunrise Mart] ho, hamro store Lalitpur ma xa, Jawalakhel ma. Hamro contact number 01-5566778 ho ra email contact@sunrise.com ho.",
+        "response": "Hamro email contact@sunrise.com ho."
+    },
+    {
+        "question": "Store ko contact details k xa?",
+        "context": "Hamro store ko name [Mountain View Shop] ho, hamro store Bhaktapur ma xa, Durbar Square najik. Hamro contact number 01-7788990 ho ra email info@mountainview.com ho.",
+        "response": "Hamro contact number 01-7788990 ho ra email info@mountainview.com ho."
+    },
+    {
+        "question": "Store ko email address k ho?",
+        "context": "Hamro store ko name [River Side Store] ho, hamro store Chitwan ma xa, Narayangarh ma. Hamro contact number 056-1122334 ho ra email support@riverside.com ho.",
+        "response": "Hamro email support@riverside.com ho."
+    },
+    {
+        "question": "Store ko phone number k xa?",
+        "context": "Hamro store ko name [Evergreen Mart] ho, hamro store Dharan ma xa, Bhanu Chowk ma. Hamro contact number 025-4455667 ho ra email contact@evergreen.com ho.",
+        "response": "Hamro contact number 025-4455667 ho."
+    },
+    {
+        "question": "Store lai email garna ko address k ho?",
+        "context": "Hamro store ko name [Happy Day Shop] ho, hamro store Butwal ma xa, Traffic Chowk ma. Hamro contact number 071-3344556 ho ra email info@happyday.com ho.",
+        "response": "Hamro email info@happyday.com ho."
+    },
+    {
+        "question": "Store ko phone ra email k ho?",
+        "context": "Hamro store ko name [City Light Store] ho, hamro store Hetauda ma xa, Main Road ma. Hamro contact number 057-5566778 ho ra email support@citylight.com ho.",
+        "response": "Hamro contact number 057-5566778 ho ra email support@citylight.com ho."
+    },
+    {
+        "question": "Store ko email k xa?",
+        "context": "Hamro store ko name [Fresh Mart] ho, hamro store Dhangadhi ma xa, Ghodaghodi Chowk ma. Hamro contact number 091-7788990 ho ra email contact@freshmart.com ho.",
+        "response": "Hamro email contact@freshmart.com ho."
+    },
+    {
+        "question": "Store ko contact number ra email k ho?",
+        "context": "Hamro store ko name [Dreamland Shop] ho, hamro store Itahari ma xa, BP Chowk ma. Hamro contact number 025-1122334 ho ra email info@dreamland.com ho.",
+        "response": "Hamro contact number 025-1122334 ho ra email info@dreamland.com ho."
+    },
+    {
+        "question": "Store ko email kasari pathaune?",
+        "context": "Hamro store ko name [Star Mart] ho, hamro store Nepalgunj ma xa, Birendra Chowk ma. Hamro contact number 081-9988776 ho ra email support@starmart.com ho.",
+        "response": "Hamro email support@starmart.com ho."
+    },
+    {
+        "question": "Store ko phone number k ho?",
+        "context": "Hamro store ko name [Ocean View Store] ho, hamro store Dhankuta ma xa, Bazaar area ma. Hamro contact number 026-3344556 ho ra email contact@oceanview.com ho.",
+        "response": "Hamro contact number 026-3344556 ho."
+    },
+    {
+        "question": "Store ko email address k xa?",
+        "context": "Hamro store ko name [Green Hills Mart] ho, hamro store Janakpur ma xa, Ramananda Chowk ma. Hamro contact number 041-5566778 ho ra email info@greenhills.com ho.",
+        "response": "Hamro email info@greenhills.com ho."
+    },
+    {
+        "question": "Store ko contact details k xa?",
+        "context": "Hamro store ko name [Bright Star Shop] ho, hamro store Birgunj ma xa, Ghantaghar ma. Hamro contact number 051-7788990 ho ra email support@brightstar.com ho.",
+        "response": "Hamro contact number 051-7788990 ho ra email support@brightstar.com ho."
+    },
+    {
+        "question": "Store ko email k ho?",
+        "context": "Hamro store ko name [Sunny Side Mart] ho, hamro store Dhading ma xa, Dhading Besi ma. Hamro contact number 010-1122334 ho ra email contact@sunnyside.com ho.",
+        "response": "Hamro email contact@sunnyside.com ho."
+    },
+    {
+        "question": "Store ko phone number ra email k xa?",
+        "context": "Hamro store ko name [Blue Moon Store] ho, hamro store Kavre ma xa, Banepa ma. Hamro contact number 011-9988776 ho ra email info@bluemoon.com ho.",
+        "response": "Hamro contact number 011-9988776 ho ra email info@bluemoon.com ho."
+    },
+    {
+        "question": "Store ko email kasari garna milxa?",
+        "context": "Hamro store ko name [Silver Leaf Shop] ho, hamro store Sindhuli ma xa, Kamalamai ma. Hamro contact number 047-3344556 ho ra email support@silverleaf.com ho.",
+        "response": "Hamro email support@silverleaf.com ho."
+    },
+    {
+        "question": "Store ko contact number k ho?",
+        "context": "Hamro store ko name [Golden Peak Mart] ho, hamro store Gorkha ma xa, Prithvi Chowk ma. Hamro contact number 064-5566778 ho ra email contact@goldenpeak.com ho.",
+        "response": "Hamro contact number 064-5566778 ho."
+    },
+    {
+        "question": "Store ko email k xa?",
+        "context": "Hamro store ko name [Happy Valley Store] ho, hamro store Nuwakot ma xa, Bidur ma. Hamro contact number 010-7788990 ho ra email info@happyvalley.com ho.",
+        "response": "Hamro email info@happyvalley.com ho."
+    },
+    {
+        "question": "Store ko phone ra email k ho?",
+        "context": "Hamro store ko name [Sunset Mart] ho, hamro store Syangja ma xa, Waling ma. Hamro contact number 063-1122334 ho ra email support@sunset.com ho.",
+        "response": "Hamro contact number 063-1122334 ho ra email support@sunset.com ho."
+    },
+    {
+        "question": "Store ko contact number k ho?",
+        "context": "Hamro store ko name [Green Valley Mart] ho, hamro store Kathmandu ma xa, New Road ma. Hamro contact number 01-1122334 ho ra email contact@greenvalley.com ho.",
+        "response": "Hamro contact number 01-1122334 ho."
+    },
+    {
+        "question": "Store ko email address k ho?",
+        "context": "Hamro store ko name [Blue Sky Shop] ho, hamro store Pokhara ma xa, Lakeside ma. Hamro contact number 061-9988776 ho ra email info@bluesky.com ho.",
+        "response": "Hamro email info@bluesky.com ho."
+    },
+    {
+        "question": "Store ko phone ra email k ho?",
+        "context": "Hamro store ko name [Golden Leaf Store] ho, hamro store Biratnagar ma xa, Roadway Chowk ma. Hamro contact number 021-3344556 ho ra email support@goldenleaf.com ho.",
+        "response": "Hamro contact number 021-3344556 ho ra email support@goldenleaf.com ho."
+    },
+    {
+        "question": "Store lai email kasari pathaune?",
+        "context": "Hamro store ko name [Sunrise Mart] ho, hamro store Lalitpur ma xa, Jawalakhel ma. Hamro contact number 01-5566778 ho ra email contact@sunrise.com ho.",
+        "response": "Hamro email contact@sunrise.com ho."
+    },
+    {
+        "question": "Store ko contact details k xa?",
+        "context": "Hamro store ko name [Mountain View Shop] ho, hamro store Bhaktapur ma xa, Durbar Square najik. Hamro contact number 01-7788990 ho ra email info@mountainview.com ho.",
+        "response": "Hamro contact number 01-7788990 ho ra email info@mountainview.com ho."
+    },
+    {
+        "question": "Store ko email k xa?",
+        "context": "Hamro store ko name [River Side Store] ho, hamro store Chitwan ma xa, Narayangarh ma. Hamro contact number 056-1122334 ho ra email support@riverside.com ho.",
+        "response": "Hamro email support@riverside.com ho."
+    },
+    {
+        "question": "Store ko phone number k xa?",
+        "context": "Hamro store ko name [Evergreen Mart] ho, hamro store Dharan ma xa, Bhanu Chowk ma. Hamro contact number 025-4455667 ho ra email contact@evergreen.com ho.",
+        "response": "Hamro contact number 025-4455667 ho."
+    },
+    {
+        "question": "Store lai email garna ko address k ho?",
+        "context": "Hamro store ko name [Happy Day Shop] ho, hamro store Butwal ma xa, Traffic Chowk ma. Hamro contact number 071-3344556 ho ra email info@happyday.com ho.",
+        "response": "Hamro email info@happyday.com ho."
+    },
+    {
+        "question": "Store ko phone ra email k ho?",
+        "context": "Hamro store ko name [City Light Store] ho, hamro store Hetauda ma xa, Main Road ma. Hamro contact number 057-5566778 ho ra email support@citylight.com ho.",
+        "response": "Hamro contact number 057-5566778 ho ra email support@citylight.com ho."
+    },
+    {
+        "question": "Store ko email k ho?",
+        "context": "Hamro store ko name [Fresh Mart] ho, hamro store Dhangadhi ma xa, Ghodaghodi Chowk ma. Hamro contact number 091-7788990 ho ra email contact@freshmart.com ho.",
+        "response": "Hamro email contact@freshmart.com ho."
+    },
+    {
+        "question": "Store ko contact number ra email k ho?",
+        "context": "Hamro store ko name [Dreamland Shop] ho, hamro store Itahari ma xa, BP Chowk ma. Hamro contact number 025-1122334 ho ra email info@dreamland.com ho.",
+        "response": "Hamro contact number 025-1122334 ho ra email info@dreamland.com ho."
+    },
+    {
+        "question": "Store ko email kasari pathaune?",
+        "context": "Hamro store ko name [Star Mart] ho, hamro store Nepalgunj ma xa, Birendra Chowk ma. Hamro contact number 081-9988776 ho ra email support@starmart.com ho.",
+        "response": "Hamro email support@starmart.com ho."
+    },
+    {
+        "question": "Store ko phone number k ho?",
+        "context": "Hamro store ko name [Ocean View Store] ho, hamro store Dhankuta ma xa, Bazaar area ma. Hamro contact number 026-3344556 ho ra email contact@oceanview.com ho.",
+        "response": "Hamro contact number 026-3344556 ho."
+    },
+    {
+        "question": "Store ko email address k xa?",
+        "context": "Hamro store ko name [Green Hills Mart] ho, hamro store Janakpur ma xa, Ramananda Chowk ma. Hamro contact number 041-5566778 ho ra email info@greenhills.com ho.",
+        "response": "Hamro email info@greenhills.com ho."
+    },
+    {
+        "question": "Store ko contact details k xa?",
+        "context": "Hamro store ko name [Bright Star Shop] ho, hamro store Birgunj ma xa, Ghantaghar ma. Hamro contact number 051-7788990 ho ra email support@brightstar.com ho.",
+        "response": "Hamro contact number 051-7788990 ho ra email support@brightstar.com ho."
+    },
+    {
+        "question": "Store ko email k ho?",
+        "context": "Hamro store ko name [Sunny Side Mart] ho, hamro store Dhading ma xa, Dhading Besi ma. Hamro contact number 010-1122334 ho ra email contact@sunnyside.com ho.",
+        "response": "Hamro email contact@sunnyside.com ho."
+    },
+    {
+        "question": "Store ko phone number ra email k xa?",
+        "context": "Hamro store ko name [Blue Moon Store] ho, hamro store Kavre ma xa, Banepa ma. Hamro contact number 011-9988776 ho ra email info@bluemoon.com ho.",
+        "response": "Hamro contact number 011-9988776 ho ra email info@bluemoon.com ho."
+    },
+    {
+        "question": "Store ko email kasari garna milxa?",
+        "context": "Hamro store ko name [Silver Leaf Shop] ho, hamro store Sindhuli ma xa, Kamalamai ma. Hamro contact number 047-3344556 ho ra email support@silverleaf.com ho.",
+        "response": "Hamro email support@silverleaf.com ho."
+    },
+    {
+        "question": "Store ko contact number k ho?",
+        "context": "Hamro store ko name [Golden Peak Mart] ho, hamro store Gorkha ma xa, Prithvi Chowk ma. Hamro contact number 064-5566778 ho ra email contact@goldenpeak.com ho.",
+        "response": "Hamro contact number 064-5566778 ho."
+    },
+    {
+        "question": "Store ko email k xa?",
+        "context": "Hamro store ko name [Happy Valley Store] ho, hamro store Nuwakot ma xa, Bidur ma. Hamro contact number 010-7788990 ho ra email info@happyvalley.com ho.",
+        "response": "Hamro email info@happyvalley.com ho."
+    },
+    {
+        "question": "Store ko phone ra email k ho?",
+        "context": "Hamro store ko name [Sunset Mart] ho, hamro store Syangja ma xa, Waling ma. Hamro contact number 063-1122334 ho ra email support@sunset.com ho.",
+        "response": "Hamro contact number 063-1122334 ho ra email support@sunset.com ho."
+    },
+    {
+        "question": "Store ko contact number k ho?",
+        "context": "Hamro store ko name [Pine Tree Mart] ho, hamro store Dharan ma xa, Bhanu Chowk ma. Hamro contact number 025-1234567 ho ra email info@pinemart.com ho.",
+        "response": "Hamro contact number 025-1234567 ho."
+    },
+    {
+        "question": "Store ko email address k ho?",
+        "context": "Hamro store ko name [Himalayan Bazaar] ho, hamro store Pokhara ma xa, Lakeside ma. Hamro contact number 061-9876543 ho ra email support@himalayanbazaar.com ho.",
+        "response": "Hamro email support@himalayanbazaar.com ho."
+    },
+    {
+        "question": "Store ko phone ra email k ho?",
+        "context": "Hamro store ko name [Valley Grocers] ho, hamro store Biratnagar ma xa, Roadway Chowk ma. Hamro contact number 021-4567890 ho ra email contact@valleygrocers.com ho.",
+        "response": "Hamro contact number 021-4567890 ho ra email contact@valleygrocers.com ho."
+    },
+    {
+        "question": "Store lai email kasari pathaune?",
+        "context": "Hamro store ko name [Everest Superstore] ho, hamro store Lalitpur ma xa, Jawalakhel ma. Hamro contact number 01-7654321 ho ra email info@everestsuperstore.com ho.",
+        "response": "Hamro email info@everestsuperstore.com ho."
+    },
+    {
+        "question": "Store ko contact details k xa?",
+        "context": "Hamro store ko name [Nepal Mart] ho, hamro store Bhaktapur ma xa, Durbar Square najik. Hamro contact number 01-2345678 ho ra email support@nepalmart.com ho.",
+        "response": "Hamro contact number 01-2345678 ho ra email support@nepalmart.com ho."
+    },
+    {
+        "question": "Store ko email k xa?",
+        "context": "Hamro store ko name [Annapurna Shop] ho, hamro store Chitwan ma xa, Narayangarh ma. Hamro contact number 056-1234567 ho ra email contact@annapurnashop.com ho.",
+        "response": "Hamro email contact@annapurnashop.com ho."
+    },
+    {
+        "question": "Store ko phone number k xa?",
+        "context": "Hamro store ko name [Gurkha Store] ho, hamro store Dharan ma xa, Bhanu Chowk ma. Hamro contact number 025-9876543 ho ra email info@gurkhastore.com ho.",
+        "response": "Hamro contact number 025-9876543 ho."
+    },
+    {
+        "question": "Store lai email garna ko address k ho?",
+        "context": "Hamro store ko name [Sagarmatha Mart] ho, hamro store Butwal ma xa, Traffic Chowk ma. Hamro contact number 071-1234567 ho ra email support@sagarmathamart.com ho.",
+        "response": "Hamro email support@sagarmathamart.com ho."
+    },
+    {
+        "question": "Store ko phone ra email k ho?",
+        "context": "Hamro store ko name [Lumbini Shop] ho, hamro store Hetauda ma xa, Main Road ma. Hamro contact number 057-9876543 ho ra email contact@lumbinishop.com ho.",
+        "response": "Hamro contact number 057-9876543 ho ra email contact@lumbinishop.com ho."
+    }
+]
