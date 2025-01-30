@@ -18,3 +18,6 @@ This chatbot uses machine learning algorithms to identify user intent and proces
 
 This chatbot generates the response using large language model by fine tuning on custom dataset
 [Generative LLM Chatbot](./Generation%20Based%20Language%20Model%20Chatbot%20Fine%20Tune/)
+
+## Fine Tune LLM 1 EPOCH
+[FIne Tune GEMMA 2 2B 1 EPOCH 2200 STEP CODE](./Generation%20Based%20Language%20Model%20Chatbot%20Fine%20Tune/Full-Epoch-FineTune-Gemma2-2b-v5-Data.ipynb)
