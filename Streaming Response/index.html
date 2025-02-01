@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask Chat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        #response {
+            border: 1px solid #ccc;
+            padding: 10px;
+            min-height: 50px;
+            margin-top: 10px;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Flask Chat</h1>
+    <input type="text" id="question" placeholder="Enter your question" />
+    <input type="text" id="context" placeholder="Enter context (optional)" />
+    <button onclick="sendQuestion()">Send</button>
+    <div id="response"></div>
+
+    <script>
+        function sendQuestion() {
+            const question = document.getElementById("question").value;
+            const context = document.getElementById("context").value;
+            const responseDiv = document.getElementById("response");
+            responseDiv.innerHTML = ""; // Clear previous response
+
+            if (!question) {
+                alert("Please enter a question.");
+                return;
+            }
+
+            fetch("https://2daa-35-230-9-191.ngrok-free.app/chat", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ question, context, stream: true })
+            }).then(response => {
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+
+                function read() {
+                    reader.read().then(({ done, value }) => {
+                        if (done) return;
+                        const text = decoder.decode(value);
+                        const formattedText = text.replace(/data: /g, "").replace(/\n\n/g, ""); // Remove 'data: ' and replace extra new lines with space
+                        console.log(formattedText)
+                        responseDiv.innerHTML += formattedText;
+                        read();
+                    });
+                }
+                read();
+            }).catch(error => console.error("Error:", error));
+        }
+    </script>
+</body>
+
+</html>
