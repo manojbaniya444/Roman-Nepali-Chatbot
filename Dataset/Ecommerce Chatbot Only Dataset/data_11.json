@@ -1,0 +1,892 @@
+[
+    {
+        "question": "Malai mero order ko status kasari check garna sakincha?",
+        "context": "Tapai le afno order status check garna 'My Orders' section ma login garnuhos. Order ID ra email address use garera pani status herna sakincha.",
+        "response": "Tapai le 'My Orders' section ma login garera order status herna sakinchha. Order ID ra email pani use garna sakinchha."
+    },
+    {
+        "question": "Mero product feri kasari return garna sakincha?",
+        "context": "Product return garna, return form bharnu parcha ra product lai original packaging ma feri pack garera courier ma pathaunu parcha. Return policy anusar 7 days ko within ma return garnu parcha.",
+        "response": "Tapai le return form bharnu parcha ra product lai original packaging ma pack garera courier ma pathaunu parcha. 7 days ko within ma return garnu hunchha."
+    },
+    {
+        "question": "Delivery charge kati hunchha?",
+        "context": "Delivery charge product ko weight ra location ma depend garchha. Kathmandu valley bhitra Rs. 100 charge hunchha, baira Rs. 200 dekhi Rs. 500 samma huna sakchha.",
+        "response": "Delivery charge product ko weight ra location ma depend garchha. Kathmandu valley bhitra Rs. 100 hunchha, baira Rs. 200 dekhi Rs. 500 samma huna sakchha."
+    },
+    {
+        "question": "Mero order cancel garna sakchhu?",
+        "context": "Order cancel garna sakchha, tara order 'Processing' stage ma huda matra cancel garna milchha. 'Shipped' bhaisakyo bhane cancel garna mildaina.",
+        "response": "Tapai le order 'Processing' stage ma huda matra cancel garna sakchha. 'Shipped' bhaisakyo bhane cancel garna mildaina."
+    },
+    {
+        "question": "Product ma defect cha, ke garna sakincha?",
+        "context": "Product ma defect cha bhane, tapai le hamro customer support lai 24 hours bhitra contact garnu parcha ra defect ko photo sahit report garnu parcha. Hamile replacement arrange garnechhau.",
+        "response": "Defect cha bhane, 24 hours bhitra customer support lai contact garnu hos ra defect ko photo sahit report garnu hos. Hamile replacement arrange garnechhau."
+    },
+    {
+        "question": "Payment method ma card add kasari garna sakincha?",
+        "context": "Payment method ma card add garna, tapai le 'Payment Settings' ma gayera 'Add Card' option select garnu parcha. Card details enter garera save garnu parcha.",
+        "response": "Tapai le 'Payment Settings' ma gayera 'Add Card' option select garnu hos ra card details enter garera save garnu hos."
+    },
+    {
+        "question": "Mero order deliver huda kati time lagchha?",
+        "context": "Order deliver huna normally 3-5 business days lagchha. Tara location ra product availability ma depend garchha. Expedited delivery option pani available chha.",
+        "response": "Normally 3-5 business days lagchha, tara location ra product availability ma depend garchha. Expedited delivery option pani available chha."
+    },
+    {
+        "question": "Discount coupon kasari use garna sakincha?",
+        "context": "Discount coupon use garna, checkout page ma 'Apply Coupon' section ma coupon code enter garnu parcha. Valid coupon code bhaye discount automatically apply hunchha.",
+        "response": "Checkout page ma 'Apply Coupon' section ma coupon code enter garnu hos. Valid code bhaye discount automatically apply hunchha."
+    },
+    {
+        "question": "Mero account kasari update garna sakincha?",
+        "context": "Account update garna, tapai le 'My Account' section ma gayera 'Edit Profile' option select garnu parcha. Tyaha bata tapai le afno details update garna sakinchha.",
+        "response": "Tapai le 'My Account' section ma gayera 'Edit Profile' option select garnu hos ra afno details update garna sakinchha."
+    },
+    {
+        "question": "Product ko warranty kati days ko chha?",
+        "context": "Product ko warranty 1 year ko chha. Warranty period bhitra defect dekha pare, free repair ya replacement garincha. Warranty claim garna invoice ra product serial number chahincha.",
+        "response": "Product ko warranty 1 year ko chha. Warranty period bhitra defect dekha pare, free repair ya replacement garincha. Invoice ra serial number chahincha."
+    },
+    {
+        "question": "Store kati baje samma khulcha?",
+        "context": "Hamro store 24/7 online khulcha. Tara customer support chai 9 AM dekhi 6 PM samma available hunchha.",
+        "response": "Store chai 24/7 online khulcha, tara customer support chai 9 AM dekhi 6 PM samma available hunchha."
+    },
+    {
+        "question": "Maile online order gareko product store ma pickup garna sakchu?",
+        "context": "Hajur, tapai le online order garera store ma pickup garna sakchha. Pickup option select garda tapailai store ko location ra pickup time ko details dinchha.",
+        "response": "Hajur, tapai le online order garera store ma pickup garna sakchha. Pickup option select garda details dinchha."
+    },
+    {
+        "question": "Store ma card payment accept hunchha?",
+        "context": "Hajur, hamro store ma card payment, mobile banking, ra cash on delivery sabai payment methods accept hunchha.",
+        "response": "Hajur, card payment, mobile banking, ra cash on delivery sabai accept hunchha."
+    },
+    {
+        "question": "Store ko location kata cha?",
+        "context": "Hamro store ko main outlet Kathmandu, New Road ma cha. Anya branch haru Pokhara ra Biratnagar ma pani chha.",
+        "response": "Main outlet Kathmandu, New Road ma cha. Pokhara ra Biratnagar ma pani branch chha."
+    },
+    {
+        "question": "Store ma membership card kasari banauna sakincha?",
+        "context": "Membership card banauna tapai le store ma gayera form bharnu parcha ra ek chhiti passport size photo submit garnu parcha. Membership card banauda kehi pani charge lagdaina.",
+        "response": "Store ma gayera form bharnu hos ra ek chhiti photo submit garnu hos. Membership card free ma banauna sakinchha."
+    },
+    {
+        "question": "Store ma discount kati kati hunchha?",
+        "context": "Store ma seasonal discount haru hunchha. Dashain, Tihar, ra New Year ma 20% samma discount hunchha. Membership card bhaye additional 5% discount hunchha.",
+        "response": "Dashain, Tihar, ra New Year ma 20% samma discount hunchha. Membership card bhaye additional 5% discount hunchha."
+    },
+    {
+        "question": "Store ma product exchange garna sakincha?",
+        "context": "Hajur, product exchange garna sakincha. Tara product unused ra original packaging ma huna parcha ra exchange 7 days ko within ma garnu parcha.",
+        "response": "Hajur, unused product lai original packaging ma 7 days ko within ma exchange garna sakinchha."
+    },
+    {
+        "question": "Store ma gift card kinna sakincha?",
+        "context": "Hajur, hamro store ma gift card kinna sakincha. Gift card Rs. 500 dekhi Rs. 10,000 samma available chha.",
+        "response": "Hajur, gift card Rs. 500 dekhi Rs. 10,000 samma kinna sakinchha."
+    },
+    {
+        "question": "Store ma delivery kati din lagchha?",
+        "context": "Delivery normally 3-5 business days lagchha. Tara location ra product availability ma depend garchha. Expedited delivery option pani available chha.",
+        "response": "Normally 3-5 business days lagchha, tara location ra product ma depend garchha. Expedited delivery pani available chha."
+    },
+    {
+        "question": "Store ma online payment secure cha?",
+        "context": "Hajur, hamro store ma online payment secure cha. Sabai transactions SSL encryption le protect hunchha.",
+        "response": "Hajur, online payment secure cha. Sabai transactions SSL encryption le protect hunchha."
+    },
+    {
+        "question": "Store ma product haru kasari search garna sakincha?",
+        "context": "Tapai le homepage ma search bar ma product ko name type garera search garna sakinchha. Category ra filter haru use garera pani search garna sakinchha.",
+        "response": "Search bar ma product ko name type garnu hos. Category ra filter use garera pani search garna sakinchha."
+    },
+    {
+        "question": "Store ma product ko review kasari herna sakincha?",
+        "context": "Product ko page ma scroll garda review section hunchha. Tyaha tapai le sabai review haru herna sakinchha.",
+        "response": "Product ko page ma review section hunchha. Tyaha sabai review haru herna sakinchha."
+    },
+    {
+        "question": "Store ma product pre-order garna sakincha?",
+        "context": "Hajur, pre-order garna sakincha. Pre-order garna product ko page ma 'Pre-order' button hunchha. Tyaha click garera process complete garnu hos.",
+        "response": "Hajur, pre-order garna sakinchha. Product ko page ma 'Pre-order' button hunchha."
+    },
+    {
+        "question": "Store ma product ko availability kasari check garna sakincha?",
+        "context": "Product ko page ma 'Availability' section hunchha. Tyaha tapai le product available cha ki nai check garna sakinchha.",
+        "response": "Product ko page ma 'Availability' section hunchha. Tyaha check garnu hos."
+    },
+    {
+        "question": "Store ma product ko price compare garna sakincha?",
+        "context": "Hajur, tapai le similar product haru ko price compare garna sakinchha. Compare button click garera price herna sakinchha.",
+        "response": "Hajur, similar product haru ko price compare garna sakinchha. Compare button use garnu hos."
+    },
+    {
+        "question": "Store ma product ko detail ma k k information hunchha?",
+        "context": "Product ko detail ma description, price, reviews, ratings, ra shipping information haru hunchha.",
+        "response": "Description, price, reviews, ratings, ra shipping information sabai hunchha."
+    },
+    {
+        "question": "Store ma product ko demo herna sakincha?",
+        "context": "Hajur, kehi product haru ko demo store ma herna sakinchha. Demo ko lagi store ma visit garnu hos.",
+        "response": "Hajur, kehi product haru ko demo store ma herna sakinchha. Store ma visit garnu hos."
+    },
+    {
+        "question": "Store ma product ko warranty kati days ko chha?",
+        "context": "Product ko warranty 1 year ko chha. Warranty period bhitra defect dekha pare, free repair ya replacement garincha.",
+        "response": "Warranty 1 year ko chha. Defect dekha pare free repair ya replacement garincha."
+    },
+    {
+        "question": "Store ma product return garna kati din ko within ma garnu parcha?",
+        "context": "Product return garna 7 days ko within ma garnu parcha. Product unused ra original packaging ma huna parcha.",
+        "response": "7 days ko within ma return garnu parcha. Product unused ra original packaging ma huna parcha."
+    },
+    {
+        "question": "Store ma product ko delivery charge kati hunchha?",
+        "context": "Delivery charge product ko weight ra location ma depend garchha. Kathmandu valley bhitra Rs. 100 hunchha, baira Rs. 200 dekhi Rs. 500 samma huna sakchha.",
+        "response": "Kathmandu valley bhitra Rs. 100 hunchha, baira Rs. 200 dekhi Rs. 500 samma huna sakchha."
+    },
+    {
+        "question": "Store kati baje samma khulcha?",
+        "context": "Hamro store 24/7 online khulcha. Tara customer support chai 9 AM dekhi 6 PM samma available hunchha. Store ko physical outlet haru chai Sunday dekhi Friday, 10 AM dekhi 7 PM samma khulcha. Public holiday ma chai store bandha hunchha.",
+        "response": "Store 24/7 online khulcha. Physical outlet Sunday dekhi Friday, 10 AM dekhi 7 PM samma khulcha."
+    },
+    {
+        "question": "Maile online order gareko product store ma pickup garna sakchu?",
+        "context": "Hajur, tapai le online order garera store ma pickup garna sakchha. Pickup option select garda tapailai store ko location ra pickup time ko details dinchha. Pickup garna 3 days ko within ma garnu parcha, ani pickup garda order confirmation ra ID lagna parcha.",
+        "response": "Hajur, online order garera store ma pickup garna sakchha. Pickup garda order confirmation ra ID lagnu parcha."
+    },
+    {
+        "question": "Store ma card payment accept hunchha?",
+        "context": "Hajur, hamro store ma card payment, mobile banking, ra cash on delivery sabai payment methods accept hunchha. Card payment ma Visa, MasterCard, ra American Express sabai accept hunchha. Mobile banking ma eSewa, Khalti, ra IME Pay sabai supported chha.",
+        "response": "Hajur, Visa, MasterCard, American Express, eSewa, Khalti, ra IME Pay sabai accept hunchha."
+    },
+    {
+        "question": "Store ko location kata cha?",
+        "context": "Hamro store ko main outlet Kathmandu, New Road ma cha. Anya branch haru Pokhara ma Lakeside ra Biratnagar ma RNAC Chowk ma chha. Sabai branch haru Google Maps ma pani available chha, ani tapai le hamro website bata pani location herna sakchha.",
+        "response": "Main outlet Kathmandu, New Road ma cha. Pokhara Lakeside ra Biratnagar RNAC Chowk ma pani chha."
+    },
+    {
+        "question": "Store ma membership card kasari banauna sakincha?",
+        "context": "Membership card banauna tapai le store ma gayera form bharnu parcha ra ek chhiti passport size photo submit garnu parcha. Membership card banauda kehi pani charge lagdaina. Membership card bhayepachi tapai le haru product ma additional 5% discount paunchha ra exclusive offers haru pani access garna sakchha.",
+        "response": "Store ma form bharnu hos ra ek chhiti photo submit garnu hos. Membership card free ma banauna sakinchha."
+    },
+    {
+        "question": "Store ma discount kati kati hunchha?",
+        "context": "Store ma seasonal discount haru hunchha. Dashain, Tihar, ra New Year ma 20% samma discount hunchha. Membership card bhaye additional 5% discount hunchha. Weekly pani kehi selected product haru ma 10-15% discount hunchha, ani clearance sale ma 30% samma discount hunchha.",
+        "response": "Dashain, Tihar, ra New Year ma 20% samma discount hunchha. Membership card bhaye additional 5% discount hunchha."
+    },
+    {
+        "question": "Store ma product exchange garna sakincha?",
+        "context": "Hajur, product exchange garna sakincha. Tara product unused ra original packaging ma huna parcha ra exchange 7 days ko within ma garnu parcha. Exchange garna product satha invoice ra original packaging lagna parcha. Exchange garda kehi pani charge lagdaina.",
+        "response": "Hajur, unused product lai original packaging ma 7 days ko within ma exchange garna sakinchha."
+    },
+    {
+        "question": "Store ma gift card kinna sakincha?",
+        "context": "Hajur, hamro store ma gift card kinna sakincha. Gift card Rs. 500 dekhi Rs. 10,000 samma available chha. Gift card online ra store donai bata kinna sakinchha. Gift card redeem garda kehi pani additional charge lagdaina ra tapai le chahine product ma use garna sakchha.",
+        "response": "Hajur, gift card Rs. 500 dekhi Rs. 10,000 samma kinna sakinchha."
+    },
+    {
+        "question": "Store ma delivery kati din lagchha?",
+        "context": "Delivery normally 3-5 business days lagchha. Tara location ra product availability ma depend garchha. Kathmandu valley bhitra 1-2 days ma deliver hunchha, tara remote area ma 5-7 days samma lagchha. Expedited delivery option pani available chha, jasma additional charge lagchha.",
+        "response": "Normally 3-5 business days lagchha. Kathmandu valley bhitra 1-2 days ma deliver hunchha."
+    },
+    {
+        "question": "Store ma online payment secure cha?",
+        "context": "Hajur, hamro store ma online payment secure cha. Sabai transactions SSL encryption le protect hunchha. Payment gateway ma Nabil Bank ra Himalayan Bank ko secure system use gareko chha. Tapai le payment garda kehi pani risk chhaina.",
+        "response": "Hajur, online payment secure cha. Sabai transactions SSL encryption le protect hunchha."
+    },
+    {
+        "question": "Store ma product haru kasari search garna sakincha?",
+        "context": "Tapai le homepage ma search bar ma product ko name type garera search garna sakinchha. Category ra filter haru use garera pani search garna sakinchha. Filter ma tapai le price range, brand, ra rating anusar product haru sort garna sakchha.",
+        "response": "Search bar ma product ko name type garnu hos. Category ra filter use garera pani search garna sakinchha."
+    },
+    {
+        "question": "Store ma product ko review kasari herna sakincha?",
+        "context": "Product ko page ma scroll garda review section hunchha. Tyaha tapai le sabai review haru herna sakinchha. Review ma customer haru ko rating, comment, ra photo haru pani hunchha. Tapai le afno pani review submit garna sakchha.",
+        "response": "Product ko page ma review section hunchha. Tyaha sabai review haru herna sakinchha."
+    },
+    {
+        "question": "Store ma product pre-order garna sakincha?",
+        "context": "Hajur, pre-order garna sakincha. Pre-order garna product ko page ma 'Pre-order' button hunchha. Tyaha click garera process complete garnu hos. Pre-order garda 10% advance payment garnu parcha ra product available bhaye pachi tapailai inform garchha.",
+        "response": "Hajur, pre-order garna sakinchha. Product ko page ma 'Pre-order' button hunchha."
+    },
+    {
+        "question": "Store ma product ko availability kasari check garna sakincha?",
+        "context": "Product ko page ma 'Availability' section hunchha. Tyaha tapai le product available cha ki nai check garna sakinchha. Out of stock bhaye tapai le 'Notify Me' option use garera product available huda notification pauna sakchha.",
+        "response": "Product ko page ma 'Availability' section hunchha. Tyaha check garnu hos."
+    },
+    {
+        "question": "Store ma product ko price compare garna sakincha?",
+        "context": "Hajur, tapai le similar product haru ko price compare garna sakinchha. Compare button click garera price herna sakinchha. Compare garda tapai le product ko features, rating, ra price difference herna sakchha.",
+        "response": "Hajur, similar product haru ko price compare garna sakinchha. Compare button use garnu hos."
+    },
+    {
+        "question": "Store ma product ko detail ma k k information hunchha?",
+        "context": "Product ko detail ma description, price, reviews, ratings, ra shipping information haru hunchha. Description ma product ko features, specifications, ra usage instructions pani hunchha. Shipping information ma delivery time ra charge ko details hunchha.",
+        "response": "Description, price, reviews, ratings, ra shipping information sabai hunchha."
+    },
+    {
+        "question": "Store ma product ko demo herna sakincha?",
+        "context": "Hajur, kehi product haru ko demo store ma herna sakinchha. Demo ko lagi store ma visit garnu hos. Demo available bhaye tapailai staff le product ko functionality ra features dekhaunechhan.",
+        "response": "Hajur, kehi product haru ko demo store ma herna sakinchha. Store ma visit garnu hos."
+    },
+    {
+        "question": "Store ma product ko warranty kati days ko chha?",
+        "context": "Product ko warranty 1 year ko chha. Warranty period bhitra defect dekha pare, free repair ya replacement garincha. Warranty claim garna invoice ra product serial number chahincha. Warranty service hamro store bata available chha.",
+        "response": "Warranty 1 year ko chha. Defect dekha pare free repair ya replacement garincha."
+    },
+    {
+        "question": "Store ma product return garna kati din ko within ma garnu parcha?",
+        "context": "Product return garna 7 days ko within ma garnu parcha. Product unused ra original packaging ma huna parcha. Return garda invoice ra product satha return form bharnu parcha. Return approve bhaye pachi refund process hunchha.",
+        "response": "7 days ko within ma return garnu parcha. Product unused ra original packaging ma huna parcha."
+    },
+    {
+        "question": "Store ma product ko delivery charge kati hunchha?",
+        "context": "Delivery charge product ko weight ra location ma depend garchha. Kathmandu valley bhitra Rs. 100 hunchha, tara baira Rs. 200 dekhi Rs. 500 samma huna sakchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha.",
+        "response": "Kathmandu valley bhitra Rs. 100 hunchha, baira Rs. 200 dekhi Rs. 500 samma huna sakchha."
+    },
+    {
+        "question": "Store ma product haru ko quality kasari check garna sakincha?",
+        "context": "Product ko quality check garna tapai le product ko description ma herna sakchha. Description ma material, brand, ra manufacturing details haru hunchha. Sath ma customer reviews ra ratings pani quality check garna help garchha. Store ma visit garda pani product ko quality physically check garna sakchha.",
+        "response": "Product ko description, reviews, ra ratings hernu hos. Store ma visit garda physically pani check garna sakchha."
+    },
+    {
+        "question": "Store ma product haru ko size kasari herna sakincha?",
+        "context": "Product ko size herna product ko description ma 'Size Chart' hunchha. Tyaha tapai le product ko dimensions, weight, ra size guide herna sakchha. Sath ma customer reviews ma pani size related feedback haru hunchha.",
+        "response": "Product ko description ma 'Size Chart' hernu hos. Reviews ma pani size related feedback hunchha."
+    },
+    {
+        "question": "Store ma product haru ko color options kati kati chha?",
+        "context": "Product ko color options product ko description ma herna sakchha. Tyaha tapai le available color haru ko list ra images herna sakchha. Kehi product haru ma custom color options pani hunchha, tara tyo special order ma matra available hunchha.",
+        "response": "Product ko description ma available color haru ko list ra images hernu hos."
+    },
+    {
+        "question": "Store ma product haru ko stock kasari check garna sakincha?",
+        "context": "Product ko stock check garna product ko page ma 'Availability' section hernu hos. Tyaha tapai le product in stock cha ki nai herna sakchha. Out of stock bhaye 'Notify Me' option use garera notification pauna sakchha.",
+        "response": "Product ko page ma 'Availability' section hernu hos. Out of stock bhaye 'Notify Me' option use garnu hos."
+    },
+    {
+        "question": "Store ma product haru ko brand kasari herna sakincha?",
+        "context": "Product ko brand herna product ko description ma 'Brand' section hernu hos. Tyaha tapai le brand ko name, logo, ra brand related details herna sakchha. Sath ma brand ko official website ra social media links pani hunchha.",
+        "response": "Product ko description ma 'Brand' section hernu hos."
+    },
+    {
+        "question": "Store ma product haru ko rating kasari herna sakincha?",
+        "context": "Product ko rating herna product ko page ma 'Ratings' section hernu hos. Tyaha tapai le average rating ra customer reviews herna sakchha. Rating 1-5 stars ko range ma hunchha, ra customer le product ko quality, delivery, ra service related feedback dinchha.",
+        "response": "Product ko page ma 'Ratings' section hernu hos. Average rating ra customer reviews hunchha."
+    },
+    {
+        "question": "Store ma product haru ko description kasari herna sakincha?",
+        "context": "Product ko description herna product ko page ma scroll garnu hos. Description ma product ko features, specifications, usage instructions, ra additional details hunchha. Sath ma product ko images ra videos pani hunchha.",
+        "response": "Product ko page ma scroll garera description hernu hos. Features, specifications, ra usage instructions hunchha."
+    },
+    {
+        "question": "Store ma product haru ko video demo kasari herna sakincha?",
+        "context": "Product ko video demo herna product ko page ma 'Video' section hernu hos. Tyaha tapai le product ko unboxing, usage, ra features related videos herna sakchha. Video demo available na bhaye pani tapai le customer support lai contact garera video magna sakchha.",
+        "response": "Product ko page ma 'Video' section hernu hos. Video demo available cha bhane tyaha herna sakchha."
+    },
+    {
+        "question": "Store ma product haru ko related items kasari herna sakincha?",
+        "context": "Product ko related items herna product ko page ma 'Related Products' section hernu hos. Tyaha tapai le similar products, accessories, ra frequently bought together items herna sakchha. Related items haru product ko category ra brand ma depend garchha.",
+        "response": "Product ko page ma 'Related Products' section hernu hos. Similar products ra accessories hunchha."
+    },
+    {
+        "question": "Store ma product haru ko accessories kasari herna sakincha?",
+        "context": "Product ko accessories herna product ko page ma 'Accessories' section hernu hos. Tyaha tapai le product satha use hune additional items haru herna sakchha. Accessories haru product ko category ra brand ma depend garchha.",
+        "response": "Product ko page ma 'Accessories' section hernu hos. Product satha use hune additional items hunchha."
+    },
+    {
+        "question": "Store ma product haru ko warranty kasari claim garna sakincha?",
+        "context": "Product ko warranty claim garna tapai le customer support lai contact garnu parcha. Warranty claim garda invoice ra product serial number chahincha. Warranty period bhitra defect dekha pare, free repair ya replacement garincha.",
+        "response": "Customer support lai contact garnu hos. Invoice ra serial number satha warranty claim garna sakinchha."
+    },
+    {
+        "question": "Store ma product haru ko return policy k chha?",
+        "context": "Store ko return policy anusar product unused ra original packaging ma 7 days ko within ma return garna sakinchha. Return garda invoice ra product satha return form bharnu parcha. Return approve bhaye pachi refund process hunchha.",
+        "response": "Unused product lai original packaging ma 7 days ko within ma return garna sakinchha."
+    },
+    {
+        "question": "Store ma product haru ko refund kasari pauna sakincha?",
+        "context": "Refund pauna product return approve huna parcha. Return approve bhaye pachi refund process start hunchha. Refund amount tapai le payment gareko method ma feri pathaunchha. Refund process ma 5-7 business days lagchha.",
+        "response": "Return approve bhaye pachi refund process start hunchha. Refund amount payment method ma feri pathaunchha."
+    },
+    {
+        "question": "Store ma product haru ko delivery status kasari track garna sakincha?",
+        "context": "Delivery status track garna tapai le 'My Orders' section ma gayera order ko tracking ID use garnu hos. Tracking ID bata tapai le delivery ko real-time status herna sakchha. Courier company ko website ma pani tracking ID use garera status check garna sakchha.",
+        "response": "'My Orders' section ma tracking ID use garera delivery status hernu hos."
+    },
+    {
+        "question": "Store ma product haru ko bulk order kasari garna sakincha?",
+        "context": "Bulk order garna tapai le customer support lai contact garnu parcha. Bulk order ma special discount ra customized delivery options available hunchha. Bulk order ko lagi quotation ra payment terms negotiate garna sakinchha.",
+        "response": "Customer support lai contact garnu hos. Bulk order ma special discount ra customized delivery options hunchha."
+    },
+    {
+        "question": "Store ma product haru ko installation service available chha?",
+        "context": "Hajur, kehi product haru ko installation service available chha. Installation service ko lagi additional charge lagchha. Installation service available bhaye product ko description ma mention hunchha ra tapai le checkout garda installation service select garna sakchha.",
+        "response": "Hajur, kehi product haru ma installation service available chha. Additional charge lagchha."
+    },
+    {
+        "question": "Store ma product haru ko repair service kasari pauna sakincha?",
+        "context": "Product ko repair service pauna tapai le customer support lai contact garnu parcha. Repair service available bhaye tapailai service center ko location ra repair cost ko details dinchha. Warranty period bhitra free repair service hunchha.",
+        "response": "Customer support lai contact garnu hos. Warranty period bhitra free repair service hunchha."
+    },
+    {
+        "question": "Store ma product haru ko replacement kasari pauna sakincha?",
+        "context": "Product ko replacement pauna tapai le product return garnu parcha. Replacement approve bhaye pachi naya product tapailai deliver garincha. Replacement process ma 5-7 business days lagchha.",
+        "response": "Product return garnu hos. Replacement approve bhaye pachi naya product deliver garincha."
+    },
+    {
+        "question": "Store ma product haru ko customization kasari garna sakincha?",
+        "context": "Product customization garna tapai le customer support lai contact garnu parcha. Customization available bhaye tapailai customization options ra additional cost ko details dinchha. Customization process ma 7-10 business days lagchha.",
+        "response": "Customer support lai contact garnu hos. Customization available bhaye options ra additional cost ko details dinchha."
+    },
+    {
+        "question": "Store ma product haru ko gift wrapping available chha?",
+        "context": "Hajur, gift wrapping service available chha. Gift wrapping ko lagi additional charge lagchha. Gift wrapping available bhaye checkout garda option select garna sakchha. Gift wrapping ma ribbon, greeting card, ra wrapping paper include hunchha.",
+        "response": "Hajur, gift wrapping service available chha. Additional charge lagchha."
+    },
+    {
+        "question": "Store ko address kata cha?",
+        "context": "Hamro store ko main outlet Kathmandu, New Road ma cha. Anya branch haru Pokhara ma Lakeside ra Biratnagar ma RNAC Chowk ma chha. Sabai branch haru Google Maps ma pani available chha, ani tapai le hamro website bata pani location herna sakchha.",
+        "response": "Main outlet Kathmandu, New Road ma cha. Pokhara Lakeside ra Biratnagar RNAC Chowk ma pani chha."
+    },
+    {
+        "question": "Store ko contact number k ho?",
+        "context": "Hamro store ko customer support number +977-01-1234567 ho. Tapai le yo number bata 9 AM dekhi 6 PM samma call garera kahi pani information lina sakchha. Sath ma WhatsApp ma +977-9801234567 ma pani message garna sakchha.",
+        "response": "Customer support number +977-01-1234567 ho. WhatsApp ma +977-9801234567 ma pani message garna sakchha."
+    },
+    {
+        "question": "Store kati baje khulcha ra bandha hunchha?",
+        "context": "Hamro store ko physical outlet haru Sunday dekhi Friday, 10 AM dekhi 7 PM samma khulcha. Saturday ra public holiday ma store bandha hunchha. Online store chai 24/7 khulcha, tara customer support chai 9 AM dekhi 6 PM samma available hunchha.",
+        "response": "Physical outlet Sunday dekhi Friday, 10 AM dekhi 7 PM samma khulcha. Online store 24/7 khulcha."
+    },
+    {
+        "question": "Store ma k k services available chha?",
+        "context": "Hamro store ma product purchase, delivery, return, exchange, ra warranty services available chha. Sath ma gift wrapping, installation, ra repair services pani available chha. Membership card bata additional discount pani pauna sakinchha.",
+        "response": "Product purchase, delivery, return, exchange, warranty, gift wrapping, installation, ra repair services available chha."
+    },
+    {
+        "question": "Store ma membership card kasari banauna sakincha?",
+        "context": "Membership card banauna tapai le store ma gayera form bharnu parcha ra ek chhiti passport size photo submit garnu parcha. Membership card banauda kehi pani charge lagdaina. Membership card bhayepachi tapai le haru product ma additional 5% discount paunchha.",
+        "response": "Store ma form bharnu hos ra ek chhiti photo submit garnu hos. Membership card free ma banauna sakinchha."
+    },
+    {
+        "question": "Store ko email address k ho?",
+        "context": "Hamro store ko official email address info@mystore.com ho. Tapai le yo email bata kahi pani inquiry, feedback, ya complaint pathauna sakchha. Email ko reply normally 24 hours bhitra dinchha.",
+        "response": "Official email address info@mystore.com ho."
+    },
+    {
+        "question": "Store ma online order garna sakincha?",
+        "context": "Hajur, hamro store ma online order garna sakinchha. Tapai le hamro website bata product select garera checkout garna sakchha. Online order ma card payment, mobile banking, ra cash on delivery sabai payment methods available chha.",
+        "response": "Hajur, online order garna sakinchha. Website bata product select garera checkout garnu hos."
+    },
+    {
+        "question": "Store ma delivery service available chha?",
+        "context": "Hajur, hamro store ma delivery service available chha. Kathmandu valley bhitra 1-2 days ma deliver hunchha, tara remote area ma 5-7 days samma lagchha. Delivery charge product ko weight ra location ma depend garchha.",
+        "response": "Hajur, delivery service available chha. Kathmandu valley bhitra 1-2 days ma deliver hunchha."
+    },
+    {
+        "question": "Store ma product return garna sakincha?",
+        "context": "Hajur, product return garna sakincha. Product unused ra original packaging ma 7 days ko within ma return garna sakinchha. Return garda invoice ra product satha return form bharnu parcha.",
+        "response": "Hajur, unused product lai original packaging ma 7 days ko within ma return garna sakinchha."
+    },
+    {
+        "question": "Store ma product exchange garna sakincha?",
+        "context": "Hajur, product exchange garna sakincha. Product unused ra original packaging ma 7 days ko within ma exchange garna sakinchha. Exchange garda invoice ra product satha exchange form bharnu parcha.",
+        "response": "Hajur, unused product lai original packaging ma 7 days ko within ma exchange garna sakinchha."
+    },
+    {
+        "question": "Store ma warranty service available chha?",
+        "context": "Hajur, hamro store ma warranty service available chha. Product ko warranty 1 year ko chha. Warranty period bhitra defect dekha pare, free repair ya replacement garincha.",
+        "response": "Hajur, warranty service available chha. Warranty 1 year ko chha."
+    },
+    {
+        "question": "Store ma gift card kinna sakincha?",
+        "context": "Hajur, hamro store ma gift card kinna sakincha. Gift card Rs. 500 dekhi Rs. 10,000 samma available chha. Gift card online ra store donai bata kinna sakinchha.",
+        "response": "Hajur, gift card Rs. 500 dekhi Rs. 10,000 samma kinna sakinchha."
+    },
+    {
+        "question": "Store ma installation service available chha?",
+        "context": "Hajur, kehi product haru ko installation service available chha. Installation service ko lagi additional charge lagchha. Installation service available bhaye product ko description ma mention hunchha.",
+        "response": "Hajur, kehi product haru ma installation service available chha. Additional charge lagchha."
+    },
+    {
+        "question": "Store ma repair service available chha?",
+        "context": "Hajur, hamro store ma repair service available chha. Warranty period bhitra free repair service hunchha. Warranty sakisakyo bhane pani repair garna sakinchha, tara additional charge lagchha.",
+        "response": "Hajur, repair service available chha. Warranty period bhitra free repair hunchha."
+    },
+    {
+        "question": "Store ma online payment secure chha?",
+        "context": "Hajur, hamro store ma online payment secure chha. Sabai transactions SSL encryption le protect hunchha. Payment gateway ma Nabil Bank ra Himalayan Bank ko secure system use gareko chha.",
+        "response": "Hajur, online payment secure chha. Sabai transactions SSL encryption le protect hunchha."
+    },
+    {
+        "question": "Store ma customer support kasari contact garna sakincha?",
+        "context": "Customer support lai contact garna tapai le +977-01-1234567 ma call garna sakchha, ya info@mystore.com ma email pathauna sakchha. Sath ma WhatsApp ma +977-9801234567 ma pani message garna sakchha.",
+        "response": "+977-01-1234567 ma call garnu hos, ya info@mystore.com ma email pathaunu hos."
+    },
+    {
+        "question": "Store ma discount kati kati hunchha?",
+        "context": "Store ma seasonal discount haru hunchha. Dashain, Tihar, ra New Year ma 20% samma discount hunchha. Membership card bhaye additional 5% discount hunchha.",
+        "response": "Dashain, Tihar, ra New Year ma 20% samma discount hunchha. Membership card bhaye additional 5% discount hunchha."
+    },
+    {
+        "question": "Store ma product haru ko demo herna sakincha?",
+        "context": "Hajur, kehi product haru ko demo store ma herna sakinchha. Demo ko lagi store ma visit garnu hos. Demo available bhaye tapailai staff le product ko functionality ra features dekhaunechhan.",
+        "response": "Hajur, kehi product haru ko demo store ma herna sakinchha. Store ma visit garnu hos."
+    },
+    {
+        "question": "Store ma product haru ko availability kasari check garna sakincha?",
+        "context": "Product ko availability check garna product ko page ma 'Availability' section hernu hos. Tyaha tapai le product in stock cha ki nai herna sakchha. Out of stock bhaye 'Notify Me' option use garera notification pauna sakchha.",
+        "response": "Product ko page ma 'Availability' section hernu hos. Out of stock bhaye 'Notify Me' option use garnu hos."
+    },
+    {
+        "question": "Store ma product haru ko price kasari herna sakincha?",
+        "context": "Product ko price herna product ko page ma 'Price' section hernu hos. Tyaha tapai le product ko original price, discounted price, ra additional offers herna sakchha.",
+        "response": "Product ko page ma 'Price' section hernu hos. Original price ra discounted price hunchha."
+    },
+    {
+        "question": "Store ko sabai branch haru kata kata chha?",
+        "context": "Hamro store ko main branch Kathmandu, New Road ma chha. Anya branch haru Pokhara ma Lakeside ra Biratnagar ma RNAC Chowk ma chha. Sath ma Butwal ma Traffic Chowk ra Dharan ma BP Chowk ma pani branch haru chha.",
+        "response": "Main branch Kathmandu, New Road ma chha. Pokhara Lakeside, Biratnagar RNAC Chowk, Butwal Traffic Chowk, ra Dharan BP Chowk ma pani chha."
+    },
+    {
+        "question": "Store ko WhatsApp number k ho?",
+        "context": "Hamro store ko WhatsApp number +977-9801234567 ho. Tapai le yo number bata 9 AM dekhi 6 PM samma message garera kahi pani information lina sakchha. WhatsApp ma photo, video, ra document pani pathauna sakchha.",
+        "response": "WhatsApp number +977-9801234567 ho. 9 AM dekhi 6 PM samma message garnu hos."
+    },
+    {
+        "question": "Store ko Facebook page k ho?",
+        "context": "Hamro store ko official Facebook page 'My Store Nepal' ho. Tapai le yo page bata store ko updates, offers, ra events haru herna sakchha. Sath ma message garera pani inquiry garna sakchha.",
+        "response": "Official Facebook page 'My Store Nepal' ho. Updates ra offers herna sakchha."
+    },
+    {
+        "question": "Store ko Instagram ma kasari follow garna sakincha?",
+        "context": "Hamro store ko Instagram handle @mystorenepal ho. Tapai le yo handle bata store ko photos, videos, ra updates haru herna sakchha. Follow garera latest offers ra events ko barema janna sakchha.",
+        "response": "Instagram ma @mystorenepal follow garnu hos. Photos, videos, ra updates herna sakchha."
+    },
+    {
+        "question": "Store ko website k ho?",
+        "context": "Hamro store ko official website www.mystore.com.np ho. Tapai le yo website bata product haru browse garna, order garna, ra store ko barema jankari lina sakchha. Website ma 24/7 access garna sakinchha.",
+        "response": "Official website www.mystore.com.np ho. Product browse ra order garna sakchha."
+    },
+    {
+        "question": "Store ma kati ota branch chha?",
+        "context": "Hamro store ko total 5 ota branch chha. Kathmandu, Pokhara, Biratnagar, Butwal, ra Dharan ma eka eka branch chha. Sabai branch haru Google Maps ma pani available chha.",
+        "response": "Total 5 ota branch chha: Kathmandu, Pokhara, Biratnagar, Butwal, ra Dharan ma."
+    },
+    {
+        "question": "Store ko head office kata chha?",
+        "context": "Hamro store ko head office Kathmandu, New Road ma chha. Head office ma customer support, accounts, ra management team haru baseka chha. Tapai le head office ma visit garera pani service lina sakchha.",
+        "response": "Head office Kathmandu, New Road ma chha."
+    },
+    {
+        "question": "Store ma parking facility available chha?",
+        "context": "Hajur, hamro store ma parking facility available chha. Kathmandu ra Pokhara ko branch ma free parking chha, tara Biratnagar ra Butwal ma paid parking chha. Parking area store bata 2 minutes ko walking distance ma chha.",
+        "response": "Hajur, parking facility available chha. Kathmandu ra Pokhara ma free parking chha."
+    },
+    {
+        "question": "Store ma wheelchair access available chha?",
+        "context": "Hajur, hamro store ma wheelchair access available chha. Sabai branch haru ma ramp ra elevator chha, ra staff le wheelchair users lai help garchha. Tapai le store ma visit garda kahi pani problem aayena.",
+        "response": "Hajur, wheelchair access available chha. Ramp ra elevator sabai branch ma chha."
+    },
+    {
+        "question": "Store ma ATM facility available chha?",
+        "context": "Hajur, hamro store ma ATM facility available chha. Kathmandu ra Pokhara ko branch ma Nabil Bank ko ATM chha, ra Biratnagar ma Himalayan Bank ko ATM chha. ATM store ko premises bhitra nai chha.",
+        "response": "Hajur, ATM facility available chha. Nabil Bank ra Himalayan Bank ko ATM chha."
+    },
+    {
+        "question": "Store ma Wi-Fi available chha?",
+        "context": "Hajur, hamro store ma free Wi-Fi available chha. Tapai le store ma visit garda Wi-Fi use garna sakchha. Wi-Fi ko password tapailai staff le dinchha.",
+        "response": "Hajur, free Wi-Fi available chha. Staff le password dinchha."
+    },
+    {
+        "question": "Store ma kids play area chha?",
+        "context": "Hajur, hamro store ma kids play area available chha. Kathmandu ra Pokhara ko branch ma kids ko lagi toys, books, ra games haru chha. Play area ma staff le kids lai supervise garchha.",
+        "response": "Hajur, kids play area available chha. Toys, books, ra games chha."
+    },
+    {
+        "question": "Store ma cafe ya waiting area chha?",
+        "context": "Hajur, hamro store ma cafe ra waiting area available chha. Kathmandu ra Pokhara ko branch ma 'My Store Cafe' chha, jaha tapai le coffee, snacks, ra cold drinks pauna sakchha. Waiting area comfortable ra spacious chha.",
+        "response": "Hajur, cafe ra waiting area available chha. Coffee, snacks, ra cold drinks pauna sakchha."
+    },
+    {
+        "question": "Store ma event haru conduct garchha?",
+        "context": "Hajur, hamro store ma regularly events haru conduct garchha. Events ma product launch, workshops, ra customer meetups haru include chha. Event ko barema store ko Facebook ra Instagram ma update dinchha.",
+        "response": "Hajur, regularly events conduct garchha. Product launch, workshops, ra meetups include chha."
+    },
+    {
+        "question": "Store ma membership card ko benefits k k chha?",
+        "context": "Membership card ko benefits ma additional 5% discount, exclusive offers, ra early access to sales haru include chha. Sath ma membership card holders lai special events ma invite garchha.",
+        "response": "Membership card bata additional 5% discount, exclusive offers, ra early access to sales pauna sakinchha."
+    },
+    {
+        "question": "Store ma product haru ko demo kasari pauna sakincha?",
+        "context": "Product demo pauna tapai le store ma visit garnu parcha. Demo available bhaye staff le product ko functionality ra features dekhaunechha. Kehi product haru ko online demo pani YouTube ma available chha.",
+        "response": "Store ma visit garnu hos. Staff le product ko demo dekhaunechha."
+    },
+    {
+        "question": "Store ma product haru ko catalog kasari pauna sakincha?",
+        "context": "Product catalog pauna tapai le store ma visit garnu hos, ya hamro website bata download garna sakchha. Catalog ma sabai product haru ko details, price, ra images haru include chha.",
+        "response": "Store ma visit garnu hos, ya website bata catalog download garna sakchha."
+    },
+    {
+        "question": "Store ma product haru ko price match garna sakincha?",
+        "context": "Hajur, hamro store ma price match garna sakinchha. Tapai le competitor ko price dekhauna parcha, ra hamile tyo price match garera discount dinchha. Price match ko lagi product same brand ra model ko huna parcha.",
+        "response": "Hajur, price match garna sakinchha. Competitor ko price dekhauna parcha."
+    },
+    {
+        "question": "Store ma product haru ko bulk order discount chha?",
+        "context": "Hajur, bulk order garna sakinchha ra bulk order ma special discount pani available chha. Bulk order ko lagi tapai le customer support lai contact garnu parcha ra quotation request garna sakchha.",
+        "response": "Hajur, bulk order ma special discount available chha. Customer support lai contact garnu hos."
+    },
+    {
+        "question": "Store ma product haru ko customization available chha?",
+        "context": "Hajur, kehi product haru ma customization available chha. Customization ma product ko color, size, ra design change garna sakinchha. Customization ko lagi additional charge lagchha.",
+        "response": "Hajur, kehi product haru ma customization available chha. Additional charge lagchha."
+    },
+    {
+        "question": "Store ma product haru ko gift wrapping available chha?",
+        "context": "Hajur, hamro store ma gift wrapping service available chha. Gift wrapping ma ribbon, greeting card, ra wrapping paper include chha. Gift wrapping ko lagi additional Rs. 50 charge lagchha.",
+        "response": "Hajur, gift wrapping service available chha. Additional Rs. 50 charge lagchha."
+    },
+    {
+        "question": "Store ma product haru ko installation service kasari pauna sakincha?",
+        "context": "Installation service pauna tapai le checkout garda 'Installation Service' select garnu parcha. Installation service available bhaye staff le tapailai installation date ra time ko details dinchha.",
+        "response": "Checkout garda 'Installation Service' select garnu hos. Staff le installation date ra time ko details dinchha."
+    },
+    {
+        "question": "Store ma product haru ko repair service kasari pauna sakincha?",
+        "context": "Repair service pauna tapai le customer support lai contact garnu parcha. Warranty period bhitra free repair service hunchha, ra warranty sakisakyo bhane pani repair garna sakinchha.",
+        "response": "Customer support lai contact garnu hos. Warranty period bhitra free repair hunchha."
+    },
+    {
+        "question": "Store ma product haru ko return policy k chha?",
+        "context": "Product return garna 7 days ko within ma garnu parcha. Product unused ra original packaging ma huna parcha. Return garda invoice ra product satha return form bharnu parcha.",
+        "response": "7 days ko within ma return garnu parcha. Product unused ra original packaging ma huna parcha."
+    },
+    {
+        "question": "Store ma product haru ko warranty kati days ko chha?",
+        "context": "Product ko warranty 1 year ko chha. Warranty period bhitra defect dekha pare, free repair ya replacement garincha. Warranty claim garna invoice ra product serial number chahincha.",
+        "response": "Warranty 1 year ko chha. Defect dekha pare free repair ya replacement garincha."
+    },
+    {
+        "question": "Store ma product haru ko delivery charge kati hunchha?",
+        "context": "Delivery charge product ko weight ra location ma depend garchha. Kathmandu valley bhitra Rs. 100 hunchha, tara baira Rs. 200 dekhi Rs. 500 samma huna sakchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha.",
+        "response": "Kathmandu valley bhitra Rs. 100 hunchha, baira Rs. 200 dekhi Rs. 500 samma huna sakchha."
+    },
+    {
+        "question": "Store ma product haru ko discount kati kati hunchha?",
+        "context": "Store ma seasonal discount haru hunchha. Dashain, Tihar, ra New Year ma 20% samma discount hunchha. Membership card bhaye additional 5% discount hunchha.",
+        "response": "Dashain, Tihar, ra New Year ma 20% samma discount hunchha. Membership card bhaye additional 5% discount hunchha."
+    },
+    {
+        "question": "Store ma product haru ko availability kasari check garna sakincha?",
+        "context": "Product ko availability check garna product ko page ma 'Availability' section hernu hos. Tyaha tapai le product in stock cha ki nai herna sakchha. Out of stock bhaye 'Notify Me' option use garera notification pauna sakchha.",
+        "response": "Product ko page ma 'Availability' section hernu hos. Out of stock bhaye 'Notify Me' option use garnu hos."
+    },
+    {
+        "question": "Kathmandu bhitra delivery charge kati hunchha?",
+        "context": "Kathmandu valley bhitra delivery charge Rs. 100 hunchha. Delivery normally 1-2 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha.",
+        "response": "Kathmandu valley bhitra delivery charge Rs. 100 hunchha."
+    },
+    {
+        "question": "Pokhara ma delivery charge kati hunchha?",
+        "context": "Pokhara ma delivery charge Rs. 150 hunchha. Delivery normally 2-3 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha.",
+        "response": "Pokhara ma delivery charge Rs. 150 hunchha."
+    },
+    {
+        "question": "Biratnagar ma delivery charge kati hunchha?",
+        "context": "Biratnagar ma delivery charge Rs. 200 hunchha. Delivery normally 3-4 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha.",
+        "response": "Biratnagar ma delivery charge Rs. 200 hunchha."
+    },
+    {
+        "question": "Butwal ma delivery charge kati hunchha?",
+        "context": "Butwal ma delivery charge Rs. 180 hunchha. Delivery normally 3-4 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha.",
+        "response": "Butwal ma delivery charge Rs. 180 hunchha."
+    },
+    {
+        "question": "Dharan ma delivery charge kati hunchha?",
+        "context": "Dharan ma delivery charge Rs. 200 hunchha. Delivery normally 3-4 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha.",
+        "response": "Dharan ma delivery charge Rs. 200 hunchha."
+    },
+    {
+        "question": "Remote area ma delivery charge kati hunchha?",
+        "context": "Remote area ma delivery charge Rs. 300 dekhi Rs. 500 samma hunchha. Delivery normally 5-7 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha.",
+        "response": "Remote area ma delivery charge Rs. 300 dekhi Rs. 500 samma hunchha."
+    },
+    {
+        "question": "Expedited delivery ko charge kati hunchha?",
+        "context": "Expedited delivery ko charge Rs. 300 hunchha. Expedited delivery ma product 1-2 business days ma deliver hunchha. Expedited delivery sabai location ma available chha.",
+        "response": "Expedited delivery ko charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Free delivery ko condition k ho?",
+        "context": "Free delivery ko condition ho ki order Rs. 5,000 bhanda badi huna parcha. Free delivery sabai location ma available chha, tara remote area ma 5-7 business days lagchha.",
+        "response": "Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Kathmandu bhitra free delivery chha?",
+        "context": "Hajur, Kathmandu valley bhitra order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Free delivery ma product 1-2 business days ma deliver hunchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Pokhara ma free delivery chha?",
+        "context": "Hajur, Pokhara ma order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Free delivery ma product 2-3 business days ma deliver hunchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Biratnagar ma free delivery chha?",
+        "context": "Hajur, Biratnagar ma order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Free delivery ma product 3-4 business days ma deliver hunchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Butwal ma free delivery chha?",
+        "context": "Hajur, Butwal ma order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Free delivery ma product 3-4 business days ma deliver hunchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Dharan ma free delivery chha?",
+        "context": "Hajur, Dharan ma order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Free delivery ma product 3-4 business days ma deliver hunchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Remote area ma free delivery chha?",
+        "context": "Hajur, remote area ma order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Free delivery ma product 5-7 business days ma deliver hunchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Expedited delivery ma free delivery chha?",
+        "context": "Expedited delivery ma free delivery available chhaina. Expedited delivery ko charge Rs. 300 hunchha, ra order Rs. 5,000 bhanda badi bhaye pani charge lagchha.",
+        "response": "Expedited delivery ma free delivery available chhaina. Charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Kathmandu bhitra expedited delivery charge kati hunchha?",
+        "context": "Kathmandu valley bhitra expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 1 business day ma deliver hunchha.",
+        "response": "Kathmandu valley bhitra expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Pokhara ma expedited delivery charge kati hunchha?",
+        "context": "Pokhara ma expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 1-2 business days ma deliver hunchha.",
+        "response": "Pokhara ma expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Biratnagar ma expedited delivery charge kati hunchha?",
+        "context": "Biratnagar ma expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 2-3 business days ma deliver hunchha.",
+        "response": "Biratnagar ma expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Butwal ma expedited delivery charge kati hunchha?",
+        "context": "Butwal ma expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 2-3 business days ma deliver hunchha.",
+        "response": "Butwal ma expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Dharan ma expedited delivery charge kati hunchha?",
+        "context": "Dharan ma expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 2-3 business days ma deliver hunchha.",
+        "response": "Dharan ma expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Kathmandu bhitra delivery ma kati din lagchha?",
+        "context": "Kathmandu valley bhitra delivery normally 1-2 business days ma hunchha. Delivery charge Rs. 100 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery available chha, jasma Rs. 300 additional charge lagchha ra product 1 business day ma deliver hunchha.",
+        "response": "Kathmandu valley bhitra delivery 1-2 business days ma hunchha."
+    },
+    {
+        "question": "Pokhara ma delivery ma kati din lagchha?",
+        "context": "Pokhara ma delivery normally 2-3 business days ma hunchha. Delivery charge Rs. 150 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery available chha, jasma Rs. 300 additional charge lagchha ra product 1-2 business days ma deliver hunchha.",
+        "response": "Pokhara ma delivery 2-3 business days ma hunchha."
+    },
+    {
+        "question": "Biratnagar ma delivery ma kati din lagchha?",
+        "context": "Biratnagar ma delivery normally 3-4 business days ma hunchha. Delivery charge Rs. 200 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery available chha, jasma Rs. 300 additional charge lagchha ra product 2-3 business days ma deliver hunchha.",
+        "response": "Biratnagar ma delivery 3-4 business days ma hunchha."
+    },
+    {
+        "question": "Butwal ma delivery ma kati din lagchha?",
+        "context": "Butwal ma delivery normally 3-4 business days ma hunchha. Delivery charge Rs. 180 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery available chha, jasma Rs. 300 additional charge lagchha ra product 2-3 business days ma deliver hunchha.",
+        "response": "Butwal ma delivery 3-4 business days ma hunchha."
+    },
+    {
+        "question": "Dharan ma delivery ma kati din lagchha?",
+        "context": "Dharan ma delivery normally 3-4 business days ma hunchha. Delivery charge Rs. 200 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery available chha, jasma Rs. 300 additional charge lagchha ra product 2-3 business days ma deliver hunchha.",
+        "response": "Dharan ma delivery 3-4 business days ma hunchha."
+    },
+    {
+        "question": "Remote area ma delivery ma kati din lagchha?",
+        "context": "Remote area ma delivery normally 5-7 business days ma hunchha. Delivery charge Rs. 300 dekhi Rs. 500 samma hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery remote area ma available chhaina.",
+        "response": "Remote area ma delivery 5-7 business days ma hunchha."
+    },
+    {
+        "question": "Expedited delivery kati din ma hunchha?",
+        "context": "Expedited delivery ma product 1-2 business days ma deliver hunchha. Expedited delivery ko charge Rs. 300 hunchha, ra yo service Kathmandu, Pokhara, Biratnagar, Butwal, ra Dharan ma available chha. Remote area ma expedited delivery available chhaina.",
+        "response": "Expedited delivery ma product 1-2 business days ma deliver hunchha."
+    },
+    {
+        "question": "Expedited delivery kati additional charge hunchha?",
+        "context": "Expedited delivery ko additional charge Rs. 300 hunchha. Expedited delivery ma product 1-2 business days ma deliver hunchha, ra yo service Kathmandu, Pokhara, Biratnagar, Butwal, ra Dharan ma available chha.",
+        "response": "Expedited delivery ko additional charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Free delivery ko lagi order kati ko huna parcha?",
+        "context": "Free delivery ko lagi order Rs. 5,000 bhanda badi huna parcha. Free delivery sabai location ma available chha, tara remote area ma 5-7 business days lagchha. Expedited delivery ma free delivery available chhaina.",
+        "response": "Free delivery ko lagi order Rs. 5,000 bhanda badi huna parcha."
+    },
+    {
+        "question": "Kathmandu bhitra expedited delivery available chha?",
+        "context": "Hajur, Kathmandu valley bhitra expedited delivery available chha. Expedited delivery ko charge Rs. 300 hunchha, ra product 1 business day ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Hajur, Kathmandu valley bhitra expedited delivery available chha."
+    },
+    {
+        "question": "Pokhara ma expedited delivery available chha?",
+        "context": "Hajur, Pokhara ma expedited delivery available chha. Expedited delivery ko charge Rs. 300 hunchha, ra product 1-2 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Hajur, Pokhara ma expedited delivery available chha."
+    },
+    {
+        "question": "Biratnagar ma expedited delivery available chha?",
+        "context": "Hajur, Biratnagar ma expedited delivery available chha. Expedited delivery ko charge Rs. 300 hunchha, ra product 2-3 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Hajur, Biratnagar ma expedited delivery available chha."
+    },
+    {
+        "question": "Butwal ma expedited delivery available chha?",
+        "context": "Hajur, Butwal ma expedited delivery available chha. Expedited delivery ko charge Rs. 300 hunchha, ra product 2-3 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Hajur, Butwal ma expedited delivery available chha."
+    },
+    {
+        "question": "Dharan ma expedited delivery available chha?",
+        "context": "Hajur, Dharan ma expedited delivery available chha. Expedited delivery ko charge Rs. 300 hunchha, ra product 2-3 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Hajur, Dharan ma expedited delivery available chha."
+    },
+    {
+        "question": "Remote area ma expedited delivery available chha?",
+        "context": "Hajur, remote area ma expedited delivery available chhaina. Remote area ma delivery normally 5-7 business days ma hunchha, ra delivery charge Rs. 300 dekhi Rs. 500 samma hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Hajur, remote area ma expedited delivery available chhaina."
+    },
+    {
+        "question": "Delivery charge kati hunchha Kathmandu bhitra?",
+        "context": "Kathmandu valley bhitra delivery charge Rs. 100 hunchha. Delivery normally 1-2 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Kathmandu valley bhitra delivery charge Rs. 100 hunchha."
+    },
+    {
+        "question": "Delivery charge kati hunchha Pokhara ma?",
+        "context": "Pokhara ma delivery charge Rs. 150 hunchha. Delivery normally 2-3 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Pokhara ma delivery charge Rs. 150 hunchha."
+    },
+    {
+        "question": "Delivery charge kati hunchha Biratnagar ma?",
+        "context": "Biratnagar ma delivery charge Rs. 200 hunchha. Delivery normally 3-4 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Biratnagar ma delivery charge Rs. 200 hunchha."
+    },
+    {
+        "question": "Delivery charge kati hunchha Butwal ma?",
+        "context": "Butwal ma delivery charge Rs. 180 hunchha. Delivery normally 3-4 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Butwal ma delivery charge Rs. 180 hunchha."
+    },
+    {
+        "question": "Delivery charge kati hunchha Dharan ma?",
+        "context": "Dharan ma delivery charge Rs. 200 hunchha. Delivery normally 3-4 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Dharan ma delivery charge Rs. 200 hunchha."
+    },
+    {
+        "question": "Kathmandu bhitra delivery free hunchha?",
+        "context": "Kathmandu valley bhitra delivery charge Rs. 100 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Delivery normally 1-2 business days ma hunchha. Expedited delivery ko lagi Rs. 300 additional charge lagchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Pokhara ma delivery free hunchha?",
+        "context": "Pokhara ma delivery charge Rs. 150 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Delivery normally 2-3 business days ma hunchha. Expedited delivery ko lagi Rs. 300 additional charge lagchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Biratnagar ma delivery free hunchha?",
+        "context": "Biratnagar ma delivery charge Rs. 200 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Delivery normally 3-4 business days ma hunchha. Expedited delivery ko lagi Rs. 300 additional charge lagchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Butwal ma delivery free hunchha?",
+        "context": "Butwal ma delivery charge Rs. 180 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Delivery normally 3-4 business days ma hunchha. Expedited delivery ko lagi Rs. 300 additional charge lagchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Dharan ma delivery free hunchha?",
+        "context": "Dharan ma delivery charge Rs. 200 hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Delivery normally 3-4 business days ma hunchha. Expedited delivery ko lagi Rs. 300 additional charge lagchha.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Remote area ma delivery free hunchha?",
+        "context": "Remote area ma delivery charge Rs. 300 dekhi Rs. 500 samma hunchha, tara order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Delivery normally 5-7 business days ma hunchha. Expedited delivery remote area ma available chhaina.",
+        "response": "Hajur, order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha."
+    },
+    {
+        "question": "Expedited delivery free hunchha?",
+        "context": "Expedited delivery ma free delivery available chhaina. Expedited delivery ko charge Rs. 300 hunchha, ra product 1-2 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Hajur, expedited delivery ma free delivery available chhaina."
+    },
+    {
+        "question": "Kathmandu bhitra delivery charge kati hunchha?",
+        "context": "Kathmandu valley bhitra delivery charge Rs. 100 hunchha. Delivery normally 1-2 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Kathmandu valley bhitra delivery charge Rs. 100 hunchha."
+    },
+    {
+        "question": "Pokhara ma delivery charge kati hunchha?",
+        "context": "Pokhara ma delivery charge Rs. 150 hunchha. Delivery normally 2-3 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Pokhara ma delivery charge Rs. 150 hunchha."
+    },
+    {
+        "question": "Biratnagar ma delivery charge kati hunchha?",
+        "context": "Biratnagar ma delivery charge Rs. 200 hunchha. Delivery normally 3-4 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Biratnagar ma delivery charge Rs. 200 hunchha."
+    },
+    {
+        "question": "Butwal ma delivery charge kati hunchha?",
+        "context": "Butwal ma delivery charge Rs. 180 hunchha. Delivery normally 3-4 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Butwal ma delivery charge Rs. 180 hunchha."
+    },
+    {
+        "question": "Dharan ma delivery charge kati hunchha?",
+        "context": "Dharan ma delivery charge Rs. 200 hunchha. Delivery normally 3-4 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery ko charge Rs. 300 hunchha.",
+        "response": "Dharan ma delivery charge Rs. 200 hunchha."
+    },
+    {
+        "question": "Remote area ma delivery charge kati hunchha?",
+        "context": "Remote area ma delivery charge Rs. 300 dekhi Rs. 500 samma hunchha. Delivery normally 5-7 business days ma hunchha. Order Rs. 5,000 bhanda badi bhaye delivery charge free hunchha. Expedited delivery remote area ma available chhaina.",
+        "response": "Remote area ma delivery charge Rs. 300 dekhi Rs. 500 samma hunchha."
+    },
+    {
+        "question": "Expedited delivery ko charge kati hunchha?",
+        "context": "Expedited delivery ko charge Rs. 300 hunchha. Expedited delivery ma product 1-2 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Expedited delivery ko charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Kathmandu bhitra expedited delivery charge kati hunchha?",
+        "context": "Kathmandu valley bhitra expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 1 business day ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Kathmandu valley bhitra expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Pokhara ma expedited delivery charge kati hunchha?",
+        "context": "Pokhara ma expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 1-2 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Pokhara ma expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Biratnagar ma expedited delivery charge kati hunchha?",
+        "context": "Biratnagar ma expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 2-3 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Biratnagar ma expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Butwal ma expedited delivery charge kati hunchha?",
+        "context": "Butwal ma expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 2-3 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Butwal ma expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Dharan ma expedited delivery charge kati hunchha?",
+        "context": "Dharan ma expedited delivery charge Rs. 300 hunchha. Expedited delivery ma product 2-3 business days ma deliver hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Dharan ma expedited delivery charge Rs. 300 hunchha."
+    },
+    {
+        "question": "Remote area ma expedited delivery charge kati hunchha?",
+        "context": "Remote area ma expedited delivery available chhaina. Delivery charge Rs. 300 dekhi Rs. 500 samma hunchha, ra delivery normally 5-7 business days ma hunchha. Free delivery order Rs. 5,000 bhanda badi bhaye matra hunchha.",
+        "response": "Remote area ma expedited delivery available chhaina."
+    }
+]

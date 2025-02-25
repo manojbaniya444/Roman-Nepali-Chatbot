@@ -1,0 +1,117 @@
+[
+    {
+        "context": "Product: HP Pavilion Laptop, Price: Rs. 79,999, Features: Intel i5, 8GB RAM, 512GB SSD.",
+        "question": "HP Pavilion Laptop ma k k features cha?",
+        "response": "HP Pavilion Laptop ma Intel i5, 8GB RAM, ani 512GB SSD features cha."
+    },
+    {
+        "context": "Product: Nike Running Shoes, Price: Rs. 12,999, Features: Lightweight, Size: 7-11.",
+        "question": "Nike Running Shoes size k k available cha?",
+        "response": "Nike Running Shoes ko size 7 dekhi 11 samma available cha."
+    },
+    {
+        "context": "Product: Sony WH-1000XM4, Price: Rs. 39,999, Features: Noise Cancelling, Bluetooth, 30hrs Battery Life.",
+        "question": "Sony WH-1000XM4 ko battery life kati ho?",
+        "response": "Sony WH-1000XM4 ko battery life 30 ghanta ho."
+    },
+    {
+        "context": "Product: Apple iPhone 14, Price: Rs. 1,39,999, Features: 128GB, 5G, Midnight Color.",
+        "question": "Apple iPhone 14 kun color ma available cha?",
+        "response": "Apple iPhone 14 Midnight color ma available cha."
+    },
+    {
+        "context": "Product: LG Smart TV, Price: Rs. 59,999, Features: 43 Inch, 4K, WebOS.",
+        "question": "LG Smart TV ko resolution k ho?",
+        "response": "LG Smart TV ko resolution 4K ho."
+    },
+    {
+        "context": "Product: JBL Flip 5, Price: Rs. 12,499, Features: Waterproof, Bluetooth, 12hrs Battery.",
+        "question": "JBL Flip 5 waterproof ho?",
+        "response": "JBL Flip 5 waterproof ho."
+    },
+    {
+        "context": "Product: Dell Inspiron Laptop, Price: Rs. 92,000, Features: Intel i7, 16GB RAM, 1TB SSD.",
+        "question": "Dell Inspiron Laptop ko RAM kati ho?",
+        "response": "Dell Inspiron Laptop ma 16GB RAM cha."
+    },
+    {
+        "context": "Product: Adidas Sports T-Shirt, Price: Rs. 2,499, Features: Dry-Fit, Sizes: S, M, L, XL.",
+        "question": "Adidas Sports T-Shirt kun sizes ma cha?",
+        "response": "Adidas Sports T-Shirt S, M, L, XL sizes ma cha."
+    },
+    {
+        "context": "Product: Canon EOS 200D Camera, Price: Rs. 62,999, Features: 24.1MP, DSLR, WiFi.",
+        "question": "Canon EOS 200D ko megapixel kati ho?",
+        "response": "Canon EOS 200D ko megapixel 24.1MP ho."
+    },
+    {
+        "context": "Product: Redmi Note 12, Price: Rs. 23,499, Features: 6GB RAM, 128GB Storage, 5G.",
+        "question": "Redmi Note 12 5G support garcha?",
+        "response": "Ho, Redmi Note 12 5G support garcha."
+    },
+    {
+        "context": "Product: Samsung Refrigerator, Price: Rs. 45,999, Features: 253L, Double Door, Inverter.",
+        "question": "Samsung Refrigerator ko capacity kati ho?",
+        "response": "Samsung Refrigerator ko capacity 253L ho."
+    },
+    {
+        "context": "Product: Mi Band 7, Price: Rs. 5,999, Features: AMOLED Display, SpO2, 14 Days Battery.",
+        "question": "Mi Band 7 ko battery life kati din ko ho?",
+        "response": "Mi Band 7 ko battery life 14 din ho."
+    },
+    {
+        "context": "Product: Bose SoundLink Speaker, Price: Rs. 21,499, Features: Bluetooth, 360° Sound, Portable.",
+        "question": "Bose SoundLink Speaker portable ho?",
+        "response": "Ho, Bose SoundLink Speaker portable ho."
+    },
+    {
+        "context": "Product: Puma Running Shoes, Price: Rs. 9,999, Features: Lightweight, Sizes: 6-12.",
+        "question": "Puma Running Shoes ko price kati ho?",
+        "response": "Puma Running Shoes ko price Rs. 9,999 ho."
+    },
+    {
+        "context": "Product: Whirlpool Washing Machine, Price: Rs. 28,999, Features: 7kg, Fully Automatic.",
+        "question": "Whirlpool Washing Machine fully automatic ho?",
+        "response": "Ho, Whirlpool Washing Machine fully automatic ho."
+    },
+    {
+        "context": "Product: Lenovo Tab M10, Price: Rs. 19,999, Features: 10.1 Inch, 32GB, WiFi.",
+        "question": "Lenovo Tab M10 ma WiFi support cha?",
+        "response": "Ho, Lenovo Tab M10 ma WiFi support cha."
+    },
+    {
+        "context": "Product: Titan Smartwatch, Price: Rs. 12,999, Features: Heart Rate Monitor, GPS, AMOLED Display.",
+        "question": "Titan Smartwatch ma GPS feature cha?",
+        "response": "Ho, Titan Smartwatch ma GPS feature cha."
+    },
+    {
+        "context": "Product: OnePlus Nord 2, Price: Rs. 54,999, Features: 8GB RAM, 128GB Storage, 5G.",
+        "question": "OnePlus Nord 2 5G support garcha?",
+        "response": "Ho, OnePlus Nord 2 5G support garcha."
+    },
+    {
+        "context": "Product: Sony PS5, Price: Rs. 82,499, Features: 825GB SSD, 4K Gaming.",
+        "question": "Sony PS5 ko price kati ho?",
+        "response": "Sony PS5 ko price Rs. 82,499 ho."
+    },
+    {
+        "context": "Product: Philips Air Fryer, Price: Rs. 17,499, Features: 4L Capacity, Rapid Air Technology.",
+        "question": "Philips Air Fryer ko capacity kati ho?",
+        "response": "Philips Air Fryer ko capacity 4L ho."
+    },
+    {
+        "context": "Product: Samsung Galaxy Tab S7, Price: Rs. 69,999, Features: 11 Inch, 128GB, S Pen.",
+        "question": "Samsung Galaxy Tab S7 ma S Pen aaucha?",
+        "response": "Ho, Samsung Galaxy Tab S7 ma S Pen aaucha."
+    },
+    {
+        "context": "Product: Vivo V27, Price: Rs. 45,999, Features: 8GB RAM, 128GB Storage, Color Changing Design.",
+        "question": "Vivo V27 ma RAM kati ho?",
+        "response": "Vivo V27 ma 8GB RAM cha."
+    },
+    {
+        "context": "Product: Logitech MX Master 3 Mouse, Price: Rs. 12,499, Features: Wireless, Ergonomic, USB-C.",
+        "question": "Logitech MX Master 3 wireless ho?",
+        "response": "Ho, Logitech MX Master 3 wireless ho."
+    }
+]

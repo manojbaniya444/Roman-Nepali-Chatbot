@@ -1,0 +1,807 @@
+[
+    {
+        "question": "Kasto product available xa?",
+        "context": "Product name: Redmi Note 9 Pro, Price: 12000, Features: 128 GB SSD, Gorilla Glass. Hamro store ma mobile, laptop, TV xa.",
+        "response": "Hami sabai prakar ko electronics saman bechchau. Hami sanga Redmi Note 9 Pro, laptop, TV, adi saman available xa."
+    },
+    {
+        "question": "Redmi Note 9 Pro ko details dinus na.",
+        "context": "Product name: Redmi Note 9 Pro, Price: 12000, Features: 128 GB SSD, Gorilla Glass. Hamro store ma mobile, laptop, TV xa.",
+        "response": "Redmi Note 9 Pro ko price 12000 ho. Yo phone ma 128 GB SSD ra Gorilla Glass cha."
+    },
+    {
+        "question": "Store ma laptop pani xa?",
+        "context": "Hamro store ma mobile, laptop, TV xa.",
+        "response": "Ho, hamro store ma laptop pani available cha."
+    },
+    {
+        "question": "Samsung TV ko price kati ho?",
+        "context": "Product name: Samsung 32-inch Smart TV, Price: 35000, Features: Full HD, Smart Features. Hamro store ma mobile, TV, laptop xa.",
+        "response": "Samsung 32-inch Smart TV ko price 35000 ho. Yo TV ma Full HD ra Smart features cha."
+    },
+    {
+        "question": "Mobile ma kati model xa?",
+        "context": "Hamro store ma Redmi Note 9 Pro, Samsung Galaxy A10, ra iPhone 11 models available xa.",
+        "response": "Hamro store ma Redmi Note 9 Pro, Samsung Galaxy A10, ra iPhone 11 models available xa."
+    },
+    {
+        "question": "Laptop ko features k k huncha?",
+        "context": "Product name: Dell Inspiron 15, Price: 65000, Features: Intel i5, 8 GB RAM, 512 GB SSD. Hamro store ma laptop, mobile, TV xa.",
+        "response": "Dell Inspiron 15 ma Intel i5 processor, 8 GB RAM, ra 512 GB SSD cha. Price 65000 ho."
+    },
+    {
+        "question": "Gaming laptop cha ki nai?",
+        "context": "Hamro store ma gaming laptop pani available cha. Example: Asus ROG Strix, Price: 95000, Features: Intel i7, 16 GB RAM, RTX 3060.",
+        "response": "Ho, hamro store ma gaming laptop available cha, jastai Asus ROG Strix jasle Intel i7, 16 GB RAM, ra RTX 3060 support garcha. Price 95000 ho."
+    },
+    {
+        "question": "TV haru ko range k k cha?",
+        "context": "Hamro store ma 3 TV models available cha: Samsung 32-inch Smart TV (Price: 35000), LG 42-inch LED TV (Price: 45000), ra Sony 50-inch 4K TV (Price: 75000).",
+        "response": "Hamro store ma Samsung 32-inch Smart TV (35000), LG 42-inch LED TV (45000), ra Sony 50-inch 4K TV (75000) available cha."
+    },
+    {
+        "question": "Hamro store kaha cha?",
+        "context": "Hamro store Kathmandu, New Road ma cha. Online delivery pani available cha.",
+        "response": "Hamro store Kathmandu, New Road ma cha. Tapain online delivery pani order garna saknuhuncha."
+    },
+    {
+        "question": "iPhone 11 ko color options k k cha?",
+        "context": "Product name: iPhone 11, Price: 85000, Features: 128 GB, Dual Camera. Available colors: Black, White, Red.",
+        "response": "iPhone 11 Black, White, ra Red colors ma available cha."
+    },
+    {
+        "question": "Kati price ko mobile available xa?",
+        "context": "Hamro store ma Redmi Note 9 Pro (Price: 12000), Samsung Galaxy A10 (Price: 15000), iPhone 11 (Price: 85000), ra OnePlus Nord (Price: 30000) available cha. Sabai phones ma warranty pani available cha.",
+        "response": "Mobile ko price range 12000 dekhi 85000 samma cha."
+    },
+    {
+        "question": "Laptop ma RAM kati ko available cha?",
+        "context": "Hamro store ma Dell Inspiron 15 (8 GB RAM, Price: 65000), HP Pavilion (16 GB RAM, Price: 85000), ra Asus ROG Strix (16 GB RAM, Price: 95000) available cha. Laptops gaming, office, ra personal use ko lagi suitable cha.",
+        "response": "Laptop ma 8 GB dekhi 16 GB RAM ko options available cha."
+    },
+    {
+        "question": "iPhone 11 ko price kati ho?",
+        "context": "Hamro store ma Redmi Note 9 Pro (Price: 12000), Samsung Galaxy A10 (Price: 15000), iPhone 11 (Price: 85000), ra OnePlus Nord (Price: 30000) available cha. iPhone 11 ma 128 GB storage, dual camera, ra multiple color options available cha.",
+        "response": "iPhone 11 ko price 85000 ho."
+    },
+    {
+        "question": "TV ko size k k cha?",
+        "context": "Hamro store ma Samsung 32-inch Smart TV (Price: 35000), LG 42-inch LED TV (Price: 45000), Sony 50-inch 4K TV (Price: 75000), ra Xiaomi 55-inch OLED TV (Price: 95000) available cha. Sabai TVs ma one-year warranty cha.",
+        "response": "TV ko size 32-inch dekhi 55-inch samma cha."
+    },
+    {
+        "question": "Gaming laptop cha?",
+        "context": "Hamro store ma gaming laptop haru available cha. Asus ROG Strix (Intel i7, 16 GB RAM, RTX 3060, Price: 95000), Acer Predator (Intel i7, 16 GB RAM, RTX 3070, Price: 125000), ra HP Omen (Intel i9, 32 GB RAM, RTX 4080, Price: 180000) cha. Warranty 2 barshako ho.",
+        "response": "Ho, gaming laptop available cha jastai Asus ROG Strix ra Acer Predator."
+    },
+    {
+        "question": "Samsung Galaxy A10 ko features kasto cha?",
+        "context": "Hamro store ma Samsung Galaxy A10 available cha. Features: Price: 15000, Storage: 32 GB, Camera: 13 MP, Display: 6.2-inch HD+. Yo model budget-friendly smartphone ho.",
+        "response": "Samsung Galaxy A10 ma 32 GB storage, 13 MP camera, ra 6.2-inch HD+ display cha."
+    },
+    {
+        "question": "Mobile ko warranty xa ki nai?",
+        "context": "Hamro store ma Redmi Note 9 Pro, Samsung Galaxy A10, iPhone 11, ra OnePlus Nord available cha. Sabai phones ma one-year warranty cha. Redmi ma gorilla glass feature, iPhone ma dual camera, ra OnePlus ma 5G support cha.",
+        "response": "Ho, mobile ko warranty one-year ho."
+    },
+    {
+        "question": "Xiaomi TV ko price kati ho?",
+        "context": "Hamro store ma Samsung 32-inch Smart TV (Price: 35000), LG 42-inch LED TV (Price: 45000), Sony 50-inch 4K TV (Price: 75000), ra Xiaomi 55-inch OLED TV (Price: 95000) available cha.",
+        "response": "Xiaomi TV ko price 95000 ho."
+    },
+    {
+        "question": "OnePlus Nord ko color options ke ke cha?",
+        "context": "Hamro store ma OnePlus Nord available cha. Price: 30000, Features: 5G support, 128 GB storage, Dual camera. Available colors: Blue, Gray, ra White. Warranty 1 barsha ho.",
+        "response": "OnePlus Nord Blue, Gray, ra White colors ma available cha."
+    },
+    {
+        "question": "Store ma accessories cha?",
+        "context": "Hamro store ma electronics ko lagi accessories pani available cha, jastai earphones, chargers, screen protectors, ra laptop bags. Brands Samsung, Apple, ra MI ko cha. Accessories ko price 500 dekhi 5000 samma ho.",
+        "response": "Ho, accessories pani available cha jastai earphones ra chargers."
+    },
+    {
+        "question": "Laptop ko price range k k cha?",
+        "context": "Hamro store ma laptops Dell Inspiron 15 (Price: 65000), HP Pavilion (Price: 85000), ra Asus ROG Strix (Price: 95000) available cha. Gaming, office, ra personal use ko lagi laptops suitable cha.",
+        "response": "Laptop ko price range 65000 dekhi 95000 samma cha."
+    },
+    {
+        "question": "Warranty kati ko ho?",
+        "context": "Hamro store ma sabai electronics saman jastai mobile, TV, ra laptop ma warranty available cha. Mobile ma one-year warranty, TV ma 2 barshako warranty, ra laptops ma one-year standard warranty cha.",
+        "response": "Warranty mobile ko one-year, TV ko 2 barsa, ra laptop ko one-year ho."
+    },
+    {
+        "question": "Store kaha cha?",
+        "context": "Hamro store Kathmandu ko New Road ma cha. Hami online delivery pani garchau. Delivery Kathmandu ma free cha ra baaki thau ma nominal charge lagcha.",
+        "response": "Hamro store Kathmandu, New Road ma cha."
+    },
+    {
+        "question": "Redmi Note 9 Pro ko features bhanidinus na.",
+        "context": "Product name: Redmi Note 9 Pro, Price: 12000, Features: 128 GB SSD, Gorilla Glass, 48 MP Camera, 6.5-inch Display. Warranty: One-year.",
+        "response": "Redmi Note 9 Pro ma 128 GB SSD, Gorilla Glass, ra 48 MP Camera cha."
+    },
+    {
+        "question": "LG TV ko features kasto cha?",
+        "context": "Hamro store ma TV models Samsung 32-inch Smart TV (Price: 35000, Features: Full HD, Smart Features), LG 42-inch LED TV (Price: 45000, Features: 4K Ultra HD, HDMI, USB Ports), Sony 50-inch 4K TV (Price: 75000), ra Xiaomi 55-inch OLED TV (Price: 95000) available cha.",
+        "response": "LG 42-inch LED TV ma 4K Ultra HD, HDMI, ra USB Ports cha."
+    },
+    {
+        "question": "Sony TV cha?",
+        "context": "Hamro store ma Samsung, LG, Sony, ra Xiaomi ko TVs available cha. Sony ko 50-inch 4K TV (Price: 75000) with HDR, Smart Features ra Dolby Sound support garcha.",
+        "response": "Ho, Sony TV available cha, jastai 50-inch 4K TV (75000)."
+    },
+    {
+        "question": "Gaming accessories available cha?",
+        "context": "Hamro store ma gaming accessories pani available cha, jastai gaming mouse (Price: 2000-5000), mechanical keyboards (Price: 5000-12000), gaming headsets (Price: 3000-10000), ra gaming chairs (Price: 15000-30000). Brands: Razer, Logitech, HyperX.",
+        "response": "Ho, gaming accessories available cha jastai mouse, keyboard, ra headsets."
+    },
+    {
+        "question": "Xiaomi TV ma HDMI port cha?",
+        "context": "Xiaomi 55-inch OLED TV (Price: 95000) ma 4K display, HDR support, HDMI port, USB connectivity, ra Smart Features available cha. Warranty 2 barshako ho.",
+        "response": "Ho, Xiaomi TV ma HDMI port cha."
+    },
+    {
+        "question": "HP Pavilion ko details dinus.",
+        "context": "Hamro store ma HP Pavilion (Price: 85000, Features: Intel i7, 16 GB RAM, 1 TB SSD, Backlit Keyboard) available cha. Laptop gaming ra office use ko lagi suitable cha. Warranty one-year ho.",
+        "response": "HP Pavilion ma Intel i7, 16 GB RAM, ra 1 TB SSD cha."
+    },
+    {
+        "question": "Store ko contact number cha?",
+        "context": "Hamro store Kathmandu ko New Road ma cha. Contact number: 01-1234567. Email: support@hamrostore.com. Hami online delivery pani garchau.",
+        "response": "Hamro store ko contact number 01-1234567 ho."
+    },
+    {
+        "question": "Mobile phone ma 5G support cha?",
+        "context": "Hamro store ma Redmi Note 9 Pro, Samsung Galaxy A10, iPhone 11, ra OnePlus Nord available cha. OnePlus Nord ma 5G support cha. Baaki phones ma 4G network support garcha.",
+        "response": "Ho, OnePlus Nord ma 5G support cha."
+    },
+    {
+        "question": "Redmi Note 9 Pro ko storage options k k cha?",
+        "context": "Redmi Note 9 Pro (Price: 12000) ma 128 GB SSD ra 256 GB SSD variants available cha. Warranty one-year ho. Sabai models ma gorilla glass ra 48 MP camera cha.",
+        "response": "Redmi Note 9 Pro ma 128 GB ra 256 GB storage options available cha."
+    },
+    {
+        "question": "Gaming keyboard ko price kati ho?",
+        "context": "Hamro store ma gaming keyboards available cha. Logitech G Pro (Price: 10000), Razer BlackWidow (Price: 12000), ra HyperX Alloy Elite (Price: 8000). Mechanical keys ra RGB lighting support garcha.",
+        "response": "Gaming keyboard ko price 8000 dekhi 12000 samma cha."
+    },
+    {
+        "question": "iPhone 11 ma wireless charging support xa?",
+        "context": "iPhone 11 (Price: 85000) ma features: 128 GB storage, dual camera, water resistance, wireless charging support, ra multiple color options available cha.",
+        "response": "Ho, iPhone 11 ma wireless charging support cha."
+    },
+    {
+        "question": "Samsung TV ma Smart Features xa?",
+        "context": "Samsung 32-inch Smart TV (Price: 35000) ma Full HD display, Smart Features, HDMI port, USB connectivity, ra HDR support cha. Warranty 2 barshako ho.",
+        "response": "Ho, Samsung TV ma Smart Features cha."
+    },
+    {
+        "question": "Dell Inspiron 15 ma SSD cha ki nai?",
+        "context": "Dell Inspiron 15 (Price: 65000) ma Intel i5, 8 GB RAM, 512 GB SSD, ra Windows 11 pre-installed cha. Warranty one-year ho.",
+        "response": "Ho, Dell Inspiron 15 ma 512 GB SSD cha."
+    },
+    {
+        "question": "Mobile ma dual SIM support xa?",
+        "context": "Hamro store ma Redmi Note 9 Pro, Samsung Galaxy A10, iPhone 11, ra OnePlus Nord available cha. Redmi Note 9 Pro, Samsung Galaxy A10, ra OnePlus Nord ma dual SIM support cha. iPhone 11 ma eSIM ra nano-SIM support cha.",
+        "response": "Ho, Redmi Note 9 Pro, Samsung Galaxy A10, ra OnePlus Nord ma dual SIM support cha."
+    },
+    {
+        "question": "Asus ROG Strix gaming laptop ma graphics card kasto cha?",
+        "context": "Asus ROG Strix (Price: 95000) ma Intel i7, 16 GB RAM, RTX 3060 graphics card, ra RGB backlit keyboard cha. Laptop gaming ko lagi best ho. Warranty 2 barshako ho.",
+        "response": "Asus ROG Strix ma RTX 3060 graphics card cha."
+    },
+    {
+        "question": "Sony TV ko HDR support cha?",
+        "context": "Sony 50-inch 4K TV (Price: 75000) ma HDR support, Smart Features, Dolby Sound, ra 4K Ultra HD display cha. Warranty 2 barshako ho.",
+        "response": "Ho, Sony TV ma HDR support cha."
+    },
+    {
+        "question": "Store ma EMI option cha ki nai?",
+        "context": "Hamro store ma EMI option available cha. Mobile, laptop, ra TV jaasta electronics ma EMI facilities use garna sakincha. Zero interest EMI Samsung ra Apple products ma available cha.",
+        "response": "Ho, hamro store ma EMI option available cha."
+    },
+    {
+        "question": "Samsung Galaxy A10 ko color options kasto cha?",
+        "context": "Samsung Galaxy A10 (Price: 15000) ma 32 GB storage, 13 MP camera, ra 6.2-inch HD+ display cha. Available colors: Black, Blue, Red.",
+        "response": "Samsung Galaxy A10 Black, Blue, ra Red colors ma available cha."
+    },
+    {
+        "question": "Online delivery free ho ki charge lagcha?",
+        "context": "Hamro store ma online delivery service available cha. Kathmandu ma free delivery ho. Baaki thau ma nominal delivery charge lagcha.",
+        "response": "Kathmandu ma delivery free ho, baaki thau ma charge lagcha."
+    },
+    {
+        "question": "Laptop bags available cha?",
+        "context": "Hamro store ma laptop bags available cha. Brands: HP, Dell, ra Lenovo. Price: 1500 dekhi 5000 samma cha. Sabai bags ma warranty cha.",
+        "response": "Ho, laptop bags available cha."
+    },
+    {
+        "question": "Hamro store ma kun kun mobile brands available cha?",
+        "context": "Hamro store ma multiple mobile brands available cha: Redmi, Samsung, Apple, OnePlus, Vivo, ra Oppo. Price range 12000 dekhi 150000 samma cha. Sabai phones ma warranty cha.",
+        "response": "Hamro store ma Redmi, Samsung, Apple, OnePlus, Vivo, ra Oppo available cha."
+    },
+    {
+        "question": "OnePlus Nord ma camera kasto cha?",
+        "context": "OnePlus Nord (Price: 30000) ma 50 MP primary camera, 8 MP ultrawide lens, ra 32 MP selfie camera cha. Yo phone ma 5G support, 128 GB storage, ra 6.5-inch AMOLED display cha.",
+        "response": "OnePlus Nord ma 50 MP primary ra 32 MP selfie camera cha."
+    },
+    {
+        "question": "Store ma gaming mouse available cha?",
+        "context": "Hamro store ma gaming mouse brands jastai Logitech, Razer, ra HyperX available cha. Price 2000 dekhi 8000 samma cha. RGB lighting ra high DPI support features cha.",
+        "response": "Ho, gaming mouse available cha jastai Logitech ra Razer."
+    },
+    {
+        "question": "Xiaomi TV ma Smart Features cha ki nai?",
+        "context": "Xiaomi 55-inch OLED TV (Price: 95000) ma Smart Features, 4K Ultra HD, HDR support, HDMI ports, ra Dolby Vision cha. Warranty 2 barshako ho.",
+        "response": "Ho, Xiaomi TV ma Smart Features cha."
+    },
+    {
+        "question": "Samsung Galaxy A10 ma battery backup kasto cha?",
+        "context": "Samsung Galaxy A10 (Price: 15000) ma 3400 mAh battery cha, jasma one-day backup provide garcha. Yo phone ma 6.2-inch HD+ display, 32 GB storage, ra 13 MP camera cha.",
+        "response": "Samsung Galaxy A10 ma one-day battery backup cha."
+    },
+    {
+        "question": "iPhone 11 ma water resistance cha ki nai?",
+        "context": "iPhone 11 (Price: 85000) ma features: 128 GB storage, dual camera, wireless charging support, water resistance, ra multiple color options available cha.",
+        "response": "Ho, iPhone 11 ma water resistance cha."
+    },
+    {
+        "question": "Redmi Note 9 Pro ko display size kati ho?",
+        "context": "Redmi Note 9 Pro (Price: 12000) ma 6.5-inch display, gorilla glass protection, 128 GB storage, ra 48 MP camera cha. Yo phone budget-friendly option ho.",
+        "response": "Redmi Note 9 Pro ko display size 6.5-inch ho."
+    },
+    {
+        "question": "Gaming headset ko price kati ho?",
+        "context": "Hamro store ma gaming headsets available cha. Brands: HyperX Cloud II (Price: 7000), Razer Kraken (Price: 8000), Logitech G733 (Price: 9000). Sabai models ma high-quality sound ra mic support cha.",
+        "response": "Gaming headset ko price 7000 dekhi 9000 samma cha."
+    },
+    {
+        "question": "HP Pavilion ma storage options kasto cha?",
+        "context": "HP Pavilion (Price: 85000) ma 1 TB SSD storage cha. Yo laptop gaming ra office use ko lagi suitable cha. Features: Intel i7 processor, 16 GB RAM, ra Backlit Keyboard.",
+        "response": "HP Pavilion ma 1 TB SSD storage cha."
+    },
+    {
+        "question": "Store ma 4K TV available cha?",
+        "context": "Hamro store ma multiple 4K TVs available cha: Samsung 50-inch 4K Smart TV (Price: 75000), LG 42-inch 4K LED TV (Price: 45000), Sony 50-inch 4K HDR TV (Price: 75000), Xiaomi 55-inch OLED TV (Price: 95000).",
+        "response": "Ho, hamro store ma 4K TV available cha."
+    },
+    {
+        "question": "Dell Inspiron 15 ko processor kasto cha?",
+        "context": "Dell Inspiron 15 (Price: 65000) ma Intel i5 processor, 8 GB RAM, 512 GB SSD, ra Windows 11 pre-installed cha. Warranty one-year ho.",
+        "response": "Dell Inspiron 15 ma Intel i5 processor cha."
+    },
+    {
+        "question": "Mobile phone ko price range k k cha?",
+        "context": "Hamro store ma mobile phones Redmi Note 9 Pro (Price: 12000), Samsung Galaxy A10 (Price: 15000), iPhone 11 (Price: 85000), ra OnePlus Nord (Price: 30000) available cha. Price range 12000 dekhi 85000 samma cha.",
+        "response": "Mobile ko price range 12000 dekhi 85000 samma cha."
+    },
+    {
+        "question": "Sony TV ma Dolby Sound cha ki nai?",
+        "context": "Sony 50-inch 4K HDR TV (Price: 75000) ma features: HDR support, Dolby Sound, Smart Features, ra 4K Ultra HD display available cha. Warranty 2 barshako ho.",
+        "response": "Ho, Sony TV ma Dolby Sound cha."
+    },
+    {
+        "question": "Store ma Vivo phone available cha?",
+        "context": "Hamro store ma Redmi, Samsung, Apple, OnePlus, Vivo, ra Oppo brands available cha. Vivo V21 (Price: 30000) ma 44 MP selfie camera, 128 GB storage, ra AMOLED display cha.",
+        "response": "Ho, Vivo phone available cha."
+    },
+    {
+        "question": "Gaming laptop ma RTX graphics card cha?",
+        "context": "Hamro store ma gaming laptops available cha: Asus ROG Strix (Intel i7, RTX 3060, Price: 95000), Acer Predator (Intel i7, RTX 3070, Price: 125000), HP Omen (Intel i9, RTX 4080, Price: 180000).",
+        "response": "Ho, gaming laptops ma RTX graphics card available cha."
+    },
+    {
+        "question": "Mobile cover ko price kati ho?",
+        "context": "Hamro store ma accessories available cha jastai mobile covers, screen protectors, ra chargers. Mobile covers ko price 500 dekhi 1500 samma cha. Sabai major brands ko covers cha.",
+        "response": "Mobile cover ko price 500 dekhi 1500 samma cha."
+    },
+    {
+        "question": "OnePlus Nord ma AMOLED display cha ki nai?",
+        "context": "OnePlus Nord (Price: 30000) ma features: 6.5-inch AMOLED display, 5G support, 128 GB storage, 50 MP camera. Warranty one-year ho.",
+        "response": "Ho, OnePlus Nord ma AMOLED display cha."
+    },
+    {
+        "question": "LG TV ma USB port cha ki nai?",
+        "context": "LG 42-inch 4K LED TV (Price: 45000) ma features: 4K Ultra HD display, HDMI ports, USB connectivity, HDR support, ra Dolby Audio available cha. Warranty 2 barshako ho.",
+        "response": "Ho, LG TV ma USB port cha."
+    },
+    {
+        "question": "Asus ROG Strix laptop ma RAM kati ho?",
+        "context": "Asus ROG Strix (Price: 95000) ma features: Intel i7 processor, 16 GB RAM, RTX 3060 graphics card, 512 GB SSD, ra RGB backlit keyboard. Gaming ko lagi perfect laptop ho.",
+        "response": "Asus ROG Strix ma 16 GB RAM cha."
+    },
+    {
+        "question": "Samsung Galaxy S21 ko features kasto cha?",
+        "context": "Samsung Galaxy S21 (Price: 75000) ma 6.2-inch AMOLED display, 5G support, 128 GB storage, 64 MP triple camera setup, ra Exynos 2100 processor cha. Battery 4000 mAh ko ho, ra fast charging support cha.",
+        "response": "Samsung Galaxy S21 ma 6.2-inch AMOLED display ra 5G support cha."
+    },
+    {
+        "question": "Store ma Oppo ko kun model cha?",
+        "context": "Hamro store ma Oppo Reno 8 (Price: 35000) ra Oppo A54 (Price: 20000) available cha. Reno 8 ma 64 MP camera, 256 GB storage, ra AMOLED display cha. A54 ma 5000 mAh battery ra 6.5-inch HD+ display cha.",
+        "response": "Hamro store ma Oppo Reno 8 ra Oppo A54 available cha."
+    },
+    {
+        "question": "Gaming chair ko price range k k ho?",
+        "context": "Hamro store ma gaming chairs available cha. Brands: DXRacer (Price: 25000), Secretlab (Price: 30000), ra Cougar (Price: 20000). Sabai chairs ergonomic design ma cha.",
+        "response": "Gaming chair ko price 20000 dekhi 30000 samma cha."
+    },
+    {
+        "question": "Redmi Note 10 Pro ma display type kasto cha?",
+        "context": "Redmi Note 10 Pro (Price: 20000) ma 6.67-inch Super AMOLED display, 120 Hz refresh rate, 108 MP camera, ra 5020 mAh battery cha. Warranty 1 barshako ho.",
+        "response": "Redmi Note 10 Pro ma Super AMOLED display cha."
+    },
+    {
+        "question": "Store ma 5G phones available cha ki nai?",
+        "context": "Hamro store ma 5G phones available cha: Samsung Galaxy S21 (Price: 75000), OnePlus Nord (Price: 30000), Vivo V23 (Price: 40000), ra Xiaomi 11T Pro (Price: 50000). Sabai phones ma one-year warranty cha.",
+        "response": "Ho, hamro store ma 5G phones available cha."
+    },
+    {
+        "question": "Store ma earbuds available cha?",
+        "context": "Hamro store ma earbuds available cha. Brands: Apple AirPods (Price: 25000), Samsung Galaxy Buds (Price: 15000), ra Redmi Buds (Price: 5000). Sabai earbuds ma wireless connectivity cha.",
+        "response": "Ho, earbuds available cha jastai Apple AirPods ra Redmi Buds."
+    },
+    {
+        "question": "Xiaomi 11T Pro ma fast charging support cha ki nai?",
+        "context": "Xiaomi 11T Pro (Price: 50000) ma features: 120W fast charging, 108 MP camera, 6.67-inch AMOLED display, ra Snapdragon 888 processor cha. Warranty 1 barshako ho.",
+        "response": "Ho, Xiaomi 11T Pro ma 120W fast charging support cha."
+    },
+    {
+        "question": "Store ma TVs ko price range kati ho?",
+        "context": "Hamro store ma TVs Samsung 32-inch (Price: 35000), LG 42-inch 4K TV (Price: 45000), Sony 50-inch 4K TV (Price: 75000), ra Xiaomi 55-inch OLED TV (Price: 95000) available cha.",
+        "response": "TVs ko price range 35000 dekhi 95000 samma cha."
+    },
+    {
+        "question": "Apple AirPods ma noise cancellation cha ki nai?",
+        "context": "Apple AirPods Pro (Price: 25000) ma active noise cancellation, spatial audio, ra wireless charging case cha. Sabai AirPods ma one-year warranty cha.",
+        "response": "Ho, Apple AirPods ma noise cancellation cha."
+    },
+    {
+        "question": "Store ma printers available cha?",
+        "context": "Hamro store ma printers available cha: HP LaserJet (Price: 25000), Canon Pixma (Price: 15000), ra Epson EcoTank (Price: 20000). Sabai models office ra home use ko lagi suitable cha.",
+        "response": "Ho, printers available cha jastai HP LaserJet ra Canon Pixma."
+    },
+    {
+        "question": "Redmi Buds ko price kati ho?",
+        "context": "Hamro store ma earbuds available cha. Redmi Buds (Price: 5000), Samsung Galaxy Buds (Price: 15000), ra Apple AirPods (Price: 25000) available cha.",
+        "response": "Redmi Buds ko price 5000 ho."
+    },
+    {
+        "question": "Vivo V23 ko camera kasto cha?",
+        "context": "Vivo V23 (Price: 40000) ma 50 MP selfie camera, 64 MP primary camera, ra 8 MP ultrawide lens cha. Yo phone ma 6.44-inch AMOLED display ra 5G support cha.",
+        "response": "Vivo V23 ma 50 MP selfie ra 64 MP primary camera cha."
+    },
+    {
+        "question": "Store ma Smart TVs available cha?",
+        "context": "Hamro store ma Smart TVs Samsung 32-inch (Price: 35000), LG 42-inch 4K TV (Price: 45000), Sony 50-inch 4K HDR TV (Price: 75000), ra Xiaomi 55-inch OLED TV (Price: 95000) available cha. Sabai TVs ma HDMI, USB, ra Smart Features cha.",
+        "response": "Ho, hamro store ma Smart TVs available cha."
+    },
+    {
+        "question": "Samsung Galaxy S21 ko battery capacity kati ho?",
+        "context": "Samsung Galaxy S21 (Price: 75000) ma features: 4000 mAh battery, Exynos 2100 processor, 128 GB storage, ra 64 MP triple camera setup. Fast charging support cha.",
+        "response": "Samsung Galaxy S21 ko battery capacity 4000 mAh ho."
+    },
+    {
+        "question": "Store ma headphones available cha?",
+        "context": "Hamro store ma headphones available cha: Sony WH-1000XM4 (Price: 25000), JBL Live 650BT (Price: 15000), ra Bose QuietComfort 35 (Price: 30000). Sabai headphones ma noise cancellation cha.",
+        "response": "Ho, headphones available cha."
+    },
+    {
+        "question": "Redmi Note 10 ma refresh rate k k cha?",
+        "context": "Redmi Note 10 (Price: 20000) ma 6.43-inch AMOLED display, 60 Hz refresh rate, 48 MP camera, ra 5000 mAh battery cha. Budget-friendly phone ho.",
+        "response": "Redmi Note 10 ma 60 Hz refresh rate cha."
+    },
+    {
+        "question": "Xiaomi OLED TV ko warranty kati barshako ho?",
+        "context": "Xiaomi 55-inch OLED TV (Price: 95000) ma features: 4K Ultra HD, HDR support, Dolby Vision, ra HDMI ports cha. Warranty 2 barshako ho.",
+        "response": "Xiaomi OLED TV ko warranty 2 barshako ho."
+    },
+    {
+        "question": "Apple MacBook Air M1 ma SSD storage cha ki nai?",
+        "context": "Apple MacBook Air M1 (Price: 125000) ma 256 GB SSD, 8 GB RAM, M1 chip, ra Retina display cha. Warranty 1 barshako ho.",
+        "response": "Ho, MacBook Air M1 ma SSD storage cha."
+    },
+    {
+        "question": "Sony TV ko display size kati ho?",
+        "context": "Sony 50-inch 4K HDR TV (Price: 75000) ma 50-inch 4K Ultra HD display, HDR support, ra Dolby Sound cha. Warranty 2 barshako ho.",
+        "response": "Sony TV ko display size 50-inch ho."
+    },
+    {
+        "question": "Sony headphones ko noise cancellation cha ki nai?",
+        "context": "Sony WH-1000XM4 (Price: 25000) ma active noise cancellation, wireless connectivity, ra 30 hours battery backup cha. Bluetooth 5.0 support garcha ra fast charging ko option pani cha.",
+        "response": "Ho, Sony headphones ma noise cancellation cha."
+    },
+    {
+        "question": "Store ma DSLR cameras available cha?",
+        "context": "Hamro store ma DSLR cameras available cha: Canon EOS 1500D (Price: 55000), Nikon D5600 (Price: 65000), ra Sony Alpha A7 (Price: 125000). Sabai cameras ma interchangeable lens support cha.",
+        "response": "Ho, DSLR cameras available cha."
+    },
+    {
+        "question": "Xiaomi 11T Pro ma display type kasto cha?",
+        "context": "Xiaomi 11T Pro (Price: 50000) ma 6.67-inch AMOLED display, 120 Hz refresh rate, HDR10+ support, ra Gorilla Glass protection cha. Warranty 1 barshako ho.",
+        "response": "Xiaomi 11T Pro ma AMOLED display cha."
+    },
+    {
+        "question": "LG Smart TV ma app support cha ki nai?",
+        "context": "LG 42-inch 4K Smart TV (Price: 45000) ma Netflix, YouTube, Amazon Prime, ra Disney+ apps ko support cha. HDMI ports, USB connectivity, ra Dolby Audio features pani cha.",
+        "response": "Ho, LG Smart TV ma app support cha."
+    },
+    {
+        "question": "Store ma laptops ko price range kati ho?",
+        "context": "Hamro store ma laptops available cha: Dell Inspiron (Price: 65000), HP Pavilion (Price: 85000), MacBook Air M1 (Price: 125000), ra Asus ROG Strix (Price: 95000).",
+        "response": "Laptops ko price range 65000 dekhi 125000 samma cha."
+    },
+    {
+        "question": "Vivo V21 ko display size kati ho?",
+        "context": "Vivo V21 (Price: 30000) ma 6.44-inch AMOLED display, 44 MP selfie camera, 128 GB storage, ra 5G support cha. Battery 4000 mAh ko ho.",
+        "response": "Vivo V21 ko display size 6.44-inch ho."
+    },
+    {
+        "question": "Samsung Galaxy Watch ko features kasto cha?",
+        "context": "Samsung Galaxy Watch 4 (Price: 30000) ma heart rate monitor, SpO2 sensor, 1.4-inch AMOLED display, ra Bluetooth 5.0 cha. Battery life 2 din samma ho.",
+        "response": "Samsung Galaxy Watch ma heart rate monitor ra AMOLED display cha."
+    },
+    {
+        "question": "Store ma budget phones available cha?",
+        "context": "Hamro store ma budget phones available cha: Redmi Note 10 (Price: 20000), Samsung Galaxy A03 (Price: 15000), Vivo Y21 (Price: 18000).",
+        "response": "Ho, budget phones available cha."
+    },
+    {
+        "question": "MacBook Air M1 ko RAM kati ho?",
+        "context": "Apple MacBook Air M1 (Price: 125000) ma 8 GB RAM, 256 GB SSD, Retina display, ra M1 chip cha. Warranty 1 barshako ho.",
+        "response": "MacBook Air M1 ma 8 GB RAM cha."
+    },
+    {
+        "question": "Sony Alpha A7 ma lens options k k cha?",
+        "context": "Sony Alpha A7 (Price: 125000) ma 24 MP full-frame sensor, interchangeable lens support, ra 4K video recording features cha. Sabai Sony E-mount lenses compatible cha.",
+        "response": "Sony Alpha A7 ma sabai Sony E-mount lenses compatible cha."
+    },
+    {
+        "question": "Store ma earphones available cha ki nai?",
+        "context": "Hamro store ma earphones available cha: JBL C100 (Price: 1500), Sony MDR-EX150 (Price: 2000), ra Realme Buds 2 (Price: 1200).",
+        "response": "Ho, earphones available cha."
+    },
+    {
+        "question": "Redmi Note 11 Pro ko camera specs kasto cha?",
+        "context": "Redmi Note 11 Pro (Price: 25000) ma 108 MP primary camera, 8 MP ultrawide lens, ra 16 MP selfie camera cha. Display 6.67-inch Super AMOLED cha.",
+        "response": "Redmi Note 11 Pro ma 108 MP primary ra 16 MP selfie camera cha."
+    },
+    {
+        "question": "Store ma wireless chargers available cha?",
+        "context": "Hamro store ma wireless chargers available cha: Xiaomi 20W charger (Price: 2500), Samsung Fast Wireless Charger (Price: 4000), ra Belkin 15W charger (Price: 3000).",
+        "response": "Ho, wireless chargers available cha."
+    },
+    {
+        "question": "Samsung Smart TV ko screen size kati ho?",
+        "context": "Samsung 32-inch Smart TV (Price: 35000) ma 32-inch LED display, HDR support, ra built-in apps jastai Netflix, YouTube, ra Prime Video cha. Warranty 2 barshako ho.",
+        "response": "Samsung Smart TV ko screen size 32-inch ho."
+    },
+    {
+        "question": "Asus ROG Strix laptop ma graphics card kasto cha?",
+        "context": "Asus ROG Strix (Price: 95000) ma RTX 3060 graphics card, 16 GB RAM, 512 GB SSD, ra Intel i7 processor cha. Yo laptop gaming ko lagi suitable cha.",
+        "response": "Asus ROG Strix ma RTX 3060 graphics card cha."
+    },
+    {
+        "question": "Store ma Power Banks available cha ki nai?",
+        "context": "Hamro store ma Power Banks available cha: Xiaomi 10000 mAh (Price: 2000), Anker 20000 mAh (Price: 4000), ra Samsung 10000 mAh (Price: 3000).",
+        "response": "Ho, Power Banks available cha."
+    },
+    {
+        "question": "Redmi Buds 3 Pro ma battery backup kati cha?",
+        "context": "Redmi Buds 3 Pro (Price: 6000) ma 6 hours playback time, 28 hours with charging case, active noise cancellation, ra Bluetooth 5.2 support cha.",
+        "response": "Redmi Buds 3 Pro ma 28 hours ko battery backup cha."
+    },
+    {
+        "question": "Store ma fitness bands available cha?",
+        "context": "Hamro store ma fitness bands available cha: Mi Band 6 (Price: 4000), Honor Band 6 (Price: 4500), ra Fitbit Charge 5 (Price: 12000). Sabai ma heart rate tracking cha.",
+        "response": "Ho, fitness bands available cha."
+    },
+    {
+        "question": "Dell Inspiron 15 ko warranty kati ho?",
+        "context": "Dell Inspiron 15 (Price: 65000) ma 1 barshako warranty cha. Features: Intel i5 processor, 512 GB SSD, 8 GB RAM, ra 15.6-inch display cha.",
+        "response": "Dell Inspiron 15 ko warranty 1 barshako ho."
+    },
+    {
+        "question": "Store ma LED TVs available cha?",
+        "context": "Hamro store ma LED TVs available cha: Samsung 32-inch (Price: 35000), LG 42-inch (Price: 45000), ra Sony 50-inch (Price: 75000).",
+        "response": "Ho, LED TVs available cha."
+    },
+    {
+        "question": "Store ma 4K TVs available cha ki nai?",
+        "context": "Hamro store ma 4K TVs available cha: Samsung 50-inch 4K TV (Price: 75000), LG 42-inch 4K Smart TV (Price: 45000), ra Sony Bravia 55-inch 4K OLED TV (Price: 95000). Sabai TVs ma HDR support cha.",
+        "response": "Ho, hamro store ma 4K TVs available cha."
+    },
+    {
+        "question": "Canon printer ko ink capacity kasto cha?",
+        "context": "Canon Pixma G2020 (Price: 15000) ma refillable ink tanks, 7000 pages ko black ink capacity, ra 6000 pages ko color ink capacity cha. Sabai printers ma 1 barshako warranty cha.",
+        "response": "Canon printer ko black ink capacity 7000 pages ko ho."
+    },
+    {
+        "question": "Redmi Note 12 Pro ma RAM kati cha?",
+        "context": "Redmi Note 12 Pro (Price: 30000) ma 8 GB RAM, 256 GB storage, 120 Hz AMOLED display, ra 108 MP camera cha. Fast charging ko lagi 67W charger included cha.",
+        "response": "Redmi Note 12 Pro ma 8 GB RAM cha."
+    },
+    {
+        "question": "Store ma gaming keyboards available cha?",
+        "context": "Hamro store ma gaming keyboards available cha: Razer BlackWidow (Price: 15000), Logitech G Pro (Price: 12000), ra Corsair K95 RGB (Price: 18000). Sabai keyboards mechanical switches ma cha.",
+        "response": "Ho, gaming keyboards available cha."
+    },
+    {
+        "question": "Vivo Y21 ma battery capacity kati ho?",
+        "context": "Vivo Y21 (Price: 18000) ma 5000 mAh battery, 6.5-inch HD+ display, 4 GB RAM, ra 64 GB storage cha. Android 11 operating system cha.",
+        "response": "Vivo Y21 ko battery capacity 5000 mAh ho."
+    },
+    {
+        "question": "HP Pavilion laptop ma processor type kasto cha?",
+        "context": "HP Pavilion 15 (Price: 85000) ma Intel i5 11th Gen processor, 8 GB RAM, 512 GB SSD, ra 15.6-inch Full HD display cha. Warranty 1 barshako ho.",
+        "response": "HP Pavilion laptop ma Intel i5 processor cha."
+    },
+    {
+        "question": "Store ma tablets available cha ki nai?",
+        "context": "Hamro store ma tablets available cha: Apple iPad Air (Price: 70000), Samsung Galaxy Tab S7 (Price: 60000), ra Lenovo Tab P11 Pro (Price: 50000). Sabai tablets ma stylus support cha.",
+        "response": "Ho, tablets available cha."
+    },
+    {
+        "question": "Samsung Galaxy A03 ma expandable storage cha ki nai?",
+        "context": "Samsung Galaxy A03 (Price: 15000) ma 64 GB internal storage, expandable storage upto 1 TB, 5000 mAh battery, ra 6.5-inch HD+ display cha.",
+        "response": "Ho, Samsung Galaxy A03 ma expandable storage cha."
+    },
+    {
+        "question": "Store ma monitors available cha?",
+        "context": "Hamro store ma monitors available cha: Dell 24-inch Full HD monitor (Price: 15000), Samsung 27-inch curved monitor (Price: 25000), ra LG UltraWide 34-inch monitor (Price: 40000).",
+        "response": "Ho, monitors available cha."
+    },
+    {
+        "question": "OnePlus Nord 2T ma fast charging support cha ki nai?",
+        "context": "OnePlus Nord 2T (Price: 38000) ma 80W fast charging support, MediaTek Dimensity 1300 processor, 50 MP camera, ra 4500 mAh battery cha. Warranty 1 barshako ho.",
+        "response": "Ho, OnePlus Nord 2T ma fast charging support cha."
+    },
+    {
+        "question": "Store ma gaming laptops ko price range kati ho?",
+        "context": "Hamro store ma gaming laptops available cha: Asus ROG Strix (Price: 95000), Acer Nitro 5 (Price: 85000), ra HP Omen 15 (Price: 110000). Sabai laptops RTX series graphics card sanga cha.",
+        "response": "Gaming laptops ko price range 85000 dekhi 110000 samma cha."
+    },
+    {
+        "question": "Sony Bravia TV ko sound features kasto cha?",
+        "context": "Sony Bravia 55-inch OLED TV (Price: 95000) ma Dolby Atmos sound, built-in speakers, ra bass enhancement features cha. HDMI ARC support pani cha.",
+        "response": "Sony Bravia TV ma Dolby Atmos sound cha."
+    },
+    {
+        "question": "Store ma Samsung ko smartphones kun kun cha?",
+        "context": "Hamro store ma Samsung smartphones available cha: Galaxy A03 (Price: 15000), Galaxy S21 (Price: 75000), ra Galaxy Z Fold 3 (Price: 150000).",
+        "response": "Hamro store ma Galaxy A03, Galaxy S21, ra Galaxy Z Fold 3 available cha."
+    },
+    {
+        "question": "Redmi Power Bank ko capacity kati ho?",
+        "context": "Redmi Power Bank 20000 mAh (Price: 3000) ma dual USB output, fast charging support, ra lightweight design cha. Warranty 6 mahinako ho.",
+        "response": "Redmi Power Bank ko capacity 20000 mAh ho."
+    },
+    {
+        "question": "Store ma wireless mice available cha?",
+        "context": "Hamro store ma wireless mice available cha: Logitech MX Master 3 (Price: 10000), HP Wireless Mouse 250 (Price: 1500), ra Razer Basilisk X (Price: 4500).",
+        "response": "Ho, wireless mice available cha."
+    },
+    {
+        "question": "Apple iPad Air ma stylus support cha ki nai?",
+        "context": "Apple iPad Air (Price: 70000) ma Apple Pencil support, A14 Bionic chip, 10.9-inch Retina display, ra 256 GB storage cha.",
+        "response": "Ho, Apple iPad Air ma stylus support cha."
+    },
+    {
+        "question": "Store ma high-end TVs kun kun cha?",
+        "context": "Hamro store ma high-end TVs available cha: Sony Bravia 55-inch OLED TV (Price: 95000), Samsung QLED 65-inch (Price: 125000), ra LG NanoCell 65-inch (Price: 120000).",
+        "response": "High-end TVs ma Sony Bravia, Samsung QLED, ra LG NanoCell cha."
+    },
+    {
+        "question": "Samsung Z Fold 3 ma display type kasto cha?",
+        "context": "Samsung Galaxy Z Fold 3 (Price: 150000) ma 7.6-inch AMOLED foldable display, 120 Hz refresh rate, ra Gorilla Glass protection cha. Secondary display 6.2-inch AMOLED cha.",
+        "response": "Samsung Z Fold 3 ma foldable AMOLED display cha."
+    },
+    {
+        "question": "Store ma Bluetooth speakers available cha?",
+        "context": "Hamro store ma Bluetooth speakers available cha: JBL Flip 6 (Price: 15000), Sony XB43 (Price: 20000), ra Bose SoundLink Mini II (Price: 25000).",
+        "response": "Ho, Bluetooth speakers available cha."
+    },
+    {
+        "question": "Xiaomi Mi Band 6 ko battery backup kati ho?",
+        "context": "Xiaomi Mi Band 6 (Price: 4000) ma 14 din samma ko battery backup, heart rate monitor, SpO2 tracking, ra 1.56-inch AMOLED display cha.",
+        "response": "Mi Band 6 ko battery backup 14 din samma ho."
+    },
+    {
+        "question": "Store ma smartwatches kun kun available cha?",
+        "context": "Hamro store ma smartwatches available cha: Apple Watch Series 8 (Price: 65000), Samsung Galaxy Watch 5 (Price: 45000), Fitbit Versa 4 (Price: 30000), ra Amazfit GTR 4 (Price: 25000).",
+        "response": "Apple Watch, Galaxy Watch 5, Fitbit Versa, ra Amazfit GTR available cha."
+    },
+    {
+        "question": "Dell XPS 13 laptop ko screen resolution kasto cha?",
+        "context": "Dell XPS 13 (Price: 125000) ma 13.3-inch 4K Ultra HD display, Intel i7 12th Gen processor, 16 GB RAM, ra 512 GB SSD cha. Battery life 10 ghanta samma ho.",
+        "response": "Dell XPS 13 ko screen resolution 4K Ultra HD ho."
+    },
+    {
+        "question": "Store ma entry-level gaming laptops available cha?",
+        "context": "Hamro store ma entry-level gaming laptops available cha: Acer Nitro 5 (Price: 85000), Lenovo IdeaPad Gaming 3 (Price: 80000), ra HP Victus 16 (Price: 90000). Sabai laptops ma GTX 1650 graphics card cha.",
+        "response": "Ho, entry-level gaming laptops available cha."
+    },
+    {
+        "question": "Samsung Galaxy Tab S8 ko screen size kati ho?",
+        "context": "Samsung Galaxy Tab S8 (Price: 80000) ma 11-inch WQXGA display, 256 GB storage, ra S Pen included cha. Android 12 operating system cha.",
+        "response": "Samsung Galaxy Tab S8 ko screen size 11-inch ho."
+    },
+    {
+        "question": "Store ma portable Bluetooth speakers available cha?",
+        "context": "Hamro store ma portable Bluetooth speakers available cha: JBL Go 3 (Price: 4000), Sony SRS-XB13 (Price: 5000), ra Anker Soundcore 2 (Price: 3500).",
+        "response": "Ho, portable Bluetooth speakers available cha."
+    },
+    {
+        "question": "Lenovo ThinkPad ma business features kasto cha?",
+        "context": "Lenovo ThinkPad X1 Carbon (Price: 120000) ma fingerprint scanner, ThinkShutter privacy camera, 14-inch Full HD display, ra spill-resistant keyboard cha. Battery life 12 ghanta samma ho.",
+        "response": "Lenovo ThinkPad ma fingerprint scanner ra privacy features cha."
+    },
+    {
+        "question": "Store ma high-end graphics cards available cha?",
+        "context": "Hamro store ma high-end graphics cards available cha: NVIDIA RTX 3080 (Price: 120000), AMD Radeon RX 6800 XT (Price: 110000), ra NVIDIA RTX 4090 (Price: 250000).",
+        "response": "Ho, high-end graphics cards available cha."
+    },
+    {
+        "question": "Asus TUF Gaming laptop ko keyboard features kasto cha?",
+        "context": "Asus TUF Gaming F15 (Price: 100000) ma RGB backlit keyboard, 144 Hz display, RTX 3060 graphics card, ra Intel i7 processor cha. Laptop gaming ko lagi optimized cha.",
+        "response": "Asus TUF Gaming laptop ma RGB backlit keyboard cha."
+    },
+    {
+        "question": "Store ma external SSDs kun kun available cha?",
+        "context": "Hamro store ma external SSDs available cha: Samsung T7 (Price: 10000), SanDisk Extreme Pro (Price: 12000), ra WD My Passport SSD (Price: 11000). Sabai ma USB 3.2 support cha.",
+        "response": "Samsung T7, SanDisk Extreme Pro, ra WD My Passport SSD available cha."
+    },
+    {
+        "question": "HP Victus gaming laptop ma cooling system kasto cha?",
+        "context": "HP Victus 16 (Price: 90000) ma enhanced cooling system, GTX 1650 graphics card, Intel i5 processor, 8 GB RAM, ra 512 GB SSD cha.",
+        "response": "HP Victus ma enhanced cooling system cha."
+    },
+    {
+        "question": "Store ma noise-canceling headphones available cha?",
+        "context": "Hamro store ma noise-canceling headphones available cha: Bose QuietComfort 45 (Price: 45000), Sony WH-1000XM4 (Price: 35000), ra JBL Live 660NC (Price: 20000).",
+        "response": "Ho, noise-canceling headphones available cha."
+    },
+    {
+        "question": "Apple MacBook Pro 16-inch ko RAM capacity kati ho?",
+        "context": "Apple MacBook Pro 16-inch (Price: 250000) ma 16 GB unified RAM, 1 TB SSD, M1 Pro chip, ra Retina display cha. Battery backup 21 ghanta samma cha.",
+        "response": "MacBook Pro 16-inch ma 16 GB RAM cha."
+    },
+    {
+        "question": "Store ma Android TVs available cha ki nai?",
+        "context": "Hamro store ma Android TVs available cha: Xiaomi Mi TV 4X (Price: 45000), TCL 43-inch Android TV (Price: 40000), ra Sony Bravia 50-inch Android TV (Price: 70000).",
+        "response": "Ho, Android TVs available cha."
+    },
+    {
+        "question": "OnePlus Buds Pro ko battery life kati ho?",
+        "context": "OnePlus Buds Pro (Price: 15000) ma 7 hours playback time, 38 hours with charging case, active noise cancellation, ra Bluetooth 5.2 support cha.",
+        "response": "OnePlus Buds Pro ko battery life 38 hours samma ho."
+    },
+    {
+        "question": "Store ma smart refrigerators available cha?",
+        "context": "Hamro store ma smart refrigerators available cha: LG InstaView Door-in-Door (Price: 150000), Samsung Family Hub (Price: 200000), ra Whirlpool IntelliFresh Pro (Price: 120000).",
+        "response": "Ho, smart refrigerators available cha."
+    },
+    {
+        "question": "Sony Alpha A6400 ko video recording features kasto cha?",
+        "context": "Sony Alpha A6400 (Price: 95000) ma 4K video recording, 120 fps slow motion, 24.2 MP APS-C sensor, ra tiltable LCD screen cha.",
+        "response": "Sony Alpha A6400 ma 4K video recording cha."
+    },
+    {
+        "question": "Store ma curved monitors kun kun available cha?",
+        "context": "Hamro store ma curved monitors available cha: Samsung 27-inch Curved Monitor (Price: 25000), MSI Optix 32-inch Curved Monitor (Price: 35000), ra LG UltraGear 34-inch Curved Monitor (Price: 50000).",
+        "response": "Samsung, MSI Optix, ra LG curved monitors available cha."
+    },
+    {
+        "question": "Store ma wireless chargers ko price range kati ho?",
+        "context": "Hamro store ma wireless chargers available cha: Samsung Fast Charger (Price: 4000), Xiaomi Mi Wireless Charger (Price: 2500), ra Belkin 15W Charger (Price: 3000).",
+        "response": "Wireless chargers ko price range 2500 dekhi 4000 samma cha."
+    },
+    {
+        "question": "Dell Inspiron 14 ko weight kasto cha?",
+        "context": "Dell Inspiron 14 (Price: 75000) ma 1.5 kg ko weight, Intel i5 processor, 8 GB RAM, 512 GB SSD, ra 14-inch Full HD display cha.",
+        "response": "Dell Inspiron 14 ko weight 1.5 kg ho."
+    },
+    {
+        "question": "Store ma professional microphones available cha?",
+        "context": "Hamro store ma professional microphones available cha: Shure SM7B (Price: 50000), Rode NT1-A (Price: 30000), ra Blue Yeti Pro (Price: 20000).",
+        "response": "Ho, professional microphones available cha."
+    },
+    {
+        "question": "Store ma professional DSLR cameras available cha?",
+        "context": "Hamro store ma professional DSLR cameras available cha: Canon EOS R6 (Price: 250000) with 20.1 MP full-frame sensor, Nikon D850 (Price: 300000) with 45.7 MP resolution, ra Sony A7 III (Price: 220000) with 24.2 MP full-frame sensor. Sabai cameras ma 4K video recording support cha.",
+        "response": "Ho, professional DSLR cameras available cha."
+    },
+    {
+        "question": "Samsung Galaxy S21 Ultra ko camera features kasto cha?",
+        "context": "Samsung Galaxy S21 Ultra (Price: 125000) ma 108 MP quad-camera setup, 10x optical zoom, 40 MP selfie camera, ra 8K video recording support cha. Battery capacity 5000 mAh ho.",
+        "response": "Samsung Galaxy S21 Ultra ma 108 MP camera ra 8K recording cha."
+    },
+    {
+        "question": "Store ma gaming accessories available cha ki nai?",
+        "context": "Hamro store ma gaming accessories available cha: Razer DeathAdder V2 mouse (Price: 8000), SteelSeries Arctis 7 headset (Price: 15000), Corsair K70 RGB keyboard (Price: 12000), ra HyperX Cloud II headset (Price: 10000).",
+        "response": "Ho, gaming accessories available cha."
+    },
+    {
+        "question": "Apple MacBook Air M2 ma display resolution kasto cha?",
+        "context": "Apple MacBook Air M2 (Price: 145000) ma 13.6-inch Liquid Retina display with 2560 x 1664 resolution, M2 chip, 8 GB unified RAM, ra 256 GB SSD cha. Battery life 18 ghanta samma ho.",
+        "response": "MacBook Air M2 ko resolution 2560 x 1664 ho."
+    },
+    {
+        "question": "Store ma budget smartphones available cha?",
+        "context": "Hamro store ma budget smartphones available cha: Xiaomi Redmi 10A (Price: 12000), Samsung Galaxy A03 Core (Price: 10000), ra Realme C31 (Price: 11500). Sabai phones ma 5000 mAh battery cha.",
+        "response": "Ho, budget smartphones available cha."
+    },
+    {
+        "question": "LG NanoCell TV ko screen size kati ho?",
+        "context": "LG NanoCell TV 65-inch (Price: 120000) ma 4K Ultra HD display, Dolby Vision, HDR10 support, ra AI-powered picture processing cha. Warranty 2 barshako ho.",
+        "response": "LG NanoCell TV ko screen size 65-inch ho."
+    },
+    {
+        "question": "Store ma portable hard drives available cha ki nai?",
+        "context": "Hamro store ma portable hard drives available cha: Seagate Backup Plus 1 TB (Price: 5000), WD Elements 2 TB (Price: 6000), ra Toshiba Canvio Basics 1 TB (Price: 4500). Sabai ma USB 3.0 support cha.",
+        "response": "Ho, portable hard drives available cha."
+    },
+    {
+        "question": "Sony WH-1000XM5 headphones ma battery life kati ho?",
+        "context": "Sony WH-1000XM5 (Price: 40000) ma active noise cancellation, 30 hours battery life, Bluetooth 5.2 support, ra touch controls cha. Fast charging ma 10 minutes charge le 5 hours playback dincha.",
+        "response": "Sony WH-1000XM5 ma 30 hours battery life cha."
+    },
+    {
+        "question": "Store ma smart TVs ko price range kati ho?",
+        "context": "Hamro store ma smart TVs ko price range 30000 dekhi 150000 samma cha: Xiaomi Mi TV 4A (Price: 30000), Samsung Crystal UHD 50-inch (Price: 75000), ra LG C1 OLED 55-inch (Price: 150000).",
+        "response": "Smart TVs ko price range 30000 dekhi 150000 samma ho."
+    },
+    {
+        "question": "Store ma USB Type-C chargers available cha?",
+        "context": "Hamro store ma USB Type-C chargers available cha: Anker PowerPort 20W (Price: 2000), Samsung 25W Travel Adapter (Price: 2500), ra Belkin 30W Charger (Price: 3000). Sabai chargers ma fast charging support cha.",
+        "response": "Ho, USB Type-C chargers available cha."
+    },
+    {
+        "question": "Dell Alienware gaming laptop ko graphics card kasto cha?",
+        "context": "Dell Alienware X15 (Price: 250000) ma NVIDIA RTX 3080 graphics card, 15.6-inch 360 Hz display, Intel i9 processor, ra 32 GB RAM cha. Laptop ma advanced cooling system cha.",
+        "response": "Dell Alienware ma NVIDIA RTX 3080 graphics card cha."
+    },
+    {
+        "question": "Store ma wireless earphones available cha ki nai?",
+        "context": "Hamro store ma wireless earphones available cha: Apple AirPods Pro (Price: 30000), Samsung Galaxy Buds 2 (Price: 15000), ra OnePlus Buds Z2 (Price: 10000). Sabai ma active noise cancellation cha.",
+        "response": "Ho, wireless earphones available cha."
+    },
+    {
+        "question": "Canon Pixma printer ko paper handling capacity kati ho?",
+        "context": "Canon Pixma G2020 (Price: 15000) ma 100-sheet input tray capacity, refillable ink tanks, ra auto duplex printing support cha. Printer ma 1-year warranty cha.",
+        "response": "Canon Pixma printer ko paper handling capacity 100 sheets ho."
+    },
+    {
+        "question": "Store ma budget laptops kun kun available cha?",
+        "context": "Hamro store ma budget laptops available cha: Lenovo IdeaPad 3 (Price: 50000), HP 14s (Price: 55000), ra Acer Aspire 5 (Price: 52000). Sabai laptops ma Intel i3 processor ra 256 GB SSD cha.",
+        "response": "Lenovo IdeaPad 3, HP 14s, ra Acer Aspire 5 budget laptops available cha."
+    },
+    {
+        "question": "Samsung Galaxy Watch 5 ma health tracking features kasto cha?",
+        "context": "Samsung Galaxy Watch 5 (Price: 45000) ma heart rate monitoring, SpO2 tracking, sleep analysis, ra body composition measurement cha. Battery life 2 din samma ho.",
+        "response": "Galaxy Watch 5 ma heart rate, SpO2, ra body composition tracking cha."
+    },
+    {
+        "question": "Store ma noise-canceling earbuds available cha?",
+        "context": "Hamro store ma noise-canceling earbuds available cha: Bose QuietComfort Earbuds II (Price: 40000), Sony WF-1000XM4 (Price: 35000), ra Jabra Elite 7 Pro (Price: 25000).",
+        "response": "Ho, noise-canceling earbuds available cha."
+    },
+    {
+        "question": "Store ma high-speed internet routers available cha ki nai?",
+        "context": "Hamro store ma high-speed internet routers available cha: TP-Link Archer AX50 (Price: 10000), Netgear Nighthawk AX12 (Price: 25000), ra Asus RT-AX82U (Price: 15000). Sabai routers ma Wi-Fi 6 support cha.",
+        "response": "Ho, high-speed internet routers available cha."
+    },
+    {
+        "question": "Apple iPad Pro 12.9-inch ko chip type kasto cha?",
+        "context": "Apple iPad Pro 12.9-inch (Price: 180000) ma M2 chip, 2 TB storage, Liquid Retina XDR display, ra Apple Pencil compatibility cha.",
+        "response": "Apple iPad Pro 12.9-inch ma M2 chip cha."
+    },
+    {
+        "question": "Store ma smart door locks available cha?",
+        "context": "Hamro store ma smart door locks available cha: Yale Assure Lock SL (Price: 25000), August Smart Lock Pro (Price: 30000), ra Samsung SHP-DR708 (Price: 35000).",
+        "response": "Ho, smart door locks available cha."
+    },
+    {
+        "question": "Store ma curved gaming monitors available cha ki nai?",
+        "context": "Hamro store ma curved gaming monitors available cha: MSI Optix MAG342CQR (Price: 45000), Samsung Odyssey G7 (Price: 60000), ra Asus TUF VG32VQ1B (Price: 50000).",
+        "response": "Ho, curved gaming monitors available cha."
+    }
+]

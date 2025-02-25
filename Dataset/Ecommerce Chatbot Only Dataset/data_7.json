@@ -1,0 +1,210 @@
+[
+    {
+      "question": "online delivery hunxa? or delivery service xa? kasto prakar ko delivery hunxa?",
+      "context": "Hamro ma delivery all over Nepal hunxa. Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 150 laagxa. Delivery within 2-3 days lagxa.",
+      "response": "Hamro ma all over Nepal delivery hunxa. Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 150 lagxa. Delivery within 2-3 days hunxa."
+    },
+    {
+      "question": "kata samma delivery garna milxa? kati charge linxa?",
+      "context": "Hamro delivery service all over Nepal available xa. Inside Pokhara free delivery hunxa ra outside Pokhara Rs. 200 charge linxa. Delivery time 3-4 days lagxa.",
+      "response": "Hamro delivery service all over Nepal available xa. Inside Pokhara free delivery hunxa ra outside Pokhara Rs. 200 charge linxa. Delivery time 3-4 days lagxa."
+    },
+    {
+      "question": "delivery time kati lagxa? kati charge hunxa?",
+      "context": "Hamro delivery service le 1-2 days ma Kathmandu valley bhitra delivery garxa ra free hunxa. Outside valley Rs. 100 charge hunxa ra 3-4 days lagxa.",
+      "response": "Kathmandu valley bhitra delivery 1-2 days ma hunxa ra free hunxa. Outside valley Rs. 100 charge hunxa ra 3-4 days lagxa."
+    },
+    {
+      "question": "delivery service available xa? kati charge linxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Biratnagar free delivery hunxa ra outside Biratnagar Rs. 180 charge linxa. Delivery time 2-3 days lagxa.",
+      "response": "Hamro ma delivery service all over Nepal available xa. Inside Biratnagar free delivery hunxa ra outside Biratnagar Rs. 180 charge linxa. Delivery time 2-3 days lagxa."
+    },
+    {
+      "question": "kata kata delivery garna milxa? kati time lagxa?",
+      "context": "Hamro delivery service all over Nepal available xa. Inside Butwal free delivery hunxa ra outside Butwal Rs. 220 charge linxa. Delivery time 3-5 days lagxa.",
+      "response": "Hamro delivery service all over Nepal available xa. Inside Butwal free delivery hunxa ra outside Butwal Rs. 220 charge linxa. Delivery time 3-5 days lagxa."
+    },
+    {
+      "question": "delivery charge kati hunxa? kati din lagxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Dharan free delivery hunxa ra outside Dharan Rs. 120 charge linxa. Delivery time 2-3 days lagxa.",
+      "response": "Hamro ma delivery service all over Nepal available xa. Inside Dharan free delivery hunxa ra outside Dharan Rs. 120 charge linxa. Delivery time 2-3 days lagxa."
+    },
+    {
+      "question": "kata samma delivery garna sakinxa? kati charge hunxa?",
+      "context": "Hamro delivery service all over Nepal available xa. Inside Nepalgunj free delivery hunxa ra outside Nepalgunj Rs. 250 charge linxa. Delivery time 4-5 days lagxa.",
+      "response": "Hamro delivery service all over Nepal available xa. Inside Nepalgunj free delivery hunxa ra outside Nepalgunj Rs. 250 charge linxa. Delivery time 4-5 days lagxa."
+    },
+    {
+      "question": "delivery option haru k xa? kati charge linxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Birgunj free delivery hunxa ra outside Birgunj Rs. 170 charge linxa. Delivery time 2-4 days lagxa.",
+      "response": "Hamro ma delivery service all over Nepal available xa. Inside Birgunj free delivery hunxa ra outside Birgunj Rs. 170 charge linxa. Delivery time 2-4 days lagxa."
+    },
+    {
+      "question": "delivery time kati lagxa? kati charge hunxa?",
+      "context": "Hamro delivery service le 1-2 days ma Kathmandu valley bhitra delivery garxa ra free hunxa. Outside valley Rs. 100 charge hunxa ra 3-4 days lagxa.",
+      "response": "Kathmandu valley bhitra delivery 1-2 days ma hunxa ra free hunxa. Outside valley Rs. 100 charge hunxa ra 3-4 days lagxa."
+    },
+    {
+      "question": "delivery service available xa? kati charge linxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Dhangadhi free delivery hunxa ra outside Dhangadhi Rs. 300 charge linxa. Delivery time 5-7 days lagxa.",
+      "response": "Hamro ma delivery service all over Nepal available xa. Inside Dhangadhi free delivery hunxa ra outside Dhangadhi Rs. 300 charge linxa. Delivery time 5-7 days lagxa."
+    }
+  ,
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 150 charge linxa.",
+      "response": "Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 150 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Pokhara free delivery hunxa ra outside Pokhara Rs. 200 charge linxa.",
+      "response": "Inside Pokhara free delivery hunxa ra outside Pokhara Rs. 200 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Biratnagar free delivery hunxa ra outside Biratnagar Rs. 180 charge linxa.",
+      "response": "Inside Biratnagar free delivery hunxa ra outside Biratnagar Rs. 180 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Butwal free delivery hunxa ra outside Butwal Rs. 220 charge linxa.",
+      "response": "Inside Butwal free delivery hunxa ra outside Butwal Rs. 220 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Dharan free delivery hunxa ra outside Dharan Rs. 120 charge linxa.",
+      "response": "Inside Dharan free delivery hunxa ra outside Dharan Rs. 120 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Nepalgunj free delivery hunxa ra outside Nepalgunj Rs. 250 charge linxa.",
+      "response": "Inside Nepalgunj free delivery hunxa ra outside Nepalgunj Rs. 250 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Birgunj free delivery hunxa ra outside Birgunj Rs. 170 charge linxa.",
+      "response": "Inside Birgunj free delivery hunxa ra outside Birgunj Rs. 170 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Dhangadhi free delivery hunxa ra outside Dhangadhi Rs. 300 charge linxa.",
+      "response": "Inside Dhangadhi free delivery hunxa ra outside Dhangadhi Rs. 300 charge linxa."
+    }
+  ,
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 150 charge linxa.",
+      "response": "Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 150 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Pokhara free delivery hunxa ra outside Pokhara Rs. 200 charge linxa.",
+      "response": "Inside Pokhara free delivery hunxa ra outside Pokhara Rs. 200 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Biratnagar free delivery hunxa ra outside Biratnagar Rs. 180 charge linxa.",
+      "response": "Inside Biratnagar free delivery hunxa ra outside Biratnagar Rs. 180 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Butwal free delivery hunxa ra outside Butwal Rs. 220 charge linxa.",
+      "response": "Inside Butwal free delivery hunxa ra outside Butwal Rs. 220 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Dharan free delivery hunxa ra outside Dharan Rs. 120 charge linxa.",
+      "response": "Inside Dharan free delivery hunxa ra outside Dharan Rs. 120 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Nepalgunj free delivery hunxa ra outside Nepalgunj Rs. 250 charge linxa.",
+      "response": "Inside Nepalgunj free delivery hunxa ra outside Nepalgunj Rs. 250 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Birgunj free delivery hunxa ra outside Birgunj Rs. 170 charge linxa.",
+      "response": "Inside Birgunj free delivery hunxa ra outside Birgunj Rs. 170 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Dhangadhi free delivery hunxa ra outside Dhangadhi Rs. 300 charge linxa.",
+      "response": "Inside Dhangadhi free delivery hunxa ra outside Dhangadhi Rs. 300 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Hetauda free delivery hunxa ra outside Hetauda Rs. 190 charge linxa.",
+      "response": "Inside Hetauda free delivery hunxa ra outside Hetauda Rs. 190 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Janakpur free delivery hunxa ra outside Janakpur Rs. 210 charge linxa.",
+      "response": "Inside Janakpur free delivery hunxa ra outside Janakpur Rs. 210 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Bhairahawa free delivery hunxa ra outside Bhairahawa Rs. 230 charge linxa.",
+      "response": "Inside Bhairahawa free delivery hunxa ra outside Bhairahawa Rs. 230 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Itahari free delivery hunxa ra outside Itahari Rs. 140 charge linxa.",
+      "response": "Inside Itahari free delivery hunxa ra outside Itahari Rs. 140 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Bharatpur free delivery hunxa ra outside Bharatpur Rs. 160 charge linxa.",
+      "response": "Inside Bharatpur free delivery hunxa ra outside Bharatpur Rs. 160 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Damak free delivery hunxa ra outside Damak Rs. 130 charge linxa.",
+      "response": "Inside Damak free delivery hunxa ra outside Damak Rs. 130 charge linxa."
+    },
+    {
+      "question": "delivery charge kati hunxa?",
+      "context": "Hamro ma delivery service all over Nepal available xa. Inside Tulsipur free delivery hunxa ra outside Tulsipur Rs. 240 charge linxa.",
+      "response": "Inside Tulsipur free delivery hunxa ra outside Tulsipur Rs. 240 charge linxa."
+    }
+  ,
+  {
+    "question": "delivery charge kati hunxa?",
+    "context": "Hamro ma delivery service all over Nepal available xa. Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 150 charge linxa.",
+    "response": "Inside Kathmandu free delivery hunxa ra outside Kathmandu Rs. 150 charge linxa."
+  },
+  {
+    "question": "delivery charge kati hunxa?",
+    "context": "Hamro ma delivery service all over Nepal available xa. Inside Pokhara free delivery hunxa ra outside Pokhara Rs. 200 charge linxa.",
+    "response": "Inside Pokhara free delivery hunxa ra outside Pokhara Rs. 200 charge linxa."
+  },
+  {
+    "question": "delivery charge kati hunxa?",
+    "context": "Hamro ma delivery service all over Nepal available xa. Inside Biratnagar free delivery hunxa ra outside Biratnagar Rs. 180 charge linxa.",
+    "response": "Inside Biratnagar free delivery hunxa ra outside Biratnagar Rs. 180 charge linxa."
+  },
+  {
+    "question": "delivery charge kati hunxa?",
+    "context": "Hamro ma delivery service all over Nepal available xa. Inside Butwal free delivery hunxa ra outside Butwal Rs. 220 charge linxa.",
+    "response": "Inside Butwal free delivery hunxa ra outside Butwal Rs. 220 charge linxa."
+  },
+  {
+    "question": "delivery charge kati hunxa?",
+    "context": "Hamro ma delivery service all over Nepal available xa. Inside Dharan free delivery hunxa ra outside Dharan Rs. 120 charge linxa.",
+    "response": "Inside Dharan free delivery hunxa ra outside Dharan Rs. 120 charge linxa."
+  },
+  {
+    "question": "delivery charge kati hunxa?",
+    "context": "Hamro ma delivery service all over Nepal available xa. Inside Nepalgunj free delivery hunxa ra outside Nepalgunj Rs. 250 charge linxa.",
+    "response": "Inside Nepalgunj free delivery hunxa ra outside Nepalgunj Rs. 250 charge linxa."
+  },
+  {
+    "question": "delivery charge kati hunxa?",
+    "context": "Hamro ma delivery service all over Nepal available xa. Inside Birgunj free delivery hunxa ra outside Birgunj Rs. 170 charge linxa.",
+    "response": "Inside Birgunj free delivery hunxa ra outside Birgunj Rs. 170 charge linxa."
+  },
+  {
+    "question": "delivery charge kati hunxa?",
+    "context": "Hamro ma delivery service all over Nepal available xa. Inside Dhangadhi free delivery hunxa ra outside Dhangadhi Rs. 300 charge linxa.",
+    "response": "Inside Dhangadhi free delivery hunxa ra outside Dhangadhi Rs. 300 charge linxa."
+  }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "id": 26,
+        "context": "Product: Oppo Reno 8, Price: Rs. 46,999, Features: 5G, 256GB Storage, AMOLED Display.",
+        "question": "Oppo Reno 8 ko storage capacity kati ho?",
+        "response": "Oppo Reno 8 ko storage capacity 256GB ho."
+    },
+    {
+        "id": 27,
+        "context": "Product: Samsung Microwave Oven, Price: Rs. 18,499, Features: 23L, Convection, Auto Cook Menu.",
+        "question": "Samsung Microwave Oven ko capacity kati ho?",
+        "response": "Samsung Microwave Oven ko capacity 23L ho."
+    },
+    {
+        "id": 28,
+        "context": "Product: Huawei Watch GT3, Price: Rs. 24,999, Features: AMOLED Display, 14 Days Battery, GPS.",
+        "question": "Huawei Watch GT3 ko battery life kati ho?",
+        "response": "Huawei Watch GT3 ko battery life 14 din ho."
+    },
+    {
+        "id": 29,
+        "context": "Product: Realme Narzo 60, Price: Rs. 29,999, Features: 8GB RAM, 128GB Storage, 5G.",
+        "question": "Realme Narzo 60 5G support garcha?",
+        "response": "Ho, Realme Narzo 60 5G support garcha."
+    },
+    {
+        "id": 30,
+        "context": "Product: Asus ROG Strix Laptop, Price: Rs. 1,49,999, Features: Intel i7, RTX 3060, 16GB RAM, 1TB SSD.",
+        "question": "Asus ROG Strix Laptop gaming ko lagi ho?",
+        "response": "Ho, Asus ROG Strix Laptop gaming ko lagi ho."
+    },
+    {
+        "id": 31,
+        "context": "Product: Whirlpool Air Conditioner, Price: Rs. 55,999, Features: 1.5 Ton, Inverter, Copper Coil.",
+        "question": "Whirlpool Air Conditioner ko tonnage kati ho?",
+        "response": "Whirlpool Air Conditioner ko tonnage 1.5 Ton ho."
+    },
+    {
+        "id": 32,
+        "context": "Product: Amazon Kindle Paperwhite, Price: Rs. 14,999, Features: 8GB Storage, Waterproof, 6-Inch Display.",
+        "question": "Amazon Kindle Paperwhite waterproof ho?",
+        "response": "Ho, Amazon Kindle Paperwhite waterproof ho."
+    },
+    {
+        "id": 33,
+        "context": "Product: HP Omen Gaming Laptop, Price: Rs. 1,35,000, Features: Intel i9, 16GB RAM, RTX 3070, 1TB SSD.",
+        "question": "HP Omen Gaming Laptop ko GPU k ho?",
+        "response": "HP Omen Gaming Laptop ko GPU RTX 3070 ho."
+    },
+    {
+        "id": 34,
+        "context": "Product: Xiaomi Smart Band 8, Price: Rs. 4,999, Features: Heart Rate Monitor, SpO2, 16 Days Battery.",
+        "question": "Xiaomi Smart Band 8 ko battery life kati ho?",
+        "response": "Xiaomi Smart Band 8 ko battery life 16 din ho."
+    },
+    {
+        "id": 35,
+        "context": "Product: Sony Bravia TV, Price: Rs. 1,05,999, Features: 55 Inch, 4K Ultra HD, Android TV.",
+        "question": "Sony Bravia TV ko size kati ho?",
+        "response": "Sony Bravia TV ko size 55 Inch ho."
+    },
+    {
+        "id": 36,
+        "context": "Product: Dell XPS 13, Price: Rs. 1,25,000, Features: Intel i7, 16GB RAM, 512GB SSD.",
+        "question": "Dell XPS 13 ko price kati ho?",
+        "response": "Dell XPS 13 ko price Rs. 1,25,000 ho."
+    },
+    {
+        "id": 37,
+        "context": "Product: Bajaj Mixer Grinder, Price: Rs. 3,499, Features: 750W, 3 Jars, Stainless Steel.",
+        "question": "Bajaj Mixer Grinder ko wattage kati ho?",
+        "response": "Bajaj Mixer Grinder ko wattage 750W ho."
+    },
+    {
+        "id": 38,
+        "context": "Product: Samsung Galaxy Z Flip4, Price: Rs. 1,24,999, Features: 8GB RAM, 256GB Storage, Foldable Display.",
+        "question": "Samsung Galaxy Z Flip4 foldable ho?",
+        "response": "Ho, Samsung Galaxy Z Flip4 foldable ho."
+    },
+    {
+        "id": 39,
+        "context": "Product: Fitbit Charge 5, Price: Rs. 16,999, Features: AMOLED Display, GPS, Heart Rate Monitor.",
+        "question": "Fitbit Charge 5 ma heart rate monitor cha?",
+        "response": "Ho, Fitbit Charge 5 ma heart rate monitor cha."
+    },
+    {
+        "id": 40,
+        "context": "Product: Apple MacBook Air M2, Price: Rs. 1,55,000, Features: M2 Chip, 8GB RAM, 256GB SSD.",
+        "question": "Apple MacBook Air M2 ko chip k ho?",
+        "response": "Apple MacBook Air M2 ma M2 Chip cha."
+    },
+    {
+        "id": 41,
+        "context": "Product: Panasonic Washing Machine, Price: Rs. 32,499, Features: 7.5kg, Fully Automatic, Top Load.",
+        "question": "Panasonic Washing Machine top load ho?",
+        "response": "Ho, Panasonic Washing Machine top load ho."
+    },
+    {
+        "id": 42,
+        "context": "Product: Vivo Y100, Price: Rs. 27,999, Features: 6GB RAM, 128GB Storage, 64MP Camera.",
+        "question": "Vivo Y100 ko camera resolution kati ho?",
+        "response": "Vivo Y100 ko camera resolution 64MP ho."
+    },
+    {
+        "id": 43,
+        "context": "Product: Lenovo IdeaPad Slim 5, Price: Rs. 72,999, Features: AMD Ryzen 5, 8GB RAM, 512GB SSD.",
+        "question": "Lenovo IdeaPad Slim 5 ko RAM kati ho?",
+        "response": "Lenovo IdeaPad Slim 5 ma 8GB RAM cha."
+    },
+    {
+        "id": 44,
+        "context": "Product: Samsung T7 SSD, Price: Rs. 12,499, Features: 1TB, USB-C, Portable.",
+        "question": "Samsung T7 SSD portable ho?",
+        "response": "Ho, Samsung T7 SSD portable ho."
+    },
+    {
+        "id": 45,
+        "context": "Product: Acer Predator Helios 300, Price: Rs. 1,48,000, Features: Intel i7, 16GB RAM, RTX 3060.",
+        "question": "Acer Predator Helios 300 gaming laptop ho?",
+        "response": "Ho, Acer Predator Helios 300 gaming laptop ho."
+    },
+    {
+        "id": 46,
+        "context": "Product: LG Dishwasher, Price: Rs. 89,999, Features: 14 Place Settings, Inverter Technology.",
+        "question": "LG Dishwasher ma place settings kati ho?",
+        "response": "LG Dishwasher ma 14 place settings cha."
+    },
+    {
+        "id": 47,
+        "context": "Product: Oppo A78, Price: Rs. 22,499, Features: 8GB RAM, 128GB Storage, 50MP Camera.",
+        "question": "Oppo A78 ko camera resolution kati ho?",
+        "response": "Oppo A78 ko camera resolution 50MP ho."
+    },
+    {
+        "id": 48,
+        "context": "Product: Samsung Curved Monitor, Price: Rs. 34,999, Features: 27 Inch, Full HD, 144Hz.",
+        "question": "Samsung Curved Monitor ko refresh rate kati ho?",
+        "response": "Samsung Curved Monitor ko refresh rate 144Hz ho."
+    },
+    {
+        "id": 49,
+        "context": "Product: Apple AirPods Pro 2, Price: Rs. 38,999, Features: Noise Cancelling, MagSafe Charging, Spatial Audio.",
+        "question": "Apple AirPods Pro 2 ma noise cancelling cha?",
+        "response": "Ho, Apple AirPods Pro 2 ma noise cancelling cha."
+    },
+    {
+        "id": 50,
+        "context": "Product: Canon PIXMA Printer, Price: Rs. 14,499, Features: Ink Tank, WiFi, All-in-One.",
+        "question": "Canon PIXMA Printer ma WiFi support cha?",
+        "response": "Ho, Canon PIXMA Printer ma WiFi support cha."
+    }
+]

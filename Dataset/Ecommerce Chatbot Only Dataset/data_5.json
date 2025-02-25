@@ -1,0 +1,577 @@
+[
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store ko naam 'All Electronics' ho, hamro store Kathmandu ma xa. Hamro store ma electronics ko saman haru bechya xa.",
+        "response": "Hamro store ma electronics ko saman jastei mobile, laptop, calculator, TV, smartwatch, ra headphones painxa."
+    },
+    {
+        "question": "Delivery option haru k k xa?",
+        "context": "Hamro store bata delivery service available xa. Delivery charge location anusar farak huna sakxa.",
+        "response": "Hamro store ma standard delivery, express delivery, ra same-day delivery option haru available xa. Express delivery ma additional charge lagxa."
+    },
+    {
+        "question": "Payment method k k xa?",
+        "context": "Hamro store ma online ra offline payment donai option haru available xa.",
+        "response": "Hamro store ma cash on delivery, credit/debit card, mobile banking, ra e-wallet jastei Khalti ra IME Pay bata payment garna sakinxa."
+    },
+    {
+        "question": "Discount offer haru xa?",
+        "context": "Hamro store ma seasonal ra festival ko bela ma discount offer haru diyako hunxa.",
+        "response": "Hajur, hamro store ma ahile Dashain offer chalirako xa. 10% discount sabai product ma available xa ra additional 5% discount online payment garda."
+    },
+    {
+        "question": "Product ko warranty kati din ko xa?",
+        "context": "Hamro store bata kinne sabai product haru ko warranty period fixed xa.",
+        "response": "Mobile ra laptop haru ko 1 year warranty xa, TV ra home appliances ko 2 years warranty xa. Warranty card sangai product dinxa."
+    },
+    {
+        "question": "Order cancel garna sakinxa?",
+        "context": "Hamro store ma order cancel garna milne rule haru xa.",
+        "response": "Hajur, order confirm huna agadi samma cancel garna sakinxa. Confirm vayeko order cancel garna 24 hours ko time xa."
+    },
+    {
+        "question": "Return policy k xa?",
+        "context": "Hamro store ma product return garna milne condition haru xa.",
+        "response": "Product defective vaye 7 days bhitra return garna sakinxa. Return garda original packaging ra bill sangai lyaunu parxa."
+    },
+    {
+        "question": "Ahile ko best selling product kun ho?",
+        "context": "Hamro store ma ahile sabai bhanda popular product haru ko list xa.",
+        "response": "Ahile ko best selling product haru ma XYZ brand ko smartphone, ABC brand ko laptop, ra PQR brand ko smartwatch parxa."
+    },
+    {
+        "question": "International delivery garna sakinxa?",
+        "context": "Hamro store bata international delivery service pani available xa.",
+        "response": "Hajur, hamro store bata international delivery garna sakinxa. Delivery charge ra time destination anusar farak huna sakxa."
+    },
+    {
+        "question": "Product ko detail ma k k xa?",
+        "context": "Hamro store ma sabai product ko detail description available xa.",
+        "response": "Product ko detail ma model, specifications, features, ra price sabai mention gareko hunxa. Online ma pani herna sakinxa."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Mobile Bazaar' ho, hamro store Birgunj ma xa. Hamro store ma smartphones ra accessories haru bechya xa.",
+        "response": "Hamro store ma latest smartphones, earphones, power banks, screen guards, ra phone cases haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Furniture Palace' ho, hamro store Hetauda ma xa. Hamro store ma furniture ra home decor items haru available xa.",
+        "response": "Hamro store ma sofa sets, dining tables, beds, wardrobes, ra decorative items haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Kids World' ho, hamro store Dhangadhi ma xa. Hamro store ma toys, baby products, ra children's clothes haru available xa.",
+        "response": "Hamro store ma stuffed toys, baby strollers, kids' clothing, diapers, ra feeding bottles haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Grocery Mart' ho, hamro store Bharatpur ma xa. Hamro store ma groceries, snacks, ra beverages haru available xa.",
+        "response": "Hamro store ma rice, lentils, noodles, biscuits, chips, ra cold drinks haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Electro Hub' ho, hamro store Butwal ma xa. Hamro store ma electronics ra home appliances haru available xa.",
+        "response": "Hamro store ma TVs, refrigerators, washing machines, microwaves, ra blenders haru painxa."
+    },
+    {
+        "question": "Store ma kun kun items haru xa?",
+        "context": "Hamro store 'Fashion Trends' ho, hamro store Pokhara ma xa. Hamro store ma men's ra women's fashion items haru available xa.",
+        "response": "Hamro store ma jeans, t-shirts, sarees, kurta suits, ra handbags haru paucha."
+    },
+    {
+        "question": "Store ma k k saman haru xa?",
+        "context": "Hamro store 'Book World' ho, hamro store Janakpur ma xa. Hamro store ma books, stationery, ra educational materials haru available xa.",
+        "response": "Hamro store ma novels, textbooks, notebooks, pens, pencils, ra art supplies haru paucha."
+    },
+    {
+        "question": "Store ma kun kun chij haru xa?",
+        "context": "Hamro store 'Sports World' ho, hamro store Itahari ma xa. Hamro store ma sports equipment ra fitness gear haru available xa.",
+        "response": "Hamro store ma footballs, cricket bats, gym equipment, yoga mats, ra sports shoes haru paucha."
+    },
+    {
+        "question": "Store ma k k paucha?",
+        "context": "Hamro store 'Beauty Shop' ho, hamro store Lalitpur ma xa. Hamro store ma cosmetics, skincare, ra haircare products haru available xa.",
+        "response": "Hamro store ma lipsticks, face creams, shampoos, conditioners, ra perfumes haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product available xa?",
+        "context": "Hamro store 'Auto World' ho, hamro store Nepalgunj ma xa. Hamro store ma vehicle parts ra accessories haru available xa.",
+        "response": "Hamro store ma car tires, bike helmets, engine oil, brake pads, ra car accessories haru paucha."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Pet Care' ho, hamro store Bhaktapur ma xa. Hamro store ma pet food, toys, ra accessories haru available xa.",
+        "response": "Hamro store ma dog food, cat food, pet toys, collars, ra grooming products haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Art Gallery' ho, hamro store Dharan ma xa. Hamro store ma paintings, sculptures, ra art supplies haru available xa.",
+        "response": "Hamro store ma handmade paintings, clay sculptures, canvases, brushes, ra paints haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Tech Gadgets' ho, hamro store Chitwan ma xa. Hamro store ma smart devices ra tech accessories haru available xa.",
+        "response": "Hamro store ma smartwatches, wireless earphones, Bluetooth speakers, ra phone chargers haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Organic Store' ho, hamro store Kathmandu ma xa. Hamro store ma organic foods ra natural products haru available xa.",
+        "response": "Hamro store ma organic rice, honey, herbal teas, spices, ra natural skincare products haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Music World' ho, hamro store Pokhara ma xa. Hamro store ma musical instruments ra accessories haru available xa.",
+        "response": "Hamro store ma guitars, keyboards, drums, microphones, ra music stands haru painxa."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Gift Gallery' ho, hamro store Dhankuta ma xa. Hamro store ma gifts, greeting cards, ra decorative items haru available xa.",
+        "response": "Hamro store ma gift boxes, greeting cards, candles, photo frames, ra decorative showpieces haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Outdoor Gear' ho, hamro store Ilam ma xa. Hamro store ma camping equipment ra outdoor accessories haru available xa.",
+        "response": "Hamro store ma tents, sleeping bags, trekking poles, water bottles, ra hiking boots haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Craft Corner' ho, hamro store Palpa ma xa. Hamro store ma handmade crafts ra art supplies haru available xa.",
+        "response": "Hamro store ma handmade jewelry, pottery, knitting supplies, ra painting kits haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Tech Zone' ho, hamro store Jhapa ma xa. Hamro store ma laptops, tablets, ra computer accessories haru available xa.",
+        "response": "Hamro store ma laptops, tablets, keyboards, mouse, ra external hard drives haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Healthy Living' ho, hamro store Kavre ma xa. Hamro store ma organic foods, supplements, ra fitness gear haru available xa.",
+        "response": "Hamro store ma organic snacks, protein bars, vitamins, yoga mats, ra resistance bands haru painxa."
+    },
+    {
+        "question": "Store ma kun kun items haru xa?",
+        "context": "Hamro store 'Toy Kingdom' ho, hamro store Syangja ma xa. Hamro store ma toys, games, ra children's entertainment products haru available xa.",
+        "response": "Hamro store ma action figures, board games, puzzles, remote-controlled cars, ra stuffed animals haru paucha."
+    },
+    {
+        "question": "Store ma k k saman haru xa?",
+        "context": "Hamro store 'Fashion Avenue' ho, hamro store Gorkha ma xa. Hamro store ma men's, women's, ra kids' clothing haru available xa.",
+        "response": "Hamro store ma shirts, jeans, dresses, kids' wear, ra winter jackets haru paucha."
+    },
+    {
+        "question": "Store ma kun kun chij haru xa?",
+        "context": "Hamro store 'Home Decor' ho, hamro store Lamjung ma xa. Hamro store ma home decoration items ra furniture haru available xa.",
+        "response": "Hamro store ma wall art, lamps, rugs, cushions, ra small furniture items haru paucha."
+    },
+    {
+        "question": "Store ma k k paucha?",
+        "context": "Hamro store 'Beauty Haven' ho, hamro store Rupandehi ma xa. Hamro store ma cosmetics, skincare, ra haircare products haru available xa.",
+        "response": "Hamro store ma lipsticks, foundations, face masks, shampoos, ra hair serums haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product available xa?",
+        "context": "Hamro store 'Auto Care' ho, hamro store Nawalparasi ma xa. Hamro store ma car care products ra accessories haru available xa.",
+        "response": "Hamro store ma car wax, cleaning kits, air fresheners, seat covers, ra car chargers haru paucha."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Pet Paradise' ho, hamro store Kailali ma xa. Hamro store ma pet food, toys, ra grooming products haru available xa.",
+        "response": "Hamro store ma dog food, cat litter, pet toys, grooming brushes, ra pet collars haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Artistic Creations' ho, hamro store Morang ma xa. Hamro store ma art supplies ra handmade crafts haru available xa.",
+        "response": "Hamro store ma canvases, paints, brushes, handmade pottery, ra art kits haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Gadget World' ho, hamro store Dang ma xa. Hamro store ma smart devices ra tech accessories haru available xa.",
+        "response": "Hamro store ma smartwatches, wireless earphones, power banks, phone cases, ra chargers haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Organic Delights' ho, hamro store Surkhet ma xa. Hamro store ma organic foods ra natural products haru available xa.",
+        "response": "Hamro store ma organic rice, honey, herbal teas, spices, ra natural skincare products haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Music Melodies' ho, hamro store Tanahun ma xa. Hamro store ma musical instruments ra accessories haru available xa.",
+        "response": "Hamro store ma guitars, keyboards, drums, microphones, ra music stands haru painxa."
+    },
+    {
+        "question": "Store ma kun kun items haru xa?",
+        "context": "Hamro store 'Fitness Gear' ho, hamro store Bara ma xa. Hamro store ma gym equipment ra fitness accessories haru available xa.",
+        "response": "Hamro store ma dumbbells, treadmills, resistance bands, yoga mats, ra workout gloves haru paucha."
+    },
+    {
+        "question": "Store ma k k saman haru xa?",
+        "context": "Hamro store 'Book Nook' ho, hamro store Parsa ma xa. Hamro store ma books, stationery, ra educational materials haru available xa.",
+        "response": "Hamro store ma novels, textbooks, notebooks, pens, pencils, ra art supplies haru paucha."
+    },
+    {
+        "question": "Store ma kun kun chij haru xa?",
+        "context": "Hamro store 'Sports Central' ho, hamro store Sarlahi ma xa. Hamro store ma sports equipment ra fitness gear haru available xa.",
+        "response": "Hamro store ma footballs, cricket bats, gym equipment, yoga mats, ra sports shoes haru paucha."
+    },
+    {
+        "question": "Store ma k k paucha?",
+        "context": "Hamro store 'Beauty Bliss' ho, hamro store Rautahat ma xa. Hamro store ma cosmetics, skincare, ra haircare products haru available xa.",
+        "response": "Hamro store ma lipsticks, face creams, shampoos, conditioners, ra perfumes haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product available xa?",
+        "context": "Hamro store 'Auto Essentials' ho, hamro store Saptari ma xa. Hamro store ma vehicle parts ra accessories haru available xa.",
+        "response": "Hamro store ma car tires, bike helmets, engine oil, brake pads, ra car accessories haru paucha."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Gift World' ho, hamro store Dhankuta ma xa. Hamro store ma gifts, greeting cards, ra decorative items haru available xa.",
+        "response": "Hamro store ma gift boxes, greeting cards, candles, photo frames, ra decorative showpieces haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Outdoor Adventures' ho, hamro store Ilam ma xa. Hamro store ma camping equipment ra outdoor accessories haru available xa.",
+        "response": "Hamro store ma tents, sleeping bags, trekking poles, water bottles, ra hiking boots haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Craft Haven' ho, hamro store Palpa ma xa. Hamro store ma handmade crafts ra art supplies haru available xa.",
+        "response": "Hamro store ma handmade jewelry, pottery, knitting supplies, ra painting kits haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Tech Universe' ho, hamro store Jhapa ma xa. Hamro store ma laptops, tablets, ra computer accessories haru available xa.",
+        "response": "Hamro store ma laptops, tablets, keyboards, mouse, ra external hard drives haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Healthy Bites' ho, hamro store Kavre ma xa. Hamro store ma organic foods, supplements, ra fitness gear haru available xa.",
+        "response": "Hamro store ma organic snacks, protein bars, vitamins, yoga mats, ra resistance bands haru painxa."
+    },
+    {
+        "question": "Store ma kun kun items haru xa?",
+        "context": "Hamro store 'Toy Land' ho, hamro store Syangja ma xa. Hamro store ma toys, games, ra children's entertainment products haru available xa.",
+        "response": "Hamro store ma action figures, board games, puzzles, remote-controlled cars, ra stuffed animals haru paucha."
+    },
+    {
+        "question": "Store ma k k saman haru xa?",
+        "context": "Hamro store 'Fashion Trends' ho, hamro store Gorkha ma xa. Hamro store ma men's, women's, ra kids' clothing haru available xa.",
+        "response": "Hamro store ma shirts, jeans, dresses, kids' wear, ra winter jackets haru paucha."
+    },
+    {
+        "question": "Store ma kun kun chij haru xa?",
+        "context": "Hamro store 'Home Decor' ho, hamro store Lamjung ma xa. Hamro store ma home decoration items ra furniture haru available xa.",
+        "response": "Hamro store ma wall art, lamps, rugs, cushions, ra small furniture items haru paucha."
+    },
+    {
+        "question": "Store ma k k paucha?",
+        "context": "Hamro store 'Beauty Bliss' ho, hamro store Rupandehi ma xa. Hamro store ma cosmetics, skincare, ra haircare products haru available xa.",
+        "response": "Hamro store ma lipsticks, foundations, face masks, shampoos, ra hair serums haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product available xa?",
+        "context": "Hamro store 'Auto Care' ho, hamro store Nawalparasi ma xa. Hamro store ma car care products ra accessories haru available xa.",
+        "response": "Hamro store ma car wax, cleaning kits, air fresheners, seat covers, ra car chargers haru paucha."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Pet Paradise' ho, hamro store Kailali ma xa. Hamro store ma pet food, toys, ra grooming products haru available xa.",
+        "response": "Hamro store ma dog food, cat litter, pet toys, grooming brushes, ra pet collars haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Artistic Creations' ho, hamro store Morang ma xa. Hamro store ma art supplies ra handmade crafts haru available xa.",
+        "response": "Hamro store ma canvases, paints, brushes, handmade pottery, ra art kits haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Gadget World' ho, hamro store Dang ma xa. Hamro store ma smart devices ra tech accessories haru available xa.",
+        "response": "Hamro store ma smartwatches, wireless earphones, power banks, phone cases, ra chargers haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Organic Delights' ho, hamro store Surkhet ma xa. Hamro store ma organic foods ra natural products haru available xa.",
+        "response": "Hamro store ma organic rice, honey, herbal teas, spices, ra natural skincare products haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Music Melodies' ho, hamro store Tanahun ma xa. Hamro store ma musical instruments ra accessories haru available xa.",
+        "response": "Hamro store ma guitars, keyboards, drums, microphones, ra music stands haru painxa."
+    },
+    {
+        "question": "Store ma kun kun items haru xa?",
+        "context": "Hamro store 'Fitness Gear' ho, hamro store Bara ma xa. Hamro store ma gym equipment ra fitness accessories haru available xa.",
+        "response": "Hamro store ma dumbbells, treadmills, resistance bands, yoga mats, ra workout gloves haru paucha."
+    },
+    {
+        "question": "Store ma k k saman haru xa?",
+        "context": "Hamro store 'Book Nook' ho, hamro store Parsa ma xa. Hamro store ma books, stationery, ra educational materials haru available xa.",
+        "response": "Hamro store ma novels, textbooks, notebooks, pens, pencils, ra art supplies haru paucha."
+    },
+    {
+        "question": "Store ma kun kun chij haru xa?",
+        "context": "Hamro store 'Sports Central' ho, hamro store Sarlahi ma xa. Hamro store ma sports equipment ra fitness gear haru available xa.",
+        "response": "Hamro store ma footballs, cricket bats, gym equipment, yoga mats, ra sports shoes haru paucha."
+    },
+    {
+        "question": "Store ma k k paucha?",
+        "context": "Hamro store 'Beauty Bliss' ho, hamro store Rautahat ma xa. Hamro store ma cosmetics, skincare, ra haircare products haru available xa.",
+        "response": "Hamro store ma lipsticks, face creams, shampoos, conditioners, ra perfumes haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product available xa?",
+        "context": "Hamro store 'Auto Essentials' ho, hamro store Saptari ma xa. Hamro store ma vehicle parts ra accessories haru available xa.",
+        "response": "Hamro store ma car tires, bike helmets, engine oil, brake pads, ra car accessories haru paucha."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Kids Zone' ho, hamro store Chitwan ma xa. Hamro store ma toys, baby products, ra children's clothes haru available xa.",
+        "response": "Hamro store ma stuffed toys, baby strollers, kids' clothing, diapers, ra feeding bottles haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Furniture Palace' ho, hamro store Hetauda ma xa. Hamro store ma furniture ra home decor items haru available xa.",
+        "response": "Hamro store ma sofa sets, dining tables, beds, wardrobes, ra decorative items haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Electro Hub' ho, hamro store Butwal ma xa. Hamro store ma electronics ra home appliances haru available xa.",
+        "response": "Hamro store ma TVs, refrigerators, washing machines, microwaves, ra blenders haru painxa."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Grocery Mart' ho, hamro store Bharatpur ma xa. Hamro store ma groceries, snacks, ra beverages haru available xa.",
+        "response": "Hamro store ma rice, lentils, noodles, biscuits, chips, ra cold drinks haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Tech World' ho, hamro store Pokhara ma xa. Hamro store ma electronics ra gadgets haru available xa.",
+        "response": "Hamro store ma mobile, laptop, tablet, smartwatch, headphones, ra gaming accessories haru painxa."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Gift World' ho, hamro store Dhankuta ma xa. Hamro store ma gifts, greeting cards, ra decorative items haru available xa.",
+        "response": "Hamro store ma gift boxes, greeting cards, candles, photo frames, ra decorative showpieces haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Outdoor Adventures' ho, hamro store Ilam ma xa. Hamro store ma camping equipment ra outdoor accessories haru available xa.",
+        "response": "Hamro store ma tents, sleeping bags, trekking poles, water bottles, ra hiking boots haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Craft Haven' ho, hamro store Palpa ma xa. Hamro store ma handmade crafts ra art supplies haru available xa.",
+        "response": "Hamro store ma handmade jewelry, pottery, knitting supplies, ra painting kits haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Tech Universe' ho, hamro store Jhapa ma xa. Hamro store ma laptops, tablets, ra computer accessories haru available xa.",
+        "response": "Hamro store ma laptops, tablets, keyboards, mouse, ra external hard drives haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Healthy Bites' ho, hamro store Kavre ma xa. Hamro store ma organic foods, supplements, ra fitness gear haru available xa.",
+        "response": "Hamro store ma organic snacks, protein bars, vitamins, yoga mats, ra resistance bands haru painxa."
+    },
+    {
+        "question": "Store ma kun kun items haru xa?",
+        "context": "Hamro store 'Toy Land' ho, hamro store Syangja ma xa. Hamro store ma toys, games, ra children's entertainment products haru available xa.",
+        "response": "Hamro store ma action figures, board games, puzzles, remote-controlled cars, ra stuffed animals haru paucha."
+    },
+    {
+        "question": "Store ma k k saman haru xa?",
+        "context": "Hamro store 'Fashion Trends' ho, hamro store Gorkha ma xa. Hamro store ma men's, women's, ra kids' clothing haru available xa.",
+        "response": "Hamro store ma shirts, jeans, dresses, kids' wear, ra winter jackets haru paucha."
+    },
+    {
+        "question": "Store ma kun kun chij haru xa?",
+        "context": "Hamro store 'Home Decor' ho, hamro store Lamjung ma xa. Hamro store ma home decoration items ra furniture haru available xa.",
+        "response": "Hamro store ma wall art, lamps, rugs, cushions, ra small furniture items haru paucha."
+    },
+    {
+        "question": "Store ma k k paucha?",
+        "context": "Hamro store 'Beauty Bliss' ho, hamro store Rupandehi ma xa. Hamro store ma cosmetics, skincare, ra haircare products haru available xa.",
+        "response": "Hamro store ma lipsticks, foundations, face masks, shampoos, ra hair serums haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product available xa?",
+        "context": "Hamro store 'Auto Care' ho, hamro store Nawalparasi ma xa. Hamro store ma car care products ra accessories haru available xa.",
+        "response": "Hamro store ma car wax, cleaning kits, air fresheners, seat covers, ra car chargers haru paucha."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Pet Paradise' ho, hamro store Kailali ma xa. Hamro store ma pet food, toys, ra grooming products haru available xa.",
+        "response": "Hamro store ma dog food, cat litter, pet toys, grooming brushes, ra pet collars haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Artistic Creations' ho, hamro store Morang ma xa. Hamro store ma art supplies ra handmade crafts haru available xa.",
+        "response": "Hamro store ma canvases, paints, brushes, handmade pottery, ra art kits haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Gadget World' ho, hamro store Dang ma xa. Hamro store ma smart devices ra tech accessories haru available xa.",
+        "response": "Hamro store ma smartwatches, wireless earphones, power banks, phone cases, ra chargers haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Organic Delights' ho, hamro store Surkhet ma xa. Hamro store ma organic foods ra natural products haru available xa.",
+        "response": "Hamro store ma organic rice, honey, herbal teas, spices, ra natural skincare products haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Music Melodies' ho, hamro store Tanahun ma xa. Hamro store ma musical instruments ra accessories haru available xa.",
+        "response": "Hamro store ma guitars, keyboards, drums, microphones, ra music stands haru painxa."
+    },
+    {
+        "question": "Store ma kun kun items haru xa?",
+        "context": "Hamro store 'Fitness Gear' ho, hamro store Bara ma xa. Hamro store ma gym equipment ra fitness accessories haru available xa.",
+        "response": "Hamro store ma dumbbells, treadmills, resistance bands, yoga mats, ra workout gloves haru paucha."
+    },
+    {
+        "question": "Store ma k k saman haru xa?",
+        "context": "Hamro store 'Book Nook' ho, hamro store Parsa ma xa. Hamro store ma books, stationery, ra educational materials haru available xa.",
+        "response": "Hamro store ma novels, textbooks, notebooks, pens, pencils, ra art supplies haru paucha."
+    },
+    {
+        "question": "Store ma kun kun chij haru xa?",
+        "context": "Hamro store 'Sports Central' ho, hamro store Sarlahi ma xa. Hamro store ma sports equipment ra fitness gear haru available xa.",
+        "response": "Hamro store ma footballs, cricket bats, gym equipment, yoga mats, ra sports shoes haru paucha."
+    },
+    {
+        "question": "Store ma k k paucha?",
+        "context": "Hamro store 'Beauty Bliss' ho, hamro store Rautahat ma xa. Hamro store ma cosmetics, skincare, ra haircare products haru available xa.",
+        "response": "Hamro store ma lipsticks, face creams, shampoos, conditioners, ra perfumes haru paucha."
+    },
+    {
+        "question": "Store ma kun kun product available xa?",
+        "context": "Hamro store 'Auto Essentials' ho, hamro store Saptari ma xa. Hamro store ma vehicle parts ra accessories haru available xa.",
+        "response": "Hamro store ma car tires, bike helmets, engine oil, brake pads, ra car accessories haru paucha."
+    },
+    {
+        "question": "Store ma k k available xa?",
+        "context": "Hamro store 'Kids Zone' ho, hamro store Chitwan ma xa. Hamro store ma toys, baby products, ra children's clothes haru available xa.",
+        "response": "Hamro store ma stuffed toys, baby strollers, kids' clothing, diapers, ra feeding bottles haru available xa."
+    },
+    {
+        "question": "Store ma kun kun saman paucha?",
+        "context": "Hamro store 'Furniture Palace' ho, hamro store Hetauda ma xa. Hamro store ma furniture ra home decor items haru available xa.",
+        "response": "Hamro store ma sofa sets, dining tables, beds, wardrobes, ra decorative items haru paucha."
+    },
+    {
+        "question": "Store ma k k xa?",
+        "context": "Hamro store 'Electro Hub' ho, hamro store Butwal ma xa. Hamro store ma electronics ra home appliances haru available xa.",
+        "response": "Hamro store ma TVs, refrigerators, washing machines, microwaves, ra blenders haru painxa."
+    },
+    {
+        "question": "Store ma kun kun product haru xa?",
+        "context": "Hamro store 'Grocery Mart' ho, hamro store Bharatpur ma xa. Hamro store ma groceries, snacks, ra beverages haru available xa.",
+        "response": "Hamro store ma rice, lentils, noodles, biscuits, chips, ra cold drinks haru paucha."
+    },
+    {
+        "question": "Store ma k k painxa?",
+        "context": "Hamro store 'Tech World' ho, hamro store Pokhara ma xa. Hamro store ma electronics ra gadgets haru available xa.",
+        "response": "Hamro store ma mobile, laptop, tablet, smartwatch, headphones, ra gaming accessories haru painxa."
+    },
+    {
+        "question": "Store ko location kaha xa?",
+        "context": "Hamro store 'Gift World' ho, hamro store Dhankuta ma xa. Hamro store ma gifts, greeting cards, ra decorative items haru available xa.",
+        "response": "Hamro store Dhankuta ma xa, main bus park bata 5 minute ko duri ma."
+    },
+    {
+        "question": "Store kaha xa?",
+        "context": "Hamro store 'Outdoor Adventures' ho, hamro store Ilam ma xa. Hamro store ma camping equipment ra outdoor accessories haru available xa.",
+        "response": "Hamro store Ilam ma xa, tea garden ko najik."
+    },
+    {
+        "question": "Yo store kaha cha?",
+        "context": "Hamro store 'Craft Haven' ho, hamro store Palpa ma xa. Hamro store ma handmade crafts ra art supplies haru available xa.",
+        "response": "Hamro store Palpa ma xa, Tansen bazaar ko center ma."
+    },
+    {
+        "question": "Store ko location k ho?",
+        "context": "Hamro store 'Tech Universe' ho, hamro store Jhapa ma xa. Hamro store ma laptops, tablets, ra computer accessories haru available xa.",
+        "response": "Hamro store Jhapa ma xa, Birtamod bazaar ma."
+    },
+    {
+        "question": "Store kaha cha?",
+        "context": "Hamro store 'Healthy Bites' ho, hamro store Kavre ma xa. Hamro store ma organic foods, supplements, ra fitness gear haru available xa.",
+        "response": "Hamro store Kavre ma xa, Banepa bazaar ko main road ma."
+    },
+    {
+        "question": "Store ko location kaha xa?",
+        "context": "Hamro store 'Toy Land' ho, hamro store Syangja ma xa. Hamro store ma toys, games, ra children's entertainment products haru available xa.",
+        "response": "Hamro store Syangja ma xa, Putali Bazaar ko najik."
+    },
+    {
+        "question": "Store kaha xa?",
+        "context": "Hamro store 'Fashion Trends' ho, hamro store Gorkha ma xa. Hamro store ma men's, women's, ra kids' clothing haru available xa.",
+        "response": "Hamro store Gorkha ma xa, Gorkha bazaar ko main market ma."
+    },
+    {
+        "question": "Yo store kaha cha?",
+        "context": "Hamro store 'Home Decor' ho, hamro store Lamjung ma xa. Hamro store ma home decoration items ra furniture haru available xa.",
+        "response": "Hamro store Lamjung ma xa, Besisahar bazaar ko center ma."
+    },
+    {
+        "question": "Store ko location k ho?",
+        "context": "Hamro store 'Beauty Bliss' ho, hamro store Rupandehi ma xa. Hamro store ma cosmetics, skincare, ra haircare products haru available xa.",
+        "response": "Hamro store Rupandehi ma xa, Butwal bazaar ko main road ma."
+    },
+    {
+        "question": "Store kaha cha?",
+        "context": "Hamro store 'Auto Care' ho, hamro store Nawalparasi ma xa. Hamro store ma car care products ra accessories haru available xa.",
+        "response": "Hamro store Nawalparasi ma xa, Parasi bazaar ko najik."
+    },
+    {
+        "question": "Store ko location kaha xa?",
+        "context": "Hamro store 'Pet Paradise' ho, hamro store Kailali ma xa. Hamro store ma pet food, toys, ra grooming products haru available xa.",
+        "response": "Hamro store Kailali ma xa, Dhangadhi bazaar ko main market ma."
+    },
+    {
+        "question": "Store kaha xa?",
+        "context": "Hamro store 'Artistic Creations' ho, hamro store Morang ma xa. Hamro store ma art supplies ra handmade crafts haru available xa.",
+        "response": "Hamro store Morang ma xa, Biratnagar bazaar ko center ma."
+    },
+    {
+        "question": "Yo store kaha cha?",
+        "context": "Hamro store 'Gadget World' ho, hamro store Dang ma xa. Hamro store ma smart devices ra tech accessories haru available xa.",
+        "response": "Hamro store Dang ma xa, Ghorahi bazaar ko main road ma."
+    },
+    {
+        "question": "Store ko location k ho?",
+        "context": "Hamro store 'Organic Delights' ho, hamro store Surkhet ma xa. Hamro store ma organic foods ra natural products haru available xa.",
+        "response": "Hamro store Surkhet ma xa, Birendranagar bazaar ko najik."
+    },
+    {
+        "question": "Store kaha cha?",
+        "context": "Hamro store 'Music Melodies' ho, hamro store Tanahun ma xa. Hamro store ma musical instruments ra accessories haru available xa.",
+        "response": "Hamro store Tanahun ma xa, Damauli bazaar ko center ma."
+    },
+    {
+        "question": "Store ko location kaha xa?",
+        "context": "Hamro store 'Fitness Gear' ho, hamro store Bara ma xa. Hamro store ma gym equipment ra fitness accessories haru available xa.",
+        "response": "Hamro store Bara ma xa, Kalaiya bazaar ko main market ma."
+    },
+    {
+        "question": "Store kaha xa?",
+        "context": "Hamro store 'Book Nook' ho, hamro store Parsa ma xa. Hamro store ma books, stationery, ra educational materials haru available xa.",
+        "response": "Hamro store Parsa ma xa, Birgunj bazaar ko center ma."
+    },
+    {
+        "question": "Yo store kaha cha?",
+        "context": "Hamro store 'Sports Central' ho, hamro store Sarlahi ma xa. Hamro store ma sports equipment ra fitness gear haru available xa.",
+        "response": "Hamro store Sarlahi ma xa, Malangwa bazaar ko main road ma."
+    },
+    {
+        "question": "Store ko location k ho?",
+        "context": "Hamro store 'Beauty Bliss' ho, hamro store Rautahat ma xa. Hamro store ma cosmetics, skincare, ra haircare products haru available xa.",
+        "response": "Hamro store Rautahat ma xa, Gaur bazaar ko najik."
+    },
+    {
+        "question": "Store kaha cha?",
+        "context": "Hamro store 'Auto Essentials' ho, hamro store Saptari ma xa. Hamro store ma vehicle parts ra accessories haru available xa.",
+        "response": "Hamro store Saptari ma xa, Rajbiraj bazaar ko main market ma."
+    }
+]

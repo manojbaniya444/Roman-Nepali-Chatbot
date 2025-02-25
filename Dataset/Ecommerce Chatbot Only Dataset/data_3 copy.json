@@ -1,0 +1,947 @@
+[
+    {
+        "question": "Yo mobile ko price kati ho?",
+        "context": "Hamro store ma Samsung Galaxy S23 Ultra ko price Rs. 1,45,000 ho. Yo phone ma 200MP ko camera ra 5000mAh ko battery cha.",
+        "response": "Samsung Galaxy S23 Ultra ko price Rs. 1,45,000 ho."
+    },
+    {
+        "question": "K tapaiharu ko pasal ma laptop available cha?",
+        "context": "Hamro store ma Dell, HP, ra Lenovo brand ko laptop haru available cha. Price range Rs. 50,000 dekhi Rs. 1,50,000 samma cha.",
+        "response": "Ho, hamro store ma Dell, HP, ra Lenovo brand ko laptop haru available cha."
+    },
+    {
+        "question": "Yo watch waterproof ho?",
+        "context": "Apple Watch Series 8 pani hamro store ma available cha, jasle IP68 water resistance rating paako cha.",
+        "response": "Ho, Apple Watch Series 8 IP68 water resistance rating paako cha."
+    },
+    {
+        "question": "Headphones ko warranty kati cha?",
+        "context": "Sony WH-1000XM5 headphones ma 1 barsha ko warranty cha. Hamro pasal bata yo headphones kinera warranty claim garna milcha.",
+        "response": "Sony WH-1000XM5 headphones ma 1 barsha ko warranty cha."
+    },
+    {
+        "question": "K tapaiharu delivery service dinuhunchha?",
+        "context": "Hamro store ma Kathmandu upatyaka bhitra free delivery service cha. Bahira ko delivery service ko lagi additional charge lagcha.",
+        "response": "Ho, Kathmandu upatyaka bhitra free delivery cha."
+    },
+    {
+        "question": "T-shirt return policy kasto cha?",
+        "context": "Hamro store ma kinieko T-shirt 7 din bhitra return garna milcha, jasma original condition ma hunu parcha.",
+        "response": "Hamro store ma T-shirt 7 din bhitra return garna milcha."
+    },
+    {
+        "question": "Yo TV ma Netflix chalcha?",
+        "context": "Samsung Smart TV ma Netflix, YouTube, Amazon Prime jasta apps pre-installed aauxa. Yo TV 4K resolution ma available cha.",
+        "response": "Ho, Samsung Smart TV ma Netflix chalcha."
+    },
+    {
+        "question": "Delivery ma kati time lagcha?",
+        "context": "Hamro store le Kathmandu upatyaka bhitra delivery 2-3 din bhitra complete garchha. Bahira delivery ma 5-7 din lagna sakcha.",
+        "response": "Kathmandu upatyaka bhitra delivery 2-3 din lagcha."
+    },
+    {
+        "question": "Yo fridge ma energy saving feature cha?",
+        "context": "LG Double Door Fridge ma inverter technology cha, jasle energy saving ma madat garcha.",
+        "response": "Ho, LG Double Door Fridge ma energy saving feature cha."
+    },
+    {
+        "question": "Camera return garna milcha?",
+        "context": "Hamro store ma electronics item return policy 15 din samma ho, tara damage na bhayeko condition ma matra return huncha.",
+        "response": "Ho, electronics item return policy 15 din samma ho."
+    },
+    {
+        "question": "K tapaiharu smartwatches discount ma dina huncha?",
+        "context": "Hamro store ma smartwatches ma 10% discount chaliraheko cha. Samsung Galaxy Watch ra Apple Watch ma special discount cha.",
+        "response": "Ho, smartwatches ma 10% discount chaliraheko cha."
+    },
+    {
+        "question": "Printer ko cartridge kati din samma chalcha?",
+        "context": "HP printer ko original cartridge le 1000 pages samma print garcha. Ink-saving mode le aroka din badna sakcha.",
+        "response": "HP printer ko original cartridge le 1000 pages samma print garcha."
+    },
+    {
+        "question": "K LED bulb energy efficient cha?",
+        "context": "Hamro store ma available Philips LED bulb energy efficient ho ra 15W ma 1500 lumens produce garcha.",
+        "response": "Ho, Philips LED bulb energy efficient ho."
+    },
+    {
+        "question": "Gaming mouse ko features k k cha?",
+        "context": "Razer gaming mouse ma adjustable DPI, RGB lighting, ra programmable buttons cha. 2 saal ko warranty pani cha.",
+        "response": "Razer gaming mouse ma adjustable DPI, RGB lighting, ra programmable buttons cha."
+    },
+    {
+        "question": "K yo blender ma warranty cha?",
+        "context": "Philips ka blender ma 2 barsha ko warranty cha. Warranty ko under motor replace garna milcha.",
+        "response": "Ho, Philips blender ma 2 barsha ko warranty cha."
+    },
+    {
+        "question": "Book order garera kati din ma aauxa?",
+        "context": "Hamro online store bata book order gareko 3-5 din bhitra Kathmandu upatyaka ma delivery huncha. Bahira 7-10 din lagcha.",
+        "response": "Kathmandu upatyaka ma 3-5 din ma delivery huncha."
+    },
+    {
+        "question": "Yo shoes washable cha?",
+        "context": "Adidas sports shoes washable ho, tara cold water ma matra wash garna parcha. Machine wash avoid garna sujha cha.",
+        "response": "Ho, Adidas sports shoes washable ho."
+    },
+    {
+        "question": "Microwave oven ko power consumption kasto cha?",
+        "context": "Samsung microwave oven ko power consumption 800W ho. Energy saving mode le aroko efficiency badcha.",
+        "response": "Samsung microwave oven ko power consumption 800W ho."
+    },
+    {
+        "question": "K tapaiharu exchange policy dina huncha?",
+        "context": "Hamro store ma exchange policy available cha, tara product ko original condition ma hunu parcha. Tyo condition ma price adjust garna milcha.",
+        "response": "Ho, exchange policy available cha."
+    },
+    {
+        "question": "Smartphone ko EMI option available cha?",
+        "context": "Hamro store ma Samsung, Apple, ra Xiaomi smartphone haru ko lagi EMI option available cha. Bank ko approval chaahinchha.",
+        "response": "Ho, smartphone ko lagi EMI option available cha."
+    },
+    {
+        "question": "K air purifier ma filter replace garna milcha?",
+        "context": "Dyson air purifier ma HEPA filter replace garna milcha. Hamro store filter pani provide garcha.",
+        "response": "Ho, Dyson air purifier ma filter replace garna milcha."
+    },
+    {
+        "question": "Bluetooth speaker waterproof cha?",
+        "context": "JBL Charge 5 speaker IP67 water resistance rating le aaune hunale pani waterproof ho.",
+        "response": "Ho, JBL Charge 5 speaker waterproof ho."
+    },
+    {
+        "question": "K yo AC ma inverter technology cha?",
+        "context": "Daikin AC ma inverter technology cha, jasle energy consumption reduce garna madad garcha ra efficient cooling provide garcha.",
+        "response": "Ho, Daikin AC ma inverter technology cha."
+    },
+    {
+        "question": "Wireless keyboard ko range kati ho?",
+        "context": "Logitech wireless keyboard ko range 10 meters samma ho. Bluetooth version 5.0 support garcha.",
+        "response": "Logitech wireless keyboard ko range 10 meters samma ho."
+    },
+    {
+        "question": "Fridge ko capacity kati litres ho?",
+        "context": "Samsung Double Door fridge ko capacity 345 litres ho, jasle large family ko lagi suitable cha.",
+        "response": "Samsung Double Door fridge ko capacity 345 litres ho."
+    },
+    {
+        "question": "Gaming console ma k k accessories aauxa?",
+        "context": "Sony PlayStation 5 gaming console ma controller, HDMI cable, ra power adapter included cha.",
+        "response": "Sony PlayStation 5 ma controller, HDMI cable, ra power adapter included cha."
+    },
+    {
+        "question": "K yo mattress washable ho?",
+        "context": "Memory foam mattress washable ho, tara cover separate garera matra wash garna milcha.",
+        "response": "Ho, memory foam mattress washable ho."
+    },
+    {
+        "question": "Coffee machine le kati cups banauna milcha?",
+        "context": "Nespresso coffee machine le ek choti fill gareko water tank le 8 cups samma banauna sakcha.",
+        "response": "Nespresso coffee machine le 8 cups samma banauna sakcha."
+    },
+    {
+        "question": "Camera lens ko price kati ho?",
+        "context": "Canon EF 50mm lens ko price Rs. 18,000 ho, hamro store ma available cha.",
+        "response": "Canon EF 50mm lens ko price Rs. 18,000 ho."
+    },
+    {
+        "question": "Electric scooter ko battery life kasto cha?",
+        "context": "Hamro store ma available electric scooter ko battery 100 km samma ek charge ma chalcha.",
+        "response": "Electric scooter ko battery 100 km samma ek charge ma chalcha."
+    },
+    {
+        "question": "Water purifier ma maintenance cost kati ho?",
+        "context": "Kent water purifier ko maintenance cost yearly Rs. 2,000 samma parcha, filter replacement ko lagi.",
+        "response": "Kent water purifier ko maintenance cost yearly Rs. 2,000 samma ho."
+    },
+    {
+        "question": "K vacuum cleaner cordless cha?",
+        "context": "Dyson V11 vacuum cleaner cordless cha ra full charge ma 60 minutes samma chalcha.",
+        "response": "Ho, Dyson V11 vacuum cleaner cordless cha."
+    },
+    {
+        "question": "Bike accessories haru available cha?",
+        "context": "Hamro store ma helmet, gloves, ra bike cover jasta accessories available cha. Price Rs. 1,000 dekhi suru huncha.",
+        "response": "Ho, bike accessories hamro store ma available cha."
+    },
+    {
+        "question": "K hair dryer lightweight ho?",
+        "context": "Philips hair dryer 400 grams matra weight cha, jasle lightweight ra portable banaucha.",
+        "response": "Ho, Philips hair dryer lightweight ho."
+    },
+    {
+        "question": "DSLR camera beginner friendly ho?",
+        "context": "Canon EOS 200D beginner-friendly camera ho, auto mode ra touchscreen display jasle easy operation garcha.",
+        "response": "Ho, Canon EOS 200D beginner-friendly camera ho."
+    },
+    {
+        "question": "Washing machine fully automatic ho?",
+        "context": "Samsung washing machine fully automatic ho, jasle 7 kg samma kapas capacity dincha.",
+        "response": "Ho, Samsung washing machine fully automatic ho."
+    },
+    {
+        "question": "K electric kettle fast heating cha?",
+        "context": "Prestige electric kettle 1500W ko power le fast heating capability dincha, jasle 2 minute ma pani tatauna sakcha.",
+        "response": "Ho, Prestige electric kettle fast heating cha."
+    },
+    {
+        "question": "Digital watch ko battery life kati cha?",
+        "context": "Casio digital watch ko battery life 2 barsha samma ho. Battery replacement pani easy cha.",
+        "response": "Casio digital watch ko battery life 2 barsha samma ho."
+    },
+    {
+        "question": "Air cooler ma water tank capacity kati ho?",
+        "context": "Symphony air cooler ko water tank capacity 55 litres ho, jasle dinbhar cooling provide garcha.",
+        "response": "Symphony air cooler ko water tank capacity 55 litres ho."
+    },
+    {
+        "question": "K fitness tracker ma heart rate monitor cha?",
+        "context": "Fitbit Charge 5 fitness tracker ma heart rate monitor, sleep tracking, ra step counting features available cha.",
+        "response": "Ho, Fitbit Charge 5 ma heart rate monitor cha."
+    },
+    {
+        "question": "Microwave ko capacity kati ho?",
+        "context": "LG microwave oven ko capacity 28 litres ho, jasle large family ko lagi suitable cha.",
+        "response": "LG microwave oven ko capacity 28 litres ho."
+    },
+    {
+        "question": "Smartphone ko RAM capacity kati ho?",
+        "context": "OnePlus 11 smartphone ma 12GB RAM ra 256GB internal storage available cha.",
+        "response": "OnePlus 11 smartphone ma 12GB RAM cha."
+    },
+    {
+        "question": "Gaming monitor ko refresh rate kati ho?",
+        "context": "Acer Nitro gaming monitor ko refresh rate 144Hz ho, jasle smooth gaming experience dincha.",
+        "response": "Acer Nitro gaming monitor ko refresh rate 144Hz ho."
+    },
+    {
+        "question": "Bluetooth earbuds waterproof ho?",
+        "context": "Samsung Galaxy Buds 2 Pro earbuds IPX7 waterproof rating ko sath aauxa.",
+        "response": "Ho, Samsung Galaxy Buds 2 Pro earbuds waterproof ho."
+    },
+    {
+        "question": "Printer ko wireless connectivity cha?",
+        "context": "Epson EcoTank printer wireless connectivity support garcha ra Wi-Fi ko madhyam bata print garna milcha.",
+        "response": "Ho, Epson EcoTank printer ma wireless connectivity cha."
+    },
+    {
+        "question": "Action camera ko resolution kati ho?",
+        "context": "GoPro Hero 11 action camera 4K resolution support garcha ra waterproof pani ho.",
+        "response": "GoPro Hero 11 action camera ko resolution 4K ho."
+    },
+    {
+        "context": "Yo jutta leather ko ho, size 6, 7, 8, ra 9 available cha. Color options ma black ra brown cha. Price Rs. 2500 ho.",
+        "question": "Yo jutta ko size k k available cha?",
+        "response": "Yo jutta ko size 6, 7, 8, ra 9 available cha."
+    },
+    {
+        "context": "Yo mobile phone ma 128GB storage, 6GB RAM cha. Color options ma black ra blue available cha. Battery capacity 5000mAh ho. Price Rs. 20,000 ho.",
+        "question": "Mobile phone ko color options ke ke cha?",
+        "response": "Yo mobile phone ma black ra blue color options available cha."
+    },
+    {
+        "context": "Yo headphone wireless ho, battery life 20 ghanta ho. Color options ma red ra white cha. Price Rs. 3500 ho.",
+        "question": "Yo headphone ma wireless cha?",
+        "response": "Ho, yo headphone wireless ho."
+    },
+    {
+        "context": "Yo smartwatch waterproof ho, fitness tracking feature cha. Color options ma black, grey ra pink available cha. Price Rs. 5000 ho.",
+        "question": "Smartwatch waterproof ho?",
+        "response": "Ho, yo smartwatch waterproof ho."
+    },
+    {
+        "context": "Yo camera DSLR ho, 24MP resolution cha. Lens kit included cha. Price Rs. 55,000 ho.",
+        "question": "Yo camera DSLR ho?",
+        "response": "Ho, yo camera DSLR ho."
+    },
+    {
+        "context": "Yo jutta leather ko ho, size 6, 7, 8, ra 9 available cha. Color options ma black ra brown cha. Price Rs. 2500 ho.",
+        "question": "Yo jutta ma size k k cha ta?",
+        "response": "Yo jutta ma size 6, 7, 8, ra 9 cha. Kun size cha ta?"
+    },
+    {
+        "context": "Yo mobile phone ma 128GB storage, 6GB RAM cha. Color options ma black ra blue available cha. Battery capacity 5000mAh ho. Price Rs. 20,000 ho.",
+        "question": "Mobile ko color option ke ke cha hai?",
+        "response": "Black ra blue color option cha yo mobile ma. Timi lai kun chahinchha?"
+    },
+    {
+        "context": "Yo headphone wireless ho, battery life 20 ghanta ho. Color options ma red ra white cha. Price Rs. 3500 ho.",
+        "question": "Yo headphone wireless ho ki wired ho?",
+        "response": "Wireless ho ni, aru info chahiyo vane bhan hai!"
+    },
+    {
+        "context": "Yo smartwatch waterproof ho, fitness tracking feature cha. Color options ma black, grey ra pink available cha. Price Rs. 5000 ho.",
+        "question": "Yo smartwatch pani ma bigrcha ki k ho?",
+        "response": "No tension, yo smartwatch waterproof ho!"
+    },
+    {
+        "context": "Yo camera DSLR ho, 24MP resolution cha. Lens kit included cha. Price Rs. 55,000 ho.",
+        "question": "DSLR camera ho ki normal ho?",
+        "response": "Ho ho, DSLR nai ho. Resolution 24MP cha ni!"
+    },
+    {
+        "context": "Product available: Redmi Note 9 mobile, Price: Rs. 9000. iPhone 13, Price: Rs. 100000. Samsung Galaxy A12, Price: Rs. 18000.",
+        "question": "Redmi Note 9 available xa ki xaina?",
+        "response": "Hami sanga Redmi Note 9 available xa."
+    },
+    {
+        "context": "Product available: Redmi Note 9 mobile, Price: Rs. 9000. iPhone 13, Price: Rs. 100000. Samsung Galaxy A12, Price: Rs. 18000.",
+        "question": "Redmi Note 9 ko price kati ho?",
+        "response": "Redmi Note 9 ko price Rs. 9000 ho."
+    },
+    {
+        "context": "Product available: Nike Running Shoes, Price: Rs. 5000. Adidas Sports Shoes, Price: Rs. 4500. Puma Sneakers, Price: Rs. 4000.",
+        "question": "Nike Running Shoes available cha?",
+        "response": "Hami sanga Nike Running Shoes available cha."
+    },
+    {
+        "context": "Product available: Nike Running Shoes, Price: Rs. 5000. Adidas Sports Shoes, Price: Rs. 4500. Puma Sneakers, Price: Rs. 4000.",
+        "question": "Nike Running Shoes ko price kati ho?",
+        "response": "Nike Running Shoes ko price Rs. 5000 ho."
+    },
+    {
+        "context": "Product available: Samsung 32-inch TV, Price: Rs. 15000. LG 42-inch TV, Price: Rs. 30000. Sony 50-inch TV, Price: Rs. 45000.",
+        "question": "LG TV available cha ki xaina?",
+        "response": "Ho, LG 42-inch TV available cha."
+    },
+    {
+        "context": "Product available: Samsung 32-inch TV, Price: Rs. 15000. LG 42-inch TV, Price: Rs. 30000. Sony 50-inch TV, Price: Rs. 45000.",
+        "question": "Sony TV ko price kati cha?",
+        "response": "Sony 50-inch TV ko price Rs. 45000 ho."
+    },
+    {
+        "context": "Product available: Dell Inspiron Laptop, Price: Rs. 45000. HP Pavilion Laptop, Price: Rs. 55000. MacBook Air, Price: Rs. 95000.",
+        "question": "MacBook Air available cha?",
+        "response": "Ho, MacBook Air available cha."
+    },
+    {
+        "context": "Product available: Dell Inspiron Laptop, Price: Rs. 45000. HP Pavilion Laptop, Price: Rs. 55000. MacBook Air, Price: Rs. 95000.",
+        "question": "Dell Laptop ko price kati cha?",
+        "response": "Dell Inspiron Laptop ko price Rs. 45000 ho."
+    },
+    {
+        "context": "Product available: Rolex Watch, Price: Rs. 150000. Titan Watch, Price: Rs. 7000. Casio Watch, Price: Rs. 5000.",
+        "question": "Rolex Watch available xa ki xaina?",
+        "response": "Ho, Rolex Watch available xa."
+    },
+    {
+        "context": "Product available: Rolex Watch, Price: Rs. 150000. Titan Watch, Price: Rs. 7000. Casio Watch, Price: Rs. 5000.",
+        "question": "Casio Watch ko price kati ho?",
+        "response": "Casio Watch ko price Rs. 5000 ho."
+    },
+    {
+        "context": "Product available: Redmi Note 9 mobile, Price: Rs. 9000. iPhone 13, Price: Rs. 100000. Samsung Galaxy A12, Price: Rs. 18000.",
+        "question": "Redmi Note 9 available xa ki xaina?",
+        "response": "Hami sanga Redmi Note 9 available xa."
+    },
+    {
+        "context": "Product available: Redmi Note 9 mobile, Price: Rs. 9000. iPhone 13, Price: Rs. 100000. Samsung Galaxy A12, Price: Rs. 18000.",
+        "question": "iPhone 13 ko price kati ho?",
+        "response": "Hami sanga iPhone 13 ko price Rs. 100000 xa."
+    },
+    {
+        "context": "Product available: Dell Inspiron Laptop, Price: Rs. 45000. HP Pavilion Laptop, Price: Rs. 55000. MacBook Air, Price: Rs. 95000.",
+        "question": "HP Pavilion Laptop available xa?",
+        "response": "Hami sanga HP Pavilion Laptop available xa."
+    },
+    {
+        "context": "Product available: Dell Inspiron Laptop, Price: Rs. 45000. HP Pavilion Laptop, Price: Rs. 55000. MacBook Air, Price: Rs. 95000.",
+        "question": "MacBook Air ko price kati ho?",
+        "response": "Hami sanga MacBook Air ko price Rs. 95000 xa."
+    },
+    {
+        "context": "Product available: Nike Running Shoes, Price: Rs. 5000. Adidas Sports Shoes, Price: Rs. 4500. Puma Sneakers, Price: Rs. 4000.",
+        "question": "Adidas Sports Shoes available cha?",
+        "response": "Hami sanga Adidas Sports Shoes available cha."
+    },
+    {
+        "context": "Product available: Nike Running Shoes, Price: Rs. 5000. Adidas Sports Shoes, Price: Rs. 4500. Puma Sneakers, Price: Rs. 4000.",
+        "question": "Nike Running Shoes ko price kati ho?",
+        "response": "Hami sanga Nike Running Shoes ko price Rs. 5000 xa."
+    },
+    {
+        "context": "Product available: Samsung 32-inch TV, Price: Rs. 15000. LG 42-inch TV, Price: Rs. 30000. Sony 50-inch TV, Price: Rs. 45000.",
+        "question": "Sony TV available cha?",
+        "response": "Hami sanga Sony TV available cha."
+    },
+    {
+        "context": "Product available: Samsung 32-inch TV, Price: Rs. 15000. LG 42-inch TV, Price: Rs. 30000. Sony 50-inch TV, Price: Rs. 45000.",
+        "question": "Samsung 32-inch TV ko price kati ho?",
+        "response": "Hami sanga Samsung 32-inch TV ko price Rs. 15000 xa."
+    },
+    {
+        "context": "Product available: Rolex Watch, Price: Rs. 150000. Titan Watch, Price: Rs. 7000. Casio Watch, Price: Rs. 5000.",
+        "question": "Rolex Watch available xa ki xaina?",
+        "response": "Hami sanga Rolex Watch available xa."
+    },
+    {
+        "context": "Product available: Rolex Watch, Price: Rs. 150000. Titan Watch, Price: Rs. 7000. Casio Watch, Price: Rs. 5000.",
+        "question": "Titan Watch ko price kati ho?",
+        "response": "Hami sanga Titan Watch ko price Rs. 7000 xa."
+    },
+    {
+        "context": "Product available: Apple AirPods Pro, Price: Rs. 25000. Samsung Galaxy Buds, Price: Rs. 12000. JBL Wireless Earbuds, Price: Rs. 8000.",
+        "question": "Samsung Galaxy Buds available cha?",
+        "response": "Hami sanga Samsung Galaxy Buds available cha."
+    },
+    {
+        "context": "Product available: Apple AirPods Pro, Price: Rs. 25000. Samsung Galaxy Buds, Price: Rs. 12000. JBL Wireless Earbuds, Price: Rs. 8000.",
+        "question": "Apple AirPods Pro ko price kati ho?",
+        "response": "Hami sanga Apple AirPods Pro ko price Rs. 25000 xa."
+    },
+    {
+        "context": "Product available: Samsung Galaxy S21, Price: Rs. 75000. OnePlus Nord CE 3, Price: Rs. 35000. Vivo V25, Price: Rs. 28000.",
+        "question": "Samsung Galaxy S21 ko price kati ho?",
+        "response": "Samsung Galaxy S21 ko price Rs. 75000 ho."
+    },
+    {
+        "context": "Product available: Samsung Galaxy S21, Price: Rs. 75000. OnePlus Nord CE 3, Price: Rs. 35000. Vivo V25, Price: Rs. 28000.",
+        "question": "OnePlus Nord CE 3 available xa ki xaina?",
+        "response": "Hami sanga OnePlus Nord CE 3 available xa."
+    },
+    {
+        "context": "Product available: Whirlpool Refrigerator 240L, Price: Rs. 30000. LG Refrigerator 265L, Price: Rs. 35000. Samsung Refrigerator 320L, Price: Rs. 40000.",
+        "question": "LG Refrigerator ko price kati ho?",
+        "response": "LG Refrigerator ko price Rs. 35000 ho."
+    },
+    {
+        "context": "Product available: Whirlpool Refrigerator 240L, Price: Rs. 30000. LG Refrigerator 265L, Price: Rs. 35000. Samsung Refrigerator 320L, Price: Rs. 40000.",
+        "question": "Samsung Refrigerator available cha?",
+        "response": "Hami sanga Samsung Refrigerator available cha."
+    },
+    {
+        "context": "Product available: Yamaha FZ V3, Price: Rs. 285000. Honda Shine, Price: Rs. 225000. Royal Enfield Classic 350, Price: Rs. 525000.",
+        "question": "Royal Enfield Classic 350 ko price kati ho?",
+        "response": "Royal Enfield Classic 350 ko price Rs. 525000 ho."
+    },
+    {
+        "context": "Product available: Yamaha FZ V3, Price: Rs. 285000. Honda Shine, Price: Rs. 225000. Royal Enfield Classic 350, Price: Rs. 525000.",
+        "question": "Honda Shine available cha ki xaina?",
+        "response": "Hami sanga Honda Shine available cha."
+    },
+    {
+        "context": "Product available: Sony WH-1000XM5 Headphones, Price: Rs. 45000. Bose QuietComfort 45, Price: Rs. 50000. JBL Quantum 800, Price: Rs. 30000.",
+        "question": "Sony WH-1000XM5 ko price kati ho?",
+        "response": "Sony WH-1000XM5 ko price Rs. 45000 ho."
+    },
+    {
+        "context": "Product available: Sony WH-1000XM5 Headphones, Price: Rs. 45000. Bose QuietComfort 45, Price: Rs. 50000. JBL Quantum 800, Price: Rs. 30000.",
+        "question": "Bose QuietComfort 45 available xa ki xaina?",
+        "response": "Hami sanga Bose QuietComfort 45 available xa."
+    },
+    {
+        "context": "Product available: Canon EOS 200D, Price: Rs. 65000. Nikon D3500, Price: Rs. 60000. Sony Alpha 7C, Price: Rs. 180000.",
+        "question": "Nikon D3500 available cha?",
+        "response": "Hami sanga Nikon D3500 available cha."
+    },
+    {
+        "context": "Product available: Canon EOS 200D, Price: Rs. 65000. Nikon D3500, Price: Rs. 60000. Sony Alpha 7C, Price: Rs. 180000.",
+        "question": "Sony Alpha 7C ko price kati ho?",
+        "response": "Sony Alpha 7C ko price Rs. 180000 ho."
+    },
+    {
+        "context": "Product available: Apple Watch Series 8, Price: Rs. 55000. Samsung Galaxy Watch 5, Price: Rs. 30000. Fitbit Versa 4, Price: Rs. 25000.",
+        "question": "Apple Watch Series 8 available xa ki xaina?",
+        "response": "Hami sanga Apple Watch Series 8 available xa."
+    },
+    {
+        "context": "Product available: Apple Watch Series 8, Price: Rs. 55000. Samsung Galaxy Watch 5, Price: Rs. 30000. Fitbit Versa 4, Price: Rs. 25000.",
+        "question": "Fitbit Versa 4 ko price kati ho?",
+        "response": "Fitbit Versa 4 ko price Rs. 25000 ho."
+    },
+    {
+        "context": "Product List: Sofa Set, Price: Rs. 30000. Dining Table 6-seater, Price: Rs. 25000. King-size Bed, Price: Rs. 40000.",
+        "question": "Sofa Set available xa ki xaina?",
+        "response": "Hami sanga Sofa Set available xa."
+    },
+    {
+        "context": "Product List: Sofa Set, Price: Rs. 30000. Dining Table 6-seater, Price: Rs. 25000. King-size Bed, Price: Rs. 40000.",
+        "question": "Dining Table ko price kati ho?",
+        "response": "Dining Table ko price Rs. 25000 ho."
+    },
+    {
+        "context": "Product List: Apple (1kg), Price: Rs. 200. Banana (1 dozen), Price: Rs. 120. Orange (1kg), Price: Rs. 180.",
+        "question": "Banana available cha?",
+        "response": "Hami sanga Banana available cha."
+    },
+    {
+        "context": "Product List: Apple (1kg), Price: Rs. 200. Banana (1 dozen), Price: Rs. 120. Orange (1kg), Price: Rs. 180.",
+        "question": "Apple ko price kati ho?",
+        "response": "Apple ko price Rs. 200 ho."
+    },
+    {
+        "context": "Product List: Men's Leather Jacket, Price: Rs. 5000. Women's Woolen Scarf, Price: Rs. 800. Kids' Winter Cap, Price: Rs. 400.",
+        "question": "Women's Woolen Scarf available cha ki xaina?",
+        "response": "Hami sanga Women's Woolen Scarf available cha."
+    },
+    {
+        "context": "Product List: Men's Leather Jacket, Price: Rs. 5000. Women's Woolen Scarf, Price: Rs. 800. Kids' Winter Cap, Price: Rs. 400.",
+        "question": "Men's Leather Jacket ko price kati ho?",
+        "response": "Men's Leather Jacket ko price Rs. 5000 ho."
+    },
+    {
+        "context": "Product List: Samsung Washing Machine 7kg, Price: Rs. 35000. LG Microwave Oven 30L, Price: Rs. 15000. Philips Air Fryer, Price: Rs. 12000.",
+        "question": "Philips Air Fryer available cha?",
+        "response": "Hami sanga Philips Air Fryer available cha."
+    },
+    {
+        "context": "Product List: Samsung Washing Machine 7kg, Price: Rs. 35000. LG Microwave Oven 30L, Price: Rs. 15000. Philips Air Fryer, Price: Rs. 12000.",
+        "question": "LG Microwave Oven ko price kati ho?",
+        "response": "LG Microwave Oven ko price Rs. 15000 ho."
+    },
+    {
+        "context": "Product List: Study Table, Price: Rs. 7000. Office Chair, Price: Rs. 5000. Bookshelf, Price: Rs. 8000.",
+        "question": "Bookshelf available xa ki xaina?",
+        "response": "Hami sanga Bookshelf available xa."
+    },
+    {
+        "context": "Product List: Study Table, Price: Rs. 7000. Office Chair, Price: Rs. 5000. Bookshelf, Price: Rs. 8000.",
+        "question": "Study Table ko price kati ho?",
+        "response": "Study Table ko price Rs. 7000 ho."
+    },
+    {
+        "context": "Product List: HP Ink Cartridge, Price: Rs. 1200. Epson Printer Paper (500 sheets), Price: Rs. 500. Canon Printer, Price: Rs. 15000.",
+        "question": "Canon Printer available cha?",
+        "response": "Hami sanga Canon Printer available cha."
+    },
+    {
+        "context": "Product List: HP Ink Cartridge, Price: Rs. 1200. Epson Printer Paper (500 sheets), Price: Rs. 500. Canon Printer, Price: Rs. 15000.",
+        "question": "Epson Printer Paper ko price kati ho?",
+        "response": "Epson Printer Paper ko price Rs. 500 ho."
+    },
+    {
+        "context": "Product List: Adidas Sports T-shirt, Price: Rs. 1500. Puma Running Shorts, Price: Rs. 1200. Reebok Gym Bag, Price: Rs. 2500.",
+        "question": "Adidas Sports T-shirt ko price kati ho?",
+        "response": "Adidas Sports T-shirt ko price Rs. 1500 ho."
+    },
+    {
+        "context": "Product List: Adidas Sports T-shirt, Price: Rs. 1500. Puma Running Shorts, Price: Rs. 1200. Reebok Gym Bag, Price: Rs. 2500.",
+        "question": "Reebok Gym Bag available xa ki xaina?",
+        "response": "Hami sanga Reebok Gym Bag available xa."
+    },
+    {
+        "context": "Product List: Samsung Galaxy S21, Price: Rs. 75000. OnePlus Nord CE 3, Price: Rs. 35000. Vivo V25, Price: Rs. 28000.",
+        "question": "Samsung Galaxy S21 available xa ki xaina?",
+        "response": "Hami sanga Samsung Galaxy S21 available xa."
+    },
+    {
+        "context": "Product List: Samsung Galaxy S21, Price: Rs. 75000. OnePlus Nord CE 3, Price: Rs. 35000. Vivo V25, Price: Rs. 28000.",
+        "question": "iPhone 14 available cha ki xaina?",
+        "response": "Dukha xa, hami sanga iPhone 14 available xaina."
+    },
+    {
+        "context": "Product List: Sofa Set, Price: Rs. 30000. Dining Table 6-seater, Price: Rs. 25000. King-size Bed, Price: Rs. 40000.",
+        "question": "King-size Bed available xa?",
+        "response": "Hami sanga King-size Bed available xa."
+    },
+    {
+        "context": "Product List: Sofa Set, Price: Rs. 30000. Dining Table 6-seater, Price: Rs. 25000. King-size Bed, Price: Rs. 40000.",
+        "question": "Single Bed available cha ki xaina?",
+        "response": "Dukha xa, hami sanga Single Bed available xaina."
+    },
+    {
+        "context": "Product List: Apple (1kg), Price: Rs. 200. Banana (1 dozen), Price: Rs. 120. Orange (1kg), Price: Rs. 180.",
+        "question": "Banana available cha?",
+        "response": "Hami sanga Banana available cha."
+    },
+    {
+        "context": "Product List: Apple (1kg), Price: Rs. 200. Banana (1 dozen), Price: Rs. 120. Orange (1kg), Price: Rs. 180.",
+        "question": "Mango available xa ki xaina?",
+        "response": "Dukha xa, hami sanga Mango available xaina."
+    },
+    {
+        "context": "Product List: Samsung Galaxy S21, Price: Rs. 75000. OnePlus Nord CE 3, Price: Rs. 35000. Vivo V25, Price: Rs. 28000.",
+        "question": "Samsung Galaxy S21 available xa ki xaina?",
+        "response": "Hami sanga Samsung Galaxy S21 available xa."
+    },
+    {
+        "context": "Product List: Samsung Galaxy S21, Price: Rs. 75000. OnePlus Nord CE 3, Price: Rs. 35000. Vivo V25, Price: Rs. 28000.",
+        "question": "iPhone 14 available cha ki xaina?",
+        "response": "Hami sanga iPhone 14 available xaina."
+    },
+    {
+        "context": "Product List: Sofa Set, Price: Rs. 30000. Dining Table 6-seater, Price: Rs. 25000. King-size Bed, Price: Rs. 40000.",
+        "question": "King-size Bed available xa?",
+        "response": "Hami sanga King-size Bed available xa."
+    },
+    {
+        "context": "Product List: Sofa Set, Price: Rs. 30000. Dining Table 6-seater, Price: Rs. 25000. King-size Bed, Price: Rs. 40000.",
+        "question": "Single Bed available cha ki xaina?",
+        "response": "Hami sanga Single Bed available xaina."
+    },
+    {
+        "context": "Product List: Apple (1kg), Price: Rs. 200. Banana (1 dozen), Price: Rs. 120. Orange (1kg), Price: Rs. 180.",
+        "question": "Banana available cha?",
+        "response": "Hami sanga Banana available cha."
+    },
+    {
+        "context": "Product List: Apple (1kg), Price: Rs. 200. Banana (1 dozen), Price: Rs. 120. Orange (1kg), Price: Rs. 180.",
+        "question": "Mango available xa ki xaina?",
+        "response": "Hami sanga Mango available xaina."
+    },
+    {
+        "context": "Product List: Men's Leather Jacket, Price: Rs. 5000. Women's Woolen Scarf, Price: Rs. 800. Kids' Winter Cap, Price: Rs. 400.",
+        "question": "Men's Leather Jacket ko price kati ho?",
+        "response": "Men's Leather Jacket ko price Rs. 5000 ho."
+    },
+    {
+        "context": "Product List: Men's Leather Jacket, Price: Rs. 5000. Women's Woolen Scarf, Price: Rs. 800. Kids' Winter Cap, Price: Rs. 400.",
+        "question": "Men's Winter Gloves available cha ki xaina?",
+        "response": "Hami sanga Men's Winter Gloves available xaina."
+    },
+    {
+        "context": "Product List: Samsung Washing Machine 7kg, Price: Rs. 35000. LG Microwave Oven 30L, Price: Rs. 15000. Philips Air Fryer, Price: Rs. 12000.",
+        "question": "Philips Air Fryer available cha?",
+        "response": "Hami sanga Philips Air Fryer available cha."
+    },
+    {
+        "context": "Product List: Samsung Washing Machine 7kg, Price: Rs. 35000. LG Microwave Oven 30L, Price: Rs. 15000. Philips Air Fryer, Price: Rs. 12000.",
+        "question": "Whirlpool Refrigerator available xa ki xaina?",
+        "response": "Hami sanga Whirlpool Refrigerator available xaina."
+    },
+    {
+        "context": "Product List: Study Table, Price: Rs. 7000. Office Chair, Price: Rs. 5000. Bookshelf, Price: Rs. 8000.",
+        "question": "Bookshelf available xa ki xaina?",
+        "response": "Hami sanga Bookshelf available xa."
+    },
+    {
+        "context": "Product List: Study Table, Price: Rs. 7000. Office Chair, Price: Rs. 5000. Bookshelf, Price: Rs. 8000.",
+        "question": "Office Desk available xa ki xaina?",
+        "response": "Hami sanga Office Desk available xaina."
+    },
+    {
+        "context": "Product List: Adidas Sports T-shirt, Price: Rs. 1500. Puma Running Shorts, Price: Rs. 1200. Reebok Gym Bag, Price: Rs. 2500.",
+        "question": "Adidas Sports T-shirt available cha?",
+        "response": "Hami sanga Adidas Sports T-shirt available cha."
+    },
+    {
+        "context": "Product List: Adidas Sports T-shirt, Price: Rs. 1500. Puma Running Shorts, Price: Rs. 1200. Reebok Gym Bag, Price: Rs. 2500.",
+        "question": "Nike Running Shoes available xa ki xaina?",
+        "response": "Hami sanga Nike Running Shoes available xaina."
+    },
+    {
+        "context": "Product List: Samsung Galaxy S22, Price: Rs. 85000. Redmi Note 11, Price: Rs. 25000. Oppo Reno 8, Price: Rs. 30000.",
+        "question": "Samsung Galaxy S23 available cha ki xaina?",
+        "response": "Hami sanga Samsung Galaxy S23 available xaina."
+    },
+    {
+        "context": "Product List: Samsung Galaxy S22, Price: Rs. 85000. Redmi Note 11, Price: Rs. 25000. Oppo Reno 8, Price: Rs. 30000.",
+        "question": "Redmi Note 11 available cha?",
+        "response": "Hami sanga Redmi Note 11 available cha."
+    },
+    {
+        "context": "Product List: Dining Table 4-seater, Price: Rs. 15000. Coffee Table, Price: Rs. 7000. King-size Bed, Price: Rs. 40000.",
+        "question": "Dining Table 6-seater available xa ki xaina?",
+        "response": "Hami sanga Dining Table 6-seater available xaina."
+    },
+    {
+        "context": "Product List: Dining Table 4-seater, Price: Rs. 15000. Coffee Table, Price: Rs. 7000. King-size Bed, Price: Rs. 40000.",
+        "question": "King-size Bed available xa?",
+        "response": "Hami sanga King-size Bed available xa."
+    },
+    {
+        "context": "Product List: Apple (1kg), Price: Rs. 200. Banana (1 dozen), Price: Rs. 120. Orange (1kg), Price: Rs. 180.",
+        "question": "Strawberry available xa ki xaina?",
+        "response": "Hami sanga Strawberry available xaina."
+    },
+    {
+        "context": "Product List: Apple (1kg), Price: Rs. 200. Banana (1 dozen), Price: Rs. 120. Orange (1kg), Price: Rs. 180.",
+        "question": "Banana available cha?",
+        "response": "Hami sanga Banana available cha."
+    },
+    {
+        "context": "Product List: Lenovo ThinkPad X1, Price: Rs. 125000. HP Pavilion 15, Price: Rs. 75000. Dell Inspiron 14, Price: Rs. 60000.",
+        "question": "MacBook Air available cha?",
+        "response": "Hami sanga MacBook Air available xaina."
+    },
+    {
+        "context": "Product List: Lenovo ThinkPad X1, Price: Rs. 125000. HP Pavilion 15, Price: Rs. 75000. Dell Inspiron 14, Price: Rs. 60000.",
+        "question": "HP Pavilion 15 available cha?",
+        "response": "Hami sanga HP Pavilion 15 available cha."
+    },
+    {
+        "context": "Product List: Men's Leather Jacket, Price: Rs. 5000. Women's Woolen Scarf, Price: Rs. 800. Kids' Winter Cap, Price: Rs. 400.",
+        "question": "Kids' Winter Gloves available xa ki xaina?",
+        "response": "Hami sanga Kids' Winter Gloves available xaina."
+    },
+    {
+        "context": "Product List: Men's Leather Jacket, Price: Rs. 5000. Women's Woolen Scarf, Price: Rs. 800. Kids' Winter Cap, Price: Rs. 400.",
+        "question": "Men's Leather Jacket available cha?",
+        "response": "Hami sanga Men's Leather Jacket available cha."
+    },
+    {
+        "context": "Product List: Samsung Washing Machine 7kg, Price: Rs. 35000. LG Microwave Oven 30L, Price: Rs. 15000. Philips Air Fryer, Price: Rs. 12000.",
+        "question": "IFB Dishwasher available cha?",
+        "response": "Hami sanga IFB Dishwasher available xaina."
+    },
+    {
+        "context": "Product List: Samsung Washing Machine 7kg, Price: Rs. 35000. LG Microwave Oven 30L, Price: Rs. 15000. Philips Air Fryer, Price: Rs. 12000.",
+        "question": "Samsung Washing Machine available xa?",
+        "response": "Hami sanga Samsung Washing Machine available xa."
+    },
+    {
+        "context": "Product List: Study Table, Price: Rs. 7000. Office Chair, Price: Rs. 5000. Bookshelf, Price: Rs. 8000.",
+        "question": "Laptop Table available cha ki xaina?",
+        "response": "Hami sanga Laptop Table available xaina."
+    },
+    {
+        "context": "Product List: Study Table, Price: Rs. 7000. Office Chair, Price: Rs. 5000. Bookshelf, Price: Rs. 8000.",
+        "question": "Bookshelf available xa?",
+        "response": "Hami sanga Bookshelf available xa."
+    },
+    {
+        "context": "Product List: Adidas Sports T-shirt, Price: Rs. 1500. Puma Running Shorts, Price: Rs. 1200. Reebok Gym Bag, Price: Rs. 2500.",
+        "question": "Nike Sports T-shirt available cha ki xaina?",
+        "response": "Hami sanga Nike Sports T-shirt available xaina."
+    },
+    {
+        "context": "Product List: Adidas Sports T-shirt, Price: Rs. 1500. Puma Running Shorts, Price: Rs. 1200. Reebok Gym Bag, Price: Rs. 2500.",
+        "question": "Adidas Sports T-shirt available cha?",
+        "response": "Hami sanga Adidas Sports T-shirt available cha."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 9 Pro available xa ki xaina?",
+        "response": "Hami sanga Redmi Note 9 Pro available xa."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy available cha ki xaina?",
+        "response": "Hami sanga Samsung Galaxy available cha."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone available cha ki xaina?",
+        "response": "Hami sanga iPhone available cha."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Sony TV available cha?",
+        "response": "Hami sanga Sony TV available cha."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 10 available cha ki xaina?",
+        "response": "Hami sanga Redmi Note 10 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "LG TV available cha ki xaina?",
+        "response": "Hami sanga LG TV available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Sony TV ko price kati ho?",
+        "response": "Sony TV ko price Rs. 40000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Calculator ko price kati ho?",
+        "response": "Calculator ko price Rs. 500 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "OnePlus 8 available cha ki xaina?",
+        "response": "Hami sanga OnePlus 8 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 9 Pro ko price kati ho?",
+        "response": "Redmi Note 9 Pro ko price Rs. 20000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone 13 available cha ki xaina?",
+        "response": "Hami sanga iPhone 13 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy ko price kati ho?",
+        "response": "Samsung Galaxy ko price Rs. 60000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy S21 available cha ki xaina?",
+        "response": "Hami sanga Samsung Galaxy S21 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone ko price kati ho?",
+        "response": "iPhone ko price Rs. 100000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 9 Pro ko price kati ho?",
+        "response": "Redmi Note 9 Pro ko price Rs. 20000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 9 Pro available xa ki xaina?",
+        "response": "Hami sanga Redmi Note 9 Pro available xa."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone 11 available cha ki xaina?",
+        "response": "Hami sanga iPhone 11 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Sony TV ko price kati ho?",
+        "response": "Sony TV ko price Rs. 40000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy S22 available xa ki xaina?",
+        "response": "Hami sanga Samsung Galaxy S22 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy ko price kati ho?",
+        "response": "Samsung Galaxy ko price Rs. 60000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Calculator available cha ki xaina?",
+        "response": "Hami sanga Calculator available cha."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Sony LED TV available cha ki xaina?",
+        "response": "Hami sanga Sony LED TV available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 9 Pro ko stock cha ki xaina?",
+        "response": "Hami sanga Redmi Note 9 Pro available xa."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 9 Pro ko price kati cha?",
+        "response": "Redmi Note 9 Pro ko price Rs. 20000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Calculator ko stock cha ki xaina?",
+        "response": "Hami sanga Calculator available cha."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 10 available cha ki xaina?",
+        "response": "Hami sanga Redmi Note 10 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Sony TV ko price kati ho?",
+        "response": "Sony TV ko price Rs. 40000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone 12 available cha ki xaina?",
+        "response": "Hami sanga iPhone 12 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy S20 available cha ki xaina?",
+        "response": "Hami sanga Samsung Galaxy S20 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 9 Pro ko price kati ho?",
+        "response": "Redmi Note 9 Pro ko price Rs. 20000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy ko price kati ho?",
+        "response": "Samsung Galaxy ko price Rs. 60000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Calculator available xa ki xaina?",
+        "response": "Hami sanga Calculator available xa."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone ko price kati ho?",
+        "response": "iPhone ko price Rs. 100000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Sony TV available cha ki xaina?",
+        "response": "Hami sanga Sony TV available cha."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone 14 available cha ki xaina?",
+        "response": "Hami sanga iPhone 14 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 10 Pro available cha ki xaina?",
+        "response": "Hami sanga Redmi Note 10 Pro available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Calculator ko price kati ho?",
+        "response": "Calculator ko price Rs. 500 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Sony Bravia TV available cha ki xaina?",
+        "response": "Hami sanga Sony Bravia TV available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy A52 available cha ki xaina?",
+        "response": "Hami sanga Samsung Galaxy A52 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 9 Pro ko stock cha ki xaina?",
+        "response": "Hami sanga Redmi Note 9 Pro available cha."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone 12 ko price kati ho?",
+        "response": "Hami sanga iPhone 12 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Sony TV ko price kati ho?",
+        "response": "Sony TV ko price Rs. 40000 ho."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy S21 available cha ki xaina?",
+        "response": "Hami sanga Samsung Galaxy S21 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone 13 available cha ki xaina?",
+        "response": "Hami sanga iPhone 13 available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy ko stock cha ki xaina?",
+        "response": "Hami sanga Samsung Galaxy available cha."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "iPhone SE available cha ki xaina?",
+        "response": "Hami sanga iPhone SE available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Samsung Galaxy Fold available cha ki xaina?",
+        "response": "Hami sanga Samsung Galaxy Fold available xaina."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Sony TV available xa?",
+        "response": "Hami sanga Sony TV available xa."
+    },
+    {
+        "context": "Product List: Redmi Note 9 Pro, Price: Rs. 20000. Samsung Galaxy, Price: Rs. 60000. iPhone, Price: Rs. 100000. Calculator, Price: Rs. 500. Sony TV, Price: Rs. 40000.",
+        "question": "Redmi Note 8 ko stock cha?",
+        "response": "Hami sanga Redmi Note 8 available xaina."
+    }
+]

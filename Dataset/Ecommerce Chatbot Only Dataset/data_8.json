@@ -1,0 +1,1587 @@
+[
+    {
+        "question": "Store kaha cha?",
+        "context": "Ekta general store Kathmandu ko Thamel ma cha, main road ko side ma.",
+        "response": "Store Kathmandu ma cha, Thamel ko main road ma."
+    },
+    {
+        "question": "Store khula hune samay kati ho?",
+        "context": "Store subha 9 baje dekhi beluka 8 baje samma khula hunchha, tara Sunday ma 10 baje khulcha.",
+        "response": "Store subha 9 baje dekhi beluka 8 baje samma khula cha."
+    },
+    {
+        "question": "Store ma k k saman milcha?",
+        "context": "Store ma kirana ko saman, taja falful, tatha household items pani rakheko cha.",
+        "response": "Store ma kirana ko saman, taja falful, tatha household items pani milcha."
+    },
+    {
+        "question": "Delivery cha ki chaina?",
+        "context": "Store le delivery service pani dincha, jo Kathmandu upatyaka bhitra 24 ghanta bhitra huncha.",
+        "response": "Ho, store le Kathmandu upatyaka bhitra delivery dincha."
+    },
+    {
+        "question": "Payment kasari garna milcha?",
+        "context": "Store ma cash payment, digital wallet (eSewa, Khalti), ra Visa card le payment garna milcha.",
+        "response": "Store ma cash, digital wallet, ra Visa card le payment garna milcha."
+    },
+    {
+        "question": "Special discount cha ki chaina?",
+        "context": "Store ma taja offer haru rakheko huncha jastai: ek mahina ma 2 choti 10% discount dincha.",
+        "response": "Ho, special discount cha. Ek mahina ma 2 choti 10% discount dincha."
+    },
+    {
+        "question": "Exchange policy cha ki chaina?",
+        "context": "Store le defective items ko lagi 7 din ko exchange policy dincha.",
+        "response": "Ho, store le defective items ko lagi 7 din ko exchange policy dincha."
+    },
+    {
+        "question": "Store kaha cha?",
+        "context": "Ekta General Store Kathmandu ko Thamel ma avasthit cha. Yo store Thamel ko main road ma cha, Durbar Marg bata kehi minute ma pugna sakincha. Store le chhimeki kshetra jastai Lazimpat ra Naxal ma pani delivery dincha. Parking ko subidha cha, tara space simit cha.",
+        "response": "Store Kathmandu ko Thamel ma, main road ma cha."
+    },
+    {
+        "question": "Store khula hune samay kati ho?",
+        "context": "Store subha 9 baje dekhi beluka 8 baje samma khula cha. Sunday ko din ma 10 baje dekhi 6 baje samma khulcha. Public holidays ma pani store khula rakhne pratha cha, tara samay 1-2 ghanta kaam hunchha.",
+        "response": "Store subha 9 baje dekhi beluka 8 baje samma khula cha."
+    },
+    {
+        "question": "Store ma k k saman milcha?",
+        "context": "Store ma kirana ko saman jastai chawal, daal, tel, tatha masala ko purano stock hamesha rakheko cha. Taja falful ra sabjiko lagi alag counter cha. Household items jastai detergent, soap, ra kitchen appliances pani milcha. Snacks section ma biscuits, chips, tatha chocolates le bhareko cha.",
+        "response": "Store ma kirana ko saman, taja falful, ra household items pani milcha."
+    },
+    {
+        "question": "Delivery system cha ki chaina?",
+        "context": "Store le Kathmandu upatyaka bhitra delivery system cha. Order rakheko saman 24 ghanta bhitra ghar ma puryaune subidha cha. Minimum order amount Rs. 500 hunu parchha. Delivery charge free cha, yadi order Rs. 2000 bhanda mathi cha bhane.",
+        "response": "Ho, delivery system cha. Kathmandu upatyaka bhitra 24 ghanta bhitra saman puryaunchha."
+    },
+    {
+        "question": "Payment kasari garna milcha?",
+        "context": "Payment ko lagi store ma cash, digital wallet (eSewa, Khalti, IME Pay), ra card payment (Visa, Mastercard) ko subidha cha. QR code scan garera pani payment garna sakincha. Customer haru lai credit ma saman dine niyam chaina.",
+        "response": "Payment cash, digital wallet, ra Visa card le garna milcha."
+    },
+    {
+        "question": "Discount kasari pauna sakincha?",
+        "context": "Store le monthly offer haru dincha jastai 10% discount kirana items ma ra 5% discount snacks ma. Regular customer haru ko lagi point system cha, jasle redeem gare pachhi saman ko mulya ghatauna sakincha. Dashain tatha Tihar ma special offer haru aune garcha.",
+        "response": "Store le kirana items ma 10% discount ra snacks ma 5% discount dincha."
+    },
+    {
+        "question": "Exchange policy cha ki chaina?",
+        "context": "Store ma defective items exchange garna milcha, tara saman kinya ko 7 din bhitra return garna parcha. Bill ko copy anivarya cha. Exchange policy only defective items ma applicable cha, jastai expired goods ya broken products.",
+        "response": "Ho, defective items ko lagi 7 din ko exchange policy cha."
+    },
+    {
+        "question": "Parking subidha cha ki chaina?",
+        "context": "Store ma limited parking subidha cha, jasle 5 wata gaadi ra 10 wata bike rakhauna milcha. Peak hours ma parking space bhetnu muskil hunchha. Alternative parking ko lagi najikai ko public parking area upalabdha cha, jaha Rs. 20 per hour charge lagcha.",
+        "response": "Ho, store ma limited parking subidha cha."
+    },
+    {
+        "question": "Home appliances pani milcha ki?",
+        "context": "Store ma kitchen ko chhoto items jastai frying pan, kettle, ra small utensils milcha, tara large home appliances jastai fridge ya washing machine chaina. Tyo saman bhetna specific electronics store ma janu parchha.",
+        "response": "Small kitchen appliances jastai frying pan ra kettle milcha, tara fridge ya washing machine milcha."
+    },
+    {
+        "question": "Store ma online order ko subidha cha ki chaina?",
+        "context": "Store ma online order ko subidha cha, jasle mobile app ra website bata order lina sakcha. Minimum order Rs. 500 hunu parchha. Delivery Kathmandu upatyaka bhitra matra available cha. Online payment ya Cash on Delivery (COD) ko option cha.",
+        "response": "Ho, store ma online order ko subidha cha."
+    },
+    {
+        "question": "Store ma fresh vegetables pauncha?",
+        "context": "Store le daily morning ma taja vegetables receive garcha, jo local suppliers bata lyaune garincha. Sabji section ma seasonal vegetables jastai mula, saag, ra golbhenda always available huncha. Evening ma kehi vegetables stock sakine sambhavana cha.",
+        "response": "Ho, store ma fresh vegetables pauncha."
+    },
+    {
+        "question": "Store ma imported goods pani available cha?",
+        "context": "Store ma imported goods ko section cha jaha chocolates, chips, soft drinks, ra cooking ingredients jastai olive oil ra pasta available huncha. Imported items ko price slightly higher huncha Nepali products bhanda.",
+        "response": "Ho, store ma imported goods pani available cha."
+    },
+    {
+        "question": "Store ko customer service kasto cha?",
+        "context": "Store ma customer service desk available cha, jaha exchange policy, complaint handling, ra saman ko information provide huncha. Customer feedback regularly suna rakhincha. Staff polite cha, tara peak hours ma support kaam huncha.",
+        "response": "Store ko customer service helpful cha, tara peak hours ma alik slow huncha."
+    },
+    {
+        "question": "Store le bulk order accept garcha ki chaina?",
+        "context": "Store le bulk order accept garcha, tara advance notice chahinchha. Kirana saman, snacks, ra beverages ko bulk order ko lagi 10% discount offer garincha. Wedding ya event ko lagi special package available cha.",
+        "response": "Ho, store le bulk order accept garcha."
+    },
+    {
+        "question": "Store ma seasonal offers cha ki chaina?",
+        "context": "Store ma Dashain, Tihar, ra New Year ko bela seasonal offers huncha. Seasonal discount ma certain kirana saman ra beverages ma 20% samma discount offer huncha. Taja offer ko lagi store ko website herna sakincha.",
+        "response": "Ho, store ma Dashain ra Tihar ko bela seasonal offers cha."
+    },
+    {
+        "question": "Store ma pani puryaune subidha cha?",
+        "context": "Store ma mineral water bottles 1 liter dekhi 20 liter samma available huncha. Water delivery service Kathmandu ko 5 km radius ma free delivery ko option cha, tara 20 liter jar ko minimum order garnu parchha.",
+        "response": "Ho, store ma mineral water delivery subidha cha."
+    },
+    {
+        "question": "Store ma weekend sales huncha?",
+        "context": "Store le har hafta ko Saturday ma special weekend sales offer garcha, jaha snacks ra beverages ma up to 15% discount dincha. Offer store visit garne customers lai matra applicable cha.",
+        "response": "Ho, store ma Saturday ko din weekend sales huncha."
+    },
+    {
+        "question": "Store ma frozen food items pani cha?",
+        "context": "Store ma frozen section cha, jaha chicken nuggets, sausages, frozen vegetables, ra ice cream pani available cha. Frozen items daily check garincha ta ki taja rakhna sakincha. Stock limited huncha, early visit recommend cha.",
+        "response": "Ho, store ma frozen food items pani cha."
+    },
+    {
+        "question": "Store ma regular customer harulai k garincha?",
+        "context": "Store ma regular customers lai loyalty card system cha. Har ek purchase ma points add hunchha, jasle redeem gare pachhi discount pauna milcha. Top customers ko lagi special festival gift hampers pani dincha.",
+        "response": "Regular customers lai loyalty points ra special festival hampers offer garincha."
+    },
+    {
+        "question": "Store kaha cha?",
+        "context": "Electronics Store Kathmandu ma New Road ko center ma cha. Store le parking subidha pani dincha. Durbar Marg bata 10 minute ma store pugna sakincha, ra public transport stop ko najikai cha.",
+        "response": "Store Kathmandu ma New Road ko center ma cha."
+    },
+    {
+        "question": "Store ko khula hune samay kati ho?",
+        "context": "Electronics Store subha 10 baje dekhi beluka 7 baje samma khula cha. Sunday ko din ma subha 11 baje dekhi 5 baje samma khulcha. Public holidays ko din store band garincha.",
+        "response": "Store subha 10 baje dekhi beluka 7 baje samma khula cha."
+    },
+    {
+        "question": "Store ma smartphone milcha ki?",
+        "context": "Electronics Store ma smartphone ko bistarit collection cha. Samsung, Apple, Xiaomi, ra Realme brands available cha. Latest models ko pre-order facility pani dincha. Accessories jastai charger, cover, ra screen protector pani milcha.",
+        "response": "Ho, store ma Samsung, Apple, Xiaomi, ra Realme smartphone milcha."
+    },
+    {
+        "question": "Warranty kasto cha?",
+        "context": "Store le electronic items ma official manufacturer warranty dincha, jo 1 barsha samma valid huncha. Extended warranty ko lagi additional charge huncha. Warranty defective items ma matra applicable huncha, physical damage ma chaina.",
+        "response": "Store le 1 barsha ko manufacturer warranty dincha."
+    },
+    {
+        "question": "Delivery system cha ki chaina?",
+        "context": "Electronics Store le Kathmandu upatyaka bhitra free delivery system dincha, jaba order amount Rs. 5000 bhanda mathi huncha. Out-of-valley delivery ko lagi courier charge lagcha. Delivery timeline 1-3 din ko huncha.",
+        "response": "Ho, Kathmandu upatyaka bhitra store le free delivery dincha."
+    },
+    {
+        "question": "Payment kasari garna milcha?",
+        "context": "Store ma cash, digital wallet (eSewa, Khalti, IME Pay), ra credit/debit card le payment garna milcha. EMI (Equated Monthly Installments) option pani available cha, tara card ma limit hunu parcha.",
+        "response": "Payment cash, digital wallet, ra EMI option ma garna milcha."
+    },
+    {
+        "question": "Laptops pani available cha?",
+        "context": "Store ma Dell, HP, Lenovo, ra Apple ko laptops available cha. Budget laptops dekhi gaming laptops samma options cha. Laptop ko accessories jastai mouse, keyboard, ra cooling pads pani milcha.",
+        "response": "Ho, store ma Dell, HP, Lenovo, ra Apple ko laptops available cha."
+    },
+    {
+        "question": "Return policy cha ki chaina?",
+        "context": "Store ko return policy defective items ko lagi 7 din ko cha. Product ko box ra bill sanga return garna parcha. Used ya damaged items ma return policy lagdaina.",
+        "response": "Ho, defective items ko lagi 7 din ko return policy cha."
+    },
+    {
+        "question": "Store ma TV ko options cha ki chaina?",
+        "context": "Store ma TV brands jastai Samsung, LG, Sony, ra TCL available cha. Smart TV, 4K TV, ra LED TV ko different sizes pani milcha. Installation service free ma provide garincha.",
+        "response": "Ho, store ma Samsung, LG, Sony, ra TCL TV ko options cha."
+    },
+    {
+        "question": "Store ma gaming console milcha?",
+        "context": "Electronics Store ma gaming consoles jastai PlayStation 5, Xbox Series X, ra Nintendo Switch available cha. Gaming accessories jastai controller, VR headset, ra gaming chair pani milcha. Limited stock hunale pre-order recommend garincha.",
+        "response": "Ho, store ma PlayStation 5, Xbox Series X, ra Nintendo Switch milcha."
+    },
+    {
+        "question": "Store le home delivery TV ko lagi k garcha?",
+        "context": "Store ma TV ko lagi home delivery free huncha. Kathmandu ma 2 din bhitra delivery huncha ra out-of-valley ma 3-5 din lagcha. Delivery sanga sangai TV installation service pani free cha.",
+        "response": "Store le TV ko lagi free home delivery ra installation service dincha."
+    },
+    {
+        "question": "CCTV installation service dincha ki chaina?",
+        "context": "Store ma CCTV camera ko options jastai Hikvision, Dahua, ra CP Plus available cha. Installation service ko lagi additional charge lagcha. Kathmandu upatyaka ma installation ek din bhitra complete garincha.",
+        "response": "Ho, store le CCTV installation service dincha."
+    },
+    {
+        "question": "Store ma headphone milcha ki chaina?",
+        "context": "Store ma wireless ra wired headphones jastai Sony, Bose, JBL, ra Boat brands available cha. Noise-cancelling headphones ko specific section cha. Gaming headphones pani stock ma huncha.",
+        "response": "Ho, store ma Sony, Bose, JBL, ra Boat ko headphones milcha."
+    },
+    {
+        "question": "Store le installment ma saman dincha ki chaina?",
+        "context": "Electronics Store ma EMI option available cha. Minimum 20% down payment garnu parcha ra remaining amount 6-12 mahina ko installment ma tirna milcha. Card holder hunu parcha EMI plan ko lagi.",
+        "response": "Ho, store le EMI option ma saman dincha."
+    },
+    {
+        "question": "Store kaha cha?",
+        "context": "Electronics Store Kathmandu ma New Road ko center ma cha. Store le parking subidha pani dincha. Durbar Marg bata 10 minute ma store pugna sakincha, ra public transport stop ko najikai cha.",
+        "response": "Store Kathmandu ma New Road ko center ma cha."
+    },
+    {
+        "question": "Store ko khula hune samay kati ho?",
+        "context": "Electronics Store subha 10 baje dekhi beluka 7 baje samma khula cha. Sunday ko din ma subha 11 baje dekhi 5 baje samma khulcha. Public holidays ko din store band garincha.",
+        "response": "Store subha 10 baje dekhi beluka 7 baje samma khula cha."
+    },
+    {
+        "question": "Store ma smartphone milcha ki?",
+        "context": "Electronics Store ma smartphone ko bistarit collection cha. Samsung, Apple, Xiaomi, ra Realme brands available cha. Latest models ko pre-order facility pani dincha. Accessories jastai charger, cover, ra screen protector pani milcha.",
+        "response": "Ho, store ma Samsung, Apple, Xiaomi, ra Realme smartphone milcha."
+    },
+    {
+        "question": "Warranty kasto cha?",
+        "context": "Store le electronic items ma official manufacturer warranty dincha, jo 1 barsha samma valid huncha. Extended warranty ko lagi additional charge huncha. Warranty defective items ma matra applicable huncha, physical damage ma chaina.",
+        "response": "Store le 1 barsha ko manufacturer warranty dincha."
+    },
+    {
+        "question": "Delivery system cha ki chaina?",
+        "context": "Electronics Store le Kathmandu upatyaka bhitra free delivery system dincha, jaba order amount Rs. 5000 bhanda mathi huncha. Out-of-valley delivery ko lagi courier charge lagcha. Delivery timeline 1-3 din ko huncha.",
+        "response": "Ho, Kathmandu upatyaka bhitra store le free delivery dincha."
+    },
+    {
+        "question": "Payment kasari garna milcha?",
+        "context": "Store ma cash, digital wallet (eSewa, Khalti, IME Pay), ra credit/debit card le payment garna milcha. EMI (Equated Monthly Installments) option pani available cha, tara card ma limit hunu parcha.",
+        "response": "Payment cash, digital wallet, ra EMI option ma garna milcha."
+    },
+    {
+        "question": "Laptops pani available cha?",
+        "context": "Store ma Dell, HP, Lenovo, ra Apple ko laptops available cha. Budget laptops dekhi gaming laptops samma options cha. Laptop ko accessories jastai mouse, keyboard, ra cooling pads pani milcha.",
+        "response": "Ho, store ma Dell, HP, Lenovo, ra Apple ko laptops available cha."
+    },
+    {
+        "question": "Return policy cha ki chaina?",
+        "context": "Store ko return policy defective items ko lagi 7 din ko cha. Product ko box ra bill sanga return garna parcha. Used ya damaged items ma return policy lagdaina.",
+        "response": "Ho, defective items ko lagi 7 din ko return policy cha."
+    },
+    {
+        "question": "Store ma TV ko options cha ki chaina?",
+        "context": "Store ma TV brands jastai Samsung, LG, Sony, ra TCL available cha. Smart TV, 4K TV, ra LED TV ko different sizes pani milcha. Installation service free ma provide garincha.",
+        "response": "Ho, store ma Samsung, LG, Sony, ra TCL TV ko options cha."
+    },
+    {
+        "question": "Store ma gaming console milcha?",
+        "context": "Electronics Store ma gaming consoles jastai PlayStation 5, Xbox Series X, ra Nintendo Switch available cha. Gaming accessories jastai controller, VR headset, ra gaming chair pani milcha. Limited stock hunale pre-order recommend garincha.",
+        "response": "Ho, store ma PlayStation 5, Xbox Series X, ra Nintendo Switch milcha."
+    },
+    {
+        "question": "Store le home delivery TV ko lagi k garcha?",
+        "context": "Store ma TV ko lagi home delivery free huncha. Kathmandu ma 2 din bhitra delivery huncha ra out-of-valley ma 3-5 din lagcha. Delivery sanga sangai TV installation service pani free cha.",
+        "response": "Store le TV ko lagi free home delivery ra installation service dincha."
+    },
+    {
+        "question": "CCTV installation service dincha ki chaina?",
+        "context": "Store ma CCTV camera ko options jastai Hikvision, Dahua, ra CP Plus available cha. Installation service ko lagi additional charge lagcha. Kathmandu upatyaka ma installation ek din bhitra complete garincha.",
+        "response": "Ho, store le CCTV installation service dincha."
+    },
+    {
+        "question": "Store ma headphone milcha ki chaina?",
+        "context": "Store ma wireless ra wired headphones jastai Sony, Bose, JBL, ra Boat brands available cha. Noise-cancelling headphones ko specific section cha. Gaming headphones pani stock ma huncha.",
+        "response": "Ho, store ma Sony, Bose, JBL, ra Boat ko headphones milcha."
+    },
+    {
+        "question": "Store le installment ma saman dincha ki chaina?",
+        "context": "Electronics Store ma EMI option available cha. Minimum 20% down payment garnu parcha ra remaining amount 6-12 mahina ko installment ma tirna milcha. Card holder hunu parcha EMI plan ko lagi.",
+        "response": "Ho, store le EMI option ma saman dincha."
+    },
+    {
+        "question": "Store ma dishwasher available cha ki chaina?",
+        "context": "Electronics Store ma home appliances ko wide range cha, jaha dishwasher, washing machine, ra fridge milcha. Dishwasher brands jastai Bosch, LG, ra Whirlpool available cha. Installation service free cha, tara delivery charge order amount anusar lagcha.",
+        "response": "Ho, store ma Bosch, LG, ra Whirlpool ko dishwasher available cha."
+    },
+    {
+        "question": "Store ma refurbished items pani cha ki?",
+        "context": "Store ma refurbished items ko alag section cha, jaha laptops, smartphones, ra tablets lower price ma available huncha. Refurbished items 6 mahina ko warranty sanga aunchha, tara exchange policy applicable chaina.",
+        "response": "Ho, store ma refurbished laptops, smartphones, ra tablets available cha."
+    },
+    {
+        "question": "Gaming laptops pani milcha ki chaina?",
+        "context": "Store ma gaming laptops jastai Asus ROG, Dell Alienware, ra HP Omen available cha. RTX graphic card sanga aune laptops ko range Rs. 1.5 lakh dekhi suru huncha. Gaming laptops ma occasional discount pani dincha.",
+        "response": "Ho, store ma Asus ROG, Dell Alienware, ra HP Omen gaming laptops milcha."
+    },
+    {
+        "question": "Drone camera milcha ki chaina?",
+        "context": "Electronics Store ma DJI, Parrot, ra Holy Stone ko drone camera available cha. Drone ko price Rs. 50,000 dekhi suru huncha. Professional use ko lagi high-range drone pani stock ma cha. License ko lagi extra information store staff le provide garcha.",
+        "response": "Ho, store ma DJI, Parrot, ra Holy Stone ko drone camera available cha."
+    },
+    {
+        "question": "Store ma Bluetooth speakers pani milcha?",
+        "context": "Store ma Bluetooth speakers ko wide range cha, jastai JBL, Sony, Bose, ra Anker brands. Portable ra waterproof speakers pani stock ma available cha. Price range Rs. 3,000 dekhi Rs. 20,000 samma cha.",
+        "response": "Ho, store ma JBL, Sony, Bose, ra Anker ko Bluetooth speakers milcha."
+    },
+    {
+        "question": "Store ma extended warranty lekhna sakincha?",
+        "context": "Store ma extended warranty purchase garna milcha, jo 1 barsha ko warranty lai 2-3 barsha samma extend garcha. Extended warranty ko charge saman ko price ko 10-15% ko around huncha. Terms and conditions applicable huncha.",
+        "response": "Ho, store ma extended warranty purchase garna milcha."
+    },
+    {
+        "question": "Store ma power backup system available cha?",
+        "context": "Store ma power backup ko lagi inverter, UPS, ra generators available cha. Brands jastai Luminous, Exide, ra Microtek stock ma cha. Installation service additional charge ma provide garincha.",
+        "response": "Ho, store ma inverter, UPS, ra generators available cha."
+    },
+    {
+        "question": "Store ma DSLR camera ko options cha?",
+        "context": "Store ma Canon, Nikon, ra Sony ko DSLR cameras available cha. Beginner, intermediate, ra professional level ka cameras pani stock ma cha. Camera accessories jastai tripod, lens, ra memory card pani milcha.",
+        "response": "Ho, store ma Canon, Nikon, ra Sony ko DSLR cameras milcha."
+    },
+    {
+        "question": "Store ma appliances ko installation free cha ki paid?",
+        "context": "Electronics Store ma appliances installation service provide huncha. Air conditioner, washing machine, ra refrigerator ko installation free cha, tara chimney installation ko lagi extra Rs. 1,000 charge lagcha.",
+        "response": "Air conditioner, washing machine, ra refrigerator ko installation free cha."
+    },
+    {
+        "question": "Store ma earphones milcha?",
+        "context": "Store ma wired ra wireless earphones available cha. Brands jastai Realme, OnePlus, JBL, ra Apple AirPods milcha. Noise-cancelling earphones pani stock ma huncha. Price range Rs. 500 dekhi Rs. 20,000 samma cha.",
+        "response": "Ho, store ma Realme, OnePlus, JBL, ra Apple AirPods milcha."
+    },
+    {
+        "question": "Store ma smartwatches pani available cha?",
+        "context": "Store ma smartwatches ko wide collection cha, jastai Apple Watch, Samsung Galaxy Watch, ra Amazfit. Fitness-focused models ra premium luxury smartwatches pani stock ma cha. Regular offers fitness bands ma available huncha.",
+        "response": "Ho, store ma Apple Watch, Samsung Galaxy Watch, ra Amazfit available cha."
+    },
+    {
+        "question": "Store ma refrigerator milcha ki chaina?",
+        "context": "Store ma refrigerator brands jastai LG, Samsung, Whirlpool, ra Haier available cha. Double door, single door, ra side-by-side models pani stock ma cha. Delivery sanga free installation pani cha.",
+        "response": "Ho, store ma LG, Samsung, Whirlpool, ra Haier ko refrigerator milcha."
+    },
+    {
+        "question": "Store le damaged items exchange garcha ki chaina?",
+        "context": "Store ma defective items ko lagi 7 din ko exchange policy cha, tara items damaged by customer lai exchange garna milcha. Original packaging ra bill mandatory huncha. Exchange policy sirf electronics saman ma applicable cha.",
+        "response": "Ho, defective items ko lagi 7 din ko exchange policy cha."
+    },
+    {
+        "question": "Store ma vacuum cleaner available cha?",
+        "context": "Store ma vacuum cleaner brands jastai Dyson, Philips, ra Eureka Forbes available cha. Cordless ra robotic vacuum cleaner pani stock ma cha. Free demo provide garincha purchase gare pachhi.",
+        "response": "Ho, store ma Dyson, Philips, ra Eureka Forbes vacuum cleaner available cha."
+    },
+    {
+        "question": "Store ma air conditioner milcha ki chaina?",
+        "context": "Electronics Store ma LG, Samsung, ra Daikin brand ko air conditioners available cha. Split AC, inverter AC, ra portable AC ko options pani cha. Delivery free cha, ra installation service ko lagi Rs. 1,500 lagcha.",
+        "response": "Ho, store ma LG, Samsung, ra Daikin brand ko air conditioners milcha."
+    },
+    {
+        "question": "Store ma electric kettle pani cha ki chaina?",
+        "context": "Store ma home appliances section ma electric kettles available cha. Brands jastai Philips, Bajaj, ra Morphy Richards cha. Kettles ko price Rs. 1,500 dekhi Rs. 5,000 samma cha, capacity 1 liter dekhi 2 liters samma.",
+        "response": "Ho, store ma Philips, Bajaj, ra Morphy Richards ko electric kettles available cha."
+    },
+    {
+        "question": "Store ma smart home devices available cha ki chaina?",
+        "context": "Store ma smart home devices jastai Alexa, Google Nest, ra smart plugs available cha. Smart bulbs ra smart security cameras pani stock ma cha. Connectivity WiFi ya Bluetooth ma base huncha.",
+        "response": "Ho, store ma Alexa, Google Nest, ra smart plugs available cha."
+    },
+    {
+        "question": "Store ma mobile cover ko options cha ki chaina?",
+        "context": "Store ma popular smartphone brands jastai Samsung, Apple, ra Xiaomi ko mobile covers available cha. Transparent, flip, ra shockproof covers ko options cha. Price Rs. 300 dekhi Rs. 1,500 samma cha.",
+        "response": "Ho, store ma Samsung, Apple, ra Xiaomi ko mobile cover options cha."
+    },
+    {
+        "question": "Store le old electronics exchange garcha ki chaina?",
+        "context": "Store ma old electronics exchange program cha. Customers le purano TV, smartphones, ya laptops lai exchange garera naya item purchase garda discount pauna milcha. Exchange value item ko condition ra model ma depend garcha.",
+        "response": "Ho, store le old electronics exchange program chalaucha."
+    },
+    {
+        "question": "Store ma kitchen appliances milcha ki chaina?",
+        "context": "Store ma kitchen appliances jastai microwave oven, induction stove, blender, ra toaster available cha. Philips, Bajaj, ra Prestige brands ko options cha. Special combo offers kitchen sets ma available huncha.",
+        "response": "Ho, store ma microwave oven, induction stove, blender, ra toaster available cha."
+    },
+    {
+        "question": "Store ma audio system milcha?",
+        "context": "Store ma Sony, Bose, ra JBL ko audio systems available cha. Home theater setup, soundbars, ra portable speakers pani stock ma cha. Audio systems ko price range Rs. 10,000 dekhi Rs. 50,000 samma cha.",
+        "response": "Ho, store ma Sony, Bose, ra JBL ko audio systems milcha."
+    },
+    {
+        "question": "Store ma gaming accessories milcha ki chaina?",
+        "context": "Store ma gaming accessories jastai RGB mouse, mechanical keyboard, gaming chair, ra VR headsets available cha. Popular brands jastai Razer, Logitech, ra Redgear stock ma cha. Accessories ko price range Rs. 1,500 dekhi Rs. 25,000 samma cha.",
+        "response": "Ho, store ma Razer, Logitech, ra Redgear gaming accessories milcha."
+    },
+    {
+        "question": "Store ma tablet milcha ki chaina?",
+        "context": "Store ma Apple, Samsung, ra Lenovo ko tablets available cha. Educational, business use, ra entertainment ko lagi alag-alag variants cha. Accessories jastai stylus ra tablet covers pani stock ma cha.",
+        "response": "Ho, store ma Apple, Samsung, ra Lenovo ko tablets available cha."
+    },
+    {
+        "question": "Store ma digital camera accessories milcha?",
+        "context": "Store ma digital camera accessories jastai lens, tripod, camera bag, ra SD cards available cha. Brands jastai Sandisk, Manfrotto, ra Lowepro ko options stock ma cha. Accessories ko price Rs. 1,000 dekhi Rs. 10,000 samma cha.",
+        "response": "Ho, store ma lens, tripod, camera bag, ra SD cards available cha."
+    },
+    {
+        "question": "Store ma fitness bands available cha ki chaina?",
+        "context": "Store ma fitness bands jastai Xiaomi Mi Band, Fitbit, ra Garmin available cha. Heart rate monitoring, step tracking, ra sleep analysis jastai features available huncha. Price Rs. 2,000 dekhi Rs. 15,000 samma cha.",
+        "response": "Ho, store ma Xiaomi Mi Band, Fitbit, ra Garmin available cha."
+    },
+    {
+        "question": "Store ma washing machine available cha ki chaina?",
+        "context": "Store ma LG, Samsung, ra Whirlpool ko washing machines available cha. Fully automatic ra semi-automatic models ko options cha. Delivery free cha, ra installation ko lagi additional charge lagcha.",
+        "response": "Ho, store ma LG, Samsung, ra Whirlpool ko washing machines milcha."
+    },
+    {
+        "question": "Store ma projector pani milcha ki chaina?",
+        "context": "Store ma Epson, BenQ, ra Sony ko projectors available cha. Home theater, office presentation, ra educational use ko lagi projector models stock ma cha. Price Rs. 20,000 dekhi Rs. 1 lakh samma cha.",
+        "response": "Ho, store ma Epson, BenQ, ra Sony ko projectors milcha."
+    },
+    {
+        "question": "Store ma power banks available cha ki chaina?",
+        "context": "Store ma power banks jastai Mi, Anker, ra Realme brands available cha. 10,000 mAh dekhi 20,000 mAh samma ko options cha. Fast charging support gareka power banks pani stock ma cha.",
+        "response": "Ho, store ma Mi, Anker, ra Realme ko power banks available cha."
+    },
+    {
+        "question": "Store ma external hard drives milcha ki chaina?",
+        "context": "Store ma external hard drives ko brands jastai Seagate, WD, ra Toshiba available cha. Storage capacity 1TB dekhi 5TB samma ko options cha. USB 3.0 ra 3.1 support gareka models stock ma huncha.",
+        "response": "Ho, store ma Seagate, WD, ra Toshiba ko external hard drives available cha."
+    },
+    {
+        "question": "Store ma printer available cha ki chaina?",
+        "context": "Store ma HP, Epson, ra Canon ko printers available cha. Inkjet, laser, ra all-in-one printer ko options cha. Printer ko price Rs. 8,000 dekhi Rs. 30,000 samma cha.",
+        "response": "Ho, store ma HP, Epson, ra Canon ko printers available cha."
+    },
+    {
+        "question": "Store ma smart TVs available cha?",
+        "context": "Electronics Store ma smart TVs ko wide range cha. Brands jastai Samsung, LG, ra Sony available cha. 4K, HDR, ra OLED TVs pani stock ma cha. Screen sizes 32 inch dekhi 75 inch samma cha. Delivery free cha, ra installation free offer ma cha.",
+        "response": "Ho, store ma Samsung, LG, ra Sony ko smart TVs available cha."
+    },
+    {
+        "question": "Store ma coffee machine milcha ki chaina?",
+        "context": "Store ma home appliances section ma coffee machines available cha. Brands jastai Nespresso, Philips, ra Morphy Richards cha. Espresso, filter coffee, ra pod-based machines stock ma cha. Price range Rs. 5,000 dekhi Rs. 30,000 samma cha.",
+        "response": "Ho, store ma Nespresso, Philips, ra Morphy Richards ko coffee machines available cha."
+    },
+    {
+        "question": "Store ma WiFi routers milcha ki chaina?",
+        "context": "Store ma TP-Link, Netgear, ra D-Link brands ko WiFi routers available cha. Dual-band, tri-band, ra gaming routers pani stock ma cha. Price range Rs. 2,000 dekhi Rs. 15,000 samma cha. Router setup ko lagi assistance service available cha.",
+        "response": "Ho, store ma TP-Link, Netgear, ra D-Link ko WiFi routers available cha."
+    },
+    {
+        "question": "Store ma portable AC milcha ki chaina?",
+        "context": "Store ma portable AC models jastai LG, Haier, ra Voltas available cha. Compact design ko models small rooms ko lagi ideal cha. Delivery free cha, ra extended warranty purchase garna pani milcha.",
+        "response": "Ho, store ma LG, Haier, ra Voltas ko portable AC available cha."
+    },
+    {
+        "question": "Store ma smart doorbell available cha ki chaina?",
+        "context": "Store ma smart home devices ko under smart doorbells jastai Ring, Xiaomi, ra Google Nest available cha. Motion detection, video calling, ra mobile app support gareka features huncha. Price Rs. 5,000 dekhi Rs. 15,000 samma cha.",
+        "response": "Ho, store ma Ring, Xiaomi, ra Google Nest ko smart doorbells available cha."
+    },
+    {
+        "question": "Store ma gaming consoles available cha?",
+        "context": "Store ma gaming consoles jastai PlayStation 5, Xbox Series X, ra Nintendo Switch available cha. Console accessories jastai controllers, headsets, ra charging docks pani stock ma cha. Pre-order ko lagi staff sanga contact garna sakcha.",
+        "response": "Ho, store ma PlayStation 5, Xbox Series X, ra Nintendo Switch available cha."
+    },
+    {
+        "question": "Store ma air purifiers available cha?",
+        "context": "Store ma Philips, Dyson, ra Xiaomi ko air purifiers available cha. HEPA filter, smart monitoring, ra silent mode jastai features ko models pani stock ma cha. Price Rs. 7,000 dekhi Rs. 25,000 samma cha.",
+        "response": "Ho, store ma Philips, Dyson, ra Xiaomi ko air purifiers available cha."
+    },
+    {
+        "question": "Store ma induction cooktops available cha?",
+        "context": "Store ma kitchen appliances section ma induction cooktops available cha. Popular brands jastai Prestige, Philips, ra Bajaj cha. Portable models ra different power capacities ma options stock ma cha.",
+        "response": "Ho, store ma Prestige, Philips, ra Bajaj ko induction cooktops available cha."
+    },
+    {
+        "question": "Store ma security cameras milcha ki chaina?",
+        "context": "Store ma security cameras ko wide range cha. Brands jastai Hikvision, CP Plus, ra Mi available cha. Indoor ra outdoor models, motion detection, ra night vision ko options cha. Installation service additional charge ma provide garincha.",
+        "response": "Ho, store ma Hikvision, CP Plus, ra Mi ko security cameras available cha."
+    },
+    {
+        "question": "Store ma electric scooters milcha ki chaina?",
+        "context": "Store ma electric scooters jastai Hero Electric, Ather, ra Okinawa ko models available cha. Short-distance ra long-range battery options cha. Test ride ko lagi prior booking garna milcha.",
+        "response": "Ho, store ma Hero Electric, Ather, ra Okinawa ko electric scooters available cha."
+    },
+    {
+        "question": "Store ma laptop accessories milcha ki chaina?",
+        "context": "Store ma laptop accessories jastai cooling pads, external keyboards, laptop bags, ra USB hubs available cha. Popular brands jastai Logitech, Targus, ra Dell stock ma cha.",
+        "response": "Ho, store ma cooling pads, external keyboards, laptop bags, ra USB hubs available cha."
+    },
+    {
+        "question": "Store ma Bluetooth headphones milcha?",
+        "context": "Store ma JBL, Sony, ra Bose ko Bluetooth headphones available cha. Active noise cancellation, waterproof models, ra long battery life features ko headphones pani stock ma cha. Price Rs. 5,000 dekhi Rs. 30,000 samma cha.",
+        "response": "Ho, store ma JBL, Sony, ra Bose ko Bluetooth headphones available cha."
+    },
+    {
+        "question": "Store ma microwaves milcha ki chaina?",
+        "context": "Store ma LG, Samsung, ra IFB brand ko microwaves available cha. Solo, grill, ra convection types ko options cha. Installation service free cha, ra cooking demo service available cha.",
+        "response": "Ho, store ma LG, Samsung, ra IFB ko microwaves available cha."
+    },
+    {
+        "question": "Store ma power tools available cha?",
+        "context": "Store ma Bosch, Black+Decker, ra Stanley brand ko power tools available cha. Drills, grinders, ra saws ko options cha. Price range Rs. 2,000 dekhi Rs. 20,000 samma cha. Warranty pani include huncha.",
+        "response": "Ho, store ma Bosch, Black+Decker, ra Stanley ko power tools available cha."
+    },
+    {
+        "question": "Store ma smartphone screen protectors milcha ki chaina?",
+        "context": "Store ma smartphone screen protectors ko section cha. Brands jastai Tempered Glass Pro, Spigen, ra local options available cha. Matte finish, privacy filters, ra edge-to-edge coverage jastai options stock ma cha.",
+        "response": "Ho, store ma Tempered Glass Pro, Spigen, ra local screen protectors milcha."
+    },
+    {
+        "question": "Store ma electric fans milcha?",
+        "context": "Store ma electric fans ko wide range cha. Ceiling fans, table fans, ra tower fans available cha. Brands jastai Orient, Bajaj, ra Havells cha. Price Rs. 1,500 dekhi Rs. 10,000 samma cha.",
+        "response": "Ho, store ma Orient, Bajaj, ra Havells ko electric fans milcha."
+    },
+    {
+        "question": "store ko location kaha ho?",
+        "context": "store ko name: SmartElectro, location: Kathmandu, hami electronics saman bechchau.",
+        "response": "Hamro store Kathmandu ma chha."
+    },
+    {
+        "question": "store ko name ke ho?",
+        "context": "store ko name: SmartElectro, location: Kathmandu, hami electronics saman bechchau.",
+        "response": "Hamro store ko name SmartElectro ho."
+    },
+    {
+        "question": "ke saman bechnu hunxa?",
+        "context": "store ko name: SmartElectro, location: Kathmandu, hami electronics saman bechchau.",
+        "response": "Hamro store ma electronics ko saman available xa."
+    },
+    {
+        "question": "store kati baje khulcha?",
+        "context": "store ko name: SmartElectro, location: Kathmandu, opening hours: 10 AM to 8 PM.",
+        "response": "Hamro store bihana 10 baje dekhi 8 baje samma khulcha."
+    },
+    {
+        "question": "online delivery xa?",
+        "context": "store ko name: SmartElectro, location: Kathmandu, online delivery: available.",
+        "response": "Ho, hamro store bata online delivery available chha."
+    },
+    {
+        "question": "store ma phone haru available cha?",
+        "context": "store ko name: SmartElectro, location: Kathmandu, products: phones, laptops, headphones.",
+        "response": "Ho, hamro store ma phone haru available chha."
+    },
+    {
+        "question": "store ko contact number ke ho?",
+        "context": "store ko name: SmartElectro, location: Kathmandu, contact: 9801234567.",
+        "response": "Hamro store ko contact number 9801234567 ho."
+    },
+    {
+        "question": "store ko email address dinus na?",
+        "context": "store ko name: SmartElectro, location: Kathmandu, email: support@smartelectro.com.",
+        "response": "Hamro store ko email address support@smartelectro.com ho."
+    },
+    {
+        "question": "yo store kaam garnu katti bajesamma ho?",
+        "context": "store ko name: BookBazaar, location: Pokhara, working hours: 9 AM to 7 PM.",
+        "response": "Hamro store 9 baje dekhi 7 baje samma kaam garchha."
+    },
+    {
+        "question": "store ko location kaha ho?",
+        "context": "Store ko name: TrendyBazaar. Location: New Baneshwor, Kathmandu. Products: kapda, jutta, accessories. Working hours: Sunday to Friday, 10 AM to 8 PM. Delivery: free delivery Kathmandu valley ma. Contact: 9808765432. Email: support@trendybazaar.com.",
+        "response": "Hamro store New Baneshwor, Kathmandu ma chha."
+    },
+    {
+        "question": "ke saman available cha?",
+        "context": "Store ko name: TrendyBazaar. Location: New Baneshwor, Kathmandu. Products: kapda, jutta, accessories. Working hours: Sunday to Friday, 10 AM to 8 PM. Delivery: free delivery Kathmandu valley ma. Contact: 9808765432. Email: support@trendybazaar.com.",
+        "response": "Hamro store ma kapda, jutta, ra accessories available chha."
+    },
+    {
+        "question": "store ma ke online delivery cha?",
+        "context": "Store ko name: TrendyBazaar. Location: New Baneshwor, Kathmandu. Products: kapda, jutta, accessories. Working hours: Sunday to Friday, 10 AM to 8 PM. Delivery: free delivery Kathmandu valley ma. Contact: 9808765432. Email: support@trendybazaar.com.",
+        "response": "Ho, hamro store bata Kathmandu valley ma free delivery cha."
+    },
+    {
+        "question": "store ko name ke ho?",
+        "context": "Store ko name: MegaTech Nepal. Location: Pulchowk, Lalitpur. Products: electronics, gadgets, home appliances. Offers: up to 30% discount. Opening hours: 9 AM to 6 PM, Monday to Saturday. Contact: 01-5551234. Email: info@megatechnepal.com.",
+        "response": "Hamro store ko name MegaTech Nepal ho."
+    },
+    {
+        "question": "ke saman ma discount cha?",
+        "context": "Store ko name: MegaTech Nepal. Location: Pulchowk, Lalitpur. Products: electronics, gadgets, home appliances. Offers: up to 30% discount. Opening hours: 9 AM to 6 PM, Monday to Saturday. Contact: 01-5551234. Email: info@megatechnepal.com.",
+        "response": "Ho, hamro store ma electronics saman ma up to 30% discount cha."
+    },
+    {
+        "question": "store kaam garna kati baje samma ho?",
+        "context": "Store ko name: FreshMart. Location: Bhaktapur Durbar Square, Bhaktapur. Products: organic vegetables, fruits, and groceries. Working hours: 6 AM to 8 PM daily. Special services: home delivery available. Contact: 9841122334. Email: freshmartbhaktapur@gmail.com.",
+        "response": "Hamro store 6 baje dekhi 8 baje samma khula rahanchha."
+    },
+    {
+        "question": "store ma special services ke ke cha?",
+        "context": "Store ko name: FreshMart. Location: Bhaktapur Durbar Square, Bhaktapur. Products: organic vegetables, fruits, and groceries. Working hours: 6 AM to 8 PM daily. Special services: home delivery available. Contact: 9841122334. Email: freshmartbhaktapur@gmail.com.",
+        "response": "Hamro store ma home delivery ko suvidha pani cha."
+    },
+    {
+        "question": "contact number ke ho?",
+        "context": "Store ko name: Galaxy Furniture. Location: Kumaripati, Lalitpur. Products: sofa sets, beds, chairs, dining tables. Working hours: 10 AM to 7 PM. Delivery: free within Lalitpur. Contact: 9812345678. Email: galaxyfurniture@gmail.com.",
+        "response": "Hamro contact number 9812345678 ho."
+    },
+    {
+        "question": "email address dinus na?",
+        "context": "Store ko name: Galaxy Furniture. Location: Kumaripati, Lalitpur. Products: sofa sets, beds, chairs, dining tables. Working hours: 10 AM to 7 PM. Delivery: free within Lalitpur. Contact: 9812345678. Email: galaxyfurniture@gmail.com.",
+        "response": "Hamro email address galaxyfurniture@gmail.com ho."
+    },
+    {
+        "question": "store ma ke ke saman available cha?",
+        "context": "Store ko name: Galaxy Furniture. Location: Kumaripati, Lalitpur. Products: sofa sets, beds, chairs, dining tables. Working hours: 10 AM to 7 PM. Delivery: free within Lalitpur. Contact: 9812345678. Email: galaxyfurniture@gmail.com.",
+        "response": "Hamro store ma sofa sets, beds, chairs, ra dining tables available chha."
+    },
+    {
+        "question": "store ma saman exchange policy xa?",
+        "context": "Store ko name: FashionHut. Location: Lazimpat, Kathmandu. Products: kapda, jutta, accessories. Exchange policy: saman kharid pachi 7 din bhitra exchange garna sakincha. Working hours: Sunday to Friday, 10 AM to 8 PM. Contact: 9808765432. Email: support@fashionhut.com.",
+        "response": "Ho, hamro store ma saman kharid pachi 7 din bhitra exchange garna sakincha."
+    },
+    {
+        "question": "store ma saman ko warranty kati din ko huncha?",
+        "context": "Store ko name: TechZone. Location: Jawalakhel, Lalitpur. Products: laptops, smartphones, gadgets. Warranty: 1 barsha warranty har ek saman ma. Contact: 9812345678. Email: support@techzone.com. Delivery: nationwide delivery available.",
+        "response": "Hamro store ma har ek saman ma 1 barsha warranty available chha."
+    },
+    {
+        "question": "store ma ke offer cha?",
+        "context": "Store ko name: FreshChoice Mart. Location: Gongabu, Kathmandu. Products: organic vegetables, fresh fruits, dairy products. Offers: 10% discount har ek organic product ma. Working hours: 6 AM to 8 PM daily. Delivery: free for orders above Rs. 2000. Contact: 9801234567.",
+        "response": "Hamro store ma har ek organic product ma 10% discount cha."
+    },
+    {
+        "question": "store ma saman return garna milcha?",
+        "context": "Store ko name: StyleZone. Location: Putalisadak, Kathmandu. Products: kapda, bags, shoes. Return policy: saman return garna 5 din ko samaya. Condition: saman naya ra unused hunuparcha. Contact: 9841122334.",
+        "response": "Ho, hamro store ma saman 5 din bhitra return garna milcha, tara saman naya ra unused hunuparcha."
+    },
+    {
+        "question": "store ko free delivery kati samma cha?",
+        "context": "Store ko name: ShopSmart. Location: Naya Baneshwor, Kathmandu. Products: groceries, kitchenware, home essentials. Free delivery: Rs. 1500 tala ko order ma Rs. 50 delivery charge lagcha, Rs. 1500 mathi ko order ma free delivery. Contact: 9812121212.",
+        "response": "Hamro store ma Rs. 1500 mathi ko order ma free delivery cha, ani Rs. 1500 tala ko order ma Rs. 50 delivery charge lagcha."
+    },
+    {
+        "question": "store ma customer support kati samaya samma available huncha?",
+        "context": "Store ko name: DigitalHub. Location: Pokhara, Lakeside. Products: cameras, drones, tech gadgets. Customer support: Monday to Saturday, 10 AM to 6 PM. Hotline: 9802345678. Email: help@digitalhub.com.",
+        "response": "Hamro customer support Monday dekhi Saturday samma 10 baje dekhi 6 baje samma available huncha."
+    },
+    {
+        "question": "yo store bata saman order garna kasari milcha?",
+        "context": "Store ko name: QuickMart Online. Location: Online only. Products: groceries, electronics, clothing. Order method: website www.quickmart.com, mobile app, or phone order at 9807654321. Delivery: available nationwide. Payment: cash on delivery and digital wallet. Support: chat available 24/7.",
+        "response": "Hamro saman order garna ko lagi www.quickmart.com website, mobile app, ya phone (9807654321) ma contact garnus."
+    },
+    {
+        "question": "store ko saman ko delivery ko lagi kati charge lagcha?",
+        "context": "Store ko name: HomeNeeds. Location: Chabahil, Kathmandu. Products: furniture, home decor. Delivery charges: Kathmandu valley ma Rs. 200, Lalitpur ma Rs. 300, Bhaktapur ma Rs. 400. Delivery free for orders above Rs. 5000.",
+        "response": "Hamro store ko delivery charge Kathmandu ma Rs. 200, Lalitpur ma Rs. 300, ra Bhaktapur ma Rs. 400 lagcha. Tara Rs. 5000 mathi ko order ma free delivery huncha."
+    },
+    {
+        "question": "store ma saman custom order garna milcha?",
+        "context": "Store ko name: CraftWorld. Location: Patan, Lalitpur. Products: handmade crafts, pottery, custom furniture. Custom orders: saman design customize garna milcha. Order confirmation: 50% advance payment. Delivery: 2-3 weeks.",
+        "response": "Ho, hamro store ma saman custom order garna milcha. Custom order ko lagi 50% advance payment chahinchha."
+    },
+    {
+        "question": "store ko saman international delivery huncha?",
+        "context": "Store ko name: EthnicWeaves. Location: Thamel, Kathmandu. Products: handmade clothing, pashmina shawls, Nepali souvenirs. Delivery: international shipping available. Charges: based on weight and destination.",
+        "response": "Ho, hamro store bata saman international delivery huncha. Delivery charge saman ko weight ra destination ma adharit huncha."
+    },
+    {
+        "question": "store ko location kaha ho?",
+        "context": "Store ko name: DailyMart. Location: Kalanki, Kathmandu. Products: daily groceries, snacks, beverages. Timing: 7 AM to 9 PM. Delivery: available in Kathmandu. Contact: 9811122233.",
+        "response": "Hamro store Kalanki, Kathmandu ma cha. Aba delivery ko lagi pani order garna saknu huncha."
+    },
+    {
+        "question": "store ma saman return garna milcha?",
+        "context": "Store ko name: StyleStation. Location: Thapathali, Kathmandu. Products: kapda, jutta, bags. Return policy: 7 din bhitra unused saman return garna milcha. Timing: 10 AM to 8 PM. Contact: 9809988776.",
+        "response": "Ho, hamro store ma saman return garna milcha. Tara unused ra original condition ma hunuparcha ni!"
+    },
+    {
+        "question": "ke saman available cha?",
+        "context": "Store ko name: GadgetHub. Location: New Road, Kathmandu. Products: smartphones, laptops, earphones, smartwatches. Offers: 10% discount on smartphones this week.",
+        "response": "Hamro store ma smartphones, laptops, earphones, ra smartwatches available cha. Smartphones ma ta 10% discount cha aba yo week ma!"
+    },
+    {
+        "question": "store ma kati ko saman chha?",
+        "context": "Store ko name: FreshChoice. Location: Lagankhel, Lalitpur. Products: fresh vegetables, dairy products, organic fruits. Price range: vegetables starting Rs. 50 per kg. Contact: 9801122334.",
+        "response": "Hamro vegetables ta Rs. 50 per kg bata start huncha. Aba baki saman ko lagi visit garnu hola!"
+    },
+    {
+        "question": "yo store ma online order garna milcha?",
+        "context": "Store ko name: HomeStyle. Location: Imadol, Lalitpur. Products: home decor, furniture, lighting. Delivery: free delivery for orders above Rs. 3000. Online order: available via website or phone.",
+        "response": "Ho ho, online order garna milcha! Website ma janus ya hamro phone number 9807766554 ma call garnus."
+    },
+    {
+        "question": "store ko timing ke ho?",
+        "context": "Store ko name: FitnessPro. Location: Boudha, Kathmandu. Products: gym equipment, yoga mats, protein supplements. Timing: Sunday to Friday, 8 AM to 6 PM.",
+        "response": "Hamro store Sunday dekhi Friday samma 8 baje dekhi 6 baje samma khula huncha. Aba exercise saman khojna aaunu hai!"
+    },
+    {
+        "question": "store bata saman ko delivery kati din lagcha?",
+        "context": "Store ko name: KitchenKing. Location: Koteshwor, Kathmandu. Products: kitchen appliances, utensils, cookware. Delivery time: 1-2 days inside Kathmandu valley, 3-5 days outside.",
+        "response": "Kathmandu ma ta 1-2 din ma delivery huncha, aru thau ma ta 3-5 din lagcha ni."
+    },
+    {
+        "question": "store ma ke ke saman ko warranty cha?",
+        "context": "Store ko name: TechGears. Location: Pokhara, Lakeside. Products: laptops, headphones, cameras, power banks. Warranty: laptops 2 barsha, aru gadgets 1 barsha.",
+        "response": "Hamro laptops ma ta 2 barsha warranty cha, aru gadgets ma 1 barsha ho."
+    },
+    {
+        "question": "free delivery ko lagi minimum order kati ho?",
+        "context": "Store ko name: HappyCart. Location: Tinkune, Kathmandu. Products: groceries, snacks, beverages, personal care. Free delivery: minimum Rs. 2000 order ma.",
+        "response": "Free delivery ko lagi ta minimum Rs. 2000 ko order garnu parcha ni!"
+    },
+    {
+        "question": "saman custom banayera order garna milcha?",
+        "context": "Store ko name: CraftNook. Location: Bhaktapur. Products: handmade crafts, pottery, custom furniture. Custom orders: yes, delivery in 2-3 weeks. Contact: 9812233445.",
+        "response": "Ho, custom order garna milcha! Tara aba 2-3 weeks lagcha banayera pathauna."
+    },
+    {
+        "question": "store ma saman ko price range kasto cha?",
+        "context": "Store ko name: ElectronicsWorld. Location: Chabahil, Kathmandu. Products: TVs, refrigerators, washing machines. Price range: Rs. 10,000 to Rs. 100,000.",
+        "response": "Hamro store ma saman ko price ta Rs. 10,000 dekhi Rs. 100,000 samma cha. Aba budget anusar saman chhanot garnu hola."
+    },
+    {
+        "question": "store ko offers ko barema thaha dinus na.",
+        "context": "Store ko name: DecorDreams. Location: Lazimpat, Kathmandu. Products: home decor, wallpapers, lighting. Offers: 20% discount on lighting and wallpapers this month.",
+        "response": "Yo mahina ta lighting ra wallpapers ma 20% discount cha. Aba aaera check garnu na!"
+    },
+    {
+        "question": "store ko saman return process kasari ho?",
+        "context": "Store ko name: SmartWear. Location: Durbarmarg, Kathmandu. Products: clothing, shoes, accessories. Return process: 5 din bhitra unused saman lai original receipt sanga return garnu parcha.",
+        "response": "Return garna ho bhane 5 din bhitra unused saman lai original receipt sanga liyera aaunu hola!"
+    },
+    {
+        "question": "store international shipping garcha?",
+        "context": "Store ko name: NepaliSouvenirs. Location: Thamel, Kathmandu. Products: handicrafts, pashmina, singing bowls. Shipping: yes, international shipping available. Delivery time: 7-15 days.",
+        "response": "Ho ho, international shipping garcha! Aba 7-15 din ma delivery huncha."
+    },
+    {
+        "question": "hamro order kasari track garna milcha?",
+        "context": "Store ko name: OnlineBazaar. Location: Online platform. Products: electronics, clothing, home essentials. Tracking: order track garna ko lagi confirmation email ma link aaucha. Mobile app bata pani check garna milcha. Contact: 9801234567.",
+        "response": "Hamro order track garna confirmation email ko link use garnus, ya hamro app bata pani details check garna milcha."
+    },
+    {
+        "question": "store ma kun kun card ko payment accept huncha?",
+        "context": "Store ko name: EasyShop. Location: Baneshwor, Kathmandu. Products: groceries, snacks, beverages. Payment options: VISA, Mastercard, eSewa, Khalti. Cash on delivery pani available cha.",
+        "response": "Hamro store ma VISA, Mastercard, eSewa, ra Khalti accept huncha. Cash on delivery pani cha ni!"
+    },
+    {
+        "question": "store bata saman aayeko damaged bhaye ke garne?",
+        "context": "Store ko name: GadgetStore. Location: Jawalakhel, Lalitpur. Products: laptops, cameras, headphones. Policy: saman damaged bhaye 3 din bhitra customer support ma contact garnu parcha. Replacement process: 7 din lagcha.",
+        "response": "Saman damaged bhaye ta 3 din bhitra hamro customer support lai call garnus. Replacement ta 7 din jati lagcha."
+    },
+    {
+        "question": "hamro saman ko delivery kati baje samma huncha?",
+        "context": "Store ko name: SpeedyDelivery. Location: Kathmandu. Products: daily groceries, personal care items. Delivery timing: 6 AM to 8 PM daily. Urgent delivery: additional Rs. 100 charge for 1-hour delivery.",
+        "response": "Hamro saman delivery ta 6 baje dekhi 8 baje samma huncha. Urgent cha bhane 1 ghanta ma delivery garna Rs. 100 extra lagcha."
+    },
+    {
+        "question": "store ma saman ko pre-order garna milcha?",
+        "context": "Store ko name: FutureTech. Location: Naxal, Kathmandu. Products: upcoming gadgets, tech accessories. Pre-order: available for upcoming products. Confirmation: 20% advance payment.",
+        "response": "Ho ho, saman pre-order garna milcha. Aba 20% advance payment cha bhane pre-order confirm huncha."
+    },
+    {
+        "question": "store ma kun kun saman sabai delivery ma pardaina?",
+        "context": "Store ko name: MegaMart. Location: Bhaktapur. Products: groceries, electronics, furniture. Delivery exclusion: fragile saman jasto ki glass furniture delivery ma pardaina. Self-pickup option cha.",
+        "response": "Glass furniture jasto fragile saman ta delivery ma pardaina. Aba self-pickup garna parcha."
+    },
+    {
+        "question": "hamro saman return ko lagi receipt awasyak cha?",
+        "context": "Store ko name: SuperStyle. Location: Lazimpat, Kathmandu. Products: clothes, shoes, accessories. Return policy: receipt mandatory cha. Without receipt return garna mildaina.",
+        "response": "Ho, return garna ta receipt chahinchha. Receipt nabhaye return garna mildaina hai."
+    },
+    {
+        "question": "yo store gift wrap service garcha?",
+        "context": "Store ko name: GiftSpot. Location: Thamel, Kathmandu. Products: gifts, souvenirs, home decor. Gift wrapping: available at Rs. 50 per item.",
+        "response": "Ho, gift wrap garcha. Aba Rs. 50 per item lagcha."
+    },
+    {
+        "question": "store ma ke saman installment ma kinna milcha?",
+        "context": "Store ko name: EMIWorld. Location: New Baneshwor, Kathmandu. Products: electronics, furniture, home appliances. EMI: available on electronics and furniture above Rs. 15,000.",
+        "response": "Ho, installment ma kinna milcha. Tara Rs. 15,000 mathi ko electronics ra furniture ma ho ni!"
+    },
+    {
+        "question": "store ma saman ko stock ko barema kasari thaha paune?",
+        "context": "Store ko name: SmartMart. Location: Chitwan. Products: kitchen essentials, cleaning products, groceries. Stock check: website ya app ma saman ko availability check garna milcha.",
+        "response": "Stock ko barema ta hamro website ya app bata thaha pauna milcha."
+    },
+    {
+        "question": "store ma kun kun saman discount ma cha?",
+        "context": "Store ko name: BargainHub. Location: Pokhara. Products: electronics, clothing, groceries. Discount: 20% off electronics, 10% off clothing this week.",
+        "response": "Aba ta electronics ma 20% ra clothing ma 10% discount cha yo week ma!"
+    },
+    {
+        "question": "store ma saman cash on delivery huncha?",
+        "context": "Store ko name: QuickBuy. Location: Kathmandu. Products: groceries, electronics, home decor. Cash on delivery: available only inside Kathmandu valley.",
+        "response": "Ho, cash on delivery cha, tara Kathmandu valley bhitra matra ho hai."
+    },
+    {
+        "question": "hamro order cancel kasari garna milcha?",
+        "context": "Store ko name: FoodiesMart. Location: Jawalakhel, Lalitpur. Products: snacks, beverages, groceries. Cancellation policy: saman dispatch hunu agadi app ya customer support bata cancel garna milcha.",
+        "response": "Order cancel garna ta saman dispatch hunu agadi app ya customer support ma call garnus ni!"
+    },
+    {
+        "question": "store ma saman customize garna milcha?",
+        "context": "Store ko name: CustomizeIt. Location: Lazimpat, Kathmandu. Products: custom t-shirts, mugs, and photo frames. Customization: design email garna parcha, delivery in 5-7 days.",
+        "response": "Ho, customize garna milcha. Aba design ta hamro email ma pathaunus, delivery ta 5-7 din ma huncha."
+    },
+    {
+        "question": "store ko location kahan ho?",
+        "context": "Store ko name: FreshMart. Location: Koteshwor, Kathmandu. Products: fresh vegetables, fruits, and groceries. Timing: 7 AM to 9 PM daily. Contact: 9801234567.",
+        "response": "Hamro store Koteshwor, Kathmandu ma cha. 7 baje dekhi 9 baje samma khula huncha."
+    },
+    {
+        "question": "store ko name ke ho?",
+        "context": "Store ko name: TechBazaar. Location: Jawalakhel, Lalitpur. Products: smartphones, laptops, accessories. Contact: 9801122334.",
+        "response": "Hamro store ko name TechBazaar ho."
+    },
+    {
+        "question": "store ma kun saman available cha?",
+        "context": "Store ko name: GadgetKing. Location: New Road, Kathmandu. Products: smartphones, cameras, headphones, smartwatches.",
+        "response": "Hamro store ma smartphones, cameras, headphones, ra smartwatches available cha."
+    },
+    {
+        "question": "store ko contact number dinus na?",
+        "context": "Store ko name: FashionPoint. Location: DurbarMarg, Kathmandu. Products: kapda, shoes, accessories. Contact: 9812345678.",
+        "response": "Hamro contact number 9812345678 ho. Aba call garnu hola!"
+    },
+    {
+        "question": "store ma kun kun payment method accept huncha?",
+        "context": "Store ko name: QuickPayMart. Location: Naya Baneshwor, Kathmandu. Products: groceries, electronics, clothing. Payment methods: cash, card, eSewa, Khalti.",
+        "response": "Hamro store ma cash, card, eSewa ra Khalti sab accept huncha."
+    },
+    {
+        "question": "store ko timing ke ho?",
+        "context": "Store ko name: HomeDecorHub. Location: Lazimpat, Kathmandu. Products: furniture, home decor, lighting. Timing: 10 AM to 7 PM.",
+        "response": "Hamro store ko timing 10 baje dekhi 7 baje samma ho."
+    },
+    {
+        "question": "store ma saman ko warranty cha?",
+        "context": "Store ko name: ElectroWorld. Location: Boudha, Kathmandu. Products: TVs, refrigerators, washing machines. Warranty: 1 year warranty sabai electronics ma available cha.",
+        "response": "Ho, sabai electronics ma 1 year warranty cha."
+    },
+    {
+        "question": "store ko email address dinus na?",
+        "context": "Store ko name: SmartWear. Location: Thamel, Kathmandu. Products: kapda, jutta, accessories. Email: support@smartwear.com.",
+        "response": "Hamro email address support@smartwear.com ho."
+    },
+    {
+        "question": "store ma delivery service cha?",
+        "context": "Store ko name: DailyShop. Location: Chabahil, Kathmandu. Products: groceries, personal care, snacks. Delivery: available only inside Kathmandu valley.",
+        "response": "Ho, delivery service cha, tara Kathmandu valley bhitra matra ho."
+    },
+    {
+        "question": "store ma saman exchange garna milcha?",
+        "context": "Store ko name: StyleCorner. Location: Pokhara. Products: kapda, jutta, bags. Exchange policy: saman exchange 7 din bhitra unused condition ma garna milcha.",
+        "response": "Ho, saman exchange garna milcha, tara unused condition ma ra 7 din bhitra ho ni."
+    },
+    {
+        "question": "store ma free delivery ko lagi minimum order kati ho?",
+        "context": "Store ko name: KitchenKart. Location: Jawalakhel, Lalitpur. Products: kitchenware, cookware, utensils. Free delivery: orders above Rs. 3000.",
+        "response": "Free delivery ko lagi ta minimum Rs. 3000 ko order garnu parcha."
+    },
+    {
+        "question": "store ko website link dinus na?",
+        "context": "Store ko name: TrendyShop. Location: Online only. Products: clothing, accessories, shoes. Website: www.trendyshop.com.",
+        "response": "Hamro website www.trendyshop.com ho."
+    },
+    {
+        "question": "store ma saman ko stock update kasari thaha paune?",
+        "context": "Store ko name: GrocerEase. Location: Kalanki, Kathmandu. Products: groceries, fruits, vegetables. Stock update: app or website ko saman list update huncha.",
+        "response": "Stock ko barema ta hamro app ya website ma updated information cha."
+    },
+    {
+        "question": "store ma ke ke saman discount ma cha?",
+        "context": "Store ko name: DiscountDeals. Location: Patan, Lalitpur. Products: groceries, electronics, clothing. Discount: 20% off on clothing, 10% off on groceries this week.",
+        "response": "Aba ta clothing ma 20% ra groceries ma 10% discount cha yo week ma!"
+    },
+    {
+        "question": "store ma saman custom order garna milcha?",
+        "context": "Store ko name: CustomCreations. Location: Bhaktapur. Products: custom furniture, pottery, handmade crafts. Custom orders: available for all items.",
+        "response": "Ho, saman custom order garna milcha."
+    },
+    {
+        "question": "store ko working hours kasto cha?",
+        "context": "Store ko name: EcoStore. Location: Thamel, Kathmandu. Products: eco-friendly products, reusable bags, bamboo products. Working hours: Monday to Saturday, 9 AM to 6 PM.",
+        "response": "Hamro working hours Monday dekhi Saturday samma 9 baje dekhi 6 baje samma ho."
+    },
+    {
+        "question": "store ko products ko barema kasari thaha paune?",
+        "context": "Store ko name: FashionHub. Location: DurbarMarg, Kathmandu. Products: kapda, jutta, bags. Products info: website ya physical store visit garnu parcha.",
+        "response": "Hamro saman ko barema website hernus ya store ma visit garnus."
+    },
+    {
+        "question": "store ma saman ko delivery kati din lagcha?",
+        "context": "Store ko name: UrbanMart. Location: Lalitpur. Products: groceries, electronics, personal care. Delivery time: 2-3 days inside valley.",
+        "response": "Kathmandu valley ma ta 2-3 din lagcha delivery garna."
+    },
+    {
+        "question": "store ko offers ko barema thaha dinus na.",
+        "context": "Store ko name: DealZone. Location: Kathmandu. Products: electronics, home decor, clothing. Offers: 15% discount on home decor this month.",
+        "response": "Aba ta yo mahina home decor ma 15% discount cha!"
+    },
+    {
+        "question": "store ma kun kun saman available cha?",
+        "context": "Store ko name: FashionBoutique. Location: New Road, Kathmandu. Products: kapda, accessories, jutta, bags. Special offer: 10% off on handbags.",
+        "response": "Hamro store ma kapda, accessories, jutta, ra bags available cha. Handbags ma ta 10% off pani cha ni!"
+    },
+    {
+        "question": "store ko exact location kahan parcha?",
+        "context": "Store ko name: CityGrocers. Location: Kalanki chowk, Kathmandu. Products: groceries, dairy products, fresh vegetables. Landmark: Kalanki temple ko najikai.",
+        "response": "Hamro store ta Kalanki chowk ma cha, Kalanki temple ko najikai ho."
+    },
+    {
+        "question": "store ma parking ko suvidha cha?",
+        "context": "Store ko name: MegaMart. Location: Koteshwor, Kathmandu. Products: groceries, electronics, clothing. Parking: large parking area available.",
+        "response": "Ho, hamro store ma large parking area cha. Tension lina pardaina!"
+    },
+    {
+        "question": "store ma saman kun kun brand ko cha?",
+        "context": "Store ko name: TechStore. Location: Bhaktapur. Products: smartphones, laptops, accessories. Brands: Samsung, Apple, Dell, Lenovo.",
+        "response": "Hamro store ma Samsung, Apple, Dell, ra Lenovo ko saman cha."
+    },
+    {
+        "question": "store ma kun kun din khula huncha?",
+        "context": "Store ko name: EverydayMart. Location: Lazimpat, Kathmandu. Products: groceries, household items, personal care. Open days: 7 days a week.",
+        "response": "Hamro store ta 7 dinai khula huncha ni."
+    },
+    {
+        "question": "store ma online delivery available cha?",
+        "context": "Store ko name: FreshCart. Location: Lalitpur. Products: fresh fruits, vegetables, dairy products. Delivery: online delivery available inside Lalitpur and Kathmandu.",
+        "response": "Ho, hamro online delivery Lalitpur ra Kathmandu bhitra available cha."
+    },
+    {
+        "question": "store ko offers kasari thaha paune?",
+        "context": "Store ko name: BargainStore. Location: Jawalakhel, Kathmandu. Products: groceries, electronics, furniture. Offers info: website ma offers section updated huncha.",
+        "response": "Hamro offers ko barema ta website ko offers section hernus ni."
+    },
+    {
+        "question": "store ma saman check garna milcha?",
+        "context": "Store ko name: FurnitureHub. Location: Baluwatar, Kathmandu. Products: sofas, tables, chairs. Policy: saman physical store ma check garna milcha.",
+        "response": "Ho ho, saman ta store ma aaye check garna milcha."
+    },
+    {
+        "question": "store ko staff ko barema feedback dina milcha?",
+        "context": "Store ko name: ServicePoint. Location: Thamel, Kathmandu. Products: repair services, home appliances. Feedback: website ya app bata dina milcha.",
+        "response": "Ho, staff ko feedback website ya app bata dina milcha."
+    },
+    {
+        "question": "store ma saman cash on delivery garna milcha?",
+        "context": "Store ko name: FastDeals. Location: Kathmandu. Products: electronics, home decor, gadgets. Cash on delivery: available for orders inside Kathmandu.",
+        "response": "Ho, cash on delivery ta Kathmandu bhitra available cha."
+    },
+    {
+        "question": "store ko staff ko help cha ki xaina?",
+        "context": "Store ko name: HelpMart. Location: Pokhara. Products: groceries, household items, cleaning supplies. Policy: store ma sabai staff helpful cha, assistance dina tayar huncha.",
+        "response": "Ho, hamro staff sabai helpful huncha. Assistance chahiyo bhane boldinus!"
+    },
+    {
+        "question": "store ko delivery charge kati lagcha?",
+        "context": "Store ko name: SpeedyDeliveries. Location: Baneshwor, Kathmandu. Products: groceries, electronics. Delivery charge: free above Rs. 2000, otherwise Rs. 100.",
+        "response": "Hamro delivery free cha Rs. 2000 mathi ko orders ma. Aba tesko tala Rs. 100 lagcha."
+    },
+    {
+        "question": "store ma saman exchange kasari garna milcha?",
+        "context": "Store ko name: TrendyShop. Location: Patan, Lalitpur. Products: kapda, jutta, accessories. Policy: saman unused condition ma ra receipt ko saath exchange garna milcha.",
+        "response": "Exchange garna saman unused ra receipt ko saath lyaunus."
+    },
+    {
+        "question": "store ko payment methods k k ho?",
+        "context": "Store ko name: EasyMart. Location: Lazimpat, Kathmandu. Products: groceries, snacks. Payment: cash, card, eSewa, and Khalti.",
+        "response": "Hamro payment ma cash, card, eSewa, ra Khalti sabai milcha."
+    },
+    {
+        "question": "store ma ke saman pre-order garna milcha?",
+        "context": "Store ko name: FutureTech. Location: Kathmandu. Products: smartphones, laptops, upcoming gadgets. Pre-order: upcoming gadgets pre-order garna milcha.",
+        "response": "Ho, upcoming gadgets pre-order garna milcha."
+    },
+    {
+        "question": "store ko timing kasari confirm garna milcha?",
+        "context": "Store ko name: DailyMart. Location: Kalanki, Kathmandu. Products: groceries, household items. Info: timing website ra Google ma updated huncha.",
+        "response": "Hamro timing website ya Google ma confirm garna milcha."
+    },
+    {
+        "question": "store ma saman warranty kasari claim garne?",
+        "context": "Store ko name: WarrantyHub. Location: Bhaktapur. Products: TVs, ACs, washing machines. Policy: receipt ko saath store ma contact garna parcha.",
+        "response": "Warranty claim garna receipt ko saath store ma contact garnus."
+    },
+    {
+        "question": "store ko products ko barema online detail cha?",
+        "context": "Store ko name: OnlineShop. Location: Online only. Products: kapda, shoes, home decor. Info: sabai products ko details website ma available cha.",
+        "response": "Ho, sabai products ko details ta website ma cha."
+    },
+    {
+        "question": "store ko saman discount ma k k cha?",
+        "context": "Store ko name: DiscountMart. Location: Jawalakhel, Lalitpur. Products: electronics, furniture, clothing. Discount: 15% off electronics and 20% off clothing.",
+        "response": "Aba ta electronics ma 15% ra clothing ma 20% discount cha."
+    },
+    {
+        "question": "store ma regular customer ko lagi ke offers huncha?",
+        "context": "Store ko name: LoyalShop. Location: Pokhara. Products: groceries, kitchen items, cleaning supplies. Offers: regular customers ko lagi 5% loyalty discount huncha.",
+        "response": "Hamra regular customers ko lagi ta 5% loyalty discount cha!"
+    },
+    {
+        "question": "store kahile khula huncha?",
+        "context": "Store ko name: GreenGrocers. Location: Baneshwor, Kathmandu. Products: organic vegetables, fruits. Timing: Monday to Sunday, 6 AM to 8 PM.",
+        "response": "Hamro store ta Monday dekhi Sunday samma 6 baje dekhi 8 baje samma khula huncha."
+    },
+    {
+        "question": "store ma saman kasari book garna milcha?",
+        "context": "Store ko name: BookMyShop. Location: Lalitpur. Products: electronics, home appliances. Booking: website or phone bata book garna milcha.",
+        "response": "Hamro saman ta website ya phone call gare book garna milcha ni!"
+    },
+    {
+        "question": "store ma ko ko customer discount linchha?",
+        "context": "Store ko name: FamilyDeals. Location: Bhaktapur. Products: household items, groceries. Discount: senior citizens ra students ko lagi 10% off.",
+        "response": "Hamro store ma senior citizens ra students ko lagi 10% discount cha."
+    },
+    {
+        "question": "store ma saman warranty sabai saman ma huncha?",
+        "context": "Store ko name: SmartTech. Location: New Baneshwor, Kathmandu. Products: gadgets, smartphones, laptops. Warranty: only for specific electronics.",
+        "response": "Warranty ta sabai electronics ma hudaina, specific gadgets ma cha."
+    },
+    {
+        "question": "store ma online ko lagi kasto delivery charge lagcha?",
+        "context": "Store ko name: SpeedShop. Location: Kathmandu valley. Products: groceries, daily items. Delivery charge: Rs. 50 for orders below Rs. 1000.",
+        "response": "Online ma delivery charge Rs. 50 lagcha Rs. 1000 tala ko orders ko lagi."
+    },
+    {
+        "question": "store ma saman ko stock regularly update huncha?",
+        "context": "Store ko name: StockMart. Location: Patan, Lalitpur. Products: electronics, clothing. Info: app ra website daily update huncha.",
+        "response": "Ho, hamro app ra website ma stock ta daily update huncha."
+    },
+    {
+        "question": "store ma saman ko exchange policy ke ho?",
+        "context": "Store ko name: ClothesMart. Location: Pokhara. Products: clothing, accessories. Exchange policy: saman unused ra 10 din bhitra exchange garna milcha.",
+        "response": "Hamro exchange policy ma unused saman 10 din bhitra exchange garna milcha."
+    },
+    {
+        "question": "store ma student discount dinu huncha?",
+        "context": "Store ko name: StudyHub. Location: Kathmandu. Products: books, stationery. Discount: students ko lagi 15% off on all books.",
+        "response": "Ho ho, students ko lagi ta sabai books ma 15% discount dincha."
+    },
+    {
+        "question": "store ma delivery time kati lagcha?",
+        "context": "Store ko name: FoodFresh. Location: Kathmandu valley. Products: fresh fruits, vegetables. Delivery time: 1-2 days inside valley.",
+        "response": "Hamro delivery Kathmandu valley ma 1-2 din lagcha."
+    },
+    {
+        "question": "store ko saman refund policy kasto cha?",
+        "context": "Store ko name: TechMart. Location: Lazimpat, Kathmandu. Products: gadgets, electronics. Refund policy: 7 din bhitra unused saman ma full refund.",
+        "response": "Hamro refund policy ma 7 din bhitra unused saman ma full refund milcha."
+    },
+    {
+        "question": "store ko staff ko support friendly cha?",
+        "context": "Store ko name: SupportShop. Location: Bhaktapur. Products: household appliances, furniture. Policy: all staff are trained for customer support.",
+        "response": "Ho, hamro staff sabai friendly ra helpful huncha ni."
+    },
+    {
+        "question": "store ma saman delivery bahira pathaune cha?",
+        "context": "Store ko name: CityDeliver. Location: Kathmandu valley. Products: groceries, electronics. Delivery area: Kathmandu valley bhitra matra.",
+        "response": "Hamro delivery ta Kathmandu valley bhitra matra huncha."
+    },
+    {
+        "question": "store ma saman ko repair service cha?",
+        "context": "Store ko name: FixItHub. Location: Thamel, Kathmandu. Products: electronics, gadgets. Repair service: only for purchased items within warranty.",
+        "response": "Repair ta hamro saman warranty ma bhaye matra huncha."
+    },
+    {
+        "question": "store ko saman k k seasonal offer ma cha?",
+        "context": "Store ko name: FestiveDeals. Location: Pokhara. Products: household items, gifts. Offers: Dashain ma 25% off sabai gifts ma.",
+        "response": "Dashain ma ta sabai gifts ma 25% off cha."
+    },
+    {
+        "question": "store ma custom saman order garna milcha?",
+        "context": "Store ko name: MadeForYou. Location: Patan, Lalitpur. Products: handmade crafts, pottery. Policy: all items are customizable.",
+        "response": "Ho, sabai saman customize garna milcha."
+    },
+    {
+        "question": "store ma saman ko stock kasari confirm garne?",
+        "context": "Store ko name: ShopQuick. Location: Kathmandu. Products: groceries, electronics. Info: call ya website bata stock check garna milcha.",
+        "response": "Hamro stock ko barema ta call garera ya website ma check garna milcha."
+    },
+    {
+        "question": "store ma saman layaway option cha?",
+        "context": "Store ko name: PayLaterShop. Location: Lazimpat, Kathmandu. Products: furniture, appliances. Policy: 3 mahina ko layaway plan available cha.",
+        "response": "Ho, 3 mahina ko layaway plan cha."
+    },
+    {
+        "question": "store ma saman ko guarantee dinu huncha?",
+        "context": "Store ko name: TrustedShop. Location: Bhaktapur. Products: furniture, home decor. Guarantee: sabai furniture ma 2 years ko guarantee cha.",
+        "response": "Ho, hamro furniture ma 2 years ko guarantee huncha."
+    },
+    {
+        "question": "store ma saman delivery kasari request garne?",
+        "context": "Store ko name: EasyDelivery. Location: Kathmandu. Products: household items, groceries. Delivery request: app ya phone call bata garna milcha.",
+        "response": "Delivery ta app ya phone bata request garna milcha."
+    },
+    {
+        "question": "store ma kun kun saman available huncha?",
+        "context": "Store ko name: AllMart. Location: New Road, Kathmandu. Products: groceries, clothing, accessories, electronics.",
+        "response": "Hamro store ma groceries, clothing, accessories, ra electronics sabai available cha."
+    },
+    {
+        "question": "store kaha samma delivery garna milcha?",
+        "context": "Store ko name: FreshFoods. Location: Kalimati, Kathmandu. Products: fresh vegetables, fruits, groceries. Delivery: Kathmandu valley bhitra delivery available.",
+        "response": "Hamro delivery Kathmandu valley bhitra matra available cha."
+    },
+    {
+        "question": "store ma kun kun saman ko stock usually rakhnu huncha?",
+        "context": "Store ko name: HomeEssentials. Location: Jawalakhel, Lalitpur. Products: kitchen appliances, household items. Stock: sabai saman regular supply ma rakhcha.",
+        "response": "Hamro store ma kitchen appliances ra household items regular stock ma huncha."
+    },
+    {
+        "question": "store ko saman ko delivery kati chito huncha?",
+        "context": "Store ko name: QuickMart. Location: Baneshwor, Kathmandu. Products: groceries, household items. Delivery: same-day delivery available inside Kathmandu.",
+        "response": "Hamro same-day delivery Kathmandu ma available cha. Aba tension lina pardaina!"
+    },
+    {
+        "question": "store ko saman afai pick up garna milcha?",
+        "context": "Store ko name: SelfPick. Location: Lagankhel, Lalitpur. Products: electronics, gadgets. Pickup: online order ko saman self-pickup option available cha.",
+        "response": "Ho, online order ko saman self-pickup garna milcha."
+    },
+    {
+        "question": "store ma delivery service kun kun din available huncha?",
+        "context": "Store ko name: EasyDelivery. Location: New Road, Kathmandu. Products: clothing, accessories. Delivery: Monday to Saturday delivery available.",
+        "response": "Hamro delivery Monday dekhi Saturday samma huncha."
+    },
+    {
+        "question": "store ma saman discount card use garna milcha?",
+        "context": "Store ko name: DiscountPlus. Location: Bhaktapur. Products: groceries, electronics. Policy: hamro store ma discount card use garna milcha.",
+        "response": "Ho ho, discount card use garna milcha hamro store ma."
+    },
+    {
+        "question": "store ma refund ko barema kasari contact garne?",
+        "context": "Store ko name: RefundHub. Location: Thamel, Kathmandu. Products: electronics, gadgets. Refund contact: website ma refund request form available cha.",
+        "response": "Refund ko lagi website ma request form bharna parcha."
+    },
+    {
+        "question": "store ma saman test garna milcha?",
+        "context": "Store ko name: GadgetWorld. Location: Patan, Lalitpur. Products: smartphones, laptops. Testing: store ma saman test garna milcha.",
+        "response": "Ho, saman store ma aaye test garna milcha."
+    },
+    {
+        "question": "store ma saman order confirmation kasari aauxa?",
+        "context": "Store ko name: SmartShop. Location: Kalanki, Kathmandu. Products: electronics, accessories. Confirmation: SMS ra email bata confirmation aauxa.",
+        "response": "Order confirm bhaye pachi SMS ra email ma confirmation aauxa."
+    },
+    {
+        "question": "store ma saman order cancel garna milcha?",
+        "context": "Store ko name: CancelEasy. Location: Lalitpur. Products: household items, cleaning supplies. Policy: saman delivery ko aghi cancel garna milcha.",
+        "response": "Ho, saman delivery ko aghi cancel garna milcha."
+    },
+    {
+        "question": "store ma saman delivery ko time fix garna milcha?",
+        "context": "Store ko name: TimedDeliveries. Location: Kathmandu. Products: groceries, electronics. Delivery: time slot select garna milcha.",
+        "response": "Ho, delivery time slot select garna milcha order gareko bela."
+    },
+    {
+        "question": "store ma saman ko packaging kasto cha?",
+        "context": "Store ko name: SafePack. Location: Pokhara. Products: fragile items, electronics. Packaging: bubble wrap ra secure box ma delivery huncha.",
+        "response": "Hamro packaging ta secure bubble wrap ra box ma huncha."
+    },
+    {
+        "question": "store ko offers regularly kasari thaha paune?",
+        "context": "Store ko name: OfferZone. Location: Bhaktapur. Products: electronics, furniture. Info: hamro app download garera offers ko barema update pauxa.",
+        "response": "Hamro app download garera sabai offers ko update thaha pauna milcha."
+    },
+    {
+        "question": "store ma saman payment installments ma garna milcha?",
+        "context": "Store ko name: EasyPayShop. Location: Kathmandu. Products: furniture, electronics. Payment: EMI options available cha selected items ma.",
+        "response": "Ho, EMI options selected items ma available cha."
+    },
+    {
+        "question": "store ko saman order online garna process kasto cha?",
+        "context": "Store ko name: OnlineMart. Location: Lalitpur. Products: groceries, electronics. Online order: website ma cart ma add garera payment process paxi order confirm huncha.",
+        "response": "Hamro website ma cart ma saman add garera payment paxi order confirm huncha."
+    },
+    {
+        "question": "store ma saman exchange ko policy flexible cha?",
+        "context": "Store ko name: FlexiExchange. Location: Thamel, Kathmandu. Products: clothing, accessories. Policy: 15 din bhitra unused saman exchange garna milcha.",
+        "response": "Ho, 15 din bhitra unused saman exchange garna milcha."
+    },
+    {
+        "question": "store ma customer ko complaints handle garna system cha?",
+        "context": "Store ko name: CustomerCareHub. Location: Patan, Lalitpur. Products: electronics, gadgets. Complaints: feedback email ra support hotline available cha.",
+        "response": "Hamro complaints ko lagi feedback email ra support hotline cha."
+    },
+    {
+        "question": "store ma saman replacement ko barema kasari contact garne?",
+        "context": "Store ko name: ReplaceMart. Location: Jawalakhel, Kathmandu. Products: appliances, furniture. Replacement: saman ko issue ra invoice email garna parcha.",
+        "response": "Replacement ko lagi saman ko issue ra invoice email garnus."
+    },
+    {
+        "question": "store ko saman ko validity confirm garna milcha?",
+        "context": "Store ko name: QualityCheck. Location: Kathmandu. Products: groceries, packaged items. Info: sabai saman ma expiration date clearly print huncha.",
+        "response": "Hamro saman ma expiration date clear print huncha ni!"
+    },
+    {
+        "question": "store ko saman wholesale ma kinna milcha?",
+        "context": "Store ko name: BulkBuyShop. Location: Kalanki, Kathmandu. Products: groceries, household items. Wholesale: bulk orders ko lagi special rate dincha.",
+        "response": "Ho, bulk orders ma special rate dincha."
+    },
+    {
+        "question": "store ko exact address ke ho?",
+        "context": "Store ko name: UrbanBazaar. Location: Dillibazar, Kathmandu. Products: clothing, accessories, shoes. Address: opposite to Dillibazar Police Station.",
+        "response": "Hamro exact location Dillibazar Police Station ko opposite ma cha."
+    },
+    {
+        "question": "store kaha parking facility available cha?",
+        "context": "Store ko name: MegaStore. Location: Kalimati, Kathmandu. Products: electronics, furniture. Info: free parking facility store ko pachi cha.",
+        "response": "Hamro store ko pachi free parking facility cha ni."
+    },
+    {
+        "question": "store ko timing ma afternoon break cha?",
+        "context": "Store ko name: DailyShop. Location: Bhaktapur. Products: groceries, daily items. Timing: open from 7 AM to 7 PM, no afternoon breaks.",
+        "response": "Hamro store continuous 7 baje dekhi 7 baje samma khula huncha, afternoon break chaina."
+    },
+    {
+        "question": "store ma saman view garna milcha before order?",
+        "context": "Store ko name: DemoShop. Location: Patan, Lalitpur. Products: electronics, gadgets. Info: showroom ma saman physically view garna milcha.",
+        "response": "Ho, showroom ma saman physically herera kinnu milcha."
+    },
+    {
+        "question": "store ma saman ko delivery kasari track garna milcha?",
+        "context": "Store ko name: TrackItShop. Location: Jawalakhel, Lalitpur. Products: household items, electronics. Info: app bata live delivery tracking system available cha.",
+        "response": "Hamro app bata live tracking garna milcha delivery ko."
+    },
+    {
+        "question": "store ma saman ko packaging charge lagcha?",
+        "context": "Store ko name: EcoPack. Location: New Road, Kathmandu. Products: gifts, decorative items. Policy: Rs. 20 extra packaging charge lagcha.",
+        "response": "Hamro packaging ko lagi Rs. 20 extra charge lagcha ni."
+    },
+    {
+        "question": "store ma saman home delivery free cha?",
+        "context": "Store ko name: FreeDeliver. Location: Pokhara. Products: groceries, household items. Info: orders above Rs. 1000 ko lagi free delivery cha.",
+        "response": "Rs. 1000 ko upar ko orders ma delivery free cha."
+    },
+    {
+        "question": "store kaha credit card accept huncha?",
+        "context": "Store ko name: CardMart. Location: Kathmandu. Products: clothing, electronics. Payment: sabai credit card accepted huncha.",
+        "response": "Ho, sabai credit card hamro store ma accepted huncha."
+    },
+    {
+        "question": "store ma saman exchange ma k k document lagcha?",
+        "context": "Store ko name: EasyExchange. Location: Kalanki, Kathmandu. Products: furniture, electronics. Exchange: original bill ra saman condition check garna parcha.",
+        "response": "Exchange ko lagi original bill ra saman condition check garnu parcha."
+    },
+    {
+        "question": "store kaha ko delivery fastest huncha?",
+        "context": "Store ko name: FastTrack. Location: Lalitpur. Products: groceries, gadgets. Delivery: fastest delivery Kathmandu valley ma huncha.",
+        "response": "Hamro fastest delivery Kathmandu valley ma cha."
+    },
+    {
+        "question": "store ma saman kinera personal gift message add garna milcha?",
+        "context": "Store ko name: GiftItNow. Location: Bhaktapur. Products: gifts, cards. Info: saman sanga personal gift message add garna milcha.",
+        "response": "Ho, saman ko gift sanga message attach garna milcha."
+    },
+    {
+        "question": "store ma ke saman eco-friendly packaging ma rakhcha?",
+        "context": "Store ko name: GreenMart. Location: Patan, Lalitpur. Products: organic groceries, eco-products. Info: sabai saman eco-friendly packaging ma huncha.",
+        "response": "Hamro sabai saman eco-friendly packaging ma huncha."
+    },
+    {
+        "question": "store ma cash on delivery option cha?",
+        "context": "Store ko name: CODStore. Location: Kathmandu. Products: gadgets, clothing. Policy: cash on delivery available cha Kathmandu bhitra.",
+        "response": "Ho, Kathmandu bhitra ta cash on delivery cha."
+    },
+    {
+        "question": "store ma saman ko return process kasto cha?",
+        "context": "Store ko name: ReturnZone. Location: Pokhara. Products: electronics, gadgets. Return policy: saman unused ra 7 din bhitra return garna milcha.",
+        "response": "Hamro return policy ma unused saman 7 din bhitra return garna milcha."
+    },
+    {
+        "question": "store ma saman gift wrap garna milcha?",
+        "context": "Store ko name: WrapItUp. Location: Thamel, Kathmandu. Products: gifts, toys. Info: gift wrap ko lagi Rs. 30 additional charge lagcha.",
+        "response": "Ho, gift wrap ko lagi Rs. 30 extra lagcha."
+    },
+    {
+        "question": "store kaha ko payment flexible cha?",
+        "context": "Store ko name: FlexiPayMart. Location: Baneshwor, Kathmandu. Products: household items, furniture. Payment: EMI ra part payment options available cha.",
+        "response": "Hamro store ma EMI ra part payment sabai options cha."
+    },
+    {
+        "question": "store kaha saman delivery cash only ma huncha?",
+        "context": "Store ko name: CashOnly. Location: Bhaktapur. Products: groceries, household items. Delivery: cash-only payment for all deliveries.",
+        "response": "Delivery ma cash-only payment huncha hamro store ma."
+    },
+    {
+        "question": "store ma saman collection kasari garna milcha?",
+        "context": "Store ko name: ClickCollect. Location: Lalitpur. Products: groceries, electronics. Info: online order garera store ma collect garna milcha.",
+        "response": "Online order paxi store ma saman collect garna milcha."
+    },
+    {
+        "question": "store ma saman delivery ma guarantee huncha?",
+        "context": "Store ko name: SafeDeliver. Location: Kathmandu. Products: fragile items, electronics. Info: saman safe delivery guarantee huncha.",
+        "response": "Hamro saman ta safe delivery guarantee sanga aaucha ni!"
+    },
+    {
+        "question": "store ko location map ma kasari herne?",
+        "context": "Store ko name: MapMart. Location: Kathmandu. Products: daily items, groceries. Info: hamro store ko location Google Maps ma herna milcha.",
+        "response": "Hamro store ko location ta Google Maps ma available cha."
+    },
+    {
+        "question": "store ma saman order garne process kasto cha?",
+        "context": "Store ko name: FastMart. Location: New Road, Kathmandu. Products: groceries, fashion items. Info: saman website bata select garera order garna milcha.",
+        "response": "Website ma login garera saman select garera order garna milcha."
+    },
+    {
+        "question": "store ko saman ko quality kasari check garne?",
+        "context": "Store ko name: QualityMart. Location: Baneshwor, Kathmandu. Products: electronics, home appliances. Info: test units available cha store ma.",
+        "response": "Hamro store ma test units cha, tapai herera quality check garna milcha."
+    },
+    {
+        "question": "store ko return policy kati din ko cha?",
+        "context": "Store ko name: ReturnMaster. Location: Bhaktapur. Products: gadgets, home products. Policy: 30 din ko return policy cha.",
+        "response": "Hamro return policy 30 din ko cha, unused saman matra return garna milcha."
+    },
+    {
+        "question": "store ma saman purchase garne bela discount milcha?",
+        "context": "Store ko name: DiscountDeals. Location: Lalitpur. Products: clothing, accessories. Info: seasonal discounts available cha.",
+        "response": "Ho, seasonal discounts haru hamro store ma regularly milcha."
+    },
+    {
+        "question": "store ma delivery free cha?",
+        "context": "Store ko name: FreeDeliveryHub. Location: Pokhara. Products: furniture, appliances. Info: Rs. 1500 upar ko orders ma free delivery cha.",
+        "response": "Rs. 1500 ko upar ko orders ma delivery free cha."
+    },
+    {
+        "question": "store ma payment method kasari garne?",
+        "context": "Store ko name: PaySmart. Location: Kathmandu. Products: groceries, household items. Info: hamro store ma cash, card ra mobile payment options available cha.",
+        "response": "Cash, card, ya mobile payment bata kehi pani method le payment garna milcha."
+    },
+    {
+        "question": "store ko items ko warranty cha ki nai?",
+        "context": "Store ko name: WarrantyPlus. Location: Kalanki, Kathmandu. Products: electronics, gadgets. Info: warranty 1 year samma cha selected items ma.",
+        "response": "Ho, 1 year warranty cha selected items ma."
+    },
+    {
+        "question": "store ko delivery service kaha bata garna milcha?",
+        "context": "Store ko name: DeliveryPro. Location: Kathmandu. Products: groceries, daily essentials. Info: delivery service Kathmandu valley ma available cha.",
+        "response": "Hamro delivery service Kathmandu valley ma available cha."
+    },
+    {
+        "question": "store ko saman kaile ghar samma pugcha?",
+        "context": "Store ko name: QuickGoods. Location: Thamel, Kathmandu. Products: electronics, clothing. Info: 2-3 din ma saman delivery hocha.",
+        "response": "2-3 din ma saman ghar samma delivery garincha."
+    },
+    {
+        "question": "store ma saman ko size exchange garna milcha?",
+        "context": "Store ko name: SizeFit. Location: Jawalakhel, Lalitpur. Products: clothing, shoes. Info: size exchange 7 din bhitra garna milcha.",
+        "response": "Size exchange 7 din bhitra garna milcha, unused items matra."
+    },
+    {
+        "question": "store ma saman ko stock regularly update huncha?",
+        "context": "Store ko name: StockTracker. Location: Kathmandu. Products: electronics, toys. Info: stock haru daily update garincha hamro website ma.",
+        "response": "Hamro stock daily website ma update huncha."
+    },
+    {
+        "question": "store ma saman order garne bela delivery charge lagcha?",
+        "context": "Store ko name: DeliveryMate. Location: Pokhara. Products: gadgets, gifts. Info: Rs. 100 delivery charge lagcha, Rs. 2000 upar ko orders ma free delivery.",
+        "response": "Rs. 100 delivery charge lagcha, Rs. 2000 upar ko order ma free delivery cha."
+    },
+    {
+        "question": "store ma saman order garera pick up kasari garne?",
+        "context": "Store ko name: PickUpNow. Location: Lalitpur. Products: electronics, books. Info: online order garera store bata pick up garna milcha.",
+        "response": "Online order garera store bata pick up garna milcha."
+    },
+    {
+        "question": "store ma saman delivery time fix garna milcha?",
+        "context": "Store ko name: TimeFix. Location: Kathmandu. Products: groceries, books. Info: delivery time fix garna milcha online order paxi.",
+        "response": "Ho, online order paxi delivery time fix garna milcha."
+    },
+    {
+        "question": "store ma saman ko availability kasari check garne?",
+        "context": "Store ko name: AvailableNow. Location: Bhaktapur. Products: toys, gadgets. Info: hamro website bata saman availability check garna milcha.",
+        "response": "Hamro website bata saman ko availability check garna milcha."
+    },
+    {
+        "question": "store ko hours kasari pata garne?",
+        "context": "Store ko name: TimingsHub. Location: Baneshwor, Kathmandu. Info: store ko open hours website ra social media ma available cha.",
+        "response": "Hamro store ko hours website ra social media ma dekhna milcha."
+    },
+    {
+        "question": "store ma saman discount garera kinna milcha?",
+        "context": "Store ko name: DiscountMart. Location: Pokhara. Products: clothing, gadgets. Info: seasonal discounts haru ma saman kinna milcha.",
+        "response": "Seasonal discounts ma saman kinna milcha."
+    },
+    {
+        "question": "store ma saman payment installments ma garna milcha?",
+        "context": "Store ko name: EasyInstallment. Location: Kathmandu. Products: electronics, furniture. Info: EMI options available cha certain items ma.",
+        "response": "Ho, EMI options available cha certain items ma."
+    },
+    {
+        "question": "store ma saman order garera delivery bata cancel garna milcha?",
+        "context": "Store ko name: CancelPro. Location: Kathmandu. Products: clothing, accessories. Info: delivery ko 2 ghanta bhitra cancel garna milcha.",
+        "response": "Delivery paxi 2 ghanta bhitra cancel garna milcha."
+    },
+    {
+        "question": "store ma saman return garna payment refundable cha ki nai?",
+        "context": "Store ko name: RefundCenter. Location: Bhaktapur. Products: clothing, gadgets. Info: payment refund huncha saman return garne bela.",
+        "response": "Ho, saman return garne bela payment refund garincha."
+    },
+    {
+        "question": "store ma saman return garne bela kasari refund garincha?",
+        "context": "Store ko name: ReturnEase. Location: Thamel, Kathmandu. Products: electronics, home appliances. Info: return garera, payment refund store ko original mode bata garincha.",
+        "response": "Return garne bela, payment original mode bata refund garincha."
+    },
+    {
+        "question": "store ma saman kinera discount ko card milcha?",
+        "context": "Store ko name: DiscountZone. Location: Patan, Lalitpur. Products: clothing, accessories. Info: loyalty card haru milcha discount pauna.",
+        "response": "Ho, discount pauna loyalty card milcha!"
+    },
+    {
+        "question": "store ko saman ko quality kasari check garna milcha?",
+        "context": "Store ko name: QualityCheck. Location: Bhaktapur. Products: clothing, gadgets. Info: test samples ra reviews bata saman ko quality check garna milcha.",
+        "response": "Test samples ra customer reviews bata quality check garna milcha."
+    },
+    {
+        "question": "store ma saman khareed garera gift card milcha?",
+        "context": "Store ko name: GiftIt. Location: Kathmandu. Products: electronics, gifts. Info: gift card purchase garna milcha store bata.",
+        "response": "Ho, tapai gift card purchase garna milcha hamro store bata."
+    },
+    {
+        "question": "store ko saman ko delivery kaha bata huncha?",
+        "context": "Store ko name: FastDelivery. Location: Kathmandu. Products: groceries, fashion items. Info: delivery directly hamro warehouse bata huncha.",
+        "response": "Hamro warehouse bata direct delivery huncha."
+    },
+    {
+        "question": "store ma saman order garera multiple payment method use garna milcha?",
+        "context": "Store ko name: MultiPay. Location: Baneshwor, Kathmandu. Products: household items, electronics. Info: payment ma cash, card ra mobile wallet sabai methods milcha.",
+        "response": "Ho, multiple payment method use garna milcha, cash, card ra mobile wallet."
+    },
+    {
+        "question": "store ma saman return garera exchange garna milcha?",
+        "context": "Store ko name: ExchangePro. Location: Kathmandu. Products: electronics, clothing. Info: saman ko condition anusar exchange garna milcha.",
+        "response": "Condition ramro cha bhane saman exchange garna milcha."
+    },
+    {
+        "question": "store ma saman online order garera delivery bata cancel garna milcha?",
+        "context": "Store ko name: QuickCancel. Location: Lalitpur. Products: groceries, household items. Info: delivery garne bela cancel garna milcha.",
+        "response": "Delivery garne bela cancel garna milcha."
+    },
+    {
+        "question": "store ko delivery time kati din cha?",
+        "context": "Store ko name: DeliveryExpress. Location: Pokhara. Products: electronics, gadgets. Info: 2 din ko delivery time cha Kathmandu ra Pokhara ma.",
+        "response": "Delivery time 2 din cha Kathmandu ra Pokhara ma."
+    },
+    {
+        "question": "store ma saman free delivery garne condition ke ho?",
+        "context": "Store ko name: FreeZone. Location: Kathmandu. Products: furniture, groceries. Info: Rs. 1000 upar ko orders ma free delivery cha.",
+        "response": "Rs. 1000 upar ko orders ma delivery free cha."
+    },
+    {
+        "question": "store ma saman ko quality guarantee cha ki nai?",
+        "context": "Store ko name: GuaranteeMart. Location: Baneshwor, Kathmandu. Products: electronics, home appliances. Info: 1 saal ko quality guarantee cha.",
+        "response": "Ho, 1 saal ko quality guarantee cha."
+    },
+    {
+        "question": "store ma saman gift wrapping garna milcha?",
+        "context": "Store ko name: GiftWrap. Location: Thamel, Kathmandu. Products: gifts, toys. Info: saman ko gift wrapping available cha Rs. 50 ko additional charge ma.",
+        "response": "Gift wrapping available cha Rs. 50 extra charge ma."
+    },
+    {
+        "question": "store ko saman delivery charge kati ho?",
+        "context": "Store ko name: DeliveryHub. Location: Lalitpur. Products: groceries, books. Info: delivery charge Rs. 50 cha, Rs. 1500 upar free cha.",
+        "response": "Delivery charge Rs. 50 cha, Rs. 1500 upar free delivery cha."
+    },
+    {
+        "question": "store ma saman ko warranty period kati ho?",
+        "context": "Store ko name: WarrantyPro. Location: Kathmandu. Products: gadgets, home appliances. Info: 1 saal ko warranty cha electronics ma.",
+        "response": "Electronics ko lagi 1 saal ko warranty cha."
+    },
+    {
+        "question": "store ma saman order garera return garna kasari garne?",
+        "context": "Store ko name: ReturnEasy. Location: Pokhara. Products: clothing, fashion items. Info: saman ko original condition ma return garna milcha, 7 din bhitra.",
+        "response": "Original condition ma 7 din bhitra return garna milcha."
+    },
+    {
+        "question": "store ma saman home delivery kasari garne?",
+        "context": "Store ko name: FastGoods. Location: Bhaktapur. Products: daily essentials, groceries. Info: online order garera home delivery garna milcha.",
+        "response": "Online order garera home delivery garna milcha."
+    },
+    {
+        "question": "store ko saman ko packaging eco-friendly cha?",
+        "context": "Store ko name: EcoPack. Location: Kathmandu. Products: gifts, electronics. Info: packaging eco-friendly material bata garincha.",
+        "response": "Ho, hamro saman ko packaging eco-friendly material bata garincha."
+    },
+    {
+        "question": "store ma saman delivery guarantee cha?",
+        "context": "Store ko name: SureDelivery. Location: Lalitpur. Products: gadgets, books. Info: delivery ko guarantee cha 2 din bhitra.",
+        "response": "Hamro delivery guarantee cha 2 din bhitra."
+    },
+    {
+        "question": "store ma saman ko exchange policy ke ho?",
+        "context": "Store ko name: ExchangePlus. Location: Kathmandu. Products: electronics, clothing. Info: saman unused cha bhane 7 din bhitra exchange garna milcha.",
+        "response": "Unused saman 7 din bhitra exchange garna milcha."
+    },
+    {
+        "question": "store ko saman ko stock kati barakh cha update?",
+        "context": "Store ko name: StockNow. Location: Baneshwor. Products: groceries, clothing. Info: stock daily update garincha hamro website ma.",
+        "response": "Hamro website ma stock daily update garincha."
+    },
+    {
+        "question": "store ma saman ko delivery free cha ki nai?",
+        "context": "Store ko name: FreeStore. Location: Kathmandu. Products: home appliances, electronics. Info: Rs. 2000 upar ko orders ma free delivery cha.",
+        "response": "Ho, Rs. 2000 upar ko orders ma delivery free cha."
+    },
+    {
+        "question": "store ma saman kaile stock hunchha?",
+        "context": "Store ko name: StockStore. Location: Pokhara. Products: fashion, gadgets. Info: stock haru hamro website ma regularly update garincha.",
+        "response": "Hamro website ma regularly stock update garincha, tapai check garna saknuhuncha."
+    },
+    {
+        "question": "store ko opening hours kati bela ho?",
+        "context": "Store ko name: TimeStore. Location: Lalitpur. Products: groceries, electronics. Info: store ko opening hours 9am bata 7pm samma cha.",
+        "response": "Hamro store 9am bata 7pm samma khula cha."
+    },
+    {
+        "question": "store ma saman order garera cash on delivery garna milcha?",
+        "context": "Store ko name: PayOnDelivery. Location: Kathmandu. Products: daily essentials, clothing. Info: cash on delivery option available cha.",
+        "response": "Ho, cash on delivery option available cha hamro store ma."
+    },
+    {
+        "question": "store ma saman ko delivery service kati din ma garincha?",
+        "context": "Store ko name: QuickDelivery. Location: Bhaktapur. Products: electronics, furniture. Info: delivery 2-3 din ma garincha.",
+        "response": "Hamro delivery 2-3 din ma garincha."
+    },
+    {
+        "question": "store ko payment method kati cha?",
+        "context": "Store ko name: PayFlex. Location: Kathmandu. Products: groceries, home essentials. Info: hamro store ma cash, card, and online payments available cha.",
+        "response": "Hamro store ma cash, card, ra online payments available cha."
+    },
+    {
+        "question": "store ma saman return garera refund kasari milcha?",
+        "context": "Store ko name: RefundExpress. Location: Pokhara. Products: clothing, gadgets. Info: saman return garera, 7 din bhitra refund milcha.",
+        "response": "Saman return garera, 7 din bhitra refund milcha."
+    },
+    {
+        "question": "store ko saman ko exchange policy ke ho?",
+        "context": "Store ko name: SwapStore. Location: Kathmandu. Products: electronics, books. Info: saman unused cha bhane 7 din bhitra exchange garna milcha.",
+        "response": "Unused saman 7 din bhitra exchange garna milcha."
+    },
+    {
+        "question": "store ma saman ko warranty period kati din cha?",
+        "context": "Store ko name: WarrantyCare. Location: Lalitpur. Products: electronics, gadgets. Info: electronics ma 1 saal ko warranty cha.",
+        "response": "Electronics ma 1 saal ko warranty cha."
+    },
+    {
+        "question": "store ma saman ko exchange garna garo cha?",
+        "context": "Store ko name: EasyExchange. Location: Bhaktapur. Products: clothing, accessories. Info: exchange process simple cha, saman unused cha bhane.",
+        "response": "Exchange garna garo chaina, unused saman cha bhane easily exchange garna milcha."
+    },
+    {
+        "question": "store ma saman ko size exchange garna milcha?",
+        "context": "Store ko name: SizeFit. Location: Kathmandu. Products: shoes, clothing. Info: size exchange 7 din bhitra garna milcha.",
+        "response": "Ho, size exchange 7 din bhitra garna milcha."
+    },
+    {
+        "question": "store ko delivery time kati din ho?",
+        "context": "Store ko name: FastTrack. Location: Lalitpur. Products: home products, gadgets. Info: delivery time 2 din ma garincha.",
+        "response": "Delivery time 2 din cha."
+    },
+    {
+        "question": "store ma saman stock ma cha ki nai kasari thaha paune?",
+        "context": "Store ko name: StockChecker. Location: Kathmandu. Products: books, fashion. Info: saman stock ma cha bhane website ma dekhna milcha.",
+        "response": "Hamro website ma saman stock ko update cha, tapai check garna milcha."
+    },
+    {
+        "question": "store ma saman kaile order garna sakinchha?",
+        "context": "Store ko name: OrderNow. Location: Pokhara. Products: groceries, clothing. Info: store ma anytime order garna sakinchha online.",
+        "response": "Hamro store ma anytime online order garna sakinchha."
+    },
+    {
+        "question": "store ma saman gift wrapping service cha?",
+        "context": "Store ko name: GiftWrapStore. Location: Bhaktapur. Products: gifts, toys. Info: gift wrapping service cha Rs. 50 ko extra charge ma.",
+        "response": "Gift wrapping service cha, Rs. 50 extra charge ho."
+    },
+    {
+        "question": "store ko items ko quality kasari check garne?",
+        "context": "Store ko name: QualityCheckStore. Location: Kathmandu. Products: electronics, clothing. Info: customer reviews ra product demo bata quality check garna milcha.",
+        "response": "Customer reviews ra product demo bata saman ko quality check garna milcha."
+    },
+    {
+        "question": "store ma saman ko return policy ke ho?",
+        "context": "Store ko name: ReturnPro. Location: Lalitpur. Products: groceries, household. Info: 7 din bhitra, unused saman return garna milcha.",
+        "response": "Unused saman 7 din bhitra return garna milcha."
+    },
+    {
+        "question": "store ma saman ko delivery service kaha samma cha?",
+        "context": "Store ko name: DeliveryHub. Location: Kathmandu. Products: electronics, gifts. Info: Kathmandu valley ma delivery service cha.",
+        "response": "Hamro delivery service Kathmandu valley ma cha."
+    },
+    {
+        "question": "store ma saman order garne bela delivery charge lagcha ki nai?",
+        "context": "Store ko name: ChargeFree. Location: Kathmandu. Products: gadgets, books. Info: Rs. 100 delivery charge cha, Rs. 1500 upar ko orders ma free delivery.",
+        "response": "Rs. 100 delivery charge lagcha, Rs. 1500 upar free delivery cha."
+    },
+    {
+        "question": "store ma saman kaile ghar samma delivery garincha?",
+        "context": "Store ko name: QuickGoods. Location: Pokhara. Products: electronics, groceries. Info: delivery 2-3 din bhitra garincha.",
+        "response": "Hamro delivery 2-3 din bhitra garincha."
+    },
+    {
+        "question": "store ko saman ko quality kasari test garna milcha?",
+        "context": "Store ko name: TestIt. Location: Kathmandu. Products: gadgets, home appliances. Info: test units available cha store ma.",
+        "response": "Store ma test units available cha, tapai check garna saknuhuncha."
+    }
+]
