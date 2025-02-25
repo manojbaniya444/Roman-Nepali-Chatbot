@@ -4,12 +4,12 @@ Development of Roman Nepali Chatbot exploring different techniques and approache
 
 Basically three types of chatbots are here:
 
-## Rule based chatbot: if else
+## Rule based chatbot (Menu Based Chatbot):
 
 Menu based chatbot which work on certain rule.
 [Rule Based Chatbot](./Menu%20Based%20Chatbot/)
 
-## ML chatbot: intent and entity
+## ML chatbot: Intent and Entity Classification.
 
 This chatbot uses machine learning algorithms to identify user intent and process dialogue with the help of intent and entities collected from user message query.
 [ML Chatbot](./Dialogue%20Chatabot/)
