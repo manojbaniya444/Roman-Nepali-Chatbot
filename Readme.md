@@ -21,5 +21,6 @@ This chatbot generates the response using large language model by fine tuning on
 
 ## Fine Tune LLM 1 EPOCH
 [FIne Tune GEMMA 2 2B 1 EPOCH 2200 STEP CODE](./Generation%20Based%20Language%20Model%20Chatbot%20Fine%20Tune/Full-Epoch-FineTune-Gemma2-2b-v5-Data.ipynb)
+[Fine Tune GEMMA 2 9B ROMAN NEPALI ALPACA](./Generation%20Based%20Language%20Model%20Chatbot%20Fine%20Tune/Gemma-9B-Alpaca-Roman-Nepali.ipynb)
 
 ## Demo
