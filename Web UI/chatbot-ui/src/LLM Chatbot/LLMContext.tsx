@@ -15,7 +15,7 @@ export const LLMContextProvider = ({ children }: { children: any }) => {
   let eventSource: EventSource | null = null;
   const getLLMResponse = (question: string, context = "") => {
     try {
-      eventSource = new EventSource("https://5aa8-35-230-9-191.ngrok-free.app/chat");
+      eventSource = new EventSource(`${import.meta.env.VITE_NGROK_SERVER}/chat`);
 
       eventSource.onmessage = (event) => {
         const newMessage: MessageType = {

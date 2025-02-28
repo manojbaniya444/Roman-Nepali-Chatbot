@@ -1,5 +1,6 @@
 import React, { Dispatch, useEffect, useRef, useState } from "react";
 import Button from "../components/Button";
+import Typing from "../Rulebased Chatbot/components/Typing";
 
 type Props = {
   setShowChat: Dispatch<React.SetStateAction<boolean>>;
@@ -19,6 +20,7 @@ const LLMChatBot = ({ setShowChat }: Props) => {
   ]);
   const [question, setQuestion] = useState<string>("");
   const [aiResponse, setAiResponse] = useState("");
+  const [loading, setLoading] = useState(false);
 
   const messagesRef = useRef<HTMLDivElement>(null);
 
@@ -35,7 +37,7 @@ const LLMChatBot = ({ setShowChat }: Props) => {
   }, [messages, aiResponse]);
 
   // Create a ref to store the current question
-//   const currentQuestion = useRef("");
+  //   const currentQuestion = useRef("");
 
   // message sending handler
   const handleMessagePost = (e: React.FormEvent) => {
@@ -63,15 +65,15 @@ const LLMChatBot = ({ setShowChat }: Props) => {
     setAiResponse("");
     setQuestion(""); // Clear input after sending
 
-    fetch("https://2daa-35-230-9-191.ngrok-free.app/chat", {
+    setLoading(true);
+
+    fetch(`${import.meta.env.VITE_NGROK_SERVER}/chat`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
         question: question,
-        context,
-        stream: true,
       }),
     })
       .then((response) => {
@@ -120,6 +122,9 @@ const LLMChatBot = ({ setShowChat }: Props) => {
             message: "Sorry, there was an error processing your request.",
           },
         ]);
+      })
+      .finally(() => {
+        setLoading(false);
       });
   };
 
@@ -134,7 +139,10 @@ const LLMChatBot = ({ setShowChat }: Props) => {
       </div>
 
       {/* // messages list */}
-      <div ref={messagesRef} className="flex flex-col gap-2 flex-1 px-2 py-4 overflow-y-scroll">
+      <div
+        ref={messagesRef}
+        className="flex flex-col gap-2 flex-1 px-2 py-4 overflow-y-scroll"
+      >
         {messages.map((msg, index) => {
           return (
             <div
@@ -155,6 +163,9 @@ const LLMChatBot = ({ setShowChat }: Props) => {
             {aiResponse}
           </div>
         )}
+        {
+          loading && <Typing />
+        }
       </div>
 
       {/* // chat component */}

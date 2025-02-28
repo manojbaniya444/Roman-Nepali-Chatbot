@@ -26,7 +26,7 @@ const LLMPlayground = () => {
   // Create a ref to store the current question
   const currentQuestion = useRef("");
 
-  const sendQuestion = () => {
+  const sendQuestion = async () => {
     if (!question) {
       alert("Please enter a question.");
       return;
@@ -47,64 +47,61 @@ const LLMPlayground = () => {
     setAiResponse("");
     setQuestion(""); // Clear input after sending
 
-    fetch("https://2daa-35-230-9-191.ngrok-free.app/chat", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        question: currentQuestion.current,
-        context,
-        stream: true,
-      }),
-    })
-      .then((response) => {
-        if (!response.body) {
-          throw new Error("Response body is null");
-        }
-        const reader = response.body.getReader();
-        const decoder = new TextDecoder();
-
-        let accumulatedResponse = "";
-
-        function read() {
-          reader.read().then(({ done, value }) => {
-            if (done) return;
-
-            const text = decoder.decode(value);
-            const formattedText = text
-              .replace(/data: /g, "")
-              .replace(/\n\n/g, "");
-
-            if (formattedText === "<eos>") {
-              setMessages((prev) => [
-                ...prev,
-                {
-                  sender: "AI",
-                  message: accumulatedResponse,
-                },
-              ]);
-              setAiResponse("");
-              return;
-            }
-
-            accumulatedResponse += formattedText;
-            setAiResponse(accumulatedResponse);
-            read();
-          });
-        }
-        read();
-      })
-      .catch((error) => {
-        console.error("Error:", error);
-        setMessages((prev) => [
-          ...prev,
-          {
-            sender: "AI",
-            message: "Sorry, there was an error processing your request.",
-          },
-        ]);
+    try {
+      const response = await fetch(`${import.meta.env.VITE_NGROK_SERVER}/chat`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          question: currentQuestion.current,
+        }),
       });
+
+      if (!response.ok) {
+        throw new Error(`Server error: ${response.status}`);
+      }
+
+      if (!response.body) {
+        throw new Error("Response body is null");
+      }
+
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder();
+      let accumulatedResponse = "";
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+
+        const text = decoder.decode(value);
+        const formattedText = text.replace(/data: /g, "").replace(/\n\n/g, "");
+
+        if (formattedText === "<eos>") {
+          setMessages((prev) => [
+            ...prev,
+            {
+              sender: "AI",
+              message: accumulatedResponse,
+            },
+          ]);
+          setAiResponse("")
+          return;
+        }
+
+        accumulatedResponse += formattedText;
+        setAiResponse(accumulatedResponse);
+      }
+    } catch (error) {
+      console.error("Error:", error);
+      setMessages((prev) => [
+        ...prev,
+        {
+          sender: "AI",
+          message: "Sorry, there was an error processing your request.",
+        },
+      ]);
+    }
   };
 
   return (
