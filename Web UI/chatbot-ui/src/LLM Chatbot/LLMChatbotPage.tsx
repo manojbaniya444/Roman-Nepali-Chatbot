@@ -24,8 +24,9 @@ const LLMChatbotPage = (props: Props) => {
           return <ProductCard product={p} key={p.id} />;
         })}
       </div>
-      {/* // chatbot */}
-      {showChat && <LLMChatBot setShowChat={setShowChat} />}
+      <div style={{ display: showChat ? "block" : "none" }}>
+        <LLMChatBot setShowChat={setShowChat} />
+      </div>
       <Button
         className="fixed bottom-2 right-2"
         onClick={() => setShowChat(!showChat)}

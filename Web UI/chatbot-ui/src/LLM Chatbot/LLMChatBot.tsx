@@ -11,6 +11,14 @@ type Message = {
   message: string;
 };
 
+const Generating: React.FC = () => {
+  return (
+    <div className="flex space-x-2">
+      <div className="w-4 h-4 border-2 border-blue-500 border-t-transparent border-solid rounded-full animate-spin"></div>
+    </div>
+  );
+};
+
 const LLMChatBot = ({ setShowChat }: Props) => {
   const [messages, setMessages] = useState<Message[]>([
     {
@@ -21,6 +29,7 @@ const LLMChatBot = ({ setShowChat }: Props) => {
   const [question, setQuestion] = useState<string>("");
   const [aiResponse, setAiResponse] = useState("");
   const [loading, setLoading] = useState(false);
+  const [responseGenerating, setResponseGenerating] = useState(false)
 
   const messagesRef = useRef<HTMLDivElement>(null);
 
@@ -66,6 +75,7 @@ const LLMChatBot = ({ setShowChat }: Props) => {
     setQuestion(""); // Clear input after sending
 
     setLoading(true);
+    setResponseGenerating(true);
 
     fetch(`${import.meta.env.VITE_NGROK_SERVER}/chat`, {
       method: "POST",
@@ -103,6 +113,7 @@ const LLMChatBot = ({ setShowChat }: Props) => {
                 },
               ]);
               setAiResponse("");
+              setResponseGenerating(false)
               return;
             }
 
@@ -122,6 +133,7 @@ const LLMChatBot = ({ setShowChat }: Props) => {
             message: "Sorry, there was an error processing your request.",
           },
         ]);
+        setResponseGenerating(false)
       })
       .finally(() => {
         setLoading(false);
@@ -165,6 +177,9 @@ const LLMChatBot = ({ setShowChat }: Props) => {
         )}
         {
           loading && <Typing />
+        }
+        {
+          !loading && responseGenerating && <Generating />
         }
       </div>
 

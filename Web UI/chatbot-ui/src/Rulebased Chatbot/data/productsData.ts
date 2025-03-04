@@ -35,7 +35,7 @@ const productsList: Product[] = [
     name: "Macbook Pro",
     imageUrl: "https://allelectronics.mos.ap-southeast-2.sufybkt.com/MacBook-Pro-2021.webp",
     stockItems: 2,
-    price: 260000,
+    price: 410000,
     category: "laptop",
     description:
       "The MacBook Pro is a high-performance laptop with a Retina display and M1 chip.",
@@ -55,7 +55,7 @@ const productsList: Product[] = [
     name: "Sony Bravia TV",
     imageUrl: "https://allelectronics.mos.ap-southeast-2.sufybkt.com/sony%20image.jpeg",
     stockItems: 3,
-    price: 90000,
+    price: 80000,
     category: "tv",
     description:
       "The Sony Bravia TV offers stunning 4K resolution and smart TV capabilities.",
@@ -86,7 +86,7 @@ const productsList: Product[] = [
     imageUrl: "https://allelectronics.mos.ap-southeast-2.sufybkt.com/casio%20calculator.webp",
     stockItems: 2,
     category: "calculator",
-    price: 2600,
+    price: 1500,
     description:
       "Casio Calculator best for Engineering students but everyone can use it.",
   },
