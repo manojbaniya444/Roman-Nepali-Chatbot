@@ -48,7 +48,7 @@ const LLMPlayground = () => {
     setQuestion(""); // Clear input after sending
 
     try {
-      const response = await fetch(`${import.meta.env.VITE_NGROK_SERVER}/chat`, {
+      const response = await fetch(`${import.meta.env.VITE_NGROK_SERVER}/chat-instruct`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -114,13 +114,13 @@ const LLMPlayground = () => {
           placeholder="Enter your question"
           className="border border-gray-300 rounded-xl p-2 w-full"
         />
-        <input
+        {/* <input
           type="text"
           value={context}
           onChange={(e) => setContext(e.target.value)}
           placeholder="Enter context (optional)"
           className="border border-gray-300 rounded-xl p-2 w-full"
-        />
+        /> */}
         <button
           onClick={sendQuestion}
           className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition-colors"
