@@ -26,5 +26,6 @@ This chatbot generates the response using large language model by fine tuning on
 ## Final Fine Tune and Server Ngrok
 [1500 step Gemma Format 9B](./Final%20LLM%20base%20chatbot%20files/notebooks/Gemma_9B_GemmaPromptTemplate_Roman_Nepali.ipynb)
 [Serving streaming with flask and ngrok](./Final%20LLM%20base%20chatbot%20files/notebooks/unsloth_9b_server_ngrok.ipynb)
+[LLM Server Streaming for RAG and Instruct Chatbot](./Final%20LLM%20base%20chatbot%20files/notebooks/LLM_ChatServer_Gemma29B.ipynb)
 
 ## Demo
