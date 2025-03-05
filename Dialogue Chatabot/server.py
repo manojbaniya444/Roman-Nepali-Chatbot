@@ -50,11 +50,14 @@ async def chat(session_id: str, question: Question):
     print(chat_states)
     return {"response": response, "states": chat_states}
 
-@app.get("/resetChat/${session_id}")
+@app.post("/resetChat/")
 async def resetChat(session_id: str):
     if session_id in sessions:
         bot = sessions.get(session_id)
         bot._reset_dialogue()
+        return {"response": "Chat reset"}
+    else:
+        return {"response": "No session found to reset."}
 
 if __name__ == "__main__":
     bot = EcommerceBot(intent_model, entity_model)

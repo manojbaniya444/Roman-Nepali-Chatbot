@@ -15,7 +15,7 @@ const initialState = {
   buttonOptions: [
     "Browse Products",
     "Order Tracking",
-    "Contact Support",
+    // "Contact Support",
     "Order Product",
   ],
   isPendingState: false,

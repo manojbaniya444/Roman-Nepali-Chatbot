@@ -1,5 +1,5 @@
 import React from "react";
-import { AiResponseType } from "./api";
+import { AiResponseType, resetChatState } from "./api";
 
 type Prop = {
   aiResponse: AiResponseType | null;
@@ -10,12 +10,12 @@ const MLVisualization = ({ aiResponse }: Prop) => {
 
   return (
     <div className="flex-1 py-5 flex flex-col px-5 gap-5 bg-white">
-      {/* <button
-        className="bg-gray-100 px-4 py-2 rounded-lg"
-        onClick={resetChatHandler}
+      <button
+        className="bg-gray-100 px-4 py-2 rounded-lg self-start cursor-pointer hover:bg-gray-500 hover:text-white"
+        onClick={resetChatState}
       >
         Reset Chat
-      </button> */}
+      </button>
 
       {/* // AI Response */}
       {aiResponse?.response && (
@@ -102,9 +102,9 @@ const MLVisualization = ({ aiResponse }: Prop) => {
                 >
                   <p className="w-[140px] text-sm">
                     {intent[0]}{" "}
-                    <span className="text-black text-sm font-bold">
+                    {/* <span className="text-black text-sm font-bold">
                       ({(intent[1] * 100).toFixed(2)}%)
-                    </span>
+                    </span> */}
                   </p>
                   <div className="flex-1 bg-gray-200 rounded-l-md h-6 relative">
                     <div

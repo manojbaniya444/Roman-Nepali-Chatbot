@@ -40,8 +40,12 @@ export const resetChatState = async () => {
   const userSessionId = 1;
   try {
     const response = await fetch(
-      `http://localhost:8000/resetchat/${userSessionId}`
+      `http://localhost:8000/resetChat?session_id=${userSessionId}`, {
+      method: "POST"
+      }
     );
+    const resetResponse = await response.json()
+    console.log(resetResponse)
     console.log("Chat reset success");
   } catch (error) {
     console.log("Error reseting chat", error);
