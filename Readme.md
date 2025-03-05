@@ -21,6 +21,7 @@ This chatbot uses machine learning algorithms to identify user intent and proces
 - [ML Chatbot](./Dialogue%20Chatabot/)
 
 ![ML Chatbot](./Images/rule-chatbot.png)
+![ML Chatbot Another](./Images/ml-chatbot-another.png)
 
 ## Generative chatbot: fine tuning llm
 
